@@ -1,0 +1,759 @@
+1
+00:00:00,000 --> 00:00:07,000
+Entonces, ¿qué pasa si, de un día para otro, se abren las puertas de las cárceles y se libera a más de 20.000 personas?
+
+2
+00:00:07,000 --> 00:00:09,000
+Parece el comienzo de una película, ¿verdad?
+
+3
+00:00:09,000 --> 00:00:13,000
+Sin embargo, sucedió de verdad en Italia en 2006.
+
+4
+00:00:13,000 --> 00:00:18,000
+Fue un experimento increíble, aunque no del todo intencionado.
+
+5
+00:00:18,000 --> 00:00:23,000
+Y hoy haremos precisamente eso, una investigación, para entender qué nos enseñó este evento
+
+6
+00:00:23,000 --> 00:00:26,000
+y para responder a una pregunta fundamental sobre la criminalidad.
+
+7
+00:00:26,000 --> 00:00:31,000
+Y la pregunta, el misterio en el centro de nuestra investigación, es precisamente esta.
+
+8
+00:00:31,000 --> 00:00:34,000
+Pero la cárcel, ¿cómo reduce el crimen?
+
+9
+00:00:34,000 --> 00:00:38,000
+¿Funciona porque, ya sabes, asusta a las personas, las desanima a cometer delitos,
+
+10
+00:00:38,000 --> 00:00:42,000
+o su eficacia es mucho más terrenal, mucho más práctica,
+
+11
+00:00:42,000 --> 00:00:45,000
+es decir, simplemente ¿quién está dentro no puede delinquir fuera?
+
+12
+00:00:45,000 --> 00:00:47,000
+¿Es un gran dilema, no?
+
+13
+00:00:47,000 --> 00:02:52,000
+Exactamente, mira, en criminología existen precisamente estos dos conceptos clave.
+
+14
+00:00:52,000 --> 00:00:56,000
+Por un lado está la disuasión, que es la idea de que la amenaza de la prisión
+
+15
+00:00:56,000 --> 00:00:59,000
+asuste lo suficiente como para detener a los potenciales criminales.
+
+16
+00:00:59,000 --> 00:01:03,000
+Por el otro está la incapacitación, que es, por así decirlo, mucho más directa.
+
+17
+00:01:03,000 --> 00:01:07,000
+Si estás en la cárcel, simplemente no puedes andar por ahí cometiendo robos.
+
+18
+00:01:07,000 --> 00:01:11,000
+Pues bien, es precisamente aquí donde el indulto de 2006 se vuelve tan interesante.
+
+19
+00:01:11,000 --> 00:01:15,000
+Porque nos ofreció, en bandeja de plata, una ocasión increíble,
+
+20
+00:01:15,000 --> 00:01:20,000
+para poner a prueba estas dos teorías y ver cuál pesa más en la realidad.
+
+21
+00:01:20,000 --> 00:01:25,000
+Porque para resolver un caso se necesitan pruebas, e increíblemente la Italia de 2006
+
+22
+00:01:25,000 --> 00:01:30,000
+se convirtió en una especie de escena del crimen perfecta para los estudiosos.
+
+23
+00:01:30,000 --> 00:01:35,000
+Lo que sucedió creó las condiciones para un llamado experimento natural,
+
+24
+00:01:35,000 --> 00:01:38,000
+prácticamente un laboratorio a cielo abierto para estudiar la criminalidad.
+
+25
+00:01:38,000 --> 00:01:42,000
+Para entender por qué se llegó a tanto, debemos dar un paso atrás
+
+26
+00:01:42,000 --> 00:01:46,000
+y observar la situación de las cárceles italianas en aquellos años.
+
+27
+00:01:46,000 --> 00:01:48,000
+Hablamos de una situación realmente explosiva.
+
+28
+00:01:48,000 --> 00:01:53,000
+El sistema estaba literalmente al borde del colapso, con un hacinamiento que duraba años
+
+29
+00:01:53,000 --> 00:01:57,000
+y que había hecho que las condiciones de vida en el interior fueran simplemente insostenibles.
+
+30
+00:01:57,000 --> 00:02:03,000
+Y para dar una idea concreta basta un número, 138% en junio de 2006,
+
+31
+00:02:03,000 --> 00:02:06,000
+esa era la tasa de ocupación de las cárceles.
+
+32
+00:02:06,000 --> 00:02:10,000
+Imaginen 100 plazas disponibles y 138 personas ocupándolas.
+
+33
+00:02:10,000 --> 00:02:13,000
+Era una bomba de relojería, estaba claro.
+
+34
+00:02:13,000 --> 00:02:17,000
+Y en ese momento el Gobierno entendió que debía hacer algo, y algo drástico.
+
+35
+00:02:18,000 --> 00:02:20,000
+De hecho, aquí está la cronología de los eventos.
+
+36
+00:02:20,000 --> 00:02:23,000
+La presión sube, sube, sube durante años.
+
+37
+00:02:23,000 --> 00:02:27,000
+Y en julio de 2006 llega la decisión, el indulto.
+
+38
+00:02:27,000 --> 00:02:30,000
+Un mes después, en agosto, sucede lo impensable.
+
+39
+00:02:30,000 --> 00:02:35,000
+Miles y miles de detenidos salen de prisión prácticamente todos a la vez.
+
+40
+00:02:35,000 --> 00:02:38,000
+Fue un shock enorme, repentino para todo el sistema.
+
+41
+00:02:38,000 --> 00:02:41,000
+Y desde el punto de vista científico, algo medible.
+
+42
+00:02:41,000 --> 00:02:46,000
+Pero hablemos del alcance de este shock, porque fue asombroso.
+
+43
+00:02:46,000 --> 00:02:51,000
+En un solo mes, la población carceraria se desplomó un 36%.
+
+44
+00:02:51,000 --> 00:02:52,000
+Pensemos en ello un momento.
+
+45
+00:02:52,000 --> 00:02:56,000
+Es como si más de un tercio de las prisiones se hubiera vaciado de golpe.
+
+46
+00:02:56,000 --> 00:03:02,000
+Algo nunca antes visto, que obviamente creó un conjunto de datos increíble para nuestra investigación.
+
+47
+00:03:02,000 --> 00:03:05,000
+Vale, así que tenemos la escena del crimen.
+
+48
+00:03:05,000 --> 00:03:07,000
+Tenemos el móvil, por así decirlo.
+
+49
+00:03:07,000 --> 00:03:10,000
+Ahora, como en toda investigación que se precie,
+
+50
+00:03:10,000 --> 00:03:12,000
+es el momento de analizar las pruebas.
+
+51
+00:03:12,000 --> 00:03:16,000
+Los investigadores que estudiaron este caso siguieron tres pistas,
+
+52
+00:03:16,000 --> 00:03:20,000
+tres pistas fundamentales para entender qué pasó realmente.
+
+53
+00:03:20,000 --> 00:03:24,000
+Exacto, son las tres preguntas que intentaron responder.
+
+54
+00:03:24,000 --> 00:03:29,000
+La primera, ¿qué pasó con la criminalidad de inmediato, justo después de la liberación?
+
+55
+00:03:29,000 --> 00:03:32,000
+La segunda, ¿qué pasó después?
+
+56
+00:03:32,000 --> 00:03:35,000
+A medida que las cárceles comenzaron a llenarse de nuevo.
+
+57
+00:03:35,000 --> 00:03:41,000
+Y la tercera, muy importante, ¿el impacto fue el mismo en toda Italia
+
+58
+00:03:41,000 --> 00:03:44,000
+o cambió de provincia a provincia?
+
+59
+00:03:44,000 --> 00:03:48,000
+Entonces, empecemos con la primera pista, el impacto inmediato.
+
+60
+00:03:48,000 --> 00:03:50,000
+Aquí la prueba es casi abrumadora.
+
+61
+00:03:50,000 --> 00:03:53,000
+Si se miran los datos sobre criminalidad a nivel nacional,
+
+62
+00:03:53,000 --> 00:03:55,000
+se ve una ruptura clara, un escalón.
+
+63
+00:03:55,000 --> 00:03:59,000
+Justo en correspondencia con la liberación masiva de agosto de 2006,
+
+64
+00:03:59,000 --> 00:04:01,000
+los delitos dan un salto hacia arriba.
+
+65
+00:04:01,000 --> 00:04:03,000
+Es una correlación casi perfecta.
+
+66
+00:04:03,000 --> 00:04:06,000
+Y este gráfico lo muestra claramente.
+
+67
+00:04:06,000 --> 00:04:09,000
+Observen la diferencia entre antes del indulto, en julio,
+
+68
+00:04:09,000 --> 00:04:11,000
+y justo después, en septiembre.
+
+69
+00:04:11,000 --> 00:04:12,000
+Hay un repunte.
+
+70
+00:04:12,000 --> 00:04:16,000
+Y hablamos principalmente de delitos como hurtos y robos.
+
+71
+00:04:16,000 --> 00:04:18,000
+El aumento es tan rápido, tan neto,
+
+72
+00:04:18,000 --> 00:04:23,000
+que es prácticamente imposible no vincularlo directamente con el indulto.
+
+73
+00:04:23,000 --> 00:04:26,000
+Bien, sigamos con la segunda pista.
+
+74
+00:04:26,000 --> 00:04:29,000
+Después de ese gran vaciado, las cárceles, como es obvio,
+
+75
+00:04:29,000 --> 00:04:31,000
+comenzaron a llenarse de nuevo,
+
+76
+00:04:31,000 --> 00:04:33,000
+pero aquí hay un detalle fundamental.
+
+77
+00:04:33,000 --> 00:04:37,000
+Quienes las llenaban no eran tanto los ex detenuti que regresaban,
+
+78
+00:04:37,000 --> 00:04:39,000
+sino más bien criminales nuevos,
+
+79
+00:04:39,000 --> 00:04:41,000
+personas que eran arrestadas por primera vez.
+
+80
+00:04:41,000 --> 00:04:43,000
+Y esto es muy interesante.
+
+81
+00:04:43,000 --> 00:04:46,000
+Sí, porque aquí surge un dato que desconcierta un poco.
+
+82
+00:04:46,000 --> 00:04:48,000
+Al analizar precisamente estos nuevos ingresos,
+
+83
+00:04:48,000 --> 00:04:50,000
+los investigadores hicieron un cálculo
+
+84
+00:04:50,000 --> 00:04:53,000
+y descubrieron que su efecto de incapacitación
+
+85
+00:04:53,000 --> 00:04:55,000
+era incluso mayor.
+
+86
+00:04:55,000 --> 00:04:58,000
+En la práctica, cada nuevo detenido, que ocupaba el lugar de uno antiguo,
+
+87
+00:04:58,000 --> 00:04:59,000
+por así decirlo,
+
+88
+00:04:59,000 --> 00:05:02,000
+evitó hasta 46 delitos al año.
+
+89
+00:05:02,000 --> 00:05:04,000
+Esto nos dice algo importante.
+
+90
+00:05:04,000 --> 00:05:07,000
+En promedio, este nuevo grupo era criminalmente más prolífico
+
+91
+00:05:07,000 --> 00:05:09,000
+que los que habían sido liberados.
+
+92
+00:05:09,000 --> 00:05:12,000
+Y llegamos a la tercera y última pista,
+
+93
+00:05:12,000 --> 00:05:14,000
+la que quizás sea la más reveladora.
+
+94
+00:05:14,000 --> 00:05:18,000
+Aquí la investigación se traslada, hace un zoom de lo nacional a lo local.
+
+95
+00:05:18,000 --> 00:05:22,000
+Los investigadores examinaron las 103 provincias italianas
+
+96
+00:05:22,000 --> 00:05:24,000
+y observaron dos cosas.
+
+97
+00:05:24,000 --> 00:05:27,000
+Cuántos detenidos indultados regresaron a esa provincia específica
+
+98
+00:05:27,000 --> 00:05:30,000
+y cómo cambió la criminalidad allí.
+
+99
+00:05:30,000 --> 00:05:33,000
+Y aquí, en mi opinión, está la verdadera clave.
+
+100
+00:05:33,000 --> 00:05:35,000
+Surgió un patrón clarísimo.
+
+101
+00:05:35,000 --> 00:05:37,000
+En las provincias que, ya antes del indulto,
+
+102
+00:05:37,000 --> 00:05:39,000
+tenían tasas de encarcelamiento altas,
+
+103
+00:05:39,000 --> 00:05:42,000
+el aumento de los delitos por cada detenido liberado
+
+104
+00:05:42,000 --> 00:05:44,000
+fue menor.
+
+105
+00:05:44,000 --> 00:05:46,000
+La analogía de la pesca encaja perfectamente.
+
+106
+00:05:46,000 --> 00:05:47,000
+Si pescas en un lago,
+
+107
+00:05:47,000 --> 00:05:49,000
+al principio consigues los peces más grandes,
+
+108
+00:05:49,000 --> 00:05:50,000
+los más fáciles,
+
+109
+00:05:50,000 --> 00:05:52,000
+pero cuanto más sigues pescando,
+
+110
+00:05:52,000 --> 00:05:53,000
+más difícil se vuelve,
+
+111
+00:05:53,000 --> 00:05:55,000
+y por cada hora de esfuerzo obtienes menos.
+
+112
+00:05:55,000 --> 00:05:57,000
+Esto en economía se llama
+
+113
+00:05:57,000 --> 00:05:59,000
+principio de rendimientos decrecientes
+
+114
+00:05:59,000 --> 00:06:01,000
+y, al parecer, también se aplica al encarcelamiento.
+
+115
+00:06:01,000 --> 00:06:04,000
+En este punto, con las tres pistas sobre la mesa,
+
+116
+00:06:04,000 --> 00:06:06,000
+podemos emitir nuestro veredicto
+
+117
+00:06:06,000 --> 00:06:08,000
+y la conclusión a la que nos lleva
+
+118
+00:06:08,000 --> 00:06:10,000
+esta investigación es potente
+
+119
+00:06:10,000 --> 00:06:13,000
+y, en cierto modo, también un poco contraintuitiva,
+
+120
+00:06:13,000 --> 00:06:16,000
+sobre cómo funciona realmente la prisión.
+
+121
+00:06:16,000 --> 00:06:19,000
+El veredicto del estudio, el científico,
+
+122
+00:06:19,000 --> 00:06:21,000
+se resume perfectamente en esta frase.
+
+123
+00:06:21,000 --> 00:06:23,000
+Los efectos de prevención del crimen
+
+124
+00:06:23,000 --> 00:06:25,000
+del encarcelamiento disminuyen
+
+125
+00:06:25,000 --> 00:06:27,000
+al aumentar la tasa de encarcelamiento.
+
+126
+00:06:27,000 --> 00:06:30,000
+Es el corazón de todo el descubrimiento.
+
+127
+00:06:30,000 --> 00:06:31,000
+¡Exacto!
+
+128
+00:06:31,000 --> 00:06:34,000
+Si queremos traducirlo a palabras sencillas, significa esto:
+
+129
+00:06:34,000 --> 00:06:36,000
+meter a la gente en prisión
+
+130
+00:06:36,000 --> 00:06:38,000
+para evitar que cometa delitos,
+
+131
+00:06:38,000 --> 00:06:41,000
+la incapacitación funciona, no hay duda,
+
+132
+00:06:41,000 --> 00:06:43,000
+pero hay un pero.
+
+133
+00:06:43,000 --> 00:06:45,000
+Su efecto no es siempre el mismo.
+
+134
+00:06:45,000 --> 00:06:47,000
+Al contrario, cuanta más gente metes,
+
+135
+00:06:47,000 --> 00:06:49,000
+menos eficaz se vuelve
+
+136
+00:06:49,000 --> 00:06:50,000
+cada nuevo arresto.
+
+137
+00:06:50,000 --> 00:06:51,000
+Es lógico.
+
+138
+00:06:51,000 --> 00:06:53,000
+Los primeros que sacas de circulación
+
+139
+00:06:53,000 --> 00:06:55,000
+son los criminales más activos,
+
+140
+00:06:55,000 --> 00:06:56,000
+pero a medida que avanzas,
+
+141
+00:06:56,000 --> 00:06:57,000
+terminas encarcelando
+
+142
+00:06:57,000 --> 00:06:59,000
+a personas cada vez menos peligrosas.
+
+143
+00:06:59,000 --> 00:07:01,000
+Pero atención,
+
+144
+00:07:01,000 --> 00:07:03,000
+la investigación aún no está del todo cerrada.
+
+145
+00:07:03,000 --> 00:07:04,000
+Hay una última parte,
+
+146
+00:07:04,000 --> 00:07:06,000
+una especie de giro inesperado.
+
+147
+00:07:06,000 --> 00:07:08,000
+Además de todo esto,
+
+148
+00:07:08,000 --> 00:07:09,000
+debemos preguntarnos,
+
+149
+00:07:09,000 --> 00:10:12,000
+pero desde el punto de vista puramente económico,
+
+150
+00:07:12,000 --> 00:07:15,000
+¿el indulto fue una medida conveniente?
+
+151
+00:07:15,000 --> 00:07:16,000
+Así es,
+
+152
+00:07:16,000 --> 00:07:18,000
+es el momento del análisis coste-beneficio.
+
+153
+00:07:18,000 --> 00:07:19,000
+Por un lado,
+
+154
+00:07:19,000 --> 00:07:21,000
+tenemos el dinero ahorrado por el Estado,
+
+155
+00:07:21,000 --> 00:07:22,000
+por el otro,
+
+156
+00:07:22,000 --> 00:07:24,000
+los costes que la sociedad tuvo que pagar,
+
+157
+00:07:24,000 --> 00:07:27,000
+cuál de los dos platos de la balanza pesa más.
+
+158
+00:07:27,000 --> 00:07:29,000
+Bueno, empecemos por los beneficios.
+
+159
+00:07:29,000 --> 00:07:31,000
+El cálculo es bastante directo.
+
+160
+00:07:31,000 --> 00:07:32,000
+Al no tener que mantener más
+
+161
+00:07:32,000 --> 00:07:34,000
+el alojamiento, la comida y la vigilancia
+
+162
+00:07:34,000 --> 00:07:36,000
+de más de 25.000 personas,
+
+163
+00:07:36,000 --> 00:07:38,000
+el Estado italiano ahorró
+
+164
+00:07:38,000 --> 00:07:39,000
+una cifra considerable.
+
+165
+00:07:39,000 --> 00:07:42,000
+Hablamos de unos 245 millones de euros.
+
+166
+00:07:42,000 --> 00:07:44,000
+Y ahora, los costes.
+
+167
+00:07:44,000 --> 00:07:46,000
+Y aquí, la cifra es,
+
+168
+00:07:46,000 --> 00:07:48,000
+bueno, es de otro orden de magnitud.
+
+169
+00:07:48,000 --> 00:07:50,000
+Los costes sociales,
+
+170
+00:07:50,000 --> 00:07:52,000
+es decir, el valor de todos los delitos adicionales
+
+171
+00:07:52,000 --> 00:07:54,000
+cometidos por quienes fueron liberados,
+
+172
+00:07:54,000 --> 00:07:55,000
+se estimaron
+
+173
+00:07:55,000 --> 00:07:58,000
+en hasta 2.200 millones de euros.
+
+174
+00:07:58,000 --> 00:08:00,000
+Es una cifra enorme,
+
+175
+00:08:00,000 --> 00:08:02,000
+que hace palidecer los ahorros del Estado.
+
+176
+00:08:02,000 --> 00:08:04,000
+Al final, por tanto,
+
+177
+00:08:04,000 --> 00:08:06,000
+la investigación sobre el indulto de 2006
+
+178
+00:08:06,000 --> 00:08:09,000
+nos deja con una pregunta muy importante.
+
+179
+00:08:09,000 --> 00:08:11,000
+Nos mostró que sí,
+
+180
+00:08:11,000 --> 00:08:13,000
+la incapacitación funciona,
+
+181
+00:08:13,000 --> 00:08:15,000
+pero no hasta el infinito,
+
+182
+00:08:15,000 --> 00:08:16,000
+y que las decisiones políticas
+
+183
+00:08:16,000 --> 00:08:18,000
+en este campo tienen consecuencias
+
+184
+00:08:18,000 --> 00:08:20,000
+económicas y sociales enormes.
+
+185
+00:08:20,000 --> 00:08:22,000
+La verdadera pregunta, por tanto,
+
+186
+00:08:22,000 --> 00:08:24,000
+es cuál es el punto de equilibrio adecuado
+
+187
+00:08:24,000 --> 00:08:26,000
+entre los costes y la seguridad;
+
+188
+00:08:26,000 --> 00:08:27,000
+no hay una respuesta fácil,
+
+189
+00:08:27,000 --> 00:08:29,000
+y es probablemente uno de los desafíos
+
+190
+00:08:29,000 --> 00:08:32,000
+más complejos para cualquier país.

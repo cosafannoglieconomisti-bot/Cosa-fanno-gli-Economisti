@@ -1,0 +1,35 @@
+# Python
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Secrets and Tokens
+token*.pickle
+client_secrets.json
+
+# Local files
+.DS_Store
+.tmp.drivedownload/
+.tmp.driveupload/
+
+# Agent intermediate files
+**/.tmp/
+
+# Large data/media files
+Papers/
+Cleaned/**/*.mp4
+!Cleaned/video_tracking.json
+!Cleaned/**/
+!Cleaned/**/*.md
+!Cleaned/**/*.png
+!Cleaned/**/*.txt
+!Cleaned/**/*.srt
+!Cleaned/**/*.vtt
+Temp/
+# Added by code-review-graph
+.code-review-graph/

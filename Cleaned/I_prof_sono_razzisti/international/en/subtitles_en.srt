@@ -1,0 +1,431 @@
+1
+00:00:00,000 --> 00:00:05,040
+So today we're talking about a truly important research study that touches on a delicate topic,
+
+2
+00:00:05,040 --> 00:00:09,960
+unconscious biases in Italian schools; we're going to see how stereotypes, even
+
+3
+00:00:09,960 --> 00:00:14,679
+those we don't know we have, can have a real, concrete impact on the evaluations
+
+4
+00:00:14,679 --> 00:00:15,679
+of students.
+
+5
+00:00:15,679 --> 00:00:16,679
+Exactly.
+
+6
+00:00:16,679 --> 00:00:20,719
+And the central question where it all begins is precisely this.
+
+7
+00:00:20,719 --> 00:00:25,960
+Let's imagine for a moment two students, one Italian and one immigrant, who in a test, identical
+
+8
+00:00:25,960 --> 00:00:30,320
+for everyone and, above all, anonymous, get exactly the same score.
+
+9
+00:00:30,320 --> 00:00:36,039
+The question is, in the end, will their teacher give them both the same grade? Well, the answer,
+
+10
+00:00:36,039 --> 00:00:38,679
+as we're about to discover, isn't that simple.
+
+11
+00:00:38,679 --> 00:00:44,200
+Okay, let's start with the problem that researchers focused on in our middle schools:
+
+12
+00:00:44,200 --> 00:00:48,960
+something doesn't add up, a difference in grades that isn't visible to the naked eye, a real
+
+13
+00:00:48,960 --> 00:00:50,679
+hidden gap.
+
+14
+00:00:50,679 --> 00:00:55,240
+Let's take a look at this graph, because this is where we see the heart of the matter.
+
+15
+00:00:55,320 --> 00:01:00,280
+Here we see the grades given by teachers to students who, as we said, in national
+
+16
+00:01:00,280 --> 00:01:03,520
+standardized tests, demonstrated the same level of preparation.
+
+17
+00:01:03,520 --> 00:01:08,599
+The first bar, the slightly higher one, represents native students; the second,
+
+18
+00:01:08,599 --> 00:01:09,599
+immigrant students.
+
+19
+00:01:09,599 --> 00:01:12,359
+And the difference, even if small, is always there.
+
+20
+00:01:12,359 --> 00:01:16,920
+With equal competence, immigrant students end up with a grade that is, on average, slightly
+
+21
+00:01:16,920 --> 00:01:17,920
+lower.
+
+22
+00:01:17,920 --> 00:01:23,960
+Sure, 0.14 points might seem negligible, but it's crucial to understand its real weight.
+
+23
+00:01:23,960 --> 00:01:28,200
+This small gap, imagine, is almost as large as the impact that the mother's level of
+
+24
+00:01:28,200 --> 00:01:32,120
+education has on a child's academic performance, and we all know how much
+
+25
+00:01:32,120 --> 00:01:33,880
+socio-economic factors matter.
+
+26
+00:01:33,880 --> 00:01:36,680
+In short, we're not talking about a meaningless difference.
+
+27
+00:01:36,680 --> 00:01:43,600
+And so the question arises naturally: why does this happen? Where does this
+
+28
+00:01:43,600 --> 00:01:44,600
+difference come from?
+
+29
+00:01:44,600 --> 00:01:50,460
+To understand it, researchers tried to measure something very, very elusive:
+
+30
+00:01:50,460 --> 00:01:55,380
+implicit biases, the unconscious ones of teachers.
+
+31
+00:01:55,380 --> 00:02:00,700
+Exactly, and let's clarify what we mean by implicit bias.
+
+32
+00:02:00,700 --> 00:02:04,140
+We're not talking about a conscious choice to discriminate.
+
+33
+00:02:04,140 --> 00:02:09,420
+No, they are mental associations that trigger automatically, stereotypes that we breathe in
+
+34
+00:02:09,420 --> 00:02:14,140
+from the culture we live in, and that can, without us even noticing, guide
+
+35
+00:02:14,140 --> 00:02:15,780
+our decisions.
+
+36
+00:02:15,780 --> 00:02:21,699
+To try to measure them, a test called the Implicit Association Test, or IAT, is used.
+
+37
+00:02:21,699 --> 00:02:23,420
+In practice, it works like this.
+
+38
+00:02:23,420 --> 00:02:27,979
+The teacher is asked to associate names like Fatima
+
+39
+00:02:27,979 --> 00:02:30,819
+or Francesca with positive or negative words as quickly as possible.
+
+40
+00:02:30,819 --> 00:02:34,740
+The basic idea is that if in our head the association between a foreign name and a
+
+41
+00:02:34,740 --> 00:02:38,860
+negative adjective is more automatic, it takes us a fraction of a second longer to make the opposite association,
+
+42
+00:02:38,860 --> 00:02:43,060
+the counter-intuitive one, like a foreign name and a positive adjective.
+
+43
+00:02:43,060 --> 00:02:47,500
+That small delay, measured in milliseconds, is the indicator of implicit bias.
+
+44
+00:02:47,500 --> 00:02:51,819
+And the results, well, they were quite surprising.
+
+45
+00:02:51,819 --> 00:02:56,580
+This graph shows us how negative implicit bias toward
+
+46
+00:02:56,580 --> 00:02:58,979
+immigrants is distributed among the teachers tested.
+
+47
+00:02:58,979 --> 00:03:06,259
+70%—a huge slice—showed moderate to strong bias, and only a tiny
+
+48
+00:03:06,259 --> 00:03:09,060
+5% had none at all.
+
+49
+00:03:09,060 --> 00:03:14,580
+Careful, this doesn't mean that 95% of teachers are racist, but that almost
+
+50
+00:03:14,580 --> 00:03:18,580
+all of us have negative unconscious associations inside.
+
+51
+00:03:18,580 --> 00:03:23,780
+Okay, once we measured this bias, the next question was:
+
+52
+00:03:23,780 --> 00:03:29,259
+what happens if we confront teachers with these biases? Can knowing they have them
+
+53
+00:03:29,259 --> 00:03:31,699
+change the way they evaluate?
+
+54
+00:03:31,699 --> 00:03:36,180
+To find out, they moved from theory to practice with an actual experiment
+
+55
+00:03:36,180 --> 00:03:37,500
+in schools.
+
+56
+00:03:37,500 --> 00:03:43,219
+Experiment one: the design of the experiment was as simple as it was, I'd say, ingenious.
+
+57
+00:03:43,219 --> 00:03:46,419
+They took the teachers and divided them into two groups.
+
+58
+00:03:46,419 --> 00:03:51,500
+To the first group, which we'll call the "informed" group, they communicated the result of their
+
+59
+00:03:51,500 --> 00:03:54,539
+bias test before they gave the final grades.
+
+60
+00:03:54,539 --> 00:03:58,259
+To the second group, the control group, they told them afterward.
+
+61
+00:03:58,259 --> 00:04:01,539
+The only thing that changed, therefore, was the "when."
+
+62
+00:04:01,539 --> 00:04:04,180
+And the result was incredible.
+
+63
+00:04:04,180 --> 00:04:06,900
+The mere fact of knowing their score in advance
+
+64
+00:04:06,939 --> 00:04:11,780
+pushed the teachers in the informed group to reduce the grade gap by a full 0.35
+
+65
+00:04:11,780 --> 00:04:12,780
+points.
+
+66
+00:04:12,780 --> 00:04:16,139
+In practice, they almost eliminated the initial difference, and they did it mainly
+
+67
+00:04:16,139 --> 00:04:18,139
+by raising the grades of immigrant students.
+
+68
+00:04:18,139 --> 00:04:22,740
+At this point, however, the researchers wanted to go even deeper—that is, the
+
+69
+00:04:22,740 --> 00:04:28,660
+question was: does knowing about one's specific bias make the difference, or would
+
+70
+00:04:28,660 --> 00:04:33,060
+a more general warning like "be careful, biases exist" be enough?
+
+71
+00:04:33,100 --> 00:04:37,220
+To figure it out, they set up a second experiment, this time online.
+
+72
+00:04:37,220 --> 00:04:41,660
+In this second round, everyone received a general message informing them
+
+73
+00:04:41,660 --> 00:04:47,180
+of the existence of biases in school; however, only half of them, the treatment group,
+
+74
+00:04:47,180 --> 00:04:51,980
+were also told their personal test result in addition to the general message.
+
+75
+00:04:51,980 --> 00:04:55,939
+The goal was precisely to isolate the effect of tailored information.
+
+76
+00:04:55,939 --> 00:04:58,980
+And this is where it gets super interesting.
+
+77
+00:04:58,980 --> 00:05:02,379
+Look at this table, because it's the key to everything.
+
+78
+00:05:02,420 --> 00:05:06,939
+For teachers with low bias, the general message and the personal one
+
+79
+00:05:06,939 --> 00:05:12,500
+had more or less the same positive effect, but the real surprise is in the row below.
+
+80
+00:05:12,500 --> 00:05:17,180
+For those with strong bias, the general message was of no use.
+
+81
+00:05:17,180 --> 00:05:18,699
+No change.
+
+82
+00:05:18,699 --> 00:05:23,540
+They only changed their tune when they had their personal result slammed in their face.
+
+83
+00:05:23,540 --> 00:05:25,540
+That's when they reduced the gap.
+
+84
+00:05:25,540 --> 00:05:29,420
+And this leads us straight to the heart of the mechanism they discovered.
+
+85
+00:05:29,420 --> 00:05:32,259
+What we could call the "surprise effect."
+
+86
+00:05:32,300 --> 00:05:36,980
+Personalized information is a bombshell, especially when it catches you off guard.
+
+87
+00:05:36,980 --> 00:05:41,180
+The teachers who changed their behavior the most were precisely those
+
+88
+00:05:41,180 --> 00:05:45,899
+who would have likely said, "Me, biased? No way."
+
+89
+00:05:45,899 --> 00:05:49,019
+And to confirm this, there's a striking piece of data.
+
+90
+00:05:49,019 --> 00:05:54,819
+80% of teachers—eight out of ten—underestimated their own level of bias.
+
+91
+00:05:54,819 --> 00:05:58,420
+This makes us realize how little we know ourselves from this point of view.
+
+92
+00:05:58,420 --> 00:06:02,460
+And why direct, personal feedback can be so disruptive.
+
+93
+00:06:02,460 --> 00:06:04,259
+And so we come to the point.
+
+94
+00:06:04,259 --> 00:06:07,020
+What do we take away from all this research?
+
+95
+00:06:07,020 --> 00:06:13,140
+And above all, what does it tell us about how we can make school a concretely fairer place for everyone?
+
+96
+00:06:13,140 --> 00:06:16,460
+Let's briefly summarize the fundamental things we've understood.
+
+97
+00:06:16,460 --> 00:06:22,220
+Point one: unconscious biases are not abstract thoughts, but have a real impact on grades.
+
+98
+00:06:22,220 --> 00:06:25,379
+Point two: awareness is a powerful weapon.
+
+99
+00:06:25,379 --> 00:06:29,300
+Telling a teacher "look, you have this bias" can reduce disparities.
+
+100
+00:06:29,300 --> 00:06:34,899
+Third: it's one thing to say "biases exist," and another to say "this is your bias."
+
+101
+00:06:34,899 --> 00:06:39,500
+Personalized information wins out, especially with those who have stronger biases.
+
+102
+00:06:39,500 --> 00:06:42,740
+Finally, the true driver of change is surprise.
+
+103
+00:06:42,740 --> 00:06:46,139
+The shock of discovering a side of ourselves we didn't expect.
+
+104
+00:06:46,139 --> 00:06:50,060
+Let's close with an open question, a reflection.
+
+105
+00:06:50,060 --> 00:06:56,819
+All this research seems to suggest that sometimes, to start solving a problem, you just need to make it visible.
+
+106
+00:06:56,819 --> 00:07:00,060
+And the question we leave on the table is precisely this:
+
+107
+00:07:00,060 --> 00:07:07,699
+Is bringing to light a bias we didn't know we had truly the first indispensable step toward defeating it?
+
+108
+00:07:07,699 --> 00:07:09,899
+Thank you for following us in this analysis.

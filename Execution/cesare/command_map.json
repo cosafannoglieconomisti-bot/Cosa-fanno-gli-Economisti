@@ -1,0 +1,32 @@
+{
+  "git_status_test": ["/bin/echo", "Azione Eseguita: Git Status simulation..."],
+  "suggest_approve_tmp_file": ["/bin/echo", "Azione Eseguita: Scrittura /tmp/check_input_file.py autorizzata!"],
+  "backup": [
+    "/Users/marcolemoglie_1_2/Desktop/canale/.venv/bin/python3",
+    "/Users/marcolemoglie_1_2/Desktop/canale/Execution/mercurio/mercurio_github_sync.py"
+  ],
+  "gmail": [
+    "/Users/marcolemoglie_1_2/Desktop/canale/.venv/bin/python3",
+    "/Users/marcolemoglie_1_2/Desktop/canale/Execution/mercurio/mercurio_gmail_manager.py"
+  ],
+  "report": [
+    "/Users/marcolemoglie_1_2/Desktop/canale/.venv/bin/python3",
+    "/Users/marcolemoglie_1_2/Desktop/canale/Execution/romolo/romolo_manage_channel.py"
+  ],
+  "pulizia": [
+    "/Users/marcolemoglie_1_2/Desktop/canale/.venv/bin/python3",
+    "/Users/marcolemoglie_1_2/Desktop/canale/Execution/enea/video_processor.py"
+  ],
+  "produzione": [
+    "/Users/marcolemoglie_1_2/Desktop/canale/.venv/bin/python3",
+    "/Users/marcolemoglie_1_2/Desktop/canale/Execution/enea/notebooklm_orchestrator.py"
+  ],
+  "articoli": [
+    "/Users/marcolemoglie_1_2/Desktop/canale/.venv/bin/python3",
+    "/Users/marcolemoglie_1_2/Desktop/canale/Execution/ulisse/verify_paper.py"
+  ],
+  "copertina": [
+    "/Users/marcolemoglie_1_2/Desktop/canale/.venv/bin/python3",
+    "/Users/marcolemoglie_1_2/Desktop/canale/Execution/enea/generate_cover.py"
+  ]
+}

@@ -1,0 +1,496 @@
+1
+00:00:00,000 --> 00:00:05,120
+For centuries, Italy was a kind of intellectual beacon for the entire world,
+
+2
+00:00:05,120 --> 00:00:08,000
+then almost suddenly everything went dark.
+
+3
+00:00:08,000 --> 00:00:12,560
+Today we try to understand why, by investigating a key moment in our history
+
+4
+00:00:12,560 --> 00:00:17,120
+to discover why the cradle of the Renaissance at a certain point ground to a halt.
+
+5
+00:00:17,120 --> 00:00:19,760
+And this is the central question.
+
+6
+00:00:19,760 --> 00:00:23,199
+As simple as it is, well, staggering.
+
+7
+00:00:23,199 --> 00:00:28,560
+How is it possible that the very nation that gave the world Leonardo, Michelangelo,
+
+8
+00:00:28,600 --> 00:00:34,080
+the scientific Renaissance, suddenly lost its intellectual leadership?
+
+9
+00:00:34,080 --> 00:00:35,600
+It is a true mystery.
+
+10
+00:00:35,600 --> 00:00:39,600
+So let's dive into the heart of the mystery of the Italian decline,
+
+11
+00:00:39,600 --> 00:00:44,560
+and it's not just a simple academic question, it's a real historical enigma
+
+12
+00:00:44,560 --> 00:00:48,240
+that has left scholars perplexed for generations.
+
+13
+00:00:48,240 --> 00:00:51,520
+The contrast is crazy to think about.
+
+14
+00:00:51,520 --> 00:00:56,320
+On one hand, we have Renaissance Italy, an engine of knowledge and innovation.
+
+15
+00:00:56,399 --> 00:01:01,039
+On the other, Italy in the following centuries, being overtaken by new intellectual
+
+16
+00:01:01,039 --> 00:01:03,840
+powers like Great Britain and Germany.
+
+17
+00:01:03,840 --> 00:01:06,159
+A true overtaking.
+
+18
+00:01:06,159 --> 00:01:09,680
+And here, well, here the numbers speak for themselves.
+
+19
+00:01:09,680 --> 00:01:11,040
+Let's look at Italy.
+
+20
+00:01:11,040 --> 00:01:14,719
+The average output of publications for each scholar collapses,
+
+21
+00:01:14,719 --> 00:01:17,960
+literally, from 93 to 27.
+
+22
+00:01:17,960 --> 00:01:23,319
+In the exact same period, Great Britain shoots up from 77 to 137,
+
+23
+00:01:23,320 --> 00:01:26,360
+Germany from 47 to 97.
+
+24
+00:01:26,360 --> 00:01:29,000
+So we're not talking about a slowdown.
+
+25
+00:01:29,000 --> 00:01:33,720
+It's a vertical collapse, right as the rest of Europe was hitting the turbo.
+
+26
+00:01:33,720 --> 00:01:37,080
+So, where do we start to solve this thriller?
+
+27
+00:01:37,080 --> 00:01:40,360
+The answer, according to some very interesting research,
+
+28
+00:01:40,360 --> 00:01:43,000
+is hidden right between the pages of books,
+
+29
+00:01:43,000 --> 00:01:48,120
+or perhaps it would be better to say between the pages of books that could no longer be read.
+
+30
+00:01:48,120 --> 00:01:53,200
+The main tool of this control was it, the Index of Prohibited Books.
+
+31
+00:01:53,240 --> 00:01:56,159
+And it wasn't just a simple reading recommendation, mind you.
+
+32
+00:01:56,159 --> 00:01:59,120
+It was a real official blacklist.
+
+33
+00:01:59,120 --> 00:02:01,920
+If you were caught possessing or reading one of these books,
+
+34
+00:02:01,920 --> 00:02:04,480
+the consequences could be very heavy,
+
+35
+00:02:04,480 --> 00:02:07,120
+from excommunication to the confiscation of all property.
+
+36
+00:02:07,120 --> 00:02:10,319
+And here we find our first clue.
+
+37
+00:02:10,319 --> 00:02:12,599
+The red areas on this graph
+
+38
+00:02:12,599 --> 00:02:18,599
+represent the authors censored between 1540 and 1609.
+
+39
+00:02:18,599 --> 00:02:19,960
+Notice one thing.
+
+40
+00:02:20,000 --> 00:02:22,000
+The Index didn't hit at random.
+
+41
+00:02:22,000 --> 00:02:25,360
+It aimed high, specifically targeting the top tier,
+
+42
+00:02:25,360 --> 00:02:28,040
+meaning the most brilliant and prolific authors,
+
+43
+00:02:28,040 --> 00:02:30,560
+those you see on the right side of the graph.
+
+44
+00:02:30,560 --> 00:02:35,240
+Names like Galileo Galilei, Giordano Bruno, Nicolaus Copernicus,
+
+45
+00:02:35,240 --> 00:02:37,879
+so we're not talking about marginal figures.
+
+46
+00:02:37,879 --> 00:02:41,200
+These were the intellectual giants of their time,
+
+47
+00:02:41,200 --> 00:02:46,040
+people who were literally rewriting our understanding of the universe.
+
+48
+00:02:46,040 --> 00:02:49,200
+And their works, their most revolutionary ideas,
+
+49
+00:02:49,200 --> 00:02:51,800
+were simply silenced.
+
+50
+00:02:51,800 --> 00:02:55,960
+Okay, let's jump forward about 150 years.
+
+51
+00:02:55,960 --> 00:02:59,000
+The situation has changed, censorship is still there,
+
+52
+00:02:59,000 --> 00:03:01,360
+here it is, but look at the graph.
+
+53
+00:03:01,360 --> 00:03:03,360
+The red area has shifted.
+
+54
+00:03:03,360 --> 00:03:07,480
+Now it targets less prolific, less dangerous authors.
+
+55
+00:03:07,480 --> 00:03:08,960
+What happened?
+
+56
+00:03:08,960 --> 00:03:10,840
+It seems that the most brilliant minds
+
+57
+00:03:10,840 --> 00:03:13,840
+stopped writing controversial works.
+
+58
+00:03:13,840 --> 00:03:17,600
+This is what scholars call the chilling effect.
+
+59
+00:03:17,599 --> 00:03:19,919
+[No change needed for English]
+
+60
+00:03:19,919 --> 00:03:24,199
+The point is that there was no longer even a need to censor great thinkers.
+
+61
+00:03:24,199 --> 00:03:28,400
+Because great thinkers, partly out of fear, partly out of pure pragmatism,
+
+62
+00:03:28,400 --> 00:03:30,959
+had begun to censor themselves,
+
+63
+00:03:30,959 --> 00:03:35,439
+carefully avoiding any topic that could get them into trouble.
+
+64
+00:03:35,439 --> 00:03:40,159
+And this leads us straight to the heart of the theory explaining the Italian decline,
+
+65
+00:03:40,159 --> 00:03:43,120
+a theory that's not just about banned books,
+
+66
+00:03:43,120 --> 00:03:47,439
+but about the life choices and careers of the smartest people in the country.
+
+67
+00:03:47,599 --> 00:03:49,719
+The key concept is this:
+
+68
+00:03:49,719 --> 00:03:51,800
+Talent Misallocation.
+
+69
+00:03:51,800 --> 00:03:54,960
+Simply put, if following revolutionary ideas
+
+70
+00:03:54,960 --> 00:03:57,319
+can lead you to the stake or to prison,
+
+71
+00:03:57,319 --> 00:04:02,159
+while a quiet career in canon law guarantees you security and prestige,
+
+72
+00:04:02,159 --> 00:04:05,400
+well, for many, the choice becomes almost mandatory.
+
+73
+00:04:05,400 --> 00:04:10,240
+On one side was the non-compliant path, risky, full of dangers,
+
+74
+00:04:10,240 --> 00:04:12,840
+but with the potential to change the world.
+
+75
+00:04:12,879 --> 00:04:17,639
+On the other, the compliant path, safe, approved by the establishment,
+
+76
+00:04:17,639 --> 00:04:20,519
+but intellectually much less bold.
+
+77
+00:04:20,519 --> 00:04:23,959
+Censorship made the first option so dangerous
+
+78
+00:04:23,959 --> 00:04:26,840
+as to push the best talents toward the second.
+
+79
+00:04:26,840 --> 00:04:29,600
+Let's look at the chain of events, the domino effect.
+
+80
+00:04:29,600 --> 00:04:32,840
+First, the Church censors the most innovative ideas.
+
+81
+00:04:32,840 --> 00:04:36,519
+Second, the risk of dealing with those ideas increases out of proportion.
+
+82
+00:04:36,519 --> 00:04:41,280
+Third, the best scholars shift toward safer and less controversial fields.
+
+83
+00:04:41,320 --> 00:04:44,960
+Final result: overall innovation in Italy collapses.
+
+84
+00:04:44,960 --> 00:04:48,320
+A systematic and incredibly effective mechanism.
+
+85
+00:04:48,320 --> 00:04:51,200
+But is it possible to put a number on this impact?
+
+86
+00:04:51,200 --> 00:04:55,240
+Can the real cost of this intellectual silence be quantified?
+
+87
+00:04:55,240 --> 00:04:59,480
+Well, the research we're examining tried to do exactly that.
+
+88
+00:04:59,480 --> 00:05:04,640
+It created a model to estimate how much knowledge, how many ideas Italy lost,
+
+89
+00:05:04,640 --> 00:05:07,040
+precisely because of this mechanism.
+
+90
+00:05:07,160 --> 00:05:09,200
+And here it is, the number.
+
+91
+00:05:09,200 --> 00:05:13,520
+And it's a number that is truly impressive: 43%.
+
+92
+00:05:13,520 --> 00:05:16,360
+According to estimates, without the Church's censorship,
+
+93
+00:05:16,360 --> 00:05:20,840
+knowledge production in Italy would have been 43% higher.
+
+94
+00:05:20,840 --> 00:05:22,160
+Let's think about it for a moment.
+
+95
+00:05:22,160 --> 00:05:27,600
+Almost half of the potential scientific and cultural output simply vanished.
+
+96
+00:05:27,600 --> 00:05:30,520
+And this slide shows us a fundamental point.
+
+97
+00:05:30,520 --> 00:05:35,400
+The loss isn't just due to the books that were actually blacklisted.
+
+98
+00:05:35,440 --> 00:05:37,320
+That's only half the damage.
+
+99
+00:05:37,320 --> 00:05:41,320
+The other half, equally devastating, is the indirect effect.
+
+100
+00:05:41,320 --> 00:05:46,360
+Diverted talents, changed careers, ideas that were never even born.
+
+101
+00:05:46,360 --> 00:05:50,880
+And if anyone thinks the decline was caused only by economic factors,
+
+102
+00:05:50,880 --> 00:05:53,040
+like the crisis of trade routes,
+
+103
+00:05:53,040 --> 00:05:55,880
+well, the data suggests another story.
+
+104
+00:05:55,880 --> 00:05:59,080
+The negative impact of censorship, according to this study,
+
+105
+00:05:59,080 --> 00:06:03,080
+was almost four times heavier than that of the economic crisis.
+
+106
+00:06:03,080 --> 00:06:05,080
+The cultural factor, in this case,
+
+107
+00:06:05,079 --> 00:06:07,479
+far outperformed the economic one.
+
+108
+00:06:07,479 --> 00:06:11,639
+And thus we come to the central point: the cost of silence.
+
+109
+00:06:11,639 --> 00:06:15,759
+Not only that imposed from above, but also and, perhaps, above all,
+
+110
+00:06:15,759 --> 00:06:18,319
+that which people imposed on themselves.
+
+111
+00:06:18,319 --> 00:06:21,759
+A cost that Italy has carried for centuries.
+
+112
+00:06:21,759 --> 00:06:25,039
+This sentence summarizes the tragedy perfectly.
+
+113
+00:06:25,039 --> 00:06:28,759
+We will never know who the new Galileos could have been.
+
+114
+00:06:28,759 --> 00:06:33,639
+Maybe they became ecclesiastical lawyers or perhaps court poets.
+
+115
+00:06:33,639 --> 00:06:39,479
+Their unique and powerful talents were reassigned to safe tasks,
+
+116
+00:06:39,479 --> 00:06:42,719
+but far from the frontier of knowledge.
+
+117
+00:06:42,719 --> 00:06:47,519
+And this leaves us with a question that's impossible to answer,
+
+118
+00:06:47,519 --> 00:06:49,719
+but fundamental to ask.
+
+119
+00:06:49,719 --> 00:06:52,279
+It's not just about what we lost,
+
+120
+00:06:52,279 --> 00:06:55,279
+but about what was never even created.
+
+121
+00:06:55,279 --> 00:06:58,000
+How many discoveries, how many works of art,
+
+122
+00:06:58,000 --> 00:07:01,480
+how many revolutions of thought were stifled
+
+123
+00:07:01,480 --> 00:07:03,879
+before they could even see the light?
+
+124
+00:07:03,879 --> 00:07:08,480
+This, in the end, is the true, incalculable cost of silence.
+
