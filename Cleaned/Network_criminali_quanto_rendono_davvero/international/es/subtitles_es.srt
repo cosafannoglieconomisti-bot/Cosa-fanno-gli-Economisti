@@ -1,0 +1,495 @@
+1
+00:00:00,000 --> 00:00:03,040
+redes criminales, cuánto rinden de verdad.
+
+2
+00:00:03,040 --> 00:00:06,700
+Es el título y el corazón de nuestro análisis de hoy.
+
+3
+00:00:06,700 --> 00:00:12,320
+Y créanme, parece el comienzo de una película policial, pero en realidad estamos por sumergirnos en
+
+4
+00:00:12,320 --> 00:00:15,120
+una verdadera historia de detective económico.
+
+5
+00:00:15,120 --> 00:00:20,080
+Un viaje fascinante que nos llevará a descubrir las cuentas bancarias secretas de la mafia
+
+6
+00:00:20,080 --> 00:00:22,080
+italoamericana de los años 60.
+
+7
+00:00:22,080 --> 00:00:27,000
+Y les aseguro que lo que descubriremos pronto cambiará por completo la forma en que
+
+8
+00:00:27,000 --> 00:00:30,359
+pensamos en el poder y en el valor real de nuestros contactos.
+
+9
+00:00:30,359 --> 00:00:33,039
+Ok, entremos directamente en materia.
+
+10
+00:00:33,039 --> 00:00:34,359
+Intenten pensarlo.
+
+11
+00:00:34,359 --> 00:00:38,759
+¿Cómo hace un economista para medir la riqueza invisible de una sociedad secreta?
+
+12
+00:00:38,759 --> 00:00:43,600
+O sea, hablamos de criminales que, obviamente, no completaban la declaración de
+
+13
+00:00:43,600 --> 00:00:46,079
+ingresos por sus actividades ilícitas, ¿no?
+
+14
+00:00:46,079 --> 00:00:52,879
+Calcular los beneficios de un jefe mafioso de 1960 parece literalmente una misión imposible,
+
+15
+00:00:52,879 --> 00:00:55,000
+una de esas investigaciones sin vía de salida.
+
+16
+00:00:55,000 --> 00:00:59,560
+Pero es justo aquí donde la ciencia económica se vuelve, me atrevería a decir, genial.
+
+17
+00:00:59,560 --> 00:01:04,200
+Pero detengámonos un segundo para una precisión absolutamente crucial.
+
+18
+00:01:04,200 --> 00:01:09,200
+No estamos hablando de chismes de bar o de la trama de la última serie de TV.
+
+19
+00:01:09,200 --> 00:01:13,840
+Todo lo que veremos se basa en un estudio científico, rigurosísimo y sometido
+
+20
+00:01:13,840 --> 00:01:18,400
+a revisión por pares, publicado por una institución de prestigio como la Royal Economic
+
+21
+00:01:18,400 --> 00:01:19,400
+Society.
+
+22
+00:01:19,400 --> 00:01:23,640
+El autor, el economista Giovanni Mastrobuoni, ha aplicado métodos analiticos puros para
+
+23
+00:01:23,640 --> 00:01:29,040
+revelar la economía oculta del crimen organizado, por lo tanto, bases sólidas como la roca.
+
+24
+00:01:29,040 --> 00:01:33,739
+Entonces, para hacer esta especie de magia estadística, el estudio puso las manos en una mina
+
+25
+00:01:33,739 --> 00:01:39,480
+de oro absoluta, 800 expedientes secretísimos del Federal Bureau of Narcotics estadounidense,
+
+26
+00:01:39,480 --> 00:01:41,439
+desclasificados hace poco.
+
+27
+00:01:41,439 --> 00:01:46,439
+Estamos en 1960, un momento clave, un instante antes de que el gobierno comenzara realmente
+
+28
+00:01:46,439 --> 00:01:48,240
+en serio con las redadas.
+
+29
+00:01:48,240 --> 00:01:52,680
+Estos archivos mapean al milímetro la red de 800 mafiosos, incluidos pesos pesados como
+
+30
+00:01:52,680 --> 00:01:53,680
+Joe Bonanno.
+
+31
+00:01:53,680 --> 00:01:57,560
+En fin, es como si de repente tuviéramos en la mano la agenda telefónica secreta de todo el
+
+32
+00:01:57,560 --> 00:01:58,560
+mundo delictivo.
+
+33
+00:01:58,560 --> 00:02:03,360
+Y este mapa nos estampa en la cara la regla número uno del decálogo de Cosa Nostra.
+
+34
+00:02:03,360 --> 00:02:07,800
+En el mundo de la mafia, olvídense de poder simplemente acercarse a un tipo y estrecharle
+
+35
+00:02:07,800 --> 00:02:08,800
+la mano.
+
+36
+00:02:08,800 --> 00:02:13,800
+Las presentaciones directas, estrictamente prohibidas, siempre requieren un intermediario, alguien
+
+37
+00:02:13,800 --> 00:02:15,760
+en quien se confíe ciegamente.
+
+38
+00:02:15,760 --> 00:02:20,680
+Esto nos hace entender que, en este ambiente oscuro, saber quién conoce a quién no es un detalle
+
+39
+00:02:20,680 --> 00:02:25,599
+menor, es literalmente cuestión de vida o muerte y, sobre todo, de control.
+
+40
+00:02:25,599 --> 00:02:31,480
+Y es aquí donde entra en juego el análisis matemático, con un concepto clave llamado centralidad
+
+41
+00:02:31,480 --> 00:02:32,480
+de cercanía.
+
+42
+00:02:32,480 --> 00:02:37,760
+En pocas palabras, cuál es la distancia media entre un mafioso y cualquier otra persona
+
+43
+00:02:37,760 --> 00:02:38,760
+en la organización.
+
+44
+00:02:38,760 --> 00:02:43,500
+En un mundo donde, como acabamos de ver, siempre se necesitan garantes, estar muy
+
+45
+00:02:43,500 --> 00:02:48,159
+cerca de todos, significa necesitar muy pocos pasos para llegar a quien cuenta.
+
+46
+00:02:48,159 --> 00:02:52,039
+Quien tiene este tipo de centralidad mueve las piezas mucho más rápido que los demás.
+
+47
+00:02:52,039 --> 00:02:56,439
+Pero también hay otra cara de la moneda, la centralidad de intermediación.
+
+48
+00:02:56,439 --> 00:03:01,759
+¿Cuántas veces una persona específica sirve como puente vital entre dos grupos que de otro modo no
+
+49
+00:03:01,759 --> 00:03:05,400
+se hablarían y no se hablarían nunca? Imaginen a un jefe que es el único vínculo entre
+
+50
+00:03:05,400 --> 00:03:09,319
+dos familias mafiosas aisladas, tiene un poder de monopolio increíble.
+
+51
+00:03:09,319 --> 00:03:12,639
+Si lo quitas, el sistema colapsa y los negocios se detienen.
+
+52
+00:03:12,639 --> 00:03:16,000
+Pero en este punto el estudio choca con un muro enorme.
+
+53
+00:03:16,000 --> 00:03:19,680
+Lo que los estadísticos llaman causalidad inversa.
+
+54
+00:03:19,680 --> 00:03:25,120
+En resumen, ¿qué fue antes, el huevo o la gallina? ¿Un mafioso es riquísimo porque fue muy bueno
+
+55
+00:03:25,120 --> 00:03:29,599
+haciendo los amigos adecuados, o tiene a todos esos amigos solo porque ya estaba lleno de dinero
+
+56
+00:03:29,599 --> 00:03:32,360
+a más no poder y literalmente se los compró?
+
+57
+00:03:32,360 --> 00:03:35,680
+Si no resolvemos este enigma, los datos no valen nada.
+
+58
+00:03:35,680 --> 00:03:39,280
+Y aquí está la primera genialidad real del economista.
+
+59
+00:03:39,280 --> 00:03:44,439
+Dado que las cuentas bancarias ilegales son, por definición, invisibles, usó un indicador
+
+60
+00:03:44,439 --> 00:03:49,800
+que no se puede ocultar: los ladrillos, el mercado inmobiliario. Tomó las direcciones
+
+61
+00:03:49,800 --> 00:03:55,680
+exactas de las casas en las que vivían estos mafiosos en 1960 y las introdujo en la base de datos
+
+62
+00:03:55,680 --> 00:04:00,840
+del famoso portal inmobiliario Zillow para estimar cuánto valían realmente esas propiedades.
+
+63
+00:04:00,840 --> 00:04:05,240
+Claro, se estarán preguntando, no se puede tomar el precio de una villa hoy para entender
+
+64
+00:04:05,240 --> 00:04:11,560
+qué tan rico era alguien en 1960. Muy cierto; de hecho, después de recopilar las estimaciones actuales,
+
+65
+00:04:11,560 --> 00:04:14,000
+los precios fueron desinflados matemáticamente.
+
+66
+00:04:14,400 --> 00:04:17,639
+Se cruzaron con los datos históricos del censo de entonces,
+
+67
+00:04:17,639 --> 00:04:23,519
+área metropolitana por área metropolitana, ajustándolos al poder adquisitivo exacto de 1960.
+
+68
+00:04:23,519 --> 00:04:24,519
+¿El resultado?
+
+69
+00:04:24,519 --> 00:04:28,519
+Una estimación quirúrgica y objetiva de la cartera de los jefes.
+
+70
+00:04:28,519 --> 00:04:33,600
+Ok, ahora tenemos los valores de las casas, pero volvamos a nuestro gran dilema de antes.
+
+71
+00:04:33,600 --> 00:04:38,319
+¿Cómo demostramos más allá de toda duda razonable que fueron precisamente las conexiones
+
+72
+00:04:38,319 --> 00:04:40,639
+las que generaron el dinero y no al revés?
+
+73
+00:04:40,639 --> 00:04:47,159
+¿Cómo aislamos el valor puro del trabajo en red, sin que los cálculos se vean contaminados por la riqueza inicial?
+
+74
+00:04:47,159 --> 00:04:53,439
+Redoble de tambores y aquí está el segundo hallazgo increíble de esta investigación: la isonimia.
+
+75
+00:04:53,439 --> 00:04:58,719
+Una palabra difícil para un concepto que en realidad es muy simple: la geografía de los apellidos.
+
+76
+00:04:58,719 --> 00:05:02,240
+El autor fue a hurgar en las antiguas guías telefónicas italianas para rastrear
+
+77
+00:05:02,240 --> 00:05:06,479
+de qué municipio exacto procedían los apellidos de estos criminales italoamericanos.
+
+78
+00:05:06,479 --> 00:05:09,719
+Y créanme, este detalle cambia las reglas del juego.
+
+79
+00:05:09,800 --> 00:05:12,000
+El razonamiento fluye sin problemas.
+
+80
+00:05:12,000 --> 00:05:17,600
+Si rastreas el apellido de un jefe en Nueva York y descubres que él y otro afiliado provienen históricamente
+
+81
+00:05:17,600 --> 00:05:21,640
+del mismo pueblito perdido de Sicilia, ¡bingo!
+
+82
+00:05:21,640 --> 00:05:26,720
+Es casi seguro que compartían vínculos innatos, de parentesco o confianza, mucho antes de poner
+
+83
+00:05:26,720 --> 00:05:28,000
+un pie en América.
+
+84
+00:02:28,000 --> 00:05:31,600
+Al aislar estas conexiones históricas, el estudio creó una variable pura,
+
+85
+00:05:31,600 --> 00:05:36,680
+que no tiene absolutamente nada que ver con el dinero que ganarían décadas después en Chicago o Manhattan.
+
+86
+00:05:36,720 --> 00:05:40,600
+Y prepárense, porque usando este modelo matemático purificado,
+
+87
+00:05:40,600 --> 00:05:46,040
+el estudio nos entrega una cifra que nos deja boquiabiertos: 75%.
+
+88
+00:05:46,040 --> 00:05:50,920
+Un pequeñísimo aumento en la centralidad de cercanía de un mafioso hacía disparar el valor
+
+89
+00:05:50,920 --> 00:05:53,680
+de su casa hasta un 75% más.
+
+90
+00:05:53,680 --> 00:05:57,439
+Hablamos de un salto de estatus económico literalmente asombroso.
+
+91
+00:05:57,439 --> 00:05:59,439
+En definitiva, no hay escapatoria.
+
+92
+00:05:59,439 --> 00:06:01,079
+Las matemáticas hablan claro.
+
+93
+00:06:01,120 --> 00:06:06,959
+Estar en el centro de la red criminal causa de manera directa una explosión de riqueza.
+
+94
+00:06:06,959 --> 00:06:11,439
+No era el dinero el que compraba amigos, sino la eficiencia de la propia red de contactos
+
+95
+00:06:11,439 --> 00:06:14,240
+la que generaba montañas de dólares sucios.
+
+96
+00:06:14,240 --> 00:06:19,199
+En este ecosistema subterráneo, las amistades y la confianza son, sin lugar a dudas,
+
+97
+00:06:19,199 --> 00:06:20,799
+el capital más valioso.
+
+98
+00:06:20,799 --> 00:06:23,519
+A este punto sería natural sumar dos más dos.
+
+99
+00:06:23,519 --> 00:06:29,399
+Si cuanto más conectado estás, más rico eres, el jefe de jefes vivirá seguramente en un palacio de oro macizo, ¿verdad?
+
+100
+00:06:29,440 --> 00:06:31,840
+Pues no, aquí llega el giro inesperado.
+
+101
+00:06:31,840 --> 00:06:35,880
+Hay una paradoja estrepitosa que afecta precisamente a las mentes de la organización,
+
+102
+00:06:35,880 --> 00:06:39,160
+esos líderes supremos, con el máximo poder de intermediación.
+
+103
+00:06:39,160 --> 00:06:40,840
+Echen un vistazo a esta tabla:
+
+104
+00:06:40,840 --> 00:06:43,960
+los líderes supremos, ese minúsculo 9% en la cima,
+
+105
+00:06:43,960 --> 00:06:50,200
+tenían un poder de intermediación enorme en comparación con los peces pequeños, casi tres contra menos de dos.
+
+106
+00:06:50,200 --> 00:06:51,880
+Eran los dueños absolutos.
+
+107
+00:06:51,880 --> 00:06:58,280
+Y, sin embargo, el valor medio de sus casas era significativamente más bajo que el de sus propios soldados.
+
+108
+00:06:58,320 --> 00:07:03,880
+362.000 dólares para los grandes jefes, frente a los más de 380.000 de los subordinados.
+
+109
+00:07:03,880 --> 00:07:06,240
+Pero, ¿cómo es posible algo así?
+
+110
+00:07:06,240 --> 00:07:08,960
+Bueno, la respuesta de los expertos es fascinante.
+
+111
+00:07:08,960 --> 00:07:12,360
+La llaman estrategia de evitación de la atención.
+
+112
+00:07:12,360 --> 00:07:16,360
+Los jefes de altísimo nivel, sobre todo los de la vieja escuela siciliana,
+
+113
+00:07:16,360 --> 00:07:20,240
+decidían deliberadamente mantener un perfil bajísimo.
+
+114
+00:07:20,240 --> 00:07:25,240
+Vivían en casas modestas, sin lujos, para no atraer los reflectores del FBI.
+
+115
+00:07:25,280 --> 00:07:29,800
+Sabían perfectamente que ostentar el dinero destruiría su verdadero tesoro:
+
+116
+00:07:29,800 --> 00:07:35,879
+esa red invisible de poder y secretos que el dinero, por sí solo, nunca podría comprar.
+
+117
+00:07:35,879 --> 00:07:40,519
+Y esto nos lleva al final de nuestro viaje, dejándonos con una gran inquietud.
+
+118
+00:07:40,519 --> 00:07:46,600
+Acabamos de ver cómo las redes invisibles podían aumentar la riqueza en un 75% en el mundo del crimen,
+
+119
+00:07:46,600 --> 00:07:48,600
+hasta el punto de tener que ser ocultadas.
+
+120
+00:07:48,600 --> 00:07:53,360
+Así que la verdadera pregunta es: en nuestro mundo, el legal y transparente de cada día,
+
+121
+00:07:53,360 --> 00:07:57,680
+cuánto de nuestro éxito está secretamente dirigido por conexiones, conocidos
+
+122
+00:07:57,680 --> 00:08:00,400
+y redes de confianza que damos totalmente por sentadas.
+
+123
+00:08:00,400 --> 00:08:04,319
+A menudo, la infraestructura de poder más fuerte es precisamente la que no se ve.
+
+124
+00:08:04,319 --> 00:08:07,520
+Gracias por acompañarnos en este análisis y hasta la próxima.

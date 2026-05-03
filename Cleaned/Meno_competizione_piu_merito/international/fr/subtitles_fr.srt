@@ -1,0 +1,575 @@
+1
+00:00:00,000 --> 00:00:01,919
+Bienvenue dans cette nouvelle analyse.
+
+2
+00:00:01,919 --> 00:00:06,080
+Aujourd'hui, nous allons déconstruire une idée que nous tenons pratiquement tous pour acquise lorsqu'on parle
+
+3
+00:00:06,080 --> 00:00:07,080
+de succès.
+
+4
+00:00:07,080 --> 00:00:11,720
+Le titre en surimpression que vous voyez, moins de compétition plus de mérite, semble
+
+5
+00:00:11,720 --> 00:00:15,960
+vraiment étrange, n'est-ce pas ? D'habitude, nous pensons que pour dénicher les vrais talents, il faut
+
+6
+00:00:15,960 --> 00:00:18,920
+un environnement impitoyable, une lutte à mort.
+
+7
+00:00:18,920 --> 00:00:24,440
+Accrochez-vous bien, car les données et la recherche économique nous montrent une réalité littéralement
+
+8
+00:00:24,440 --> 00:00:25,440
+opposée.
+
+9
+00:00:25,440 --> 00:00:28,480
+Ok, entrons tout de suite dans le vif du sujet.
+
+10
+00:00:28,480 --> 00:00:31,440
+La compétition extrême garantit-elle vraiment le mérite ?
+
+11
+00:00:31,440 --> 00:00:35,920
+Nous sommes tous un peu portés à croire qu'en élevant la barre et en réduisant les places,
+
+12
+00:00:35,920 --> 00:00:37,840
+les meilleurs émergent forcément.
+
+13
+00:00:37,840 --> 00:00:42,520
+Nous voulons les meilleurs performeurs absolus ? Simple, créons un entonnoir très étroit.
+
+14
+00:00:42,520 --> 00:00:43,520
+Mais ?
+
+15
+00:00:43,520 --> 00:00:44,519
+Il y a un grand mais.
+
+16
+00:00:44,519 --> 00:00:49,480
+Cette équation fonctionne-t-elle vraiment dans le monde réel, où soyons honnêtes, les gens savent être
+
+17
+00:00:49,480 --> 00:00:53,320
+extrêmement rusés et calculateurs pour réussir un test.
+
+18
+00:00:53,320 --> 00:00:56,519
+Avant de répondre, clarifions de quoi nous parlons.
+
+19
+00:00:56,520 --> 00:00:59,040
+Regardons cette définition académique.
+
+20
+00:00:59,040 --> 00:01:04,600
+La méritocratie est, en substance, un système où le succès repose exclusivement
+
+21
+00:01:04,600 --> 00:01:07,240
+sur les capacités réelles d'une personne.
+
+22
+00:01:07,240 --> 00:01:11,120
+Nous ne parlons pas de celui qui réussit à produire plus à court terme en faisant des
+
+23
+00:01:11,120 --> 00:01:14,520
+prouesses incroyables, mais de sélectionner le talent pur.
+
+24
+00:01:14,520 --> 00:01:19,280
+Pensez à des entreprises comme Google : elles structurent leurs entretiens exactement pour cela.
+
+25
+00:01:19,280 --> 00:01:24,560
+Elles veulent isoler les capacités cognitives du candidat pour identifier les meilleurs absolus,
+
+26
+00:01:24,560 --> 00:01:26,080
+en ignorant tout le reste.
+
+27
+00:01:26,319 --> 00:01:29,879
+Section 1, le mythe de la compétition.
+
+28
+00:01:29,879 --> 00:01:34,239
+C'est précisément ici que nous abordons de front le piège mental par excellence,
+
+29
+00:01:34,239 --> 00:01:40,079
+à savoir l'idée qu'une sélection plus dure génère automatiquement une méritocratie plus
+
+30
+00:01:40,079 --> 00:01:40,879
+pure.
+
+31
+00:01:40,879 --> 00:01:44,079
+Nous vivons constamment immergés dans cette équation.
+
+32
+00:01:44,079 --> 00:01:48,120
+Méritocratie égale société extrêmement compétitive.
+
+33
+00:01:48,120 --> 00:01:53,239
+Mais, et c'est là que ça devient intéressant, les chercheurs ont révélé un paradoxe incroyable.
+
+34
+00:01:53,240 --> 00:01:57,880
+Quand le succès d'une sélection peut être influencé par la quantité de risques qu'on est prêt
+
+35
+00:01:57,880 --> 00:02:03,640
+à prendre, abaisser un peu la barre et adopter des politiques apparemment anti-compétitives
+
+36
+00:02:03,640 --> 00:02:07,600
+peut en réalité améliorer radicalement l'efficacité de la sélection.
+
+37
+00:02:07,600 --> 00:02:12,000
+Cela semble fou : réduire les standards pour trouver de meilleures personnes.
+
+38
+00:02:12,000 --> 00:02:15,480
+Section 2, le facteur risque stratégique.
+
+39
+00:02:15,480 --> 00:02:18,480
+Mais comment expliquer cette apparente absurdité ?
+
+40
+00:02:18,599 --> 00:02:23,479
+Voici le mécanisme caché qui renverse complètement les règles du jeu
+
+41
+00:02:23,479 --> 00:02:26,079
+de la compétition auxquelles nous sommes habitués.
+
+42
+00:02:26,079 --> 00:02:27,879
+Imaginons deux mondes.
+
+43
+00:02:27,879 --> 00:02:31,399
+Dans le monde des contes de fées, les candidats ne sont pas stratégiques.
+
+44
+00:02:31,399 --> 00:02:35,879
+Ils font leur devoir, montrent leur valeur de façon constante, et c'est tout.
+
+45
+00:02:35,879 --> 00:02:39,039
+Celui qui vaut 10 obtient 10, celui qui vaut 6 obtient 6.
+
+46
+00:02:39,039 --> 00:02:40,039
+Fin.
+
+47
+00:02:40,039 --> 00:02:43,879
+Dans le monde réel cependant, nous sommes tous incroyablement stratégiques.
+
+48
+00:02:43,879 --> 00:02:48,039
+Dans un environnement de travail impitoyable, les candidats un peu plus faibles savent très bien qu'en
+
+49
+00:02:48,079 --> 00:02:51,840
+jouant franc-jeu, ils perdront inévitablement contre les hors-normes.
+
+50
+00:02:51,840 --> 00:02:53,079
+Alors que font-ils ?
+
+51
+00:02:53,079 --> 00:02:55,879
+Ils adoptent des stratégies folles, à très haut risque.
+
+52
+00:02:55,879 --> 00:03:00,519
+Ils bluffent peut-être sans vergogne en entretien, ou misent tout sur une seule niche en ignorant
+
+53
+00:03:00,519 --> 00:03:01,519
+le reste.
+
+54
+00:03:01,519 --> 00:03:07,159
+Souvent ils se plantent, mais parfois, par pure statistique ou chance, ce coup risqué
+
+55
+00:03:07,159 --> 00:03:10,199
+permet à un candidat médiocre de battre le vrai talent.
+
+56
+00:03:10,199 --> 00:03:14,599
+Et cela crée un bruit énorme qui pollue totalement le processus de sélection.
+
+57
+00:03:14,599 --> 00:03:19,719
+Maintenant, ce qui est vraiment fascinant en observant ces dynamiques à l'œuvre,
+
+58
+00:03:19,719 --> 00:03:26,240
+c'est qu'il se crée deux états : un équilibre de défi et un autre que nous appellerons équilibre de concession.
+
+59
+00:03:26,240 --> 00:03:31,959
+Lorsque l'évaluateur assouplit un peu les standards, cet équilibre de concession se crée.
+
+60
+00:03:31,959 --> 00:03:36,680
+Ce que cela signifie en pratique, c'est que les candidats plus faibles se calment, arrêtent de faire des paris
+
+61
+00:03:36,680 --> 00:03:40,719
+risqués parce qu'ils n'ont plus l'anxiété de devoir battre à tout prix le premier de la
+
+62
+00:03:40,719 --> 00:03:42,199
+classe pour réussir.
+
+63
+00:03:42,200 --> 00:03:45,840
+En résumé, ils déposent les armes et ce bruit statistique disparaît.
+
+64
+00:03:45,840 --> 00:03:50,960
+Par conséquent, les performances redeviennent un reflet fidèle et limpide des
+
+65
+00:03:50,960 --> 00:03:52,720
+véritables capacités de chacun.
+
+66
+00:03:52,720 --> 00:03:56,280
+Section 3, l'exemple des notes scolaires.
+
+67
+00:03:56,280 --> 00:04:00,880
+Pour concrétiser toute cette théorie économique, la recherche utilise un exemple que nous
+
+68
+00:04:00,880 --> 00:04:06,960
+connaissons tous trop bien : les fameuses courbes d'évaluation des examens à l'université.
+
+69
+00:04:06,960 --> 00:04:12,080
+Si nous suivons un instant la logique mathématique, c'est éclairant : imaginons quatre étudiants
+
+70
+00:04:12,080 --> 00:04:13,080
+à un examen.
+
+71
+00:04:13,080 --> 00:04:15,600
+Deux sont de vrais génies, deux un peu moins.
+
+72
+00:04:15,600 --> 00:04:20,759
+Si le prof impose une règle impitoyable, n'accordant qu'une ou deux notes maximales, les étudiants
+
+73
+00:04:20,759 --> 00:04:22,759
+faibles font immédiatement le calcul.
+
+74
+00:04:22,759 --> 00:04:27,879
+Ils comprennent qu'en étudiant normalement ils ne gagneront jamais, alors ils risquent tout, apprennent par cœur
+
+75
+00:04:27,879 --> 00:04:31,480
+seulement un petit sous-ensemble de sujets en croisant les doigts.
+
+76
+00:04:31,480 --> 00:04:36,120
+Si par un coup de chance ces questions sortent, ils passeront pour les nouveaux Einstein et
+
+77
+00:04:36,120 --> 00:04:38,280
+voleront la place aux vrais talents.
+
+78
+00:04:38,280 --> 00:04:43,399
+Ce pari fait littéralement disjoncter le système, détruisant la capacité du professeur
+
+79
+00:04:43,399 --> 00:04:46,759
+à comprendre qui est vraiment bon et qui a juste eu de la chance.
+
+80
+00:04:46,759 --> 00:04:54,240
+Et voici la solution de l'étude, qui laisse assez bouche bée : 75 %.
+
+81
+00:04:54,240 --> 00:04:58,579
+Les chercheurs démontrent mathématiquement que si le professeur décide d'attribuer la note
+
+82
+00:04:58,579 --> 00:05:03,399
+maximale à trois étudiants sur quatre, il neutralise complètement le problème du risque.
+
+83
+00:05:03,400 --> 00:05:07,880
+Avec une courbe plus généreuse, les étudiants faibles poussent un soupir de soulagement et renoncent
+
+84
+00:05:07,880 --> 00:05:09,280
+aux paris extrêmes.
+
+85
+00:05:09,280 --> 00:05:13,080
+Bien sûr, on pourrait penser que nous offrons une bonne note à quelqu'un qui ne la méritait pas
+
+86
+00:05:13,080 --> 00:05:14,080
+à 100 %.
+
+87
+00:05:14,080 --> 00:05:19,160
+Mais attention, cette concession garantit de manière absolue que les deux étudiants géniaux
+
+88
+00:05:19,160 --> 00:05:22,240
+auront certainement le maximum sans interférences.
+
+89
+00:02:24,240 --> 00:05:26,900
+Ce faisant, l'efficacité méritocratique globale du professeur fait un bond en avant
+
+90
+00:05:26,900 --> 00:05:29,640
+de plus de 30 %, incroyable non ?
+
+91
+00:05:29,640 --> 00:05:30,920
+Section 4.
+
+92
+00:05:30,920 --> 00:05:36,360
+Promotions et lotteries universitaires, car soyons clairs, ces dynamiques liées au risque
+
+93
+00:05:36,360 --> 00:05:41,600
+ne restent pas cantonnées aux bancs de l'école, elles impactent fortement les phases les plus
+
+94
+00:05:41,600 --> 00:05:43,840
+cruciales du monde professionnel.
+
+95
+00:05:43,840 --> 00:05:49,080
+Si nous regardons le monde réel du travail, nous remarquons que les systèmes implacables, comme
+
+96
+00:05:49,080 --> 00:05:55,280
+les célèbres classements forcés en entreprise, où les derniers 10 % sont licenciés automatiquement,
+
+97
+00:05:55,280 --> 00:05:59,800
+ne font rien d'autre qu'alimenter ces comportements toxiques dont nous parlions.
+
+98
+00:05:59,800 --> 00:06:05,400
+Les employés à risque se lancent dans des projets farfelus en espérant un miracle, et le même
+
+99
+00:06:05,400 --> 00:06:09,960
+raisonnement vaut pour les admissions hyper-sélectives à l'université, qui poussent
+
+100
+00:06:09,960 --> 00:06:12,920
+tout le monde à gonfler ses CV de façon démesurée.
+
+101
+00:06:12,920 --> 00:06:18,580
+Cette pression si extrême finit invariablement par diluire et masquer la compétence
+
+102
+00:06:18,580 --> 00:06:19,580
+réelle.
+
+103
+00:06:19,580 --> 00:06:25,639
+Et tout cela nous mène à une réinterprétation folle du célèbre principe de Peter.
+
+104
+00:06:25,879 --> 00:06:30,439
+On pense d'habitude que promouvoir les gens jusqu'à leur niveau d'incompétence est une erreur
+
+105
+00:06:30,439 --> 00:06:35,800
+managériale désastreuse, mais la recherche met en évidence une chose surprenante.
+
+106
+00:06:35,800 --> 00:06:40,479
+Promouvoir délibérément un grand nombre de candidats en sachant très bien que certains pourraient
+
+107
+00:06:40,479 --> 00:06:46,079
+ne pas être à la hauteur a une fonction stratégique vitale : cela bloque dès le départ les stratégies
+
+108
+00:06:46,079 --> 00:06:47,079
+de sabotage.
+
+109
+00:06:47,079 --> 00:06:52,639
+En pratique, la sur-promotion fonctionne comme un bouclier, elle protège l'intégrité du processus,
+
+110
+00:06:52,639 --> 00:06:56,560
+en s'assurant que la reconnaissance aille à ceux qui sont vraiment excellents.
+
+111
+00:06:56,560 --> 00:06:59,680
+Revenons un instant au contexte des admissions.
+
+112
+00:06:59,680 --> 00:07:05,319
+Comparons l'approche traditionnelle, brutale et source d'une anxiété terrible, avec des alternatives
+
+113
+00:07:05,319 --> 00:07:06,319
+un peu plus radicales.
+
+114
+00:07:06,319 --> 00:07:11,759
+Par exemple, les loteries d'admission proposées par des universitaires comme Schwarz, ou les systèmes
+
+115
+00:07:11,759 --> 00:07:13,759
+par paliers utilisés en Corée du Sud.
+
+116
+00:07:13,759 --> 00:07:19,959
+L'idée est d'approuver un large bassin de candidats compétents et de tirer au sort ceux qui entrent.
+
+117
+00:07:19,960 --> 00:07:24,240
+Fini les luttes à mort pour un millimètre microscopique d'avantage
+
+118
+00:07:24,240 --> 00:07:25,240
+en plus.
+
+119
+00:07:25,240 --> 00:07:29,080
+En paraissant moins compétitif à l'entrée, on sauve en réalité la pureté de la sélection
+
+120
+00:07:29,080 --> 00:07:33,880
+méritocratique, car on enlève aux candidats la nécessité de prendre des risques insensés
+
+121
+00:07:33,880 --> 00:07:35,280
+pour sortir du lot.
+
+122
+00:07:35,280 --> 00:07:36,360
+Section 5.
+
+123
+00:07:36,360 --> 00:07:39,360
+Le paradoxe de la méritocratie.
+
+124
+00:07:39,360 --> 00:07:44,680
+Résumons toute cette exploration en arrivant à un concept fondamental pour quiconque
+
+125
+00:07:44,680 --> 00:07:48,080
+doit concevoir des organisations ou sélectionner des talents.
+
+126
+00:07:48,680 --> 00:07:53,199
+Le point crucial de l'affaire est donc exactement le renversement du mythe dont nous
+
+127
+00:07:53,199 --> 00:07:54,479
+étions partis.
+
+128
+00:07:54,479 --> 00:07:58,719
+Des concours un peu moins compétitifs, avec des barrières à l'entrée plus flexibles, et des standards
+
+129
+00:07:58,719 --> 00:08:00,159
+en apparence détendus.
+
+130
+00:08:00,159 --> 00:08:05,000
+Ce sont précisément ces choses qui balayent le bruit généré par les paris stratégiques.
+
+131
+00:08:05,000 --> 00:08:09,240
+Si l'environnement ne vous pousse pas au désespoir, vos performances recommencent à se comporter de
+
+132
+00:08:09,240 --> 00:08:10,240
+manière honnête.
+
+133
+00:10:24,240 --> 00:08:14,719
+Elles deviennent enfin un signal clair, fidèle, de votre réelle capacité, rendant l'ensemble
+
+134
+00:08:14,719 --> 00:08:17,439
+du système infiniment plus méritocratique.
+
+135
+00:08:17,439 --> 00:08:21,519
+Ce profond changement de perspective nous laisse avec une interrogation qui mérite vraiment
+
+136
+00:08:21,519 --> 00:08:22,839
+notre attention.
+
+137
+00:08:22,839 --> 00:08:27,480
+Quand nous observons les universités, les entretiens d'embauche impitoyables et tous ces mécanismes
+
+138
+00:08:27,480 --> 00:08:31,120
+ultra-compétitifs dans lesquels nous vivons chaque jour, le doute surgit.
+
+139
+00:08:31,120 --> 00:08:36,039
+Et si, aveuglés par notre obsession pour l'excellence et par des filtres toujours plus sévères,
+
+140
+00:08:36,039 --> 00:08:38,600
+nous étions en réalité en train d'encourager le chaos stratégique ?
+
+141
+00:08:38,600 --> 00:08:42,600
+Sommes-nous, peut-être, paradoxalement, en train de récompenser les mauvaises personnes ?
+
+142
+00:08:42,600 --> 00:08:47,080
+Peut-être que réduire légèrement la pression et abaisser d'un poil la barre est le vrai
+
+143
+00:08:47,080 --> 00:08:50,160
+secret pour permettre au talent pur de briller.
+
+144
+00:08:50,160 --> 00:08:52,920
+Merci d'avoir participé à cette analyse, à la prochaine !

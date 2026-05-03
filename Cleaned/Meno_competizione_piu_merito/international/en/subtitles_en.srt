@@ -1,0 +1,575 @@
+1
+00:00:00,000 --> 00:00:01,919
+Welcome to this new analysis.
+
+2
+00:00:01,919 --> 00:00:06,080
+Today we are going to tear apart an idea that practically all of us take for granted when talking
+
+3
+00:00:06,080 --> 00:00:07,080
+about success.
+
+4
+00:00:07,080 --> 00:00:11,720
+The title on the screen that you are seeing, "less competition more merit," sounds
+
+5
+00:00:11,720 --> 00:00:15,960
+definitely strange, right? I mean, usually we think that to find true talent we need
+
+6
+00:00:15,960 --> 00:00:18,920
+a cutthroat environment, a fight to the death.
+
+7
+00:00:18,920 --> 00:00:24,440
+Hold on tight, because data and economic research show us a reality that is literally
+
+8
+00:00:24,440 --> 00:00:25,440
+the opposite.
+
+9
+00:00:25,440 --> 00:00:28,480
+Okay, let's get straight to the heart of the matter.
+
+10
+00:00:28,480 --> 00:00:31,440
+Does extreme competition really guarantee merit?
+
+11
+00:00:31,440 --> 00:00:35,920
+We are all somewhat led to believe that, by raising the bar and reducing available spots,
+
+12
+00:00:35,920 --> 00:00:37,840
+the best will necessarily emerge.
+
+13
+00:00:37,840 --> 00:00:42,520
+We want the absolute top performers? Simple, we create a very narrow funnel.
+
+14
+00:00:42,520 --> 00:00:43,520
+But?
+
+15
+00:00:43,520 --> 00:00:44,519
+There is a big "but."
+
+16
+00:00:44,519 --> 00:00:49,480
+Does this equation really work in the real world, where let's face it, people know how to be
+
+17
+00:00:49,480 --> 00:00:53,320
+extremely clever and calculating just to pass a test?
+
+18
+00:00:53,320 --> 00:00:56,519
+Before answering, let's clarify what we are talking about.
+
+19
+00:00:56,520 --> 00:00:59,040
+Let's look at this academic definition.
+
+20
+00:00:59,040 --> 00:01:04,600
+Meritocracy is, in essence, a system where success is based exclusively
+
+21
+00:01:04,600 --> 00:01:07,240
+on a person's real abilities.
+
+22
+00:01:07,240 --> 00:01:11,120
+We are not talking about those who manage to produce more in the short term by doing
+
+23
+00:01:11,120 --> 00:01:14,520
+backflips, but about selecting pure talent.
+
+24
+00:01:14,520 --> 00:01:19,280
+Think of companies like Google; they structure their interviews exactly for this.
+
+25
+00:01:19,280 --> 00:01:24,560
+They want to isolate the candidate's cognitive abilities to identify the absolute best,
+
+26
+00:01:24,560 --> 00:01:26,080
+ignoring everything else.
+
+27
+00:01:26,319 --> 00:01:29,879
+Section 1, the myth of competition.
+
+28
+00:01:29,879 --> 00:01:34,239
+And this is exactly where we directly face the ultimate mental trap:
+
+29
+00:01:34,239 --> 00:01:40,079
+the idea that a tougher selection process automatically generates a purer
+
+30
+00:01:40,079 --> 00:01:40,879
+meritocracy.
+
+31
+00:01:40,879 --> 00:01:44,079
+We live constantly immersed in this equation.
+
+32
+00:01:44,079 --> 00:01:48,120
+Meritocracy equals an extremely competitive society.
+
+33
+00:01:48,120 --> 00:01:53,239
+But, and here is the best part, researchers have revealed an incredible paradox.
+
+34
+00:01:53,240 --> 00:01:57,880
+When success in a selection process can be influenced by how many risks one is willing
+
+35
+00:01:57,880 --> 00:02:03,640
+to take, lowering the bar a bit and adopting seemingly anti-competitive policies
+
+36
+00:02:03,640 --> 00:02:07,600
+can actually drastically improve the efficiency of the selection.
+
+37
+00:02:07,600 --> 00:02:12,000
+It sounds crazy: reducing standards to find better people.
+
+38
+00:02:12,000 --> 00:02:15,480
+Section 2, the strategic risk factor.
+
+39
+00:02:15,480 --> 00:02:18,480
+But how can this apparent absurdity be explained?
+
+40
+00:02:18,599 --> 00:02:23,479
+Well, this is the hidden mechanism that completely flips the rules of the competition game
+
+41
+00:02:23,479 --> 00:02:26,079
+we are used to.
+
+42
+00:02:26,079 --> 00:02:27,879
+Imagine two worlds.
+
+43
+00:02:27,879 --> 00:02:31,399
+In a fairy-tale world, candidates are not strategic.
+
+44
+00:02:31,399 --> 00:02:35,879
+They do their duty, they consistently show what they're worth, and that's it.
+
+45
+00:02:35,879 --> 00:02:39,039
+Whoever is worth 10 gets a 10; whoever is worth 6 gets a 6.
+
+46
+00:02:39,039 --> 00:02:40,039
+Period.
+
+47
+00:02:40,039 --> 00:02:43,879
+In the real world, however, we are all incredibly strategic.
+
+48
+00:02:43,879 --> 00:02:48,039
+In a cutthroat work environment, slightly weaker candidates know very well that
+
+49
+00:02:48,079 --> 00:02:51,840
+by playing fair, they will inevitably lose to the stars.
+
+50
+00:02:51,840 --> 00:02:53,079
+So what do they do?
+
+51
+00:02:53,079 --> 00:02:55,879
+They adopt crazy, high-risk strategies.
+
+52
+00:02:55,879 --> 00:03:00,519
+Maybe they bluff shamelessly in an interview, or bet everything on a single niche while ignoring
+
+53
+00:03:00,519 --> 00:03:01,519
+the rest.
+
+54
+00:03:01,519 --> 00:03:07,159
+They often crash, but sometimes, due to pure statistics or luck, this risky move
+
+55
+00:03:07,159 --> 00:03:10,199
+allows a mediocre candidate to beat a true talent.
+
+56
+00:03:10,199 --> 00:03:14,599
+And this creates a huge amount of noise that totally pollutes the selection process.
+
+57
+00:03:14,599 --> 00:03:19,719
+Now, the truly fascinating thing that emerges when observing these dynamics in action is
+
+58
+00:03:19,719 --> 00:03:26,240
+that two states are created: an equilibrium of challenge and one we will call an equilibrium of concession.
+
+59
+00:03:26,240 --> 00:03:31,959
+When the evaluator softens the standards a bit, this equilibrium of concession is created.
+
+60
+00:03:31,959 --> 00:03:36,680
+What does it mean in practice? That weaker candidates calm down; they stop making
+
+61
+00:03:36,680 --> 00:03:40,719
+risky bets because they no longer have the anxiety of having to beat the top of the
+
+62
+00:03:40,719 --> 00:03:42,199
+class at all costs to make it.
+
+63
+00:03:42,200 --> 00:03:45,840
+In short, they lay down their arms and that statistical noise vanishes.
+
+64
+00:03:45,840 --> 00:03:50,960
+As a result, performances return to being a faithful and crystal-clear reflection of
+
+65
+00:03:50,960 --> 00:03:52,720
+everyone's real abilities.
+
+66
+00:03:52,720 --> 00:03:56,280
+Section 3, the example of school grades.
+
+67
+00:03:56,280 --> 00:04:00,880
+To ground all this economic theory, the research uses an example that we all
+
+68
+00:04:00,880 --> 00:04:06,960
+know all too well: the fateful grading curves of university exams.
+
+69
+00:04:06,960 --> 00:04:12,080
+If we follow the mathematical logic for a moment, it's illuminating: imagine four students
+
+70
+00:04:12,080 --> 00:04:13,080
+taking an exam.
+
+71
+00:04:13,080 --> 00:04:15,600
+Two are true geniuses, two a bit less so.
+
+72
+00:04:15,600 --> 00:04:20,759
+If the professor imposes a ruthless rule, granting only one or two maximum grades, the weaker
+
+73
+00:04:20,759 --> 00:04:22,759
+students immediately do the math.
+
+74
+00:04:22,759 --> 00:04:27,879
+They realize that by studying normally they will never win, so they take a risk: they memorize
+
+75
+00:04:27,879 --> 00:04:31,480
+only a small subset of topics, crossing their fingers.
+
+76
+00:04:31,480 --> 00:04:36,120
+If, by a stroke of luck, those exact questions come up, they will look like the new Einsteins and
+
+77
+00:04:36,120 --> 00:04:38,280
+will steal the spot from the real talents.
+
+78
+00:04:38,280 --> 00:04:43,399
+This gamble literally breaks the system, destroying the professor's ability
+
+79
+00:04:43,399 --> 00:04:46,759
+to understand who is actually good and who just got lucky.
+
+80
+00:04:46,759 --> 00:04:54,240
+And here comes the study's solution, which is quite jaw-dropping: 75%.
+
+81
+00:04:54,240 --> 00:04:58,579
+Researchers mathematically demonstrate that if the professor decides to assign the top
+
+82
+00:04:58,579 --> 00:05:03,399
+grade to three out of four students, they completely neutralize the gambling problem.
+
+83
+00:05:03,400 --> 00:05:07,880
+With a more generous curve, weaker students breathe a sigh of relief and give up
+
+84
+00:05:07,880 --> 00:05:09,280
+on extreme bets.
+
+85
+00:05:09,280 --> 00:13,080
+Of course, we might think we are giving away a good grade to someone who didn't
+
+86
+00:05:13,080 --> 00:05:14,080
+100% deserve it.
+
+87
+00:05:14,080 --> 00:19,160
+But take note: this concession absolutely guarantees that the two brilliant students
+
+88
+00:05:19,160 --> 00:05:22,240
+will definitely get the top grade without interference.
+
+89
+00:05:22,240 --> 00:05:26,900
+By doing this, the professor's overall meritocratic efficiency leaps forward
+
+90
+00:05:26,900 --> 00:05:29,640
+by more than 30%. Incredible, isn't it?
+
+91
+00:05:29,640 --> 00:05:30,920
+Section 4.
+
+92
+00:05:30,920 --> 00:05:36,360
+University promotions and lotteries; to be clear, these risk-related dynamics
+
+93
+00:05:36,360 --> 00:05:41,600
+certainly don't stay confined to school desks; they powerfully impact the most
+
+94
+00:05:41,600 --> 00:05:43,840
+crucial phases of the professional world.
+
+95
+00:05:43,840 --> 00:05:49,080
+If we look at the real world of work, we see that relentless systems, like
+
+96
+00:05:49,080 --> 00:05:55,280
+the famous forced corporate rankings, where the bottom 10% are automatically fired,
+
+97
+00:05:55,280 --> 00:05:59,800
+do nothing but fuel those toxic behaviors we were talking about.
+
+98
+00:05:59,800 --> 00:06:05,400
+Employees at risk throw themselves into wacky projects hoping for a miracle, and the exact same
+
+99
+00:06:05,400 --> 00:06:09,960
+logic applies to hyper-selective university admissions, which push
+
+100
+00:06:09,960 --> 00:06:12,920
+everyone to inflate their resumes excessively.
+
+101
+00:06:12,920 --> 00:06:18,580
+Such extreme pressure inevitably ends up diluting and masking real
+
+102
+00:06:18,580 --> 00:06:19,580
+competence.
+
+103
+00:06:19,580 --> 00:06:25,639
+And all this leads us to a crazy reinterpretation of the famous Peter Principle.
+
+104
+00:06:25,879 --> 00:06:30,439
+We usually think that promoting people to their level of incompetence is a disastrous
+
+105
+00:06:30,439 --> 00:06:35,800
+management error; instead, the research highlights something surprising.
+
+106
+00:06:35,800 --> 00:06:40,479
+Purposely promoting a large number of candidates, knowing full well that some might
+
+107
+00:06:40,479 --> 00:06:46,079
+not be up to the task, has a vital strategic function: it nips sabotage
+
+108
+00:06:46,079 --> 00:06:47,079
+strategies in the bud.
+
+109
+00:06:47,079 --> 00:06:52,639
+In practice, over-promotion acts as a shield; it protects the integrity of the process,
+
+110
+00:06:52,639 --> 00:06:56,560
+ensuring that recognition reaches those who are truly excellent.
+
+111
+00:06:56,560 --> 00:06:59,680
+Let's go back for a moment to the context of admissions.
+
+112
+00:06:59,680 --> 00:07:05,319
+Let's try to compare the traditional approach—brutal and a source of tremendous anxiety—with alternatives
+
+113
+00:07:05,319 --> 00:07:06,319
+that are a bit more radical.
+
+114
+00:07:06,319 --> 00:07:11,759
+For example, admission lotteries proposed by academics like Schwartz, or the tiered
+
+115
+00:07:11,759 --> 00:07:13,759
+systems used in South Korea.
+
+116
+00:07:13,759 --> 00:07:19,959
+The idea is that a large pool of competent candidates is approved, and then those who enter are drawn by lot.
+
+117
+00:07:19,960 --> 00:07:24,240
+No more fights to the death for a microscopic millimeter of extra
+
+118
+00:07:24,240 --> 00:07:25,240
+advantage.
+
+119
+00:07:25,240 --> 00:07:29,080
+By appearing less competitive at the entry point, the purity of meritocratic selection is
+
+120
+00:07:29,080 --> 00:07:33,880
+actually saved, because we remove the need for candidates to take senseless risks
+
+121
+00:07:33,880 --> 00:07:35,280
+just to stand out.
+
+122
+00:07:35,280 --> 00:07:36,360
+Section 5.
+
+123
+00:07:36,360 --> 00:07:39,360
+The paradox of meritocracy.
+
+124
+00:07:39,360 --> 00:07:44,680
+Let's wrap up this whole exploration, arriving at a fundamental concept for anyone
+
+125
+00:07:44,680 --> 00:07:48,080
+who needs to design organizations or select talent.
+
+126
+00:07:48,680 --> 00:07:53,199
+The crucial point of the matter, then, is exactly the reversal of the myth from which
+
+127
+00:07:53,199 --> 00:07:54,479
+we started.
+
+128
+00:07:54,479 --> 00:07:58,719
+Slightly less competitive contests, with more flexible entry barriers, and seemingly
+
+129
+00:07:58,719 --> 00:08:00,159
+relaxed standards.
+
+130
+00:08:00,159 --> 00:08:05,000
+These are exactly the things that sweep away the noise generated by strategic bets.
+
+131
+00:08:05,000 --> 00:08:09,240
+If the environment doesn't push you to despair, your performances start behaving
+
+132
+00:08:09,240 --> 00:08:10,240
+honestly again.
+
+133
+00:08:10,240 --> 00:08:14,719
+They finally become a clear, faithful signal of your true ability, making the whole
+
+134
+00:08:14,719 --> 00:08:17,439
+system infinitely more meritocratic.
+
+135
+00:08:17,439 --> 00:08:21,519
+This profound change in perspective leaves us with a question that truly deserves
+
+136
+00:08:21,519 --> 00:08:22,839
+our attention.
+
+137
+00:08:22,839 --> 00:08:27,480
+When we observe universities, cutthroat job interviews, and all those
+
+138
+00:08:27,480 --> 00:08:31,120
+super-competitive mechanisms in which we live every day, a doubt arises.
+
+139
+00:08:31,120 --> 00:08:36,039
+Could it be that, blinded by our obsession with excellence and increasingly severe filters,
+
+140
+00:08:36,039 --> 00:08:38,600
+we are actually encouraging strategic chaos?
+
+141
+00:08:38,600 --> 00:08:42,600
+Are we, perhaps paradoxically, rewarding the wrong people?
+
+142
+00:08:42,600 --> 00:08:47,080
+Perhaps slightly reducing the pressure and lowering the bar just a hair is the true
+
+143
+00:08:47,080 --> 00:08:50,160
+secret to allowing pure talent to shine.
+
+144
+00:08:50,160 --> 00:08:52,920
+Thank you for participating in this analysis, see you next time!

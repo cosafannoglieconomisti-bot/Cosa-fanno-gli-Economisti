@@ -1,0 +1,563 @@
+1
+00:00:00,000 --> 00:00:05,060
+Willkommen zu dieser neuen Vertiefung. Heute untersuchen wir eine der komplexesten Dynamiken
+
+2
+00:00:05,060 --> 00:00:06,060
+unserer Zeit.
+
+3
+00:00:06,060 --> 00:00:10,580
+Und der genaue Titel unserer Analyse lautet: Warum bremst die Bevölkerungsalterung
+
+4
+00:00:10,580 --> 00:00:11,580
+das BIP?
+
+5
+00:00:11,580 --> 00:00:15,179
+Wir werden eine faszinierende makroökonomische Studie analysieren, die im American
+
+6
+00:00:15,179 --> 00:00:19,620
+Economic Journal veröffentlicht wurde, um genau zu verstehen, wie große demografische Veränderungen
+
+7
+00:00:19,620 --> 00:00:22,379
+bereits die Regeln des globalen Wirtschaftswachstums neu schreiben.
+
+8
+00:00:22,379 --> 00:00:26,460
+Lassen Sie uns kurz innehalten, denn es gibt einen riesigen Mythos zu entlarven.
+
+9
+00:00:26,460 --> 00:00:30,900
+Wenn wir an eine alternde Bevölkerung denken, kommt uns sofort eine Szene in den Sinn:
+
+10
+00:00:30,900 --> 00:00:36,579
+Menschen, die in Rente gehen, aufhören zu arbeiten, und folglich schrumpft die Wirtschaft.
+
+11
+00:00:36,579 --> 00:00:39,380
+Das scheint die logischste Erklärung der Welt zu sein, oder?
+
+12
+00:00:39,380 --> 00:00:44,140
+Aber die Daten sagen uns etwas ganz anderes und deutlich Überraschenderes.
+
+13
+00:00:44,140 --> 00:00:49,100
+Die Alterung verringert den kollektiven Wohlstand, sicher, aber die wahren Gründe gehen weit
+
+14
+00:00:49,100 --> 00:00:52,219
+über die bloße Abnahme der Anzahl der Erwerbstätigen hinaus.
+
+15
+00:00:52,460 --> 00:00:55,019
+Hier ist also unsere Karte für heute.
+
+16
+00:00:55,019 --> 00:01:00,780
+Wir beginnen mit einem Blick auf das globale demografische Phänomen und widmen uns dann dem Problem der Kausalität
+
+17
+00:01:00,780 --> 00:01:02,700
+und den realen Zahlen des Rückgangs.
+
+18
+00:01:02,700 --> 00:01:07,659
+Wir werden uns fragen, ob das Problem weniger Arbeiter oder eine geringere Produktivität ist, analysieren
+
+19
+00:01:07,659 --> 00:01:12,500
+die Auswirkungen auf die neuen Generationen und skizzieren schließlich die Perspektiven für die Zukunft.
+
+20
+00:01:12,500 --> 00:01:13,500
+Fangen wir an!
+
+21
+00:01:13,500 --> 00:01:20,060
+Abschnitt 1: Ein globales demografisches Phänomen, ein wahrer epochelaler Trend.
+
+22
+00:01:20,140 --> 00:01:24,379
+Um die Tragweite all dessen zu verstehen, müssen wir uns die jüngere Geschichte ansehen.
+
+23
+00:01:24,379 --> 00:01:29,579
+Die Bevölkerungen der entwickelten Länder waren noch nie so alt, nie.
+
+24
+00:01:29,579 --> 00:01:34,460
+Wenn wir die USA als Labor nehmen, sehen wir, dass es in den 80er Jahren eine sehr starke
+
+25
+00:01:34,460 --> 00:01:37,540
+Alterung gab, vor allem in den westlichen Bundesstaaten.
+
+26
+00:01:37,540 --> 00:01:43,659
+Dann, zwischen 1990 und 2000, eine Art Pause, eine vorübergehende Verlangsamung, aufgrund der Tatsache,
+
+27
+00:01:43,659 --> 00:01:47,980
+dass die große Babyboomer-Generation mitten im erwerbsfähigen Alter war.
+
+28
+00:01:48,020 --> 00:01:53,540
+Aber ab 2000 nahm die Alterung wieder Fahrt auf mit einer massiven Beschleunigung überall.
+
+29
+00:01:53,540 --> 00:01:56,420
+Und das bringt uns zu einem Punkt, der zum Nachdenken anregt.
+
+30
+00:01:56,420 --> 00:02:02,460
+Zwischen 1980 und 2010 stieg der Anteil der amerikanischen Bevölkerung über 60 Jahre
+
+31
+00:02:02,460 --> 00:02:06,100
+um 16,8 % an.
+
+32
+00:02:06,100 --> 00:02:10,379
+Es ist ein epochelaler demografischer Wandel, und aus Forschungssicht
+
+33
+00:02:10,379 --> 00:02:14,860
+bietet er den perfekten Datensatz, um zu verstehen, was wirklich mit einer Wirtschaft passiert,
+
+34
+00:02:14,860 --> 00:02:17,900
+wenn die weißen Haare zur Mehrheit werden.
+
+35
+00:02:17,900 --> 00:02:22,020
+Gehen wir zu Abschnitt 2 über: Das Problem der Kausalität.
+
+36
+00:02:22,020 --> 00:02:25,780
+Oder: Betrachten wir die Ursache oder die Wirkung?
+
+37
+00:02:25,780 --> 00:02:31,780
+Hier kommen wir zum Kern, denn die Messung der demografischen Auswirkungen ist ein wahrer Albtraum für Ökonomen.
+
+38
+00:02:31,780 --> 00:02:34,260
+Stellen wir uns eine Stadt mit einer zerrütteten Wirtschaft vor.
+
+39
+00:02:34,260 --> 00:02:37,460
+Die Jungen packen ihre Koffer und gehen anderswo Arbeit suchen,
+
+40
+00:02:37,460 --> 00:02:41,420
+und lassen eine demografisch viel ältere Bevölkerung zurück.
+
+41
+00:02:41,460 --> 00:02:45,660
+In diesem Fall ist es die Wirtschaftskrise, die die lokale Alterung verursacht,
+
+42
+00:02:45,660 --> 00:02:48,300
+aber was passiert, wenn das Gegenteil der Fall ist?
+
+43
+00:02:48,300 --> 00:02:53,700
+Was, wenn gerade die Anwesenheit einer alten Bevölkerung die wirtschaftliche Stagnation verursacht?
+
+44
+00:02:53,700 --> 00:02:59,380
+Dieses Henne-Ei-Dilemma zu entwirren, ist buchstäblich von grundlegender Bedeutung.
+
+45
+00:02:59,380 --> 00:03:02,580
+Wie haben die Forscher dieses Problem gelöst?
+
+46
+00:03:02,580 --> 00:03:06,180
+Sie haben eine Art statistische Zeitmaschine erfunden.
+
+47
+00:03:06,180 --> 00:03:10,420
+Sie nahmen die Bevölkerungsstruktur von vor 10, 20 oder sogar 40 Jahren
+
+48
+00:03:10,420 --> 00:03:13,860
+und wandten darauf die nationalen Überlebensraten an,
+
+49
+00:03:13,860 --> 00:03:15,660
+ein brillanter mathematischer Trick,
+
+50
+00:03:15,660 --> 00:03:17,540
+der es ermöglicht, die Alterung zu berechnen,
+
+51
+00:03:17,540 --> 00:03:21,260
+basierend ausschließlich auf historischen Geburts- und Sterbedaten.
+
+52
+00:03:21,260 --> 00:03:24,660
+Auf diese Weise haben sie das Rauschen, das durch junge Menschen verursacht wird,
+
+53
+00:03:24,660 --> 00:03:26,580
+die aus wirtschaftlichen Gründen auswandern, komplett eliminiert.
+
+54
+00:03:26,580 --> 00:03:29,220
+Reine Daten, bereit zur Analyse.
+
+55
+00:03:29,220 --> 00:03:33,300
+Und das führt uns zu Abschnitt 3: Die Zahlen des Rückgangs.
+
+56
+00:03:33,300 --> 00:03:35,540
+Was ist der reale Effekt auf das BIP?
+
+57
+00:03:35,540 --> 00:03:36,980
+Jetzt, wo die Daten sauber sind,
+
+58
+00:03:36,980 --> 00:03:39,540
+ist das Endergebnis verblüffend.
+
+59
+00:03:39,579 --> 00:03:42,179
+Der entscheidende Punkt der gesamten Analyse ist dieser:
+
+60
+00:03:42,179 --> 00:03:46,099
+Ein Anstieg des Anteils der über 60-Jährigen um 10 %
+
+61
+00:03:46,099 --> 00:03:50,819
+verursacht einen massiven Rückgang des Pro-Kopf-BIP um 5,5 %.
+
+62
+00:03:50,819 --> 00:03:53,299
+Wir sprechen nicht von einer leichten Verlangsamung.
+
+63
+00:03:53,299 --> 00:03:55,780
+Wir sprechen von einem makroökonomischen Hammerschlag,
+
+64
+00:03:55,780 --> 00:03:59,699
+der direkt den Wohlstand verbrennt, der für jeden einzelnen Bürger generiert wird.
+
+65
+00:03:59,699 --> 00:04:02,859
+Um zu verdeutlichen, was das konkret bedeutet,
+
+66
+00:04:02,859 --> 00:04:05,620
+haben die Forscher es auf das Jahr umgerechnet.
+
+67
+00:04:05,620 --> 00:04:07,060
+Dieser demografische Wandel
+
+68
+00:04:07,060 --> 00:04:11,939
+hat der wirtschaftlichen Entwicklung der USA 0,3 % Wachstum gestohlen,
+
+69
+00:04:11,939 --> 00:04:13,659
+jedes einzelne Jahr.
+
+70
+00:04:13,659 --> 00:04:17,540
+30 Jahre lang, von 1980 bis 2010.
+
+71
+00:04:17,540 --> 00:04:22,019
+Genau wie Jahrzehnte lang mit ständig angezogener Handbremse zu fahren.
+
+72
+00:04:22,019 --> 00:04:23,420
+Abschnitt 4:
+
+73
+00:04:23,420 --> 00:04:26,620
+Weniger Arbeiter oder weniger Produktivität?
+
+74
+00:04:26,620 --> 00:04:29,340
+Zerlegen wir diesen Rückgang.
+
+75
+00:04:29,340 --> 00:04:31,939
+Und hier ist die Millionen-Dollar-Frage:
+
+76
+00:04:31,939 --> 00:04:33,340
+Warum passiert das?
+
+77
+00:04:33,340 --> 00:04:35,540
+Die Antwort ist ohne Zweifel die unerwartetste
+
+78
+00:04:35,540 --> 00:04:37,700
+Entdeckung der gesamten Studie.
+
+79
+00:04:37,700 --> 00:04:39,060
+Betrachtet man diese Grafik,
+
+80
+00:04:39,060 --> 00:04:42,620
+fällt auf, dass nur 33 % des gesamten wirtschaftlichen Schadens
+
+81
+00:04:42,620 --> 00:04:44,580
+aus dem Rückgang der Beschäftigung resultieren,
+
+82
+00:04:44,580 --> 00:04:47,900
+also aus der physiologischen Tatsache, dass es mehr Rentner gibt.
+
+83
+00:04:47,900 --> 00:04:50,860
+Aber die restlichen 67 %
+
+84
+00:04:50,860 --> 00:04:53,700
+stammen aus einem Zusammenbruch der Produktivität.
+
+85
+00:04:53,700 --> 00:04:56,820
+Das Problem ist also nicht nur, dass weniger Menschen arbeiten.
+
+86
+00:04:56,820 --> 00:05:01,939
+Das wahre Drama ist, dass das System selbst diejenigen, die arbeiten, viel, viel weniger produktiv macht.
+
+87
+00:05:01,939 --> 00:05:04,860
+Die genauen Worte aus der wissenschaftlichen Arbeit
+
+88
+00:05:04,900 --> 00:05:06,500
+treffen den Kern:
+
+89
+00:05:06,500 --> 00:05:10,620
+Zwei Drittel der Reduzierung sind auf ein langsameres Wachstum
+
+90
+00:05:10,620 --> 00:05:12,819
+der Arbeitsproduktivität zurückzuführen.
+
+91
+00:05:12,819 --> 00:05:16,860
+Ein Land, das altert, schrumpft nicht nur zahlenmäßig,
+
+92
+00:05:16,860 --> 00:05:19,860
+es legt buchstäblich einen niedrigeren Gang
+
+93
+00:05:19,860 --> 00:05:22,620
+in der Effizienz seiner gesamten Wirtschaft ein.
+
+94
+00:05:22,620 --> 00:05:24,259
+Gehen wir zu Abschnitt 5 über:
+
+95
+00:05:24,259 --> 00:05:26,340
+Die Auswirkungen auf die neuen Generationen,
+
+96
+00:05:26,340 --> 00:05:29,020
+die sogenannten negativen Spillover-Effekte.
+
+97
+00:05:29,020 --> 00:05:32,699
+Wenn also die Produktivität einbricht, wer zahlt die Rechnung?
+
+98
+00:05:32,699 --> 00:05:34,259
+Die Forschung ist ganz klar:
+
+99
+00:05:34,300 --> 00:05:38,899
+Ein Rückgang der Arbeitsproduktivität um 3,4 %
+
+100
+00:05:38,899 --> 00:05:42,860
+entspricht fast perfekt einer Reduzierung der globalen Stundenlöhne
+
+101
+00:05:42,860 --> 00:05:45,180
+um 3,3 %.
+
+102
+00:05:45,180 --> 00:05:47,579
+Die Regeln der Wirtschaft machen keine Ausnahmen.
+
+103
+00:05:47,579 --> 00:05:50,219
+Wenn das gesamte Getriebe weniger effizient wird,
+
+104
+00:05:50,219 --> 00:05:55,219
+kann sich das System nur anpassen, indem es die Gehälter derer senkt, die darin arbeiten.
+
+105
+00:05:55,219 --> 00:05:59,860
+Und diese Grafik zeigt brillant, wie weit verbreitet das Problem ist.
+
+106
+00:05:59,939 --> 00:06:00,939
+Achtung hier,
+
+107
+00:06:00,939 --> 00:06:04,780
+denn die Alterung trifft nicht nur die Gehaltsabrechnungen der Älteren.
+
+108
+00:06:04,780 --> 00:06:09,780
+Sicherlich sehen wir einen Rückgang des Lohnwachstums um 3,4 % bei den über 60-Jährigen.
+
+109
+00:06:09,780 --> 00:06:11,020
+Aber schauen Sie sich den Rest an:
+
+110
+00:06:11,020 --> 00:06:16,020
+Es gibt einen Rückgang von 2,9 % für die mittlere Altersgruppe der 40- bis 59-Jährigen
+
+111
+00:06:16,020 --> 00:06:20,699
+und sogar minus 1,7 % für die Jungen zwischen 20 und 39 Jahren.
+
+112
+00:06:20,699 --> 00:06:22,819
+Die Alterung benachteiligt alle.
+
+113
+00:06:22,819 --> 00:06:26,900
+Weniger ältere Menschen bei der Arbeit bedeuten wahrscheinlich weniger positive Spillover-Effekte,
+
+114
+00:06:26,900 --> 00:06:29,580
+wie Innovation, Wissenstransfer
+
+115
+00:06:29,620 --> 00:06:34,139
+oder jene Dynamik, die für das Lohnwachstum aller Generationen lebenswichtig ist.
+
+116
+00:06:34,139 --> 00:06:37,459
+Wir kommen zum letzten Abschnitt, Nummer 6:
+
+117
+00:06:37,459 --> 00:06:39,419
+Perspektiven für die Zukunft.
+
+118
+00:06:39,419 --> 00:06:40,740
+Was erwartet uns?
+
+119
+00:06:40,740 --> 00:06:44,259
+Wenn wir die Berechnungen dieser Forschung auf die nahe Zukunft anwenden,
+
+120
+00:06:44,259 --> 00:06:46,740
+lassen die Prognosen erschaudern:
+
+121
+00:06:46,740 --> 00:06:51,060
+Zwischen 2020 und 2030 wird der Anteil der älteren Bevölkerung
+
+122
+00:06:51,060 --> 00:06:54,699
+voraussichtlich um weitere 11 % wachsen.
+
+123
+00:06:54,699 --> 00:06:58,579
+Zusammengerechnet könnte dies einen jährlichen Wachstumsverlust
+
+124
+00:06:58,579 --> 00:07:00,539
+von 0,6 % bedeuten.
+
+125
+00:07:00,539 --> 00:07:04,620
+Das bedeutet, dass wir den Bremseffekt auf das BIP,
+
+126
+00:07:04,620 --> 00:07:06,419
+den wir in der Vergangenheit erlebt haben, buchstäblich verdoppeln.
+
+127
+00:07:06,419 --> 00:07:09,539
+Und bevor jemand denkt, dass es reicht, neue Maschinen zu kaufen,
+
+128
+00:07:09,539 --> 00:07:12,339
+um das Problem zu lösen, warnen uns die Daten:
+
+129
+00:07:12,339 --> 00:07:14,779
+Die Zunahme der Investitionen in Sachkapital
+
+130
+00:07:14,779 --> 00:07:17,659
+bietet nur eine sehr, sehr begrenzte Unterstützung
+
+131
+00:07:17,659 --> 00:07:19,979
+gegen diesen strukturellen Rückgang.
+
+132
+00:07:19,979 --> 00:07:22,419
+Was uns zur abschließenden Frage führt,
+
+133
+00:07:22,419 --> 00:07:24,979
+der wahren Herausforderung unserer Zeit:
+
+134
+00:07:24,979 --> 00:07:27,819
+Wird die Automatisierung, die künstliche Intelligenz
+
+135
+00:07:27,860 --> 00:07:30,819
+und die neuen Technologien in der Lage sein,
+
+136
+00:07:30,819 --> 00:07:33,500
+unsere Produktivität so extrem zu steigern,
+
+137
+00:07:33,500 --> 00:07:36,899
+dass dieser unerbittliche demografische Rückgang ausgeglichen wird?
+
+138
+00:07:36,899 --> 00:07:39,819
+Wenn die Technologie dieses Wunder nicht vollbringt,
+
+139
+00:07:39,819 --> 00:07:44,819
+wird das demografische Gewicht die globale Wirtschaft noch Jahrzehnte lang schwer bremsen.
+
+140
+00:07:44,819 --> 00:07:48,980
+Es ist eine riesige Frage, und es wird faszinierend, wenn auch beunruhigend sein,
+
+141
+00:07:48,980 --> 00:07:51,459
+die Antwort in den nächsten Jahren zu erfahren.

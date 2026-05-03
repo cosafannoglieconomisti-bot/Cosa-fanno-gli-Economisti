@@ -1,0 +1,125 @@
+=== TRASCRITTO CON TIMESTAMP ===
+Video: I_Presidenti_mentono_sulle_tasse_cleaned.mp4
+
+[00:00] benvenuti a questo nuovo approfondimento.
+[00:03] Ok, andiamo dritti al punto e affrontiamo uno dei misteri più affascinanti della politica
+[00:08] e dell'economia moderna.
+[00:09] I presidenti degli Stati Uniti mentono sulle tasse, insomma la loro retorica e le grandi
+[00:14] promesse che sentiamo nei discorsi si allineano poi davvero con la realtà delle riforme
+[00:19] fiscali, è una domanda assolutamente cruciale.
+[00:22] Spesso tendiamo un po' a scartare discorsi politici, no?
+[00:26] Le consideriamo semplici rumore di fondo, ma una ricerca economica rigorosissima, pubblicata
+[00:31] di recente sulla American Economic Journal, ci dimostra che c'è molto, molto di più sotto
+[00:36] la superficie.
+[00:37] E come vedremo, la risposta a questa domanda ci porterà a scoprire delle dinamiche
+[00:41] letteralmente inaspettate.
+[00:43] Passiamo alla prima sezione, il mistero delle promesse.
+[00:47] Le parole dei presidenti diventano realtà?
+[00:50] Storicamente misurare se un politico dice la verità e quale sia l'impatto economico reale
+[00:55] delle sue parole, beh, è sempre stato un bel rompicapo.
+[00:58] Spesso i leader fanno promesse vague, mesi o addirittura anni prima di scrivere un'avere
+[01:03] proprio a legge, mentre i mercati e i cittadini nel frattempo ascoltano e reagiscono.
+[01:08] Prendiamo un esempio concreto.
+[01:09] Gennai 1981, il Presidente Ronald Reagan di Chiara, è tempo di risvegliare questo gigante
+[01:15] industriale e di alleggerire il nostro punitivo carico fiscale.
+[01:19] Boom, mesi prima dell'effettiva riforma, con queste esatte parole, mando un segnale in
+[01:24] equivocabile.
+[01:25] Non c'è ancora a mezza riga di legge o scritte in Parlamento, eppure il messaggio arriva
+[01:29] forte e chiaro.
+[01:30] La domanda allora è, possiamo misurare questi segnali modo sistematico per capire se si trasformano
+[01:35] davvero in realtà?
+[01:36] E questo ci porta alla sezione 2.
+[01:39] 60 anni di discorsi presidenziali, un enorme archivio di dati.
+[01:44] Per risolvere questo vero e proprio enigma, i ricercatori non si sono basati i suoi opinioni
+[01:50] o su qualche anedoto isolato.
+[01:52] Hanno fatto le cose in grande.
+[01:54] Hanno preso l'intero e di colletteralmente l'intero, archivio dei discorsi pubblici
+[01:59] presidenziali americani dal dopoguerra oggi.
+[02:03] I numeri sono pazzeschi, parliamo di 1 milione e 119.200 paragrafi esatti, tirati fuori
+[02:09] da quasi 60.000 testi presidenziali tra il 1949 e il 2017.
+[02:15] È una montagna di dati, nessun essere umano, nemmeno il team di studiosi più veloce al
+[02:20] mondo, potrebbe mai leggere e analizzare oggettivamente tutta questa roba per trovare degli
+[02:25] schemi ricorrenti, ci voleva decisamente un approccio diverso.
+[02:29] Arriviamo quindi alla sezione 3, l'algoritmo legge la politica, l'intelligenza artificiale
+[02:35] analizza i testi.
+[02:37] Dato che la lettura umana era fisicamente impossibile, i ricercatori si sono affidati a un algoritmo
+[02:42] avanzatissimo, chiamato Latent Dircelec Allocation, niente panico per il nome complicato, l'anusato
+[02:48] per isolare in modo totalmente neutro le frasi che parlavano in modo specifico di riforme
+[02:53] fiscali.
+[02:54] Per capirci parliamo di topic modeling, immaginate lo semplicemente come un enorme sistema
+[02:59] di smistamento automatico, una macchina superintelligente che legge milioni di parole, e guardando solo
+[03:05] il contesto e la frequenza con cui queste parole stanno vicine, inizia buttarlo in ceste virtuali
+[03:10] diverse.
+[03:11] Se nota che guerra, trupe, difesa, appaiono sempre insieme, crea la cesta argumento militare.
+[03:16] Ecco, hanno fatto fare alla macchina esattamente la stessa cosa per scoprire come i presidenti
+[03:21] parlano di tasse.
+[03:22] E guardate i risultati, osservando le parole chiave strate dall'algoritmo per l'argomento
+[03:28] aumento delle tasse, si vede benissimo come il sistema abbia fatto centro.
+[03:33] Le parole scritte in grande, come deficit, budget e in modo super evidente, social security,
+[03:39] sono proprio quelle che compaiono più spesso quando si sta preparando il terreno politico
+[03:43] per alzare le tasse.
+[03:45] E qui viene il bello, perché il confronto è davvero illuminante.
+[03:50] L'algoritmo ha imparato a distinguere il vocabolario dei politici.
+[03:54] Quando c'è area di aumenti fiscali, le parole ruotano attorno a social security, deficit,
+[03:59] bilancio, ma attenzione, quando un presidente e non importa assolutamente a quale partito
+[04:05] politico appartenga vuole segnalare un taglio delle tasse, beh le parole cambiano completamente,
+[04:10] saltano fuori termini come Small Business, Crescita o Creazione di Posti di lavoro, è una
+[04:16] divisione dell'inguaggio sistemica, funziona per tutti, trasversalmente a tutte le amministrazioni.
+[04:22] Andiamo alla sezione 4, prevedere le riforme fiscali, il verdetto dei dati.
+[04:27] Allora, qual è il verdetto finale?
+[04:30] Molto semplice, l'algoritmo funziona in pieno.
+[04:33] La scoperta pazzesca è che la frequenza di questi specifici argomenti nei discursi
+[04:38] riesce davvero a prevedere le leggi fiscali del futuro.
+[04:41] I dati dimostrano che questi discursi hanno quella che gli economisti chiamano causalità
+[04:46] di Granger rispetto alle riforme verepropri.
+[04:49] In parole povere, sono un indicatore statistico affidabilissimo.
+[04:52] Anticipano la direzione, quindi se le tasse si azzeranno, scenderanno, prevedono i cambiamenti
+[04:58] reali nelle case dello stato e cosa, forse ancora più incredibile,
+[05:02] influenzano le aspettative degli investitori, guidando i mercati finanziari e tassi di interesse,
+[05:06] molto prima che le leggi vengono effettivamente votate.
+[05:09] Questo ci conferma un fatto cruciale, analizzando tutte le amministrazioni della storia recente,
+[05:15] Danickson, Obama, senza alcuna distinzione tra conservatori o progressisti.
+[05:20] La retorica politica è un indicatore sorprendentemente accurato della vera politica fiscale che verrà.
+[05:27] In pratica, le parole di un presidente sono la primissima informazione che inizia a modellare
+[05:32] il comportamento economico dell'intera nazione.
+[05:36] E qui entriamo nella sezione 5, il paradosso dell'attesa, un colpo di scena economico.
+[05:43] Ok, abbiamo capito che i segnali ci sono e sono super precisi, ma cosa succede all'economia
+[05:49] quando questi segnali arrivano, magari, controponticipo?
+[05:53] Qui dobbiamo assolutamente esplorare un effetto collaterale a assurdo e decisamente
+[05:57] paradossale della trasparenza in politica.
+[06:00] La domanda fondamentale per capire questa realtà contro intuitiva è cosa succede quando il
+[06:05] mercato sa con l'argo anticipo che arriverà un bel taglio delle tasse.
+[06:09] La logica ci porterrebbe a pensare, beh, ottima notizia, aziende e cittadini avranno più
+[06:13] soldi in tasca, ci sarà un boom economico immediato.
+[06:17] Giusto?
+[06:18] Sbagliato.
+[06:19] La realtà economica ci mostra un quadro totalmente capovolto.
+[06:21] I dati macroeconomici ci danno una risposta che vi lascerà a bocca aperta.
+[06:26] Guardando il calo improvviso, tracciato su questo grafico, si nota una cosa incredibile.
+[06:31] Quando viene annunciato un futuro taglio delle tasse, l'economia all'inizio si contrae.
+[06:36] C'è un vero e proprio calo del pill, ancora prima che il taglio diventi realtà.
+[06:40] La curva ascende letteralmente sotto lo zero nei primi trimestri.
+[06:44] È un risultato completamente contro intuitivo.
+[06:47] Pazzesco, vero?
+[06:48] Cerchiamo di riassumere il perché di questo incredibile paradosso.
+[06:52] Mettetevi per un attimo nei panni dei cittadini o delle aziende.
+[06:56] Se sapete con certezza che le tasse scenderanno tra un anno, cosa fate?
+[07:00] Semplice, mettete in pausa tutto.
+[07:02] Perché spendere o investire normi capitali oggi?
+[07:04] Se domani grazie al taglio fiscale vi costerà molto meno.
+[07:08] Questo comportamento di massa genera la contrazione iniziale dell'economia.
+[07:12] Tutti ritardano le decisioni importanti.
+[07:15] E l'ironia più grande che i ricercatori hanno scoperto è che più questa attesa e lunga,
+[07:19] più debole sarà la successiva espansione economica quando il taglio entrerà finalmente in vigore.
+[07:24] E tutto questo ci lascia con una provocazione finale davvero potente,
+[07:28] su cui vale la pena riflettere.
+[07:30] Avere una trasparenza politica estrema e sapere in anticipo il futuro grazie a questi discorsi pubblici,
+[07:36] finisce per danneggiare la nostra economia del presente,
+[07:39] è un pensiero affascinante che ribalta un bel po' di convinzioni
+[07:42] che abbiamo su come comunicano i politici e su quanto siano efficenti mercati.
+[07:46] Insomma, oggi abbiamo visto chiaramente che le parole non sono mai solo parole.
+[07:50] Si possono misurare, si trasformano in dati, muovono i capitali,
+[07:54] e a volte creano dei veri a propri paradossi in previsti.
+[07:58] La nostra analisi finisce qui, ma una cosa è sicura.
+[08:01] La prossima volta che sentirete un politico parlare di tassi alla TV,
+[08:04] quelle parole avranno un peso e un significato decisamente diversi.

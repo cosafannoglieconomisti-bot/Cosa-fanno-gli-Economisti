@@ -1,0 +1,467 @@
+1
+00:00:00,000 --> 00:00:05,700
+Also, fangen wir mit einer etwas provokanten Frage an: Was wäre, wenn eine der größten
+
+2
+00:00:05,700 --> 00:00:10,160
+Erfindungen der Geschichte, der Pflug, in Wirklichkeit die Wurzel einiger der
+
+3
+00:00:10,160 --> 00:00:13,660
+Ungleichheiten zwischen Männern und Frauen wäre, die wir heute noch sehen?
+
+4
+00:00:13,660 --> 00:00:16,160
+Das klingt nach einer starken Behauptung, oder?
+
+5
+00:00:16,160 --> 00:00:21,140
+Nun, in dieser Analyse werden wir den Spuren einer wirklich außergewöhnlichen Forschungsarbeit folgen, um
+
+6
+00:00:21,140 --> 00:00:24,039
+zu sehen, ob an dieser Hypothese etwas Wahres dran ist.
+
+7
+00:00:24,039 --> 00:00:29,219
+Beginnen wir mit einem echten Rätsel unserer Zeit: Warum gehen die Meinungen
+
+8
+00:00:29,219 --> 00:00:33,979
+über die Rolle der Frau in der Welt heute noch so weit auseinander? Und wir sprechen hier nicht von kleinen
+
+9
+00:00:33,979 --> 00:00:39,340
+Nuancen, die Unterschiede sind manchmal abgründig, fast wie von einem Planeten zum anderen.
+
+10
+00:00:39,340 --> 00:00:44,700
+Schauen wir uns ein konkretes Beispiel an, das direkt aus den Daten einer der Quellen der Untersuchung stammt.
+
+11
+00:00:44,700 --> 00:00:49,500
+Die Frage: Wenn Arbeitsplätze knapp sind, sollten Männer dann mehr Anrecht auf einen Job haben
+
+12
+00:00:49,500 --> 00:00:50,500
+als Frauen?
+
+13
+00:00:50,500 --> 00:00:51,980
+Hören Sie sich die Antworten an.
+
+14
+00:00:51,980 --> 00:00:57,060
+In Island stimmen nur 3,6 % zu, praktisch niemand.
+
+15
+00:00:57,060 --> 00:01:05,260
+Kommen wir nun zu Ägypten: Die gleiche Antwort geben fast 95 % der Bevölkerung. 95 %! Aber
+
+16
+00:01:05,260 --> 00:01:07,460
+wie ist ein so enormer Unterschied möglich?
+
+17
+00:01:07,460 --> 00:01:12,900
+Nun, die Antwort könnte sich erstaunlicherweise in einem uralten Werkzeug verbergen, und hier
+
+18
+00:01:12,900 --> 00:01:17,859
+ist es, unser Hauptverdächtiger. Eine Gruppe von Ökonomen – wir sprechen von Alberto
+
+19
+00:01:17,859 --> 00:01:24,180
+Alesina, Paola Giuliano und Nathan Nunn – haben den Finger genau auf ihn gezeigt: den Pflug.
+
+20
+00:01:24,260 --> 00:01:28,260
+Achtung: Nicht der supertechnologische Pflug von heute, sondern der traditionelle, der
+
+21
+00:01:28,260 --> 00:01:31,580
+in den Agrargesellschaften vor Jahrhunderten und Aberjahrhunderten verwendet wurde.
+
+22
+00:01:31,580 --> 00:01:36,060
+Um die Wahrheit zu sagen, die Idee kam nicht aus dem Nichts; sie basiert auf der Hypothese einer
+
+23
+00:01:36,060 --> 00:01:41,600
+dänischen Ökonomin, Ester Boserup. Überlegen Sie mal: Bereits 1970 hatte sie angedeutet, dass die
+
+24
+00:01:41,600 --> 00:01:46,500
+Geschlechterrollen, wie wir sie heute kennen, ihre Wurzeln genau dort haben könnten, in den unterschiedlichen Arten
+
+25
+00:01:46,500 --> 00:01:48,660
+Landwirtschaft in der fernen Vergangenheit zu betreiben.
+
+26
+00:01:48,660 --> 00:01:52,020
+Okay, versuchen wir, uns den Unterschied zu vergegenwärtigen.
+
+27
+00:01:52,019 --> 00:01:56,739
+Auf der einen Seite haben wir die Landwirtschaft mit der Hacke. Man braucht weniger Körperkraft, man kann
+
+28
+00:01:56,739 --> 00:02:01,780
+leicht aufhören und wieder anfangen. Kurz gesagt: Es ist eine Arbeit, die mit der Kinderbetreuung vereinbar ist.
+
+29
+00:02:01,780 --> 00:02:05,299
+Dort konnten Männer und Frauen mehr oder weniger gleichberechtigt teilnehmen.
+
+30
+00:02:05,299 --> 00:02:08,699
+Dann kommt der Pflug, und hier, nun ja, ändert sich alles.
+
+31
+00:02:08,699 --> 00:02:13,379
+Der Pflug erfordert erhebliche Körperkraft, besonders im Oberkörper, und außerdem
+
+32
+00:02:13,379 --> 00:02:18,300
+muss man Zugtiere bändigen. Das ist unmöglich, während man sich um kleine Kinder kümmert, und so
+
+33
+00:02:18,300 --> 00:02:23,939
+entsteht eine für die damalige Zeit fast natürliche Spezialisierung: die Männer auf den Feldern, die Frauen
+
+34
+00:02:23,939 --> 00:02:24,939
+zu Hause.
+
+35
+00:02:24,939 --> 00:02:30,060
+Und das ist der entscheidende Punkt, der wahre Kern der Sache: Was anfangs
+
+36
+00:02:30,060 --> 00:02:34,939
+nur eine praktische Aufgabenteilung war, verwandelte sich im Laufe der Zeit in eine
+
+37
+00:02:34,939 --> 00:02:38,300
+echte kulturelle Norm, sie verfestigte sich.
+
+38
+00:02:38,300 --> 00:02:43,780
+Die Idee, dass der natürliche Platz der Frau im Haus sei, ist nicht einfach vom Himmel gefallen, sondern
+
+39
+00:02:43,780 --> 00:02:47,300
+entstand laut dieser Theorie eben durch eine Technologie.
+
+40
+00:02:47,700 --> 00:02:52,700
+Okay, bis hierhin ist es eine faszinierende Theorie, aber wir brauchen Beweise, richtig? Schauen wir uns also an,
+
+41
+00:02:52,700 --> 00:02:54,700
+was uns die historischen Daten sagen.
+
+42
+00:02:54,700 --> 00:03:00,300
+Die Forscher haben eine wahnsinnige Arbeit geleistet: Sie haben Daten von Hunderten von
+
+43
+00:03:00,300 --> 00:03:05,100
+vorindustriellen Gesellschaften analysiert, und die Ergebnisse sind eindeutig, völlig klar.
+
+44
+00:03:05,100 --> 00:03:09,460
+In Gesellschaften, die den Pflug benutzten, brach die Beteiligung der Frauen an der landwirtschaftlichen Arbeit
+
+45
+00:03:09,460 --> 00:03:10,460
+ein.
+
+46
+00:03:10,460 --> 00:03:15,939
+In allen Phasen, wohlgemerkt, von der Aussaat bis zur Ernte. Kurz gesagt: Mehr Pflug bedeutet weniger Frauen
+
+47
+00:03:15,939 --> 00:03:18,539
+auf den Feldern, eine fast mathematische Verbindung.
+
+48
+00:03:18,539 --> 00:03:24,699
+Aber warten Sie, denn es gibt einen Datenpunkt, der noch überraschender ist, fast schockierend, würde ich sagen:
+
+49
+00:03:24,699 --> 00:03:30,180
+Die Nutzung des Pflugs ist mit einer Abnahme von 1,3 % im Verhältnis zwischen der Größe der
+
+50
+00:03:30,180 --> 00:03:31,900
+Frauen und der der Männer verbunden.
+
+51
+00:03:31,900 --> 00:03:32,900
+Und was bedeutet das?
+
+52
+00:03:32,900 --> 00:03:37,060
+Nun, die Körpergröße im Erwachsenenalter hängt stark davon ab, wie man als Kind ernährt wurde. Daher
+
+53
+00:03:37,060 --> 00:03:41,780
+deutet dieser Wert darauf hin, dass in jenen Gesellschaften weniger in Mädchen investiert wurde als
+
+54
+00:03:41,780 --> 00:03:42,780
+in Jungen.
+
+55
+00:03:42,780 --> 00:03:46,699
+Ein physischer, objektiver Indikator für den unterschiedlichen Wert, der beigemessen wurde.
+
+56
+00:03:46,699 --> 00:03:51,939
+Okay, das ist die Vergangenheit, aber die eigentliche Frage, die uns am meisten interessiert, ist:
+
+57
+00:03:51,939 --> 00:03:56,699
+Wie ist es möglich, dass eine antike Technologie heute noch einen so starken Einfluss
+
+58
+00:03:56,699 --> 00:03:57,699
+haben kann?
+
+59
+00:03:57,699 --> 00:04:01,300
+Nun, anscheinend ist das Erbe völlig klar und messbar.
+
+60
+00:04:01,300 --> 00:04:05,979
+Die Daten zeigen, dass Länder, in denen die Vorfahren den Pflug benutzten, heute noch dazu neigen,
+
+61
+00:04:05,979 --> 00:04:11,340
+weniger Frauen in der Arbeitswelt, weniger weibliche Unternehmen und weniger Frauen in der Politik zu haben.
+
+62
+00:04:11,340 --> 00:04:16,180
+Die Korrelation ist wirklich beeindruckend, sie sticht sofort ins Auge. Und um zu verstehen, wie
+
+63
+00:04:16,180 --> 00:04:18,740
+stark dieser Effekt ist, bedenken Sie dies:
+
+64
+00:04:18,740 --> 00:04:23,980
+Schon ein nicht allzu großer Unterschied in der historischen Pflugnutzung führt heute zu fast
+
+65
+00:04:23,980 --> 00:04:27,340
+sieben Prozent weniger Erwerbsbeteiligung von Frauen.
+
+66
+00:04:27,340 --> 00:04:32,540
+Das ist eine gewaltige Auswirkung, die Jahrhunderte wirtschaftlichen, sozialen und
+
+67
+00:04:32,540 --> 00:04:33,540
+technologischen Wandels überdauert hat.
+
+68
+00:04:33,540 --> 00:04:36,459
+Und hier kommen wir zum Kern des Problems.
+
+69
+00:04:36,459 --> 00:04:40,220
+Okay, die Korrelation ist da, aber woran liegt das?
+
+70
+00:04:40,220 --> 00:04:46,340
+Sind es kulturelle Überzeugungen, die vom Vater auf den Sohn, von der Mutter auf die Tochter übergehen, oder
+
+71
+00:04:46,340 --> 00:04:52,900
+liegt es daran, dass die Pflugnutzung im Laufe der Zeit Gesetze und Institutionen geschaffen hat, die Frauen heute noch
+
+72
+00:04:52,900 --> 00:04:53,900
+benachteiligen?
+
+73
+00:04:53,900 --> 00:04:57,340
+Das Problem ist: Wie trennt man diese beiden Dinge?
+
+74
+00:04:57,340 --> 00:05:00,420
+Den Effekt der Kultur zu isolieren, ist extrem schwierig.
+
+75
+00:05:00,420 --> 00:05:05,900
+Wenn wir, ich weiß nicht, Italien und Schweden vergleichen, vergleichen wir alles: unterschiedliche Gesetze,
+
+76
+00:05:05,900 --> 00:05:08,780
+unterschiedliche Arbeitsmärkte, unterschiedliche Geschichten.
+
+77
+00:05:08,780 --> 00:05:13,580
+Wie können wir sicher sein, dass der Unterschied wirklich an der Kultur liegt und nicht an allem
+
+78
+00:05:13,580 --> 00:05:14,580
+anderen?
+
+79
+00:05:14,580 --> 00:05:17,140
+Und genau hier wird die Studie genial.
+
+80
+00:05:17,140 --> 00:05:21,900
+Um dieses Rätsel zu lösen, hatten die Forscher eine Idee: die Untersuchung von Einwanderern
+
+81
+00:05:21,900 --> 00:05:26,260
+der zweiten Generation, zum Beispiel in den USA oder in Europa.
+
+82
+00:05:26,260 --> 00:05:27,780
+Überlegen wir kurz.
+
+83
+00:05:27,780 --> 00:05:32,780
+Diese Menschen sind im selben Land geboren und aufgewachsen, sie haben die gleichen Gesetze, die gleichen
+
+84
+00:05:32,780 --> 00:05:35,500
+Berufschancen, die gleichen Schulen.
+
+85
+00:05:35,500 --> 00:05:40,540
+Der einzige wirkliche große Unterschied zwischen ihnen ist die Kultur, die sie von ihren Eltern
+
+86
+00:05:40,540 --> 00:05:41,939
+aus deren Herkunftsland geerbt haben.
+
+87
+00:05:41,939 --> 00:05:45,620
+Das Grundkonzept ist einfach, aber enorm aussagekräftig.
+
+88
+00:05:45,620 --> 00:05:52,120
+Institutionen und Gesetze sind in einem Land fest verankert, aber die Kultur – die Kultur reist mit
+
+89
+00:05:52,120 --> 00:05:53,120
+den Menschen mit.
+
+90
+00:05:53,120 --> 00:05:55,620
+Man trägt sie wie ein unsichtbares Gepäckstück mit sich herum.
+
+91
+00:05:55,620 --> 00:06:02,259
+Und das Ergebnis ist der ultimative Beweis: Auch in diesem natürlichen Labor bleibt der Effekt des
+
+92
+00:06:02,259 --> 00:06:03,259
+Pflugs bestehen.
+
+93
+00:06:03,259 --> 00:06:08,099
+Frauen, deren Eltern aus Ländern mit einer starken Pflugtradition stammen, haben
+
+94
+00:06:08,099 --> 00:06:13,379
+eine geringere Wahrscheinlichkeit zu arbeiten, obwohl sie in einem völlig anderen Umfeld geboren und
+
+95
+00:06:13,379 --> 00:06:14,379
+aufgewachsen sind.
+
+96
+00:06:14,379 --> 00:06:20,019
+Das sagt uns eines: Es ist genau die in der Familie weitergegebene Kultur, die den Unterschied macht.
+
+97
+00:06:20,019 --> 00:06:25,899
+Ziehen wir also Bilanz: Was ist das endgültige Urteil über dieses antike Werkzeug?
+
+98
+00:06:25,899 --> 00:06:29,899
+Was lehrt uns diese ganze unglaubliche Beweiskette?
+
+99
+00:06:29,900 --> 00:06:33,820
+Kehren wir zur Ausgangsfrage zurück: Hat der Pflug das Patriarchat erschaffen?
+
+100
+00:06:33,820 --> 00:06:39,180
+Nun, die Antwort ist kein glattes Ja, das wäre zu einfach. Nicht allein natürlich,
+
+101
+00:06:39,180 --> 00:06:43,780
+aber diese Forschung zeigt uns auf recht überzeugende Weise, dass er eine gewaltige historische Kraft
+
+102
+00:06:43,780 --> 00:06:44,780
+war.
+
+103
+00:06:44,780 --> 00:06:49,980
+Er hat Überzeugungen über Geschlechterrollen geformt, die so tief sitzen, dass sie erstaunlicherweise bis
+
+104
+00:06:49,980 --> 00:06:50,980
+zu uns gelangt sind.
+
+105
+00:06:50,980 --> 00:06:53,780
+Aber wie schwer wiegt dieses kulturelle Erbe nun?
+
+106
+00:06:53,780 --> 00:06:59,860
+Die Forscher haben versucht, es zu schätzen: Allein die Kultur erklärt zwischen 12 und 43
+
+107
+00:06:59,860 --> 00:07:02,460
+Prozent der Gesamtwirkung des Pflugs.
+
+108
+00:07:02,460 --> 00:07:03,460
+Und der Rest?
+
+109
+00:07:03,460 --> 00:07:08,660
+Der Rest sind andere Faktoren wie Gesetze oder die Wirtschaft. Aber Achtung: Auch diese Faktoren
+
+110
+00:07:08,660 --> 00:07:13,300
+wurden ihrerseits von jener Arbeitsteilung beeinflusst, die vor Tausenden
+
+111
+00:07:13,300 --> 00:07:14,300
+von Jahren entstand.
+
+112
+00:07:14,300 --> 00:07:15,300
+Es hängt alles zusammen.
+
+113
+00:07:15,300 --> 00:07:21,699
+Und all das lässt uns mit einer abschließenden Frage zurück, vielleicht der wichtigsten: Wenn eine so alte Technologie
+
+114
+00:07:21,699 --> 00:07:27,939
+einen so tiefen Eindruck hinterlassen hat, was sind dann die unsichtbaren Pflüge von
+
+115
+00:07:27,939 --> 00:07:28,939
+heute?
+
+116
+00:07:28,939 --> 00:07:35,699
+Was sind die Technologien, Gewohnheiten und Ereignisse, die in diesem Moment
+
+117
+00:07:35,699 --> 00:07:40,180
+die kulturellen Normen und die Gesellschaft von morgen formen, vielleicht ohne dass wir es merken?

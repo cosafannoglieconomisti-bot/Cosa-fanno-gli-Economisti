@@ -1,0 +1,439 @@
+1
+00:00:00,000 --> 00:00:04,919
+El comunismo te cambia la mente; es una pregunta fuerte, casi una provocación.
+
+2
+00:00:04,919 --> 00:00:09,839
+Sin embargo, lo increíble es que, gracias a un fragmento de historia muy reciente, podemos
+
+3
+00:00:09,839 --> 00:00:12,919
+intentar responder de manera sorprendentemente científica.
+
+4
+00:00:12,919 --> 00:00:15,120
+Entonces, entremos en materia.
+
+5
+00:00:15,120 --> 00:00:21,000
+¿Puede un sistema político llegar a modelar nuestra forma de pensar? ¿Puede realmente influir
+
+6
+00:00:21,000 --> 00:00:25,839
+en nuestras convicciones más arraigadas, aquellas sobre el papel del Estado, sobre el mercado, sobre la
+
+7
+00:00:25,839 --> 00:00:30,600
+sociedad? Durante décadas, esta ha sido una pregunta casi imposible para los científicos
+
+8
+00:00:30,600 --> 00:00:35,679
+sociales. Después de todo, ¿cómo se aísla el efecto de un sistema político de todo lo demás:
+
+9
+00:00:35,679 --> 00:00:41,439
+la cultura, la historia, la economía? Bueno, casi imposible, hasta que la propia historia
+
+10
+00:00:41,439 --> 00:00:43,640
+nos brindó una oportunidad única.
+
+11
+00:00:43,640 --> 00:00:49,719
+Y esta oportunidad tiene un nombre muy preciso: es un experimento natural, y el laboratorio de
+
+12
+00:00:49,719 --> 00:00:55,039
+este experimento es Alemania, justo después de la Segunda Guerra Mundial; un caso histórico
+
+13
+00:00:55,039 --> 00:00:58,960
+que parece casi diseñado a propósito para responder a nuestra pregunta.
+
+14
+00:00:58,960 --> 00:01:01,799
+Pero, ¿qué es exactamente un experimento natural?
+
+15
+00:01:01,799 --> 00:01:07,239
+Bueno, en palabras sencillas, es cuando la historia, por pura casualidad, hace lo que haría un científico
+
+16
+00:01:07,239 --> 00:01:12,400
+en el laboratorio: toma un grupo de personas homogéneo, lo divide en dos y aplica a una
+
+17
+00:01:12,400 --> 00:01:14,840
+mitad un tratamiento y a la otra no.
+
+18
+00:01:14,840 --> 00:01:19,719
+En este caso, el grupo homogéneo era el pueblo alemán, y el evento externo fue la división
+
+19
+00:01:19,719 --> 00:01:25,640
+del país: por un lado, la Alemania Oriental comunista, nuestro grupo de tratamiento; por el otro,
+
+20
+00:01:25,640 --> 00:01:29,680
+la Alemania Occidental capitalista, nuestro grupo de control.
+
+21
+00:01:29,680 --> 00:01:30,680
+Perfecto.
+
+22
+00:01:30,680 --> 00:01:33,239
+Echemos un vistazo a la cronología, porque es fundamental.
+
+23
+00:01:33,239 --> 00:01:39,719
+Antes del 45 había una sola nación, una cultura compartida. Luego, durante 45 larguísimos años,
+
+24
+00:01:39,719 --> 00:01:46,960
+de 1945 a 1990, estas dos partes vivieron bajo dos sistemas económicos y políticos radicalmente
+
+25
+00:01:46,960 --> 00:01:47,960
+opuestos.
+
+26
+00:01:47,960 --> 00:01:52,560
+Y con la reunificación, finalmente podemos comparar los resultados y ver
+
+27
+00:01:52,560 --> 00:01:53,560
+qué sucedió.
+
+28
+00:01:53,560 --> 00:01:55,880
+Y lo asombroso es esto:
+
+29
+00:01:55,880 --> 00:02:00,400
+Antes de la división, las dos Alemanias eran prácticamente lo mismo. Los estudios
+
+30
+00:02:00,400 --> 00:02:04,360
+dicen que tenían niveles de ingresos casi idénticos, una estructura industrial similar
+
+31
+00:02:04,360 --> 00:02:07,600
+e incluso actitudes políticas y sociales muy, muy cercanas.
+
+32
+00:02:07,600 --> 00:02:12,520
+En resumen, la línea de salida era la misma para todos, y es precisamente esto lo que hace
+
+33
+00:02:12,520 --> 00:02:16,360
+que la comparación después de 45 años sea tan potente y reveladora.
+
+34
+00:02:17,360 --> 00:02:22,560
+Entonces, vayamos al grano: ¿qué pasó tras la caída del muro? ¿Qué diferencias
+
+35
+00:02:22,560 --> 00:02:23,560
+surgieron?
+
+36
+00:02:23,560 --> 00:02:29,760
+Aquí es donde entramos en el corazón del análisis, en el gran choque de ideas entre Estado y mercado.
+
+37
+00:02:29,760 --> 00:02:32,520
+Veamos los datos; tomemos una pregunta clave.
+
+38
+00:02:32,520 --> 00:02:37,920
+En caso de desempleo, ¿quién debe garantizar la seguridad económica: el Estado o el individuo?
+
+39
+00:02:37,920 --> 00:02:41,400
+Bueno, las respuestas revelaron una brecha muy clara.
+
+40
+00:02:41,400 --> 00:02:45,439
+Los exalemanes del este muestran una preferencia abrumadora por una intervención fuerte
+
+41
+00:02:45,439 --> 00:02:46,439
+del Estado.
+
+42
+00:02:46,439 --> 00:02:50,620
+Mientras que en el oeste hay una mayor tendencia a confiar en soluciones privadas o
+
+43
+00:02:50,620 --> 00:02:51,620
+individuales.
+
+44
+00:02:51,620 --> 00:02:57,120
+Y ojo, no es un caso aislado; este patrón se repite en casi todas partes.
+
+45
+00:02:57,120 --> 00:03:02,640
+Hablamos de sanidad, la misma historia; asistencia a los ancianos, igual; apoyo a las
+
+46
+00:03:02,640 --> 00:03:08,640
+familias, lo mismo. Emerge un modelo coherente: quienes vivieron bajo el sistema comunista
+
+47
+00:03:08,640 --> 00:03:12,800
+tienden a pedir y confiar mucho más en la intervención estatal.
+
+48
+00:03:12,800 --> 00:03:14,400
+¿Queremos una cifra?
+
+49
+00:03:14,400 --> 00:03:20,520
+Aquí está: los datos de 1997, casi una década después de la reunificación, nos dicen que
+
+50
+00:03:20,520 --> 00:03:26,960
+un ciudadano de la antigua Alemania Oriental tenía, de media, un 16% más de probabilidades de
+
+51
+00:03:26,960 --> 00:03:33,240
+querer la intervención del Estado que un compatriota del oeste. El 16% es
+
+52
+00:03:33,240 --> 00:03:36,880
+una brecha gigantesca si consideramos que partían del mismo punto.
+
+53
+00:03:37,359 --> 00:03:39,039
+Bien, ¿pero por qué?
+
+54
+00:03:39,039 --> 00:03:41,960
+¿De dónde nace esta diferencia tan profunda?
+
+55
+00:03:41,960 --> 00:03:45,639
+¿Es simplemente porque el este era económicamente más débil?
+
+56
+00:03:45,639 --> 00:03:50,359
+¿O hay algo más detrás, algo que tiene que ver precisamente con la mentalidad?
+
+57
+00:03:50,359 --> 00:03:54,359
+Los investigadores se hicieron exactamente esta pregunta.
+
+58
+00:03:54,359 --> 00:03:59,319
+Claro, Alemania Oriental era más pobre, y normalmente quien tiene menos tiende a pedir más ayuda
+
+59
+00:03:59,319 --> 00:04:00,439
+al Estado.
+
+60
+00:04:00,439 --> 00:04:05,519
+Pero lo interesante es que incluso después de limpiar los datos de estas diferencias de
+
+61
+00:04:05,520 --> 00:04:13,120
+ingresos, riqueza o empleo, la brecha de opinión seguía ahí, grande e inequívoca.
+
+62
+00:04:13,120 --> 00:04:18,280
+Esto sugiere que no es solo una cuestión de bolsillo; es algo más profundo,
+
+63
+00:04:18,280 --> 00:04:21,360
+un verdadero cambio en la forma de ver el mundo.
+
+64
+00:02:21,360 --> 00:02:24,720
+Y aquí hay una pista que nos lleva directamente al grano.
+
+65
+00:04:24,720 --> 00:04:29,160
+Se preguntó a los entrevistados cuánto estaban de acuerdo con esta frase.
+
+66
+00:04:29,160 --> 00:04:34,639
+Una frase que, de hecho, es un pilar de la ideología marxista: la idea de que el destino
+
+67
+00:04:34,639 --> 00:04:40,000
+de una persona no depende tanto del esfuerzo individual, sino de las condiciones de la sociedad
+
+68
+00:04:40,000 --> 00:04:41,000
+en la que vive.
+
+69
+00:04:41,000 --> 00:04:47,560
+Y, de hecho, los resultados son claros: quienes vivieron en el este creen con mucha más firmeza
+
+70
+00:04:47,560 --> 00:04:48,560
+en esta idea.
+
+71
+00:04:48,560 --> 00:04:54,639
+Y el razonamiento en ese punto es casi automático: si se cree que la vida está determinada por
+
+72
+00:04:54,639 --> 00:04:59,800
+las condiciones sociales, entonces es lógico y natural pedir al Estado, es decir, a la
+
+73
+00:04:59,800 --> 00:05:04,600
+colectividad, que intervenga para mejorar esas condiciones para todos.
+
+74
+00:05:04,600 --> 00:05:09,439
+La petición de intervención estatal, por lo tanto, no es más que la consecuencia directa de esta
+
+75
+00:05:09,439 --> 00:05:10,439
+mentalidad.
+
+76
+00:05:10,439 --> 00:05:16,199
+Y aquí, por así decirlo, llega la prueba de fuego: lo que en la jerga se llama efecto dosis-respuesta.
+
+77
+00:05:16,199 --> 00:05:22,000
+Cuantos más años haya pasado una persona bajo el régimen de Alemania Oriental, mayor es su preferencia
+
+78
+00:05:22,000 --> 00:05:23,000
+por el Estado.
+
+79
+00:05:23,000 --> 00:05:28,160
+Para los más jóvenes, los nacidos después del 75, que vieron poco o nada del comunismo, la
+
+80
+00:05:28,160 --> 00:05:32,480
+diferencia con sus coetáneos del oeste es mínima; pero a medida que retrocedemos en
+
+81
+00:05:32,480 --> 00:05:35,520
+la edad, la brecha se vuelve enorme, casi un abismo.
+
+82
+00:05:35,520 --> 00:05:40,120
+Esto vincula la experiencia directa de ese sistema político con el cambio de mentalidad de una
+
+83
+00:05:40,120 --> 00:05:42,720
+manera que es casi imposible de refutar.
+
+84
+00:05:42,720 --> 00:05:50,040
+Está bien, pero esta huella psicológica, este muro mental, ¿está destinado a desvanecerse? Y si es así,
+
+85
+00:05:50,040 --> 00:05:52,720
+¿cuánto tiempo tardará en derrumbarse por completo?
+
+86
+00:05:52,720 --> 00:05:56,000
+La estimación del estudio es, por decir lo menos, asombrosa.
+
+87
+00:05:56,000 --> 00:06:01,160
+Se habla de un periodo de entre 20 y 40 años; han oído bien, se necesitará una o quizá
+
+88
+00:06:01,160 --> 00:06:05,600
+incluso dos generaciones antes de que las diferencias de mentalidad entre el este y el oeste
+
+89
+00:06:05,600 --> 00:06:06,600
+desaparezcan.
+
+90
+00:06:06,600 --> 00:06:11,160
+El eco de esos 45 años de historia es increíblemente persistente.
+
+91
+00:06:11,160 --> 00:06:17,360
+¿Y cómo ocurrirá este lento acercamiento? Principalmente a través de dos caminos:
+
+92
+00:06:17,360 --> 00:06:22,600
+En aproximadamente dos tercios, dependerá de que las personas, al vivir en el nuevo sistema unificado,
+
+93
+00:06:22,600 --> 00:06:24,000
+vayan cambiando de idea poco a poco.
+
+94
+00:06:24,000 --> 00:06:28,879
+Pero para el otro tercio, la razón es mucho más simple, y también un poco brutal: es
+
+95
+00:06:28,879 --> 00:06:30,759
+el relevo generacional.
+
+96
+00:06:30,759 --> 00:06:35,439
+Las generaciones más viejas con las ideas más arraigadas dejarán paso a las nuevas,
+
+97
+00:06:35,439 --> 00:06:37,759
+nacidas y criadas después de la reunificación.
+
+98
+00:06:37,759 --> 00:06:42,399
+Bien, estamos al final de este viaje por la historia y la mente.
+
+99
+00:06:42,399 --> 00:06:45,160
+¿Qué nos enseña toda esta historia?
+
+100
+00:06:45,160 --> 00:06:48,360
+¿Qué conclusiones podemos sacar?
+
+101
+00:06:48,360 --> 00:06:53,680
+Hagamos un resumen rápido. Primero: los sistemas políticos no son cajas vacías,
+
+102
+00:06:53,680 --> 00:06:56,480
+pueden moldear activamente aquello en lo que creemos.
+
+103
+00:06:56,480 --> 00:07:02,199
+Segundo: 45 años de comunismo dejaron una huella clara, una mayor demanda
+
+104
+00:07:02,199 --> 00:07:06,780
+de intervención estatal. Tercero y quizás más importante: no se trata solo
+
+105
+00:07:06,780 --> 00:07:11,340
+de economía, sino de un verdadero cambio de paradigma mental. Y, por último, esta
+
+106
+00:07:11,340 --> 00:07:16,079
+herencia psicológica es difícil de erradicar, un eco que continúa resonando durante décadas.
+
+107
+00:07:16,079 --> 00:07:20,399
+Y todo esto nos deja con una última pregunta para reflexionar.
+
+108
+00:07:20,400 --> 00:07:26,040
+Si 45 años de un sistema político han construido un muro mental tan sólido y duradero,
+
+109
+00:07:26,040 --> 00:07:30,920
+¿qué otros muros invisibles, forjados quizá por nuestra historia y nuestros sistemas,
+
+110
+00:07:30,920 --> 00:07:35,520
+podrían estar influyendo en nuestra forma de pensar hoy, tal vez sin que siquiera nos demos cuenta?
