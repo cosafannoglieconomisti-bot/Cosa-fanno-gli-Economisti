@@ -1,0 +1,507 @@
+1
+00:00:00,000 --> 00:00:04,080
+Ok, commençons tout de suite et plongeons dans cette nouvelle analyse.
+
+2
+00:00:04,080 --> 00:00:08,759
+Aujourd'hui, nous explorons un thème fascinant qui, comme l'indique le titre en surimpression,
+
+3
+00:00:08,759 --> 00:00:11,599
+s'appelle la malédiction des ressources étatiques.
+
+4
+00:00:11,599 --> 00:00:16,679
+Et je veux remettre en question immédiatement, dès les premières secondes, une idée que nous tenons tous pour acquise.
+
+5
+00:00:16,679 --> 00:00:21,000
+La conviction qu'une pluie soudaine d'argent public sur une administration locale
+
+6
+00:00:21,000 --> 00:00:23,960
+apporte automatiquement d'énormes bénéfices à la société.
+
+7
+00:00:23,960 --> 00:00:26,879
+D'habitude, quand des fonds supplémentaires arrivent, on fête ça, n'est-ce pas ?
+
+8
+00:00:26,919 --> 00:00:31,799
+Eh bien, accrochez-vous car la recherche économique nous dit que l'histoire est très, très différente.
+
+9
+00:00:31,799 --> 00:00:33,640
+C'est super intuitif, non ?
+
+10
+00:00:33,640 --> 00:00:39,560
+Il est naturel de penser qu'injecter une montagne d'argent dans une commune résolve magiquement les problèmes structurels.
+
+11
+00:00:39,560 --> 00:00:44,519
+Plus de budget, tant mieux, construisons plus d'écoles, réparons les routes, embauchons des médecins.
+
+12
+00:00:44,519 --> 00:00:46,159
+Cela semble être l'équation parfaite.
+
+13
+00:00:46,159 --> 00:00:50,359
+Mais la réalité qui émerge des données empiriques est incroyablement paradoxale.
+
+14
+00:00:50,359 --> 00:00:54,200
+La littérature économique nous démontre que si les contrôles appropriés manquent,
+
+15
+00:00:54,200 --> 00:01:00,720
+cette abondance soudaine de ressources peut littéralement effriter les fondements des institutions démocratiques locales.
+
+16
+00:01:00,720 --> 00:01:04,280
+Et c'est là qu'entre en jeu un concept vraiment contre-intuitif,
+
+17
+00:01:04,280 --> 00:01:06,040
+trouvé par une équipe d'économistes,
+
+18
+00:01:06,040 --> 00:01:08,560
+Brollo, Nannicini, Perotti et Tabellini,
+
+19
+00:01:08,560 --> 00:01:11,879
+ont inventé le terme de malédiction politique des ressources.
+
+20
+00:01:11,879 --> 00:01:13,280
+En pratique, que nous disent-ils ?
+
+21
+00:01:13,280 --> 00:01:17,400
+Ils nous disent que lorsqu'un gouvernement local reçoit beaucoup d'argent qui ne provient pas
+
+22
+00:01:17,400 --> 00:01:20,920
+des impôts directs de ses propres citoyens, un désastre se produit.
+
+23
+00:01:20,960 --> 00:01:24,320
+La qualité de ceux qui gouvernent commence à chuter de manière inattendue,
+
+24
+00:01:24,320 --> 00:01:26,439
+un véritable court-circuit.
+
+25
+00:01:26,439 --> 00:01:31,359
+Passons à la section 1, la théorie de l'aléa moral.
+
+26
+00:01:31,359 --> 00:01:37,400
+Voyons exactement pourquoi plus d'argent peut paradoxalement signifier plus de problèmes.
+
+27
+00:01:37,400 --> 00:01:38,599
+Pensez-y un instant.
+
+28
+00:01:38,599 --> 00:01:42,400
+Le mécanisme est aussi simple que fascinant.
+
+29
+00:01:42,400 --> 00:01:46,200
+Imaginez que le budget de votre commune explose soudainement.
+
+30
+00:01:46,200 --> 00:01:50,520
+Nous, citoyens, voyons arriver quelques chantiers, deux ou trois services en plus
+
+31
+00:01:50,599 --> 00:01:51,799
+et nous baissons notre garde.
+
+32
+00:01:51,799 --> 00:01:55,239
+Nous devenons moins exigeants, et savez-vous ce qui se passe à ce moment-là ?
+
+33
+00:01:55,239 --> 00:01:59,519
+Le politique de service a soudainement beaucoup plus de marge pour détourner de l'argent
+
+34
+00:01:59,519 --> 00:02:03,959
+ou créer des rentes politiques sans que personne ne s'en aperçoive ou ne fasse d'histoires.
+
+35
+00:02:03,959 --> 00:02:05,119
+Et il y a pire.
+
+36
+00:02:05,119 --> 00:02:09,560
+Un tas d'argent facile attire comme un aimant des candidats opportunistes,
+
+37
+00:02:09,560 --> 00:02:14,680
+peut-être moins préparés, qui ne visent que le gain facile et non le bien public.
+
+38
+00:02:14,680 --> 00:02:17,240
+Section 2, le laboratoire parfait,
+
+39
+00:02:17,240 --> 00:02:20,879
+les communes brésiliennes et les transferts FPM.
+
+40
+00:02:20,879 --> 00:02:25,520
+Pour démontrer cette théorie sans l'ombre d'un doute, les chercheurs avaient besoin de données réelles,
+
+41
+00:02:25,520 --> 00:02:27,439
+pas seulement de formules au tableau,
+
+42
+00:02:27,439 --> 00:02:29,920
+et ils ont trouvé le laboratoire parfait au Brésil,
+
+43
+00:02:29,920 --> 00:02:34,360
+en étudiant le Fundo de Participação dos Municípios ou FPM.
+
+44
+00:02:34,360 --> 00:02:37,480
+C'est un système très rigide qui distribue l'argent fédéral aux communes
+
+45
+00:02:37,480 --> 00:02:39,680
+en se basant sur des tranches de population.
+
+46
+00:02:39,680 --> 00:02:42,000
+En pratique, cela crée des lignes invisibles,
+
+47
+00:02:42,000 --> 00:02:45,640
+il suffit de dépasser le seuil de quelques habitants et boum, un saut massif
+
+48
+00:02:45,640 --> 00:02:47,480
+et soudain se produit dans les financements.
+
+49
+00:02:47,480 --> 00:02:52,400
+Et cela crée une situation incroyable : le modèle classique d'une régression discontinue.
+
+50
+00:02:52,400 --> 00:02:55,160
+Imaginez deux villes voisines, pratiquement jumelles.
+
+51
+00:02:55,160 --> 00:03:00,080
+La ville A a 10 188 habitants et reçoit un financement normal.
+
+52
+00:03:00,080 --> 00:03:02,880
+La ville B en a 10 189.
+
+53
+00:03:02,880 --> 00:03:05,120
+Pour un seul et unique habitant de plus,
+
+54
+00:03:05,120 --> 00:03:09,720
+la ville B dépasse le seuil magique et reçoit une avalanche d'argent du gouvernement central.
+
+55
+00:03:09,720 --> 00:03:11,040
+C'est totalement arbitraire,
+
+56
+00:03:11,040 --> 00:03:13,920
+mais cela permet aux chercheurs de comparer deux réalités identiques
+
+57
+00:03:13,920 --> 00:03:17,880
+où la seule vraie différence est le volume du portefeuille étatique.
+
+58
+00:03:17,880 --> 00:03:21,440
+Nous arrivons à la section 3 : plus d'argent, plus de corruption.
+
+59
+00:03:21,440 --> 00:03:26,480
+Et ici, nous analysons les preuves accablantes issues du programme anti-corruption brésilien.
+
+60
+00:03:26,480 --> 00:03:31,320
+En 2003, le Brésil a lancé un programme indépendant qui tire au sort des communes
+
+61
+00:03:31,320 --> 00:03:34,800
+et envoie des réviseurs comptables implacables pour éplucher les comptes.
+
+62
+00:03:34,800 --> 00:03:36,720
+Et les rapports sont choquants.
+
+63
+00:03:36,720 --> 00:03:39,520
+Ils ont documenté une explosion de créativité criminelle.
+
+64
+00:03:39,560 --> 00:03:41,240
+Des marchés publics manifestement truqués,
+
+65
+00:03:41,240 --> 00:03:44,000
+des biens achetés à des prix absurdement gonflés,
+
+66
+00:03:44,000 --> 00:03:45,880
+de l'argent détourné vers des comptes privés
+
+67
+00:03:45,880 --> 00:03:48,879
+et même des remboursements pour des dépenses littéralement fantômes.
+
+68
+00:03:48,879 --> 00:03:50,439
+En résumé, un désastre.
+
+69
+00:03:50,439 --> 00:03:51,680
+Mais la vraie question est :
+
+70
+00:03:51,680 --> 00:03:55,920
+y a-t-il un lien entre ces fraudes et les bonds de financement dont nous parlions plus tôt ?
+
+71
+00:03:55,920 --> 00:03:58,439
+La réponse est absolument oui.
+
+72
+00:03:58,439 --> 00:04:01,120
+Regardons les données brutes, car elles parlent très clairement.
+
+73
+00:04:01,120 --> 00:04:04,080
+Une augmentation de 10 % des transferts fédéraux
+
+74
+00:04:04,080 --> 00:04:08,760
+fait grimper l'incidence de la corruption générale de 4,7 %.
+
+75
+00:04:08,760 --> 00:04:11,320
+Ce n'est pas une marge d'erreur, c'est une donnée énorme.
+
+76
+00:04:11,320 --> 00:04:13,280
+Cela signifie que la pluie d'argent,
+
+77
+00:04:13,280 --> 00:04:15,760
+au lieu de pacifier et d'améliorer l'administration,
+
+78
+00:04:15,760 --> 00:04:18,920
+a agi comme un véritable dopage pour les pratiques illégales.
+
+79
+00:04:18,920 --> 00:04:21,879
+Et accrochez-vous bien, car il y a pire.
+
+80
+00:04:21,879 --> 00:04:24,960
+Si nous excluons les cas de simple, bien que grave,
+
+81
+00:04:24,960 --> 00:04:26,480
+mauvaise administration,
+
+82
+00:04:26,480 --> 00:04:31,240
+et que nous nous concentrons uniquement sur les preuves accablantes de corruption grave et manifeste,
+
+83
+00:04:31,240 --> 00:04:33,920
+le bond est encore plus frappant.
+
+84
+00:04:33,920 --> 00:04:37,920
+Les épisodes de vol éhonté bondissent de 7,3 %,
+
+85
+00:04:37,920 --> 00:04:41,480
+face à la même augmentation de budget de 10 %.
+
+86
+00:04:41,480 --> 00:04:44,600
+C'est la preuve irréfutable que l'aléa moral se matérialise
+
+87
+00:04:44,600 --> 00:04:48,040
+à l'instant précis où les caisses se remplissent gratuitement.
+
+88
+00:04:48,040 --> 00:04:52,720
+Et voici le coup de grâce pour notre confiance dans le système électoral.
+
+89
+00:04:52,720 --> 00:04:56,360
+On s'attendrait à ce qu'un maire pris la main dans le sac
+
+90
+00:04:56,360 --> 00:04:59,800
+perde les élections de manière désastreuse, n'est-ce pas ? Faux.
+
+91
+00:04:59,800 --> 00:05:04,400
+Les données nous disent que si une ville est soudainement inondée de fonds fédéraux,
+
+92
+00:05:04,400 --> 00:05:06,439
+les citoyens ont tendance à fermer les yeux.
+
+93
+00:05:06,439 --> 00:05:08,839
+L'argent supplémentaire atténue le scandale
+
+94
+00:05:08,839 --> 00:05:13,839
+et la sanction électoral pour un comportement corrompu devient incroyablement plus faible.
+
+95
+00:05:13,839 --> 00:05:15,160
+Absurde, n'est-ce pas ?
+
+96
+00:05:15,160 --> 00:05:18,439
+Section 4. Fuite du talent politique
+
+97
+00:05:18,439 --> 00:05:21,519
+qui mène au déclin de la qualité des candidats.
+
+98
+00:05:21,519 --> 00:05:24,839
+La malédiction des ressources n'apporte pas seulement la corruption,
+
+99
+00:05:24,839 --> 00:05:27,120
+elle fait aussi table rase des talents.
+
+100
+00:05:27,120 --> 00:05:28,680
+Regardez les données électorales,
+
+101
+00:05:28,680 --> 00:05:32,680
+avec l'augmentation des fonds, les personnes les plus instruites fuient la politique.
+
+102
+00:05:32,680 --> 00:05:35,079
+Avec 10 % de plus d'argent facile,
+
+103
+00:05:35,120 --> 00:05:39,199
+la part des challengers diplômés s'effondre de 2,7 %.
+
+104
+00:05:39,199 --> 00:05:41,479
+Ceux qui ont des compétences partent dans le privé,
+
+105
+00:05:41,479 --> 00:05:43,199
+fatigués d'un système opaque,
+
+106
+00:05:43,199 --> 00:05:44,719
+et vous savez qui y gagne ?
+
+107
+00:05:44,719 --> 00:05:46,120
+Le maire sortant,
+
+108
+00:05:46,120 --> 00:05:48,839
+peut-être précisément celui qui gère les fonds de manière trouble,
+
+109
+00:05:48,839 --> 00:05:54,519
+qui voit ses chances d'être réélu augmenter de 4 % grâce à l'absence de véritables rivaux.
+
+110
+00:05:54,519 --> 00:05:56,360
+Et nous arrivons à la section 5,
+
+111
+00:05:56,360 --> 00:05:58,079
+le prix de la démocratie,
+
+112
+00:05:58,079 --> 00:06:01,479
+évaluer le coût réel des revenus étatiques soudains.
+
+113
+00:06:01,520 --> 00:06:06,600
+Tout est parfaitement résumé dans cette citation des auteurs de l'étude.
+
+114
+00:06:06,600 --> 00:06:10,360
+Déverser des wagons d'argent d'en haut sur une commune,
+
+115
+00:06:10,360 --> 00:06:13,680
+sans supervision rigoureuse, n'est pas du développement.
+
+116
+00:06:13,680 --> 00:06:15,600
+C'est un paradoxe tragique.
+
+117
+00:06:15,600 --> 00:06:20,160
+L'argent facile attire des vautours en quête d'enrichissement personnel,
+
+118
+00:06:20,160 --> 00:06:24,800
+et éloigne ceux qui ont réellement les outils et les compétences pour améliorer la société.
+
+119
+00:06:24,800 --> 00:06:28,040
+C'est une dynamique destructrice pour la vertu civique.
+
+120
+00:06:28,040 --> 00:06:30,720
+Et cela nous amène à notre réflexion finale.
+
+121
+00:06:30,720 --> 00:06:36,320
+Souvent, dans les journaux, nous nous réjouissons du nombre de millions qui ont été débloqués pour telle ou telle région.
+
+122
+00:06:36,320 --> 00:06:39,480
+Mais la vraie question, la question provocatrice que nous devons nous poser,
+
+123
+00:06:39,480 --> 00:06:42,720
+est : fêtons-nous aveuglément le nombre de zéros sur le chèque
+
+124
+00:06:42,720 --> 00:06:47,480
+ou exigeons-nous un système qui garantisse l'intégrité de ceux qui devront dépenser cet argent ?
+
+125
+00:06:47,480 --> 00:06:50,960
+Parce que, comme nous l'avons vu aujourd'hui, sans transparence et sans rigueur,
+
+126
+00:06:50,960 --> 00:06:55,200
+la plus grande bénédiction financière peut se transformer littéralement en un instant
+
+127
+00:06:55,200 --> 00:06:57,280
+en la plus mortelle des malédictions.

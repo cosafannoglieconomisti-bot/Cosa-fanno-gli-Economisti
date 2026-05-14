@@ -1,0 +1,432 @@
+1
+00:00:00,000 --> 00:00:05,040
+Allora oggi parliamo di una ricerca davvero importante, che entra in un tema delicato,
+
+2
+00:00:05,040 --> 00:00:09,960
+i pregiudizi in conci nella scuola italiana, andremo a vedere come gli stereotipi, anche
+
+3
+00:00:09,960 --> 00:00:14,679
+quelli che non sappiamo di avere, possono avere un peso reale, concreto, sulle valutazioni
+
+4
+00:00:14,679 --> 00:00:15,679
+degli studenti.
+
+5
+00:00:15,679 --> 00:00:16,679
+Esatto.
+
+6
+00:00:16,679 --> 00:00:20,719
+E la domanda centrale da cui parte tutto è proprio questa.
+
+7
+00:00:20,719 --> 00:00:25,960
+Immaginiamo per un attimo due studenti, uno italiano e un immigrato, che in un test, uguale
+
+8
+00:00:25,960 --> 00:00:30,320
+per tutti e soprattutto anonimo, prendono esattamente lo stesso punteggio.
+
+9
+00:00:30,320 --> 00:00:36,039
+La domanda è, alla fine, il loro insegnante, darà entrambi lo stesso voto, beh, la risposta
+
+10
+00:00:36,039 --> 00:00:38,679
+come stiamo per scoprire, non è così semplice.
+
+11
+00:00:38,679 --> 00:00:44,200
+Ok, partiamo dal problema che i ricercatori hanno messo a fuoco nelle nostre scuole medie,
+
+12
+00:00:44,200 --> 00:00:48,960
+c'è qualcosa che non torna, una differenza nei voti che a Occionudo non si vede, un vero
+
+13
+00:00:48,960 --> 00:00:50,679
+e proprio di vario nascosto.
+
+14
+00:00:50,679 --> 00:00:55,240
+Diamo un occhiata a questo grafico, perché è qui che si vede il nocciolo della questione.
+
+15
+00:00:55,320 --> 00:01:00,280
+Qui vediamo i voti dati dagli insegnanti a studenti che, come dicevamo, nei testi nazionali
+
+16
+00:01:00,280 --> 00:01:03,520
+standardizzati, hanno dimostrato la stessa preparazione.
+
+17
+00:01:03,520 --> 00:01:08,599
+La prima barra, quella un po' più alta, sono gli studenti nativi, la seconda gli studenti
+
+18
+00:01:08,599 --> 00:01:09,599
+immigrati.
+
+19
+00:01:09,599 --> 00:01:12,359
+E' la differenza anche se piccola c'è sempre.
+
+20
+00:01:12,359 --> 00:01:16,920
+A parità di competenza, gli studenti immigrati si ritrovano con un voto mediamente un po'
+
+21
+00:01:16,920 --> 00:01:17,920
+più basso.
+
+22
+00:01:17,920 --> 00:01:23,960
+Certo, 0.14 punti può sembrare un'inerzia, ma è fondamentale capire il suo peso reale.
+
+23
+00:01:23,960 --> 00:01:28,200
+Questo piccolo scarco, pensate, è grande quasi quanto l'impatto che ha il livello di
+
+24
+00:01:28,200 --> 00:01:32,120
+struzione della madre sull'endimento scolastico di un figlio, e sappiamo tutti quanto
+
+25
+00:01:32,120 --> 00:01:33,880
+continua e fattori socio-economici.
+
+26
+00:01:33,880 --> 00:01:36,680
+Insomma, non stiamo parlando di una differenza da niente.
+
+27
+00:01:36,680 --> 00:01:43,600
+E quindi la domanda sorge spontania, ma perché succede questo, da dove salta fuori questa
+
+28
+00:01:43,600 --> 00:01:44,600
+differenza?
+
+29
+00:01:44,600 --> 00:01:50,460
+Per capirlo, i ricercatori hanno provato a misurare qualcosa di molto, molto sfugente, i
+
+30
+00:01:50,460 --> 00:01:55,380
+pregiudizi impliciti, quelli inconsci degli insegnanti.
+
+31
+00:01:55,380 --> 00:02:00,700
+Proprio così, e facciamo chiarezza su cosa intendiamo per pregiudizio implicito.
+
+32
+00:02:00,700 --> 00:02:04,140
+Non stiamo parlando di una scelta consapevole di discriminare.
+
+33
+00:02:04,140 --> 00:02:09,420
+No, sono delle associazioni mentali che scattano in automatico, degli esterioti, che respiriamo
+
+34
+00:02:09,420 --> 00:02:14,140
+dalla cultura in cui viviamo, e che possono, senza che nemmeno ce ne accorgiamo, orientare
+
+35
+00:02:14,140 --> 00:02:15,780
+le nostre decisioni.
+
+36
+00:02:15,780 --> 00:02:21,699
+Per provare a misurarli si usa un test che si chiama Implicit Association Test, YAT.
+
+37
+00:02:21,699 --> 00:02:23,420
+In pratica, funziona così.
+
+38
+00:02:23,420 --> 00:02:27,979
+Viene chiesto all'insegnante di associare il più velocemente possibile nomi tipo Fatima
+
+39
+00:02:27,979 --> 00:02:30,819
+o Francesca, apparò le positive o negative.
+
+40
+00:02:30,819 --> 00:02:34,740
+L'idea di fondo è che se nella nostra testa l'associazione nome straniero e aggettivo
+
+41
+00:02:34,740 --> 00:02:38,860
+negativo e più automatica, ci mettiamo una frazione di secondo in più per fare l'associazione
+
+42
+00:02:38,860 --> 00:02:43,060
+opposta, quella contro intuitiva, come nome straniero e aggettivo positivo.
+
+43
+00:02:43,060 --> 00:02:47,500
+Ecco quel piccolo ritardo, misurato i mili secondi, e la spia del Prejudizio Implicito.
+
+44
+00:02:47,500 --> 00:02:51,819
+E i risultati, beh, sono stati ad il poco sorprendenti.
+
+45
+00:02:51,819 --> 00:02:56,580
+Questo grafico ci fa vedere come è distribuito il Prejudizio Implicito Negativo verso gli
+
+46
+00:02:56,580 --> 00:02:58,979
+immigrati tra gli insegnanti testati.
+
+47
+00:02:58,979 --> 00:03:06,259
+Il 70% una fette enorme ha mostrato un Prejudizio da moderato a forte, e solo un piccolissimo
+
+48
+00:03:06,259 --> 00:03:09,060
+5% non ne aveva affatto.
+
+49
+00:03:09,060 --> 00:03:14,580
+Attenzione, questo non vuol dire che il 95% degli insegnanti sia racista, ma che quasi
+
+50
+00:03:14,580 --> 00:03:18,580
+tutti noi abbiamo dentro delle associazioni incontce negative.
+
+51
+00:03:18,580 --> 00:03:23,780
+Ok, una volta che abbiamo misurato questo Prejudizio, la domanda successiva è stata, e
+
+52
+00:03:23,780 --> 00:03:29,259
+quindi, che succede se mettiamo gli insegnanti di fronte a questi loro bias, sapere di averli,
+
+53
+00:03:29,259 --> 00:03:31,699
+può cambiare il modo in cui valutano?
+
+54
+00:03:31,699 --> 00:03:36,180
+Per scoprirlo si sono spostati dalla teoria alla pratica con un esperimento vero e proprio
+
+55
+00:03:36,180 --> 00:03:37,500
+nelle scuole.
+
+56
+00:03:37,500 --> 00:03:43,219
+Esperto uno, il disegno dell'esperimento è stato tanto semplice quanto direi geniale.
+
+57
+00:03:43,219 --> 00:03:46,419
+Hanno preso gli insegnanti e li hanno divisi in due gruppi.
+
+58
+00:03:46,419 --> 00:03:51,500
+Al primo gruppo che chiamiamo informato hanno comunicato il risultato del loro test sul
+
+59
+00:03:51,500 --> 00:03:54,539
+Prejudizio prima che descero i voti finali.
+
+60
+00:03:54,539 --> 00:03:58,259
+Al secondo gruppo, quello di controllo, l'hanno detto dopo.
+
+61
+00:03:58,259 --> 00:04:01,539
+L'unica cosa che cambiava, quindi, era il quando.
+
+62
+00:04:01,539 --> 00:04:04,180
+E il risultato è stato pazzesco.
+
+63
+00:04:04,180 --> 00:04:06,900
+Il solo fatto di sapere in anticipo il proprio punteggio.
+
+64
+00:04:06,939 --> 00:04:11,780
+Aspinto gli insegnanti del gruppo informato a ridurre il divario nei voti di ben 0.35
+
+65
+00:04:11,780 --> 00:04:12,780
+punti.
+
+66
+00:04:12,780 --> 00:04:16,139
+In pratica hanno quasi azzerato la differenza iniziale e l'hanno fatto soprattutto
+
+67
+00:04:16,139 --> 00:04:18,139
+al sando i voti e gli studenti immigrati.
+
+68
+00:04:18,139 --> 00:04:22,740
+A questo punto, però i ricercatori hanno voluto andare ancora più a fondo, cioè la
+
+69
+00:04:22,740 --> 00:04:28,660
+domanda era, a fare la differenza e sapere del proprio specifico prejudizio, o basterebbe
+
+70
+00:04:28,660 --> 00:04:33,060
+un avvertimento più generico tipo attenzione i prejudizi esistono.
+
+71
+00:04:33,100 --> 00:04:37,220
+Per capirlo, hanno messo in piedi un secondo esperimento, stavolta un line.
+
+72
+00:04:37,220 --> 00:04:41,660
+In questo secondo round, a tutti arrivato un messaggio generale che l'informava appunto
+
+73
+00:04:41,660 --> 00:04:47,180
+dell'esistenza di prejudizia scuola, però solo la metà di loro, al gruppo trattamento,
+
+74
+00:04:47,180 --> 00:04:51,980
+oltre al messaggio generale, è stato comunicato anche il risultato personale del test.
+
+75
+00:04:51,980 --> 00:04:55,939
+L'obiettivo era proprio isolare l'effetto dell'informazione su misura.
+
+76
+00:04:55,939 --> 00:04:58,980
+Ed è qui che la cosa si fa super interessante.
+
+77
+00:04:58,980 --> 00:05:02,379
+Guardate questa tabella, perché è la chiave di tutto.
+
+78
+00:05:02,420 --> 00:05:06,939
+Per il insegnanti con un prejudizio basso, il messaggio generico e quello personale
+
+79
+00:05:06,939 --> 00:05:12,500
+hanno avuto più o meno lo stesso effetto positivo, ma la vera sorpresa è nella riga sotto.
+
+80
+00:05:12,500 --> 00:05:17,180
+Per quelli con un prejudizio forte, il messaggio generico non è servito a nulla.
+
+81
+00:05:17,180 --> 00:05:18,699
+Nessun cambiamento.
+
+82
+00:05:18,699 --> 00:05:23,540
+Hanno cambiato registro solo quando si sono visti sbatteri in face loro risultato personale.
+
+83
+00:05:23,540 --> 00:05:25,540
+L'issicchi hanno ridotto il divario.
+
+84
+00:05:25,540 --> 00:05:29,420
+E questo ci porta adritti al cuore del meccanismo che hanno scoperto.
+
+85
+00:05:29,420 --> 00:05:32,259
+Quello che potremmo chiamare è effetto sorpresa.
+
+86
+00:05:32,300 --> 00:05:36,980
+L'informazione personalizzata è una bomba, soprattutto quando ti coglia di sorpresa.
+
+87
+00:05:36,980 --> 00:05:41,180
+L'insegnanti che hanno cambiato di più il loro comportamento sono stati proprio quelli
+
+88
+00:05:41,180 --> 00:05:45,899
+che probabilmente avrebbero detto, io, prejudizi, ma figurati.
+
+89
+00:05:45,899 --> 00:05:49,019
+E a conferma di questo, c'è un dato che fa impressione.
+
+90
+00:05:49,019 --> 00:05:54,819
+L'80% degli insegnanti, otto su 10, ha sottovalutato il proprio livello di prejudizio.
+
+91
+00:05:54,819 --> 00:05:58,420
+Questo ci fa capire quanto poco ci conosciamo da questo punto di vista.
+
+92
+00:05:58,420 --> 00:06:02,460
+E perché un feedback diretto e personale possa essere così dirompente.
+
+93
+00:06:02,460 --> 00:06:04,259
+E così arriviamo al dunque.
+
+94
+00:06:04,259 --> 00:06:07,020
+Che cosa ci portiamo a casa da tutta questa ricerca?
+
+95
+00:06:07,020 --> 00:06:13,140
+E soprattutto cosa ci dice su come possiamo rendere la scuola un posto concretamente più giusto per tutti?
+
+96
+00:06:13,140 --> 00:06:16,460
+Riasso mi amo un attimo le cose fondamentali e che abbiamo capito.
+
+97
+00:06:16,460 --> 00:06:22,220
+Punto primo, i prejudizi in conci non sono pensieri astrati, ma hanno un impatto reale sui voti.
+
+98
+00:06:22,220 --> 00:06:25,379
+Punto secondo, la consapevolezza è un'arma potente.
+
+99
+00:06:25,379 --> 00:06:29,300
+Dire un insegnante guarda che questo bias può ridurre le disparità.
+
+100
+00:06:29,300 --> 00:06:34,899
+Terzo, un conto è dire i bias esistono, un altro è dire questo è il tuo bias.
+
+101
+00:06:34,899 --> 00:06:39,500
+L'informazione personalizzata a vince, soprattutto con chi ha prejudizi più forti.
+
+102
+00:06:39,500 --> 00:06:42,740
+En fine, il vero motore del cambiamento è la sorpresa.
+
+103
+00:06:42,740 --> 00:06:46,139
+Lo shock di scoprire un lato di noi che non ci aspettavamo.
+
+104
+00:06:46,139 --> 00:06:50,060
+E chiudiamo con una domanda aperta, una riflessione.
+
+105
+00:06:50,060 --> 00:06:56,819
+Tutt'a questa ricerca sembra suggerire che a volte per iniziare a risolvere un problema basta renderlo visibile.
+
+106
+00:06:56,819 --> 00:07:00,060
+E la domanda che lasciamo sul tavolo è proprio questa.
+
+107
+00:07:00,060 --> 00:07:07,699
+Portare alla luce un prejudizio che non sapevamo di avere è davvero il primo indispensabile passo per iniziare a sconfigerlo.
+
+108
+00:07:07,699 --> 00:07:09,899
+Grazie per averci seguito in questa analisi.
+

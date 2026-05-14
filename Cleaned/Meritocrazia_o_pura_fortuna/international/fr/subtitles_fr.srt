@@ -1,0 +1,560 @@
+1
+00:00:00,000 --> 00:00:03,040
+Bienvenue dans cette nouvelle étude.
+
+2
+00:00:03,040 --> 00:00:08,960
+Aujourd'hui, je vous emmène dans un voyage vraiment fascinant, je dirais inattendu, dans la biologie.
+
+3
+00:00:08,960 --> 00:00:09,960
+évolutif.
+
+4
+00:00:09,960 --> 00:00:14,240
+Nous découvrirons les véritables origines anciennes du partage humain.
+
+5
+00:00:14,240 --> 00:00:18,760
+Et comme le titre le montre clairement dans une impression sobre, la question d'aujourd'hui est précisément
+
+6
+00:00:18,760 --> 00:00:21,240
+Cratie du mérite ou pure chance.
+
+7
+00:00:21,240 --> 00:00:25,800
+Ce n'est pas seulement un débat réservé aux philosophes modernes, c'est quelque chose de profondément enraciné
+
+8
+00:00:25,800 --> 00:00:28,600
+dans la structure primordiale de nos sociétés.
+
+9
+00:00:28,600 --> 00:00:32,679
+Et je vous préviens, les découvertes que nous allons voir vont totalement changer votre perspective.
+
+10
+00:00:32,679 --> 00:00:34,000
+auquel nous sommes habitués.
+
+11
+00:00:34,000 --> 00:00:39,520
+Alors commençons tout de suite par une provocation, une question qui ressemble presque à un paradoxe.
+
+12
+00:00:39,520 --> 00:00:42,560
+Et si l’égalité naissait du mérite ?
+
+13
+00:00:42,560 --> 00:00:44,680
+Je sais, c'est presque étrange de demander.
+
+14
+00:00:44,680 --> 00:00:48,659
+Nous imaginons souvent l'histoire de l'homme comme cette lutte sans fin entre qui devient
+
+15
+00:00:48,659 --> 00:00:53,079
+quatre à produire et ceux qui, bon, veulent leur part sans lever le petit doigt.
+
+16
+00:00:53,079 --> 00:00:57,500
+Cependant, les modèles évolutifs que nous analyserons aujourd’hui nous racontent une histoire complète
+
+17
+00:00:57,500 --> 00:00:58,500
+différent.
+
+18
+00:00:58,500 --> 00:01:02,380
+Et si je puis dire, nettement plus pragmatique et intrigant.
+
+19
+00:01:02,380 --> 00:01:06,739
+Nous entrons alors dans notre premier chapitre, le paradoxe de l’équité.
+
+20
+00:01:06,739 --> 00:01:08,900
+Mérite contre partage.
+
+21
+00:01:08,900 --> 00:01:12,780
+Pour mieux comprendre cet affrontement séculaire entre tout garder pour soi et tout partager
+
+22
+00:01:12,780 --> 00:01:15,060
+avec les autres, clarifions un instant.
+
+23
+00:01:15,060 --> 00:01:20,019
+Par "cratie du mérite", nous entendons ici un système rigide et agréable où tout le monde obtient exactement cela.
+
+24
+00:01:20,019 --> 00:01:21,819
+que tu as produit avec ta sueur.
+
+25
+00:01:21,819 --> 00:01:26,480
+L’égalitarisme en revanche est exactement le contraire, il se fait à moitié ou à parts égales entre tout le monde.
+
+26
+00:01:26,480 --> 00:01:30,000
+membres du groupe, sans regarder qui a travaillé le plus dur ou dans ce domaine spécifique
+
+27
+00:01:30,000 --> 00:01:31,000
+instantané ?
+
+28
+00:01:31,000 --> 00:01:34,159
+Ok, maintenant que nous avons défini les bases, pouvons-nous passer à autre chose ?
+
+29
+00:01:34,159 --> 00:01:37,800
+Bref, de quelle hypothèse partons-nous presque tous ?
+
+30
+00:01:37,800 --> 00:01:42,400
+Ces deux concepts comme le jour et la nuit sont-ils absolument opposés ?
+
+31
+00:01:42,400 --> 00:01:47,240
+L’idée générale est que l’améritocratie est le cas, alors que l’égalitarisme est un
+
+32
+00:01:47,240 --> 00:01:51,560
+une sorte de forçage, et non un correctif artificiel mis en place par la société.
+
+33
+00:01:51,560 --> 00:01:56,040
+Comme si les systèmes égalitaires avaient été créés spécifiquement pour s'opposer aux systèmes méritocratiques,
+
+34
+00:01:56,040 --> 00:02:00,240
+c'est une idée que nous avons pratiquement dans notre ADN, mais voici la partie amusante.
+
+35
+00:02:00,240 --> 00:02:04,960
+Les données nous montrent que la nature ne prête pas attention aux idéologies, qu'elle ne pense qu'à une chose,
+
+36
+00:02:04,960 --> 00:02:05,960
+au-dessus de la vie.
+
+37
+00:02:05,960 --> 00:02:11,560
+Et cela nous amène directement au chapitre 2, l'habileté contre la pure chance, la véritable aiguille du
+
+38
+00:02:11,560 --> 00:02:12,560
+échelles.
+
+39
+00:02:12,560 --> 00:02:17,040
+Pecco, la variable qui bouleverse les règles du jeu, le hasard ?
+
+40
+00:02:17,040 --> 00:02:19,920
+Pour comprendre cela, imaginez deux scénarios primitifs.
+
+41
+00:02:19,920 --> 00:02:25,040
+Dans le premier, nous avons des environnements à faible variance, comme la cueillette de baies ou de tubercules.
+
+42
+00:02:25,079 --> 00:02:28,719
+Là-bas, si vous travaillez dur et êtes compétent, le résultat est garanti.
+
+43
+00:02:28,719 --> 00:02:31,919
+Votre effort se transforme directement en calories.
+
+44
+00:02:31,919 --> 00:02:36,799
+D’un autre côté, il existe cependant des environnements à forte variance, comme la chasse au gros gibier.
+
+45
+00:02:36,799 --> 00:02:38,159
+Et là, tout change.
+
+46
+00:02:38,159 --> 00:02:42,719
+Alors soyez aussi le chasseur le plus fort et le mieux préparé de la planète, mais si l'animal ne passe pas
+
+47
+00:02:42,719 --> 00:02:45,519
+à partir de là, vous retournez à la grotte les mains vides, point final.
+
+48
+00:02:45,519 --> 00:02:49,680
+Dans ce cas, l’imprévisibilité et la chance comptent mille fois plus que la vôtre
+
+49
+00:02:49,680 --> 00:02:51,479
+un simple effort physique.
+
+50
+00:02:51,519 --> 00:02:56,719
+Il y a cette citation qui résume parfaitement une de nos énormes limites psychologiques.
+
+51
+00:02:56,719 --> 00:03:02,639
+L’éternelle tendance humaine est de confondre un coup de chance avec une immensité personnelle.
+
+52
+00:03:02,639 --> 00:03:04,000
+C'est un peu drôle, non ?
+
+53
+00:03:04,000 --> 00:03:06,839
+Et pourtant, c’est un préjugé très ancien et très puissant.
+
+54
+00:03:06,839 --> 00:03:11,039
+Pensez à l'ancien chasseur revenant au camp avec une énorme proie capturée.
+
+55
+00:03:11,039 --> 00:03:12,839
+pratiquement par pur hasard.
+
+56
+00:03:12,839 --> 00:03:18,359
+Combien de temps a-t-il fallu à son ego pour le convaincre que tout cela était dû à sa technique imbattable ?
+
+57
+00:03:18,359 --> 00:03:19,280
+Un instant.
+
+58
+00:03:19,319 --> 00:03:23,560
+Oubliant complètement le rôle gigantesque joué par la Providence,
+
+59
+00:03:23,560 --> 00:03:25,199
+Passons au chapitre 3.
+
+60
+00:03:25,199 --> 00:03:30,560
+Le risque d’isolement, que se passe-t-il lorsque l’égoïsme rencontre la nature.
+
+61
+00:03:30,560 --> 00:03:35,920
+Mais alors, quelles sont les conséquences d’être un loup solitaire dans un monde aussi fou ?
+
+62
+00:03:35,920 --> 00:03:36,920
+imprévisible ?
+
+63
+00:03:36,920 --> 00:03:40,400
+Regardez les proportions de ce graphique, elles disent tout.
+
+64
+00:03:40,400 --> 00:03:45,159
+La barre de gauche nous montre la probabilité de survie à long terme d'un chasseur
+
+65
+00:03:45,159 --> 00:03:47,800
+strictement méritocratique et solitaire.
+
+66
+00:03:47,840 --> 00:03:52,400
+C’est très faible, à l’échelle générationnelle, il est littéralement affecté par le 0.
+
+67
+00:03:52,400 --> 00:03:56,640
+Maintenant regarde la barre de droite, c'est le sort de ceux qui choisissent de rejoindre les autres
+
+68
+00:03:56,640 --> 00:03:58,160
+et partager le risque.
+
+69
+00:03:58,160 --> 00:04:01,040
+La courbe de survie monte en flèche.
+
+70
+00:04:01,040 --> 00:04:05,600
+Il y a peu de choses à faire, les mathématiques évolutionnistes n’ont aucune pitié pour les individualistes.
+
+71
+00:04:05,600 --> 00:04:10,160
+Le concept clé ici trace une ligne claire et est brutalement évident.
+
+72
+00:04:10,160 --> 00:04:13,320
+Laissez tout s'accumuler pour vous pendant une période chanceuse,
+
+73
+00:04:13,319 --> 00:04:17,399
+mathématiquement, vous finirez par mourir de faim lorsque la roue, comme toujours,
+
+74
+00:04:17,399 --> 00:04:19,240
+ça tournera dans le mauvais sens.
+
+75
+00:04:19,240 --> 00:04:23,680
+Dans ces environnements à forte variance, refuser de partager s’est avéré être un problème réel et
+
+76
+00:04:23,680 --> 00:04:25,159
+juste à côté de l'aveugle.
+
+77
+00:04:25,159 --> 00:04:28,040
+Un suicide évolutif, il n’y a pas d’échappatoire.
+
+78
+00:04:28,040 --> 00:04:30,399
+Et puis voyons le chapitre 4.
+
+79
+00:04:30,399 --> 00:04:32,600
+L'évolution du partage.
+
+80
+00:04:32,600 --> 00:04:35,959
+Seul on perd, en groupe on gagne.
+
+81
+00:04:35,959 --> 00:04:41,159
+Ici, simulations mathématiques et théorie des jeux nous offrent un spectacle fou.
+
+82
+00:04:41,160 --> 00:04:43,520
+Regardez les étapes étape par étape.
+
+83
+00:04:43,520 --> 00:04:48,800
+Au début, en phase 1, chacun part par un égoïsme méritocratique pur et simple,
+
+84
+00:04:48,800 --> 00:04:50,080
+chacun pour soi.
+
+85
+00:04:50,080 --> 00:04:55,240
+Puis, phase 2, ces agents sont confrontés à la dure réalité des risques à forte variance.
+
+86
+00:04:55,240 --> 00:05:00,280
+Les périodes creuses et bonnes arrivent et cela conduit inévitablement à la phase 3.
+
+87
+00:05:00,280 --> 00:05:04,760
+Pour ne pas disparaître de la surface de la terre, les individus sont littéralement contraints par
+
+88
+00:05:04,760 --> 00:05:06,760
+système pour changer de stratégie.
+
+89
+00:05:06,760 --> 00:05:09,640
+Ils adoptent une démarche collaborative et qualitative.
+
+90
+00:05:09,639 --> 00:05:14,360
+Mais attention, ils ne le font pas par bonne volonté soudaine, ils le font pour créer un bassin
+
+91
+00:05:14,360 --> 00:05:19,240
+commun qui amortit le risque mortel, et une pure logique de survie.
+
+92
+00:05:19,240 --> 00:05:23,039
+Cette matrice nous montre l'engrenage parfait de cette transition.
+
+93
+00:05:23,039 --> 00:05:29,199
+Regardez comment la stratégie du partage éclipse toujours celle de l'égoïsme sur le long terme
+
+94
+00:05:29,199 --> 00:05:30,199
+pur.
+
+95
+00:05:30,199 --> 00:05:34,399
+Le jour de chance, ceux qui ne sont pas d'accord semblent avoir touché au bingo, ils gardent tout
+
+96
+00:05:34,399 --> 00:05:39,560
+le surplus, mais c'est une illusion d'optique, car dès le premier jour de malheur
+
+97
+00:05:39,639 --> 00:05:44,920
+le coût biologique d'avoir été égoïste devient littéralement catastrophique, cela signifie
+
+98
+00:05:44,920 --> 00:05:46,439
+la fin de l'individu.
+
+99
+00:05:46,439 --> 00:05:51,560
+En partageant toujours, vous garantissez que chacun dispose du minimum de calories à surmonter dans les bons moments.
+
+100
+00:05:51,560 --> 00:05:52,560
+noir.
+
+101
+00:05:52,560 --> 00:05:55,160
+Bref, l’aximétrie du risque est frappante.
+
+102
+00:05:55,160 --> 00:05:59,639
+Et ce diagramme Donut cristallise le concept de manière brillante.
+
+103
+00:05:59,639 --> 00:06:05,199
+En le regardant superficiellement de l'extérieur, il peut paraître noble et pur.
+
+104
+00:06:05,199 --> 00:06:07,199
+acte d’égalitarisme altruiste.
+
+105
+00:06:07,199 --> 00:06:12,519
+En fait, c'est une police d'assurance très banale, froide et calculée contre
+
+106
+00:06:12,519 --> 00:06:13,519
+pas de chance.
+
+107
+00:06:13,519 --> 00:06:18,800
+La tranche géante représente notre sécurité collective, un bouclier évolutif créé en unissant
+
+108
+00:06:18,800 --> 00:06:24,199
+ressources, capables de nous protéger de cette petite tranche rouge maléfique de vulnérabilité
+
+109
+00:06:24,199 --> 00:06:26,120
+individu causé par le hasard.
+
+110
+00:06:26,120 --> 00:06:31,639
+Nous arrivons alors à notre dernier chapitre, du mérite à l'égalité, le véritable changement de
+
+111
+00:06:31,639 --> 00:06:32,639
+paradigme.
+
+112
+00:06:32,639 --> 00:06:36,959
+Ok, tirons les fils de la discussion car les implications sont très fortes.
+
+113
+00:06:37,360 --> 00:06:41,000
+Premièrement, l’égalité n’est pas née comme une idéologie opposée au mérite.
+
+114
+00:06:41,000 --> 00:06:46,280
+Au contraire, il a évolué directement à partir d’un système améritocratique primordial pour résoudre
+
+115
+00:06:46,280 --> 00:06:48,400
+problèmes absolument pratiques.
+
+116
+00:06:48,400 --> 00:06:53,680
+Deuxièmement, c’est précisément l’extrême imprévisibilité de l’environnement qui force le développement.
+
+117
+00:06:53,680 --> 00:06:54,680
+de coopération.
+
+118
+00:06:54,680 --> 00:06:59,760
+Troisièmement, le partage systématique des risques est le seul monde mathématique qui garantisse
+
+119
+00:06:59,760 --> 00:07:01,080
+un avenir pour l'espèce.
+
+120
+00:07:01,080 --> 00:07:06,600
+Et enfin, quatrièmement, c’est précisément l’impact du cas de pure chance qui a attiré
+
+121
+00:07:06,600 --> 00:07:08,840
+l'architecture des premières sociétés humaines.
+
+122
+00:07:08,840 --> 00:07:13,600
+Autrement dit, cette phrase, en phase finale de recherche, qui est un véritable joyau, réussit
+
+123
+00:07:13,600 --> 00:07:15,520
+pour tout résumer dans une seule phrase.
+
+124
+00:07:15,520 --> 00:07:20,120
+Le comportement égalitaire est une réponse évolutive rationnelle au hasard.
+
+125
+00:07:20,120 --> 00:07:22,080
+Ici, réfléchissons-y.
+
+126
+00:07:22,080 --> 00:07:27,000
+Cette folle intuition va de pair avec l’ancienne analogie du chasseur primitif.
+
+127
+00:07:27,000 --> 00:07:31,280
+et l’architecture est bien plus compliquée que nos interactions modernes.
+
+128
+00:07:31,280 --> 00:07:36,200
+Cela nous montre en pratique que l’égalité est, à toutes fins utiles, une forme super avancée
+
+129
+00:07:36,199 --> 00:07:40,920
+ai pour la folie du mérite spécialisé, le meilleur système que nous ayons trouvé pour combattre
+
+130
+00:07:40,920 --> 00:07:42,719
+l'imprévisibilité de l'existence.
+
+131
+00:07:42,719 --> 00:07:48,279
+Et je veux clôturer notre voyage en vous laissant avec une dure provocation, bien méritée.
+
+132
+00:07:48,279 --> 00:07:49,519
+pour nous faire réfléchir.
+
+133
+00:07:49,519 --> 00:07:55,599
+Aujourd’hui, dans nos sociétés modernes et sophistiquées, la part de nos objectifs dépend réellement
+
+134
+00:07:55,599 --> 00:08:01,159
+et uniquement par notre mérite, et ce qui est encore dicté par la pure et simple
+
+135
+00:08:01,159 --> 00:08:04,039
+la chance, ou les circonstances dans lesquelles nous nous trouvons.
+
+136
+00:08:04,280 --> 00:08:09,439
+C'est une dynamique vieille de plusieurs millions d'années, profondément encodée dans notre biologie,
+
+137
+00:08:09,439 --> 00:08:15,360
+Pourtant, de manière presque invisible, il continue de guider, d’influencer et de déterminer le délicat
+
+138
+00:08:15,360 --> 00:08:17,400
+et ici des livres sur le monde dans lequel nous vivons.
+
+139
+00:08:17,400 --> 00:08:21,680
+Je vous laisse avec cette idée pour la prochaine fois que vous jugerez une personne formidable
+
+140
+00:08:21,680 --> 00:08:24,400
+succès, ou peut-être un échec inévitable.
+

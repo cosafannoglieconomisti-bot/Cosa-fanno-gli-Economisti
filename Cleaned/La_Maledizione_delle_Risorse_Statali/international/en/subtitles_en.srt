@@ -1,0 +1,507 @@
+1
+00:00:00,000 --> 00:00:04,080
+Ok, let's start right away and dive into this new analysis.
+
+2
+00:00:04,080 --> 00:00:08,759
+Today we explore a fascinating topic, which, as the title on the screen says,
+
+3
+00:00:08,759 --> 00:00:11,599
+is called the curse of state resources.
+
+4
+00:00:11,599 --> 00:00:16,679
+And I want to immediately challenge, from the very first seconds, an idea that we all take for granted.
+
+5
+00:00:16,679 --> 00:00:21,000
+The belief that a sudden shower of public money on a local administration
+
+6
+00:00:21,000 --> 00:00:23,960
+automatically brings enormous benefits to society.
+
+7
+00:00:23,960 --> 00:00:26,879
+Usually when extra funds arrive, people celebrate, right?
+
+8
+00:00:26,919 --> 00:00:31,799
+Well, hold on tight because economic research tells us that the story is very, very different.
+
+9
+00:00:31,799 --> 00:00:33,640
+It's super intuitive, right?
+
+10
+00:00:33,640 --> 00:00:39,560
+It comes naturally to think that injecting a sea of money into a municipality magically solves structural problems.
+
+11
+00:00:39,560 --> 00:00:44,519
+More budget, great, let's build more schools and repair roads, hire doctors.
+
+12
+00:00:44,519 --> 00:00:46,159
+It seems like the perfect equation.
+
+13
+00:00:46,159 --> 00:00:50,359
+But the reality emerging from empirical data is incredibly paradoxical.
+
+14
+00:00:50,359 --> 00:00:54,200
+Economic literature shows us that if the right controls are missing,
+
+15
+00:00:54,200 --> 00:01:00,720
+this sudden abundance of resources can literally crumble the foundations of local democratic institutions.
+
+16
+00:01:00,720 --> 00:01:04,280
+And this is where a truly counterintuitive concept comes into play,
+
+17
+00:01:04,280 --> 00:01:06,040
+uncovered by a team of economists,
+
+18
+00:01:06,040 --> 00:01:08,560
+Brollo, Nannicini, Perotti, and Tabellini,
+
+19
+00:01:08,560 --> 00:01:11,879
+who coined the term political resource curse.
+
+20
+00:01:11,879 --> 00:01:13,280
+In practice, what do they tell us?
+
+21
+00:01:13,280 --> 00:01:17,400
+They tell us that when a local government receives a lot of money that doesn't come
+
+22
+00:01:17,400 --> 00:01:20,920
+from the direct taxes of its own citizens, a disaster happens.
+
+23
+00:01:20,960 --> 00:01:24,320
+The quality of those who govern unexpectedly begins to collapse,
+
+24
+00:01:24,320 --> 00:01:26,439
+a real short circuit.
+
+25
+00:01:26,439 --> 00:01:31,359
+Let's move on to Section 1, the theory of moral hazard.
+
+26
+00:01:31,359 --> 00:01:37,400
+Let's see exactly why more money can paradoxically mean more problems.
+
+27
+00:01:37,400 --> 00:01:38,599
+Think about it for a moment.
+
+28
+00:01:38,599 --> 00:01:42,400
+The mechanism is as simple as it is fascinating.
+
+29
+00:01:42,400 --> 00:01:46,200
+Imagine that your municipality's budget suddenly explodes.
+
+30
+00:01:46,200 --> 00:01:50,520
+We citizens see some construction sites arrive, two or three extra services,
+
+31
+00:01:50,599 --> 00:01:51,799
+and we lower our guard.
+
+32
+00:01:51,799 --> 00:01:55,239
+We become less demanding, and do you know what happens then?
+
+33
+00:01:55,239 --> 00:01:59,519
+The politician in charge suddenly has much more room to embezzle money
+
+34
+00:01:59,519 --> 00:02:03,959
+or create political rents without anyone noticing or making too much of a fuss.
+
+35
+00:02:03,959 --> 00:02:05,119
+And there's worse.
+
+36
+00:02:05,119 --> 00:02:09,560
+A pile of easy money acts like a magnet for opportunistic candidates,
+
+37
+00:02:09,560 --> 00:02:14,680
+perhaps less prepared, who only aim for easy gain and not the public good.
+
+38
+00:02:14,680 --> 00:02:17,240
+Section 2, the perfect laboratory,
+
+39
+00:02:17,240 --> 00:02:20,879
+Brazilian municipalities and FPM transfers.
+
+40
+00:02:20,879 --> 00:02:25,520
+To prove this theory beyond a shadow of a doubt, researchers needed real data,
+
+41
+00:02:25,520 --> 00:02:27,439
+not just formulas on a blackboard,
+
+42
+00:02:27,439 --> 00:02:29,920
+and they found the perfect laboratory in Brazil,
+
+43
+00:02:29,920 --> 00:02:34,360
+studying the Fundo de Participação dos Municípios or FPM.
+
+44
+00:02:34,360 --> 00:02:37,480
+It's a very rigid system that distributes federal money to municipalities
+
+45
+00:02:37,480 --> 00:02:39,680
+based on population brackets.
+
+46
+00:02:39,680 --> 00:02:42,000
+In practice, invisible lines are created,
+
+47
+00:02:42,000 --> 00:02:45,640
+you just need to exceed the threshold by a few inhabitants and boom, a massive
+
+48
+00:02:45,640 --> 00:02:47,480
+sudden jump in funding occurs.
+
+49
+00:02:47,480 --> 00:02:52,400
+And this creates an incredible situation, the classic regression discontinuity design.
+
+50
+00:02:52,400 --> 00:02:55,160
+Imagine two nearby cities, practically twins.
+
+51
+00:02:55,160 --> 00:03:00,080
+City A has 10,188 inhabitants and receives normal funding.
+
+52
+00:03:00,080 --> 00:03:02,880
+City B has 10,189.
+
+53
+00:03:02,880 --> 00:03:05,120
+For just one single extra inhabitant,
+
+54
+00:03:05,120 --> 00:03:09,720
+City B crosses the magic threshold and gets a flood of money from the central government.
+
+55
+00:03:09,720 --> 00:03:11,040
+It's completely arbitrary,
+
+56
+00:03:11,040 --> 00:03:13,920
+but it allows researchers to compare two identical realities
+
+57
+00:03:13,920 --> 00:03:17,880
+where the only true difference is how full the state wallet is.
+
+58
+00:03:17,880 --> 00:03:21,440
+We come to Section 3, more money, more corruption.
+
+59
+00:03:21,440 --> 00:03:26,480
+And here we analyze the burning evidence that emerged from the Brazilian anti-corruption program.
+
+60
+00:03:26,480 --> 00:03:31,320
+In 2003, Brazil launched an independent program that randomly selects municipalities
+
+61
+00:03:31,320 --> 00:03:34,800
+and sends relentless auditors to comb through the accounts.
+
+62
+00:03:34,800 --> 00:03:36,720
+And the reports are shocking.
+
+63
+00:03:36,720 --> 00:03:39,520
+They documented an explosion of criminal creativity.
+
+64
+00:03:39,560 --> 00:03:41,240
+Blatantly rigged tenders,
+
+65
+00:03:41,240 --> 00:03:44,000
+goods purchased at absurdly inflated prices,
+
+66
+00:03:44,000 --> 00:03:45,880
+money diverted to private accounts
+
+67
+00:03:45,880 --> 00:03:48,879
+and even reimbursements for literally phantom expenses.
+
+68
+00:03:48,879 --> 00:03:50,439
+In short, a disaster.
+
+69
+00:03:50,439 --> 00:03:51,680
+But the real question is,
+
+70
+00:03:51,680 --> 00:03:55,920
+is there a link between these frauds and the funding jumps we talked about earlier?
+
+71
+00:03:55,920 --> 00:03:58,439
+The answer is absolutely yes.
+
+72
+00:03:58,439 --> 00:04:01,120
+Let's look at the raw data, because it speaks very clearly.
+
+73
+00:04:01,120 --> 00:04:04,080
+A 10% increase in federal transfers
+
+74
+00:04:04,080 --> 00:04:08,760
+causes the incidence of general corruption to jump by 4.7%.
+
+75
+00:04:08,760 --> 00:04:11,320
+It's not a margin of error; it's a huge figure.
+
+76
+00:04:11,320 --> 00:04:13,280
+This means that the shower of money,
+
+77
+00:04:13,280 --> 00:04:15,760
+instead of calming and improving the administration,
+
+78
+00:04:15,760 --> 00:04:18,920
+acted as a real doping for illegal practices.
+
+79
+00:04:18,920 --> 00:04:21,879
+And hold on tight, because there's worse.
+
+80
+00:04:21,879 --> 00:04:24,960
+If we exclude cases of simple, albeit serious,
+
+81
+00:04:24,960 --> 00:04:26,480
+poor administration,
+
+82
+00:04:26,480 --> 00:04:31,240
+and focus only on the overwhelming evidence of serious and blatant corruption,
+
+83
+00:04:31,240 --> 00:04:33,920
+the jump is even more sensational.
+
+84
+00:04:33,920 --> 00:04:37,920
+Episodes of blatant theft jump by 7.3%,
+
+85
+00:04:37,920 --> 00:04:41,480
+against the usual 10% budget increase.
+
+86
+00:04:41,480 --> 00:04:44,600
+It is the crushing proof that moral hazard materializes
+
+87
+00:04:44,600 --> 00:04:48,040
+at the exact moment when the coffers are filled for free.
+
+88
+00:04:48,040 --> 00:04:52,720
+And here comes the final blow to our trust in the electoral system.
+
+89
+00:04:52,720 --> 00:04:56,360
+You would expect a mayor caught with his hands in the cookie jar
+
+90
+00:04:56,360 --> 00:04:59,800
+to lose the elections disastrously, right? Wrong.
+
+91
+00:04:59,800 --> 00:05:04,400
+The data tells us that if a city is suddenly flooded with federal funds,
+
+92
+00:05:04,400 --> 00:05:06,439
+citizens tend to turn a blind eye.
+
+93
+00:05:06,439 --> 00:05:08,839
+The extra money cushions the scandal,
+
+94
+00:05:08,839 --> 00:05:13,839
+and the electoral punishment for corrupt behavior becomes incredibly weaker.
+
+95
+00:05:13,839 --> 00:05:15,160
+Absurd, right.
+
+96
+00:05:15,160 --> 00:05:18,439
+Section 4. Flight of political talent
+
+97
+00:05:18,439 --> 00:05:21,519
+leading to the decline in candidate quality.
+
+98
+00:05:21,519 --> 00:05:24,839
+The resource curse doesn't just bring corruption,
+
+99
+00:05:24,839 --> 00:05:27,120
+it also creates a scorched earth for talent.
+
+100
+00:05:27,120 --> 00:05:28,680
+Look at the election data,
+
+101
+00:05:28,680 --> 00:05:32,680
+as funds increase, the most educated people flee from politics.
+
+102
+00:05:32,680 --> 00:05:35,079
+With 10% more easy money,
+
+103
+00:05:35,120 --> 00:05:39,199
+the share of challengers with a degree drops by 2.7%.
+
+104
+00:05:39,199 --> 00:05:41,479
+Those with skills go to the private sector,
+
+105
+00:05:41,479 --> 00:05:43,199
+tired of an opaque system,
+
+106
+00:05:43,199 --> 00:05:44,719
+and do you know who benefits?
+
+107
+00:05:44,719 --> 00:05:46,120
+The incumbent mayor,
+
+108
+00:05:46,120 --> 00:05:48,839
+maybe the very one managing funds in a murky way,
+
+109
+00:05:48,839 --> 00:05:54,519
+who sees his chances of being re-elected increase by 4% thanks to the lack of real rivals.
+
+110
+00:05:54,519 --> 00:05:56,360
+And we come to Section 5,
+
+111
+00:05:56,360 --> 00:05:58,079
+the price of democracy,
+
+112
+00:05:58,079 --> 00:06:01,479
+evaluating the true cost of sudden state revenues.
+
+113
+00:06:01,520 --> 00:06:06,600
+It is all perfectly summarized in this quote from the study's authors.
+
+114
+00:06:06,600 --> 00:06:10,360
+Pouring boatloads of money from above onto a municipality,
+
+115
+00:06:10,360 --> 00:06:13,680
+without rigorous supervision, is not development.
+
+116
+00:06:13,680 --> 00:06:15,600
+It is a tragic paradox.
+
+117
+00:06:15,600 --> 00:06:20,160
+Easy money attracts vultures seeking personal enrichment,
+
+118
+00:06:20,160 --> 00:06:24,800
+and alienates those who actually have the tools and skills to improve society.
+
+119
+00:06:24,800 --> 00:06:28,040
+It is a destructive dynamic for civic virtue.
+
+120
+00:06:28,040 --> 00:06:30,720
+And this brings us to our final reflection.
+
+121
+00:06:30,720 --> 00:06:36,320
+Often, in the news, we take pleasure in how many millions have been unlocked for this or that region.
+
+122
+00:06:36,320 --> 00:06:39,480
+But the real question, the provocative one we must ask ourselves,
+
+123
+00:06:39,480 --> 00:06:42,720
+is whether we are blindly celebrating the number of zeros on the check
+
+124
+00:06:42,720 --> 00:06:47,480
+or demanding a system that guarantees the integrity of those who will spend that money,
+
+125
+00:06:47,480 --> 00:06:50,960
+because as we saw today, without transparency and without rigor,
+
+126
+00:06:50,960 --> 00:06:55,200
+the greatest financial blessing can literally transform in an instant
+
+127
+00:06:55,200 --> 00:06:57,280
+into the most lethal of curses.

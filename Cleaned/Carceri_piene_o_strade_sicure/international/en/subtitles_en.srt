@@ -1,0 +1,759 @@
+1
+00:00:00,000 --> 00:00:07,000
+So, what happens if, from one day to the next, the prison gates open and more than 20,000 people are set free?
+
+2
+00:00:07,000 --> 00:00:09,000
+It sounds like the beginning of a movie, doesn't it?
+
+3
+00:00:09,000 --> 00:00:13,000
+Yet it really happened in Italy in 2006.
+
+4
+00:00:13,000 --> 00:00:18,000
+It was an incredible experiment, although not entirely intentional.
+
+5
+00:00:18,000 --> 00:00:23,000
+And today we're going to do just that, an investigation, to understand what this event has taught us
+
+6
+00:00:23,000 --> 00:00:26,000
+and to answer a fundamental question about crime.
+
+7
+00:00:26,000 --> 00:00:31,000
+And the question, the mystery at the center of our investigation, is precisely this.
+
+8
+00:00:31,000 --> 00:00:34,000
+But prison, how does it reduce crime?
+
+9
+00:00:34,000 --> 00:00:38,000
+Does it work because, you know, it scares people, discourages them from committing crimes,
+
+10
+00:00:38,000 --> 00:00:42,000
+or is its effectiveness much more down-to-earth, much more practical,
+
+11
+00:00:42,000 --> 00:00:45,000
+meaning simply that those who are inside cannot commit crimes outside?
+
+12
+00:00:45,000 --> 00:00:47,000
+It's quite a dilemma, isn't it?
+
+13
+00:00:47,000 --> 00:00:52,000
+Exactly, look, in criminology there are precisely these two key concepts.
+
+14
+00:00:52,000 --> 00:00:56,000
+On one hand, there's deterrence, which is the idea that the threat of prison
+
+15
+00:00:56,000 --> 00:00:59,000
+is scary enough to stop potential criminals.
+
+16
+00:00:59,000 --> 00:01:03,000
+On the other hand, there's incapacitation, which is, let's say, much more direct.
+
+17
+00:01:03,000 --> 00:01:07,000
+If you're in jail, quite simply, you can't go around committing robberies.
+
+18
+00:01:07,000 --> 00:01:11,000
+Well, that's exactly where the 2006 pardon becomes so interesting.
+
+19
+00:01:11,000 --> 00:01:15,000
+Because it offered us, on a silver platter, a crazy opportunity
+
+20
+00:01:15,000 --> 00:01:20,000
+to test these two theories and see which one weighs more in reality.
+
+21
+00:01:20,000 --> 00:01:25,000
+Because to solve a case you need evidence, and incredibly, Italy in 2006
+
+22
+00:01:25,000 --> 00:01:30,000
+became a sort of perfect crime scene for scholars.
+
+23
+00:01:30,000 --> 00:01:35,000
+What happened created the conditions for a so-called natural experiment,
+
+24
+00:01:35,000 --> 00:01:38,000
+practically an open-air laboratory for studying crime.
+
+25
+00:01:38,000 --> 00:01:42,000
+To understand why it came to this, we need to take a step back
+
+26
+00:01:42,000 --> 00:01:46,000
+and look at the situation of Italian prisons in those years.
+
+27
+00:01:46,000 --> 00:01:48,000
+We're talking about a truly explosive situation.
+
+28
+00:01:48,000 --> 00:01:53,000
+The system was literally collapsing, with overcrowding that had been going on for years
+
+29
+00:01:53,000 --> 00:01:57,000
+and which had made living conditions inside simply unsustainable.
+
+30
+00:01:57,000 --> 00:02:03,000
+And to give a concrete idea, one number is enough: 138% in June 2006,
+
+31
+00:02:03,000 --> 00:02:06,000
+that was the prison occupancy rate.
+
+32
+00:02:06,000 --> 00:02:10,000
+Imagine 100 available spots and 138 people occupying them.
+
+33
+00:02:10,000 --> 00:02:13,000
+It was a time bomb, that was clear.
+
+34
+00:02:13,000 --> 00:02:17,000
+And at that point, the government realized it had to do something, and something drastic.
+
+35
+00:02:18,000 --> 00:02:20,000
+And indeed, here is the timeline of events.
+
+36
+00:02:20,000 --> 00:02:23,000
+Pressure rises, rises, rises for years.
+
+37
+00:02:23,000 --> 00:02:27,000
+And in July 2006, the decision arrives: the pardon.
+
+38
+00:02:27,000 --> 00:02:30,000
+A month later, in August, the unthinkable happens.
+
+39
+00:02:30,000 --> 00:02:35,000
+Thousands upon thousands of inmates leave prison practically all at once.
+
+40
+00:02:35,000 --> 00:02:38,000
+It was a huge, sudden shock for the entire system.
+
+41
+00:02:38,000 --> 00:02:41,000
+And from a scientific point of view, something measurable.
+
+42
+00:02:41,000 --> 00:02:46,000
+But let's talk about the scope of this shock, because it's staggering.
+
+43
+00:02:46,000 --> 00:02:51,000
+In just one month, the prison population dropped by 36%.
+
+44
+00:02:51,000 --> 00:02:52,000
+Let's think about it for a moment.
+
+45
+00:02:52,000 --> 00:02:56,000
+It's as if more than a third of the prisons had emptied out all at once.
+
+46
+00:02:56,000 --> 00:03:02,000
+Something never seen before, which obviously created an incredible set of data for our investigation.
+
+47
+00:03:02,000 --> 00:03:05,000
+Okay, so we have the crime scene.
+
+48
+00:03:05,000 --> 00:03:07,000
+We have the motive, so to speak.
+
+49
+00:03:07,000 --> 00:03:10,000
+Now, as in any investigation worth its salt,
+
+50
+00:03:10,000 --> 00:03:12,000
+it's time to analyze the evidence.
+
+51
+00:03:12,000 --> 00:03:16,000
+The researchers who studied this case followed three leads,
+
+52
+00:03:16,000 --> 00:03:20,000
+three fundamental clues to understand what really happened.
+
+53
+00:03:20,000 --> 00:03:24,000
+Exactly, those are the three questions they tried to answer.
+
+54
+00:03:24,000 --> 00:03:29,000
+First, what happened to crime in the short term, immediately after the release?
+
+55
+00:03:29,000 --> 00:03:32,000
+Second, what happened later?
+
+56
+00:03:32,000 --> 00:03:35,000
+As the prisons began to fill up again.
+
+57
+00:03:35,000 --> 00:03:41,000
+And third, very importantly, was the impact the same everywhere in Italy
+
+58
+00:03:41,000 --> 00:03:44,000
+or did it change from province to province?
+
+59
+00:03:44,000 --> 00:03:48,000
+So, let's start with the first clue: the immediate impact.
+
+60
+00:03:48,000 --> 00:03:50,000
+Here the evidence is almost overwhelming.
+
+61
+00:03:50,000 --> 00:03:53,000
+If you look at crime data at the national level,
+
+62
+00:03:53,000 --> 00:03:55,000
+you see a clear break, a step.
+
+63
+00:03:55,000 --> 00:03:59,000
+Exactly in correspondence with the mass release of August 2006,
+
+64
+00:03:59,000 --> 00:04:01,000
+crimes take a leap upwards.
+
+65
+00:04:01,000 --> 00:04:03,000
+It's an almost perfect correlation.
+
+66
+00:04:03,000 --> 00:04:06,000
+And this graph shows it clearly.
+
+67
+00:04:06,000 --> 00:04:09,000
+Look at the difference between before the pardon, in July,
+
+68
+00:04:09,000 --> 00:04:11,000
+and immediately after, in September.
+
+69
+00:04:11,000 --> 00:04:12,000
+There's a surge.
+
+70
+00:04:12,000 --> 00:04:16,000
+And we're talking mainly about crimes like thefts and robberies.
+
+71
+00:04:16,000 --> 00:04:18,000
+The increase is so rapid, so clear,
+
+72
+00:04:18,000 --> 00:04:23,000
+that it's practically impossible not to link it directly to the pardon.
+
+73
+00:04:23,000 --> 00:04:26,000
+Good, let's move on to the second clue.
+
+74
+00:04:26,000 --> 00:04:29,000
+After that massive emptying, the prisons, obviously,
+
+75
+00:04:29,000 --> 00:04:31,000
+started to fill up again,
+
+76
+00:04:31,000 --> 00:04:33,000
+but here there is a key detail.
+
+77
+00:04:33,000 --> 00:04:37,000
+It wasn't so much the former inmates coming back in who filled them,
+
+78
+00:04:37,000 --> 00:04:39,000
+but rather new criminals,
+
+79
+00:04:39,000 --> 00:04:41,000
+people who were being arrested for the first time.
+
+80
+00:04:41,000 --> 00:04:43,000
+And this is very interesting.
+
+81
+00:04:43,000 --> 00:04:46,000
+Yes, because here a fact comes out that's a bit surprising.
+
+82
+00:04:46,000 --> 00:04:48,000
+By analyzing precisely these new entries,
+
+83
+00:04:48,000 --> 00:04:50,000
+researchers made a calculation
+
+84
+00:04:50,000 --> 00:04:53,000
+and discovered that their incapacitation effect
+
+85
+00:04:53,000 --> 00:04:55,000
+was actually greater.
+
+86
+00:04:55,000 --> 00:04:58,000
+Basically, every new inmate who took the place of an old one,
+
+87
+00:04:58,000 --> 00:04:59,000
+let's put it that way,
+
+88
+00:04:59,000 --> 00:05:02,000
+prevented up to 46 crimes per year.
+
+89
+00:05:02,000 --> 00:05:04,000
+This tells us something important.
+
+90
+00:05:04,000 --> 00:05:07,000
+On average, this new group was criminally more prolific
+
+91
+00:05:07,000 --> 00:05:09,000
+than the ones who had been released.
+
+92
+00:05:09,000 --> 00:05:12,000
+And we come to the third and final clue,
+
+93
+00:05:12,000 --> 00:05:14,000
+which is perhaps the most illuminating.
+
+94
+00:05:14,000 --> 00:05:18,000
+Here the investigation shifts, zooming in from national to local.
+
+95
+00:05:18,000 --> 00:05:22,000
+Researchers examined all 103 Italian provinces
+
+96
+00:05:22,000 --> 00:05:24,000
+and looked at two things.
+
+97
+00:05:24,000 --> 00:05:27,000
+How many pardoned inmates returned to that specific province
+
+98
+00:05:27,000 --> 00:05:30,000
+and how crime changed there.
+
+99
+00:05:30,000 --> 00:05:33,000
+And here, in my opinion, is the real turning point.
+
+100
+00:05:33,000 --> 00:05:35,000
+A very clear pattern emerged.
+
+101
+00:05:35,000 --> 00:05:37,000
+In provinces that, even before the pardon,
+
+102
+00:05:37,000 --> 00:05:39,000
+had high incarceration rates,
+
+103
+00:05:39,000 --> 00:05:42,000
+the increase in crimes for each released inmate
+
+104
+00:05:42,000 --> 00:05:44,000
+was lower.
+
+105
+00:05:44,000 --> 00:05:46,000
+The fishing analogy fits perfectly.
+
+106
+00:05:46,000 --> 00:05:47,000
+If you fish in a lake,
+
+107
+00:05:47,000 --> 00:05:49,000
+at the beginning you catch the biggest fish,
+
+108
+00:05:49,000 --> 00:05:50,000
+the easiest ones,
+
+109
+00:05:50,000 --> 00:05:52,000
+but the more you continue fishing,
+
+110
+00:05:52,000 --> 00:05:53,000
+the harder it gets,
+
+111
+00:05:53,000 --> 00:05:55,000
+and for every hour of effort, you get less.
+
+112
+00:05:55,000 --> 00:05:57,000
+In economics, this is called
+
+113
+00:05:57,000 --> 00:05:59,000
+the law of diminishing returns
+
+114
+00:05:59,000 --> 00:06:01,000
+and apparently it also applies to incarceration.
+
+115
+00:06:01,000 --> 00:06:04,000
+At this point, with all three clues on the table,
+
+116
+00:06:04,000 --> 00:06:06,000
+we can deliver our verdict
+
+117
+00:06:06,000 --> 00:06:08,000
+and the conclusion to which this investigation
+
+118
+00:06:08,000 --> 00:06:10,000
+leads us is powerful
+
+119
+00:06:10,000 --> 00:06:13,000
+and in some ways also a bit counterintuitive,
+
+120
+00:06:13,000 --> 00:06:16,000
+regarding how prison actually works.
+
+121
+00:06:16,000 --> 00:06:19,000
+The verdict of the study, the scientific one,
+
+122
+00:06:19,000 --> 00:06:21,000
+is perfectly summarized in this sentence.
+
+123
+00:06:21,000 --> 00:06:23,000
+The crime prevention effects
+
+124
+00:06:23,000 --> 00:06:25,000
+of incarceration decrease
+
+125
+00:06:25,000 --> 00:06:27,000
+as the incarceration rate increases.
+
+126
+00:06:27,000 --> 00:06:30,000
+That's the heart of the whole discovery.
+
+127
+00:06:30,000 --> 00:06:31,000
+Exactly!
+
+128
+00:06:31,000 --> 00:06:34,000
+If we want to put it in simple terms, it means this:
+
+129
+00:06:34,000 --> 00:06:36,000
+putting people in prison
+
+130
+00:06:36,000 --> 00:06:38,000
+to prevent them from committing crimes,
+
+131
+00:06:38,000 --> 00:06:41,000
+incapacitation works, no doubt about it,
+
+132
+00:06:41,000 --> 00:06:43,000
+but there is a "but."
+
+133
+00:06:43,000 --> 00:06:45,000
+Its effect is not always the same.
+
+134
+00:06:45,000 --> 00:06:47,000
+In fact, the more people you put inside,
+
+135
+00:06:47,000 --> 00:06:49,000
+the less effective it becomes,
+
+136
+00:06:49,000 --> 00:06:50,000
+with every new arrest.
+
+137
+00:06:50,000 --> 00:06:51,000
+It's logical.
+
+138
+00:06:51,000 --> 00:06:53,000
+The first ones you take out of circulation
+
+139
+00:06:53,000 --> 00:06:55,000
+are the most active criminals,
+
+140
+00:06:55,000 --> 00:06:56,000
+but as you go on,
+
+141
+00:06:56,000 --> 00:06:57,000
+you end up incarcerating
+
+142
+00:06:57,000 --> 00:06:59,000
+increasingly less dangerous people.
+
+143
+00:06:59,000 --> 00:07:01,000
+But wait,
+
+144
+00:07:01,000 --> 00:07:03,000
+the investigation isn't quite closed yet.
+
+145
+00:07:03,000 --> 00:07:04,000
+There's one last part,
+
+146
+00:07:04,000 --> 00:07:06,000
+a sort of plot twist.
+
+147
+00:07:06,000 --> 00:07:08,000
+Besides all this,
+
+148
+00:07:08,000 --> 00:07:09,000
+we must ask ourselves,
+
+149
+00:07:09,000 --> 00:07:12,000
+from a purely economic point of view,
+
+150
+00:07:12,000 --> 00:07:15,000
+was the pardon a worthwhile move?
+
+151
+00:07:15,000 --> 00:07:16,000
+Precisely,
+
+152
+00:07:16,000 --> 00:07:18,000
+it's time for the cost-benefit analysis.
+
+153
+00:07:18,000 --> 00:07:19,000
+On one hand,
+
+154
+00:07:19,000 --> 00:07:21,000
+we have the money saved by the state,
+
+155
+00:07:21,000 --> 00:07:22,000
+on the other,
+
+156
+00:07:22,000 --> 00:07:24,000
+the costs that society had to pay,
+
+157
+00:07:24,000 --> 00:07:27,000
+which of the two sides of the scale weighs more?
+
+158
+00:07:27,000 --> 00:07:29,000
+Well, let's start with the benefits.
+
+159
+00:07:29,000 --> 00:07:31,000
+The calculation is quite straightforward.
+
+160
+00:07:31,000 --> 00:07:32,000
+By no longer having to provide
+
+161
+00:07:32,000 --> 00:07:34,000
+food, lodging, and surveillance
+
+162
+00:07:34,000 --> 00:07:36,000
+for over 25,000 people,
+
+163
+00:07:36,000 --> 00:07:38,000
+the Italian state saved
+
+164
+00:07:38,000 --> 00:07:39,000
+a considerable amount.
+
+165
+00:07:39,000 --> 00:07:42,000
+We're talking about approximately 245 million euros.
+
+166
+00:07:42,000 --> 00:07:44,000
+And now, the costs.
+
+167
+00:07:44,000 --> 00:07:46,000
+And here, the figure is,
+
+168
+00:07:46,000 --> 00:07:48,000
+well, it's of another order of magnitude.
+
+169
+00:07:48,000 --> 00:07:50,000
+The social costs,
+
+170
+00:07:50,000 --> 00:07:52,000
+meaning the value of all the additional crimes
+
+171
+00:07:52,000 --> 00:07:54,000
+committed by those who were released,
+
+172
+00:07:54,000 --> 00:07:55,000
+have been estimated
+
+173
+00:07:55,000 --> 00:07:58,000
+at up to 2.2 billion euros.
+
+174
+00:07:58,000 --> 00:08:00,000
+It's a huge figure,
+
+175
+00:08:00,000 --> 00:08:02,000
+that pales in comparison to the state savings.
+
+176
+00:08:02,000 --> 00:08:04,000
+So in the end,
+
+177
+00:08:04,000 --> 00:08:06,000
+the investigation into the 2006 pardon
+
+178
+00:08:06,000 --> 00:08:09,000
+leaves us with a very important question.
+
+179
+00:08:09,000 --> 00:08:11,000
+It showed us that yes,
+
+180
+00:08:11,000 --> 00:08:13,000
+incapacitation works,
+
+181
+00:08:13,000 --> 00:08:15,000
+but not infinitely,
+
+182
+00:08:15,000 --> 00:08:16,000
+and that political decisions
+
+183
+00:08:16,000 --> 00:08:18,000
+in this field have enormous
+
+184
+00:08:18,000 --> 00:08:20,000
+economic and social consequences.
+
+185
+00:08:20,000 --> 00:08:22,000
+The real question, then,
+
+186
+00:08:22,000 --> 00:08:24,000
+is what is the right balance point
+
+187
+00:08:24,000 --> 00:08:26,000
+between costs and safety;
+
+188
+00:08:26,000 --> 00:08:27,000
+there is no easy answer,
+
+189
+00:08:27,000 --> 00:08:29,000
+and it is probably one of the
+
+190
+00:08:29,000 --> 00:08:32,000
+most complex challenges for any country.
