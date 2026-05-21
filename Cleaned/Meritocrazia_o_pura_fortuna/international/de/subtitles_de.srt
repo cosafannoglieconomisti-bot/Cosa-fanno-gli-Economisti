@@ -1,0 +1,560 @@
+1
+00:00:00,000 --> 00:00:03,040
+Willkommen zu dieser neuen Studie.
+
+2
+00:00:03,040 --> 00:00:08,960
+Heute nehme ich Sie mit auf eine wirklich faszinierende, ich würde sagen unerwartete Reise in die Biologie
+
+3
+00:00:08,960 --> 00:00:09,960
+evolutionär.
+
+4
+00:00:09,960 --> 00:00:14,240
+Wir werden die wahren Ursprünge des menschlichen Teilens aufdecken.
+
+5
+00:00:14,240 --> 00:00:18,760
+Und wie man dem Titel im nüchternen Eindruck deutlich entnehmen kann, ist die heutige Frage genau
+
+6
+00:00:18,760 --> 00:00:21,240
+Leistungsorientierung oder reines Glück.
+
+7
+00:00:21,240 --> 00:00:25,800
+Es ist nicht nur eine Debatte für moderne Philosophen, es ist etwas tief verwurzeltes
+
+8
+00:00:25,800 --> 00:00:28,600
+in der Urstruktur unserer Gesellschaften.
+
+9
+00:00:28,600 --> 00:00:32,679
+Und ich warne Sie: Die Entdeckungen, die uns bevorstehen, werden Ihre Sichtweise völlig verändern
+
+10
+00:00:32,679 --> 00:00:34,000
+dass wir es gewohnt sind.
+
+11
+00:00:34,000 --> 00:00:39,520
+Beginnen wir also gleich mit einer Provokation, einer Frage, die fast paradox erscheint.
+
+12
+00:00:39,520 --> 00:00:42,560
+Was wäre, wenn Gleichheit aus Leistung entstehen würde?
+
+13
+00:00:42,560 --> 00:00:44,680
+Ich weiß, es ist fast seltsam zu fragen.
+
+14
+00:00:44,680 --> 00:00:48,659
+Wir stellen uns die Geschichte der Menschheit oft als diesen endlosen Kampf zwischen dem Werden vor
+
+15
+00:00:48,659 --> 00:00:53,079
+vier zu produzieren und diejenigen, die ihren Anteil haben wollen, ohne einen Finger zu rühren.
+
+16
+00:00:53,079 --> 00:00:57,500
+Die Evolutionsmodelle, die wir heute analysieren werden, erzählen uns jedoch eine vollständige Geschichte
+
+17
+00:00:57,500 --> 00:00:58,500
+anders.
+
+18
+00:00:58,500 --> 00:01:02,380
+Und wenn ich das so sagen darf, definitiv pragmatischer und faszinierender.
+
+19
+00:01:02,380 --> 00:01:06,739
+Dann betreten wir unser erstes Kapitel, das Paradoxon der Fairness.
+
+20
+00:01:06,739 --> 00:01:08,900
+Verdienst versus Teilen.
+
+21
+00:01:08,900 --> 00:01:12,780
+Um diesen uralten Konflikt zwischen dem Behalten und Teilen von allem besser zu verstehen
+
+22
+00:01:12,780 --> 00:01:15,060
+Lassen Sie uns das mit den anderen kurz klären.
+
+23
+00:01:15,060 --> 00:01:20,019
+Unter Leistungskritik verstehen wir hier ein schönes, starres System, in dem jeder genau das bekommt
+
+24
+00:01:20,019 --> 00:01:21,819
+das du mit deinem Schweiß produziert hast.
+
+25
+00:01:21,819 --> 00:01:26,480
+Gleichheit hingegen ist das genaue Gegenteil, sie wird zur Hälfte oder zu gleichen Teilen zwischen allen praktiziert
+
+26
+00:01:26,480 --> 00:01:30,000
+Mitglieder der Gruppe, ohne darauf zu achten, wer härter oder in diesem bestimmten Bereich gearbeitet hat
+
+27
+00:01:30,000 --> 00:01:31,000
+sofort?
+
+28
+00:01:31,000 --> 00:01:34,159
+Okay, jetzt, wo wir die Grundlagen haben, können wir weitermachen?
+
+29
+00:01:34,159 --> 00:01:37,800
+Kurz gesagt: Von welcher Annahme gehen fast alle von uns aus?
+
+30
+00:01:37,800 --> 00:01:42,400
+Sind diese beiden Konzepte wie Tag und Nacht absolute Gegensätze?
+
+31
+00:01:42,400 --> 00:01:47,240
+Die allgemeine Idee ist, dass Ameritokratie der Fall ist, während Egalitarismus ein Fall ist
+
+32
+00:01:47,240 --> 00:01:51,560
+eine Art Zwang, kein künstliches Korrektiv der Gesellschaft.
+
+33
+00:01:51,560 --> 00:01:56,040
+Als ob egalitäre Systeme speziell als Kontrast zu meritokratischen Systemen geschaffen worden wären,
+
+34
+00:01:56,040 --> 00:02:00,240
+Es ist eine Idee, die wir praktisch in unserer DNA haben, aber hier kommt der lustige Teil.
+
+35
+00:02:00,240 --> 00:02:04,960
+Die Daten zeigen uns, dass die Natur keine Rücksicht auf Ideologien nimmt, die Natur denkt nur eines:
+
+36
+00:02:04,960 --> 00:02:05,960
+über dem Leben.
+
+37
+00:02:05,960 --> 00:02:11,560
+Und das bringt uns direkt zu Kapitel 2, Geschicklichkeit vs. pures Glück, die wahre Nadel von
+
+38
+00:02:11,560 --> 00:02:12,560
+Skalen.
+
+39
+00:02:12,560 --> 00:02:17,040
+Pecco, die Variable, die die Spielregeln auf den Kopf stellt, Zufall?
+
+40
+00:02:17,040 --> 00:02:19,920
+Um dies zu verstehen, stellen Sie sich zwei primitive Szenarien vor.
+
+41
+00:02:19,920 --> 00:02:25,040
+Im ersten Fall haben wir Umgebungen mit geringer Varianz, beispielsweise beim Pflücken von Beeren oder Knollen.
+
+42
+00:02:25,079 --> 00:02:28,719
+Wenn Sie dort hart arbeiten und geschickt sind, ist das Ergebnis garantiert.
+
+43
+00:02:28,719 --> 00:02:31,919
+Ihre Anstrengung wird direkt in Kalorien umgewandelt.
+
+44
+00:02:31,919 --> 00:02:36,799
+Auf der anderen Seite gibt es jedoch Umgebungen mit hoher Varianz, beispielsweise bei der Großwildjagd.
+
+45
+00:02:36,799 --> 00:02:38,159
+Und hier ändert sich alles.
+
+46
+00:02:38,159 --> 00:02:42,719
+Dann sei auch der stärkste und am besten vorbereitete Jäger auf dem Planeten, aber wenn das Tier nicht besteht
+
+47
+00:02:42,719 --> 00:02:45,519
+Von dort aus kehren Sie mit leeren Händen in die Höhle zurück, Punkt.
+
+48
+00:02:45,519 --> 00:02:49,680
+In diesem Fall zählen Unvorhersehbarkeit und Glück tausendmal mehr als bei Ihnen
+
+49
+00:02:49,680 --> 00:02:51,479
+einfache körperliche Anstrengung.
+
+50
+00:02:51,519 --> 00:02:56,719
+Es gibt dieses Zitat, das eine unserer enormen psychologischen Einschränkungen perfekt zusammenfasst.
+
+51
+00:02:56,719 --> 00:03:02,639
+Die ewige Tendenz des Menschen besteht darin, einen reinen Glücksfall mit persönlicher Unermesslichkeit zu verwechseln.
+
+52
+00:03:02,639 --> 00:03:04,000
+Es ist ein bisschen lustig, nicht wahr?
+
+53
+00:03:04,000 --> 00:03:06,839
+Und doch ist es eine sehr alte und sehr starke Voreingenommenheit.
+
+54
+00:03:06,839 --> 00:03:11,039
+Stellen Sie sich den alten Jäger vor, der mit einer riesigen gefangenen Beute ins Lager zurückkehrte
+
+55
+00:03:11,039 --> 00:03:12,839
+praktisch reiner Zufall.
+
+56
+00:03:12,839 --> 00:03:18,359
+Wie lange hat es gedauert, bis sein Ego ihn davon überzeugt hatte, dass alles seiner unschlagbaren Technik zu verdanken war?
+
+57
+00:03:18,359 --> 00:03:19,280
+Einen Moment.
+
+58
+00:03:19,319 --> 00:03:23,560
+Völlig vergessend, welche Mammutrolle die Vorsehung gespielt hat,
+
+59
+00:03:23,560 --> 00:03:25,199
+Fahren wir mit Kapitel 3 fort.
+
+60
+00:03:25,199 --> 00:03:30,560
+Das Risiko der Isolation, was passiert, wenn Egoismus auf Natur trifft.
+
+61
+00:03:30,560 --> 00:03:35,920
+Aber welche Konsequenzen hat es, ein einsamer Wolf in einer so verrückten Welt zu sein?
+
+62
+00:03:35,920 --> 00:03:36,920
+unvorhersehbar?
+
+63
+00:03:36,920 --> 00:03:40,400
+Schauen Sie sich die Proportionen dieser Grafik an, sie sagen alles.
+
+64
+00:03:40,400 --> 00:03:45,159
+Der linke Balken zeigt uns die langfristige Überlebenswahrscheinlichkeit eines Jägers
+
+65
+00:03:45,159 --> 00:03:47,800
+streng meritokratisch und einsam.
+
+66
+00:03:47,840 --> 00:03:52,400
+Es ist sehr niedrig, im Generationenmaßstab wird es buchstäblich von 0 beeinflusst.
+
+67
+00:03:52,400 --> 00:03:56,640
+Schauen Sie sich nun die rechte Leiste an. Dies ist das Schicksal derjenigen, die sich entscheiden, sich den anderen anzuschließen
+
+68
+00:03:56,640 --> 00:03:58,160
+und das Risiko teilen.
+
+69
+00:03:58,160 --> 00:04:01,040
+Die Überlebenskurve schnellt in die Höhe.
+
+70
+00:04:01,040 --> 00:04:05,600
+Man kann wenig tun, die Evolutionsmathematik kennt keine Gnade mit Individualisten.
+
+71
+00:04:05,600 --> 00:04:10,160
+Das Schlüsselkonzept zieht hier eine klare Linie und ist brutal offensichtlich.
+
+72
+00:04:10,160 --> 00:04:13,320
+Lassen Sie sich in einer glücklichen Zeit alles für Sie ansammeln,
+
+73
+00:04:13,319 --> 00:04:17,399
+Mathematisch gesehen werden Sie am Ende verhungern, wenn das Rad, wie immer,
+
+74
+00:04:17,399 --> 00:04:19,240
+es wird sich in die falsche Richtung drehen.
+
+75
+00:04:19,240 --> 00:04:23,680
+In diesen Umgebungen mit hoher Varianz hat sich die Verweigerung des Teilens als echte Herausforderung erwiesen
+
+76
+00:04:23,680 --> 00:04:25,159
+direkt neben dem Blinden.
+
+77
+00:04:25,159 --> 00:04:28,040
+Ein evolutionärer Selbstmord, es gibt kein Entrinnen.
+
+78
+00:04:28,040 --> 00:04:30,399
+Und dann schauen wir uns Kapitel 4 an.
+
+79
+00:04:30,399 --> 00:04:32,600
+Die Entwicklung des Teilens.
+
+80
+00:04:32,600 --> 00:04:35,959
+Alleine verliert man, in der Gruppe gewinnt man.
+
+81
+00:04:35,959 --> 00:04:41,159
+Hier liefern uns mathematische Simulationen und Spieltheorie eine verrückte Show.
+
+82
+00:04:41,160 --> 00:04:43,520
+Beobachten Sie die Schritte Schritt für Schritt.
+
+83
+00:04:43,520 --> 00:04:48,800
+Am Anfang, in Phase 1, beginnt jeder mit reinem und einfachem meritokratischem Egoismus,
+
+84
+00:04:48,800 --> 00:04:50,080
+jeder für sich.
+
+85
+00:04:50,080 --> 00:04:55,240
+Dann, in Phase 2, werden diese Agenten mit der harten Realität hochvariabler Risiken konfrontiert.
+
+86
+00:04:55,240 --> 00:05:00,280
+Die mageren und guten Phasen kommen und dies führt unweigerlich zur Phase 3.
+
+87
+00:05:00,280 --> 00:05:04,760
+Um nicht vom Erdboden zu verschwinden, werden Individuen buchstäblich dazu gezwungen
+
+88
+00:05:04,760 --> 00:05:06,760
+System, um die Strategie zu ändern.
+
+89
+00:05:06,760 --> 00:05:09,640
+Sie verfolgen einen teilenden und qualitativen Ansatz.
+
+90
+00:05:09,639 --> 00:05:14,360
+Aber seien Sie vorsichtig, sie tun es nicht aus plötzlichem Wohlwollen, sondern um ein Becken zu schaffen
+
+91
+00:05:14,360 --> 00:05:19,240
+Gemeinsamkeit, die das tödliche Risiko abfedert, und reine Überlebenslogik.
+
+92
+00:05:19,240 --> 00:05:23,039
+Diese Matrix zeigt uns den perfekten Gang dieses Übergangs.
+
+93
+00:05:23,039 --> 00:05:29,199
+Schauen Sie sich an, wie die Strategie des Teilens auf lange Sicht immer die des Egoismus in den Schatten stellt
+
+94
+00:05:29,199 --> 00:05:30,199
+rein.
+
+95
+00:05:30,199 --> 00:05:34,399
+An einem glücklichen Tag scheinen diejenigen, die nicht einverstanden sind, Bingo gespielt zu haben, sie behalten alles
+
+96
+00:05:34,399 --> 00:05:39,560
+der Überschuss, aber es ist eine optische Täuschung, denn am allerersten Unglückstag
+
+97
+00:05:39,639 --> 00:05:44,920
+Die biologischen Kosten des Egoismus werden im wahrsten Sinne des Wortes katastrophal, heißt es
+
+98
+00:05:44,920 --> 00:05:46,439
+das Ende des Individuums.
+
+99
+00:05:46,439 --> 00:05:51,560
+Stattdessen sorgt immer das Teilen dafür, dass jeder in guten Momenten das Minimum an Kalorien hat, das er zu sich nehmen muss
+
+100
+00:05:51,560 --> 00:05:52,560
+schwarz.
+
+101
+00:05:52,560 --> 00:05:55,160
+Kurz gesagt, die Aximetrie des Risikos ist verblüffend.
+
+102
+00:05:55,160 --> 00:05:59,639
+Und dieses Donut-Diagramm verdeutlicht das Konzept auf brillante Weise.
+
+103
+00:05:59,639 --> 00:06:05,199
+Von außen betrachtet könnte er edel und rein wirken, wenn man ihn oberflächlich betrachtet
+
+104
+00:06:05,199 --> 00:06:07,199
+Akt des altruistischen Gleichheitsdenkens.
+
+105
+00:06:07,199 --> 00:06:12,519
+Tatsächlich ist es eine sehr banale, kalte und kalkulierte Versicherungspolizei
+
+106
+00:06:12,519 --> 00:06:13,519
+Pech.
+
+107
+00:06:13,519 --> 00:06:18,800
+Die riesige Scheibe repräsentiert unsere kollektive Sicherheit, einen evolutionären Schutzschild, der durch die Vereinigung entsteht
+
+108
+00:06:18,800 --> 00:06:24,199
+Ressourcen, die in der Lage sind, uns vor diesem winzigen, bösen roten Stück Verletzlichkeit zu schützen
+
+109
+00:06:24,199 --> 00:06:26,120
+durch Zufall verursachtes Individuum.
+
+110
+00:06:26,120 --> 00:06:31,639
+Dann kommen wir zu unserem letzten Kapitel, vom Verdienst zur Gleichheit, dem eigentlichen Wandel von
+
+111
+00:06:31,639 --> 00:06:32,639
+Paradigma.
+
+112
+00:06:32,639 --> 00:06:36,959
+Okay, lassen Sie uns den Diskussionsfaden ziehen, denn die Implikationen sind sehr stark.
+
+113
+00:06:37,360 --> 00:06:41,000
+Erstens wurde Gleichheit nicht als Ideologie im Gegensatz zu Leistung geboren.
+
+114
+00:06:41,000 --> 00:06:46,280
+Vielmehr entwickelte es sich direkt aus einem ursprünglichen ameritokratischen Lösungssystem
+
+115
+00:06:46,280 --> 00:06:48,400
+absolut praktische Probleme.
+
+116
+00:06:48,400 --> 00:06:53,680
+Zweitens ist es gerade die extreme Unvorhersehbarkeit der Umwelt, die die Entwicklung vorantreibt
+
+117
+00:06:53,680 --> 00:06:54,680
+der Zusammenarbeit.
+
+118
+00:06:54,680 --> 00:06:59,760
+Drittens ist eine systematische Risikoteilung die einzige mathematische Welt, die dies gewährleisten kann
+
+119
+00:06:59,760 --> 00:07:01,080
+eine Zukunft für die Art.
+
+120
+00:07:01,080 --> 00:07:06,600
+Und schließlich, viertens, war es gerade die Wirkung des reinen Glücksfalls, die anzog
+
+121
+00:07:06,600 --> 00:07:08,840
+die Architektur der ersten menschlichen Gesellschaften.
+
+122
+00:07:08,840 --> 00:07:13,600
+Das heißt, dieser Satz gelingt im Endstadium der Recherche, der ein wahres Juwel ist
+
+123
+00:07:13,600 --> 00:07:15,520
+alles in einen einzigen Satz zusammenfassen.
+
+124
+00:07:15,520 --> 00:07:20,120
+Egalitäres Verhalten ist eine rationale evolutionäre Reaktion auf den Zufall.
+
+125
+00:07:20,120 --> 00:07:22,080
+Lasst uns darüber nachdenken.
+
+126
+00:07:22,080 --> 00:07:27,000
+Diese verrückte Intuition geht Hand in Hand mit der alten Analogie vom primitiven Jäger
+
+127
+00:07:27,000 --> 00:07:31,280
+und Architektur ist viel komplizierter als unsere modernen Interaktionen.
+
+128
+00:07:31,280 --> 00:07:36,200
+Es zeigt uns in der Praxis, dass Gleichstellung in jeder Hinsicht eine äußerst fortgeschrittene Form ist
+
+129
+00:07:36,199 --> 00:07:40,920
+AI für „Specialised Merit Crazy“, das beste System, das wir für den Kampf gefunden haben
+
+130
+00:07:40,920 --> 00:07:42,719
+die Unvorhersehbarkeit der Existenz.
+
+131
+00:07:42,719 --> 00:07:48,279
+Und ich möchte unsere Reise mit einer harten Provokation beenden, die wohlverdient ist
+
+132
+00:07:48,279 --> 00:07:49,519
+um uns zum Nachdenken zu bringen.
+
+133
+00:07:49,519 --> 00:07:55,599
+Wie viele unserer Ziele wir heute in unseren hochentwickelten modernen Gesellschaften wirklich erreichen, hängt davon ab
+
+134
+00:07:55,599 --> 00:08:01,159
+und zwar einzig und allein durch unsere Verdienste, und was immer noch schlicht und einfach diktiert wird
+
+135
+00:08:01,159 --> 00:08:04,039
+Glück oder die Umstände, in denen wir uns befinden.
+
+136
+00:08:04,280 --> 00:08:09,439
+Es ist eine Dynamik, die Millionen Jahre alt ist und tief in unserer Biologie verankert ist.
+
+137
+00:08:09,439 --> 00:08:15,360
+Dennoch leitet, beeinflusst und bestimmt es weiterhin fast unsichtbar das Feine
+
+138
+00:08:15,360 --> 00:08:17,400
+und hier Bücher über die Welt, in der wir leben.
+
+139
+00:08:17,400 --> 00:08:21,680
+Ich überlasse Ihnen diese Idee für das nächste Mal, wenn Sie zufällig über eine großartige Person urteilen
+
+140
+00:08:21,680 --> 00:08:24,400
+Erfolg oder vielleicht ein unvermeidlicher Misserfolg.
+

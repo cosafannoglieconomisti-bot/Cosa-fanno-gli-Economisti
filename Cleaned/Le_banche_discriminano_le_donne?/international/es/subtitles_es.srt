@@ -1,0 +1,455 @@
+1
+00:00:00,000 --> 00:00:05,040
+Comencemos de inmediato esta nueva investigación; hoy nos sumergimos en un verdadero misterio económico.
+
+2
+00:00:05,040 --> 00:00:06,040
+misterio.
+
+3
+00:00:06,040 --> 00:00:10,080
+Normalmente, cuando se piensa en finanzas y tasas de interés, nos imaginamos un mundo
+
+4
+00:00:10,080 --> 00:00:13,759
+hecho de números fríos, objetivos y absolutamente imparciales.
+
+5
+00:00:13,759 --> 00:00:18,359
+La idea común es que el mercado de crédito no mira a la cara a nadie, sino que se limita
+
+6
+00:00:18,359 --> 00:00:20,160
+a evaluar balances y garantías.
+
+7
+00:00:20,160 --> 00:00:25,560
+Sin embargo, un estudio realmente fascinante de Alesina, Lotti y Mistrulli, basado en datos reales
+
+8
+00:00:25,560 --> 00:00:29,719
+italianos, plantea una pregunta crucial, que es exactly el título de
+
+9
+00:00:29,719 --> 00:00:34,460
+nuestro análisis: ¿Las bancas discriminan a las mujeres? Vayamos directamente a los datos para
+
+10
+00:00:34,460 --> 00:00:37,280
+intentar comprender qué está sucediendo realmente.
+
+11
+00:00:37,280 --> 00:00:42,200
+Para comprender la gravedad de la situación, debemos partir del cuerpo del delito, por así decirlo.
+
+12
+00:00:42,200 --> 00:00:46,480
+Los datos nos muestran de manera inequívoca que las empresarias, en igualdad de condiciones
+
+13
+00:00:46,480 --> 00:00:50,560
+iniciales, pagan una prima significativamente más alta para acceder al crédito.
+
+14
+00:00:50,560 --> 00:00:54,359
+Estamos hablando de un total de 28 puntos básicos más que sus colegas masculinos.
+
+15
+00:00:54,359 --> 00:00:59,679
+28 puede parecer poco, pero en realidad, en una línea de crédito normal para una microempresa, esta
+
+16
+00:00:59,679 --> 00:01:03,600
+brecha se traduce instantáneamente en cientos de euros de costos adicionales cada año.
+
+17
+00:01:03,600 --> 00:01:08,120
+Es literalmente un impuesto invisible que pesa única y exclusivamente sobre las empresas lideradas
+
+18
+00:01:08,120 --> 00:01:09,120
+por mujeres.
+
+19
+00:01:09,120 --> 00:01:11,280
+¿Pero de dónde viene esta diferencia?
+
+20
+00:01:11,280 --> 00:01:14,560
+¿Es solo una fría cuestión de riesgo, o hay algo más detrás?
+
+21
+00:01:14,560 --> 00:01:21,400
+Muy bien, entremos en materia y examinemos al primer sospechoso de esta investigación: el riesgo
+
+22
+00:01:21,400 --> 00:01:29,240
+financiero. Es decir, responder a la pregunta: ¿son las mujeres por casualidad deudoras menos confiables?
+
+23
+00:01:29,239 --> 00:01:33,299
+La explicación más lógica, la que se le ocurriría a cualquier analista, es que
+
+24
+00:01:33,299 --> 00:01:37,560
+las mujeres pagan tasas más altas simplemente porque sus empresas se consideran
+
+25
+00:01:37,560 --> 00:01:39,640
+intrínsecamente más riesgosas.
+
+26
+00:01:39,640 --> 00:01:45,359
+Bueno, prepárense para descartar esta hipótesis, porque los datos la refutan por completo.
+
+27
+00:01:45,359 --> 00:01:50,000
+Mirando las métricas, la tasa de insolvencia—es decir, la frecuencia con la que no logran
+
+28
+00:01:50,000 --> 00:01:56,560
+devolver las deudas o quiebran—es del 0.5% para los hombres y del 0.4% para
+
+29
+00:01:56,560 --> 00:01:57,560
+las mujeres.
+
+30
+00:01:57,560 --> 00:02:02,280
+Sorpresa: las mujeres quiebran menos. And that's not all; también el uso de las líneas de crédito
+
+31
+00:02:02,280 --> 00:02:10,599
+muestra una gestión prácticamente idéntica, 73.9% frente a 75.2%. En resumen, la hipótesis del riesgo
+
+32
+00:02:10,599 --> 00:02:12,719
+financiero se derrumba miserablemente.
+
+33
+00:02:12,719 --> 00:02:16,520
+Las mujeres no son en absoluto clientes más peligrosas para los bancos.
+
+34
+00:02:16,520 --> 00:02:22,039
+Pasemos entonces al segundo sospechoso: ¿y si depende simplemente de la elección del
+
+35
+00:02:22,039 --> 00:02:26,439
+banco? Tal vez es solo una cuestión de a dónde se va a pedir este préstamo.
+
+36
+00:02:26,960 --> 00:02:31,319
+Es una pregunta más que legítima; se podría pensar que las empresarias terminan
+
+37
+00:02:31,319 --> 00:02:36,800
+recurriendo a instituciones de crédito que son en promedio más caras para todos. Pero atención,
+
+38
+00:02:36,800 --> 00:02:38,840
+porque aquí la trama se complica.
+
+39
+00:02:38,840 --> 00:02:44,039
+Los investigadores aplicaron filtros estadísticos muy estrictos para aislar los diferentes bancos,
+
+40
+00:02:44,039 --> 00:02:48,680
+y el resultado es asombroso: la brecha de costos sigue siendo idéntica incluso dentro
+
+41
+00:02:48,680 --> 00:02:50,599
+del exacto mismo banco.
+
+42
+00:02:50,599 --> 00:02:55,000
+Mismo banco, misma sucursal, pero tasas diferentes para hombres y mujeres con perfiles de riesgo
+
+43
+00:02:55,000 --> 00:02:59,479
+completamente idénticos. Así que no, no es una cuestión de haber elegido el banco equivocado;
+
+44
+00:02:59,479 --> 00:03:02,680
+es un comportamiento sistemático dentro de la sucursal individual.
+
+45
+00:03:02,680 --> 00:03:08,319
+And this brings us to a real twist, lo que podemos llamar la paradoja de los
+
+46
+00:03:08,319 --> 00:03:12,840
+avalistas, una pista absolutamente crucial en nuestra investigación.
+
+47
+00:03:12,840 --> 00:03:18,199
+Como bien sabemos, cuando un banco arruga la nariz ante un préstamo, pide un avalista,
+
+48
+00:03:18,199 --> 00:03:23,520
+alguien que ponga sus propios bienes como garantía. Ahora, analizando el género de estos
+
+49
+00:03:23,520 --> 00:03:26,320
+avalistas, surge algo increíble.
+
+50
+00:03:26,320 --> 00:03:31,840
+Si una mujer se presenta con un avalista masculino, el banco respira aliviado y la tasa de interés
+
+51
+00:03:31,840 --> 00:03:33,160
+baja.
+
+52
+00:03:33,160 --> 00:03:39,439
+Pero atención, si la misma mujer se presenta con una avalista femenina, atención, la tasa de interés
+
+53
+00:03:39,439 --> 00:03:41,600
+sube vertiginosamente.
+
+54
+00:03:41,600 --> 00:03:47,000
+Una mujer garantizada por otra mujer se convierte automáticamente en el cliente más penalizado
+
+55
+00:03:47,000 --> 00:03:52,640
+de todo el mercado, llegando a pagar casi 30 puntos básicos más que
+
+56
+00:03:52,640 --> 00:03:56,040
+un hombre sin ningún avalista. Una locura, ¿verdad?
+
+57
+00:03:56,040 --> 00:04:00,080
+Llegados a este punto, las reglas clásicas de la economía parecen hacer aguas por todas
+
+58
+00:04:00,080 --> 00:04:01,080
+partes.
+
+59
+00:04:01,080 --> 00:04:05,800
+Recapitulemos: hemos establecido que las mujeres son deudoras súper confiables, incluso
+
+60
+00:04:05,800 --> 00:04:06,800
+más que los hombres.
+
+61
+00:04:06,800 --> 00:04:11,600
+Hemos visto que la disparidad ocurre dentro del mismo banco, y hemos
+
+62
+00:04:11,600 --> 00:04:17,120
+descubierto que dos mujeres que se alían financieramente sufren la peor penalización de todas.
+
+63
+00:04:17,120 --> 00:04:21,400
+Si la racionalidad del mercado y los modelos económicos tradicionales no pueden explicar
+
+64
+00:04:21,399 --> 00:04:24,359
+este misterio, ¿cuál es la causa real de todo esto?
+
+65
+00:04:24,359 --> 00:04:30,279
+Y aquí desenmascaramos al primer culpable real: el prejuicio cultural, que se alimenta
+
+66
+00:04:30,279 --> 00:04:33,519
+de las convenciones tradicionales sobre el mundo laboral.
+
+67
+00:04:33,519 --> 00:04:37,560
+En economía, este fenómeno se llama discriminación basada en preferencias.
+
+68
+00:04:37,560 --> 00:04:42,000
+En la práctica, la racionalidad se tira por la ventana para dejarse guiar por el prejuicio
+
+69
+00:04:42,000 --> 00:04:47,000
+de género. Y para entender cuán profundamente arraigada está esta cuestión, basta con analizar los datos de la World
+
+70
+00:04:48,000 --> 00:04:49,000
+Value Survey para Italia.
+
+71
+00:04:49,000 --> 00:04:52,720
+La encuesta pregunta si se está de acuerdo con la frase: cuando el trabajo escasea, los hombres
+
+72
+00:04:52,720 --> 00:04:55,360
+tienen más derecho a un empleo que las mujeres.
+
+73
+00:05:00,160 --> 00:05:03,720
+Observando los datos, mientras que Suecia tiene niveles muy bajos y Estados Unidos está a mitad de tabla,
+
+74
+00:05:03,720 --> 00:05:07,959
+Italia registra el nivel más alto en absoluto entre los países avanzados.
+
+75
+00:05:07,959 --> 00:05:11,480
+Esta es una creencia profunda que impregna toda la sociedad, y que inevitablemente
+
+76
+00:05:11,480 --> 00:05:16,199
+se sienta a la mesa con quien tiene que decidir si otorga un préstamo.
+
+77
+00:05:16,199 --> 00:05:20,479
+Los autores del estudio van directo al grano y formulan una hipótesis muy clara: los directores de banco
+
+78
+00:05:16,199 --> 00:05:20,479
+podrían simplemente considerar a las mujeres como clientes menos deseables,
+
+79
+00:05:20,479 --> 00:05:24,360
+independientemente de sus balances perfectos, por el mero hecho de ser mujeres.
+
+80
+00:05:24,360 --> 00:05:27,639
+La prueba definitiva se obtiene al observar los diversos sectores económicos.
+
+81
+00:05:27,639 --> 00:05:31,680
+En campos históricamente dominados por hombres como la construcción o la industria pesada,
+
+82
+00:05:31,680 --> 00:05:35,560
+esta penalización para las mujeres alcanza niveles récord, como si el sistema pusiera
+
+83
+00:05:35,560 --> 00:05:38,279
+en duda la competencia femenina en esos contextos.
+
+84
+00:05:38,279 --> 00:05:42,519
+Por el contrario, en sectores percibidos como más femeninos, como el comercio minorista,
+
+85
+00:05:42,519 --> 00:05:46,159
+esta diferencia en las tasas de interés se reduce hasta casi desaparecer.
+
+86
+00:05:46,159 --> 00:05:51,680
+Todavía nos falta la última pieza del rompecabezas, el second culpable: el poder de negociación
+
+87
+00:05:51,680 --> 00:05:54,359
+y las dinámicas de negociación bajo estrés.
+
+88
+00:05:54,359 --> 00:05:58,719
+Porque, si lo pensamos bien, conseguir un préstamo no es como comprar un objeto con un
+
+89
+00:05:58,719 --> 00:05:59,719
+precio fijo.
+
+90
+00:05:59,719 --> 00:06:05,120
+Es un proceso; hay que regatear y negociar, y la economía conductual enseña que
+
+91
+00:06:05,120 --> 00:06:09,799
+en situaciones de alto estrés, quien tiene más poder de negociación se lleva la mejor parte.
+
+92
+00:06:09,800 --> 00:06:13,879
+Analizando los datos sobre los directores de bancos italianos en el período estudiado, la situación es
+
+93
+00:06:13,879 --> 00:06:19,280
+cuando menos esclarecedora: menos del 10% de los puestos de toma de decisiones están ocupados por mujeres.
+
+94
+00:06:19,280 --> 00:06:24,360
+Más del 90% de los funcionarios, aquellos que materialmente decidían, eran hombres.
+
+95
+00:06:24,360 --> 00:06:26,920
+Esto crea un desequilibrio de poder rotundo.
+
+96
+00:06:26,920 --> 00:06:30,720
+Una empresaria se encuentra sistemáticamente con tener que defender su proyecto en un
+
+97
+00:06:30,720 --> 00:06:35,920
+entorno dominado por figuras masculinas, una dinámica que hace que la negociación sea mucho más dura
+
+98
+00:06:35,920 --> 00:06:39,000
+y contribuye activamente a mantener tasas más altas.
+
+99
+00:06:39,000 --> 00:06:43,240
+Tirando de los hilos de esta espectacular investigación, el panorama que enfrentamos es tan
+
+100
+00:06:43,240 --> 00:06:47,120
+fascinante desde una perspectiva académica como duro para la economía real.
+
+101
+00:06:47,120 --> 00:06:52,120
+Recapitulemos los hechos: uno, las mujeres pagan más; dos, paradójicamente no son en absoluto
+
+102
+00:06:52,120 --> 00:06:57,040
+clientes más riesgosas; tres, incluso la solidaridad financiera entre mujeres, con una avalista femenina,
+
+103
+00:06:57,040 --> 00:07:00,680
+es penalizada por el sistema. ¿Y por qué sucede todo esto?
+
+104
+00:07:00,680 --> 00:07:04,660
+La respuesta no está en los libros de finanzas, sino en una mezcla invisible hecha de prejuicios
+
+105
+00:07:04,660 --> 00:07:08,860
+culturales profundamente arraigados y una falta crónica de diversidad en las salas de toma de decisiones
+
+106
+00:07:08,860 --> 00:07:12,820
+de los bancos, una mezcla letal que infla los costos de manera dramática.
+
+107
+00:07:12,820 --> 00:07:18,220
+And this awareness leaves us con una gran provocación final: si el mercado de crédito
+
+108
+00:07:18,220 --> 00:07:23,060
+no es esa máquina perfecta y súper racional que se estudia en la universidad,
+
+109
+00:07:23,060 --> 00:07:28,260
+sino que termina absorbiendo todos los prejuicios de la sociedad en la que vive, el desafío está claro:
+
+110
+00:07:28,260 --> 00:07:32,940
+no basta con presentarse con cuentas perfectas para obtener un trato igualitario;
+
+111
+00:07:32,939 --> 00:07:37,980
+debemos desmantelar esas barreras invisibles hechas de legados culturales y desequilibrios de poder.
+
+112
+00:07:37,980 --> 00:07:42,219
+La verdadera pregunta, con la que se cierra la reflexión de hoy, es esta:
+
+113
+00:07:42,219 --> 00:07:47,100
+¿Qué acciones se deben tomar ahora, para que en el futuro la solidez de una idea de negocio
+
+114
+00:07:47,100 --> 00:07:52,220
+se valore finalmente solo por su mérito absoluto, y no por el género de la persona que la propone?

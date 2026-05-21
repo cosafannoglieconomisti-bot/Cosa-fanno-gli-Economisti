@@ -1,0 +1,8 @@
+# Video Metadata - Cuando la Iglesia detuvo a Italia (ES)
+
+## Descripción
+El estudio "Catholic Censorship and the Demise of Knowledge Production in Early Modern Italy" de Blasutto y de la Croix, publicado en The Economic Journal en 2023, analiza cómo el Índice de Libros Prohibidos sofocó la producción de conocimiento en Italia. A través del "efecto disuasorio", la censura empujó a los mejores talentos hacia carreras conformistas pero poco innovadoras, provocando un colapso del liderazgo intelectual italiano que duró siglos y costó casi el 43 % de la producción científica potencial.
+
+⏰ Fuente: ►► https://doi.org/10.1093/ej/uead037
+
+⏰SUSCRÍBETE al canal ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1

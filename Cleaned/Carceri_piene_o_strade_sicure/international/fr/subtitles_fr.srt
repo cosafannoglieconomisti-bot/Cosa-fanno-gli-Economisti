@@ -1,0 +1,759 @@
+1
+00:00:00,000 --> 00:00:07,000
+Alors, que se passe-t-il si, du jour au lendemain, les portes des prisons s'ouvrent et que plus de 20 000 personnes sont libérées ?
+
+2
+00:00:07,000 --> 00:00:09,000
+On dirait le début d'un film, n'est-ce pas ?
+
+3
+00:00:09,000 --> 00:00:13,000
+Pourtant, c'est réellement arrivé en Italie en 2006.
+
+4
+00:00:13,000 --> 00:00:18,000
+C'était une expérience incroyable, même si elle n'était pas tout à fait intentionnelle.
+
+5
+00:00:18,000 --> 00:00:23,000
+Et aujourd'hui, nous allons faire justement cela, une enquête, pour comprendre ce que cet événement nous a appris
+
+6
+00:00:23,000 --> 00:00:26,000
+et pour répondre à une question fondamentale sur la criminalité.
+
+7
+00:00:26,000 --> 00:00:31,000
+Et la question, le mystère au cœur de notre enquête, est précisément celle-ci.
+
+8
+00:00:31,000 --> 00:00:34,000
+Mais la prison, comment réduit-elle la criminalité ?
+
+9
+00:00:34,000 --> 00:00:38,000
+Est-ce que ça marche parce que, vous savez, cela effraie les gens, les décourage de commettre des délits,
+
+10
+00:00:38,000 --> 00:00:42,000
+ou son efficacité est-elle beaucoup plus terre à terre, beaucoup plus pratique,
+
+11
+00:00:42,000 --> 00:00:45,000
+c'est-à-dire simplement que celui qui est à l'intérieur ne peut pas commettre de crimes à l'extérieur ?
+
+12
+00:00:45,000 --> 00:00:47,000
+C'est un beau dilemme, non ?
+
+13
+00:00:47,000 --> 00:00:52,000
+Exactement, regardez, en criminologie, il existe justement ces deux concepts clés.
+
+14
+00:00:52,000 --> 00:00:56,000
+D'un côté, il y a la dissuasion, qui est l'idée que la menace de la prison
+
+15
+00:00:56,000 --> 00:00:59,000
+fait suffisamment peur pour arrêter les criminels potentiels.
+
+16
+00:00:59,000 --> 00:01:03,000
+De l'autre, il y a l'incapacitation, qui est pour ainsi dire beaucoup plus directe.
+
+17
+00:01:03,000 --> 00:01:07,000
+Si vous êtes en prison, tout bêtement, vous ne pouvez pas vous balader pour commettre des braquages.
+
+18
+00:01:07,000 --> 00:01:11,000
+Voilà, et c'est précisément là que la grâce de 2006 devient si intéressante.
+
+19
+00:01:11,000 --> 00:01:15,000
+Car elle nous a offert, sur un plateau d'argent, une occasion folle,
+
+20
+00:01:15,000 --> 00:01:20,000
+de mettre à l'épreuve ces deux théories et de voir laquelle pèse le plus dans la réalité.
+
+21
+00:01:20,000 --> 00:01:25,000
+Parce que pour résoudre une affaire, il faut des preuves, et incroyablement, l'Italie de 2006
+
+22
+00:01:25,000 --> 00:01:30,000
+est devenue une sorte de scène de crime parfaite pour les chercheurs.
+
+23
+00:01:30,000 --> 00:01:35,000
+Ce qui s'est passé a créé les conditions pour ce qu'on appelle une expérience naturelle,
+
+24
+00:01:35,000 --> 00:01:38,000
+pratiquement un laboratoire à ciel ouvert pour étudier la criminalité.
+
+25
+00:01:38,000 --> 00:01:42,000
+Pour comprendre comment on en est arrivé là, nous devons faire un pas en arrière
+
+26
+00:01:42,000 --> 00:01:46,000
+et examiner la situation des prisons italiennes au cours de ces années-là.
+
+27
+00:01:46,000 --> 00:01:48,000
+On parle d'une situation vraiment explosive.
+
+28
+00:01:48,000 --> 00:01:53,000
+Le système était littéralement en train de s'effondrer, avec une surpopulation qui durait depuis des années
+
+29
+00:01:53,000 --> 00:01:57,000
+et qui avait rendu les conditions de vie à l'intérieur tout simplement insoutenables.
+
+30
+00:01:57,000 --> 00:02:03,000
+Et pour donner une idée concrète, un chiffre suffit : 138 % en juin 2006,
+
+31
+00:02:03,000 --> 00:02:06,000
+c'était le taux d'occupation des prisons.
+
+32
+00:02:06,000 --> 00:02:10,000
+Imaginez 100 places disponibles et 138 personnes qui les occupent.
+
+33
+00:02:10,000 --> 00:02:13,000
+C'était une bombe à retardement, c'était clair.
+
+34
+00:02:13,000 --> 00:02:17,000
+Et à ce moment-là, le gouvernement a compris qu'il devait faire quelque chose, et quelque chose de radical.
+
+35
+00:02:18,000 --> 00:02:20,000
+Et en effet, voici la chronologie des événements.
+
+36
+00:02:20,000 --> 00:02:23,000
+La pression monte, monte, monte pendant des années.
+
+37
+00:02:23,000 --> 00:02:27,000
+Et en juillet 2006, la décision tombe : la grâce.
+
+38
+00:02:27,000 --> 00:02:30,000
+Un mois plus tard, en août, l'impensable se produit.
+
+39
+00:02:30,000 --> 00:02:35,000
+Des milliers et des milliers de détenus sortent de prison pratiquement tous en même temps.
+
+40
+00:02:35,000 --> 00:02:38,000
+Ce fut un choc énorme et soudain pour tout le système.
+
+41
+00:02:38,000 --> 00:02:41,000
+Et d'un point de vue scientifique, quelque chose de mesurable.
+
+42
+00:02:41,000 --> 00:02:46,000
+Mais parlons de l'ampleur de ce choc, car elle est stupéfiante.
+
+43
+00:02:46,000 --> 00:02:51,000
+En un seul mois, la population carcérale a chuté de 36 %.
+
+44
+00:02:51,000 --> 00:02:52,000
+Réfléchissons-y un instant.
+
+45
+00:02:52,000 --> 00:02:56,000
+C'est comme si plus d'un tiers des prisons s'était vidé d'un coup.
+
+46
+00:02:56,000 --> 00:03:02,000
+Du jamais vu, ce qui a évidemment créé un ensemble de données incroyable pour notre enquête.
+
+47
+00:03:02,000 --> 00:03:05,000
+D'accord, nous avons donc la scène du crime.
+
+48
+00:03:05,000 --> 00:03:07,000
+Nous avons le mouvement, disons.
+
+49
+00:03:07,000 --> 00:03:10,000
+Maintenant, comme dans toute enquête qui se respecte,
+
+50
+00:03:10,000 --> 00:03:12,000
+c'est le moment d'analyser les preuves.
+
+51
+00:03:12,000 --> 00:03:16,000
+Les chercheurs qui ont étudié ce cas ont suivi trois pistes,
+
+52
+00:03:16,000 --> 00:03:20,000
+trois indices fondamentaux pour comprendre ce qui s'est réellement passé.
+
+53
+00:03:20,000 --> 00:03:24,000
+Exactement, ce sont les trois questions auxquelles ils ont tenté de répondre.
+
+54
+00:03:24,000 --> 00:03:29,000
+La première : qu'est-il arrivé à la criminalité dans l'immédiat, juste après la libération ?
+
+55
+00:03:29,000 --> 00:03:32,000
+La deuxième : que s'est-il passé ensuite ?
+
+56
+00:03:32,000 --> 00:03:35,000
+À mesure que les prisons ont commencé à se remplir à nouveau.
+
+57
+00:03:35,000 --> 00:03:41,000
+Et la troisième, très importante : l'impact a-t-il été le même partout en Italie
+
+58
+00:03:41,000 --> 00:03:44,000
+ou a-t-il varié d'une province à l'autre ?
+
+59
+00:03:44,000 --> 00:03:48,000
+Alors, commençons par le premier indice : l'impact immédiat.
+
+60
+00:03:48,000 --> 00:03:50,000
+Ici, la preuve est presque accablante.
+
+61
+00:03:50,000 --> 00:03:53,000
+Si l'on regarde les données sur la criminalité au niveau national,
+
+62
+00:03:53,000 --> 00:03:55,000
+on voit une rupture nette, un décrochage.
+
+63
+00:03:55,000 --> 00:03:59,000
+Précisément lors de la libération massive d'août 2006,
+
+64
+00:03:59,000 --> 00:04:01,000
+les délits font un bond vers le haut.
+
+65
+00:04:01,000 --> 00:04:03,000
+C'est une corrélation presque parfaite.
+
+66
+00:04:03,000 --> 00:04:06,000
+Et ce graphique le montre clairement.
+
+67
+00:04:06,000 --> 00:04:09,000
+Regardez la différence entre avant la grâce, en juillet,
+
+68
+00:04:09,000 --> 00:04:11,000
+et juste après, en septembre.
+
+69
+00:04:11,000 --> 00:04:12,000
+Il y a une envolée.
+
+70
+00:04:12,000 --> 00:04:16,000
+Et nous parlons surtout de délits tels que les vols et les braquages.
+
+71
+00:04:16,000 --> 00:04:18,000
+L'augmentation est si rapide, si nette,
+
+72
+00:04:18,000 --> 00:04:23,000
+qu'il est pratiquement impossible de ne pas la lier directement à la grâce.
+
+73
+00:04:23,000 --> 00:04:26,000
+Bien, passons au deuxième indice.
+
+74
+00:04:26,000 --> 00:04:29,000
+Après ce grand vidage, les prisons, évidemment,
+
+75
+00:04:29,000 --> 00:04:31,000
+ont commencé à se remplir à nouveau,
+
+76
+00:04:31,000 --> 00:04:33,000
+mais il y a ici un détail fondamental.
+
+77
+00:03:33,000 --> 00:04:37,000
+Ce ne sont pas tant les ex-détenus qui y retournaient,
+
+78
+00:04:37,000 --> 00:04:39,000
+mais plutôt de nouveaux criminels,
+
+79
+00:04:39,000 --> 00:04:41,000
+des personnes arrêtées pour la première fois.
+
+80
+00:04:41,000 --> 00:04:43,000
+Et c'est très intéressant.
+
+81
+00:04:43,000 --> 00:04:46,000
+Oui, car ici surgit une donnée un peu déroutante.
+
+82
+00:04:46,000 --> 00:04:48,000
+En analysant précisément ces nouvelles entrées,
+
+83
+00:04:48,000 --> 00:04:50,000
+les chercheurs ont fait un calcul
+
+84
+00:04:50,000 --> 00:04:53,000
+et ont découvert que leur effet d'incapacitation
+
+85
+00:04:53,000 --> 00:04:55,000
+était encore plus important.
+
+86
+00:04:55,000 --> 00:04:58,000
+En pratique, chaque nouveau détenu, qui prenait la place d'un ancien,
+
+87
+00:04:58,000 --> 00:04:59,000
+disons-le ainsi,
+
+88
+00:04:59,000 --> 00:05:02,000
+a permis d'éviter jusqu'à 46 délits par an.
+
+89
+00:05:02,000 --> 00:05:04,000
+Cela nous dit une chose importante.
+
+90
+00:05:04,000 --> 00:05:07,000
+En moyenne, ce nouveau groupe était criminellement plus prolifique
+
+91
+00:05:07,000 --> 00:05:09,000
+que celui des personnes libérées.
+
+92
+00:05:09,000 --> 00:05:12,000
+Et nous en arrivons au troisième et dernier indice,
+
+93
+00:05:12,000 --> 00:05:14,000
+celui qui est peut-être le plus éclairant.
+
+94
+00:05:14,000 --> 00:05:18,000
+Ici, l'enquête se déplace, elle zoome du niveau national au niveau local.
+
+95
+00:05:18,000 --> 00:05:22,000
+Les chercheurs ont examiné les 103 provinces italiennes
+
+96
+00:05:22,000 --> 00:05:24,000
+et ont regardé deux choses.
+
+97
+00:05:24,000 --> 00:05:27,000
+Combien de détenus graciés sont retournés dans cette province spécifique
+
+98
+00:05:27,000 --> 00:05:30,000
+et comment la criminalité y a évolué.
+
+99
+00:05:30,000 --> 00:05:33,000
+Et là, selon moi, se trouve la véritable clé de voûte.
+
+100
+00:05:33,000 --> 00:05:35,000
+Un schéma très clair est apparu.
+
+101
+00:05:35,000 --> 00:05:37,000
+Dans les provinces qui, déjà avant la grâce,
+
+102
+00:05:37,000 --> 00:05:39,000
+avaient des taux d'incarcération élevés,
+
+103
+00:05:39,000 --> 00:05:42,000
+l'augmentation des crimes pour chaque détenu libéré
+
+104
+00:05:42,000 --> 00:05:44,000
+a été plus faible.
+
+105
+00:05:44,000 --> 00:05:46,000
+L'analogie de la pêche tombe à pic.
+
+106
+00:05:46,000 --> 00:05:47,000
+Si vous pêchez dans un lac,
+
+107
+00:05:47,000 --> 00:05:49,000
+au début, vous attrapez les plus gros poissons,
+
+108
+00:05:49,000 --> 00:05:50,000
+les plus faciles,
+
+109
+00:05:50,000 --> 00:05:52,000
+mais plus vous continuez à pêcher,
+
+110
+00:05:52,000 --> 00:05:53,000
+plus cela devient difficile,
+
+111
+00:05:53,000 --> 00:05:55,000
+et pour chaque heure d'effort, vous obtenez moins.
+
+112
+00:05:55,000 --> 00:05:57,000
+En économie, on appelle cela
+
+113
+00:05:57,000 --> 00:05:59,000
+le principe des rendements décroissants
+
+114
+00:05:59,000 --> 00:06:01,000
+et apparemment, cela vaut aussi pour l'incarcération.
+
+115
+00:06:01,000 --> 00:06:04,000
+À ce stade, avec les trois indices sur la table,
+
+116
+00:06:04,000 --> 00:06:06,000
+nous pouvons rendre notre verdict
+
+117
+00:06:06,000 --> 00:06:08,000
+et la conclusion à laquelle nous mène
+
+118
+00:06:08,000 --> 00:06:10,000
+cette enquête est puissante
+
+119
+00:06:10,000 --> 00:06:13,000
+et par certains aspects aussi un peu contre-intuitive,
+
+120
+00:06:13,000 --> 00:06:16,000
+sur la façon dont fonctionne réellement la prison.
+
+121
+00:06:16,000 --> 00:06:19,000
+Le verdict de l'étude, le verdict scientifique,
+
+122
+00:06:19,000 --> 00:06:21,000
+est parfaitement résumé dans cette phrase :
+
+123
+00:06:21,000 --> 00:06:23,000
+« Les effets de prévention du crime
+
+124
+00:06:23,000 --> 00:06:25,000
+de l'incarcération diminuent
+
+125
+00:06:25,000 --> 00:06:27,000
+à mesure que le taux d'incarcération augmente. »
+
+126
+00:06:27,000 --> 00:06:30,000
+C'est le cœur de toute la découverte.
+
+127
+00:06:30,000 --> 00:06:31,000
+Exactement !
+
+128
+00:06:31,000 --> 00:06:34,000
+Si nous voulons traduire cela en termes simples, cela signifie ceci :
+
+129
+00:06:34,000 --> 00:06:36,000
+mettre les gens en prison
+
+130
+00:06:36,000 --> 00:06:38,000
+pour les empêcher de commettre des crimes,
+
+131
+00:06:38,000 --> 00:06:41,000
+l'incapacitation fonctionne, cela ne fait aucun doute,
+
+132
+00:06:41,000 --> 00:06:43,000
+mais il y a un mais.
+
+133
+00:06:43,000 --> 00:06:45,000
+Son effet n'est pas toujours le même.
+
+134
+00:06:45,000 --> 00:06:47,000
+Au contraire, plus vous mettez de gens à l'intérieur,
+
+135
+00:06:47,000 --> 00:06:49,000
+moins chaque nouvelle arrestation
+
+136
+00:06:49,000 --> 00:06:50,000
+devient efficace.
+
+137
+00:06:50,000 --> 00:06:51,000
+C'est logique.
+
+138
+00:06:51,000 --> 00:06:53,000
+Les premiers que vous retirez de la circulation
+
+139
+00:06:53,000 --> 00:06:55,000
+sont les criminels les plus actifs,
+
+140
+00:06:55,000 --> 00:06:56,000
+mais à mesure que vous avancez,
+
+141
+00:06:56,000 --> 00:06:57,000
+vous finissez par incarcérer
+
+142
+00:06:57,000 --> 00:06:59,000
+des personnes de moins en moins dangereuses.
+
+143
+00:06:59,000 --> 00:07:01,000
+Mais attention,
+
+144
+00:07:01,000 --> 00:07:03,000
+l'enquête n'est pas encore tout à fait close.
+
+145
+00:07:03,000 --> 00:07:04,000
+Il y a une dernière partie,
+
+146
+00:07:04,000 --> 00:07:06,000
+une sorte de coup de théâtre.
+
+147
+00:07:06,000 --> 00:07:08,000
+En plus de tout cela,
+
+148
+00:07:08,000 --> 00:07:09,000
+nous devons nous demander,
+
+149
+00:07:09,000 --> 00:07:12,000
+mais d'un point de vue purement économique,
+
+150
+00:07:12,000 --> 00:07:15,000
+la grâce a-t-elle été une mesure rentable ?
+
+151
+00:07:15,000 --> 00:07:16,000
+Exactement,
+
+152
+00:07:16,000 --> 00:07:18,000
+c'est le moment de l'analyse coûts-avantages.
+
+153
+00:07:18,000 --> 00:07:19,000
+D'un côté,
+
+154
+00:07:19,000 --> 00:07:21,000
+nous avons l'argent économisé par l'État,
+
+155
+00:07:21,000 --> 00:07:22,000
+de l'autre,
+
+156
+00:07:22,000 --> 00:07:24,000
+les coûts que la société a dû payer,
+
+157
+00:07:24,000 --> 00:07:27,000
+quel plateau de la balance pèse le plus lourd.
+
+158
+00:07:27,000 --> 00:07:29,000
+Eh bien, commençons par les bénéfices.
+
+159
+00:07:29,000 --> 00:07:31,000
+Le calcul est assez direct.
+
+160
+00:07:31,000 --> 00:07:32,000
+N'ayant plus à assurer l'entretien,
+
+161
+00:07:32,000 --> 00:07:34,000
+le gîte, le couvert et la surveillance
+
+162
+00:07:34,000 --> 00:07:36,000
+de plus de 25 000 personnes,
+
+163
+00:07:36,000 --> 00:07:38,000
+l'État italien a économisé
+
+164
+00:07:38,000 --> 00:07:39,000
+une somme considérable.
+
+165
+00:07:39,000 --> 00:07:42,000
+On parle d'environ 245 millions d'euros.
+
+166
+00:07:42,000 --> 00:07:44,000
+Et maintenant, les coûts.
+
+167
+00:07:44,000 --> 00:07:46,000
+Et là, le chiffre est,
+
+168
+00:07:46,000 --> 00:07:48,000
+eh bien, il est d'un tout autre ordre de grandeur.
+
+169
+00:07:48,000 --> 00:07:50,000
+Les coûts sociaux,
+
+170
+00:07:50,000 --> 00:07:52,000
+c'est-à-dire la valeur de tous les délits supplémentaires
+
+171
+00:07:52,000 --> 00:07:54,000
+commis par ceux qui ont été libérés,
+
+172
+00:07:54,000 --> 00:07:55,000
+ont été estimés
+
+173
+00:07:55,000 --> 00:07:58,000
+jusqu'à 2,2 milliards d'euros.
+
+174
+00:07:58,000 --> 00:08:00,000
+C'est un chiffre énorme,
+
+175
+00:08:00,000 --> 00:08:02,000
+qui fait pâlir les économies de l'État.
+
+176
+00:08:02,000 --> 00:08:04,000
+En fin de compte,
+
+177
+00:08:04,000 --> 00:08:06,000
+l'enquête sur la grâce de 2006
+
+178
+00:08:06,000 --> 00:08:09,000
+nous laisse avec une question cruciale.
+
+179
+00:08:09,000 --> 00:08:11,000
+Elle nous a montré que oui,
+
+180
+00:08:11,000 --> 00:08:13,000
+l'incapacitation fonctionne,
+
+181
+00:08:13,000 --> 00:08:15,000
+mais pas à l'infini,
+
+182
+00:08:15,000 --> 00:08:16,000
+et que les décisions politiques
+
+183
+00:08:16,000 --> 00:08:18,000
+dans ce domaine ont des conséquences
+
+184
+00:08:18,000 --> 00:08:20,000
+économiques et sociales énormes.
+
+185
+00:08:20,000 --> 00:08:22,000
+La vraie question est donc la suivante :
+
+186
+00:08:22,000 --> 00:08:24,000
+quel est le juste point d'équilibre
+
+187
+00:08:24,000 --> 00:08:26,000
+entre les coûts et la sécurité ?
+
+188
+00:08:26,000 --> 00:08:27,000
+Il n'y a pas de réponse facile,
+
+189
+00:08:27,000 --> 00:08:29,000
+et c'est probablement l'un des défis
+
+190
+00:08:29,000 --> 00:08:32,000
+les plus complexes pour n'importe quel pays.

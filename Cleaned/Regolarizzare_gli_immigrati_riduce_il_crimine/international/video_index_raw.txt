@@ -1,0 +1,107 @@
+=== TRASCRITTO CON TIMESTAMP ===
+Video: Regolarizzare_gli_immigrati_riduce_il_crimine_cleaned.mp4
+
+[00:00] La domanda è di quelle che scottano e se ne sente parlare spessissimo, regularizzare gli
+[00:05] immigrati regolari, riduce davvero la criminalità, è un tema che infiamma sempre il dibattito
+[00:11] pubblico, ma la vera domanda è cosa ci dicono i dati, quelli veri.
+[00:15] E' attenzione, non è solo una sensazione i sondaggi parlanociaro, più della metà delle
+[00:20] persone in Europa e in nordamerica è convinta che più immigrazione significa automaticamente
+[00:25] più crimine, è una paura diffusa quasi radicata, che ovviamente condiziona
+[00:29] tutto il dibattito, ma sarà poi vero.
+[00:32] Ok, proviamo a fare una cosa, mettiamo da parte le opinioni, le paure e guardiamo in faccia
+[00:38] le prove, perché per capire davvero i legami tra questi due fenomeni dobbiamo affidarci
+[00:42] ai numeri, e a volte vi assicuro i numeri sanno essere davvero sorprendenti.
+[00:47] Però ecco, c'è subito un ostacolo, una bella gatta da pelare, come facciamo essere
+[00:53] sicuri che una cosa sia la causa di un'altra e non solo una coincidenza.
+[00:57] E' il classico enorme problema della causalità.
+[01:00] Guardate questo dato, per esempio, che viene dall'Italia nel 2006, all'epoca gli immigrati
+[01:05] regolari erano meno del 20% di tutti gli strani ai ripresenti, ma rappresentavano l'80%
+[01:12] degli arresti.
+[01:13] A prima vista, un numero che sembra a chiudere ogni discussione, ma è davvero così
+[01:17] simplice.
+[01:18] E qui cascalasino, dobbiamo distinguere tra due parole che sembrano simili, ma sono diversissime,
+[01:24] correlazione e causalità, solo perché due cose accadono insieme, che so destate, aumentano
+[01:29] sia le vendite di gelati, sia gli annegamenti, non significa che una causa di l'altra, magari
+[01:34] c'è una terza valiabile, in questo caso il caldo che spiega entrambe le cose.
+[01:39] Esattamente per questo motivo non possiamo semplicemente paragonare il gruppo degli regolari
+[01:45] con quello dei regolari, magari sono persone diverse per età, per livello di istruzione,
+[01:51] per difficoltà economiche, sarebbe come paragonare le mele con le pere, no, per capire
+[01:56] l'effetto reale, della sola regolarizzazione ci serve un metodo molto, molto più furbo.
+[02:02] E qui la storia si fa incredibile, la soluzione per assurdo c'è la fornità una politica
+[02:09] tutta italiana, un po' strana, a dire il vero, i famosi click day, senza volerlo hanno
+[02:15] creato un esperimento naturale praticamente perfetto per i nostri scopi.
+[02:20] Il metodo che si usa in questi casi si chiama regression discontinuity, sembra un nome
+[02:25] complicato ma l'idea è semplicissima.
+[02:27] Immaginiamo di avere due gruppi di persone quasi identiche, poi per puro caso, a un gruppo
+[02:32] viene data un'opportunità e all'altro no, esattamente quello che è successo con i click day,
+[02:37] una linee di confine decisa da una manciata di secondi, ma come funzionavano?
+[02:42] Semplice, il governo stabiliva un numero massimo di permessi disponibili, a partire
+[02:47] da un giorno e un'ora precisi e i datori di lavoro potevano inviare le domande online.
+[02:52] Le prime che arrivavano venivano accettate, le altre fuori, era una vera e propria gara
+[02:57] di velocità digitale, dove tutto si decideva in pochi istanti, ed è proprio questo il punto
+[03:03] chiave.
+[03:04] L'orario esatto in cui finivano i posti disponibili era totalmente casuale, imprevedibile.
+[03:10] Questo significa che le persone la cui domande arrivata un mili secondo prima della chiusura
+[03:15] e quelle la cui domande arrivata un mili secondo dopo, erano di fatto identiche.
+[03:20] L'unica cosa a separarli, la pura e semplice fortuna.
+[03:24] Il caso ha creato per noi due gruppi perfetti da mettere a confronto.
+[03:29] Perfetto, e allora andiamo a vedere i risultati di questo esperimento pazzesco, che cosa è
+[03:34] successo a queste persone separate solo dal destino di un click.
+[03:38] Prima di tutto, una verifica, controlliamo la situazione l'anno prima del click day.
+[03:44] Il tasso di criminalità era praticamente identico per entrambi i gruppi, sia per i fortunati
+[03:48] che per gli sforzunati circa 1,1%.
+[03:52] Questo ci dà la certezza matematica che stiamo confrontando due gruppi di persone assolutamente
+[03:57] uguali all'inizio.
+[03:58] E ora, il momento della verità, guardate cosa succede un anno dopo.
+[04:03] Le due barre sono chiarissime.
+[04:05] Per il gruppo che non ha ottenuto il permesso, quello degli sforzunati, il tasso di criminalità
+[04:11] non è cambiato.
+[04:12] Ma per il gruppo che è stato regularizzato, la barra sia abbassata e di molto.
+[04:18] Ecco lo qui, il dato che fa la differenza.
+[04:21] La regularizzazione non era solo correllata, ma ha causato un calo relativo del 55% nel tasso
+[04:28] di criminalità per chi ha ricevuto il permesso.
+[04:31] Questo non è un'opinione, è un risultato statistico netto, potente, in equivocabile.
+[04:37] Ma la storia non finisce qui.
+[04:38] Anzi, andiamo ancora più a fondo.
+[04:40] Perché questa riduzione della criminalità non è stata uguale per tutti?
+[04:43] C'è una sfumatura, un dettaglio, che ci svela un quadro ancora più interessante.
+[04:48] Quindi la domanda sorge spontanea, ma questo effetto, questo crollo del 55%, si ha verificato
+[04:54] per tutti allo stesso modo, la ricerca ha scavato più a fondo e ha trovato una differenza
+[04:59] fondamentale, che dipende tutto dal tipo di lavoro per cui si chiede valare regularizzazione.
+[05:04] Guardate questa tabella, è davvero illuminante.
+[05:07] I ricercatori hanno diviso i richiedenti in due categorie.
+[05:10] Il tipo B sponsorizzato da aziende, che partiva già da un tasso di criminalità basso,
+[05:15] lo 0,5%, e il tipo A sponsorizzato da famiglie per lavori domestici,
+[05:20] che invece partiva da un tasso molto più alto, l'umovirgolo 8%.
+[05:24] Ebbene, tutto e dico tutto, il calo della criminalità si è concentrato qui nel gruppo A.
+[05:30] Per il gruppo B l'effetto è stato praticamente zero.
+[05:33] Ma perché una differenza così netta?
+[05:36] Le potesse più probabile è questa.
+[05:38] Chi rientrava nel tipo B, probabilmente un lavoro, anche se in nero, ce l'aveva già.
+[05:43] Chi rientrava nel tipo A, invece, aveva prospettive molto più precarie, magari era disoccupato.
+[05:49] Con meno opportunità legali, la probabilità di commettere reati per necessità era ovviamente più alta.
+[05:55] E sono proprio queste persone, quelle che hanno tratto il maggior beneficio dalla regularizzazione.
+[06:00] E questo ci porta dritti al cuore della questione.
+[06:03] Il punto finale è forse più importante di tutti.
+[06:06] Perché è successo?
+[06:07] Qual è il meccanismo che ha fatto crollare la criminalità in quel gruppo specifico?
+[06:12] La risposta in una parola è opportunità.
+[06:15] O opportunità economiche per essere precisi.
+[06:18] Un permesso di soggiorno non è solo un pezzo di carta.
+[06:21] È la chiave che apre la porta del mercato del lavoro legale, di uno stipendio migliore,
+[06:27] di una vita più stabile, cambia completamente le carte in tabola.
+[06:31] E la prova del nove arriva da un altro dato schiacciante, il tipo di reati.
+[06:36] La riduzione, infatti, riguarda quasi esclusivamente i reati contro il patrimonio, come i furti,
+[06:41] cioè reati motivati dal bisogno economico.
+[06:44] Questo è un indizio fortissimo che nel momento in cui si offre un'alternativa legale per guadagnarsi da vivere,
+[06:49] l'opzione legale diventa molto meno tremte.
+[06:52] Il punto, quindi, non è che lo stato se legale cambia magicamente le persone.
+[06:57] Il punto è che lo stato se legale da accesso a delle opportunità.
+[07:01] E l'accesso a un lavoro dignitoso e stabile cambia radicalmente il calcolo dei costi
+[07:05] e dei benefici di un'azione illegale.
+[07:08] E allora la conclusione ci lascia con una riflessione importante.
+[07:11] Se la chiave per ridurre un certo tipo di criminalità e offrire opportunità economiche concrete,
+[07:16] allora questo cosa significa per le politiche migratorie,
+[07:19] forse le politiche di integrazione nel mercato del lavoro
+[07:22] non sono solo politiche sociali, ma potrebbero essere tra le più efficaci politiche di sicurezza che abbiamo,
+[07:27] un punto su cui probabilmente vale la pena riflettere al lungo.

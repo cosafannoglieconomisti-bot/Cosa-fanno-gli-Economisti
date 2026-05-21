@@ -1,0 +1,759 @@
+1
+00:00:00,000 --> 00:00:07,000
+Was passiert also, wenn sich von einem Tag auf den anderen die Gefängnistüren öffnen und mehr als 20.000 Menschen freigelassen werden?
+
+2
+00:00:07,000 --> 00:00:09,000
+Das klingt wie der Anfang eines Films, oder?
+
+3
+00:00:09,000 --> 00:00:13,000
+Und doch ist es 2006 in Italien wirklich passiert.
+
+4
+00:00:13,000 --> 00:00:18,000
+Es war ein unglaubliches Experiment, wenn auch nicht ganz beabsichtigt.
+
+5
+00:00:18,000 --> 00:00:23,000
+Und heute werden wir genau das tun, eine Untersuchung, um zu verstehen, was uns dieses Ereignis gelehrt hat
+
+6
+00:00:23,000 --> 00:00:26,000
+und um eine grundlegende Frage zur Kriminalität zu beantworten.
+
+7
+00:00:26,000 --> 00:00:31,000
+Und die Frage, das Geheimnis im Zentrum unserer Untersuchung, ist genau diese:
+
+8
+00:00:31,000 --> 00:00:34,000
+Aber wie reduziert das Gefängnis die Kriminalität?
+
+9
+00:00:34,000 --> 00:00:38,000
+Funktioniert es, weil es die Menschen abschreckt und sie davon abhält, Straftaten zu begehen,
+
+10
+00:00:38,000 --> 00:00:42,000
+oder ist seine Wirksamkeit viel bodenständiger, viel praktischer,
+
+11
+00:00:42,000 --> 00:00:45,000
+nämlich ganz einfach, dass wer drinnen ist, draußen nicht straffällig werden kann?
+
+12
+00:00:45,000 --> 00:00:47,000
+Ein ziemliches Dilemma, oder?
+
+13
+00:00:47,000 --> 00:00:52,000
+Genau, schau, in der Kriminologie gibt es genau diese zwei Schlüsselkonzepte.
+
+14
+00:00:52,000 --> 00:00:56,000
+Einerseits gibt es die Abschreckung, also die Vorstellung, dass die Androhung von Gefängnis
+
+15
+00:00:56,000 --> 00:00:59,000
+potenziellen Kriminellen genug Angst macht, um sie zu stoppen.
+
+16
+00:00:59,000 --> 00:01:03,000
+Andererseits gibt es die Unschädlichmachung, was sozusagen viel direkter ist.
+
+17
+00:01:03,000 --> 00:01:07,000
+Wenn du im Gefängnis bist, kannst du schlichtweg nicht draußen Raubüberfälle begehen.
+
+18
+00:01:07,000 --> 00:01:11,000
+Und genau hier wird der Gnadenerlass von 2006 so interessant.
+
+19
+00:01:11,000 --> 00:01:15,000
+Weil er uns auf dem Silbertablett eine fantastische Gelegenheit geboten hat,
+
+20
+00:01:15,000 --> 00:01:20,000
+um diese beiden Theorien auf die Probe zu stellen und zu sehen, welche in der Realität schwerer wiegt.
+
+21
+00:01:20,000 --> 00:01:25,000
+Denn um einen Fall zu lösen, braucht man Beweise, und unglaublicherweise wurde das Italien von 2006
+
+22
+00:01:25,000 --> 00:01:30,000
+zu einer Art perfektem Tatort für Wissenschaftler.
+
+23
+00:01:30,000 --> 00:01:35,000
+Was geschah, schuf die Bedingungen für ein sogenanntes natürliches Experiment,
+
+24
+00:01:35,000 --> 00:01:38,000
+praktisch ein Freiluftlabor zur Untersuchung der Kriminalität.
+
+25
+00:01:38,000 --> 00:01:42,000
+Um zu verstehen, warum es so weit kam, müssen wir einen Schritt zurückgehen
+
+26
+00:01:42,000 --> 00:01:46,000
+und uns die Situation der italienischen Gefängnisse in jenen Jahren ansehen.
+
+27
+00:01:46,000 --> 00:01:48,000
+Wir sprechen von einer wirklich explosiven Situation.
+
+28
+00:01:48,000 --> 00:01:53,000
+Das System stand buchstäblich vor dem Kollaps, mit einer Überbelegung, die seit Jahren anhielt
+
+29
+00:01:53,000 --> 00:01:57,000
+und die Lebensbedingungen im Inneren schlichtweg unerträglich gemacht hatte.
+
+30
+00:01:57,000 --> 00:02:03,000
+Und um eine konkrete Vorstellung zu geben, reicht eine Zahl: 138 % im Juni 2006,
+
+31
+00:02:03,000 --> 00:02:06,000
+das war die Belegungsrate der Gefängnisse.
+
+32
+00:02:06,000 --> 00:02:10,000
+Stellen Sie sich 100 verfügbare Plätze und 138 Personen vor, die sie belegen.
+
+33
+00:02:10,000 --> 00:02:13,000
+Es war eine Zeitbombe, das war klar.
+
+34
+00:02:13,000 --> 00:02:17,000
+Und an diesem Punkt begriff die Regierung, dass sie etwas unternehmen musste, und zwar etwas Drastisches.
+
+35
+00:02:18,000 --> 00:02:20,000
+Und tatsächlich, hier ist die Chronologie der Ereignisse.
+
+36
+00:02:20,000 --> 00:02:23,000
+Der Druck steigt und steigt über Jahre hinweg.
+
+37
+00:02:23,000 --> 00:02:27,000
+Und im Juli 2006 kommt die Entscheidung: der Gnadenerlass.
+
+38
+00:02:27,000 --> 00:02:30,000
+Einen Monat später, im August, passiert das Undenkbare.
+
+39
+00:02:30,000 --> 00:02:35,000
+Tausende und Abertausende von Häftlingen verlassen praktisch zeitgleich das Gefängnis.
+
+40
+00:02:35,000 --> 00:02:38,000
+Es war ein gewaltiger, plötzlicher Schock für das gesamte System.
+
+41
+00:02:38,000 --> 00:02:41,000
+Und aus wissenschaftlicher Sicht eine messbare Angelegenheit.
+
+42
+00:02:41,000 --> 00:02:46,000
+Aber sprechen wir über das Ausmaß dieses Schocks, denn es ist verblüffend.
+
+43
+00:02:46,000 --> 00:02:51,000
+In nur einem Monat sank die Gefängnispopulation um 36 %.
+
+44
+00:02:51,000 --> 00:02:52,000
+Denken wir kurz darüber nach.
+
+45
+00:02:52,000 --> 00:02:56,000
+Es ist, als ob sich mehr als ein Drittel der Gefängnisse auf einen Schlag geleert hätte.
+
+46
+00:02:56,000 --> 00:03:02,000
+Etwas nie zuvor Gesehenes, das natürlich einen unglaublichen Datensatz für unsere Untersuchung geschaffen hat.
+
+47
+00:03:02,000 --> 00:03:05,000
+Okay, wir haben also den Tatort.
+
+48
+00:03:05,000 --> 00:03:07,000
+Wir haben die Bewegung, sagen wir mal so.
+
+49
+00:03:07,000 --> 00:03:10,000
+Jetzt ist es, wie bei jeder ordentlichen Untersuchung,
+
+50
+00:03:10,000 --> 00:03:12,000
+an der Zeit, die Beweise zu analysieren.
+
+51
+00:03:12,000 --> 00:03:16,000
+Die Forscher, die diesen Fall untersucht haben, sind drei Spuren gefolgt,
+
+52
+00:03:16,000 --> 00:03:20,000
+drei grundlegenden Hinweisen, um zu verstehen, was wirklich passiert ist.
+
+53
+00:03:20,000 --> 00:03:24,000
+Genau, das sind die drei Fragen, die sie zu beantworten versuchten.
+
+54
+00:03:24,000 --> 00:03:29,000
+Erstens: Was geschah unmittelbar nach der Freilassung mit der Kriminalität?
+
+55
+00:03:29,000 --> 00:03:32,000
+Zweitens: Was geschah danach?
+
+56
+00:03:32,000 --> 00:03:35,000
+Als sich die Gefängnisse allmählich wieder zu füllen begannen.
+
+57
+00:03:35,000 --> 00:03:41,000
+Und drittens, ganz wichtig: War die Auswirkung überall in Italien gleich
+
+58
+00:03:41,000 --> 00:03:44,000
+oder unterschied sie sich von Provinz zu Provinz?
+
+59
+00:03:44,000 --> 00:03:48,000
+Beginnen wir also mit dem ersten Hinweis, der unmittelbaren Auswirkung.
+
+60
+00:03:48,000 --> 00:03:50,000
+Hier ist der Beweis fast erdrückend.
+
+61
+00:03:50,000 --> 00:03:53,000
+Wenn man sich die Kriminalitätsdaten auf nationaler Ebene ansieht,
+
+62
+00:03:53,000 --> 00:03:55,000
+sieht man einen deutlichen Bruch, eine Stufe.
+
+63
+00:03:55,000 --> 00:03:59,000
+Genau zeitgleich mit der Massenfreilassung im August 2006
+
+64
+00:03:59,000 --> 00:04:01,000
+machen die Straftaten einen Sprung nach oben.
+
+65
+00:04:01,000 --> 00:04:03,000
+Es ist eine fast perfekte Korrelation.
+
+66
+00:04:03,000 --> 00:04:06,000
+Und diese Grafik zeigt das deutlich.
+
+67
+00:04:06,000 --> 00:04:09,000
+Sehen Sie sich den Unterschied zwischen der Zeit vor dem Erlass, im Juli,
+
+68
+00:04:09,000 --> 00:04:11,000
+und direkt danach, im September, an.
+
+69
+00:04:11,000 --> 00:04:12,000
+Es gibt einen rasanten Anstieg.
+
+70
+00:04:12,000 --> 00:04:16,000
+Wir sprechen vor allem von Delikten wie Diebstahl und Raub.
+
+71
+00:04:16,000 --> 00:04:18,000
+Der Anstieg ist so schnell und so deutlich,
+
+72
+00:04:18,000 --> 00:04:23,000
+dass es praktisch unmöglich ist, ihn nicht direkt mit dem Gnadenerlass in Verbindung zu bringen.
+
+73
+00:04:23,000 --> 00:04:26,000
+Gut, machen wir weiter mit dem zweiten Hinweis.
+
+74
+00:04:26,000 --> 00:04:29,000
+Nach dieser großen Leerung begannen die Gefängnisse natürlich,
+
+75
+00:04:29,000 --> 00:04:31,000
+sich wieder zu füllen,
+
+76
+00:04:31,000 --> 00:04:33,000
+aber hier gibt es ein entscheidendes Detail.
+
+77
+00:04:33,000 --> 00:04:37,000
+Es waren weniger die ehemaligen Häftlinge, die zurückkehrten,
+
+78
+00:04:37,000 --> 00:04:39,000
+sondern vielmehr neue Kriminelle,
+
+79
+00:04:39,000 --> 00:04:41,000
+Menschen, die zum ersten Mal verhaftet wurden.
+
+80
+00:04:41,000 --> 00:04:43,000
+Und das ist sehr interessant.
+
+81
+00:04:43,000 --> 00:04:46,000
+Ja, denn hier kommt ein Wert zum Vorschein, der einen etwas überrascht.
+
+82
+00:04:46,000 --> 00:04:48,000
+Bei der Analyse genau dieser Neuzugänge
+
+83
+00:04:48,000 --> 00:04:50,000
+haben die Forscher eine Berechnung angestellt
+
+84
+00:04:50,000 --> 00:04:53,000
+und herausgefunden, dass deren Effekt der Unschädlichmachung
+
+85
+00:04:53,000 --> 00:04:55,000
+sogar noch größer war.
+
+86
+00:04:55,000 --> 00:04:58,000
+Praktisch jeder neue Häftling, der den Platz eines alten einnahm,
+
+87
+00:04:58,000 --> 00:04:59,000
+sagen wir es mal so,
+
+88
+00:04:59,000 --> 00:05:02,000
+verhinderte bis zu 46 Straftaten pro Jahr.
+
+89
+00:05:02,000 --> 00:05:04,000
+Das sagt uns etwas Wichtiges.
+
+90
+00:05:04,000 --> 00:05:07,000
+Im Durchschnitt war diese neue Gruppe kriminell produktiver
+
+91
+00:05:07,000 --> 00:05:09,000
+als diejenigen, die freigelassen worden waren.
+
+92
+00:05:09,000 --> 00:05:12,000
+Und wir kommen zum dritten und letzten Hinweis,
+
+93
+00:05:12,000 --> 00:05:14,000
+der vielleicht am aufschlussreichsten ist.
+
+94
+00:05:14,000 --> 00:05:18,000
+Hier verlagert sich die Untersuchung, sie zoomt von der nationalen auf die lokale Ebene.
+
+95
+00:05:18,000 --> 00:05:22,000
+Die Forscher haben alle 103 italienischen Provinzen untersucht
+
+96
+00:05:22,000 --> 00:05:24,000
+und sich zwei Dinge angesehen.
+
+97
+00:05:24,000 --> 00:05:27,000
+Wie viele begnadigte Häftlinge in die jeweilige Provinz zurückgekehrt sind
+
+98
+00:05:27,000 --> 00:05:30,000
+und wie sich die Kriminalität dort verändert hat.
+
+99
+00:05:30,000 --> 00:05:33,000
+Und hier liegt meiner Meinung nach der eigentliche Schlüssel.
+
+100
+00:05:33,000 --> 00:05:35,000
+Es hat sich ein sehr klares Muster gezeigt.
+
+101
+00:05:35,000 --> 00:05:37,000
+In den Provinzen, die bereits vor dem Erlass
+
+102
+00:05:37,000 --> 00:05:39,000
+hohe Inhaftierungsraten hatten,
+
+103
+00:05:39,000 --> 00:05:42,000
+war der Anstieg der Verbrechen pro freigelassenem Häftling
+
+104
+00:05:42,000 --> 00:05:44,000
+niedriger.
+
+105
+00:05:44,000 --> 00:05:46,000
+Die Analogie zum Fischen passt perfekt.
+
+106
+00:05:46,000 --> 00:05:47,000
+Wenn man in einem See fischt,
+
+107
+00:05:47,000 --> 00:05:49,000
+erwischt man am Anfang die größeren Fische,
+
+108
+00:05:49,000 --> 00:05:50,000
+die einfacheren,
+
+109
+00:05:50,000 --> 00:05:52,000
+aber je länger man fischt,
+
+110
+00:05:52,000 --> 00:05:53,000
+desto schwieriger wird es,
+
+111
+00:05:53,000 --> 00:05:55,000
+und für jede Stunde Aufwand erhält man weniger.
+
+112
+00:05:55,000 --> 00:05:57,000
+In der Wirtschaft nennt man das
+
+113
+00:05:57,000 --> 00:05:59,000
+das Gesetz vom abnehmenden Grenzertrag
+
+114
+00:05:59,000 --> 00:06:01,000
+und anscheinend gilt das auch für die Inhaftierung.
+
+115
+00:06:01,000 --> 00:06:04,000
+An diesem Punkt, mit allen drei Hinweisen auf dem Tisch,
+
+116
+00:06:04,000 --> 00:06:06,000
+können wir unser Urteil fällen
+
+117
+00:06:06,000 --> 00:06:08,000
+und die Schlussfolgerung, zu der uns
+
+118
+00:06:08,000 --> 00:10:00,000
+diese Untersuchung führt, ist gewaltig
+
+119
+00:06:10,000 --> 00:06:13,000
+und in gewisser Weise auch ein wenig kontraintuitiv,
+
+120
+00:06:13,000 --> 00:06:16,000
+hinsichtlich dessen, wie das Gefängnis wirklich funktioniert.
+
+121
+00:06:16,000 --> 00:06:19,000
+Das Urteil der Studie, das wissenschaftliche,
+
+122
+00:06:19,000 --> 00:06:21,000
+wird in diesem Satz perfekt zusammengefasst:
+
+123
+00:06:21,000 --> 00:06:23,000
+Die kriminalpräventiven Effekte
+
+124
+00:06:23,000 --> 00:06:25,000
+der Inhaftierung nehmen ab,
+
+125
+00:06:25,000 --> 00:06:27,000
+wenn die Inhaftierungsrate steigt.
+
+126
+00:06:27,000 --> 00:06:30,000
+Das ist der Kern der gesamten Entdeckung.
+
+127
+00:06:30,000 --> 00:06:31,000
+Genau!
+
+128
+00:06:31,000 --> 00:06:34,000
+Um es einfach auszudrücken, bedeutet das Folgendes:
+
+129
+00:06:34,000 --> 00:06:36,000
+Menschen ins Gefängnis zu stecken,
+
+130
+00:06:36,000 --> 00:06:38,000
+um sie an der Begehung von Straftaten zu hindern,
+
+131
+00:06:38,000 --> 00:06:41,000
+die Unschädlichmachung funktioniert zweifellos,
+
+132
+00:06:41,000 --> 00:06:43,000
+aber es gibt ein Aber.
+
+133
+00:06:43,000 --> 00:06:45,000
+Ihre Wirkung ist nicht immer gleich.
+
+134
+00:06:45,000 --> 00:06:47,000
+Im Gegenteil: Je mehr Leute man einsperrt,
+
+135
+00:06:47,000 --> 00:06:49,000
+desto weniger wirksam wird
+
+136
+00:06:49,000 --> 00:06:50,000
+jede neue Verhaftung.
+
+137
+00:06:50,000 --> 00:06:51,000
+Das ist logisch.
+
+138
+00:06:51,000 --> 00:06:53,000
+Die Ersten, die man aus dem Verkehr zieht,
+
+139
+00:06:53,000 --> 00:06:55,000
+sind die aktivsten Kriminellen,
+
+140
+00:06:55,000 --> 00:06:56,000
+aber je weiter man geht,
+
+141
+00:06:56,000 --> 00:06:57,000
+sperrt man schließlich
+
+142
+00:06:57,000 --> 00:06:59,000
+immer weniger gefährliche Menschen ein.
+
+143
+00:06:59,000 --> 00:07:01,000
+Aber Achtung,
+
+144
+00:07:01,000 --> 00:07:03,000
+die Untersuchung ist noch nicht ganz abgeschlossen.
+
+145
+00:07:03,000 --> 00:07:04,000
+Es gibt noch einen letzten Teil,
+
+146
+00:07:04,000 --> 00:07:06,000
+eine Art Wendung.
+
+147
+00:07:06,000 --> 00:07:08,000
+Zusätzlich zu all dem
+
+148
+00:07:08,000 --> 00:07:09,000
+müssen wir uns fragen:
+
+149
+00:07:09,000 --> 00:07:12,000
+War der Gnadenerlass aus rein wirtschaftlicher Sicht
+
+150
+00:07:12,000 --> 00:07:15,000
+ein kluger Schachzug?
+
+151
+00:07:15,000 --> 00:07:16,000
+Genau so ist es,
+
+152
+00:07:16,000 --> 00:07:18,000
+es ist Zeit für die Kosten-Nutzen-Analyse.
+
+153
+00:07:18,000 --> 00:07:19,000
+Auf der einen Seite
+
+154
+00:07:19,000 --> 00:07:21,000
+haben wir das vom Staat gesparte Geld,
+
+155
+00:07:21,000 --> 00:07:22,000
+auf der anderen Seite
+
+156
+00:07:22,000 --> 00:07:24,000
+die Kosten, die die Gesellschaft tragen musste.
+
+157
+00:07:24,000 --> 00:07:27,000
+Welche der beiden Waagschalen wiegt schwerer?
+
+158
+00:07:27,000 --> 00:07:29,000
+Nun, fangen wir mit dem Nutzen an.
+
+159
+00:07:29,000 --> 00:07:31,000
+Die Rechnung ist ziemlich direkt.
+
+160
+00:07:31,000 --> 00:07:32,000
+Dadurch, dass Unterhalt,
+
+161
+00:07:32,000 --> 00:07:34,000
+Verpflegung, Unterkunft und Überwachung
+
+162
+00:07:34,000 --> 00:07:36,000
+für über 25.000 Personen wegfielen,
+
+163
+00:07:36,000 --> 00:07:38,000
+hat der italienische Staat
+
+164
+00:07:38,000 --> 00:07:39,000
+eine beträchtliche Summe gespart.
+
+165
+00:07:39,000 --> 00:07:42,000
+Wir sprechen von etwa 245 Millionen Euro.
+
+166
+00:07:42,000 --> 00:07:44,000
+Und nun die Kosten.
+
+167
+00:07:44,000 --> 00:07:46,000
+Und hier ist die Zahl,
+
+168
+00:07:46,000 --> 00:07:48,000
+nun ja, in einer ganz anderen Größenordnung.
+
+169
+00:07:48,000 --> 00:07:50,000
+Die sozialen Kosten,
+
+170
+00:07:50,000 --> 00:07:52,000
+also der Wert aller zusätzlichen Straftaten,
+
+171
+00:07:52,000 --> 00:07:54,000
+die von den Freigelassenen begangen wurden,
+
+172
+00:07:54,000 --> 00:07:55,000
+wurden auf bis zu
+
+173
+00:07:55,000 --> 00:07:58,000
+2,2 Milliarden Euro geschätzt.
+
+174
+00:07:58,000 --> 00:08:00,000
+Das ist eine enorme Summe,
+
+175
+00:08:00,000 --> 00:08:02,000
+die die Ersparnisse des Staates verblassen lässt.
+
+176
+00:08:02,000 --> 00:08:04,000
+Letztendlich lässt uns
+
+177
+00:08:04,000 --> 00:08:06,000
+die Untersuchung zum Gnadenerlass von 2006
+
+178
+00:08:06,000 --> 00:08:09,000
+also mit einer sehr wichtigen Frage zurück.
+
+179
+00:08:09,000 --> 00:08:11,000
+Sie hat uns gezeigt, dass ja,
+
+180
+00:08:11,000 --> 00:08:13,000
+die Unschädlichmachung funktioniert,
+
+181
+00:08:13,000 --> 00:08:15,000
+aber nicht unendlich,
+
+182
+00:08:15,000 --> 00:08:16,000
+und dass politische Entscheidungen
+
+183
+00:08:16,000 --> 00:08:18,000
+in diesem Bereich enorme wirtschaftliche
+
+184
+00:08:18,000 --> 00:08:20,000
+und soziale Folgen haben.
+
+185
+00:08:20,000 --> 00:08:22,000
+Die eigentliche Frage ist also,
+
+186
+00:08:22,000 --> 00:08:24,000
+wo der richtige Gleichgewichtspunkt
+
+187
+00:08:24,000 --> 00:08:26,000
+zwischen Kosten und Sicherheit liegt.
+
+188
+00:08:26,000 --> 00:08:27,000
+Es gibt keine einfache Antwort,
+
+189
+00:08:27,000 --> 00:08:29,000
+und es ist wahrscheinlich eine der
+
+190
+00:08:29,000 --> 00:08:32,000
+komplexesten Herausforderungen für jedes Land.

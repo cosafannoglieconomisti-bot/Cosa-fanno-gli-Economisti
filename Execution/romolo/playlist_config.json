@@ -1,0 +1,88 @@
+{
+    "playlists": {
+        "Economia del Crimine e Mafie": {
+            "description": "Un'analisi economica dei costi del crimine, dalla corruzione alle dinamiche mafiose.",
+            "videos": [
+                "Carceri_piene_o_strade_sicure",
+                "La_corruzione_ci_rende_tutti_più_ladri_aejapp_2023",
+                "Lo_Stato_ed_il_Crimine_Organizzato_jpe_2020",
+                "Mafia_Inc_restat_2021",
+                "Mafia_e_Sviluppo_Pinotti_2015",
+                "Mafia_in_azienda_quanto_costa",
+                "Mogano_Insanguinato_aejapp_2017",
+                "Perche_scacciare_la_Mafia_paga",
+                "Quando_le_città_diventano_pericolose_restat_2025",
+                "Regolarizzare_gli_immigrati_riduce_il_crimine",
+                "Stato_Assente_Mafia_Presente",
+                "Dai_narcos_al_petrolio_perche"
+            ]
+        },
+        "Economia Politica e Istituzioni": {
+            "description": "Come le regole del gioco e la politica influenzano la ricchezza delle nazioni.",
+            "videos": [
+                "Clientelismo_Politico_aer_2020",
+                "Istituzioni_e_Sviluppo_qje_2014",
+                "Razzismo_e_politica_legame_reale",
+                "L_ascesa_del_Male",
+                "Socialismo_la_causa_del_Fascismo",
+                "Il_comunismo_ti_cambia_la_mente",
+                "Memoria_di_sangue_il_legame_shock_tra_eccidi_nazisti_e_mercato_dell_auto_moderno",
+                "Perche_l_Africa_non_si_fida"
+            ]
+        },
+        "Storia Economica e Sviluppo": {
+            "description": "Lezioni dal passato per capire il presente: lo sviluppo economico attraverso i secoli.",
+            "videos": [
+                "Dalle_Guerre_ai_Capolavori",
+                "I_ricchi_di_oggi_sono_gli_stessi_del_1400_restud_2021",
+                "Il_petrolio_causa_le_guerre",
+                "L_eco_di_un_terremoto_aer_2007",
+                "La_Peste_Nera_il_segreto_nascosto_che_ha_cambiato_lEuropa_per_sempre",
+                "Le_città_perdute_dell_età_del_bronzo_qje_2019"
+            ]
+        },
+        "Economia della Cultura, Società e Religione": {
+            "description": "L'impatto di norme sociali, tradizioni e fede sui comportamenti economici.",
+            "videos": [
+                "Dio_blocca_la_democrazia",
+                "La_Chiesa_frena_l_integrazione",
+                "Quando_la_Chiesa_fermo_l_Italia",
+                "Amiamo_le_tasse_Questione_culturale",
+                "Folklore_guida_per_l_economia",
+                "Laratro_ha_creato_il_patriarcato",
+                "La_Cicala_e_la_Formica_qje_2024_video"
+            ]
+        },
+        "Economia del Lavoro, Discriminazione e Disuguaglianze": {
+            "description": "Mercato del lavoro, disparità di genere e barriere sociali: cosa dicono i dati.",
+            "videos": [
+                "I_prof_sono_razzisti",
+                "Discriminazione_per_nomi_aer_2004",
+                "Il_Talento_Non_Ha_Genere",
+                "I_robot_ci_rubano_davvero_il_lavoro_AER_2020",
+                "I_robot_ci_rubano_davvero_il_lavoro_jpe_2020",
+                "I_costi_dell_aborto_negato"
+            ]
+        },
+        "Economia Pubblica, Welfare e Demografia": {
+            "description": "Stato sociale, sfide demografiche e il futuro del benessere collettivo.",
+            "videos": [
+                "Figli_o_Pensione_La_Scelta",
+                "Tagliare_gli_aiuti_ai_diciottenni_AER_2016"
+            ]
+        },
+        "Economia dei Media e dello Sport": {
+            "description": "Dal potere dell'informazione all'industria del calcio: l'economia dietro lo schermo e il campo.",
+            "videos": [
+                "Il_lato_oscuro_della_TV_aer_2019",
+                "Perche_i_giornali_stanno_morendo",
+                "Il_Pallone_Unisce_le_Nazioni",
+                "Razzismo_in_campo_colpa_dei_tifosi"
+            ]
+        },
+        "I Migliori Video di Cosa Fanno Gli Economisti": {
+            "description": "La nostra selezione d'eccellenza: i video più visti e apprezzati per iniziare a capire il mondo.",
+            "videos": []
+        }
+    }
+}

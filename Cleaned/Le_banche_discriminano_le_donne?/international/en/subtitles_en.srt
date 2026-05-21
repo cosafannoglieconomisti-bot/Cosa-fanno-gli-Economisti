@@ -1,0 +1,455 @@
+1
+00:00:00,000 --> 00:00:05,040
+Let's start this new investigation right away; today we are diving into a real economic mystery.
+
+2
+00:00:05,040 --> 00:00:06,040
+mystery.
+
+3
+00:00:06,040 --> 00:00:10,080
+Usually when we think about finance and interest rates, we imagine a world
+
+4
+00:00:10,080 --> 00:00:13,759
+made of cold, objective, and absolutely impartial numbers.
+
+5
+00:00:13,759 --> 00:00:18,359
+The common idea is that the credit market doesn't look at anyone's face, but limits itself
+
+6
+00:00:18,359 --> 00:00:20,160
+to evaluating financial statements and guarantees.
+
+7
+00:00:20,160 --> 00:00:25,560
+Yet, a truly fascinating study by Alesina, Lotti, and Mistrulli, based on real
+
+8
+00:00:25,560 --> 00:00:29,719
+Italian data, raises a crucial question, which is exactly the title of
+
+9
+00:00:29,719 --> 00:00:34,460
+our analysis: Do banks discriminate against women? Let's dive straight into the data to
+
+10
+00:00:34,460 --> 00:00:37,280
+try to understand what is really happening.
+
+11
+00:00:37,280 --> 00:00:42,200
+To understand the gravity of the situation, we must start from the body of the crime, so to speak.
+
+12
+00:00:42,200 --> 00:00:46,480
+The data shows us unequivocally that female entrepreneurs, with equal initial
+
+13
+00:00:46,480 --> 00:00:50,560
+conditions, pay a significantly higher premium to access credit.
+
+14
+00:00:50,560 --> 00:00:54,359
+We are talking about a full 28 basis points more than their male colleagues.
+
+15
+00:00:54,359 --> 00:00:59,679
+28 might seem like little, but in reality, on a normal line of credit for a micro-enterprise, this
+
+16
+00:00:59,679 --> 00:01:03,600
+gap translates instantly into hundreds of euros of additional costs every single
+
+17
+00:01:03,600 --> 00:01:08,120
+year. It is literally an invisible tax that weighs solely and exclusively on female-led
+
+18
+00:01:08,120 --> 00:01:09,120
+businesses.
+
+19
+00:01:09,120 --> 00:01:11,280
+But where does this difference come from?
+
+20
+00:01:11,280 --> 00:01:14,560
+Is it just a cold question of risk, or is there something else going on?
+
+21
+00:01:14,560 --> 00:01:21,400
+Okay, let's get into the heart of it and examine the first suspect in this investigation: financial
+
+22
+00:01:21,400 --> 00:01:29,240
+risk. That is, answering the question: are women by any chance less reliable debtors?
+
+23
+00:01:29,239 --> 00:01:33,299
+The most logical explanation, the one that would come to mind for any analyst, is that
+
+24
+00:01:33,299 --> 00:01:37,560
+women pay higher rates simply because their businesses are considered
+
+25
+00:01:37,560 --> 00:01:39,640
+intrinsically riskier.
+
+26
+00:01:39,640 --> 00:01:45,359
+Well, prepare to discard this hypothesis, because the data refutes it all along the line.
+
+27
+00:01:45,359 --> 00:01:50,000
+Looking at the metrics, the insolvency rate—that is, the frequency with which they fail to
+
+28
+00:01:50,000 --> 00:01:56,560
+repay debts or go bankrupt—is 0.5% for men and 0.4% for
+
+29
+00:01:56,560 --> 00:01:57,560
+women.
+
+30
+00:01:57,560 --> 00:02:02,280
+Surprise: women go bankrupt less. And that's not all; also the use of credit lines
+
+31
+00:02:02,280 --> 00:02:10,599
+shows a practically identical management, 73.9% versus 75.2%. In short, the hypothesis of financial
+
+32
+00:02:10,599 --> 00:02:12,719
+risk collapses miserably.
+
+33
+00:02:12,719 --> 00:02:16,520
+Women are not at all more dangerous customers for banks.
+
+34
+00:02:16,520 --> 00:02:22,039
+Let's move on then to the second suspect: what if it simply depends on the choice of the
+
+35
+00:02:22,039 --> 00:02:26,439
+bank? Maybe it's just a question of where one goes to ask for this loan.
+
+36
+00:02:26,960 --> 00:02:31,319
+It is a more than legitimate question; one might think that female entrepreneurs end up
+
+37
+00:02:31,319 --> 00:02:36,800
+turning to credit institutions that are on average more expensive for everyone. But pay attention,
+
+38
+00:02:36,800 --> 00:02:38,840
+because here the plot thickens.
+
+39
+00:02:38,840 --> 00:02:44,039
+The researchers applied very strict statistical filters to isolate the different banks,
+
+40
+00:02:44,039 --> 00:02:48,680
+and the result is jaw-dropping: the cost gap remains identical even within
+
+41
+00:02:48,680 --> 00:02:50,599
+the exact same bank.
+
+42
+00:02:50,599 --> 00:02:55,000
+Same institution, same branch, but different rates for men and women with completely
+
+43
+00:02:55,000 --> 00:02:59,479
+equal risk profiles. So no, it's not a question of having chosen the wrong bank;
+
+44
+00:02:59,479 --> 00:03:02,680
+it is a systematic behavior within the single branch.
+
+45
+00:03:02,680 --> 00:03:08,319
+And this brings us to a real twist, what we can call the paradox of the
+
+46
+00:03:08,319 --> 00:03:12,840
+guarantors, an absolutely crucial clue in our investigation.
+
+47
+00:03:12,840 --> 00:03:18,199
+As we well know, when a bank turns up its nose at a loan, it asks for a guarantor,
+
+48
+00:03:18,199 --> 00:03:23,520
+someone who puts their own assets as collateral. Now, analyzing the gender of these
+
+49
+00:03:23,520 --> 00:03:26,320
+guarantors, something incredible emerges.
+
+50
+00:03:26,320 --> 00:03:31,840
+If a woman presents herself with a male guarantor, the bank breathes a sigh of relief, and the interest
+
+51
+00:03:31,840 --> 00:03:33,160
+rate goes down.
+
+52
+00:03:33,160 --> 00:03:39,439
+But pay attention, if the same woman presents herself with a female guarantor, pay attention, the interest
+
+53
+00:03:39,439 --> 00:03:41,600
+rate rises dizzyingly.
+
+54
+00:03:41,600 --> 00:03:47,000
+A woman guaranteed by another woman automatically becomes the most penalized customer
+
+55
+00:03:47,000 --> 00:03:52,640
+in the entire market, arriving to pay almost 30 basis points more than
+
+56
+00:03:52,640 --> 00:03:56,040
+a man without any guarantor. Crazy, right?
+
+57
+00:03:56,040 --> 00:04:00,080
+Arrived at this point, the classic rules of economics seem to leak from all
+
+58
+00:04:00,080 --> 00:04:01,080
+sides.
+
+59
+00:04:01,080 --> 00:04:05,800
+Let's recap: we have established that women are super reliable debtors, even
+
+60
+00:04:05,800 --> 00:04:06,800
+more so than men.
+
+61
+00:04:06,800 --> 00:04:11,600
+We have seen that the disparity occurs within the same bank, and we have
+
+62
+00:04:11,600 --> 00:04:17,120
+discovered that two women who ally financially suffer the worst penalty of all.
+
+63
+00:04:17,120 --> 00:04:21,400
+If market rationality and traditional economic models cannot explain
+
+64
+00:04:21,399 --> 00:04:24,359
+this mystery, what is the real cause of all this?
+
+65
+00:04:24,359 --> 00:04:30,279
+And here we unmask the first real culprit: cultural prejudice, which feeds
+
+66
+00:04:30,279 --> 00:04:33,519
+on traditional conventions about the world of work.
+
+67
+00:04:33,519 --> 00:04:37,560
+In economics, this phenomenon is called taste-based discrimination.
+
+68
+00:04:37,560 --> 00:04:42,000
+In practice, rationality is thrown out the window to be guided by gender
+
+69
+00:04:42,000 --> 00:04:47,000
+prejudice. And to understand how deeply rooted this thing is, just analyze the data from the World
+
+70
+00:04:48,000 --> 00:04:49,000
+Value Survey for Italy.
+
+71
+00:04:49,000 --> 00:04:52,720
+The survey asks if one agrees with the phrase: when jobs are scarce, men
+
+72
+00:04:52,720 --> 00:04:55,360
+have more right to a job than women.
+
+73
+00:05:00,160 --> 00:05:03,720
+Observing the data, while Sweden has very low levels and the United States is mid-table,
+
+74
+00:05:03,720 --> 00:05:07,959
+Italy records the highest level in absolute among advanced countries.
+
+75
+00:05:07,959 --> 00:05:11,480
+This is a deep belief that permeates the entire society, and which inevitably
+
+76
+00:05:11,480 --> 00:05:16,199
+sits at the table with whoever has to decide whether to grant a loan.
+
+77
+00:05:16,199 --> 00:05:20,479
+The authors of the study go straight to the point and formulate a very clear hypothesis: bank
+
+78
+00:05:16,199 --> 00:05:20,479
+directors might simply consider women as less desirable clients,
+
+79
+00:05:20,479 --> 00:05:24,360
+regardless of their perfect financial statements, for the sole fact of being women.
+
+80
+00:05:24,360 --> 00:05:27,639
+The definitive proof comes by looking at the various economic sectors.
+
+81
+00:05:27,639 --> 00:05:31,680
+In fields historically dominated by men like construction or heavy industry,
+
+82
+00:05:31,680 --> 00:05:35,560
+this penalty for women reaches record levels, as if the system cast
+
+83
+00:05:35,560 --> 00:05:38,279
+doubt on female competence in those contexts.
+
+84
+00:05:38,279 --> 00:05:42,519
+On the contrary, in sectors perceived as more feminine, such as retail trade,
+
+85
+00:05:42,519 --> 00:05:46,159
+this difference in interest rates narrows until it almost disappears.
+
+86
+00:05:46,159 --> 00:05:51,680
+We are still missing the last piece of the puzzle, the second culprit: bargaining power
+
+87
+00:05:51,680 --> 00:05:54,359
+and negotiation dynamics under stress.
+
+88
+00:05:54,359 --> 00:05:58,719
+Because, if we think about it, getting a loan is not like buying an object with a
+
+89
+00:05:58,719 --> 00:05:59,719
+fixed price.
+
+90
+00:05:59,719 --> 00:06:05,120
+It is a process; one must bargain and negotiate, and behavioral economics teaches that
+
+91
+00:06:05,120 --> 00:06:09,799
+in high-stress situations, whoever has more bargaining power gets the better end.
+
+92
+00:06:09,800 --> 00:06:13,879
+Analyzing the data on Italian bank managers in the period studied, the situation is
+
+93
+00:06:13,879 --> 00:06:19,280
+to say the least illuminating: less than 10% of decision-making positions are occupied by women.
+
+94
+00:06:19,280 --> 00:06:24,360
+Over 90% of the officers, those who materially decided, were men.
+
+95
+00:06:24,360 --> 00:06:26,920
+This creates a resounding power imbalance.
+
+96
+00:06:26,920 --> 00:06:30,720
+A female entrepreneur systematically finds herself having to defend her project in an
+
+97
+00:06:30,720 --> 00:06:35,920
+environment dominated by male figures, a dynamic that makes the negotiation much tougher,
+
+98
+00:06:35,920 --> 00:06:39,000
+and actively contributes to maintaining higher rates.
+
+99
+00:06:39,000 --> 00:06:43,240
+Drawing the threads of this spectacular investigation, the picture we face is as
+
+100
+00:06:43,240 --> 00:06:47,120
+fascinating from an academic perspective as it is harsh for the real economy.
+
+101
+00:06:47,120 --> 00:06:52,120
+Let's recap the facts: one, women pay more; two, paradoxically they are not at all
+
+102
+00:06:52,120 --> 00:06:57,040
+riskier clients; three, even financial solidarity among women, with a female guarantor,
+
+103
+00:06:57,040 --> 00:07:00,680
+is penalized by the system. And why does all this happen?
+
+104
+00:07:00,680 --> 00:07:04,660
+The answer is not in finance textbooks, but in an invisible mix made of deep-rooted
+
+105
+00:07:04,660 --> 00:07:08,860
+cultural prejudices and a chronic lack of diversity in the decision-making rooms
+
+106
+00:07:08,860 --> 00:07:12,820
+of banks, a lethal mix that inflates costs dramatically.
+
+107
+00:07:12,820 --> 00:07:18,220
+And this awareness leaves us with a final great provocation: if the credit market
+
+108
+00:07:18,220 --> 00:07:23,060
+is not that perfect, super-rational machine studied at university,
+
+109
+00:07:23,060 --> 00:07:28,260
+but ends up absorbing all the prejudices of the society in which it lives, the challenge is clear:
+
+110
+00:07:28,260 --> 00:07:32,940
+it is not enough to show up with perfect accounts to obtain equal treatment;
+
+111
+00:07:32,939 --> 00:07:37,980
+we must dismantle those invisible barriers made of cultural legacies and power imbalances.
+
+112
+00:07:37,980 --> 00:07:42,219
+The real question, the one with which today's reflection closes, is this:
+
+113
+00:07:42,219 --> 00:07:47,100
+What actions must be taken now, so that in the future the solidity of a business idea
+
+114
+00:07:47,100 --> 00:07:52,220
+is finally priced only for its absolute merit, and not for the gender of the person proposing it?

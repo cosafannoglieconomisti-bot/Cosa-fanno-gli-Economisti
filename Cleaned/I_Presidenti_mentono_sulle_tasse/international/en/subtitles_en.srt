@@ -1,0 +1,487 @@
+1
+00:00:00,000 --> 00:00:03,000
+Welcome to this new in-depth analysis.
+
+2
+00:00:03,000 --> 00:00:08,080
+Okay, let's get straight to the point and tackle one of the most fascinating mysteries of politics
+
+3
+00:00:08,080 --> 00:00:09,580
+and modern economics.
+
+4
+00:00:09,580 --> 00:00:14,599
+Do United States presidents lie about taxes? In short, does their rhetoric and the big
+
+5
+00:00:14,599 --> 00:00:19,140
+promises we hear in speeches actually align with the reality of tax
+
+6
+00:00:19,140 --> 00:00:22,679
+reforms? It is an absolutely crucial question.
+
+7
+00:00:22,679 --> 00:00:26,320
+We often tend to dismiss political speeches, don't we?
+
+8
+00:00:26,320 --> 00:00:31,240
+We consider them simple background noise, but a very rigorous economic study, recently
+
+9
+00:00:31,240 --> 00:00:36,480
+published in the American Economic Journal, shows us that there is much, much more beneath
+
+10
+00:00:36,480 --> 00:00:37,480
+the surface.
+
+11
+00:00:37,480 --> 00:00:41,480
+And as we will see, the answer to this question will lead us to discover some
+
+12
+00:00:41,480 --> 00:00:43,679
+literally unexpected dynamics.
+
+13
+00:00:43,679 --> 00:00:47,359
+Let's move to the first section: the mystery of promises.
+
+14
+00:00:47,359 --> 00:00:50,200
+Do presidents' words become reality?
+
+15
+00:00:50,200 --> 00:00:55,079
+Historically, measuring whether a politician is telling the truth and what the real economic impact
+
+16
+00:00:55,079 --> 00:00:58,719
+of their words is, well, has always been quite a puzzle.
+
+17
+00:00:58,719 --> 00:01:03,039
+Leaders often make vague promises months or even years before writing an actual
+
+18
+00:01:03,039 --> 00:01:08,640
+law, while markets and citizens listen and react in the meantime.
+
+19
+00:01:08,640 --> 00:01:09,959
+Let's take a concrete example.
+
+20
+00:01:09,959 --> 00:01:15,840
+January 1981, President Ronald Reagan declared: "It's time to awaken this industrial
+
+21
+00:01:15,840 --> 00:01:19,799
+giant and to lighten our punitive tax burden."
+
+22
+00:01:19,799 --> 00:01:24,560
+Boom—months before the actual reform, with these exact words, he sent an
+
+23
+00:01:24,560 --> 00:01:25,560
+unmistakable signal.
+
+24
+00:01:25,560 --> 00:01:29,359
+There isn't even half a line of law written in Parliament yet, and yet the message arrives
+
+25
+00:01:29,359 --> 00:01:30,359
+loud and clear.
+
+26
+00:01:30,359 --> 00:01:35,879
+The question then is, can we measure these signals systematically to see if they truly
+
+27
+00:01:35,879 --> 00:01:36,879
+turn into reality?
+
+28
+00:01:36,879 --> 00:01:39,719
+And this brings us to section 2.
+
+29
+00:01:39,719 --> 00:01:44,400
+60 years of presidential speeches: a massive data archive.
+
+30
+00:01:44,400 --> 00:01:50,680
+To solve this true enigma, researchers didn't rely on opinions
+
+31
+00:01:50,680 --> 00:01:52,560
+or a few isolated anecdotes.
+
+32
+00:01:52,560 --> 00:01:54,400
+They did things in a big way.
+
+33
+00:01:54,400 --> 00:1:59,719
+They took the entire—literally the entire—archive of public presidential
+
+34
+00:01:59,719 --> 00:02:03,159
+speeches from the post-war era to today.
+
+35
+00:02:03,159 --> 00:02:09,879
+The numbers are crazy; we're talking about exactly 1,119,200 paragraphs, extracted
+
+36
+00:02:09,879 --> 00:02:15,360
+from nearly 60,000 presidential texts between 1949 and 2017.
+
+37
+00:02:15,360 --> 00:02:20,360
+It's a mountain of data; no human being, not even the fastest team of scholars in the
+
+38
+00:02:20,360 --> 00:02:25,200
+world, could ever objectively read and analyze all of this to find
+
+39
+00:02:25,200 --> 00:02:29,120
+recurring patterns; a different approach was definitely needed.
+
+40
+00:02:29,120 --> 00:02:35,520
+So we come to section 3: the algorithm reads politics, artificial intelligence
+
+41
+00:02:35,520 --> 00:02:37,320
+analyzes the texts.
+
+42
+00:02:37,320 --> 00:02:42,480
+Since human reading was physically impossible, researchers relied on an
+
+43
+00:02:42,480 --> 00:02:48,880
+advanced algorithm called Latent Dirichlet Allocation—no need to panic over the complicated name—they used it
+
+44
+00:02:48,879 --> 00:02:53,639
+to isolate in a completely neutral way the sentences that specifically discussed tax
+
+45
+00:02:53,639 --> 00:02:54,639
+reforms.
+
+46
+00:02:54,639 --> 00:02:59,680
+To be clear, we're talking about topic modeling; just imagine it as a massive
+
+47
+00:02:59,680 --> 00:03:05,439
+automated sorting system, a super-intelligent machine that reads millions of words, and looking only
+
+48
+00:03:05,439 --> 00:03:10,280
+at the context and the frequency with which these words appear together, starts tossing them into different virtual
+
+49
+00:03:10,280 --> 00:03:11,280
+baskets.
+
+50
+00:03:11,280 --> 00:03:16,719
+If it notices that "war," "troops," "defense" always appear together, it creates the "military" basket.
+
+51
+00:03:16,719 --> 00:03:21,680
+Well, they had the machine do exactly the same thing to discover how presidents
+
+52
+00:03:21,680 --> 00:03:22,680
+talk about taxes.
+
+53
+00:03:22,680 --> 00:03:28,599
+And look at the results: observing the keywords extracted by the algorithm for the topic
+
+54
+00:03:28,599 --> 00:03:33,319
+"tax increase," you can see clearly how the system hit the bullseye.
+
+55
+00:03:33,319 --> 00:03:39,800
+The words written in large print, such as "deficit," "budget," and very obviously "social security,"
+
+56
+00:03:39,800 --> 00:03:43,879
+are exactly the ones that appear most often when the political groundwork is being laid
+
+57
+00:03:43,879 --> 00:03:45,280
+to raise taxes.
+
+58
+00:03:45,800 --> 00:03:50,199
+And here's the best part, because the comparison is truly illuminating.
+
+59
+00:03:50,199 --> 00:03:54,199
+The algorithm learned to distinguish the vocabulary of politicians.
+
+60
+00:03:54,199 --> 00:03:59,840
+When tax increases are in the air, the words revolve around social security, deficit,
+
+61
+00:03:59,840 --> 00:04:05,039
+budget; but watch out, when a president—and it absolutely doesn't matter which political party
+
+62
+00:04:05,039 --> 00:04:10,960
+they belong to—wants to signal a tax cut, well, the words change completely,
+
+63
+00:04:10,960 --> 00:04:16,079
+terms like Small Business, Growth, or Job Creation pop up; it's a
+
+64
+00:04:16,079 --> 00:04:22,120
+systemic division of language, it works for everyone, across all administrations.
+
+65
+00:04:22,120 --> 00:04:27,960
+Let's go to section 4: predicting tax reforms, the verdict of the data.
+
+66
+00:04:27,960 --> 00:04:30,519
+So, what is the final verdict?
+
+67
+00:04:30,519 --> 00:04:33,759
+Very simple: the algorithm works perfectly.
+
+68
+00:04:33,759 --> 00:04:38,680
+The crazy discovery is that the frequency of these specific topics in speeches
+
+69
+00:04:38,680 --> 00:04:41,759
+truly manages to predict future tax laws.
+
+70
+00:04:41,759 --> 00:04:46,759
+The data shows that these speeches have what economists call Granger
+
+71
+00:04:46,759 --> 00:04:49,400
+causality with respect to actual reforms.
+
+72
+00:04:49,400 --> 00:04:52,960
+In simple terms, they are a highly reliable statistical indicator.
+
+73
+00:04:52,960 --> 00:04:58,000
+They anticipate the direction—whether taxes will go up or down—and predict real changes
+
+74
+00:04:58,000 --> 00:05:02,000
+in the state coffers and what is, perhaps even more incredible,
+
+75
+00:05:02,000 --> 00:05:06,720
+they influence investor expectations, driving financial markets and interest rates,
+
+76
+00:05:06,760 --> 00:05:09,760
+long before the laws are actually voted on.
+
+77
+00:05:09,760 --> 00:05:15,720
+This confirms a crucial fact, analyzing all administrations in recent history,
+
+78
+00:05:15,720 --> 00:05:20,840
+from Nixon to Obama, without any distinction between conservatives or progressives.
+
+79
+00:05:20,840 --> 00:05:27,480
+Political rhetoric is a surprisingly accurate indicator of the true tax policy to come.
+
+80
+00:05:27,480 --> 00:05:32,680
+In practice, a president's words are the very first piece of information that begins to shape
+
+81
+00:05:32,680 --> 00:05:36,000
+the economic behavior of the entire nation.
+
+82
+00:05:36,000 --> 00:05:43,000
+And here we enter section 5: the waiting paradox, an economic plot twist.
+
+83
+00:05:43,000 --> 00:05:49,720
+Okay, we've understood that the signals are there and are super precise, but what happens to the economy
+
+84
+00:05:49,720 --> 00:05:53,480
+when these signals arrive, perhaps, well in advance?
+
+85
+00:05:53,480 --> 00:05:57,920
+Here we must absolutely explore an absurd and decidedly
+
+86
+00:05:57,920 --> 00:06:00,560
+paradoxical side effect of transparency in politics.
+
+87
+00:06:00,560 --> 00:06:05,360
+The fundamental question to understand this counter-intuitive reality is: what happens when the
+
+88
+00:06:05,360 --> 00:06:09,080
+market knows far in advance that a big tax cut is coming?
+
+89
+00:06:09,080 --> 00:06:13,879
+Logic would lead us to think, well, great news—businesses and citizens will have more
+
+90
+00:06:13,879 --> 00:06:17,080
+money in their pockets, there will be an immediate economic boom.
+
+91
+00:06:17,080 --> 00:06:18,080
+Right?
+
+92
+00:06:18,080 --> 00:06:19,080
+Wrong.
+
+93
+00:06:19,080 --> 00:06:21,920
+Economic reality shows us a completely flipped picture.
+
+94
+00:06:21,920 --> 00:06:26,520
+Macroeconomic data gives us an answer that will leave you speechless.
+
+95
+00:06:26,520 --> 00:06:31,520
+Looking at the sudden drop traced on this graph, you notice something incredible.
+
+96
+00:06:31,519 --> 00:06:36,759
+When a future tax cut is announced, the economy initially contracts.
+
+97
+00:06:36,759 --> 00:06:40,959
+There is a real drop in GDP, even before the cut becomes a reality.
+
+98
+00:06:40,959 --> 00:06:44,560
+The curve literally drops below zero in the first few quarters.
+
+99
+00:06:44,560 --> 00:06:47,159
+It's a completely counter-intuitive result.
+
+100
+00:06:47,159 --> 00:06:48,519
+Crazy, right?
+
+101
+00:06:48,519 --> 00:06:52,680
+Let's try to summarize the reason for this incredible paradox.
+
+102
+00:06:52,680 --> 00:06:56,120
+Put yourself for a moment in the shoes of citizens or businesses.
+
+103
+00:06:56,120 --> 00:07:00,039
+If you know for sure that taxes will go down in a year, what do you do?
+
+104
+00:07:00,080 --> 00:07:02,319
+Simple: you put everything on hold.
+
+105
+00:07:02,319 --> 00:07:04,879
+Why spend or invest huge amounts of capital today?
+
+106
+00:07:04,879 --> 00:07:08,439
+If tomorrow, thanks to the tax cut, it will cost you much less?
+
+107
+00:07:08,439 --> 00:07:12,560
+This mass behavior generates the initial contraction of the economy.
+
+108
+00:07:12,560 --> 00:07:15,000
+Everyone delays important decisions.
+
+109
+00:07:15,000 --> 00:07:19,680
+And the biggest irony that researchers discovered is that the longer this wait is,
+
+110
+00:07:19,680 --> 00:07:24,720
+the weaker the subsequent economic expansion will be when the cut finally takes effect.
+
+111
+00:07:24,720 --> 00:07:28,600
+And all this leaves us with a truly powerful final provocation,
+
+112
+00:07:28,600 --> 00:07:30,320
+worth reflecting on.
+
+113
+00:07:30,320 --> 00:07:36,000
+Having extreme political transparency and knowing the future in advance thanks to these public speeches
+
+114
+00:07:36,000 --> 00:07:39,080
+ends up damaging our economy in the present;
+
+115
+00:07:39,080 --> 00:07:42,360
+it's a fascinating thought that overturns quite a few beliefs
+
+116
+00:07:42,360 --> 00:07:46,760
+we have about how politicians communicate and how efficient markets are.
+
+117
+00:07:46,760 --> 00:07:50,840
+In short, today we clearly saw that words are never just words.
+
+118
+00:07:50,840 --> 00:07:54,680
+They can be measured, they turn into data, they move capital,
+
+119
+00:07:54,680 --> 00:07:58,080
+and sometimes they create true unexpected paradoxes.
+
+120
+00:07:58,079 --> 00:08:01,199
+Our analysis ends here, but one thing is certain.
+
+121
+00:08:01,199 --> 00:08:04,839
+The next time you hear a politician talking about taxes on TV,
+
+122
+00:08:04,839 --> 00:08:09,039
+those words will have a significantly different weight and meaning.

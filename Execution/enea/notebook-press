@@ -1,0 +1,5 @@
+#!/bin/bash
+export TERM=dumb
+export DEBIAN_FRONTEND=noninteractive
+export PYTHONUNBUFFERED=1
+exec /Users/marcolemoglie_1_2/Desktop/canale/.venv/bin/python3 /Users/marcolemoglie_1_2/Desktop/canale/Execution/enea/notebook_press.py "$@"

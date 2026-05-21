@@ -1,0 +1,579 @@
+1
+00:00:00,000 --> 00:00:04,980
+Today we dive into a truly incredible investigation conducted by economist Alberto
+
+2
+00:00:04,980 --> 00:00:06,560
+Alesina and Sottim.
+
+3
+00:00:06,560 --> 00:00:11,419
+It is an analysis that reveals a link that is nothing short of unexpected between family affection,
+
+4
+00:00:11,419 --> 00:00:15,759
+our most deep-rooted cultural values, and labor market laws.
+
+5
+00:00:15,759 --> 00:00:20,960
+In short, a completely new and decidedly fascinating perspective for understanding the
+
+6
+00:00:20,960 --> 00:00:23,160
+economic choices of nations.
+
+7
+00:00:23,160 --> 00:00:28,519
+Let's start immediately with a paradox, a real brain-teaser that has baffled economists
+
+8
+00:00:28,519 --> 00:00:29,519
+for decades.
+
+9
+00:00:29,679 --> 00:00:34,640
+It is a fact that rigidly regulated labor markets tend to generate
+
+10
+00:00:34,640 --> 00:00:39,679
+higher unemployment and on average lower incomes compared to flexible ones.
+
+11
+00:00:39,679 --> 00:00:41,039
+And we are with you so far.
+
+12
+00:00:41,039 --> 00:00:46,480
+But then, despite this obvious macroeconomic inefficiency, why do entire societies,
+
+13
+00:00:46,480 --> 00:00:51,200
+especially here in Europe, continue to vote with conviction to maintain these rigid
+
+14
+00:00:51,200 --> 00:00:53,519
+job protection laws?
+
+15
+00:00:53,519 --> 00:00:55,920
+It almost seems like an absurdity, don't you think?
+
+16
+00:00:56,000 --> 00:01:02,000
+Okay, let's get to the heart of the matter and compare these two opposite economic models.
+
+17
+00:01:02,000 --> 00:01:07,760
+On one hand, we have the flexible labor market, a system that rewards efficiency,
+
+18
+00:01:07,760 --> 00:01:11,359
+sure, but which requires very high geographical mobility.
+
+19
+00:01:11,359 --> 00:01:15,760
+In practice, you must always be ready to pack your bags to chase the best
+
+20
+00:01:15,760 --> 00:01:18,960
+opportunities, receiving higher incomes in return.
+
+21
+00:01:18,960 --> 00:01:21,920
+On the other hand, there is the rigid labor market.
+
+22
+00:01:22,000 --> 00:01:27,200
+This model boasts high minimum wages and very strong protections against layoffs,
+
+23
+00:01:27,200 --> 00:01:30,719
+allowing workers to stay exactly where they were born.
+
+24
+00:01:30,719 --> 00:01:35,200
+The collective price to pay, however, is higher structural unemployment
+
+25
+00:01:35,200 --> 00:01:37,439
+and lower overall salaries.
+
+26
+00:01:37,439 --> 00:01:42,799
+So the mystery remains: why on earth would anyone choose the option that ultimately pays less?
+
+27
+00:01:42,799 --> 00:01:47,840
+Well, the answer lies in an absolutely unexpected culprit:
+
+28
+00:01:47,840 --> 00:01:50,000
+the strength of family ties.
+
+29
+00:01:50,079 --> 00:01:54,159
+It is almost funny to think about, but the custom of adult children continuing to live under the same
+
+30
+00:01:54,159 --> 00:01:58,719
+roof as their parents literally shapes a nation's economic policy.
+
+31
+00:01:58,719 --> 00:02:03,519
+Data from the World Values Survey are clear: family attachment manages to predict,
+
+32
+00:02:03,519 --> 00:02:08,000
+with almost infallible precision, the type of labor market a given society
+
+33
+00:02:08,000 --> 00:02:09,280
+will end up adopting.
+
+34
+00:02:09,280 --> 00:02:12,879
+Let's see exactly how this chain reaction works step by step.
+
+35
+00:02:12,879 --> 00:02:17,920
+It all begins in Phase 1, within a culture that places immense value on being united as a family.
+
+36
+00:02:18,000 --> 00:02:21,360
+This leads directly to Phase 2: geographical immobility.
+
+37
+00:02:21,360 --> 00:02:25,600
+Moving away from loved ones has too high an emotional cost—a real wrench.
+
+38
+00:02:25,600 --> 00:02:29,440
+Consequently, when workers avoid moving, we enter Phase 3,
+
+39
+00:02:29,440 --> 00:02:32,800
+in which local businesses acquire disproportionate market power.
+
+40
+00:02:32,800 --> 00:02:37,040
+And finally, we reach Phase 4: to defend themselves and balance the overwhelming power of companies,
+
+41
+00:02:37,040 --> 00:02:41,760
+citizens go to the polls and loudly demand that the state intervene to regulate labor.
+
+42
+00:02:41,760 --> 00:02:47,680
+This phenomenon translates into a concept that economists call monopsony power.
+
+43
+00:02:47,760 --> 00:02:50,719
+It sounds like a very complicated word, but in reality, it's simple.
+
+44
+00:02:50,719 --> 00:02:55,439
+If in a monopoly there is only one seller, in a monopsony there is only one buyer.
+
+45
+00:02:55,439 --> 00:03:00,159
+In this scenario, a local company finds itself being the only true buyer of the time
+
+46
+00:03:00,159 --> 00:03:04,240
+and skills of workers who, in fact, have no intention of moving.
+
+47
+00:03:04,240 --> 00:03:08,319
+It's a sort of trap: knowing very well that an employee would never pack
+
+48
+00:03:08,319 --> 00:10:05,560
+their bags to avoid leaving their family,
+
+49
+00:10:10,560 --> 00:03:13,600
+the company can afford to impose very low wages,
+
+50
+00:10:13,600 --> 00:03:16,960
+with the certainty that that worker is going nowhere.
+
+51
+00:10:16,960 --> 00:03:19,360
+And this is where the real insight comes in.
+
+52
+00:03:19,360 --> 00:03:22,159
+Summarized in this quote from the researchers:
+
+53
+00:03:22,159 --> 00:03:26,080
+"To limit corporate rents and to avoid moving,
+
+54
+00:03:26,080 --> 00:03:31,840
+individuals with strong family ties rationally choose regulated labor markets."
+
+55
+00:03:31,840 --> 00:03:34,000
+Exactly, rationally.
+
+56
+00:03:34,000 --> 00:03:37,200
+Demanding guaranteed minimum wages or obstructing layoffs
+
+57
+00:03:37,200 --> 00:03:40,240
+is not at all a symptom of economic illiteracy.
+
+58
+00:03:40,240 --> 00:03:44,400
+On the contrary, it is a brilliant and absolutely conscious defense mechanism
+
+59
+00:03:44,400 --> 00:03:47,439
+to neutralize the blackmail of corporate monopsony,
+
+60
+00:03:47,439 --> 00:03:50,560
+while simultaneously managing to remain close to one's family.
+
+61
+00:03:50,560 --> 00:03:53,840
+Analyzing global data, the differences are staggering.
+
+62
+00:03:53,840 --> 00:03:56,000
+Take the nations of Mediterranean Europe,
+
+63
+00:03:56,000 --> 00:03:58,080
+deeply family-oriented cultures,
+
+64
+00:03:58,080 --> 00:04:00,560
+where leaving home late is practically the norm.
+
+65
+00:04:00,560 --> 00:04:03,439
+There, regulation levels are very high.
+
+66
+00:04:03,439 --> 00:04:07,200
+On the contrary, if we look at Anglo-Saxon or Nordic countries,
+
+67
+00:04:07,200 --> 00:04:11,520
+where independence and early departure from the family nest are central values,
+
+68
+00:04:11,520 --> 00:04:15,520
+we find drastically lower labor market rigidity indices.
+
+69
+00:04:15,520 --> 00:04:17,519
+Now, someone might object:
+
+70
+00:04:17,519 --> 00:04:21,600
+but how can we be sure it's really the fault of cultural values
+
+71
+00:04:21,600 --> 00:04:24,960
+and not perhaps geography or the government in office?
+
+72
+00:04:24,960 --> 00:04:28,960
+To overcome this methodological doubt, the researchers found a perfect
+
+73
+00:04:28,960 --> 00:04:33,519
+and unassailable control group: second-generation immigrants in the United States.
+
+74
+00:04:33,519 --> 00:04:36,000
+We are talking about people born and raised in America,
+
+75
+00:04:36,000 --> 00:04:39,199
+who move every single day in the exact same market,
+
+76
+00:04:39,199 --> 00:04:42,879
+subject to the same federal laws and the same institutions.
+
+77
+00:04:42,879 --> 00:04:47,120
+The only thing that distinguishes them is the cultural background inherited from their parents.
+
+78
+00:04:47,120 --> 00:04:52,480
+Well, translating these complex econometric formulas into everyday reality,
+
+79
+00:04:52,480 --> 00:04:54,480
+the results are breathtaking.
+
+80
+00:04:54,480 --> 00:04:58,319
+Even if immersed in the same, identical American market,
+
+81
+00:04:58,319 --> 00:05:01,599
+it is the culture of origin that dictates the law on economic destinies.
+
+82
+00:05:01,599 --> 00:05:07,279
+Immigrants from cultures with strong family ties tend not to move for work,
+
+83
+00:05:07,360 --> 00:05:10,160
+face significantly higher unemployment rates,
+
+84
+00:05:10,160 --> 00:05:13,680
+and end up having lower salaries compared to their fellow citizens
+
+85
+00:05:13,680 --> 00:05:18,400
+who come from cultures where family cohesion is experienced in a less binding way.
+
+86
+00:05:18,400 --> 00:05:23,680
+There is one number in particular that helps us visualize the scope of all this: 7%.
+
+87
+00:05:23,680 --> 00:05:28,640
+It is the exact percentage drop in geographical mobility among second-generation immigrants,
+
+88
+00:05:28,640 --> 00:05:34,160
+in the face of an increase of just one standard deviation in the strength of family ties from the country of origin.
+
+89
+00:05:34,240 --> 00:05:40,320
+In short, an invisible but very powerful attachment to one's roots literally and physically slows down
+
+90
+00:05:40,320 --> 00:05:42,960
+the search for the best job around the country.
+
+91
+00:05:42,960 --> 00:05:47,280
+And perhaps the craziest thing is that not only economic outcomes are passed down,
+
+92
+00:05:47,280 --> 00:05:51,280
+but the political demand for state intervention is inherited as well.
+
+93
+00:05:51,280 --> 00:05:56,960
+Surveys show that these children of immigrants maintain a far higher than average desire
+
+94
+00:05:56,960 --> 00:05:58,960
+to have a secure job.
+
+95
+00:05:58,960 --> 00:06:02,320
+They are in favor of state bailouts for declining industries
+
+96
+00:06:02,319 --> 00:06:07,279
+and have an unwavering faith that it should be the government that regulates wages.
+
+97
+00:06:07,279 --> 00:06:13,120
+At this point, the most classic of dilemmas arises spontaneously, a true philosophical question.
+
+98
+00:06:13,120 --> 00:06:18,399
+Is it state laws and institutions that, over time, shape the culture of a people,
+
+99
+00:06:18,399 --> 00:06:23,600
+or the deep culture of a society that gives shape to its institutions?
+
+100
+00:06:23,600 --> 00:06:28,719
+What emerges from these studies is the existence of a true continuous feedback loop,
+
+101
+00:06:28,720 --> 00:06:32,560
+a circle in which the education of children and the economic structure of the nation
+
+102
+00:06:32,560 --> 00:06:34,640
+influence each other endlessly.
+
+103
+00:06:34,640 --> 00:06:40,480
+So the crucial point is that societies end up coordinating on two parallel tracks,
+
+104
+00:06:40,480 --> 00:06:46,320
+two self-sustaining models, or to use a technical term, multiple equilibria.
+
+105
+00:06:46,320 --> 00:06:51,280
+With weak family ties, a very free market takes over, a laissez-faire approach,
+
+106
+00:06:51,280 --> 00:06:53,600
+where absolute independence is preached.
+
+107
+00:06:53,680 --> 00:06:58,340
+With strong ties, however, the market becomes structurally rigid and the
+
+108
+00:06:58,340 --> 00:07:04,160
+young are taught to rely on the family safety net—two completely different ways of living.
+
+109
+00:07:04,160 --> 00:07:10,000
+And to understand how powerful this force is, we have to take a long leap back into history.
+
+110
+00:07:10,000 --> 00:07:14,240
+This study demonstrates an absolutely staggering persistence over time.
+
+111
+00:07:14,240 --> 00:07:18,720
+We start from regional family structures, born no less than in the Middle Ages.
+
+112
+00:07:18,800 --> 00:07:23,920
+We pass through the values packed in the suitcases of emigrants bound for America before World War II
+
+113
+00:07:23,920 --> 00:07:26,600
+and arrive straight to the present day.
+
+114
+00:07:26,600 --> 00:07:32,040
+Surprisingly, values from distant eras are still able to accurately predict how much
+
+115
+00:07:32,040 --> 00:07:34,400
+labor rigidity we demand today.
+
+116
+00:07:34,400 --> 00:07:41,080
+Who would have ever thought that the family dynamics of the Middle Ages would dictate the labor rules of the twenty-first century?
+
+117
+00:07:41,080 --> 00:07:45,920
+Exactly so: the classifications of historian Emmanuel Todd show us that the old
+
+118
+00:07:45,920 --> 00:07:52,120
+nuclear and independent families left a preference for super-flexible markets as their legacy.
+
+119
+00:07:52,120 --> 00:07:57,920
+Conversely, the communal-style medieval family, typically authoritarian, where children,
+
+120
+00:07:57,920 --> 00:08:01,720
+wives, and grandchildren all continued to live under the patriarch's roof,
+
+121
+00:08:01,720 --> 00:08:06,319
+well, that is reflected today in a citizenry that demands ironclad protection from the state.
+
+122
+00:08:06,319 --> 00:08:10,720
+And there is a crazy statistic to confirm it: a huge 19%.
+
+123
+00:08:10,720 --> 00:08:17,920
+Today, people living in regions that centuries and centuries ago were dominated by those authoritarian and communal family dynamics
+
+124
+00:08:17,920 --> 00:08:24,320
+are 19% more likely to demand that the government intervene to protect jobs.
+
+125
+00:08:24,320 --> 00:08:30,920
+It's almost as if the ghost of the ancient patriarch were there, invisible, guiding the hand of the contemporary voter.
+
+126
+00:08:30,920 --> 00:08:34,519
+Summing up this whole incredible and impartial analysis,
+
+127
+00:08:34,519 --> 00:08:38,720
+labor laws are rooted in a very deep cultural ground.
+
+128
+00:08:38,720 --> 00:08:42,320
+When attachment to family generates geographical immobility,
+
+129
+00:08:42,320 --> 00:08:45,920
+companies automatically gain enormous monopsony power.
+
+130
+00:08:45,920 --> 00:08:49,920
+Consequently, requesting state intervention is not an illogical slip-up,
+
+131
+00:08:49,920 --> 00:08:53,320
+but a hyper-rational defense to protect the unity of affections.
+
+132
+00:08:53,320 --> 00:08:58,120
+In short, what is coldly dismissed as inefficiency in economics textbooks
+
+133
+00:08:58,120 --> 00:09:01,120
+is in reality often a very specific social compromise,
+
+134
+00:09:01,120 --> 00:09:03,320
+chosen entirely consciously.
+
+135
+00:09:03,320 --> 00:09:07,320
+Which leaves us with a final, very, very deep question,
+
+136
+00:09:07,320 --> 00:09:09,920
+that goes far beyond mere economic calculations.
+
+137
+00:09:09,920 --> 00:09:13,120
+Considering all this, does maximizing at all costs
+
+138
+00:09:13,120 --> 00:09:16,120
+absolute economic efficiency and flexibility
+
+139
+00:09:16,120 --> 00:09:20,120
+really worth the price of having a geographically fragmented family?
+
+140
+00:09:20,120 --> 00:09:24,520
+Deep down, every society continuously makes this silent choice:
+
+141
+00:09:24,520 --> 00:09:28,320
+optimize pure wealth or protect the closeness of bonds.
+
+142
+00:09:28,320 --> 00:09:30,520
+It is a giant invisible compromise
+
+143
+00:09:30,520 --> 00:09:34,320
+that every day shapes the world in which we all live and work.
+
+144
+00:09:34,320 --> 00:09:35,720
+What is the right path?
+
+145
+00:09:35,720 --> 00:09:38,120
+It is certainly a great food for thought.

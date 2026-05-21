@@ -1,0 +1,483 @@
+1
+00:00:00,000 --> 00:00:05,339
+Bienvenidos, hoy, en este análisis, nos sumergimos en un verdadero misterio de nuestra
+
+2
+00:00:05,339 --> 00:00:06,339
+sociedad.
+
+3
+00:00:06,339 --> 00:00:12,099
+Piénsenlo por un momento, ¿por qué algunas democracias parecen florecer, impulsadas por una enorme participación
+
+4
+00:00:12,099 --> 00:00:17,179
+de los ciudadanos, mientras que otras se esfuerzan muchísimo, incluso solo para hacer funcionar las instituciones
+
+5
+00:00:17,179 --> 00:00:18,179
+básicas?
+
+6
+00:00:18,179 --> 00:00:23,300
+Bueno, sumerjámonos en los datos para descubrir las dinámicas ocultas que vinculan nuestras relaciones más
+
+7
+00:00:23,300 --> 00:00:26,460
+íntimas, las familiares, con toda la esfera pública.
+
+8
+00:00:26,859 --> 00:00:32,160
+Pero en definitiva, ¿qué determina realmente nuestro compromiso democrático?, ¿qué impulsa a toda una
+
+9
+00:00:32,160 --> 00:00:36,939
+población a levantarse por la mañana para ir a votar, hacer voluntariado, firmar
+
+10
+00:00:36,939 --> 00:00:40,980
+peticiones, o simplemente a confiar en sus propias instituciones?
+
+11
+00:00:40,980 --> 00:00:44,700
+Se podría pensar que es solo una cuestión de dinero, ¿verdad?
+
+12
+00:00:44,700 --> 00:00:46,620
+O tal vez de educación formal.
+
+13
+00:00:46,620 --> 00:00:51,620
+Y, en cambio, la evidencia nos sugiere que la respuesta podría esconderse mucho, mucho más
+
+14
+00:00:51,620 --> 00:00:56,280
+cerca de nosotros, literalmente dentro de nuestros hogares y en las tradiciones que
+
+15
+00:00:56,280 --> 00:00:58,800
+absorbemos desde que somos niños.
+
+16
+00:00:58,800 --> 00:01:04,799
+Sección 1, el misterio de la participación ciudadana, vayamos a ver de qué se trata.
+
+17
+00:01:04,799 --> 00:01:08,799
+Sección 2, la teoría del familismo amoral.
+
+18
+00:01:08,799 --> 00:01:14,319
+Todo parte de una observación, me atrevería a decir iluminadora, hecha por un investigador estadounidense,
+
+19
+00:01:14,319 --> 00:01:19,240
+Edward Banfield. Imaginen que están en un pequeño pueblo del sur de Italia, en los años
+
+20
+00:01:19,240 --> 00:01:20,240
+50.
+
+21
+00:01:20,240 --> 00:01:26,200
+Banfield nota algo muy particular y acuña este término: familismo amoral.
+
+22
+00:01:26,200 --> 00:01:31,719
+¿Qué es, exactamente? En la práctica, es un equilibrio social donde las personas confían ciegamente
+
+23
+00:01:31,719 --> 00:01:37,000
+y se preocupan exclusivamente por su propia familia inmediata, y hasta aquí todo bien, pero el
+
+24
+00:01:37,000 --> 00:01:41,159
+punto es que esperan que todos los demás hagan exactamente lo mismo.
+
+25
+00:01:41,159 --> 00:01:45,640
+Como consecuencia, y es completamente racional desde su punto de vista, no confían para nada
+
+26
+00:01:45,640 --> 00:01:50,200
+en quienes están fuera del círculo familiar, y es como si se creara un muro invisible hacia
+
+27
+00:01:50,200 --> 00:01:54,359
+los asuntos públicos, porque todo lo que no sea familia es visto con un profundo
+
+28
+00:01:54,359 --> 00:01:55,359
+sospecho.
+
+29
+00:01:55,519 --> 00:02:01,680
+Y lo increíble es cómo todo esto se transmite a lo largo del tiempo, casi como un manual
+
+30
+00:02:01,680 --> 00:02:03,920
+de instrucciones intergeneracional.
+
+31
+00:02:03,920 --> 00:02:09,060
+Veamos los pasos: primero, a los niños se les enseña una confianza absoluta hacia sus
+
+32
+00:02:09,060 --> 00:02:10,080
+propios familiares.
+
+33
+00:02:10,080 --> 00:02:15,719
+Segundo, se les infunde en paralelo una fuerte desconfianza hacia los extraños.
+
+34
+00:02:15,719 --> 00:02:21,039
+Tercero, y es un indicador crucial, se enseña que la obediencia es una virtud por mucho
+
+35
+00:02:21,039 --> 00:02:26,199
+superior a la iniciativa personal; es decir, se premia a quien se queda en su lugar, creando
+
+36
+00:02:26,199 --> 00:02:28,959
+una verdadera resistencia al cambio.
+
+37
+00:02:28,959 --> 00:02:34,120
+Cuarto y último paso: el resultado de esta cadena es una bajísima participación
+
+38
+00:02:34,120 --> 00:02:39,159
+ciudadana, que lamentablemente persiste de manera implacable a través de las generaciones.
+
+39
+00:02:39,159 --> 00:02:43,039
+Sección 3, datos globales: familia contra política.
+
+40
+00:02:43,039 --> 00:02:48,359
+Ahora ampliemos la mirada, abandonemos ese único pueblo y observemos los datos de la
+
+41
+00:02:48,360 --> 00:02:52,680
+Encuesta Mundial de Valores, una investigación global increíblemente rigurosa.
+
+42
+00:02:52,680 --> 00:02:56,040
+Y aquí surge un contraste increíble entre diferentes culturas.
+
+43
+00:02:56,040 --> 00:02:58,280
+Por un lado, tenemos el norte de Europa.
+
+44
+00:02:58,280 --> 00:03:03,200
+Los vínculos familiares son más débiles, pero encontramos un altísimo capital social, muchísima
+
+45
+00:03:03,200 --> 00:03:06,400
+confianza en los extraños y una enorme participación ciudadana.
+
+46
+00:03:06,400 --> 00:03:11,120
+Por otro lado, encontramos el sur de Europa, pero también América Latina y varias zonas de Asia
+
+47
+00:03:11,120 --> 00:03:12,120
+y África.
+
+48
+00:03:12,120 --> 00:03:17,000
+Aquí la familia lo es todo, los vínculos son fuertísimos y cohesionados, y sin embargo, el compromiso ciudadano y la
+
+49
+00:03:17,000 --> 00:03:19,000
+confianza en las instituciones se desploman.
+
+50
+00:03:19,000 --> 00:03:23,759
+Pero cuidado, debemos ser muy claros en este punto: no estamos diciendo que una
+
+51
+00:03:23,759 --> 00:03:28,960
+cultura sea buena y la otra mala, simplemente estamos observando de manera objetiva
+
+52
+00:03:28,960 --> 00:03:31,240
+cómo deciden organizarse diferentes sociedades.
+
+53
+00:03:31,240 --> 00:03:37,240
+Y los números de este estudio confirman una relación inversa sólida como una roca: cuanto
+
+54
+00:03:37,240 --> 00:03:40,199
+más peso le das a la familia, menos te importa la política.
+
+55
+00:03:40,199 --> 00:03:44,960
+Y lo que literalmente me vuelve loco es que esta regla se mantiene incluso si eliminamos
+
+56
+00:03:44,960 --> 00:03:48,400
+de la ecuación elementos como los ingresos o el nivel educativo.
+
+57
+00:03:48,400 --> 00:03:53,080
+Para darles una perspectiva concreta, imaginen tomar a una persona con vínculos familiares
+
+58
+00:03:53,080 --> 00:03:55,879
+muy débiles y a otra con vínculos fuertísimos.
+
+59
+00:03:55,879 --> 00:04:00,640
+Pues bien, el aumento del desinterés político entre estos dos extremos es comparable al impacto
+
+60
+00:04:00,640 --> 00:04:05,960
+que se tendría si tomáramos a una persona con título universitario y de repente le dejáramos solo una educación
+
+61
+00:04:05,960 --> 00:04:06,960
+primaria.
+
+62
+00:04:06,960 --> 00:04:09,080
+El efecto de la cultura es simplemente devastante.
+
+63
+00:04:09,080 --> 00:04:13,719
+Y fíjense bien, no estamos hablando solo de charlar en un bar.
+
+64
+00:04:13,719 --> 00:04:18,759
+El estudio midió el deseo de pasar a la acción real, cosas como firmar
+
+65
+00:04:18,759 --> 00:04:23,920
+peticiones, boicotear productos, salir a la calle en manifestaciones autorizadas, hasta
+
+66
+00:04:23,920 --> 00:04:29,240
+llegar a huelgas salvajes y la ocupación de edificios; en fin, todo el paquete completo
+
+67
+00:04:29,240 --> 00:04:30,240
+del activismo.
+
+68
+00:04:30,240 --> 00:04:35,800
+Y los datos hablan por sí solos: quienes tienen vínculos familiares de hierro son sistemáticamente menos propensos
+
+69
+00:04:35,800 --> 00:04:41,300
+a hacer aunque sea una de estas cosas; menos voluntariado, menos manifestaciones, es como si
+
+70
+00:04:41,300 --> 00:04:46,060
+toda la energía fuera absorbida hasta la última gota por las paredes del hogar.
+
+71
+00:04:46,060 --> 00:04:47,060
+Sección 4.
+
+72
+00:04:47,060 --> 00:04:48,060
+La prueba definitiva.
+
+73
+00:04:48,060 --> 00:04:49,060
+Los inmigrantes.
+
+74
+00:04:49,060 --> 00:04:55,300
+Vale, en este punto podrían decirme legítimamente: disculpa, pero tal vez sea culpa de las instituciones
+
+75
+00:04:55,300 --> 00:05:00,300
+locales, que son pésimas y desincentivan a la gente. Una objeción totalmente acertada.
+
+76
+00:05:00,300 --> 00:05:03,860
+Y aquí es donde llega el verdadero golpe de genio del estudio.
+
+77
+00:05:03,860 --> 00:05:08,980
+Para separar la cultura del entorno, utilizaron la Encuesta Social Europea para analizar
+
+78
+00:05:08,980 --> 00:05:11,340
+a los inmigrantes de segunda generación.
+
+79
+00:05:11,340 --> 00:05:15,819
+Hablamos de personas nacidas y criadas que van a la escuela y trabajan bajo las mismas exactas
+
+80
+00:05:15,819 --> 00:05:18,259
+leyes e instituciones que los ciudadanos locales.
+
+81
+00:05:18,259 --> 00:05:23,220
+Así que el razonamiento es simple: si su manera de relacionarse con la política es diferente
+
+82
+00:05:23,220 --> 00:05:28,060
+de la media de su entorno y, en cambio, se parece a la del país de origen de sus padres, pues bien,
+
+83
+00:05:28,060 --> 00:05:29,060
+bingo.
+
+84
+00:05:29,060 --> 00:05:33,300
+Significa que estamos ante un rasgo puramente cultural, transmitido en la familia,
+
+85
+00:05:33,300 --> 00:05:35,460
+y no a un problema de las instituciones locales.
+
+86
+00:05:35,460 --> 00:05:36,460
+32.
+
+87
+00:05:36,579 --> 00:05:38,459
+Sí, han oído bien.
+
+88
+00:05:38,459 --> 00:05:41,939
+32 son los diferentes países de destino analizados.
+
+89
+00:05:41,939 --> 00:05:45,500
+No se fijaron solo en quienes emigran a los Estados Unidos, como suele hacerse.
+
+90
+00:05:45,500 --> 00:05:50,259
+Con semejante volumen de datos repartido en 32 naciones, se elimina cualquier duda
+
+91
+00:05:50,259 --> 00:05:54,299
+de que los resultados puedan estar sesgados por las reglas de un solo país.
+
+92
+00:05:54,299 --> 00:05:56,979
+Es un análisis de una solidez impresionante.
+
+93
+00:05:56,979 --> 00:06:00,819
+Y al mirar estos datos, el rompecabezas encaja a la perfección.
+
+94
+00:06:00,819 --> 00:06:05,339
+Los hijos de quienes provienen de países con fuertes vínculos familiares, aunque vivan en un entorno
+
+95
+00:06:05,340 --> 00:06:09,420
+completamente nuevo, mantienen comportamientos muy específicos.
+
+96
+00:06:09,420 --> 00:06:14,420
+Ven menos las noticias, leen menos de política, están menos interesados en los asuntos públicos,
+
+97
+00:06:14,420 --> 00:06:16,660
+y confían mucho menos en los extraños.
+
+98
+00:06:16,660 --> 00:06:20,640
+Parece que los vínculos familiares fuertes y la confianza generalizada juegan un
+
+99
+00:06:20,640 --> 00:06:24,740
+juego de suma cero: si viertes casi toda tu reserva de confianza dentro del
+
+100
+00:06:24,740 --> 00:06:29,500
+núcleo familiar, queda realmente muy poca, por no decir ninguna, para gastar en el mundo
+
+101
+00:06:29,500 --> 00:06:30,500
+exterior.
+
+102
+00:06:30,500 --> 00:06:38,180
+Sección 5, vínculos fuertes: un balance final. Llegados a este punto, es absolutamente vital
+
+103
+00:06:38,180 --> 00:06:39,660
+hacer una aclaración.
+
+104
+00:06:39,660 --> 00:06:44,899
+Tener vínculos familiares fuertísimos no es una enfermedad que curar, es simplemente un
+
+105
+00:06:44,899 --> 00:06:49,180
+equilibrio diferente, con sus inmensos pros y sus contras.
+
+106
+00:06:49,180 --> 00:06:53,459
+Las sociedades enfocadas en la familia ofrecen una red de protección emocional y económica
+
+107
+00:06:53,459 --> 00:06:58,459
+increíble; quienes viven en ellas reportan altos niveles de satisfacción personal y una producción
+
+108
+00:06:58,460 --> 00:07:01,500
+doméstica muy alta, entendida como cuidado mutuo.
+
+109
+00:07:01,500 --> 00:07:05,100
+El precio a pagar, sin embargo, es una menor confianza en las instituciones.
+
+110
+00:07:05,100 --> 00:07:09,780
+Por el contrario, las sociedades con vínculos débiles hacen funcionar de maravilla la maquinaria democrática
+
+111
+00:07:09,780 --> 00:07:15,020
+pública y confían en los demás, pero tienen que renunciar a este puerto cálido y totalizador
+
+112
+00:07:15,020 --> 00:07:16,460
+de la gran familia unida.
+
+113
+00:07:16,460 --> 00:07:22,140
+Y todo este análisis nos deja con una pregunta gigantesca para nuestro futuro: dado
+
+114
+00:07:22,140 --> 00:07:27,100
+que, como acabamos de ver, los valores familiares cambian de manera sumamente lenta, ¿qué
+
+115
+00:07:27,100 --> 00:07:28,500
+pasará ahora?
+
+116
+00:07:28,500 --> 00:07:33,780
+¿Nos hará la globalización poco a poco a todos iguales, suavizando estas diferencias,
+
+117
+00:07:33,780 --> 00:07:38,040
+o, al contrario, este mundo que va cada vez más rápido creará el instinto de
+
+118
+00:07:38,040 --> 00:07:42,460
+aferrarse aún más a estas raíces familiares y locales para protegerse?
+
+119
+00:07:42,460 --> 00:07:44,580
+Es una dinámica fascinante, ¿verdad?
+
+120
+00:07:44,580 --> 00:07:49,260
+Nos hace comprender cómo, en el fondo, esa sencilla mesa alrededor de la cual cenamos por la noche continúa,
+
+121
+00:07:49,260 --> 00:07:53,660
+en el silencio de nuestros hogares, moldeando el destino mismo de nuestras democracias.

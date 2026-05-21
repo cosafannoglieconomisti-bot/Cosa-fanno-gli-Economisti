@@ -1,0 +1,415 @@
+1
+00:00:00,000 --> 00:00:05,719
+Bien, comencemos de inmediato. El título de este análisis, fuga de cerebros, un daño,
+
+2
+00:00:05,719 --> 00:00:11,240
+plantea una cuestión fundamental. Hoy, exploramos un experimento natural e histórico,
+
+3
+00:00:11,240 --> 00:00:13,919
+y debo decir, absolutamente fascinante.
+
+4
+00:00:13,919 --> 00:00:18,039
+Se trata de la inmigración de figuras de altísima especialización.
+
+5
+00:00:18,039 --> 00:00:23,000
+Vamos a profundizar en cómo la producción de conocimiento y el progreso científico
+
+6
+00:00:23,000 --> 00:00:25,600
+reaccionan ante choques de oferta masivos.
+
+7
+00:00:25,600 --> 00:00:30,040
+Este es nuestro recorrido. Partiremos de la división durante la Guerra Fría.
+
+8
+00:00:30,040 --> 00:00:35,020
+Pasaremos por el aislamiento soviético y el caso Luzin, para luego llegar al colapso
+
+9
+00:00:35,020 --> 00:00:40,000
+del muro y al consecuente éxodo. Después, analizaremos la onda de choque sobre los talentos
+
+10
+00:00:40,000 --> 00:00:42,719
+locales, el colapso de su productividad.
+
+11
+00:00:42,719 --> 00:00:48,000
+Y para concluir, daremos un vistazo a lo que llamaremos el pastel matemático global.
+
+12
+00:00:48,000 --> 00:00:53,560
+Punto 1: la división de la Guerra Fría. Para entender realmente el impacto de todo esto,
+
+13
+00:00:53,560 --> 00:00:58,520
+debemos dar un salto atrás y encuadrar el clima geopolítico de la época. Existían
+
+14
+00:00:58,520 --> 00:01:04,000
+literalmente dos mundos paralelos. Isaac Newton decía: "Si he visto más lejos, es porque
+
+15
+00:01:04,000 --> 00:01:08,560
+estaba sobre los hombros de gigantes". Esta frase captura el corazón palpitante de la
+
+16
+00:01:08,560 --> 00:01:14,000
+investigación. Crear conocimiento no es un trabajo de lobos solitarios, es un proceso ultrasocial
+
+17
+00:01:14,000 --> 00:01:19,719
+basado en el intercambio. Las ideas de un investigador se nutren de las de otros, y viceversa.
+
+18
+00:01:19,719 --> 00:01:25,599
+¿Pero qué sucede si este flujo vital es cortado de raíz por fronteras políticas absolutamente
+
+19
+00:01:25,599 --> 00:01:32,239
+impenetrables? Pasemos al segundo punto. El aislamiento y el caso Luzin. La respuesta está precisamente
+
+20
+00:01:32,239 --> 00:01:37,599
+en la historia: se creó un aislamiento total de la comunidad científica soviética del resto
+
+21
+00:01:37,599 --> 00:01:43,200
+del planeta, dando vida a un ecosistema matemático que hacía su propia historia. Se parte, obviamente,
+
+22
+00:01:43,200 --> 00:01:49,680
+de la fundación de la URSS, pero el verdadero punto de inflexión llega en 1936 con el caso Luzin. Nikolái
+
+23
+00:01:49,680 --> 00:01:55,040
+Luzin era un matemático de vanguardia de la Academia de Ciencias y sufrió una pesadísima campaña
+
+24
+00:01:55,040 --> 00:02:00,120
+difamatoria; lo acusaron incluso de enviar sus mejores descubrimientos a revistas extranjeras,
+
+25
+00:02:00,120 --> 00:02:04,879
+un verdadero delito político para la época. El resultado: desde ese día, los matemáticos
+
+26
+00:02:04,879 --> 00:02:10,800
+soviéticos fueron blindados; debían publicar casi solo en ruso y en revistas internas. El correo
+
+27
+00:02:10,800 --> 00:02:15,840
+con Occidente estaba controlado, los viajes al extranjero prohibidos; en resumen, el Telón de Acero
+
+28
+00:02:15,840 --> 00:02:21,719
+había caído pesadamente también sobre las matemáticas. ¿Y qué sucede tras décadas de cierre total?
+
+29
+00:02:21,719 --> 00:02:28,000
+Se formaron dos dialectos matemáticos completamente diferentes. Separados por todo, los dos bloques se
+
+30
+00:02:28,000 --> 00:02:34,320
+especializaron en campos totalmente distintos, impulsados por sus historias específicas y fondos gubernamentales.
+
+31
+00:02:34,320 --> 00:02:40,040
+Los estadounidenses eran imbatibles en ámbitos como la estadística, la investigación operativa y la informática.
+
+32
+00:02:40,039 --> 00:02:45,959
+Los soviéticos, por otro lado, reinaban de forma suprema en las ecuaciones diferenciales. Hay un detalle casi
+
+33
+00:02:45,959 --> 00:02:51,799
+tragicómico en todo esto: en la Unión Soviética, ocuparse de la estadística podía ser literalmente
+
+34
+00:02:51,799 --> 00:02:57,159
+peligroso. ¿Por qué? Porque implicaba manejar datos de Estado y no era precisamente el momento de
+
+35
+00:02:57,159 --> 00:03:03,479
+curiosear demasiado en los asuntos del gobierno. Los datos de la época demuestran de manera clarísima
+
+36
+00:03:03,479 --> 00:03:09,199
+cuán neta era esta división. Antes de los años 90, había sectores enteros de excelencia
+
+37
+00:03:09,200 --> 00:03:15,200
+estadounidense en los que los soviéticos simplemente no publicaban nada. Nadie esperaba un
+
+38
+00:03:15,200 --> 00:03:20,440
+cambio a corto plazo; incluso a finales de los años 80, se creía que el sistema soviético era
+
+39
+00:03:20,440 --> 00:03:25,960
+granítico y que este aislamiento continuaría durante generaciones. Lo que nos lleva
+
+40
+00:03:25,960 --> 00:03:32,060
+al punto 3: el colapso y el éxodo. Como sabemos, ¿la historia tiene sus giros inesperados? Estos dos
+
+41
+00:03:32,060 --> 00:03:38,920
+universos aislados por medio siglo entraron repentinamente en colisión, más de mil. Este número
+
+42
+00:03:38,920 --> 00:03:43,840
+impresionante representa el alcance del éxodo. Con el colapso de la Unión Soviética, más de
+
+43
+00:03:43,840 --> 00:03:48,840
+mil mentes geniales se encontraron catapultadas al mercado académico global. De estos,
+
+44
+00:03:48,840 --> 00:03:54,320
+336 matemáticos de élite desembarcaron directamente en los Estados Unidos. Hablamos de un choque de
+
+45
+00:03:54,320 --> 00:03:59,360
+oferta intelectual sin precedentes en la historia reciente. Para captar la esencia de
+
+46
+00:03:59,360 --> 00:04:05,160
+este terremoto, debemos hacer una distinción entre conocimiento tácito y conocimiento codificado.
+
+47
+00:04:05,719 --> 00:04:10,599
+Durante la Guerra Fría, las revistas soviéticas se traducían de todos modos al inglés, así que
+
+48
+00:04:10,599 --> 00:04:15,599
+el conocimiento codificado existía, los textos estaban allí. Pero el verdadero punto de inflexión fue
+
+49
+00:04:15,599 --> 00:04:21,120
+el desbloqueo del conocimiento tácito. Esta es la genialidad no escrita que vive en el capital
+
+50
+00:04:21,120 --> 00:04:25,959
+humano, en las mentes de las personas. Es la que se transmite charlando frente a la
+
+51
+00:04:25,959 --> 00:04:30,800
+máquina de café, o razonando juntos ante una pizarra sin ningún obstáculo burocrático.
+
+52
+00:04:31,360 --> 00:04:36,840
+Hay una anécdota de Harvard que resume perfectamente la situación. Persi Diaconis, un famosísimo
+
+53
+00:04:36,840 --> 00:04:42,360
+matemático estadounidense, llevaba veinte años rompiéndose la cabeza con un problema. Veinte; había pedido
+
+54
+00:04:42,360 --> 00:04:48,000
+ayuda a medio Norteamérica, pero nada, oscuridad total. Luego llegan los visitantes soviéticos, él
+
+55
+00:04:48,000 --> 00:04:54,120
+explica el problema al Dr. Reshetikhin y, ¡magia!, la solución llega casi instantáneamente.
+
+56
+00:04:54,120 --> 00:04:58,639
+Los soviéticos habían lidiado con ese tipo de problemas durante años. De repente, se abrió
+
+57
+00:04:58,639 --> 00:05:04,159
+la puerta a todo un nuevo mundo de intuiciones frescas. Esto llevó a un aumento increíble
+
+58
+00:05:04,159 --> 00:05:10,079
+de las coautorías, es decir, de las publicaciones conjuntas entre soviéticos y estadounidenses. Antes de
+
+59
+00:05:10,079 --> 00:05:16,959
+1990, las colaboraciones rozaban el cero absoluto. Justo después, explotan. La barrera
+
+60
+00:05:16,959 --> 00:05:22,279
+invisible finalmente había caído, dejando espacio a un flujo de ideas literalmente emocionante.
+
+61
+00:05:22,760 --> 00:05:29,480
+Y aquí llegamos al punto 4: la onda de choque sobre los nativos. Cuidado, sin embargo, porque no todo
+
+62
+00:05:29,480 --> 00:05:35,040
+es oro lo que reluce. La llegada de una avalancha de cerebros de este calibre no solo difundió
+
+63
+00:05:35,040 --> 00:05:41,920
+ideas hermosas, también desató una competencia despiadada. Es el famoso efecto "crowd-out" o desplazamiento.
+
+64
+00:05:41,920 --> 00:05:47,400
+La academia no es un espacio infinito. Los puestos de profesores titulares son limitados, los fondos
+
+65
+00:05:47,400 --> 00:05:52,120
+para la investigación tienen un techo y el espacio para publicar en revistas de prestigio es el
+
+66
+00:05:52,120 --> 00:05:58,040
+que es; meter en el mercado a tantos fuera de serie significa que alguien inevitablemente pierde su
+
+67
+00:05:58,040 --> 00:06:04,280
+asiento. Y, de hecho, al analizar las tasas de desempleo a principios de los años 90 surge un
+
+68
+00:06:04,280 --> 00:06:09,879
+pico decididamente anómalo. Para los nuevos doctorados en matemáticas en Norteamérica, el desempleo
+
+69
+00:06:09,879 --> 00:06:16,840
+alcanzó un récord aterrador del 12 % en 1991. Justo en el momento exacto en que los genios soviéticos
+
+70
+00:06:16,840 --> 00:06:21,959
+llegaban a las costas estadounidenses, los jóvenes talentos locales se encontraban ante un muro de contención.
+
+71
+00:06:22,359 --> 00:06:28,519
+Pasemos al punto 5: el colapso de la productividad. No se crea que la onda de choque se detuvo en los recién
+
+72
+00:06:28,519 --> 00:06:34,279
+graduados. Los números son despiadados y nos dicen que incluso los matemáticos estadounidenses ya integrados en el
+
+73
+00:06:34,279 --> 00:06:40,679
+sistema sufrieron un golpe durísimo. Los soviéticos que llegaron estaban sujetos a una selección
+
+74
+00:06:40,679 --> 00:06:48,120
+positiva extrema; eran literalmente lo mejor de lo mejor. Después de 1992, la media de un estadounidense era de
+
+75
+00:06:48,120 --> 00:06:54,040
+casi siete artículos publicados, con unas 52 citas. La media de un emigrante soviético era de
+
+76
+00:06:54,040 --> 00:07:01,079
+más de 27 artículos y nada menos que 209 citas. Eran máquinas. Hablamos de la élite intelectual de una
+
+77
+00:07:01,079 --> 00:07:05,720
+superpotencia global que trabajaba a un ritmo simplemente insostenible para la mayoría de los
+
+78
+00:07:05,720 --> 00:07:12,280
+colegas estadounidenses. Claro, no todos sufrieron de la misma manera. El declive de la productividad
+
+79
+00:07:12,360 --> 00:07:18,760
+fue vertiginoso, pero en particular para los estadounidenses que se ocupaban de los mismos temas
+
+80
+00:07:18,760 --> 00:07:24,440
+que los soviéticos. Quien estudiaba estadística podía dormir tranquilo, a los soviéticos no les interesaba
+
+81
+00:07:24,440 --> 00:07:30,120
+mucho; ¿pero quién estudiaba ecuaciones diferenciales? Bueno, encontró un bloqueo total. Su
+
+82
+00:07:30,120 --> 00:07:36,520
+productividad se desplomó. Y hay más: estos matemáticos expuestos a la competencia no solo
+
+83
+00:07:36,520 --> 00:07:41,960
+publicaban menos, sino que también perdían resonancia. Su probabilidad de lograr un llamado
+
+84
+00:07:41,960 --> 00:07:47,320
+'home run', es decir, uno de esos artículos históricos increíblemente citados que cambian el rostro de una
+
+85
+00:07:47,320 --> 00:07:53,720
+disciplina, cayó más del 20 %. Sus trabajos quedaban irremediablemente a la sombra
+
+86
+00:07:53,720 --> 00:08:00,680
+de la excepcional calidad aportada por los recién llegados. Por último, el punto 6: el pastel matemático global.
+
+87
+00:08:00,680 --> 00:08:06,360
+Al hacer balance, cabe preguntarse: ¿la riqueza matemática global ganó con ello,
+
+88
+00:08:06,360 --> 00:08:11,600
+o simplemente pasó de una mano a otra? Resumiendo las investigaciones, surgen tres
+
+89
+00:08:11,600 --> 00:08:17,160
+puntos clave. Primero: los académicos locales altamente expuestos vieron colapsar su productividad.
+
+90
+00:08:17,160 --> 00:08:23,000
+Segundo: este vacío fue perfectamente llenado por los soviéticos. Tercero, y es la parte
+
+91
+00:08:23,000 --> 00:08:27,800
+quizás más sorprendente: no hay pruebas de que el tamaño total del pastel del conocimiento
+
+92
+00:08:27,800 --> 00:08:32,759
+matemático haya aumentado de forma tangible. En resumen, se trató de una sustitución
+
+93
+00:08:32,759 --> 00:08:37,759
+equivalente. El nuevo talento reemplazó al antiguo, pero sin iniciar una nueva edad de oro para
+
+94
+00:08:37,759 --> 00:08:43,159
+toda la disciplina estadounidense. Sin embargo, hay una pequeña e iluminadora excepción: una
+
+95
+00:08:43,159 --> 00:08:50,159
+nicho minúsculo de estadounidenses expuestos, apenas el 2,8 %, tomó una decisión diferente. En lugar de
+
+96
+00:08:50,159 --> 00:08:56,240
+sufrir la competencia, decidieron integrarla. Trabajaron codo con codo y cofirmaron
+
+97
+00:08:56,240 --> 00:10:02,000
+investigaciones con los emigrantes. E imaginen: para este grupo restringido, la caída del rendimiento nunca
+
+98
+00:10:02,000 --> 00:10:07,759
+ocurrió. Unirse a la nueva ola demostró ser el único antídoto real para sobrevivir al
+
+99
+00:10:07,759 --> 00:10:14,679
+desplazamiento. Todo esto nos deja con un interrogante enorme. Cuando las puertas se abren y una ola de
+
+100
+00:10:14,679 --> 00:10:20,120
+fuera de serie inunda el mercado, las dinámicas que siguen son complejas, contraintuitivas y,
+
+101
+00:10:20,120 --> 00:10:25,679
+por tanto, la pregunta final queda: ¿la entrada masiva de genios en un sistema actúa realmente como acelerador
+
+102
+00:10:25,679 --> 00:10:31,120
+absoluto para el progreso global, o los cuellos de botella y recursos limitados del mundo académico terminan
+
+103
+00:10:31,120 --> 00:10:35,919
+simplemente por sustituir el talento que ya existía? Es un enigma profundo y, yo diría,
+
+104
+00:10:35,919 --> 00:10:39,480
+extraordinariamente actual. A todos nos quedan las debidas reflexiones.

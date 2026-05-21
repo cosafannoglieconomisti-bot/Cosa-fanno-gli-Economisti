@@ -1,0 +1,327 @@
+1
+00:00:00,000 --> 00:00:05,080
+So let's face it, few things in the world manage to ignite national passions like
+
+2
+00:00:05,080 --> 00:00:10,240
+sports, and in particular football; it's a feeling we all know, right? From the
+
+3
+00:00:10,240 --> 00:00:15,679
+most die-hard fan to politicians. But, if this collective passion, this fever
+
+4
+00:00:15,679 --> 00:00:21,879
+that grips us all, could do much more than just fill stadiums, and if it could literally
+
+5
+00:00:21,879 --> 00:00:23,559
+build a nation?
+
+6
+00:00:23,559 --> 00:00:30,439
+Yes, I know, the question might seem absurd, almost crazy: can a football match,
+
+7
+00:00:30,439 --> 00:00:36,439
+no matter how important it is, really have a real, concrete impact on violence, on the ethnic
+
+8
+00:00:36,439 --> 00:00:42,239
+divisions that, unfortunately, split so many countries? Well, hold on tight, because a
+
+9
+00:00:42,239 --> 00:00:47,780
+revolutionary study investigated just this in sub-Saharan Africa, and the results, well, are
+
+10
+00:00:47,780 --> 00:00:53,539
+nothing short of astounding. And let's start right away with the first data point that, honestly, leaves one
+
+11
+00:00:53,539 --> 00:00:58,719
+speechless. Researchers discovered something incredible. People interviewed right
+
+12
+00:00:58,719 --> 00:01:05,140
+after a major victory for their national team were 37% less likely
+
+13
+00:01:05,140 --> 00:01:11,780
+to say "I belong to this ethnic group" instead of saying "I belong to this nation."
+
+14
+00:01:11,780 --> 00:01:16,939
+Think about it for a moment, it's a huge, profound shift in a person's identity.
+
+15
+00:01:16,939 --> 00:01:22,340
+And watch out, because this isn't just a feeling, it doesn't just stay in people's
+
+16
+00:01:22,340 --> 00:01:27,900
+heads. No, no, it turns into something real and tangible. Look here. The countries
+
+17
+00:01:27,900 --> 00:01:32,859
+that managed to qualify by a whisker for the Africa Cup of Nations saw in the following months
+
+18
+00:01:32,859 --> 00:01:37,819
+9% fewer civil conflicts. Compared to whom? Compared to those countries that were
+
+19
+00:01:37,820 --> 00:01:43,500
+narrowly eliminated; less violence, literally, thanks to football. The question at this point
+
+20
+00:01:43,500 --> 00:01:50,460
+is just one: how on earth is this possible? Okay, let's go in order and start from the beginning,
+
+21
+00:01:50,460 --> 00:01:55,420
+changing minds and hearts. How can you even think of measuring a change
+
+22
+00:01:55,420 --> 00:02:00,860
+so deep, so intimate, as a person's identity? It seems almost impossible,
+
+23
+00:02:00,860 --> 00:02:05,280
+right? And yet the key to everything lies in a methodology that is as simple as it is,
+
+24
+00:02:05,280 --> 00:02:11,560
+in my opinion, brilliant. Now, the data source is fundamental for the credibility of all
+
+25
+00:02:11,560 --> 00:02:16,560
+this. We are talking about the Afrobarometer. It's not just any survey; it's a
+
+26
+00:02:16,560 --> 00:02:21,740
+massive, highly respected research project that for years has been listening to the opinions of citizens across
+
+27
+00:02:21,740 --> 00:02:27,319
+Africa on thousands of topics. And among the many questions, there was a very specific one
+
+28
+00:02:27,319 --> 00:02:32,080
+that is the heart of this first part of the analysis: Do you feel more attached to your nation
+
+29
+00:02:32,080 --> 00:02:37,680
+or to your ethnic group? And this is where the stroke of genius comes in. Researchers took advantage of
+
+30
+00:02:37,680 --> 00:02:42,360
+something seemingly trivial: randomness. The randomness of when the
+
+31
+00:02:42,360 --> 00:02:47,080
+interviews were conducted. In practice, they took responses from people from the same country,
+
+32
+00:02:47,080 --> 00:02:52,439
+of the same ethnicity, interviewed, say, on Tuesday, before the crucial match. And they
+
+33
+00:02:52,439 --> 00:02:57,140
+compared them with the responses of practically identical people, but interviewed on Thursday after the
+
+34
+00:02:57,140 --> 00:03:03,180
+match. You see, the only true, major difference between these two groups of people was just
+
+35
+00:03:03,180 --> 00:03:09,660
+one thing: having experienced the euphoria of victory together. Well, now that we've seen the effect
+
+36
+00:03:09,660 --> 00:03:15,220
+on the individual, let's look up, moving from the stadium and the individual to
+
+37
+00:03:15,220 --> 00:03:20,820
+peace and the national level. The question becomes even bigger: how do you prove that a
+
+38
+00:03:20,819 --> 00:03:26,180
+sporting qualification can seriously reduce violence? Here too, the solution
+
+39
+00:03:26,180 --> 00:03:31,419
+was ingenious; they used what is called a "natural experiment" in technical jargon. The idea,
+
+40
+00:03:31,419 --> 00:03:37,419
+in essence, is this: comparing very, very similar countries that played for
+
+41
+00:03:37,419 --> 00:03:43,099
+everything, qualification until the very last breath. On one side, we have the teams that
+
+42
+00:03:43,099 --> 00:03:48,299
+made it by a whisker, triggering a crazy wave of euphoria and national unity. On the other side,
+
+43
+00:03:48,300 --> 00:03:53,740
+those teams excluded by nothing, a detail, a goal difference, a cursed last-minute
+
+44
+00:03:53,740 --> 00:03:59,580
+goal. You see the point: victory and defeat, in these cases, are almost random, and this allows
+
+45
+00:03:59,580 --> 00:04:04,820
+for a clean, almost perfect comparison between the effect of joy and that of disappointment.
+
+46
+00:04:04,820 --> 00:04:10,740
+But let's look at a concrete example to understand exactly what we're talking about. Let's go back in time,
+
+47
+00:04:10,740 --> 00:04:17,019
+qualifiers for the 2012 Africa Cup of Nations. We're in Group A, it's the final day, and the
+
+48
+00:04:17,019 --> 00:04:25,019
+tension is sky-high. Look at the standings. Mali with nine points, Zimbabwe with 8, Cape Verde with 7, only
+
+49
+00:04:25,019 --> 00:04:31,459
+one of them will move forward, one single spot for three nations. And so here's what happens on the pitch: Cape Verde
+
+50
+00:04:31,459 --> 00:04:37,620
+does its part and beats Zimbabwe 2-1. Meanwhile, in a twist, Mali, who were the favorites,
+
+51
+00:04:37,620 --> 00:04:43,779
+are only drawing 2-2 against Liberia, who were already eliminated. Can you imagine the tension,
+
+52
+00:04:43,780 --> 00:04:49,740
+the radios on, the calculations done in real-time. And so we arrive at the final standings. Look,
+
+53
+00:04:49,740 --> 00:04:56,180
+Mali and Cape Verde both finish with 10 points, tied on points, but who goes through? Mali goes through on
+
+54
+00:04:56,180 --> 00:05:01,820
+goal difference. A single, measly goal separated the ecstasy of an entire nation from the disappointment
+
+55
+00:05:01,820 --> 00:05:07,900
+of two others. And here is the key point: it is precisely this thin, almost random margin that
+
+56
+00:05:07,900 --> 00:05:12,660
+allowed researchers to say, okay, the effect we're measuring is precisely that of victory
+
+57
+00:05:12,660 --> 00:05:18,900
+and nothing else. Okay, so far we've seen that the effect is real, it can be measured, but
+
+58
+00:05:18,900 --> 00:05:24,860
+now comes perhaps the most interesting question of all. Why? Why does it work, what are
+
+59
+00:05:24,860 --> 00:05:29,100
+the mechanisms, the psychological and social triggers, that a simple football match manages
+
+60
+00:05:29,100 --> 00:05:35,540
+to trigger with such overwhelming force? Well, research tells us something important.
+
+61
+00:05:35,540 --> 00:05:41,620
+Beware, not all victories are equal. The effect, for instance, is almost zero for friendlies,
+
+62
+00:05:41,620 --> 00:05:47,300
+but it explodes, becoming very powerful, for the matches that count, the "do or die" ones. And the effect
+
+63
+00:05:47,300 --> 00:05:52,780
+is even stronger if you beat a long-time, historical rival, but that's not all. There's another
+
+64
+00:05:52,780 --> 00:05:58,020
+crazy data point. The impact is greater when the national team is a mix of different ethnicities because it becomes
+
+65
+00:05:58,020 --> 00:06:03,100
+a living example, a model of how people can work together. And finally, the most
+
+66
+00:06:03,100 --> 00:06:08,620
+powerful victories are the unexpected ones, the David vs. Goliath wins, and those that happen
+
+67
+00:06:08,620 --> 00:06:14,100
+in countries where the state might be a bit weaker, a bit less present. And all this brings us
+
+68
+00:06:14,100 --> 00:06:19,500
+to the heart of the matter, to the bigger meaning. Here we're not just talking about football, obviously,
+
+69
+00:06:19,500 --> 00:06:25,260
+we're talking about how a national identity is built, and the fundamental idea, the key concept,
+
+70
+00:06:25,260 --> 00:06:31,460
+is that of the "imagined community", a term coined by a great historian, Benedict Anderson. There is a
+
+71
+00:06:31,460 --> 00:06:36,820
+phrase quoted in the study by another historian, Eric Hobsbawm, which I think explains it
+
+72
+00:06:36,820 --> 00:06:43,220
+perfectly. It goes like this: the imagined community of millions of people seems more real as a
+
+73
+00:06:43,220 --> 00:06:50,260
+team of 11 named people. Think about it: the nation is a huge, abstract idea, almost impossible
+
+74
+00:06:50,260 --> 00:06:55,940
+to grasp, but a team—11 people with a name, a face, a story—that is indeed
+
+75
+00:06:55,939 --> 00:07:02,100
+real. It makes it concrete; in that moment of cheering, every single person feels like part of something
+
+76
+00:07:02,100 --> 00:07:07,779
+larger, becoming almost a small piece of that nation. So we come to the crucial point.
+
+77
+00:07:07,779 --> 00:07:13,939
+If an experience so intensely emotional and collective as a football match can, even
+
+78
+00:07:13,939 --> 00:07:19,699
+temporarily, overcome deep divisions and reduce violence, well, this opens
+
+79
+00:07:19,699 --> 00:07:24,180
+an incredible window of opportunity. And it leaves us with a question that goes far beyond sport,
+
+80
+00:07:24,180 --> 00:07:29,540
+a fundamental question: what other shared experiences can we create, what other moments can
+
+81
+00:07:29,540 --> 00:07:34,900
+have this unifying power, and above all, how can we use them to build communities that
+
+82
+00:07:34,900 --> 00:07:37,019
+are truly more united and more peaceful.
