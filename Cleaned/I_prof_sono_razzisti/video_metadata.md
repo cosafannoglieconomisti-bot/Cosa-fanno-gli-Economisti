@@ -1,12 +1,18 @@
-# Metadati Video - I prof sono razzisti?
+# Metadati Video - I_prof_sono_razzisti
 
 ## Descrizione YouTube
 Lo studio "Revealing Stereotypes: Evidence from Immigrants in Schools" di Alesina, Carlana, La Ferrara, Pinotti, pubblicato su American Economic Review nel 2024, Gli insegnanti sono davvero imparziali? Uno studio rivoluzionario rivela come i pregiudizi inconsci penalizzino gli studenti immigrati nelle scuole italiane e come la consapevolezza individuale possa abbattere le discriminazioni.
 
+
+📺 GUARDA ANCHE:
+► Basta_un_Coinquilino_per_Cambiare_il_Tuo_Futuro: https://www.youtube.com/watch?v=LGoIyQXV5As
+► I_costi_dell_aborto_negato: https://www.youtube.com/watch?v=kdFA7y9TGYo
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
+
 ⏰ Fonte: ►► https://doi.org/10.1257/aer.20191184
 
 ⏰ISCRIVITI al canale ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1
-
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ⏰ INDICE CONTENUTI ⏰

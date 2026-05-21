@@ -1,12 +1,18 @@
-# Metadati Video - Network criminali: quanto rendono davvero?
+# Metadati Video - Network_criminali_quanto_rendono_davvero
 
 ## Descrizione YouTube
 Lo studio "The Value of Connections: Evidence from the Italian-American Mafia" di Giovanni Mastrobuoni, pubblicato su The Economic Journal nel 2015, analizza come la posizione all'interno del network criminale influenzi il successo economico degli affiliati, utilizzando dati declassificati sui mafiosi americani degli anni '50 e '60.
 
+
+📺 GUARDA ANCHE:
+► Carceri_piene_o_strade_sicure: https://www.youtube.com/watch?v=blcm0GpMLxs
+► La_Mafia_e_nata_in_miniera: https://www.youtube.com/watch?v=XjV1aqltp1E
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
+
 ⏰ Fonte: ►► https://doi.org/10.1111/ecoj.12234
 
 ⏰ISCRIVITI al canale ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1
-
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ⏰ INDICE CONTENUTI ⏰
@@ -29,4 +35,3 @@ CosaFannoGliEconomisti, RicercaAccademica, Mafia, Giovanni Mastrobuoni, The Econ
 - Video Cleaned: OK
 - Indice Whisper: OK
 - Sottotitoli (SRT/VTT): OK
-

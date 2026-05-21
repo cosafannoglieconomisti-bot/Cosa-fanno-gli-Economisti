@@ -1,0 +1,650 @@
+--- SHORT_ID: TE2601I7Y1c ---
+0:00:00.280,0:00:04.080
+Può la fede in Dio o l'autorità
+0:00:02.120,0:00:06.200
+religiosa in generale arrivare a
+0:00:04.080,0:00:08.400
+ostacolare lo sviluppo della democrazia?
+0:00:06.200,0:00:10.320
+Sembra quasi una provocazione, vero?
+0:00:08.400,0:00:12.440
+Beh, una ricerca storica molto
+0:00:10.320,0:00:16.160
+particolare ci dà una risposta che ha
+0:00:12.440,0:00:16.160
+del sorprendente.
+
+--- SHORT_ID: DSucrUBXJws ---
+0:00:00.199,0:00:04.480
+Da una parte abbiamo l'agricoltura fatta
+0:00:02.159,0:00:06.919
+con la zappa. Serve meno forza fisica,
+0:00:04.480,0:00:08.920
+si può smettere e riprendere facilmente.
+0:00:06.919,0:00:10.960
+Insomma è un lavoro compatibile con la
+0:00:08.920,0:00:12.719
+cura dei figli. Uomini e Donne lì
+0:00:10.960,0:00:15.759
+potevano partecipare più o meno alla
+0:00:12.719,0:00:17.840
+pari. Poi arriva l'aratro e qui, beh,
+0:00:15.759,0:00:19.760
+cambia tutto. L'aratro richiede una
+0:00:17.840,0:00:21.840
+forza fisica notevole, soprattutto nella
+0:00:19.760,0:00:23.880
+parte alta del corpo e poi bisogna
+0:00:21.840,0:00:25.400
+gestire animali da tiro. Impossibile
+0:00:23.880,0:00:27.240
+farlo mentre si occupa dei bambini
+0:00:25.400,0:00:29.480
+piccoli. Ed è qui che nasce una
+0:00:27.240,0:00:31.920
+specializzazione quasi naturale per
+0:00:29.480,0:00:35.719
+l'epoca. Gli uomini nei campi, le donne
+0:00:31.920,0:00:35.719
+a casa. Ed è questo il punto.
+
+--- SHORT_ID: k4qDIQIPtBo ---
+WEBVTT
+Kind: captions
+Language: it
+Era<00:00:00.440><c> il</c><00:00:00.840><c> 1961</c><00:00:01.959><c> quando</c><00:00:02.159><c> il</c><00:00:02.360><c> grande</c><00:00:02.639><c> scrittore</c>
+Era il 1961 quando il grande scrittore
+Era il 1961 quando il grande scrittore
+siciliano<00:00:03.600><c> Leonardo</c><00:00:04.120><c> Shasha</c><00:00:04.759><c> parlava</c><00:00:05.160><c> di</c>
+siciliano Leonardo Shasha parlava di
+siciliano Leonardo Shasha parlava di
+questa<00:00:05.680><c> linea</c><00:00:06.040><c> della</c><00:00:06.279><c> palma</c><00:00:06.600><c> che</c><00:00:06.759><c> si</c><00:00:06.879><c> spostava</c>
+questa linea della palma che si spostava
+questa linea della palma che si spostava
+verso<00:00:07.600><c> nord.</c><00:00:08.400><c> Sembra</c><00:00:08.679><c> una</c><00:00:08.840><c> metafora</c><00:00:09.280><c> sul</c>
+verso nord. Sembra una metafora sul
+verso nord. Sembra una metafora sul
+clima,<00:00:09.960><c> ma</c><00:00:10.120><c> era</c><00:00:10.360><c> molto</c><00:00:10.679><c> molto</c><00:00:10.920><c> di</c><00:00:11.080><c> più.</c><00:00:11.599><c> Con</c>
+clima, ma era molto molto di più. Con
+clima, ma era molto molto di più. Con
+una<00:00:11.920><c> lucidità</c><00:00:12.400><c> quasi</c><00:00:12.679><c> spaventosa</c><00:00:13.360><c> stava</c>
+una lucidità quasi spaventosa stava
+una lucidità quasi spaventosa stava
+prevedendo<00:00:14.080><c> l'espansione</c><00:00:14.679><c> della</c>
+prevedendo l'espansione della
+prevedendo l'espansione della
+criminalità<00:00:15.559><c> organizzata</c><00:00:16.400><c> dalle</c><00:00:16.640><c> sue</c><00:00:16.800><c> radici</c>
+criminalità organizzata dalle sue radici
+criminalità organizzata dalle sue radici
+nel<00:00:17.279><c> Sud</c><00:00:17.560><c> Italia</c><00:00:17.880><c> fino</c><00:00:18.080><c> al</c><00:00:18.240><c> cuore</c><00:00:18.520><c> pulsante</c>
+nel Sud Italia fino al cuore pulsante
+nel Sud Italia fino al cuore pulsante
+dell'economia<00:00:19.640><c> del</c><00:00:19.840><c> Nord.</c><00:00:20.320><c> M.</c>
+
+--- SHORT_ID: jxrA4RvsaPc ---
+WEBVTT
+Kind: captions
+Language: it
+L'idea<00:00:00.760><c> che</c><00:00:01.079><c> le</c><00:00:01.319><c> storie</c><00:00:01.680><c> della</c><00:00:01.920><c> buonanotte,</c>
+L'idea che le storie della buonanotte,
+L'idea che le storie della buonanotte,
+quelle<00:00:03.080><c> popolate</c><00:00:03.520><c> da</c><00:00:03.719><c> volpi</c><00:00:04.080><c> furbe,</c><00:00:04.600><c> eroi</c><00:00:05.040><c> e</c>
+quelle popolate da volpi furbe, eroi e
+quelle popolate da volpi furbe, eroi e
+mostri,<00:00:06.120><c> possano</c><00:00:06.520><c> avere</c><00:00:06.799><c> a</c><00:00:06.960><c> che</c><00:00:07.080><c> fare</c><00:00:07.319><c> con</c><00:00:07.520><c> il</c>
+mostri, possano avere a che fare con il
+mostri, possano avere a che fare con il
+prodotto<00:00:08.240><c> interno</c><00:00:08.559><c> lordo</c><00:00:08.920><c> di</c><00:00:09.040><c> un</c><00:00:09.200><c> paese,</c><00:00:09.880><c> beh,</c>
+prodotto interno lordo di un paese, beh,
+prodotto interno lordo di un paese, beh,
+una<00:00:10.559><c> ricerca</c><00:00:11.000><c> davvero</c><00:00:11.400><c> sorprendente</c>
+una ricerca davvero sorprendente
+una ricerca davvero sorprendente
+suggerisce<00:00:12.840><c> che</c><00:00:13.000><c> questa</c><00:00:13.280><c> connessione</c><00:00:13.880><c> non</c>
+suggerisce che questa connessione non
+suggerisce che questa connessione non
+solo<00:00:14.360><c> c'è,</c><00:00:14.920><c> ma</c><00:00:15.080><c> è</c><00:00:15.240><c> molto</c><00:00:15.480><c> più</c><00:00:15.639><c> forte</c><00:00:15.920><c> di</c><00:00:16.080><c> quanto</c>
+solo c'è, ma è molto più forte di quanto
+solo c'è, ma è molto più forte di quanto
+potremmo<00:00:16.720><c> mai</c><00:00:16.920><c> pensare.</c><00:00:17.320><c> Right.</c>
+
+--- SHORT_ID: SpgBjx6hiH4 ---
+È una domanda che ci siamo fatti tutti
+studiando storia, no? Ma è stata davvero
+la paura della rivoluzione, la famosa
+paura rossa a spianare la strada a
+Mussolini? Beh, per decenni gli storici
+ne hanno discusso. Oggi però facciamo
+qualcosa di diverso.
+
+--- SHORT_ID: 1qdybzlRfCc ---
+Perché i giornali stanno scomparendo?
+Sembra una domanda con una risposta
+facile, no? Internet ovviamente, ma la
+verità, come vedremo insieme in questa
+analisi, è molto molto più complicata e
+anche più sorprendente. La prima cosa
+che viene in mente a tutti è dare la
+colpa a internet. è quasi un riflesso
+condizionato. E se invece le radici di
+questa crisi affondassero in un'epoca in
+cui il digitale era pura fantascienza,
+se la vera causa fosse una dinamica
+economica nata molto prima
+
+--- SHORT_ID: _g_BKiot5_0 ---
+Immaginate la scena. Tra la fine
+dell'occento e l'inizio del 9 più di 4
+milioni di italiani lasciano tutto e
+attraversano l'oceano. Arrivano in
+un'America che è quasi interamente
+protestante e si portano dietro non solo
+le valigie, ma una cosa importantissima,
+la loro fede cattolica. E la Chiesa
+ovviamente non è rimasta a guardare.
+Anzi, personaggi come Papa Leone X e il
+vescovo Scalabrini, di cui leggiamo qui
+le parole, si sono dati da fare.
+L'obiettivo era chiarissimo, fondare
+delle parrocchie per questi nuovi
+arrivati. Certo, per dare supporto sia
+spirituale che materiale, ma soprattutto
+per proteggere la cultura e la fede
+italiana in un mondo che spesso li
+vedeva come strani.
+
+--- SHORT_ID: pgAn6mnOoxA ---
+Allora, razzismo e politica, due parole
+che sentiamo spessissimo insieme. Ma
+esiste un legame reale che si può
+misurare? Insomma, è davvero possibile
+dimostrare, dati alla mano, che le
+parole di un leader politico possono
+cambiare le azioni della polizia per
+strada? In questa analisi vedremo
+insieme una ricerca che ha provato a
+fare esattamente
+
+--- SHORT_ID: D-j41dR110M ---
+Ma il carcere come riduce il crimine?
+Funziona perché, sai, spaventa le
+persone, le scoraggia dal commettere
+reati o la sua efficacia è molto più
+terra a terra, molto più pratica? Cioè,
+semplicemente chi è dentro non può
+delinquere fuori. È un bel dilemma, no?
+Yeah.
+
+--- SHORT_ID: Hi5IYPlJmkY ---
+Pensate al Messico, in genere vengono in
+mente due cose, i narcos petrolio. Ma se
+vi dicessi che una guerra contro i primi
+ha finito per scatenare un'industria
+criminale completamente nuova, basata
+sul secondo, com'è possibile che la
+lotta alla droga abbia creato una nuova
+generazione di pirati degli oleotti?
+Beh, la risposta è una lezione
+sorprendente di economia criminale.
+
+--- SHORT_ID: rcHDZvJ91Pg ---
+Cosa succede al gioco, alla performance
+dei calciatori quando la pressione
+assordante, l'incoraggiamento, ma anche
+gli insulti dei tifosi svaniscono nel
+nullo. La pandemia, nella sua tragicità,
+ha creato un gigantesco involontario
+esperimento naturale. Per la prima volta
+nella storia si è potuto misurare
+l'impatto reale del pubblico, isolando
+un fattore che di solito è una costante.
+Non puoi toglierlo, è sempre lì, tranne
+quella volta.
+
+--- SHORT_ID: 6VVXlgYa7jo ---
+La fiducia è un po' come l'olio che fa
+girare gli ingranaggi di una società,
+no? Permette il commercio, fa funzionare
+le istituzioni, costruisce le comunità.
+Ma cosa succede se per secoli, e dico
+secoli, una forza esterna arriva e
+distrugge sistematicamente proprio
+questo legame fondamentale? Cosa ne
+resta oggi?
+
+--- SHORT_ID: GdFZMvtHLbo ---
+Sentite questa frase attribuita a un
+direttore d'orchestra famosissimo come
+Zubeta. Semplicemente non penso che le
+donne dovrebbero stare in un'orchestra
+forte, eh. Questo ci dà proprio l'idea
+del clima che si respirava all'epoca.
+C'erano dei pregiudizi, a volte detti
+apertemente, altre volte magari
+inconsciurò,
+un ostacolo invisibile che il talento da
+solo, evidentemente non riusciva a
+superare. E proprio per cercare di
+abbattere questo muro, tra gli anni 70 e
+80 succede qualcosa. Viene introdotto un
+elemento che vi assicuro, cambia
+completamente le regole del gioco. Un
+oggetto semplicissimo che diventa il
+nostro indizio chiave, la nostra pistola
+fumante.
+
+--- SHORT_ID: TkBdxKizXBw ---
+Immaginiamo per un attimo due studenti,
+uno italiano e un immigrato, che in un
+test uguale per tutti e soprattutto
+anonimo prendono esattamente lo stesso
+punteggio. La domanda è alla fine il
+loro insegnante darà entrambi lo stesso
+voto? Beh, la risposta come stiamo per
+scoprire non è così semplice.
+
+--- SHORT_ID: U3GRvQR612Q ---
+In caso di disoccupazione, chi deve
+garantire la sicurezza economica? Lo
+Stato o l'individuo? Beh, le risposte
+hanno rivelato una spaccatura
+nettissima. Gli ex tedeschi dell'Est
+mostrano una preferenza schiacciante per
+un intervento forte dello Stato, mentre
+all'ovest c'è una tendenza maggiore a
+fare affidamento su soluzioni private o
+individuali. E attenzione, non è un caso
+isolato. Questo schema si ripete
+praticamente ovunque. Parliamo di
+sanità, stessa storia. Assistenza agli
+anziani uguale sostegno alle famiglie
+idem. Emerge un modello coerente.
+
+--- SHORT_ID: eO0DCsYr6PA ---
+La crisi del debito ha creato quella che
+potremmo chiamare la tempesta perfetta.
+La Grecia era al tappeto e la Germania,
+in quanto creditore principale, premeva
+per un'osterità durissima. Lo scontro è
+diventato subito velenoso. Da una parte
+la stampa tedesca che dipingeva i greci,
+come cito, pigri e imbroglioni,
+dall'altra i manifestanti ad Atene che
+rispondevano disegnando la svastica
+sulla Merkel. In questo clima rovente,
+cosa succede? partono gli appelli al
+boicottaggio dei prodotti tedeschi. E
+qual è il prodotto tedesco per
+eccellenza?
+
+--- SHORT_ID: -YELM0HZQ40 ---
+Per stare tranquilli quando saremo
+anziani, cos'è meglio? Contare sui
+propri figli, sulla famiglia oppure
+affidarsi allo stato a una pensione
+pubblica? La risposta ovviamente è molto
+meno semplice.
+
+--- SHORT_ID: TE2601I7Y1c ---
+Può la fede in Dio o l'autorità
+religiosa in generale arrivare a
+ostacolare lo sviluppo della democrazia?
+Sembra quasi una provocazione, vero?
+Beh, una ricerca storica molto
+particolare ci dà una risposta che ha
+del sorprendente.
+
+--- SHORT_ID: Og-odPugBgQ ---
+Per le donne significa più rischi per la
+salute e meno opportunità economiche.
+Per i loro figli che già esistono,
+significa un futuro più incerto, con
+meno scuola e più lavoro. È un vero e
+proprio ciclo di svantaggi che si passa
+da una generazione all'altra. M.
+
+--- SHORT_ID: jxrA4RvsaPc ---
+L'idea che le storie della buonanotte,
+quelle popolate da volpi furbe, eroi e
+mostri, possano avere a che fare con il
+prodotto interno lordo di un paese, beh,
+una ricerca davvero sorprendente
+suggerisce che questa connessione non
+solo c'è, ma è molto più forte di quanto
+potremmo mai pensare. Right.
+
+--- SHORT_ID: J3Vj4cAL4cE ---
+La rabbia che nasce da uno scandalo di
+corruzione non è un'emozione passeggera
+come quella per una partita. è una
+ferita morale, una cosa più profonda che
+va a intaccare la nostra volontà di
+seguire le regole, anche quelle più
+piccole, come essere unasti alla cassa
+del supermercato. E tutto questo ci
+lascia con una domanda finale che è
+piuttosto pesante. Se questo è l'effetto
+che si può misurare su un gesto così
+piccolo e quotidiano, quale sarà mai il
+vero costo nascosto della corruzione per
+un'intera società? Va ben oltre i soldi
+rubati. È un costo che si paga in
+fiducia, in senso civico e alla fine
+nella nostra stessa idea di cosa sia
+giusto e cosa sia sbagliato.
+
+--- SHORT_ID: 2soQGo7N-_k ---
+Anni 80, boom, in Italia esplode la TV
+commerciale di Mediaset. Per un decennio
+il menù è uno e uno solo, puro
+intrattenimento. E qui, attenzione,
+arriva la svolta. Nel 1991 Mediaset
+accende i suoi telegiornali. Passano
+appena 3 anni e quasi dal nulla il suo
+fondatore Silvio Berlusconi vince
+lezioni. Una coincidenza? O forse, ma
+solo forse, c'era qualcosa nell'etere.
+
+--- SHORT_ID: DSucrUBXJws ---
+Da una parte abbiamo l'agricoltura fatta
+con la zappa. Serve meno forza fisica,
+si può smettere e riprendere facilmente.
+Insomma è un lavoro compatibile con la
+cura dei figli. Uomini e Donne lì
+potevano partecipare più o meno alla
+pari. Poi arriva l'aratro e qui, beh,
+cambia tutto. L'aratro richiede una
+forza fisica notevole, soprattutto nella
+parte alta del corpo e poi bisogna
+gestire animali da tiro. Impossibile
+farlo mentre si occupa dei bambini
+piccoli. Ed è qui che nasce una
+specializzazione quasi naturale per
+l'epoca. Gli uomini nei campi, le donne
+a casa. Ed è questo il punto.
+
+--- SHORT_ID: 16GHafTZ5-4 ---
+Il punto, quindi, non è che lo status
+legale cambi magicamente le persone, il
+punto è che lo status legale dà accesso
+a delle opportunità e l'accesso a un
+lavoro dignitoso e stabile cambia
+radicalmente il calcolo dei costi e dei
+benefici di un'azione illegale. E allora
+la conclusione ci lascia con una
+riflessione importante. Se la chiave per
+ridurre un certo tipo di criminalità è
+offrire opportunità economiche concrete,
+allora questo cosa significa per le
+politiche migratorie? Forse le politiche
+di integrazione nel mercato del lavoro
+non sono solo politiche sociali, ma
+potrebbero essere tra le più efficaci
+politiche di sicurezza che abbiamo. un
+punto su cui probabilmente vale la pena
+riflettere a lungo.
+
+--- SHORT_ID: RCcIxMaYmIw ---
+Perché la mafia è così radicata in certe
+zone della Sicilia è quasi inesistente
+in altre? Dimentichiamoci per un attimo
+i soliti cliché. La mafia non è un'ombra
+che copre uniformemente tutta l'isola.
+Per niente. La sua mappa è a macchia di
+leopardo, un vero e proprio rompicapo.
+Com'è possibile che alcune province
+siano diventate delle fortezze mafiose,
+mentre altre ne sono rimaste quasi
+
+--- SHORT_ID: -LJwjNCwqbc ---
+I paesi che sono riusciti a qualificarsi
+per un soffio alla Coppa d'Africa hanno
+visto nei mesi successivi il 9% in meno
+di conflitti civili. Rispetto a chi?
+rispetto a quei paesi che sono stati
+eliminati per un pelo, meno violenza,
+letteralmente grazie al calcio.
+
+--- SHORT_ID: k4qDIQIPtBo ---
+Era il 1961 quando il grande scrittore
+siciliano Leonardo Shasha parlava di
+questa linea della palma che si spostava
+verso nord. Sembra una metafora sul
+clima, ma era molto molto di più. Con
+una lucidità quasi spaventosa stava
+prevedendo l'espansione della
+criminalità organizzata dalle sue radici
+nel Sud Italia fino al cuore pulsante
+dell'economia del Nord. M.
+
+--- SHORT_ID: PR3IQI-eybg ---
+Perché pensiamo questo? Beh, la teoria
+classica si poggia su tre idee
+principali. La prima è semplice,
+l'avidità. Il petrolio vale un sacco di
+soldi. È un premio talmente grosso che
+vale la pena combattere per averlo. Poi
+c'è il risentimento. Immagina, pochi si
+arricchiscono a dismisura e tutti gli
+altri restano indietro. Ovvio che la
+rabbia e l'attenzione sociale esplodono.
+E infine il terzo punto, lo Stato
+diventa debole. Un governo che nuota nel
+denaro del petrolio non ha bisogno di
+tassare i cittadini e se non ti tassa
+non ha bisogno di costruire istituzioni
+forti, trasparenti. diventa un guscio
+vuoto, un bersaglio facile.
+
+--- SHORT_ID: M_4e4I_ql8U ---
+Quindi entriamo nel vivo del mistero del
+declino italiano e non si tratta di una
+semplice domanda accademica, eh è un
+vero e proprio enigma storico che ha
+lasciato perplesse gli studiosi per
+intere generazioni. Il contrasto è
+pazzisco a pensarci bene. Da una parte
+abbiamo l'Italia del Rinascimento, un
+motore di conoscenza e innovazione.
+Dall'altra l'Italia dei secoli
+successivi che si vede superare da nuove
+potenze intellettuali come la Gran
+Bretagna e la Germania. un vero e
+proprio sorpasso.
+
+--- SHORT_ID: _D02ygxnHGk ---
+Combattere la mafia quando si infiltra
+nella politica non è solo una questione
+di legalità, di giustizia, no, è una
+delle più efficaci politiche di sviluppo
+economico che esistono. significa
+sbloccare il potenziale di un
+territorio, far nascere aziende, creare
+lavoro vero e dare un futuro a intere
+comunità.
+
+--- SHORT_ID: TE2601I7Y1c ---
+0:00:00.280,0:00:04.080
+Può la fede in Dio o l'autorità
+0:00:02.120,0:00:06.200
+religiosa in generale arrivare a
+0:00:04.080,0:00:08.400
+ostacolare lo sviluppo della democrazia?
+0:00:06.200,0:00:10.320
+Sembra quasi una provocazione, vero?
+0:00:08.400,0:00:12.440
+Beh, una ricerca storica molto
+0:00:10.320,0:00:16.160
+particolare ci dà una risposta che ha
+0:00:12.440,0:00:16.160
+del sorprendente.
+
+--- SHORT_ID: U3GRvQR612Q ---
+WEBVTT
+Kind: captions
+Language: it
+In<00:00:00.599><c> caso</c><00:00:00.799><c> di</c><00:00:00.960><c> disoccupazione,</c><00:00:01.920><c> chi</c><00:00:02.120><c> deve</c>
+In caso di disoccupazione, chi deve
+In caso di disoccupazione, chi deve
+garantire<00:00:02.720><c> la</c><00:00:02.879><c> sicurezza</c><00:00:03.320><c> economica?</c><00:00:04.200><c> Lo</c>
+garantire la sicurezza economica? Lo
+garantire la sicurezza economica? Lo
+Stato<00:00:04.759><c> o</c><00:00:04.920><c> l'individuo?</c><00:00:05.960><c> Beh,</c><00:00:06.160><c> le</c><00:00:06.319><c> risposte</c>
+Stato o l'individuo? Beh, le risposte
+Stato o l'individuo? Beh, le risposte
+hanno<00:00:06.879><c> rivelato</c><00:00:07.279><c> una</c><00:00:07.439><c> spaccatura</c>
+hanno rivelato una spaccatura
+hanno rivelato una spaccatura
+nettissima.<00:00:09.320><c> Gli</c><00:00:09.480><c> ex</c><00:00:09.639><c> tedeschi</c><00:00:10.040><c> dell'Est</c>
+nettissima. Gli ex tedeschi dell'Est
+nettissima. Gli ex tedeschi dell'Est
+mostrano<00:00:11.000><c> una</c><00:00:11.200><c> preferenza</c><00:00:11.639><c> schiacciante</c><00:00:12.240><c> per</c>
+mostrano una preferenza schiacciante per
+mostrano una preferenza schiacciante per
+un<00:00:12.599><c> intervento</c><00:00:13.080><c> forte</c><00:00:13.360><c> dello</c><00:00:13.639><c> Stato,</c><00:00:14.240><c> mentre</c>
+un intervento forte dello Stato, mentre
+un intervento forte dello Stato, mentre
+all'ovest<00:00:15.080><c> c'è</c><00:00:15.320><c> una</c><00:00:15.480><c> tendenza</c><00:00:15.920><c> maggiore</c><00:00:16.320><c> a</c>
+all'ovest c'è una tendenza maggiore a
+all'ovest c'è una tendenza maggiore a
+fare<00:00:16.640><c> affidamento</c><00:00:17.199><c> su</c><00:00:17.400><c> soluzioni</c><00:00:17.920><c> private</c><00:00:18.320><c> o</c>
+fare affidamento su soluzioni private o
+fare affidamento su soluzioni private o
+individuali.<00:00:19.640><c> E</c><00:00:19.880><c> attenzione,</c><00:00:20.640><c> non</c><00:00:20.840><c> è</c><00:00:20.960><c> un</c><00:00:21.160><c> caso</c>
+individuali. E attenzione, non è un caso
+individuali. E attenzione, non è un caso
+isolato.<00:00:22.279><c> Questo</c><00:00:22.519><c> schema</c><00:00:22.840><c> si</c><00:00:23.000><c> ripete</c>
+isolato. Questo schema si ripete
+isolato. Questo schema si ripete
+praticamente<00:00:24.080><c> ovunque.</c><00:00:25.080><c> Parliamo</c><00:00:25.480><c> di</c>
+praticamente ovunque. Parliamo di
+praticamente ovunque. Parliamo di
+sanità,<00:00:26.439><c> stessa</c><00:00:26.880><c> storia.</c><00:00:27.640><c> Assistenza</c><00:00:28.160><c> agli</c>
+sanità, stessa storia. Assistenza agli
+sanità, stessa storia. Assistenza agli
+anziani<00:00:29.279><c> uguale</c><00:00:29.920><c> sostegno</c><00:00:30.400><c> alle</c><00:00:30.640><c> famiglie</c>
+anziani uguale sostegno alle famiglie
+anziani uguale sostegno alle famiglie
+idem.<00:00:32.320><c> Emerge</c><00:00:32.719><c> un</c><00:00:32.840><c> modello</c><00:00:33.239><c> coerente.</c>
+
+--- SHORT_ID: TkBdxKizXBw ---
+WEBVTT
+Kind: captions
+Language: it
+Immaginiamo<00:00:00.640><c> per</c><00:00:00.799><c> un</c><00:00:00.919><c> attimo</c><00:00:01.199><c> due</c><00:00:01.400><c> studenti,</c>
+Immaginiamo per un attimo due studenti,
+Immaginiamo per un attimo due studenti,
+uno<00:00:02.360><c> italiano</c><00:00:02.879><c> e</c><00:00:03.080><c> un</c><00:00:03.199><c> immigrato,</c><00:00:04.000><c> che</c><00:00:04.200><c> in</c><00:00:04.319><c> un</c>
+uno italiano e un immigrato, che in un
+uno italiano e un immigrato, che in un
+test<00:00:05.080><c> uguale</c><00:00:05.319><c> per</c><00:00:05.520><c> tutti</c><00:00:05.920><c> e</c><00:00:06.120><c> soprattutto</c>
+test uguale per tutti e soprattutto
+test uguale per tutti e soprattutto
+anonimo<00:00:07.399><c> prendono</c><00:00:07.839><c> esattamente</c><00:00:08.360><c> lo</c><00:00:08.559><c> stesso</c>
+anonimo prendono esattamente lo stesso
+anonimo prendono esattamente lo stesso
+punteggio.<00:00:09.800><c> La</c><00:00:09.920><c> domanda</c><00:00:10.240><c> è</c><00:00:10.679><c> alla</c><00:00:10.880><c> fine</c><00:00:11.360><c> il</c>
+punteggio. La domanda è alla fine il
+punteggio. La domanda è alla fine il
+loro<00:00:11.759><c> insegnante</c><00:00:12.400><c> darà</c><00:00:12.759><c> entrambi</c><00:00:13.120><c> lo</c><00:00:13.280><c> stesso</c>
+loro insegnante darà entrambi lo stesso
+loro insegnante darà entrambi lo stesso
+voto?<00:00:14.280><c> Beh,</c><00:00:14.639><c> la</c><00:00:14.879><c> risposta</c><00:00:15.360><c> come</c><00:00:15.559><c> stiamo</c><00:00:15.839><c> per</c>
+voto? Beh, la risposta come stiamo per
+voto? Beh, la risposta come stiamo per
+scoprire<00:00:16.720><c> non</c><00:00:16.920><c> è</c><00:00:17.039><c> così</c><00:00:17.279><c> semplice.</c>
+
+--- SHORT_ID: DSucrUBXJws ---
+0:00:00.199,0:00:04.480
+Da una parte abbiamo l'agricoltura fatta
+0:00:02.159,0:00:06.919
+con la zappa. Serve meno forza fisica,
+0:00:04.480,0:00:08.920
+si può smettere e riprendere facilmente.
+0:00:06.919,0:00:10.960
+Insomma è un lavoro compatibile con la
+0:00:08.920,0:00:12.719
+cura dei figli. Uomini e Donne lì
+0:00:10.960,0:00:15.759
+potevano partecipare più o meno alla
+0:00:12.719,0:00:17.840
+pari. Poi arriva l'aratro e qui, beh,
+0:00:15.759,0:00:19.760
+cambia tutto. L'aratro richiede una
+0:00:17.840,0:00:21.840
+forza fisica notevole, soprattutto nella
+0:00:19.760,0:00:23.880
+parte alta del corpo e poi bisogna
+0:00:21.840,0:00:25.400
+gestire animali da tiro. Impossibile
+0:00:23.880,0:00:27.240
+farlo mentre si occupa dei bambini
+0:00:25.400,0:00:29.480
+piccoli. Ed è qui che nasce una
+0:00:27.240,0:00:31.920
+specializzazione quasi naturale per
+0:00:29.480,0:00:35.719
+l'epoca. Gli uomini nei campi, le donne
+0:00:31.920,0:00:35.719
+a casa. Ed è questo il punto.
+
+--- SHORT_ID: k4qDIQIPtBo ---
+WEBVTT
+Kind: captions
+Language: it
+Era<00:00:00.440><c> il</c><00:00:00.840><c> 1961</c><00:00:01.959><c> quando</c><00:00:02.159><c> il</c><00:00:02.360><c> grande</c><00:00:02.639><c> scrittore</c>
+Era il 1961 quando il grande scrittore
+Era il 1961 quando il grande scrittore
+siciliano<00:00:03.600><c> Leonardo</c><00:00:04.120><c> Shasha</c><00:00:04.759><c> parlava</c><00:00:05.160><c> di</c>
+siciliano Leonardo Shasha parlava di
+siciliano Leonardo Shasha parlava di
+questa<00:00:05.680><c> linea</c><00:00:06.040><c> della</c><00:00:06.279><c> palma</c><00:00:06.600><c> che</c><00:00:06.759><c> si</c><00:00:06.879><c> spostava</c>
+questa linea della palma che si spostava
+questa linea della palma che si spostava
+verso<00:00:07.600><c> nord.</c><00:00:08.400><c> Sembra</c><00:00:08.679><c> una</c><00:00:08.840><c> metafora</c><00:00:09.280><c> sul</c>
+verso nord. Sembra una metafora sul
+verso nord. Sembra una metafora sul
+clima,<00:00:09.960><c> ma</c><00:00:10.120><c> era</c><00:00:10.360><c> molto</c><00:00:10.679><c> molto</c><00:00:10.920><c> di</c><00:00:11.080><c> più.</c><00:00:11.599><c> Con</c>
+clima, ma era molto molto di più. Con
+clima, ma era molto molto di più. Con
+una<00:00:11.920><c> lucidità</c><00:00:12.400><c> quasi</c><00:00:12.679><c> spaventosa</c><00:00:13.360><c> stava</c>
+una lucidità quasi spaventosa stava
+una lucidità quasi spaventosa stava
+prevedendo<00:00:14.080><c> l'espansione</c><00:00:14.679><c> della</c>
+prevedendo l'espansione della
+prevedendo l'espansione della
+criminalità<00:00:15.559><c> organizzata</c><00:00:16.400><c> dalle</c><00:00:16.640><c> sue</c><00:00:16.800><c> radici</c>
+criminalità organizzata dalle sue radici
+criminalità organizzata dalle sue radici
+nel<00:00:17.279><c> Sud</c><00:00:17.560><c> Italia</c><00:00:17.880><c> fino</c><00:00:18.080><c> al</c><00:00:18.240><c> cuore</c><00:00:18.520><c> pulsante</c>
+nel Sud Italia fino al cuore pulsante
+nel Sud Italia fino al cuore pulsante
+dell'economia<00:00:19.640><c> del</c><00:00:19.840><c> Nord.</c><00:00:20.320><c> M.</c>
+
+--- SHORT_ID: jxrA4RvsaPc ---
+WEBVTT
+Kind: captions
+Language: it
+L'idea<00:00:00.760><c> che</c><00:00:01.079><c> le</c><00:00:01.319><c> storie</c><00:00:01.680><c> della</c><00:00:01.920><c> buonanotte,</c>
+L'idea che le storie della buonanotte,
+L'idea che le storie della buonanotte,
+quelle<00:00:03.080><c> popolate</c><00:00:03.520><c> da</c><00:00:03.719><c> volpi</c><00:00:04.080><c> furbe,</c><00:00:04.600><c> eroi</c><00:00:05.040><c> e</c>
+quelle popolate da volpi furbe, eroi e
+quelle popolate da volpi furbe, eroi e
+mostri,<00:00:06.120><c> possano</c><00:00:06.520><c> avere</c><00:00:06.799><c> a</c><00:00:06.960><c> che</c><00:00:07.080><c> fare</c><00:00:07.319><c> con</c><00:00:07.520><c> il</c>
+mostri, possano avere a che fare con il
+mostri, possano avere a che fare con il
+prodotto<00:00:08.240><c> interno</c><00:00:08.559><c> lordo</c><00:00:08.920><c> di</c><00:00:09.040><c> un</c><00:00:09.200><c> paese,</c><00:00:09.880><c> beh,</c>
+prodotto interno lordo di un paese, beh,
+prodotto interno lordo di un paese, beh,
+una<00:00:10.559><c> ricerca</c><00:00:11.000><c> davvero</c><00:00:11.400><c> sorprendente</c>
+una ricerca davvero sorprendente
+una ricerca davvero sorprendente
+suggerisce<00:00:12.840><c> che</c><00:00:13.000><c> questa</c><00:00:13.280><c> connessione</c><00:00:13.880><c> non</c>
+suggerisce che questa connessione non
+suggerisce che questa connessione non
+solo<00:00:14.360><c> c'è,</c><00:00:14.920><c> ma</c><00:00:15.080><c> è</c><00:00:15.240><c> molto</c><00:00:15.480><c> più</c><00:00:15.639><c> forte</c><00:00:15.920><c> di</c><00:00:16.080><c> quanto</c>
+solo c'è, ma è molto più forte di quanto
+solo c'è, ma è molto più forte di quanto
+potremmo<00:00:16.720><c> mai</c><00:00:16.920><c> pensare.</c><00:00:17.320><c> Right.</c>
+

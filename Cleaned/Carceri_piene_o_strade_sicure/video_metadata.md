@@ -1,12 +1,18 @@
-# Metadati Video - Carceri piene o strade sicure?
+# Metadati Video - Carceri_piene_o_strade_sicure
 
 ## Descrizione YouTube
 Lo studio "Incarceration and Incapacitation: Evidence from the 2006 Italian Collective Pardon" di Buonanno, Raphael, pubblicato su American Economic Review nel 2013, Cosa accadrebbe se l'Italia liberasse improvvisamente un terzo dei suoi detenuti? Questo studio analizza il clamoroso indulto del 2006 per misurare quanto il carcere serva davvero a fermare i criminali e se tenerli dentro convenga sempre.
 
+
+📺 GUARDA ANCHE:
+► La_Mafia_e_nata_in_miniera: https://www.youtube.com/watch?v=XjV1aqltp1E
+► La_corruzione_ci_rende_tutti_più_ladri_aejapp_2023: https://www.youtube.com/watch?v=Fa27rfGRweY
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
+
 ⏰ Fonte: ►► http://dx.doi.org/10.1257/aer.103.6.2437
 
 ⏰ISCRIVITI al canale ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1
-
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ⏰ INDICE CONTENUTI ⏰

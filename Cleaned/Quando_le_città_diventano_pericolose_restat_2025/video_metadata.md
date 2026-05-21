@@ -1,8 +1,10 @@
-# Quando le città diventano pericolose: l'assurdo legame tra chimica e società
+# Metadati Video - Quando_le_città_diventano_pericolose_restat_2025
 
 ## Descrizione YouTube
 
 Lo studio "Flight from Urban Blight: Lead Poisoning, Crime, and Suburbanization" di Federico Curci e Federico Masera, pubblicato su *The Review of Economics and Statistics* nel 2025, analizza l'effetto dell'aumento della criminalità violenta nelle città sull'esodo verso le periferie. I ricercatori cercano di rispondere a una domanda fondamentale: è possibile che l'esposizione al piombo nell'ambiente (dal dopoguerra agli anni '70) abbia causato un boom di criminalità nei centri urbani vent'anni dopo, spingendo milioni di persone e aziende a fuggire verso i sobborghi?
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1162/rest_a_01323
 

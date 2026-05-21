@@ -1,12 +1,18 @@
-# Metadati Video - Cervelli in fuga: un danno?
+# Metadati Video - Cervelli_in_fuga_un_danno
 
 ## Descrizione YouTube
 Lo studio "The Collapse of the Soviet Union and the Productivity of American Mathematicians" di Borjas, Doran, pubblicato su The Quarterly Journal of Economics nel 2012, Cosa succede quando i geni dell'URSS invadono improvvisamente il mercato accademico americano? Questo studio svela come l'arrivo massiccio di talenti stranieri possa paradossalmente frenare la carriera e la produttività dei ricercatori locali.
 
+
+📺 GUARDA ANCHE:
+► Dio_blocca_la_democrazia: https://www.youtube.com/watch?v=BFW6hmE5WiQ
+► I_Presidenti_mentono_sulle_tasse: https://www.youtube.com/watch?v=W2HIRNdS0aY
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
+
 ⏰ Fonte: ►► 10.1093/qje/qjs015
 
 ⏰ISCRIVITI al canale ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1
-
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ⏰ INDICE CONTENUTI ⏰

@@ -1,8 +1,10 @@
-# La corruzione ci rende tutti più ladri?
+# Metadati Video - La_corruzione_ci_rende_tutti_più_ladri_aejapp_2023
 
 ## Descrizione YouTube
 
 Lo studio "Contagious Dishonesty: Corruption Scandals and Supermarket Theft" di Giorgio Gulino e Federico Masera, pubblicato su American Economic Journal: Applied Economics nel 2023, analizza se i comportamenti disonesti siano contagiosi. Attraverso dati sui controlli causali alle casse self-service dei supermercati in Italia (salvatempo), i ricercatori cercano di rispondere a una domanda fondamentale: la notizia di uno scandalo di corruzione locale spinge i normali cittadini a sentirsi più legittimati a rubare sulla spesa?
+
+📸 Infografica completa su Instagram: https://www.instagram.com/p/DW--DrWlKtj/
 
 ⏰ Fonte: ►► https://doi.org/10.1257/app.20210446
 

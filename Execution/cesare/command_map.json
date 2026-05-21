@@ -28,5 +28,9 @@
   "copertina": [
     "/Users/marcolemoglie_1_2/Desktop/canale/.venv/bin/python3",
     "/Users/marcolemoglie_1_2/Desktop/canale/Execution/enea/generate_cover.py"
+  ],
+  "crescita": [
+    "/Users/marcolemoglie_1_2/Desktop/canale/.venv/bin/python3",
+    "/Users/marcolemoglie_1_2/Desktop/canale/Execution/romolo/crescita_orchestrator.py"
   ]
 }

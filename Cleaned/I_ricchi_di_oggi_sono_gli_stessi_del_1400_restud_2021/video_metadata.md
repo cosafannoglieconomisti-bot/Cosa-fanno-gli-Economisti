@@ -1,8 +1,10 @@
-# I ricchi di oggi sono gli stessi del 1400? La storia di Firenze
+# Metadati Video - I_ricchi_di_oggi_sono_gli_stessi_del_1400_restud_2021
 
 ## Descrizione YouTube
 
 Lo studio "Intergenerational Mobility in the Very Long Run: Florence 1427–2011" di Guglielmo Barone e Sauro Mocetti, pubblicato su *The Review of Economic Studies* nel 2021, analizza la mobilità sociale a Firenze su un arco di sei secoli. Collegando gli antenati del 1427 ai discendenti del 2011 tramite i cognomi, i ricercatori rispondono a una domanda affascinante: la ricchezza e lo status sociale persistono nel lunghissimo periodo? I risultati mostrano un'elasticità positiva e significativa per reddito e ricchezza reale, evidenziando l'esistenza di dinastie nelle professioni d'élite e persino un "glass floor" (pavimento di vetro) che protegge i ricchi dalla discesa sociale.
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1093/restud/rdaa075
 

@@ -1,12 +1,13 @@
-# Metadati Video - La TV riduce la natalità?
+# Metadati Video - La_TV_riduce_la_natalita
 
 ## Descrizione YouTube
 Lo studio "Soap Operas and Fertility: Evidence from Brazil" di La Ferrara, Chong, Duryea, pubblicato su American Economic Journal: Applied Economics nel 2012, Può la TV influenzare quante persone nascono in un intero Paese? Scopriamo come le soap opera brasiliane di Rede Globo hanno rivoluzionato i modelli familiari, portando a un drastico calo della fertilità senza alcun intervento del governo.
 
+📸 Infografica completa su Instagram: https://www.instagram.com/p/DYHETOwldbh/
+
 ⏰ Fonte: ►► http://dx.doi.org/10.1257/app.4.4.1
 
 ⏰ISCRIVITI al canale ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1
-
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ⏰ INDICE CONTENUTI ⏰

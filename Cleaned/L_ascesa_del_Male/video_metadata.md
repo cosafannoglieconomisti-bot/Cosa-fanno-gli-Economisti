@@ -1,8 +1,15 @@
-# L'ascesa del Male: Come le grandi aziende fecero affari con Hitler
+# Metadati Video - L_ascesa_del_Male
 
 ## Descrizione YouTube
 
 Lo studio "Betting on Hitler: The Value of Political Connections in Nazi Germany" di Thomas Ferguson e Hans-Joachim Voth, pubblicato su The Quarterly Journal of Economics nel 2008, analizza il valore economico delle connessioni tra le grandi aziende tedesche e il partito nazista nei mesi immediatamente successivi alla presa del potere di Hitler nel 1933, dimostrando come i mercati finanziari abbiano premiato in modo drastico e immediato i titoli azionari delle aziende collegate al nuovo regime.
+
+
+📺 GUARDA ANCHE:
+► Cervelli_in_fuga_un_danno: https://www.youtube.com/watch?v=YoEIAPvWrZI
+► Dio_blocca_la_democrazia: https://www.youtube.com/watch?v=BFW6hmE5WiQ
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://academic.oup.com/qje/article/123/1/101/1889786
 

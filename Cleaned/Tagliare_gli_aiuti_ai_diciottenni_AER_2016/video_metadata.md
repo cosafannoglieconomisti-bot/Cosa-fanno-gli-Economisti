@@ -1,8 +1,10 @@
-# Tagliare gli aiuti ai diciottenni: stimolo al lavoro o condanna economica?
+# Metadati Video - Tagliare_gli_aiuti_ai_diciottenni_AER_2016
 
 ## Descrizione YouTube
 
 Lo studio "Does Welfare Inhibit Success? The Long-Term Effects of Removing Low-Income Youth from the Disability Rolls" di Manasi Deshpande, pubblicato su *The American Economic Review* nel 2016, analizza in che misura la rimozione dei ragazzi a basso reddito e con disabilità dal programma di assistenza pubblica SSI (una volta compiuti i 18 anni) influisca sui loro guadagni e sul reddito a lungo termine. La ricerca cerca di rispondere a una domanda fondamentale: rimuovere questi sussidi stimola davvero l'ingresso e il successo nel mondo del lavoro, o si traduce semplicemente in una grave perdita economica per questi giovani adulti?
+
+📸 Infografica completa su Instagram: https://www.instagram.com/p/DYNBcIpFuK5/
 
 ⏰ Fonte: ►► https://www.aeaweb.org/articles?id=10.1257/aer.20151129
 

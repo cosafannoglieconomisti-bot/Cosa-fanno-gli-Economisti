@@ -1,6 +1,8 @@
-Lo studio "Trade, Merchants, and the Lost Cities of the Bronze Age" di Barjamovic et al., pubblicato su The Quarterly Journal of Economics nel 2019, utilizza dati commerciali assiri del XIX secolo a.C. per stimare un modello gravitazionale del commercio nell'Età del Bronzo. Attraverso questo modello, i ricercatori riescono a localizzare città perdute, confermando o sfidando congetture storiche preesistenti, e dimostrano come la geografia e le rotte di trasporto naturali determinassero già allora la dimensione e la posizione dei centri urbani.
+# Metadati Video - Le_città_perdute_dell_età_del_bronzo_qje_2019
 
 (Lasciare riga vuota)
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1093/qje/qjy031
 

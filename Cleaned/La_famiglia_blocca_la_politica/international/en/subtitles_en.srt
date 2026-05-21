@@ -1,0 +1,483 @@
+1
+00:00:00,000 --> 00:00:05,339
+Welcome, today, in this analysis, we dive into a real mystery of our
+
+2
+00:00:05,339 --> 00:00:06,339
+society.
+
+3
+00:00:06,339 --> 00:00:12,099
+Think about it for a second, why do some democracies seem to flourish, driven by huge citizen
+
+4
+00:00:12,099 --> 00:00:17,179
+participation, while others struggle tremendously, even just to make basic
+
+5
+00:00:17,179 --> 00:00:18,179
+institutions work?
+
+6
+00:00:18,179 --> 00:00:23,300
+Well, let's dive into the data to discover the hidden dynamics that connect our most
+
+7
+00:00:23,300 --> 00:00:26,460
+intimate relationships, family ones, to the entire public sphere.
+
+8
+00:00:26,859 --> 00:00:32,160
+But ultimately, what really determines our democratic engagement? What drives an entire
+
+9
+00:00:32,160 --> 00:00:36,939
+population to get up in the morning to go vote, to volunteer, to sign
+
+10
+00:00:36,939 --> 00:00:40,980
+petitions, or simply to trust their own institutions?
+
+11
+00:00:40,980 --> 00:00:44,700
+You might think it's just a matter of money, right?
+
+12
+00:00:44,700 --> 00:00:46,620
+Or maybe formal education.
+
+13
+00:00:46,620 --> 00:00:51,620
+And yet, evidence suggests that the answer might lie much, much
+
+14
+00:00:51,620 --> 00:00:56,280
+closer to us, literally inside our homes and in the traditions we
+
+15
+00:00:56,280 --> 00:00:58,800
+absorb from the time we are children.
+
+16
+00:00:58,800 --> 00:01:04,799
+Section 1, the mystery of civic participation, let's go see what it is about.
+
+17
+00:01:04,799 --> 00:01:08,799
+Section 2, the theory of amoral familism.
+
+18
+00:01:08,799 --> 00:01:14,319
+It all starts with an observation, I would dare say illuminating, made by an American researcher,
+
+19
+00:01:14,319 --> 00:01:19,240
+Edward Banfield. Imagine being in a small village in southern Italy in the
+
+20
+00:01:19,240 --> 00:01:20,240
+50s.
+
+21
+00:01:20,240 --> 00:01:26,200
+Banfield notices something very peculiar and coins this term, amoral familism.
+
+22
+00:01:26,200 --> 00:01:31,719
+What is it, exactly? In practice, it is a social equilibrium where people blindly trust
+
+23
+00:01:31,719 --> 00:01:37,000
+and care exclusively about their own immediate family—and so far, so good—but the
+
+24
+00:01:37,000 --> 00:01:41,159
+point is that they expect everyone else to do exactly the same.
+
+25
+00:01:41,159 --> 00:01:45,640
+Consequently, and it is entirely rational from their point of view, they don't trust at all
+
+26
+00:01:45,640 --> 00:01:50,200
+anyone outside the family circle. It's as if an invisible wall is created toward
+
+27
+00:01:50,200 --> 00:01:54,359
+public affairs, because everything that is not family is viewed with deep
+
+28
+00:01:54,359 --> 00:01:55,359
+suspicion.
+
+29
+00:01:55,519 --> 00:02:01,680
+And the crazy thing is how all this is transmitted over time, almost like an intergenerational
+
+30
+00:02:01,680 --> 00:02:03,920
+instruction manual.
+
+31
+00:02:03,920 --> 00:02:09,060
+Let's look at the steps: first, children are taught absolute trust toward
+
+32
+00:02:09,060 --> 00:02:10,080
+their family members.
+
+33
+00:02:10,080 --> 00:02:15,719
+Second, a strong distrust of strangers is instilled in parallel.
+
+34
+00:02:15,719 --> 00:02:21,039
+Third, and this is a crucial indicator, obedience is taught as a virtue far
+
+35
+00:02:21,039 --> 00:02:26,199
+superior to personal initiative; that is, those who stay in their place are rewarded, creating
+
+36
+00:02:26,199 --> 00:02:28,959
+a real resistance to change.
+
+37
+00:02:28,959 --> 00:02:34,120
+Fourth and final step, the result of this chain is very low civic participation,
+
+38
+00:02:34,120 --> 00:02:39,159
+which unfortunately persists relentlessly across generations.
+
+39
+00:02:39,159 --> 00:02:43,039
+Section 3, global data, family versus politics.
+
+40
+00:02:43,039 --> 00:02:48,359
+Now let's broaden our view, leave the single village behind, and look at the data from the
+
+41
+00:02:48,360 --> 00:02:52,680
+World Values Survey, an incredibly rigorous global survey.
+
+42
+00:02:52,680 --> 00:02:56,040
+And here, a crazy contrast emerges between different cultures.
+
+43
+00:02:56,040 --> 00:02:58,280
+On one hand, we have Northern Europe.
+
+44
+00:02:58,280 --> 00:03:03,200
+Family ties are weaker, but we find very high social capital, a lot of
+
+45
+00:03:03,200 --> 00:03:06,400
+trust in strangers, and huge civic participation.
+
+46
+00:03:06,400 --> 00:03:11,120
+On the other hand, we find Southern Europe, but also Latin America and various areas of Asia
+
+47
+00:03:11,120 --> 00:03:12,120
+and Africa.
+
+48
+00:03:12,120 --> 00:03:17,000
+Here, family is everything, bonds are incredibly strong and cohesive, yet civic engagement and
+
+49
+00:03:17,000 --> 00:03:19,000
+trust in institutions collapse.
+
+50
+00:03:19,000 --> 00:03:23,759
+But wait, we must be very clear on this point: we are not saying that one
+
+51
+00:03:23,759 --> 00:03:28,960
+culture is good and the other bad, we are simply and objectively observing
+
+52
+00:03:28,960 --> 00:03:31,240
+how different societies choose to organize themselves.
+
+53
+00:03:31,240 --> 00:03:37,240
+And the numbers from this study confirm an inverse relationship that is rock-solid: the more
+
+54
+00:03:37,240 --> 00:03:40,199
+weight you give to family, the less you care about politics.
+
+55
+00:03:40,199 --> 00:03:44,960
+And the thing that literally drives me crazy is that this rule holds even if we remove
+
+56
+00:03:44,960 --> 00:03:48,400
+elements like income or level of education from the equation.
+
+57
+00:03:48,400 --> 00:03:53,080
+To give you a concrete perspective, imagine taking a person with very loose family ties
+
+58
+00:03:53,080 --> 00:03:55,879
+and one with very strong ties.
+
+59
+00:03:55,879 --> 00:04:00,640
+Well, the increase in political disinterest between these two extremes is comparable to the impact
+
+60
+00:04:00,640 --> 00:04:05,960
+you would have if we took a college graduate and suddenly gave them only an elementary
+
+61
+00:04:05,960 --> 00:04:06,960
+education.
+
+62
+00:04:06,960 --> 00:04:09,080
+The effect of culture is simply devastating.
+
+63
+00:04:09,080 --> 00:04:13,719
+And mind you, we are not just talking about chatting at a bar.
+
+64
+00:04:13,719 --> 00:04:18,759
+The study measured the willingness to take actual action: things like signing
+
+65
+00:04:18,759 --> 00:04:23,920
+petitions, boycotting products, taking to the streets in authorized demonstrations, all the way
+
+66
+00:04:23,920 --> 00:04:29,240
+to wildcat strikes and occupying buildings—in short, the whole complete package
+
+67
+00:04:29,240 --> 00:04:30,240
+of activism.
+
+68
+00:04:30,240 --> 00:04:35,800
+And the data is clear: those with ironclad family ties are systematically less likely
+
+69
+00:04:35,800 --> 00:04:41,300
+to do even just one of these things, less volunteering, fewer demonstrations, as if
+
+70
+00:04:41,300 --> 00:04:46,060
+all the energy were absorbed to the very last drop by the home environment.
+
+71
+00:04:46,060 --> 00:04:47,060
+Section 4.
+
+72
+00:04:47,060 --> 00:04:48,060
+The ultimate proof.
+
+73
+00:04:48,060 --> 00:04:49,060
+Immigrants.
+
+74
+00:04:49,060 --> 00:04:55,300
+Okay, at this point you might legitimately tell me, "Sorry, but maybe it's the fault of local
+
+75
+00:04:55,300 --> 00:05:00,300
+institutions that suck and discourage people," a very fair objection.
+
+76
+00:05:00,300 --> 00:05:03,860
+And this is where the study's true stroke of genius comes in.
+
+77
+00:05:03,860 --> 00:05:08,980
+To separate culture from the environment, they used the European Social Survey to analyze
+
+78
+00:05:08,980 --> 00:05:11,340
+second-generation immigrants.
+
+79
+00:05:11,340 --> 00:05:15,819
+We are talking about people born and raised, who go to school and work under the exact same
+
+80
+00:05:15,819 --> 00:05:18,259
+laws and institutions as local citizens.
+
+81
+00:05:18,259 --> 00:05:23,220
+So the reasoning is simple: if their way of relating to politics is different
+
+82
+00:05:23,220 --> 00:05:28,060
+from the local average and instead resembles that of their parents' country of origin, well,
+
+83
+00:05:28,060 --> 00:05:29,060
+bingo.
+
+84
+00:05:29,060 --> 00:05:33,300
+It means we are looking at a purely cultural trait, transmitted within the family,
+
+85
+00:05:33,300 --> 00:05:35,460
+and not a problem with local institutions.
+
+86
+00:05:35,460 --> 00:05:36,460
+32.
+
+87
+00:05:36,579 --> 00:05:38,459
+Yes, you heard that right.
+
+88
+00:05:38,459 --> 00:05:41,939
+32 is the number of different destination countries analyzed.
+
+89
+00:05:41,939 --> 00:05:45,500
+They didn't just look at those who immigrate to the United States, as is often done.
+
+90
+00:05:45,500 --> 00:05:50,259
+With such a wealth of data spread across 32 nations, any single doubt is eliminated
+
+91
+00:05:50,259 --> 00:05:54,299
+that the results might be distorted by the rules of a single country.
+
+92
+00:05:54,299 --> 00:05:56,979
+It's an analysis of impressive robustness.
+
+93
+00:05:56,979 --> 00:06:00,819
+And looking at this data, the picture comes together perfectly.
+
+94
+00:06:00,819 --> 00:06:05,339
+Children of those who come from countries with strong family ties, even if they live in a
+
+95
+00:06:05,340 --> 00:06:09,420
+completely new environment, maintain very specific behaviors.
+
+96
+00:06:09,420 --> 00:06:14,420
+They watch the news less, read less about politics, are less interested in public affairs,
+
+97
+00:06:14,420 --> 00:06:16,660
+and trust strangers much less.
+
+98
+00:06:16,660 --> 00:06:20,640
+It really seems that strong family ties and generalized trust play a
+
+99
+00:06:20,640 --> 00:06:24,740
+zero-sum game: if you pour almost your entire reserve of trust into the
+
+100
+00:06:24,740 --> 00:06:29,500
+family unit, there is really very little left, if not none, to spend in the outside
+
+101
+00:06:29,500 --> 00:06:30,500
+world.
+
+102
+00:06:30,500 --> 00:06:38,180
+Section 5, strong ties, a final balance, having reached this point, it is absolutely vital
+
+103
+00:06:38,180 --> 00:06:39,660
+to make a clarification.
+
+104
+00:06:39,660 --> 00:06:44,899
+Having extremely strong family ties is not a disease to be cured, it is simply a
+
+105
+00:06:44,899 --> 00:06:49,180
+different equilibrium, with its immense pros and cons.
+
+106
+00:06:49,180 --> 00:06:53,459
+Family-focused societies offer an incredible emotional and economic safety
+
+107
+00:06:53,459 --> 00:06:58,459
+net; those who live there report high levels of personal satisfaction and a very high domestic
+
+108
+00:06:58,460 --> 00:07:01,500
+production, understood as mutual care.
+
+109
+00:07:01,500 --> 00:07:05,100
+The price to pay, however, is less trust in institutions.
+
+110
+00:07:05,100 --> 00:07:09,780
+Conversely, societies with weak ties make the public democratic machine work great
+
+111
+00:07:09,780 --> 00:07:15,020
+and trust their neighbor, but they must give up this warm and totalizing haven
+
+112
+00:07:15,020 --> 00:07:16,460
+of the large united family.
+
+113
+00:07:16,460 --> 00:07:22,140
+And all this explainer leaves us with a giant question for our future: since,
+
+114
+00:07:22,140 --> 00:07:27,100
+as we have just seen, family values change very slowly, what
+
+115
+00:07:27,100 --> 00:07:28,500
+will happen now?
+
+116
+00:07:28,500 --> 00:07:33,780
+Will globalization slowly make us all the same, smoothing out these differences,
+
+117
+00:07:33,780 --> 00:07:38,040
+or, on the contrary, will this increasingly fast-paced world trigger the instinct to
+
+118
+00:07:38,040 --> 00:07:42,460
+cling even more to these local family roots to protect them?
+
+119
+00:07:42,460 --> 00:07:44,580
+It's a fascinating dynamic, isn't it?
+
+120
+00:07:44,580 --> 00:07:49,260
+It makes us realize how, in the end, that simple table around which we dine in the evening continues,
+
+121
+00:07:49,260 --> 00:07:53,660
+in the silence of our homes, to shape the very destiny of our democracies.

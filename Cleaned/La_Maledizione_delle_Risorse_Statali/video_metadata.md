@@ -1,12 +1,17 @@
-# Metadati Video - La Maledizione delle Risorse Statali
+# Metadati Video - La_Maledizione_delle_Risorse_Statali
 
 ## Descrizione YouTube
 Lo studio "The Political Resource Curse" di Brollo, Nannicini, Perotti, Tabellini, pubblicato su American Economic Review nel 2013, Cosa succede quando un'amministrazione riceve improvvisamente una montagna di soldi? Questo studio analizza i comuni del Brasile svelando come i trasferimenti federali possano paradossalmente aumentare la corruzione e peggiorare drasticamente la qualità dei candidati sindaci.
 
+
+📺 GUARDA ANCHE:
+► Meno_tasse_Colpa_degli_immigrati: https://www.youtube.com/watch?v=k8RxL9Y0pGI
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
+
 ⏰ Fonte: ►► 10.1257/aer.103.5.1759
 
 ⏰ISCRIVITI al canale ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1
-
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ⏰ INDICE CONTENUTI ⏰

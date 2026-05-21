@@ -1,0 +1,47 @@
+[
+  {
+    "id": "8915cced-9e49-42f5-8130-e9f51d2ba750",
+    "type": "audio",
+    "status": "completed",
+    "custom_instructions": null,
+    "visual_style_prompt": null,
+    "title": "Why working longer is a death sentence",
+    "url": ""
+  },
+  {
+    "id": "82b5bd0b-b766-48c6-b6b8-a042abd39a86",
+    "type": "slide_deck",
+    "status": "failed",
+    "custom_instructions": null,
+    "visual_style_prompt": null,
+    "title": "Poveri in Pensione",
+    "url": ""
+  },
+  {
+    "id": "6dddb3a8-7680-4f88-8f28-775f785cce8a",
+    "type": "flashcards",
+    "status": "completed",
+    "custom_instructions": null,
+    "visual_style_prompt": null,
+    "title": "Retirement Consumption and Pension Design Framework",
+    "url": ""
+  },
+  {
+    "id": "d2338295-f342-41f9-9f97-b615b25b4b2d",
+    "type": "report",
+    "status": "completed",
+    "custom_instructions": null,
+    "visual_style_prompt": null,
+    "title": "Guida allo Studio: Consumo al Pensionamento e Progettazione dei Sistemi Pensionistici",
+    "url": ""
+  },
+  {
+    "id": "2acffeb3-afb3-48d2-8c7d-9f98b7656a50",
+    "type": "data_table",
+    "status": "completed",
+    "custom_instructions": null,
+    "visual_style_prompt": null,
+    "title": "Indicatori del Consumo al Pensionamento e Progettazione delle Pensioni",
+    "url": ""
+  }
+]

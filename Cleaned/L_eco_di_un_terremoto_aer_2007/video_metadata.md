@@ -1,8 +1,15 @@
-# L'eco di un terremoto: il ruolo dei pari nelle decisioni scolastiche
+# Metadati Video - L_eco_di_un_terremoto_aer_2007
 
 ## Descrizione YouTube
 
 Lo studio "Social Interactions in High School: Lessons from an Earthquake" di Cipollone e Rosolia, pubblicato su The American Economic Review nel 2007, analizza l'esistenza di effetti tra pari nelle scelte scolastiche, esaminando come i traguardi formativi dei ragazzi influenzino quelli delle ragazze.
+
+
+📺 GUARDA ANCHE:
+► Dalle_Guerre_ai_Capolavori: https://www.youtube.com/watch?v=n_8eHt5ZjXY
+► Il_petrolio_causa_le_guerre: https://www.youtube.com/watch?v=8b19n79qxXo
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ FONTI ►► https://www.aeaweb.org/articles?id=10.1257/aer.97.3.948
 

@@ -1,6 +1,8 @@
-Lo studio "The Use of Violence in Illegal Markets: Evidence from Mahogany Trade in the Brazilian Amazon" di Ariaster B. Chimeli e Rodrigo R. Soares, pubblicato su American Economic Journal: Applied Economics nel 2017, analizza l'effetto dell'illegalità di mercato sulla violenza. Esaminando il mercato del mogano in Brasile, passato dal commercio legale alla proibizione totale, i ricercatori documentano un aumento relativo degli omicidi nelle aree di estrazione dopo il divieto, dimostrando come la mancanza di canali legali per la risoluzione delle dispute porti all'uso della forza.
+# Metadati Video - Mogano_Insanguinato_aejapp_2017
 
 (Lasciare riga vuota)
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1257/app.20160055
 

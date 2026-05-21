@@ -1,8 +1,10 @@
-# Dai narcos al petrolio: perché?
+# Metadati Video - Dai_narcos_al_petrolio_perche
 
 ## Descrizione YouTube
 
 Lo studio "Fuelling Organised Crime: The Mexican War on Drugs and Oil Theft" di Battiston, Daniele, Le Moglie e Pinotti, pubblicato su The Economic Journal nel 2024, analizza la domanda di ricerca del lavoro accademico fornendo spunti di riflessione e dati inediti sul legame tra narcotraffico e furto di petrolio.
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1093/ej/ueae047
 

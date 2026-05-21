@@ -1,0 +1,515 @@
+1
+00:00:00,000 --> 00:00:02,620
+Bienvenue dans ce nouvel approfondissement.
+
+2
+00:00:02,620 --> 00:00:08,140
+Aujourd'hui, nous nous posons une question en apparence simple, mais qui ébranle en réalité les bases de notre
+
+3
+00:00:08,140 --> 00:00:09,140
+société.
+
+4
+00:00:09,140 --> 00:00:14,640
+L'école crée-t-elle des citoyens ? Nous explorerons un thème que nous considérons presque comme acquis, en partant
+
+5
+00:00:14,640 --> 00:00:19,580
+d'une étude économique vraiment révolutionnaire, signée par les chercheurs Alesina, Giuliano
+
+6
+00:00:19,580 --> 00:00:20,580
+et Reich.
+
+7
+00:00:20,580 --> 00:00:24,780
+Vous savez, on aime souvent imaginer que l'école publique est née d'un pur et noble
+
+8
+00:00:24,780 --> 00:00:26,940
+élan de philanthropie envers les masses.
+
+9
+00:00:26,940 --> 00:00:32,340
+Eh bien, les données nous racontent une genèse beaucoup, beaucoup plus contre-intuitive et, franchement,
+
+10
+00:00:32,340 --> 00:00:33,340
+fascinante.
+
+11
+00:00:33,340 --> 00:00:35,539
+Entrons tout de suite dans le vif du sujet.
+
+12
+00:00:35,539 --> 00:00:40,740
+Pensez à cette très célèbre phrase de Massimo d'Azeglio, elle illustre à la perfection ce qu'était
+
+13
+00:00:40,740 --> 00:00:43,859
+la mentalité des élites du XIXe siècle.
+
+14
+00:00:43,859 --> 00:00:49,100
+À l'époque, les masses n'étaient absolument pas perçues comme des citoyens actifs dotés de droits,
+
+15
+00:00:49,100 --> 00:00:53,659
+non, elles étaient plutôt considérées comme une sorte d'argile, une matière première qui avait désespérément
+
+16
+00:00:53,660 --> 00:00:55,820
+besoin d'être façonnée.
+
+17
+00:00:55,820 --> 00:01:00,900
+L'école, dans cette perspective, était le grand chaudron dans lequel fondre des identités, des langues et des cultures
+
+18
+00:01:00,900 --> 00:01:04,340
+disparates pour forger littéralement un peuple uni.
+
+19
+00:01:04,340 --> 00:01:08,579
+C'est un concept qui change radicalement notre perspective sur l'ensemble du système.
+
+20
+00:01:08,579 --> 00:01:13,620
+Voici notre programme d'aujourd'hui : nous explorerons d'abord l'origine secrète de l'école, puis
+
+21
+00:01:13,620 --> 00:01:19,219
+nous parlerons des dictatures et des démocraties, avant de passer à ce qu'on appelle la menace de la démocratie.
+
+22
+00:01:19,219 --> 00:01:25,099
+Nous examinerons les preuves historiques et enfin, nous analyserons la très intéressante stratégie des colonisateurs.
+
+23
+00:01:25,099 --> 00:01:26,539
+Ce sera un beau voyage.
+
+24
+00:01:26,539 --> 00:01:31,659
+Commençons par le premier point de notre liste : l'origine secrète de l'école.
+
+25
+00:01:31,659 --> 00:01:33,819
+Nous devons immédiatement briser un mythe.
+
+26
+00:01:33,819 --> 00:01:37,299
+L'école de masse n'est pas née par pur altruisme.
+
+27
+00:01:37,299 --> 00:01:40,379
+Les véritables motivations étaient froidement stratégiques.
+
+28
+00:01:40,379 --> 00:01:45,060
+Tout se résume au concept de Nation Building, la construction de la nation.
+
+29
+00:01:45,060 --> 00:01:50,379
+Attention, nous ne parlons pas de State Building, c'est-à-dire construire des bureaux publics ou collecter
+
+30
+00:01:50,379 --> 00:01:51,379
+les impôts.
+
+31
+00:01:51,379 --> 00:01:55,780
+Le Nation Building est un processus calculé, c'est l'art de faire en sorte que les individus se sentent membres
+
+32
+00:01:55,780 --> 00:02:00,100
+d'un seul grand groupe, afin qu'ils sentent qu'ils ont quelque chose en commun et ne veuillent pas, par
+
+33
+00:02:00,100 --> 00:02:01,579
+exemple, diviser le pays.
+
+34
+00:02:01,579 --> 00:02:06,140
+Et devinez quoi ? Les salles de classe étaient l'outil parfait pour cela.
+
+35
+00:02:06,140 --> 00:02:10,780
+Cette pensée de Napoléon en 1805 tape dans le mille.
+
+36
+00:02:10,780 --> 00:02:14,699
+Dès le début du XIXe siècle, les dirigeants politiques avaient tout compris.
+
+37
+00:02:14,699 --> 00:02:18,460
+Les écoles primaires étaient de formidables outils idéologiques.
+
+38
+00:02:18,460 --> 00:02:22,539
+Enseigner la loyauté envers le système dès que les enfants savaient à peine marcher
+
+39
+00:02:22,539 --> 00:02:27,460
+était, tout simplement, le moyen le plus économique et le plus efficace de prévenir le désordre et de stabiliser
+
+40
+00:02:27,460 --> 00:02:29,379
+les régimes à long terme.
+
+41
+00:02:29,379 --> 00:02:31,099
+Passiamo al secondo capitulo.
+
+42
+00:02:31,099 --> 00:02:34,340
+Dictatures, démocraties et nations.
+
+43
+00:02:34,340 --> 00:02:39,340
+L'étude que nous analysons utilise un modèle économique génial pour expliquer tout cela.
+
+44
+00:02:39,340 --> 00:02:42,379
+Elle se base sur ce qu'on appelle la théorie de la distance.
+
+45
+00:02:42,379 --> 00:02:46,620
+En termes simples, imaginez que chaque citoyen ait ses propres idées politiques.
+
+46
+00:02:46,620 --> 00:02:51,699
+Si les choix du gouvernement sont trop éloignés de ces idéaux, le citoyen en souffre, il ressent
+
+47
+00:02:51,699 --> 00:02:53,819
+un coût, une insatisfaction.
+
+48
+00:02:53,819 --> 00:02:59,099
+Si ce mécontentement grandit trop, certaines régions pourraient même vouloir faire sécession.
+
+49
+00:02:59,099 --> 00:03:04,500
+L'éducation agit chimiquement pour réduire cette distance, homogénéise les esprits et les maintient
+
+50
+00:03:04,500 --> 00:03:06,580
+proches du centre du gouvernement.
+
+51
+00:03:06,580 --> 00:03:10,780
+Et c'est là qu'émerge un fantastique paradoxe entre deux types de dictatures.
+
+52
+00:03:10,780 --> 00:03:15,820
+Un dictateur totalement sûr de lui, qui ne craint pas les révoltes, n'a absolument pas envie de
+
+53
+00:03:15,820 --> 00:03:19,980
+dépenser de l'argent pour les écoles ; il lui suffit d'extraire la richesse, et c'est tout.
+
+54
+00:03:19,980 --> 00:03:25,780
+Mais une élite ou un dictateur menacé, qui sent le souffle de la population sur son cou,
+
+55
+00:03:25,780 --> 00:03:31,380
+change de tactique, ouvre son portefeuille et investit massivement dans l'éducation, car il doit
+
+56
+00:03:31,379 --> 00:03:36,379
+endoctriner les masses, les convaincre d'apprécier le régime et, fondamentalement, sauver
+
+57
+00:03:36,379 --> 00:03:37,379
+sa place.
+
+58
+00:03:37,379 --> 00:03:42,219
+Et cela nous amène au chapitre 3 : la menace de la démocratie.
+
+59
+00:03:42,219 --> 00:03:47,379
+Accrochez-vous bien, car les données historiques montrent ici une vérité vraiment impitoyable.
+
+60
+00:03:47,379 --> 00:03:52,219
+L'arrivée imminente du droit de vote terrorisait littéralement les gouvernants.
+
+61
+00:03:52,219 --> 00:03:56,379
+L'instruction obligatoire n'est pas arrivée main dans la main avec les démocraties modernes.
+
+62
+00:03:56,379 --> 00:03:59,379
+Non, elle les a précédées de 50 ans en moyenne.
+
+63
+00:03:59,379 --> 00:04:01,379
+Les élites raisonnaient ainsi :
+
+64
+00:04:01,379 --> 00:04:05,900
+« Avant que ces masses n'obtiennent le droit de vote, nous devons nous assurer de leur avoir appris
+
+65
+00:04:05,900 --> 00:04:08,979
+à voter, tout en préservant nos valeurs. »
+
+66
+00:04:08,979 --> 00:04:12,699
+C'est un véritable mécanisme de défense en trois étapes.
+
+67
+00:04:12,699 --> 00:04:16,019
+Premièrement, il y a un risque majeur de révolution à l'horizon.
+
+68
+00:04:16,019 --> 00:04:21,180
+Deuxièmement, les élites parent au plus pressé en imposant l'éducation de masse dans tout le pays.
+
+69
+00:04:21,180 --> 00:04:27,339
+Troisièmement, la nouvelle population, désormais culturellement homogénéisée et alignée, cesse de vouloir couper
+
+70
+00:04:27,340 --> 00:04:32,700
+des têtes, la révolution se dégonfle, l'unité du pays est sauvée et les riches restent riches,
+
+71
+00:04:32,700 --> 00:04:35,780
+l'école agissant comme l'amortisseur social suprême.
+
+72
+00:04:35,780 --> 00:04:40,620
+Voyons maintenant l'épreuve des faits, chapitre 4 : la preuve de l'histoire.
+
+73
+00:04:40,620 --> 00:04:43,820
+Ce n'est pas seulement de la théorie tracée sur un tableau blanc.
+
+74
+00:04:43,820 --> 00:04:49,500
+L'histoire nous le prouve, étape par étape. Regardez cette chronologie impressionnante :
+
+75
+00:04:49,500 --> 00:04:54,260
+en Prusse, en France, dans l'Angleterre victorienne, et même au Japon.
+
+76
+00:04:54,259 --> 00:04:59,659
+Chaque fois qu'il y avait des révoltes paysannes, des révolutions ou des pressions pour élargir le suffrage,
+
+77
+00:04:59,659 --> 00:05:02,060
+quelle était la toute première réponse de l'État ?
+
+78
+00:05:02,060 --> 00:05:05,539
+Les grandes réformes scolaires, on construisait des salles de classe.
+
+79
+00:05:05,539 --> 00:05:11,060
+Le schéma se répète à l'identique dans des continents et des cultures complètement différents. Mais pour se faire
+
+80
+00:05:11,060 --> 00:05:15,779
+l'avocat du diable : et si l'école n'avait été qu'une généreuse concession
+
+81
+00:05:15,779 --> 00:05:18,379
+pour satisfaire le peuple qui la réclamait ?
+
+82
+00:05:18,379 --> 00:05:23,540
+Eh bien, si c'était le cas, les réformes de l'État-providence, comme l'assurance maladie ou les allocations
+
+83
+00:05:23,540 --> 00:05:28,540
+chômage, seraient arrivées en même temps. Or, il n'en a rien été.
+
+84
+00:05:28,540 --> 00:05:33,560
+L'État-providence est arrivé bien plus tard, presque toujours seulement après que le peuple eut
+
+85
+00:05:33,560 --> 00:05:35,060
+réellement obtenu le droit de vote.
+
+86
+00:05:35,060 --> 00:05:41,259
+En somme, les pauvres réclamaient du pain et des salaires, mais les élites fournissaient des écoles pour garantir l'ordre.
+
+87
+00:05:41,259 --> 00:05:46,500
+Et attention, nous ne parlons pas d'une dynamique limitée à la poussière du XIXe siècle.
+
+88
+00:05:46,740 --> 00:05:51,939
+Les chercheurs de l'étude sont allés beaucoup plus loin, en analysant un échantillon gigantesque.
+
+89
+00:05:51,939 --> 00:05:59,459
+Nous parlons de données provenant de pas moins de 172 pays, collectées de 1925 à 2014.
+
+90
+00:05:59,459 --> 00:06:01,939
+Et que nous disent ces chiffres modernes ?
+
+91
+00:06:01,939 --> 00:06:03,819
+Ils lèvent tous les doutes.
+
+92
+00:06:03,819 --> 00:06:08,500
+Si nous regardons les régimes non démocratiques actuels, lorsqu'ils font face à une menace grave,
+
+93
+00:06:08,500 --> 00:06:13,379
+comme de graves crises de gouvernement ou des tentatives de révolution, on constate un pic anormal
+
+94
+00:06:13,379 --> 00:06:15,540
+des inscriptions dans les écoles primaires.
+
+95
+00:06:15,660 --> 00:06:19,460
+On parle d'augmentations de plus de 20 % au cours de la décennie suivante.
+
+96
+00:06:19,460 --> 00:06:21,220
+La règle d'or perdure.
+
+97
+00:06:21,220 --> 00:06:25,220
+Quand le trône vacille, la machine éducative s'accélère au maximum.
+
+98
+00:06:25,220 --> 00:06:31,100
+Et nous voici au chapitre 5, le dernier : la stratégie des colonisateurs.
+
+99
+00:06:31,100 --> 00:06:34,020
+C'est peut-être le passage le plus révélateur.
+
+100
+00:06:34,020 --> 00:06:38,060
+L'exception qui confirme la règle d'une manière presque dramatique.
+
+101
+00:06:38,060 --> 00:06:43,140
+Nous avons vu que les élites locales construisaient des écoles pour créer une identité et ne pas être
+
+102
+00:06:43,139 --> 00:06:45,740
+renversées, mais qu'en était-il des empires coloniaux ?
+
+103
+00:06:45,740 --> 00:06:50,139
+Eux pouvaient toujours monter sur leurs navires et rentrer dans leur patrie, ils n'avaient aucun
+
+104
+00:06:50,139 --> 00:06:54,300
+intérêt à créer une identité nationale forte dans le pays occupé.
+
+105
+00:06:54,300 --> 00:06:59,860
+Au contraire, leur logique était le « diviser pour régner » : ils maintenaient délibérément la population
+
+106
+00:06:59,860 --> 00:07:05,219
+fragmentée, divisée, pour éviter qu'elle ne fasse front commun dans une rébellion collective.
+
+107
+00:07:05,219 --> 00:07:09,459
+Cette approche résolument cynique se retrouve partout.
+
+108
+00:07:09,540 --> 00:07:14,180
+Dans les Caraïbes britanniques, l'école obligatoire a été tout simplement ignorée pendant des décennies.
+
+109
+00:07:14,180 --> 00:07:18,540
+Au Kenya, les fonctionnaires britanniques ont cherché par tous les moyens à faire obstacle à une langue véhiculaire
+
+110
+00:07:18,540 --> 00:07:21,860
+comme le swahili, de peur qu'elle ne puisse unir les différentes tribus.
+
+111
+00:07:21,860 --> 00:07:26,500
+Et en Éthiopie, les autorités coloniales italiennes ont poussé pour qu'on enseigne presque uniquement
+
+112
+00:07:26,500 --> 00:07:31,100
+dans les dialectes locaux, dans le but précis et déclaré de semer la désunion parmi les peuples
+
+113
+00:07:31,100 --> 00:07:32,100
+éthiopiens.
+
+114
+00:07:32,100 --> 00:07:35,420
+C'est ainsi que nous arrivons au terme de notre voyage.
+
+115
+00:07:35,420 --> 00:07:40,660
+Quand on regarde les données brutes et l'Histoire avec un grand H, l'image ultra-romantique
+
+116
+00:07:40,660 --> 00:07:43,900
+de l'instruction publique que nous avons en tête s'estompe un peu.
+
+117
+00:07:43,900 --> 00:07:48,700
+L'ensemble du système scolaire moderne a été façonné, à l'échelle mondiale, par le besoin
+
+118
+00:07:48,700 --> 00:07:51,420
+brut et simple des élites de survivre.
+
+119
+00:07:51,420 --> 00:07:56,700
+L'éducation de masse n'a pas été conçue pour libérer, mais pour absorber pacifiquement
+
+120
+00:07:56,700 --> 00:08:01,379
+et contrôler les énormes défis qui viendraient avec le suffrage universel.
+
+121
+00:08:01,379 --> 00:08:07,500
+Et à la lumière de tout cela, cette recherche nous laisse sur une question très, très puissante.
+
+122
+00:08:07,500 --> 00:08:12,339
+Essayons de regarder comment nous cadrons et évaluons aujourd'hui l'enseignement, de la maternelle jusqu'à
+
+123
+00:08:12,339 --> 00:08:13,500
+la fin du lycée.
+
+124
+00:08:13,500 --> 00:08:18,019
+Quelle part de cet ancien mécanisme de contrôle social vit encore aujourd'hui sur les bancs de nos
+
+125
+00:08:18,019 --> 00:08:19,019
+écoles ?
+
+126
+00:08:19,019 --> 00:08:22,779
+Formons-nous vraiment des esprits critiques, ou seulement des citoyens obéissants ?
+
+127
+00:08:22,779 --> 00:08:26,939
+C'est une grille de lecture fascinante pour relire les institutions qui nous entourent.
+
+128
+00:08:26,939 --> 00:08:30,500
+Nous nous arrêtons là, mais continuez d'y réfléchir.
+
+129
+00:08:30,500 --> 00:08:34,779
+Merci d'avoir suivi ce décryptage entre chiffres et histoire, et à la prochaine !

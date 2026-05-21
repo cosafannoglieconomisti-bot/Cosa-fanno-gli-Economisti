@@ -1,12 +1,18 @@
-# Metadati Video - Dio blocca la democrazia?
+# Metadati Video - Dio_blocca_la_democrazia
 
 ## Descrizione YouTube
 Lo studio "Earthquakes, Religion, and Transition to Self-Government in Italian Cities" di Belloc, Drago, Galbiati, pubblicato su The Quarterly Journal of Economics nel 2016, Può un terremoto fermare la democrazia? Questo studio svela come i disastri naturali nel Medioevo italiano abbiano rallentato la nascita dei comuni, rafforzando il potere dei vescovi visti come unici mediatori contro l'ira divina.
 
+
+📺 GUARDA ANCHE:
+► Cervelli_in_fuga_un_danno: https://www.youtube.com/watch?v=YoEIAPvWrZI
+► I_Presidenti_mentono_sulle_tasse: https://www.youtube.com/watch?v=W2HIRNdS0aY
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
+
 ⏰ Fonte: ►► 10.1093/qje/qjw020
 
 ⏰ISCRIVITI al canale ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1
-
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ⏰ INDICE CONTENUTI ⏰

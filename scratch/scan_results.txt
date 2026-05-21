@@ -1,0 +1,37 @@
+Found 13 notebooks. Scanning for video/infographic...
+MATCH FOUND!
+Notebook: La TV riduce la natalità? (7b44f550-5bb0-408a-a797-15247258b947)
+Artifact: video (f76e53e0-cff1-4deb-ae56-f95e035f916b) - Status: completed
+--------------------
+MATCH FOUND!
+Notebook: La TV riduce la natalità? (7b44f550-5bb0-408a-a797-15247258b947)
+Artifact: infographic (8b134a95-f579-4e9b-b43a-32bd807ee692) - Status: completed
+--------------------
+MATCH FOUND!
+Notebook: Memoria di sangue  il legame shock tra eccidi nazisti e mercato dell auto moderno (f9dac49c-0053-4b59-b0bd-2909b597dd52)
+Artifact: infographic (894f8168-b09c-4020-9cbb-c17ed9fe5eb2) - Status: completed
+--------------------
+MATCH FOUND!
+Notebook: Racial Bias in Hiring and the Return to Credentials (65e24b40-ba3e-4e19-819c-048d4cdcf8ce)
+Artifact: video (7b559b2a-b7df-4930-90b3-4e52ec39318a) - Status: completed
+--------------------
+MATCH FOUND!
+Notebook: Racial Bias in Hiring and the Return to Credentials (65e24b40-ba3e-4e19-819c-048d4cdcf8ce)
+Artifact: video (1270ec73-06ee-47bb-a419-bbae58dd1ba5) - Status: completed
+--------------------
+MATCH FOUND!
+Notebook: Racial Bias in Hiring and the Return to Credentials (65e24b40-ba3e-4e19-819c-048d4cdcf8ce)
+Artifact: infographic (e4326bde-226b-4bbb-8217-888d29172298) - Status: completed
+--------------------
+MATCH FOUND!
+Notebook: Racial Bias in Hiring and the Return to Credentials (65e24b40-ba3e-4e19-819c-048d4cdcf8ce)
+Artifact: video (5e353947-7485-495d-a259-4cf7e47b21de) - Status: completed
+--------------------
+MATCH FOUND!
+Notebook: Racial Bias in Hiring and the Return to Credentials (65e24b40-ba3e-4e19-819c-048d4cdcf8ce)
+Artifact: infographic (1599cd04-58c4-4972-98fd-2228c348e34b) - Status: completed
+--------------------
+MATCH FOUND!
+Notebook: Racial Bias in Hiring and the Return to Credentials (65e24b40-ba3e-4e19-819c-048d4cdcf8ce)
+Artifact: infographic (665c2f27-df21-4f58-8c7d-3a3bc898e798) - Status: completed
+--------------------

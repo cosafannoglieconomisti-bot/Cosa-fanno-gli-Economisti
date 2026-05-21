@@ -1,6 +1,8 @@
-Lo studio "National Institutions and Subnational Development in Africa" di Stelios Michalopoulos ed Elias Papaioannou, pubblicato su The Quarterly Journal of Economics nel 2014, analizza il ruolo delle istituzioni nazionali nello sviluppo economico locale in Africa. Sfruttando i confini politici tracciati all'indipendenza che hanno diviso oltre 200 gruppi etnici tra stati diversi, i ricercatori dimostrano che le differenze nelle strutture istituzionali nazionali non spiegano le differenze di performance economica all'interno dello stesso gruppo etnico, suggerendo che le istituzioni locali o la cultura abbiano un peso maggiore.
+# Metadati Video - Istituzioni_e_Sviluppo_qje_2014
 
 (Lasciare riga vuota)
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1093/qje/qjt043
 

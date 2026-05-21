@@ -1,8 +1,10 @@
-# Il lato oscuro della TV: come l'intrattenimento ha cambiato la politica italiana
+# Metadati Video - Il_lato_oscuro_della_TV_aer_2019
 
 ## Descrizione YouTube
 
 Lo studio "The Political Legacy of Entertainment TV" di Ruben Durante, Paolo Pinotti e Andrea Tesei, pubblicato su American Economic Review nel 2019, analizza l'impatto politico a lungo termine della televisione commerciale in Italia. Sfruttando l'introduzione graduale di Mediaset negli anni '80, la ricerca cerca di rispondere a una domanda fondamentale: l'esposizione prolungata a programmi di puro intrattenimento (non informativi) può rendere gli elettori, specialmente se esposti fin da bambini, più vulnerabili alla retorica populista e influenzare in modo permanente le loro scelte di voto?
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1257/aer.20150958
 

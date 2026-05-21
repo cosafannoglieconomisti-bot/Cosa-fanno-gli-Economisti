@@ -1,12 +1,18 @@
-# Metadati Video - Perché ignoriamo le disuguaglianze?
+# Metadati Video - Perche_ignoriamo_le_disuguaglianze
 
 ## Descrizione YouTube
 Lo studio "Fair Shares and Selective Attention" di Amasino, Pace e van der Weele, pubblicato su American Economic Journal: Microeconomics nel 2024, esplora come l'attenzione visiva influenzi la nostra percezione di merito e fortuna. Attraverso esperimenti su larga scala, i ricercatori dimostrano che chi si trova in una posizione di vantaggio tende a ignorare i dati sul merito reale per giustificare il proprio status, mentre chi è svantaggiato si concentra maggiormente sulla performance netta della fortuna. Questi risultati suggeriscono che l'attenzione selettiva sia un meccanismo chiave dietro la polarizzazione delle opinioni sulla disuguaglianza economica.
 
+
+📺 GUARDA ANCHE:
+► Cervelli_in_fuga_un_danno: https://www.youtube.com/watch?v=YoEIAPvWrZI
+► Dio_blocca_la_democrazia: https://www.youtube.com/watch?v=BFW6hmE5WiQ
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
+
 ⏰ Fonte: ►► https://doi.org/10.1257/mic.20220275
 
 ⏰ISCRIVITI al canale ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1
-
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ⏰ INDICE CONTENUTI ⏰

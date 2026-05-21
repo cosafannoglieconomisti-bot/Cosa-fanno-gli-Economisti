@@ -1,0 +1,148 @@
+{
+  "data": {
+    "__schema": {
+      "queryType": {
+        "name": "Query",
+        "fields": [
+          {
+            "name": "account",
+            "args": []
+          },
+          {
+            "name": "dailyPostingLimits",
+            "args": [
+              {
+                "name": "input",
+                "type": {
+                  "name": null,
+                  "kind": "NON_NULL",
+                  "ofType": {
+                    "name": "DailyPostingLimitsInput",
+                    "kind": "INPUT_OBJECT"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "channel",
+            "args": [
+              {
+                "name": "input",
+                "type": {
+                  "name": null,
+                  "kind": "NON_NULL",
+                  "ofType": {
+                    "name": "ChannelInput",
+                    "kind": "INPUT_OBJECT"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "channels",
+            "args": [
+              {
+                "name": "input",
+                "type": {
+                  "name": null,
+                  "kind": "NON_NULL",
+                  "ofType": {
+                    "name": "ChannelsInput",
+                    "kind": "INPUT_OBJECT"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "posts",
+            "args": [
+              {
+                "name": "input",
+                "type": {
+                  "name": null,
+                  "kind": "NON_NULL",
+                  "ofType": {
+                    "name": "PostsInput",
+                    "kind": "INPUT_OBJECT"
+                  }
+                }
+              },
+              {
+                "name": "first",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "after",
+                "type": {
+                  "name": "String",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ]
+          },
+          {
+            "name": "post",
+            "args": [
+              {
+                "name": "input",
+                "type": {
+                  "name": null,
+                  "kind": "NON_NULL",
+                  "ofType": {
+                    "name": "PostInput",
+                    "kind": "INPUT_OBJECT"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "mutationType": {
+        "name": "Mutation",
+        "fields": [
+          {
+            "name": "deletePost",
+            "args": [
+              {
+                "name": "input"
+              }
+            ]
+          },
+          {
+            "name": "createPost",
+            "args": [
+              {
+                "name": "input"
+              }
+            ]
+          },
+          {
+            "name": "editPost",
+            "args": [
+              {
+                "name": "input"
+              }
+            ]
+          },
+          {
+            "name": "createIdea",
+            "args": [
+              {
+                "name": "input"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

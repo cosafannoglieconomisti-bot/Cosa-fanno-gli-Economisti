@@ -1,8 +1,15 @@
-# Mafia e Sviluppo: Il conto salato della criminalità organizzata
+# Metadati Video - Mafia_e_Sviluppo_Pinotti_2015
 
 ## Descrizione YouTube
 
 Lo studio "The Economic Costs of Organised Crime: Evidence from Southern Italy" di Paolo Pinotti, pubblicato su The Economic Journal nel 2015, analizza quanto costa realmente la presenza mafiosa allo sviluppo economico di un territorio. Attraverso un confronto tra regioni simili in Italia, l'autore stima la perdita di PIL causata dall'insediamento delle organizzazioni criminali nel secondo dopoguerra.
+
+
+📺 GUARDA ANCHE:
+► Carceri_piene_o_strade_sicure: https://www.youtube.com/watch?v=blcm0GpMLxs
+► La_Mafia_e_nata_in_miniera: https://www.youtube.com/watch?v=XjV1aqltp1E
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1111/ecoj.12235
 

@@ -1,4 +1,6 @@
-Lo studio "Orchestrating Impartiality: The Impact of “Blind” Auditions on Female Musicians" di Claudia Goldin e Cecilia Rouse, pubblicato su The American Economic Review nel 2000, analizza come l'introduzione delle audizioni "alla cieca" abbia influenzato le assunzioni nelle principali orchestre statunitensi, dimostrando come l'imparzialità abbia favorito l'ingresso delle donne.
+# Metadati Video - Il_Talento_Non_Ha_Genere
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1257/aer.90.4.715
 

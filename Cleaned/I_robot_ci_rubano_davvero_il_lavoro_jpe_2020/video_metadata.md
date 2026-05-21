@@ -1,9 +1,11 @@
-# Metadati Video YouTube
+# Metadati Video - I_robot_ci_rubano_davvero_il_lavoro_jpe_2020
 
 **Titolo:** I robot ci rubano davvero il lavoro?
 
 **Descrizione:**
 Lo studio "Robots and Jobs: Evidence from US Labor Markets" di Acemoglu e Restrepo, pubblicato su Journal of Political Economy nel 2020, analizza l'impatto dei robot industriali sul mercato del lavoro negli Stati Uniti. La ricerca cerca di rispondere a una domanda fondamentale: l'adozione dei robot porta a una riduzione netta dell'occupazione e dei salari per i lavoratori umani, o crea nuove opportunità che compensano lo spiazzamento?
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://www.journals.uchicago.edu/doi/abs/10.1086/705716
 

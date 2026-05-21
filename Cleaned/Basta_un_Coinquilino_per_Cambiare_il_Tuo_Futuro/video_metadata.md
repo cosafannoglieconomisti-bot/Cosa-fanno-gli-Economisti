@@ -1,12 +1,18 @@
-# Metadati Video - Basta un Coinquilino per Cambiare il Tuo Futuro
+# Metadati Video - Basta_un_Coinquilino_per_Cambiare_il_Tuo_Futuro
 
 ## Descrizione YouTube
 Lo studio "Interaction, Stereotypes, and Performance: Evidence from South Africa" di Corno, La Ferrara, Burns, pubblicato su American Economic Review nel 2022, Può un semplice compagno di stanza abbattere il razzismo e rivoluzionare la tua carriera universitaria? In questo studio condotto in Sudafrica, scopriamo come la convivenza forzata tra studenti di etnie diverse riduca i pregiudizi e migliori drasticamente i voti.
 
+
+📺 GUARDA ANCHE:
+► I_costi_dell_aborto_negato: https://www.youtube.com/watch?v=kdFA7y9TGYo
+► I_prof_sono_razzisti: https://www.youtube.com/watch?v=mnhpTOSPmig
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
+
 ⏰ Fonte: ►► https://doi.org/10.1257/aer.20181805
 
 ⏰ISCRIVITI al canale ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1
-
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ⏰ INDICE CONTENUTI ⏰

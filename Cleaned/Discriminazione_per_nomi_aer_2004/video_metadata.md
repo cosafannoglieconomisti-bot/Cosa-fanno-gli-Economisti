@@ -1,9 +1,11 @@
-# Una storia di nomi e discriminazione
+# Metadati Video - Discriminazione_per_nomi_aer_2004
 
 ## Descrizione YouTube
 
 Lo studio "Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination" di Bertrand e Mullainathan, pubblicato su The American Economic Review nel 2004, analizza se i datori di lavoro trattino in modo differenziato i candidati in base alla loro razza, verificando nello specifico se i nomi che evocano l'identità afroamericana ricevano meno richiamate per colloqui di lavoro rispetto ai nomi percepiti come bianchi, a parità di competenze e qualità del curriculum
 .
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://www.aeaweb.org/articles?id=10.1257/0002828042002561
 

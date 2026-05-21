@@ -1,8 +1,15 @@
-# Metadati Video - I Costi dell'Aborto Negato
+# Metadati Video - I_costi_dell_aborto_negato
 
 ## Descrizione YouTube
 
 Lo studio "The Impact of Being Denied a Wanted Abortion on Women and Their Children" di Londoño-Vélez e Saravia, pubblicato su The Quarterly Journal of Economics nel 2025, analizza le conseguenze economiche e sociali del diniego all'accesso all'aborto. Grazie a un esperimento naturale basato sulla casualità dei giudici in Colombia, la ricerca rivela un drammatico effetto a catena: aumento del rischio di povertà per le madri e calo della frequenza scolastica per i figli già esistenti.
+
+
+📺 GUARDA ANCHE:
+► Basta_un_Coinquilino_per_Cambiare_il_Tuo_Futuro: https://www.youtube.com/watch?v=LGoIyQXV5As
+► I_prof_sono_razzisti: https://www.youtube.com/watch?v=mnhpTOSPmig
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1093/qje/qjaf006
 

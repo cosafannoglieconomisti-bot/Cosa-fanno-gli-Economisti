@@ -1,8 +1,10 @@
-# Mafia Inc.: come la criminalità organizzata investe nell'economia legale
+# Metadati Video - Mafia_Inc_restat_2021
 
 ## Descrizione YouTube
 
 Lo studio "Revealing “Mafia Inc.”? Financial Crisis, Organized Crime, and the Birth of New Enterprises" di Marco Le Moglie e Giuseppe Sorrenti, pubblicato su *The Review of Economics and Statistics* nel 2021, analizza gli investimenti della criminalità organizzata nell'economia legale. Sfruttando lo shock della crisi dei mutui subprime del 2007, la ricerca cerca di rispondere a una domanda fondamentale: è vero che le province con un'alta presenza mafiosa risentono meno delle crisi economiche perché le cosche pompano liquidità sporca per aprire nuove imprese?
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1162/rest_a_00942
 

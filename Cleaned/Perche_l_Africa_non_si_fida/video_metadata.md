@@ -1,12 +1,18 @@
-# Metadati Video - Perché l'Africa non si fida?
+# Metadati Video - Perche_l_Africa_non_si_fida
 
 ## Descrizione YouTube
 Lo studio "Slave Trade and the Origins of Mistrust in Africa" di Nunn, Wantchekon, pubblicato su American Economic Review nel 2011, È possibile che un trauma terminato un secolo fa influenzi ancora oggi quanto ti fidi del tuo vicino? Questo studio rivela come la tratta degli schiavi abbia radicato in Africa una cultura del sospetto che si tramanda di generazione in generazione, frenando lo sviluppo economico attuale.
 
+
+📺 GUARDA ANCHE:
+► Cervelli_in_fuga_un_danno: https://www.youtube.com/watch?v=YoEIAPvWrZI
+► Dio_blocca_la_democrazia: https://www.youtube.com/watch?v=BFW6hmE5WiQ
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
+
 ⏰ Fonte: ►► http://www.aeaweb.org/articles.php?doi=10.1257/aer.101.7.3221
 
 ⏰ISCRIVITI al canale ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1
-
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ⏰ INDICE CONTENUTI ⏰

@@ -1,0 +1,22 @@
+╭──────────────── 🚀 FastMCP Server Starting ────────────────╮
+│ Starting NotebookLM FastMCP v2 Server                      │
+│ Mode: Headless                                             │
+│ Transport: STDIO                                           │
+│                                                            │
+│                                                            │
+│ Notebook: 80c5a48e-d92a-4295-8142-ddb669260600             │
+│ Working Directory: /Users/marcolemoglie_1_2/Desktop/canale │
+│ Profile: ./chrome_profile_notebooklm                       │
+│ Debug: False                                               │
+╰────────────────────────────────────────────────────────────╯
+📁 Set working directory to: /Users/marcolemoglie_1_2/Desktop/canale
+2026-05-09 15:43:50.027 | INFO     | notebooklm_mcp.server:__init__:63 - FastMCP v2 server initialized for notebook: 80c5a48e-d92a-4295-8142-ddb669260600
+2026-05-09 15:43:50.027 | INFO     | notebooklm_mcp.server:start:257 - 📡 Starting STDIO server...
+2026-05-09 15:43:50.056 | INFO     | notebooklm_mcp.client:_start_browser:45 - Using undetected-chromedriver for better compatibility
+/Users/marcolemoglie_1_2/Desktop/canale/.venv/lib/python3.11/site-packages/undetected_chromedriver/patcher.py:263: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  return LooseVersion(major_versions["milestones"][str(self.version_main)]["version"])
+WARNING:root:Failed to validate request: Received request before initialization was complete
+/Users/marcolemoglie_1_2/Desktop/canale/.venv/lib/python3.11/site-packages/undetected_chromedriver/__init__.py:363: DeprecationWarning: 'locale.getdefaultlocale' is deprecated and slated for removal in Python 3.15. Use setlocale(), getencoding() and getlocale() instead.
+  language = locale.getdefaultlocale()[0].replace("_", "-")
+/opt/homebrew/Cellar/python@3.11/3.11.14_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

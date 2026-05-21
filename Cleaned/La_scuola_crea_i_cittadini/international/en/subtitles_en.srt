@@ -1,0 +1,515 @@
+1
+00:00:00,000 --> 00:00:02,620
+Welcome to this new deep dive.
+
+2
+00:00:02,620 --> 00:00:08,140
+Today we ask ourselves a seemingly simple question, but one that actually shakes the foundations of our
+
+3
+00:00:08,140 --> 00:00:09,140
+society.
+
+4
+00:00:09,140 --> 00:00:14,640
+Does school create citizens? We will explore a topic we take almost for granted, starting
+
+5
+00:00:14,640 --> 00:00:19,580
+from a truly revolutionary economic study, signed by researchers Alesina, Giuliano,
+
+6
+00:00:19,580 --> 00:00:20,580
+and Reich.
+
+7
+00:00:20,580 --> 00:00:24,780
+You know, we often like to imagine that public school was born from a pure, noble
+
+8
+00:00:24,780 --> 00:00:26,940
+impulse of philanthropy toward the masses.
+
+9
+00:00:26,940 --> 00:00:32,340
+Well, the data tells us of a much, much more counterintuitive, and frankly
+
+10
+00:00:32,340 --> 00:00:33,340
+fascinating genesis.
+
+11
+00:00:33,340 --> 00:00:35,539
+Let's get straight to the heart of it.
+
+12
+00:00:35,539 --> 00:00:40,740
+Think of this very famous quote by Massimo d'Azeglio; it perfectly illustrates what
+
+13
+00:00:40,740 --> 00:00:43,859
+the mentality of the 19th-century elites was.
+
+14
+00:00:43,859 --> 00:00:49,100
+At the time, the masses were absolutely not seen as active citizens with rights;
+
+15
+00:00:49,100 --> 00:00:53,659
+no, they were considered more like a sort of clay, a raw material that desperately
+
+16
+00:00:53,660 --> 00:00:55,820
+needed to be molded.
+
+17
+00:00:55,820 --> 00:01:00,900
+School, from this perspective, was the great cauldron in which to melt disparate identities, languages, and cultures
+
+18
+00:01:00,900 --> 00:01:04,340
+to literally forge a united people.
+
+19
+00:01:04,340 --> 00:01:08,579
+It is a concept that radically changes our perspective on the entire system.
+
+20
+00:01:08,579 --> 00:01:13,620
+Here is how we will move today: first we will explore the secret origin of school, then
+
+21
+00:01:13,620 --> 00:01:19,219
+we will talk about dictatorships and democracies, moving on to the so-called threat of democracy.
+
+22
+00:01:19,219 --> 00:01:25,099
+We will look at the historical evidence and finally analyze the very interesting strategy of the colonizers.
+
+23
+00:01:25,099 --> 00:01:26,539
+It will be quite a journey.
+
+24
+00:01:26,539 --> 00:01:31,659
+Let's start with the first point on our list: the secret origin of school.
+
+25
+00:01:31,659 --> 00:01:33,819
+We need to debunk a myth right away.
+
+26
+00:01:33,819 --> 00:01:37,299
+Mass schooling was not born out of pure altruism.
+
+27
+00:01:37,299 --> 00:01:40,379
+The real motivations were coldly strategic.
+
+28
+00:01:40,379 --> 00:01:45,060
+It is all summed up in the concept of Nation Building, the construction of the nation.
+
+29
+00:01:45,060 --> 00:01:50,379
+Mind you, we are not talking about State Building, that is, building public offices or collecting
+
+30
+00:01:50,379 --> 00:01:51,379
+taxes.
+
+31
+00:01:51,379 --> 00:01:55,780
+Nation Building is a calculated process; it is the art of making people feel part
+
+32
+00:01:55,780 --> 00:02:00,100
+of a single large group, so that they feel they have something in common and do not want, for
+
+33
+00:02:00,100 --> 00:02:01,579
+example, to divide the country.
+
+34
+00:02:01,579 --> 00:02:06,140
+And guess what, school classrooms were the perfect tool to do it.
+
+35
+00:02:06,140 --> 00:02:10,780
+This thought by Napoleon in 1805 hits the nail right on the head.
+
+36
+00:02:10,780 --> 00:02:14,699
+As early as the beginning of the 1800s, political leaders had understood everything.
+
+37
+00:02:14,699 --> 00:02:18,460
+Elementary schools were formidable ideological tools.
+
+38
+00:02:18,460 --> 00:02:22,539
+Teaching loyalty to the system from the moment children could barely walk
+
+39
+00:02:22,539 --> 00:02:27,460
+was, quite simply, the cheapest and most effective way to prevent disorder and stabilize
+
+40
+00:02:27,460 --> 00:02:29,379
+regimes in the long term.
+
+41
+00:02:29,379 --> 00:02:31,099
+Let's move on to the second chapter.
+
+42
+00:02:31,099 --> 00:02:34,340
+Dictatorships, democracies, and nations.
+
+43
+00:02:34,340 --> 00:02:39,340
+The study we are analyzing uses a brilliant economic model to explain all this.
+
+44
+00:02:39,340 --> 00:02:42,379
+It is based on the so-called theory of distance.
+
+45
+00:02:42,379 --> 00:02:46,620
+Simply put, imagine that every citizen has their own political ideas.
+
+46
+00:02:46,620 --> 00:02:51,699
+If the government's choices are too far from those ideals, the citizen suffers, feeling
+
+47
+00:02:51,699 --> 00:02:53,819
+a cost, a dissatisfaction.
+
+48
+00:02:53,819 --> 00:02:59,099
+If this discontent grows too much, some regions might even want to secede.
+
+49
+00:02:59,099 --> 00:03:04,500
+Education acts chemically to reduce this distance, homogenizing minds and keeping them
+
+50
+00:03:04,500 --> 00:03:06,580
+close to the center of government.
+
+51
+00:03:06,580 --> 00:03:10,780
+And here, a fantastic paradox emerges between two types of dictatorships.
+
+52
+00:03:10,780 --> 00:03:15,820
+A completely secure dictator who does not fear revolts has absolutely no desire to
+
+53
+00:03:15,820 --> 00:03:19,980
+spend money on schools; extracting wealth is enough for him, and that's it.
+
+54
+00:03:19,980 --> 00:03:25,780
+But an elite or a threatened dictator who feels the breath of the population on their neck
+
+55
+00:03:25,780 --> 00:03:31,380
+changes tactics, opens their wallet, and invests heavily in education, because in order
+
+56
+00:03:31,379 --> 00:03:36,379
+to indoctrinate the masses, convince them to appreciate the regime, and basically save
+
+57
+00:03:36,379 --> 00:03:37,379
+their own seat.
+
+58
+00:03:37,379 --> 00:03:42,219
+And this brings us to chapter 3, the threat of democracy.
+
+59
+00:03:42,219 --> 00:03:47,379
+Hold on tight, because the historical data here shows a truly ruthless truth.
+
+60
+00:03:47,379 --> 00:03:52,219
+The imminent arrival of the right to vote literally terrified rulers.
+
+61
+00:04:01,379 --> 00:04:05,900
+Compulsory education did not arrive hand in hand with modern democracies.
+
+62
+00:03:56,379 --> 00:03:59,379
+No, it preceded them by an average of a whopping 50 years.
+
+63
+00:03:59,379 --> 00:04:01,379
+The elites reasoned like this.
+
+64
+00:04:01,379 --> 00:04:05,900
+Before these masses get the right to vote, we must make sure we have taught
+
+65
+00:04:05,900 --> 00:04:08,979
+them how to vote while keeping our values intact.
+
+66
+00:04:08,979 --> 00:04:12,699
+It's a literal three-step defense mechanism.
+
+67
+00:04:12,699 --> 00:04:16,019
+First, there is a major risk of revolutions on the horizon.
+
+68
+00:04:16,019 --> 00:04:21,180
+Second, the elites scramble for cover by imposing mass education across the country.
+
+69
+00:04:21,180 --> 00:04:27,339
+Third, the new, now culturally homogenized and aligned population stops wanting to cut off
+
+70
+00:04:27,340 --> 00:04:32,700
+heads, the revolution deflates, the country's unity is saved, and the rich stay rich,
+
+71
+00:04:32,700 --> 00:04:35,780
+school as the ultimate social shock absorber.
+
+72
+00:04:35,780 --> 00:04:40,620
+Let's look at the proof of facts, chapter 4, the proof of history.
+
+73
+00:04:40,620 --> 00:04:43,820
+This is not just theory drawn on a blackboard.
+
+74
+00:04:43,820 --> 00:04:49,500
+History proves it to us, step by step, look at this impressive timeline,
+
+75
+00:04:49,500 --> 00:04:54,260
+in Prussia, in France, in Victorian England, and even in Japan.
+
+76
+00:04:54,259 --> 00:04:59,659
+Every time there were peasant revolts, revolutions, or pressures to expand suffrage,
+
+77
+00:04:59,659 --> 00:05:02,060
+what was the state's very first response?
+
+78
+00:05:02,060 --> 00:05:05,539
+Major school reforms: they built classrooms.
+
+79
+00:05:05,539 --> 00:05:11,060
+The pattern repeats itself identically, across completely different continents and cultures, but to play
+
+80
+00:05:11,060 --> 00:05:15,779
+devil's advocate, what if school had been just a generous concession
+
+81
+00:05:15,779 --> 00:05:18,379
+to satisfy the people who demanded it?
+
+82
+00:05:18,379 --> 00:05:23,540
+Well, if that were the case, welfare reforms, such as healthcare or unemployment benefits,
+
+83
+00:05:23,540 --> 00:05:28,540
+would have arrived at the same time, but that's not how it went.
+
+84
+00:05:28,540 --> 00:05:33,560
+Welfare arrived much, much later, almost always only after the people had
+
+85
+00:05:33,560 --> 00:05:35,060
+actually gained the vote.
+
+86
+00:05:35,060 --> 00:05:41,259
+In short, the poor demanded bread and wages, but the elites provided schools to guarantee order.
+
+87
+00:05:41,259 --> 00:05:46,500
+And mind you, we are not talking about a dynamic limited to the dust of the 1800s.
+
+88
+00:05:46,740 --> 00:05:51,939
+The researchers of the study went much further, analyzing a gigantic sample.
+
+89
+00:05:51,939 --> 00:05:59,459
+We are talking about data from a whopping 172 countries collected from 1925 to 2014.
+
+90
+00:05:59,459 --> 00:06:01,939
+And what do these modern numbers tell us?
+
+91
+00:06:01,939 --> 00:06:03,819
+They remove all doubt.
+
+92
+00:06:03,819 --> 00:06:08,500
+If we look at today's non-democratic regimes, when they are under a serious threat,
+
+93
+00:06:08,500 --> 00:06:13,379
+such as major government crises or attempted revolutions, an anomalous spike occurs
+
+94
+00:06:13,379 --> 00:06:15,540
+in primary school enrollment.
+
+95
+00:06:15,660 --> 00:06:19,460
+We are talking about increases of over 20% in the following decade.
+
+96
+00:06:19,460 --> 00:06:21,220
+The golden rule stands.
+
+97
+00:06:21,220 --> 00:06:25,220
+When the throne creaks, the education machine accelerates to the maximum.
+
+98
+00:06:25,220 --> 00:06:31,100
+And here we are at chapter 5, the last one: the strategy of the colonizers.
+
+99
+00:06:31,100 --> 00:06:34,020
+This is perhaps the most revealing passage.
+
+100
+00:06:34,020 --> 00:06:38,060
+The exception that proves the rule in an almost dramatic way.
+
+101
+00:06:38,060 --> 00:06:43,140
+We have seen that local elites built schools to create an identity and avoid being
+
+102
+00:06:43,139 --> 00:06:45,740
+overthrown, but the colonial empires?
+
+103
+00:06:45,740 --> 00:06:50,139
+They could always get on their ships and return to their homeland; they had no
+
+104
+00:06:50,139 --> 00:06:54,300
+incentive to create a strong national identity in the occupied country.
+
+105
+00:06:54,300 --> 00:06:59,860
+In fact, their logic was divide and conquer; they deliberately kept the population
+
+106
+00:06:59,860 --> 00:07:05,219
+fragmented, divided, to prevent them from presenting a united front in a collective rebellion.
+
+107
+00:07:05,219 --> 00:07:09,459
+We find this highly cynical approach everywhere.
+
+108
+00:07:09,540 --> 00:07:14,180
+In the British Caribbean, compulsory school was simply ignored for decades.
+
+109
+00:07:14,180 --> 00:07:18,540
+In Kenya, British officials tried in every way to obstruct a bridge language
+
+110
+00:07:18,540 --> 00:07:21,860
+like Swahili, out of fear that it might unite the various tribes.
+
+111
+00:07:21,860 --> 00:07:26,500
+And in Ethiopia, the Italian colonial authorities pushed for teaching almost exclusively
+
+112
+00:07:26,500 --> 00:07:31,100
+in local dialects, with the precise and declared intent of sowing disunity among the Ethiopian
+
+113
+00:07:31,100 --> 00:07:32,100
+peoples.
+
+114
+00:07:32,100 --> 00:07:35,420
+And so we come to the conclusion of our journey.
+
+115
+00:07:35,420 --> 00:07:40,660
+When we look at raw data and history with a capital H, the super-romantic image
+
+116
+00:07:40,660 --> 00:07:43,900
+of public education that we have in our heads fades a bit.
+
+117
+00:07:43,900 --> 00:07:48,700
+The entire modern school system has been shaped globally by the naked
+
+118
+00:07:48,700 --> 00:07:51,420
+and raw need of elites to survive.
+
+119
+00:07:51,420 --> 00:07:56,700
+Mass education was not designed to liberate, but to peacefully absorb
+
+120
+00:07:56,700 --> 00:08:01,379
+and control the enormous challenges that would come with universal suffrage.
+
+121
+00:08:01,379 --> 00:08:07,500
+And in light of all this, the research leaves us with a very, very powerful question.
+
+122
+00:08:07,500 --> 00:08:12,339
+Let's look at how we frame and evaluate education today, from kindergarten all the way
+
+123
+00:08:12,339 --> 00:08:13,500
+to the end of high school.
+
+124
+00:08:13,500 --> 00:08:18,019
+How much of that ancient design of social control still lives today at our school
+
+125
+00:08:18,019 --> 00:08:19,019
+desks?
+
+126
+00:08:19,019 --> 00:08:22,779
+Are we truly forming critical thinkers, or just obedient citizens?
+
+127
+00:08:22,779 --> 00:08:26,939
+It's a fascinating key to reinterpreting the institutions that surround us.
+
+128
+00:08:26,939 --> 00:08:30,500
+We'll stop here, but you keep thinking about it.
+
+129
+00:08:30,500 --> 00:08:34,779
+Thank you for following this deep dive into numbers and history. Until next time.

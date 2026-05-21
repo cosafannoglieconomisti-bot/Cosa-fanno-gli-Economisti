@@ -23,6 +23,12 @@ def translate_metadata(input_path, output_dir, target_langs):
 
     overall_success = True
     for lang in target_langs:
+        lang_dir = os.path.join(output_dir, lang)
+        out_path = os.path.join(lang_dir, f"metadata_{lang}.md")
+        if os.path.exists(out_path):
+            print(f"✅ Metadati {lang} già esistenti in {out_path}, skip.")
+            continue
+            
         print(f"🌍 Traduzione Metadati in {lang}...")
         success = False
         

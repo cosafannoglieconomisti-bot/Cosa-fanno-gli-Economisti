@@ -13,7 +13,8 @@ CORE_PATHS = [
     "Agents",
     "GEMINI.md",
     ".gitignore",
-    "README.md"
+    "README.md",
+    "CODEX_INSTRUCTIONS.md"
 ]
 
 # Progetti SPECIFICI da includere in Cleaned/

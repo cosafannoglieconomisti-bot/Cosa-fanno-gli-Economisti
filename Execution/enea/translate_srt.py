@@ -19,6 +19,10 @@ def translate_srt(input_path, output_path, target_lang):
         print(f"❌ Error: File not found {input_path}")
         return False
 
+    if os.path.exists(output_path):
+        print(f"✅ Subtitles for {target_lang} already exist at {output_path}, skip.")
+        return True
+
     print(f"🌍 Translating {input_path} to {target_lang}...")
     
     with open(input_path, "r", encoding="utf-8") as f:

@@ -3,6 +3,11 @@
 ## Descrizione YouTube
 Lo studio "Family Values and the Regulation of Labor" di Alesina, Algan, Cahuc e Giuliano, pubblicato su Journal of the European Economic Association nel 2015, analizza come i forti legami familiari influenzino la scelta delle istituzioni del mercato del lavoro, dimostrando che in culture con legami forti gli individui preferiscono mercati regolamentati per proteggersi dalla scarsa mobilità geografica, nonostante questo porti a maggiore disoccupazione e redditi più bassi.
 
+
+📺 GUARDA ANCHE:
+► Amiamo_le_tasse_Questione_culturale: https://www.youtube.com/watch?v=7cHt_oLI4_k
+► La_Chiesa_frena_l_integrazione: https://www.youtube.com/watch?v=KyA_Pu8BPhE
+
 ⏰ Fonte: ►► https://doi.org/10.1111/jeea.12121
 
 ⏰ISCRIVITI al canale ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1

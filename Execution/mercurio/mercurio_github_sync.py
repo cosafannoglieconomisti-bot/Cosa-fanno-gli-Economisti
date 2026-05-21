@@ -15,7 +15,8 @@ ALLOWED_PATHS = [
     "GEMINI.md",
     "Cleaned",
     ".gitignore",
-    "README.md"
+    "README.md",
+    "CODEX_INSTRUCTIONS.md"
 ]
 
 # Pattern Regex per l'offuscamento (estendibile)

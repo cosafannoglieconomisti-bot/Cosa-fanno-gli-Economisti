@@ -203,6 +203,16 @@ def handle_message(message):
             threading.Thread(target=run_backup).start()
             return
 
+        elif cmd == '/crescita':
+            bot.send_chat_action(message.chat.id, 'typing')
+            def run_crescita():
+                reply_and_log(message, "⏳ Avvio del ciclo di crescita e ottimizzazione SEO (The Authority Cycle)...")
+                res = run_and_get_output('crescita')
+                send_and_log(message.chat.id, f"✅ Ciclo di Crescita Completato!\n\n{res[:4000]}")
+                log_to_bridge("Ciclo di Crescita Completato", "Cesare (System)", source="Bridge")
+            threading.Thread(target=run_crescita).start()
+            return
+
         elif cmd == '/gmail':
             bot.send_chat_action(message.chat.id, 'typing')
             def run_gmail():
@@ -607,7 +617,7 @@ def handle_message(message):
             return
 
         # Fallback per comandi non riconosciuti (evita trigger accidentali dell'IA)
-        reply_and_log(message, f"⚠️ Comando `{cmd}` non riconosciuto. Usa `/paper`, `/produzione`, `/pulizia`, `/articoli`, `/backup`, `/gmail`, `/report`, `/copertina`, `/upload` o `/playlist`.")
+        reply_and_log(message, f"⚠️ Comando `{cmd}` non riconosciuto. Usa `/paper`, `/produzione`, `/pulizia`, `/articoli`, `/backup`, `/gmail`, `/report`, `/copertina`, `/upload`, `/playlist` o `/crescita`.")
         log_to_bridge(f"Comando non riconosciuto: {cmd}", username, source="Telegram")
         return
 

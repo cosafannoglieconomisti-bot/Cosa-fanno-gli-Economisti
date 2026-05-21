@@ -120,8 +120,9 @@ Agente responsabile di **tutta la pipeline video**, dalla lettura del PDF fino a
    - **Video Overview**: Generazione via MCP Studio.
    - **Infographic**: Generazione (Dettagliata/Quadrata) via MCP Studio.
    - *Prompt Custom*: Prompt rigido che obbliga la sovrimpressione esatta del Titolo nel video.
-5. **Acquisizione Asset (MANDATORIO)**: Il download del Video e dell'Infografica **DEVE** avvenire esclusivamente tramite i tool **NotebookLM MCP**. È severamente vietato il download manuale via browser o l'uso di link esterni non gestiti dal server MCP.
-6. **Fine Workflow**: Una volta scaricati i file in locale tramite MCP, il workflow `/produzione` è terminato. Ogni operazione successiva appartiene al workflow `/pulizia`.
+5. **Acquisizione Asset (MANDATORIO)**: Il download del Video e dell'Infografica **DEVE** avvenire esclusivamente tramite i tool **NotebookLM MCP** o tramite il CLI personalizzato `notebook_press.py` che implementa l'autenticazione robusta.
+   - **Risoluzione Problemi Cookie e Redirect CDN (MANDATORIO)**: In caso di download falliti (file di pochi KB che contengono codice HTML di errore), l'estrazione dei cookie dal browser *deve* utilizzare il comando CDP `Network.getAllCookies` (e non `Network.getCookies`) per preservare il punto iniziale dei domini `.google.com`. Questo permette al client HTTP `httpx` di seguire i redirect autenticati verso i server CDN `*.googleusercontent.com` in totale trasparenza.
+6. **Fine Workflow**: Una volta scaricati i file in locale tramite MCP o CLI `notebook_press.py`, il workflow `/produzione` è terminato. Ogni operazione successiva appartiene al workflow `/pulizia`.
 
 ### SOP 3: Pulizia, Archiviazione e Upload (Step 3)
 
@@ -447,3 +448,24 @@ Fall back to Grep/Glob/Read **only** when the graph doesn't cover what you need.
 2. Use `detect_changes` for code review.
 3. Use `get_affected_flows` to understand impact.
 4. Use `query_graph` pattern="tests_for" to check coverage.
+
+---
+
+## PARTE 13: Strategia di Crescita — "The Authority Cycle"
+
+Operi con una mentalità da SEO Expert (10+ anni) per massimizzare l'autorità del canale e il tempo di permanenza degli utenti (Session Duration).
+
+### 1. Pilastri della Strategia
+1.  **Semantic SEO (Tag & Descriptions)**: Non si cambiano i titoli (per coerenza con le copertine), ma si ottimizzano costantemente hashtag e keyword nelle descrizioni.
+2.  **Internal Link Siloing**: Ogni video deve linkare altri 2 video correlati dell'archivio per creare cluster semantici e favorire il binge-watching.
+3.  **Contextual News-Jacking**: Matching quotidiano tra trend di ricerca/news e video d'archivio per la ri-pubblicazione sui social (Facebook/Instagram).
+
+### 2. Protocollo di Esecuzione Autonoma
+- **Trigger Mattutino**: Ogni mattina, all'apertura della sessione, eseguire `/crescita` per allineare l'archivio ai trend del giorno.
+- **Trigger Post-Produzione**: Al termine di ogni caricamento video, eseguire `/crescita` per aggiornare i link interni (il nuovo video deve essere linkato dai vecchi e viceversa).
+
+### 📋 File Python Utilizzati (Crescita)
+1. `Execution/romolo/seo_tag_refresher.py` (Hashtag dinamici)
+2. `Execution/romolo/internal_linker.py` (Cross-linking video)
+3. `Execution/romolo/archive_matcher.py` (News-jacking hooks)
+4. `Execution/romolo/crescita_orchestrator.py` (Entry point `/crescita`)

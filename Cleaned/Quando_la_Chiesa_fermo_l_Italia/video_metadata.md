@@ -1,7 +1,14 @@
-# Quando la Chiesa fermò l'Italia
+# Metadati Video - Quando_la_Chiesa_fermo_l_Italia
 
 ## Descrizione YouTube
 Lo studio "Catholic Censorship and the Demise of Knowledge Production in Early Modern Italy" di Blasutto e de la Croix, pubblicato su The Economic Journal nel 2023, analizza come l'Indice dei Libri Proibiti abbia stroncato la produzione di conoscenza in Italia. Attraverso l'effetto "raggelante", la censura ha spinto i migliori talenti verso carriere conformi ma poco innovative, causando un crollo della leadership intellettuale italiana che è durato per secoli e che è costato quasi il 43% della produzione scientifica potenziale.
+
+
+📺 GUARDA ANCHE:
+► Amiamo_le_tasse_Questione_culturale: https://www.youtube.com/watch?v=7cHt_oLI4_k
+► La_Chiesa_frena_l_integrazione: https://www.youtube.com/watch?v=KyA_Pu8BPhE
+
+📸 Infografica completa su Instagram: https://www.instagram.com/cosafannoglieconomisti/
 
 ⏰ Fonte: ►► https://doi.org/10.1093/ej/uead037
 
