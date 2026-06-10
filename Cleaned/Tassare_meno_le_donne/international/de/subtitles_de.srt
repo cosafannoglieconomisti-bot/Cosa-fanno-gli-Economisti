@@ -1,0 +1,299 @@
+1
+00:00:00,000 --> 00:00:07,200
+Frauen weniger zu besteuern scheint eine Provokation zu sein, aber in unserer neuen Untersuchung werden wir einige Forschungsergebnisse analysieren
+
+2
+00:00:07,200 --> 00:00:11,000
+Wirtschaft, die genau diese Steuerlösung vorschlägt.
+
+3
+00:00:11,000 --> 00:00:16,000
+Beginnen wir mit einem Grundkonzept, der Theorie der optimalen Besteuerung.
+
+4
+00:00:16,000 --> 00:00:24,000
+Im Wesentlichen ist eine wohlwollende Regierung, das heißt eine Regierung, die öffentliche Einnahmen eintreiben und dabei der Wirtschaft so wenig Schaden wie möglich zufügen will,
+
+5
+00:00:24,000 --> 00:00:28,000
+Es sollte niedrigere Steuern auf diejenigen anwenden, die ein flexibleres Stellenangebot haben.
+
+6
+00:00:28,000 --> 00:00:34,000
+Um diese Theorie auf den Punkt zu bringen, ist es faszinierend zu entdecken, wie die innere Organisation der Familie,
+
+7
+00:00:34,000 --> 00:00:39,000
+geht so weit, die Finanzpolitik einer ganzen Nation direkt und kraftvoll zu beeinflussen.
+
+8
+00:00:39,000 --> 00:00:46,000
+An dieser Stelle fragen Sie sich vielleicht: Warum um alles in der Welt sollten diejenigen mit einem flexibleren Jobangebot einen Steuernachlass erhalten?
+
+9
+00:00:46,000 --> 00:00:51,000
+Die ökonomische Logik dahinter ist die sogenannte Reverse-Astics-Regel.
+
+10
+00:00:52,000 --> 00:00:59,000
+Um die Ineffizienz des Systems zu minimieren, sollte der Staat diejenigen stärker besteuern, die ihre Arbeitsgewohnheiten aufgrund von Steuern ohnehin nicht ändern würden.
+
+11
+00:00:59,000 --> 00:01:04,000
+und diejenigen weniger besteuern, die ihre Arbeit aufgeben würden, wenn die Steuerlast zu hoch würde.
+
+12
+00:01:04,000 --> 00:01:08,000
+Doch die Realität geht genau in die entgegengesetzte Richtung.
+
+13
+00:01:08,000 --> 00:01:15,000
+Heutzutage sind in den meisten westlichen Systemen verheiratete Frauen genau die Gruppe der Arbeitnehmer mit dem höchsten und absoluten Anspruch
+
+14
+00:01:15,000 --> 00:01:19,000
+Am Ende müssen sie mit deutlich höheren Grenzsteuerbelastungen rechnen als Singles.
+
+15
+00:01:19,000 --> 00:01:24,000
+Oxe-Daten aus dem Jahr 2001 verdeutlichen dieses Paradoxon auf spektakuläre Weise.
+
+16
+00:01:24,000 --> 00:01:34,000
+Es zeigt sich deutlich, dass die sogenannten Zweitverdiener in der Familie, bei denen es sich historisch und statistisch fast immer um Frauen handelt, stark benachteiligt werden.
+
+17
+00:01:34,000 --> 00:01:42,000
+Betrachtet man den allgemeinen Durchschnitt, liegt die durchschnittliche Quote bei Zweitverdienern bei 28 %, während sie bei Singles auf 21 % sinkt.
+
+18
+00:01:43,000 --> 00:01:50,000
+In einigen Ländern ist die Situation sogar noch drastischer. In Deutschland zum Beispiel haben wir sehr hohe 50 % gegenüber 34 %.
+
+19
+00:01:50,000 --> 00:01:55,000
+Und in Italien beträgt der Unterschied zwischen 38 % und 24 %.
+
+20
+00:01:55,000 --> 00:02:03,000
+Kurz gesagt, das derzeitige System entmutigt die Arbeit derjenigen Menschen, die nach kalter wirtschaftlicher Logik stattdessen gefördert werden sollten.
+
+21
+00:02:03,000 --> 00:02:11,000
+Aber um zu verstehen, wie wir in diese Situation geraten sind, müssen wir einen Blick hinter die heimischen Mauern werfen und dabei dem zentralen Wirtschaftsmodell dieser Studie folgen.
+
+22
+00:02:12,000 --> 00:02:19,000
+Der Wendepunkt besteht darin, dass die Familieneinheit nicht als eine Einheit aus Granit betrachtet wird, auf keinen Fall.
+
+23
+00:02:19,000 --> 00:02:30,000
+Tatsächlich ist die Familie ein echter Verhandlungstisch. Mann und Frau führen kontinuierliche Verhandlungen, was wir in der Ökonomie Nash-Verhandlungen nennen.
+
+24
+00:02:30,000 --> 00:02:37,000
+Sie verhandeln buchstäblich über alles, wie das Geld geschickt wird, wie viel Zeit man für die bezahlte Arbeit aufwendet und natürlich, wer dafür bezahlt.
+
+25
+00:02:37,000 --> 00:02:42,000
+Liegt ein Ungleichgewicht vor, wird das Problem durch implizite Nebenzahlungen gelöst.
+
+26
+00:02:42,000 --> 00:02:49,000
+Es ist ein bisschen so, als ob einer der beiden Partner im Gegenzug für einen Kompromiss einen größeren Anteil am Konsum oder an der Freizeit erhält.
+
+27
+00:02:49,000 --> 00:02:57,000
+Nun identifiziert die Forschung zwei Makromotive, die zu einer unausgewogenen Aufteilung von Arbeit und Hausaufgaben zwischen den Geschlechtern führen.
+
+28
+00:02:58,000 --> 00:03:11,000
+Einerseits gibt es den sogenannten komparativen Vorteil. Dies ist dann der Fall, wenn es äußere Unterschiede gibt. Vielleicht zahlt der Arbeitsmarkt ausscheidenden Frauen weniger, sodass es für sie wirtschaftlich sinnvoller ist, sich um den Haushalt zu kümmern.
+
+29
+00:03:11,000 --> 00:03:20,000
+Andererseits gibt es die Hypothese einer größeren Verhandlungsmacht. Selbst wenn in diesem Szenario Männer und Frauen hinsichtlich der Produktivität sowohl im Büro als auch zu Hause identisch sind,
+
+30
+00:03:20,000 --> 00:03:26,000
+Der Mann verlässt das Land mit einem überlegenen Verhandlungsgewicht, das auf verlorenen kulturellen und historischen Vorteilen beruht.
+
+31
+00:03:26,000 --> 00:03:36,000
+Interessanterweise zeigt das Modell, dass beide Wege zu genau demselben endgültigen Ungleichgewicht führen und eine vollkommene wissenschaftliche Neutralität in Bezug auf soziale Anliegen gewahrt bleibt.
+
+32
+00:03:36,000 --> 00:03:43,000
+Und wohlgemerkt, diese Verhandlung beginnt nicht am Tag der Hochzeit, sondern viel, viel früher, bei der Berufswahl.
+
+33
+00:03:43,000 --> 00:03:52,000
+Die Entscheidung, eine hochbezahlte Karriere einzuschlagen, ist eine wirklich verbindliche Verpflichtung, die Anstrengung und sehr hohe Standards und ein hohes Maß an Stress erfordert.
+
+34
+00:03:52,000 --> 00:03:58,000
+Höhere Gehälter steigern jedoch den Eheerfolg, also das Gesamtwohl der künftigen Familie.
+
+35
+00:03:58,000 --> 00:04:03,000
+Und hier ist der entscheidende Punkt: Diejenigen, die bereits wissen oder damit rechnen, in der zukünftigen Ehe eine größere Verhandlungsmacht zu haben,
+
+36
+00:04:03,000 --> 00:04:11,000
+Er hat einen großen wirtschaftlichen Anreiz, all diesen Stress auf sich zu nehmen, weil er weiß, wer sich am Ende das größte Stück vom gemeinsamen Kuchen sichern kann.
+
+37
+00:04:11,000 --> 00:04:17,000
+Dies bringt uns zur eigentlichen treibenden Kraft dieser Analyse: der Elastizität des Stellenangebots.
+
+38
+00:04:18,000 --> 00:04:25,000
+Ohne zu viele akademische Worte zu gebrauchen: Elastizität ist einfach das Maß dafür, wie viele Stunden eine Person arbeiten möchte
+
+39
+00:04:25,000 --> 00:04:28,000
+Sie ändern sich, wenn sich das Gehalt ändert.
+
+40
+00:04:28,000 --> 00:04:34,000
+Wenn die Steuern steigen oder jemand die Bürozeiten sofort und drastisch reduziert, dann ist seine Elastizität hoch.
+
+41
+00:04:34,000 --> 00:04:42,000
+Ob Steuern oder keine Steuern, die Person arbeitet jedoch ohne mit der Wimper zu zucken weiterhin in Vollzeit, ihre Elastizität ist ausgesprochen gering.
+
+42
+00:04:42,000 --> 00:04:48,000
+Und hier kommen wir zur grundsätzlichen Frage. Warum ist diese Elastizität zwischen Männern und Frauen so unterschiedlich?
+
+43
+00:04:48,000 --> 00:04:56,000
+Die Antwort liegt in der Rollenverteilung, über die wir zuvor gesprochen haben. Ja, historisch gesehen übernehmen sie wie Frauen mehr häusliche Aufgaben,
+
+44
+00:04:56,000 --> 00:05:01,000
+Die Stunden, die man damit verbringt, sich um das Haus zu kümmern, werden zum perfekten Ersatz für bezahlte Liebe.
+
+45
+00:05:01,000 --> 00:05:09,000
+In der Praxis wird es bei einer geringfügigen Steuererhöhung wirtschaftlich vorteilhafter, weniger im Büro zu arbeiten und mehr zu Hause zu erledigen.
+
+46
+00:05:09,000 --> 00:05:14,000
+B. Mahlzeiten zubereiten oder sich um Kinder kümmern, anstatt jemanden dafür zu bezahlen.
+
+47
+00:05:14,000 --> 00:05:22,000
+Durch diese starke Rückfalloption ist das Arbeitskräfteangebot von Frauen im Vergleich zu dem von Männern äußerst flexibel und sensibel.
+
+48
+00:05:22,000 --> 00:05:29,000
+Und die empirischen Daten bestätigen dies voll und ganz. Trotz des massiven Eintritts von Frauen in den Arbeitsmarkt in den letzten Jahrzehnten,
+
+49
+00:05:29,000 --> 00:05:36,000
+Die Elastizität verheirateter Frauen liegt durchweg und systematisch über der der Männer.
+
+50
+00:05:36,000 --> 00:05:44,000
+Schätzungen gehen von einem Verhältnis von etwa vier zu eins aus. Genau, die Reaktionsfähigkeit der Frauenarbeit auf Gehaltsänderungen
+
+51
+00:05:44,000 --> 00:05:53,000
+es ist etwa viermal höher als bei verheirateten Männern. Eine solche Lücke ist einfach zu groß, als dass die Finanzpolitik sie ignorieren könnte.
+
+52
+00:05:53,000 --> 00:06:01,000
+Und in diesem rein mathematischen Kontext stellt das Papier seine Lösung vor. Geschlechtsspezifische Besteuerung.
+
+53
+00:06:01,000 --> 00:06:08,000
+Wenn wir die reine Wirtschaftseffizienz betrachten, besteht das Ziel einer Regierung darin, Geld zu beschaffen und gleichzeitig die Jahre für die Gesellschaft zu minimieren.
+
+54
+00:06:08,000 --> 00:06:16,000
+Wenn wir davon ausgehen, dass der Staat das Problem der Ungleichheiten auf andere Weise löst, dann sollte das Steuersystem nur auf Ungleichheiten basieren.
+
+55
+00:06:16,000 --> 00:06:27,000
+Angesichts der Tatsache, dass Frauen viermal empfindlicher auf zinsbedingte Gehaltsschwankungen reagieren, schreibt die formale Logik vor, dass sie ein geringeres Grenzeinkommen haben sollten als Männer.
+
+56
+00:06:27,000 --> 00:06:37,000
+Der visuelle Beweis für diesen Mechanismus ist diese Originalgrafik aus der Arbeit, die uns die Grenzerlös- und Grenzkostenkurven bei variierenden Tarifen zeigt.
+
+57
+00:06:37,000 --> 00:06:42,000
+Auf der Horizontalen sehen wir den Unterschied zwischen den Sätzen für Männer und denen für Frauen.
+
+58
+00:06:42,000 --> 00:06:55,000
+Wie aus der Betrachtung des Schnittpunkts zwischen den Linien hervorgeht, liegt das wirtschaftlich perfekte Gleichgewicht genau in dem Bereich, in dem die zusätzlichen Einnahmen aus der stärkeren Besteuerung von Männern die Grenzkosten decken.
+
+59
+00:06:55,000 --> 00:07:03,000
+Zusammenfassend handelt es sich um den mathematischen Nachweis, dass sich die Steuerlast zur Optimierung des Systems stärker in Richtung der männlichen Komponente verschieben sollte.
+
+60
+00:07:03,000 --> 00:07:10,000
+Doch wie ließe sich eine solch bahnbrechende Theorie in die Praxis umsetzen? Das Modell schlägt einen Drei-Phasen-Plan vor.
+
+61
+00:07:10,000 --> 00:07:22,000
+Zunächst werden geschlechtsspezifische Fixsummentransfers eingeführt, also Gelder, die der Staat unabhängig davon gibt, wie viel Arbeit geleistet wird, um die grundlegende gesellschaftliche Macht wieder ins Gleichgewicht zu bringen, ohne den Markt zu verzerren.
+
+62
+00:07:22,000 --> 00:07:34,000
+Zweitens gelten, wie wir gesehen haben, für Männer höhere Grenzsteuersätze, und drittens, was vielleicht der brillanteste Aspekt ist, beobachten wir, wie dieser Steuerdruck die Spielregeln zu Hause verändert.
+
+63
+00:07:34,000 --> 00:07:40,000
+Angesichts dieser neuen Anreize ändert die Familie spontan die Bedingungen ihrer internen Verhandlungen.
+
+64
+00:07:40,000 --> 00:07:49,000
+Dies bringt uns zu den langfristigen Auswirkungen, die entscheidend sind. Die Familie erträgt die Finanzpolitik nicht passiv, sondern passt sich ihr dynamisch an.
+
+65
+00:07:49,000 --> 00:07:57,000
+Indem wir die Arbeit von Frauen weniger besteuern, erhöhen wir exponentiell den Anreiz für Frauen, in ehrgeizige und gut bezahlte Karrieren vor der Ehe zu investieren.
+
+66
+00:07:57,000 --> 00:08:04,000
+Da der Mensch hingegen stärker besteuert wird, wird er dazu gebracht, seine Überstunden auf dem Markt abzubauen.
+
+67
+00:08:04,000 --> 00:08:10,000
+Das Endergebnis, die Aufteilung zwischen denen, die die Angehörigen nach Hause bringen, und denen, die sich um den Haushalt kümmern, wird viel ausgeglichener.
+
+68
+00:08:10,000 --> 00:08:18,000
+Es ist nicht nur eine Möglichkeit, Steuern effizient einzutreiben, sondern eine unsichtbare Kraft, die die Elastizitätslücke schließt, von der aus das ganze Problem begann.
+
+69
+00:08:19,000 --> 00:08:26,000
+Und das bringt uns zu einer fast philosophischen Schlussfolgerung: Wenn diese geschlechtsspezifische Besteuerung funktioniert,
+
+70
+00:08:26,000 --> 00:08:31,000
+Familien dazu drängen, die auf dem Markt geleisteten Arbeitsstunden anzugleichen und die häuslichen Aufgaben untereinander aufzuteilen,
+
+71
+00:08:31,000 --> 00:08:37,000
+Auf lange Sicht würden die Arbeitselastizitäten von Männern und Frauen genau gleich sein.
+
+72
+00:08:37,000 --> 00:08:41,000
+Und wenn Verhaltensweisen übereinstimmen, stellt sich spontan eine verrückte Frage.
+
+73
+00:08:41,000 --> 00:08:47,000
+Eine solch effiziente Finanzpolitik könnte dazu führen, dass das Land seiner Existenzgrundlage entkommt.
+
+74
+00:08:47,000 --> 00:08:53,000
+Das ist zwar ein provokanter Gedanke, aber er zeigt die Macht, die wirtschaftliche Anreize bei der Neugestaltung haben.
+
+75
+00:08:53,000 --> 00:08:56,000
+von den Grundlagen, der Struktur unserer Gesellschaft.

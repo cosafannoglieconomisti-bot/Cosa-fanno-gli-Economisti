@@ -1,0 +1,363 @@
+1
+00:00:00,000 --> 00:00:05,639
+Welcome to this new analysis, today we are tackling a topic that always sparks a lot of discussion,
+
+2
+00:00:05,639 --> 00:00:10,560
+but we will do it in a slightly different way: zero opinions, only raw data in hand.
+
+3
+00:00:10,560 --> 00:00:15,120
+We will dig into the hard numbers to discover who the people
+
+4
+00:00:15,120 --> 00:00:20,160
+who choose to enter politics really are, and I warn you, what is about to emerge will dismantle
+
+5
+00:00:20,160 --> 00:00:24,359
+many of our most deep-rooted beliefs. Are you ready? Let's begin!
+
+6
+00:00:24,359 --> 00:00:29,280
+Let's start with a direct question. Are politicians really less capable than the people
+
+7
+00:00:29,280 --> 00:00:34,320
+they represent? There is this widespread myth, I'd say almost a cliché, according to which politics
+
+8
+00:00:34,320 --> 00:00:39,520
+attracts only those who can't do anything else, or the least capable, or that it is an exclusive club,
+
+9
+00:00:39,520 --> 00:00:43,640
+a real playground for a privileged elite totally disconnected from
+
+10
+00:00:43,640 --> 00:00:48,320
+everyday reality. But putting aside bar chatter, what do the facts
+
+11
+00:00:48,320 --> 00:00:54,640
+really tell us? Let's move into the first section: the myth of the politician and the old theory of
+
+12
+00:00:54,640 --> 00:01:00,560
+adverse selection. Let's move to the second section, and here come the surprising Swedish data,
+
+13
+00:01:00,560 --> 00:01:04,640
+a literally perfect laboratory to test these theories.
+
+14
+00:01:04,640 --> 00:01:10,400
+Now, to understand a bit more, a team of excellent researchers did an incredible job
+
+15
+00:01:10,400 --> 00:01:15,560
+sifting through Swedish administrative records. We are talking about detailed data on
+
+16
+00:01:15,560 --> 00:01:21,599
+millions of citizens, extremely precise information on IQ, leadership skills,
+
+17
+00:01:21,600 --> 00:01:28,240
+and income, carefully collected for decades. And you know what? The results completely overturn
+
+18
+00:01:28,240 --> 00:01:32,960
+the perspective; analyzing the distribution of scores, the vast majority of the
+
+19
+00:01:32,960 --> 00:01:37,640
+general population obviously sits in the middle. But when you isolate the various
+
+20
+00:01:37,640 --> 00:01:42,560
+categories of politicians, the entire curve shifts clearly towards the highest scores.
+
+21
+00:01:42,560 --> 00:01:47,960
+In other words, they achieve significantly better results than the average citizen,
+
+22
+00:01:47,960 --> 00:01:53,400
+in both cognitive and leadership tests. And there's more. The more senior the role,
+
+23
+00:01:53,400 --> 00:01:58,280
+such as a mayor or a member of Parliament, the more the scores rise. In short,
+
+24
+00:01:58,280 --> 00:02:03,080
+the famous adverse selection mentioned in old economics textbooks literally vanishes
+
+25
+00:02:03,080 --> 00:02:08,719
+into thin air here. But let's try to make this even more concrete. The data make an amazing comparison:
+
+26
+00:02:08,719 --> 00:02:13,719
+just think that mayors achieve the exact same cognitive scores as
+
+27
+00:02:13,719 --> 00:02:18,280
+CEOs of medium-sized private companies. We are talking about managers who
+
+28
+00:02:18,280 --> 00:02:25,439
+run companies with between 25 and 250 employees. Not bad, right? And members of Parliament,
+
+29
+00:02:25,439 --> 00:02:29,560
+they rank even higher. This is a real final blow to the
+
+30
+00:02:29,560 --> 00:02:35,120
+myth of political incompetence. And we come to the third section: family privilege
+
+31
+00:02:35,120 --> 00:02:40,419
+or merit. What role does the family of origin play? At this point, a very legitimate doubt
+
+32
+00:02:40,420 --> 00:02:46,020
+arises. It is right to ask it. Perhaps these high scores are just the result
+
+33
+00:02:46,020 --> 00:02:50,820
+of a privileged background. Maybe politicians are simply born into rich families
+
+34
+00:02:50,820 --> 00:02:55,700
+that guarantee them the best schools from day one? To understand this point, we must
+
+35
+00:02:55,700 --> 00:03:01,380
+distinguish between two worlds. On one hand, elitism, where political power passes to those who come
+
+36
+00:03:01,380 --> 00:03:06,060
+from wealthy families, making privilege the real key to success. On the other,
+
+37
+00:03:06,060 --> 00:03:11,500
+true meritocracy, where power is won by the most capable people, regardless
+
+38
+00:03:11,500 --> 00:03:17,539
+of the starting point. Which of these two models triumphs when put to the test of data? Get ready
+
+39
+00:03:17,539 --> 00:03:22,740
+because the answer is truly unexpected. The researchers had a stroke of genius.
+
+40
+00:03:22,740 --> 00:03:27,920
+Instead of comparing politicians with the general population, they compared them directly
+
+41
+00:03:27,920 --> 00:03:33,240
+to their own brothers and sisters. And the result is sensational. Elected politicians clearly outperform
+
+42
+00:03:33,240 --> 00:03:38,400
+their own brothers and sisters in all tests, both cognitive and leadership.
+
+43
+00:03:38,400 --> 00:03:43,159
+Since family members share the exact same social background and the same basic opportunities,
+
+44
+00:03:43,159 --> 00:03:47,800
+this proves beyond a shadow of a doubt that what makes the difference are the actual
+
+45
+00:03:47,800 --> 00:03:52,600
+abilities of the individual. No special boost from the family of origin, just
+
+46
+00:03:52,600 --> 00:03:59,879
+pure merit. Let us then enter the fourth section: the true social origins. Do these leaders
+
+47
+00:03:59,879 --> 00:04:05,919
+really represent all citizens? Okay, we have established that competence is there
+
+48
+00:04:05,919 --> 00:04:11,000
+and it is real, but where do these leaders come from? Analyzing the income of their fathers,
+
+49
+00:04:11,000 --> 00:04:16,279
+a truly fascinating dynamic emerges. Imagine drawing a flat line: it means
+
+50
+00:04:16,279 --> 00:04:20,719
+that all income classes are equally represented in society, from the poorest
+
+51
+00:04:20,719 --> 00:04:26,199
+to the richest. Well, for the fathers of elected politicians, that line is incredibly flat;
+
+52
+00:04:26,199 --> 00:04:30,839
+they come in a totally uniform way from every single income level. On the contrary,
+
+53
+00:04:30,839 --> 00:04:35,479
+if we do the same for doctors and top managers, the curve steepens drastically,
+
+54
+00:04:35,479 --> 00:04:40,680
+which means they come, for the vast majority, from already very wealthy families.
+
+55
+00:04:40,680 --> 00:04:45,879
+This helps clarify what seems to be a paradox, pay attention to this step. Politicians,
+
+56
+00:04:45,879 --> 00:04:50,439
+having great abilities and holding very high-level roles, end up earning
+
+57
+00:04:50,439 --> 00:04:55,959
+well and entering the highest income brackets. This is true, but their roots perfectly reflect
+
+58
+00:04:55,959 --> 00:05:00,719
+the composition of the general population, the very definition of an extraordinary social
+
+59
+00:05:00,719 --> 00:05:06,239
+mobility. In politics, it seems, doors really open for everyone regardless
+
+60
+00:05:06,239 --> 00:05:11,240
+of their parents' bank account. But how do you achieve such a perfect balance
+
+61
+00:05:11,240 --> 00:05:16,719
+on a national scale? Analyzing the data party by party, everything becomes as clear as day.
+
+62
+00:05:16,719 --> 00:05:22,359
+The different political sides attract candidates from different social worlds. The fathers of politicians of the
+
+63
+00:05:22,360 --> 00:05:27,240
+Center Party tend to have lower incomes, historically being closely tied to the
+
+64
+00:05:27,240 --> 00:05:32,319
+agricultural world. The Social Democrats draw heavily from the middle class and the working class,
+
+65
+00:05:32,319 --> 00:05:38,680
+while the Conservatives attract candidates from higher-income families. When you put
+
+66
+00:05:38,680 --> 00:05:43,080
+all these puzzle pieces together in Parliament, the aggregate creates a real miniature,
+
+67
+00:05:43,080 --> 00:05:49,000
+a highly faithful mirror of the entire society. And we are at the fifth and final section:
+
+68
+00:05:49,000 --> 00:05:56,680
+an inclusive meritocracy. The perfect meeting point between competence and social equality.
+
+69
+00:05:56,680 --> 00:06:03,480
+All the data we have seen today converge on a powerful concept: inclusive meritocracy.
+
+70
+00:06:03,480 --> 00:06:08,319
+The analysis shows that there is no conflict between having highly competent people in
+
+71
+00:06:08,319 --> 00:06:14,399
+charge and at the same time maintaining broad social representation. Do you know why? Because
+
+72
+00:06:14,400 --> 00:06:19,680
+there is strong positive selection within every single economic class. Parties manage
+
+73
+00:06:19,680 --> 00:06:24,160
+to identify and recruit brilliant individuals even from the very lowest income brackets.
+
+74
+00:06:24,160 --> 00:06:29,680
+Talent, in short, is absolutely not a monopoly of the rich. It emerges from every social
+
+75
+00:06:29,680 --> 00:06:35,000
+class, shattering the idea that intelligence at the top and popular representation must
+
+76
+00:06:35,000 --> 00:06:40,280
+necessarily hinder each other. Let's wrap things up and summarize the four major revelations of
+
+77
+00:06:40,280 --> 00:06:46,120
+this analysis. First, politicians show cognitive and leadership abilities above the
+
+78
+00:06:46,120 --> 00:06:52,200
+general average. Second, this ability is an entirely individual trait, so much so that
+
+79
+00:06:52,200 --> 00:06:57,860
+they brilliantly outperform their own siblings. Third, their social origins are
+
+80
+00:06:57,860 --> 00:07:03,560
+incredibly equitable and reflect all income levels without discrimination. And point
+
+81
+00:07:03,560 --> 00:07:09,420
+four, there is a virtually minimal trade-off between competence and representativeness. A
+
+82
+00:07:09,420 --> 00:07:14,520
+healthy democracy knows how to promote the best talents, coming from all, absolutely
+
+83
+00:07:14,520 --> 00:07:20,319
+all, strata of society. And we reach the end and I want to leave you with a provocation,
+
+84
+00:07:20,319 --> 00:07:25,500
+a question to reflect on. If the cold data show that a democracy can
+
+85
+00:07:25,500 --> 00:07:30,259
+perfectly select capable leaders who, at the same time, are deeply
+
+86
+00:07:30,259 --> 00:07:35,340
+representative of the people, why do we continue to believe so blindly in the myth of the incompetent
+
+87
+00:07:35,340 --> 00:07:40,380
+politician? Perhaps the time has really come to stop listening to the usual clichés
+
+88
+00:07:40,380 --> 00:07:46,340
+and look with fresh eyes at how democratic leadership really works? Thank you
+
+89
+00:07:46,340 --> 00:07:50,100
+very much for following me in this analysis, I hope these numbers have offered you
+
+90
+00:07:50,100 --> 00:07:55,040
+a new and stimulating perspective. Keep being curious and always asking yourself the right
+
+91
+00:07:55,040 --> 00:07:56,680
+questions. See you very soon!

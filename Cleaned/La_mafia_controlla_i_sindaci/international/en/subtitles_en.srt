@@ -1,0 +1,527 @@
+1
+00:00:00,000 --> 00:00:04,080
+When we think of organized crime, well, the mental image is almost always linked to
+
+2
+00:00:04,080 --> 00:00:08,839
+blatant actions, right, gunfights, overt violence, in short, movie scenes.
+
+3
+00:00:08,839 --> 00:00:11,000
+But there's a fundamental question to ask.
+
+4
+00:00:11,000 --> 00:00:15,880
+Is the strength of these organizations truly and I emphasize truly based solely on physical intimidation?
+
+5
+00:00:15,880 --> 00:00:16,879
+physical?
+
+6
+00:00:16,879 --> 00:00:21,679
+Or is there a much quieter and incredibly even more pervasive method to gain and maintain
+
+7
+00:00:21,679 --> 00:00:22,679
+power?
+
+8
+00:00:22,679 --> 00:00:26,280
+So, in this analysis, we will explore a real economic mystery.
+
+9
+00:00:26,280 --> 00:00:30,679
+We will discover how criminal groups manage to distort the legal economy from within,
+
+10
+00:00:30,679 --> 00:00:34,480
+literally taking control of institutions without even needing to draw a
+
+11
+00:00:34,480 --> 00:00:35,480
+weapon.
+
+12
+00:00:35,480 --> 00:00:38,760
+It's time to take a closer look at the invisible dynamics that govern public
+
+13
+00:00:38,760 --> 00:00:39,760
+finances.
+
+14
+00:00:39,760 --> 00:00:41,920
+On one hand, we have the common perception.
+
+15
+00:00:41,920 --> 00:00:45,159
+Crime measured through murders and violent offenses.
+
+16
+00:00:45,159 --> 00:00:49,960
+However, economic research by Marco di Cataldo and Nicola Maestro Rocco presents us with
+
+17
+00:00:49,960 --> 00:00:51,560
+a very different reality.
+
+18
+00:00:51,560 --> 00:00:57,200
+Today, true power is consolidated through silent agreements, the so-called white-collar
+
+19
+00:00:57,200 --> 00:00:58,200
+crimes.
+
+20
+00:00:58,200 --> 00:01:01,200
+Violence is just the proverbial tip of the iceberg.
+
+21
+00:01:01,200 --> 00:01:05,700
+The truly devastating economic impact occurs when these organizations sit at
+
+22
+00:01:05,700 --> 00:01:10,719
+the tables where financial decisions are made, blending almost perfectly
+
+23
+00:01:10,719 --> 00:01:13,320
+into the slow state bureaucracy.
+
+24
+00:01:13,320 --> 00:01:18,260
+Politics and organized crime, the core of this whole affair lies precisely
+
+25
+00:01:18,260 --> 00:01:19,840
+in this intersection.
+
+26
+00:01:19,840 --> 00:01:24,439
+It's not about threatening politicians from the outside, but about capturing them from within.
+
+27
+00:01:24,439 --> 00:01:29,180
+The objective is to guide the hand of those who decide where public money goes.
+
+28
+00:01:29,180 --> 00:01:33,740
+We witness a total manipulation in which criminals effectively become
+
+29
+00:01:33,740 --> 00:01:38,020
+hidden, yet very powerful, partners of local administrators.
+
+30
+00:01:38,020 --> 00:01:43,020
+To understand exactly what we're talking about, we need a clear definition.
+
+31
+00:01:43,019 --> 00:01:48,780
+We're talking about criminal infiltration when illicit groups capture local politicians
+
+32
+00:01:48,780 --> 00:01:52,859
+to manipulate public decisions entirely in their favor.
+
+33
+00:01:52,859 --> 00:01:58,140
+The study we are examining analyzes this phenomenon over a critical timeframe that
+
+34
+00:01:58,140 --> 00:02:01,420
+spans from 1998 to 2016.
+
+35
+00:02:01,420 --> 00:02:05,019
+And pay attention, we're not talking about casual corruption.
+
+36
+00:02:05,019 --> 00:02:10,379
+We're talking about a genuine, systematic strategy, meticulously planned, to bend
+
+37
+00:02:10,379 --> 00:02:14,379
+the public machine to the economic interests of crime.
+
+38
+00:02:14,379 --> 00:02:19,799
+Measuring mafia infiltration, here arises the great challenge for economists: how does one
+
+39
+00:02:19,799 --> 00:02:24,620
+quantify a phenomenon that was specifically designed not to be seen?
+
+40
+00:02:24,620 --> 00:02:31,500
+The solution, honestly brilliant, was found in Law 164 of 1991.
+
+41
+00:02:31,500 --> 00:02:36,139
+This legislation allows for the dissolution of municipal councils precisely when evidence emerges
+
+42
+00:02:36,139 --> 00:02:39,699
+of collusion between elected officials and the mafia.
+
+43
+00:02:39,700 --> 00:02:45,580
+Using the application of this law effectively provides a documented and unequivocal map
+
+44
+00:02:45,580 --> 00:02:49,180
+of where and when infiltration became a reality.
+
+45
+00:02:49,180 --> 00:02:53,700
+Looking at the geographical distribution of these dissolutions, we immediately realize
+
+46
+00:02:53,700 --> 00:02:56,820
+that infiltration is not an abstract theory by scholars.
+
+47
+00:02:56,820 --> 00:03:01,780
+It is a tangible, measurable phenomenon, with a very heavy impact on specific areas of the
+
+48
+00:03:01,780 --> 00:03:03,260
+national territory.
+
+49
+00:03:03,260 --> 00:03:07,940
+The density of dissolutions that emerges from the data indicates, without mincing words,
+
+50
+00:03:07,939 --> 00:03:11,579
+the areas where criminal presence has ceased to be an exception and has become
+
+51
+00:03:11,579 --> 00:03:12,579
+systemic.
+
+52
+00:03:12,579 --> 00:03:16,579
+Inevitably, the focus of the analysis narrows to Southern Italy.
+
+53
+00:03:16,579 --> 00:03:21,939
+Calabria, Campania, and Sicily form the main sample of this study, because they represent
+
+54
+00:03:21,939 --> 00:03:26,740
+the regions where the historical roots of criminal organizations are deepest.
+
+55
+00:03:26,740 --> 00:03:31,060
+For this very reason, they offer researchers the amount of data needed to fully understand
+
+56
+00:03:31,060 --> 00:03:35,259
+the economic consequences, the real ones, of these illicit agreements.
+
+57
+00:03:35,259 --> 00:03:40,539
+The impact on public resources, after establishing where infiltration occurs
+
+58
+00:03:40,539 --> 00:03:45,620
+and how to measure it, there's a huge analytical question to answer: how does this
+
+59
+00:03:45,620 --> 00:03:51,139
+political capture concretely alter public finances and citizens' money, when a
+
+60
+00:03:51,139 --> 00:03:54,139
+municipality falls under the influence of crime?
+
+61
+00:03:54,139 --> 00:03:59,859
+This is the real playing field, and it's here that spending decisions are literally
+
+62
+00:03:59,860 --> 00:04:02,820
+diverted to fuel the illegal economy.
+
+63
+00:04:02,820 --> 00:04:06,180
+But how does this mechanism work in practice?
+
+64
+00:04:06,180 --> 00:04:08,300
+It unfolds in three key steps.
+
+65
+00:04:08,300 --> 00:04:10,460
+First step: elections.
+
+66
+00:04:10,460 --> 00:04:15,040
+Be careful, here they are not just seen as a democratic moment, but truly serve as a
+
+67
+00:04:15,040 --> 00:04:19,740
+recruitment process in which criminal groups select their ideal political
+
+68
+00:04:19,740 --> 00:04:21,500
+counterpart.
+
+69
+00:04:21,500 --> 00:04:26,460
+Second step, the agreement: a black-on-white pact is struck, very often even before
+
+70
+00:04:26,460 --> 00:04:29,220
+citizens go to vote.
+
+71
+00:04:29,220 --> 00:04:32,660
+Third and final step, the distortion of public funds.
+
+72
+00:04:32,660 --> 00:04:37,940
+Once in power, the municipality's priorities magically change; they no longer follow the needs
+
+73
+00:04:37,940 --> 00:04:41,420
+of citizens, but rather the strategic demands of organized crime.
+
+74
+00:04:41,420 --> 00:04:47,420
+There's a number that largely explains why this system manages to thrive undisturbed:
+
+75
+00:04:47,420 --> 00:04:49,420
+71%.
+
+76
+00:04:49,420 --> 00:04:54,140
+This is the impressive turnover rate of local administrators in these regions.
+
+77
+00:04:54,140 --> 00:04:57,020
+In practice, they leave politics within five years.
+
+78
+00:04:57,019 --> 00:05:02,060
+One might think that this constant instability is a problem, but no, it's a huge
+
+79
+00:05:02,060 --> 00:05:03,060
+opportunity.
+
+80
+00:05:03,060 --> 00:05:07,859
+Continuous elections and frequent changes in office offer criminal groups endless opportunities
+
+81
+00:05:07,859 --> 00:05:12,180
+to renegotiate agreements and infiltrate new candidates.
+
+82
+00:05:12,180 --> 00:05:18,299
+And we move from theory to the raw reality of facts documented by sensational cases.
+
+83
+00:05:18,299 --> 00:05:20,779
+Let's take the municipality of Gricignano di Aversa.
+
+84
+00:05:20,779 --> 00:05:25,579
+There, a mayor had made a real pre-election contract, promising future
+
+85
+00:05:25,579 --> 00:05:29,379
+financial benefits to the Camorra clan in exchange for votes.
+
+86
+00:05:29,379 --> 00:05:34,740
+This highlights the purely transactional aspect of this infiltrated politics.
+
+87
+00:05:34,740 --> 00:05:39,899
+Electoral support exchanged, in a completely calculated and explicit manner, for unlimited access
+
+88
+00:05:39,899 --> 00:05:41,979
+to municipal coffers.
+
+89
+00:05:41,979 --> 00:05:43,379
+Pure calculation.
+
+90
+00:05:43,379 --> 00:05:45,500
+Construction and waste management.
+
+91
+00:05:45,500 --> 00:05:50,860
+And it is precisely towards these specific sectors of the legal economy that rivers of money are
+
+92
+00:05:50,860 --> 00:05:51,860
+funneled.
+
+93
+00:05:51,900 --> 00:05:53,500
+And it's no coincidence at all.
+
+94
+00:05:53,500 --> 00:05:59,180
+We are talking about sectors with very high capital intensity, where public contracts are generous
+
+95
+00:05:59,180 --> 00:06:04,060
+and where physical control of the territory, typical of the mafia, guarantees an almost unbeatable
+
+96
+00:06:04,060 --> 00:06:07,060
+illicit competitive advantage.
+
+97
+00:06:07,060 --> 00:06:10,740
+Statistical results confirm an unequivocal trend.
+
+98
+00:06:10,740 --> 00:06:15,860
+Infiltrated municipalities allocate, on average, many more resources to investments in construction
+
+99
+00:06:15,860 --> 00:06:17,500
+and waste management.
+
+100
+00:06:17,500 --> 00:06:19,860
+But here emerges an almost insane paradox.
+
+101
+00:06:19,860 --> 00:06:24,300
+Despite spending more on waste management, these same municipalities show
+
+102
+00:06:24,300 --> 00:06:28,780
+lower efficiency in collecting taxes for that same service.
+
+103
+00:06:28,780 --> 00:06:33,540
+In summary, on one hand, the taps of public spending are opened to feed businesses
+
+104
+00:06:33,540 --> 00:06:38,540
+close to the clans; on the other hand, a blind eye is turned to tax collection, creating a double,
+
+105
+00:06:38,540 --> 00:06:41,500
+very heavy damage to the community's coffers.
+
+106
+00:06:41,500 --> 00:06:47,139
+Obviously, to ensure that chosen candidates win and that this flow of money continues,
+
+107
+00:06:47,139 --> 00:06:51,539
+criminal organizations leave absolutely nothing to chance.
+
+108
+00:06:51,539 --> 00:06:56,620
+Investigations carried out in Seminara, Calabria, describe a methodical action of vote-buying.
+
+109
+00:06:56,620 --> 00:06:57,620
+vote-buying.
+
+110
+00:06:57,620 --> 00:07:02,219
+Infiltration doesn't simply rely on the hope of winning; it secures control
+
+111
+00:07:02,219 --> 00:07:07,979
+of the democratic process through illicit exchanges, directly influencing the will of the electorate
+
+112
+00:07:07,979 --> 00:07:09,899
+to secure their own business interests.
+
+113
+00:07:09,899 --> 00:07:15,300
+The true economic cost, all this mechanism inevitably leads us to reflect
+
+114
+00:07:15,300 --> 00:07:19,660
+on the long-term systemic consequences for the entire legal economy.
+
+115
+00:07:19,660 --> 00:07:25,220
+The distorted allocation of funds hinders real development, stifles free competition
+
+116
+00:07:25,220 --> 00:07:30,340
+among healthy businesses and, worse still, drains vital resources that should be invested
+
+117
+00:07:30,340 --> 00:07:34,500
+in essential services like education or social infrastructure.
+
+118
+00:07:34,500 --> 00:07:39,100
+The result: entire territories are condemned to chronic underdevelopment.
+
+119
+00:07:39,100 --> 00:07:43,860
+The absolute gravity of the situation is summarized in this bitter contrast.
+
+120
+00:07:43,860 --> 00:07:49,020
+On one hand, the legitimate purpose of public funds intended for the well-being of the community.
+
+121
+00:07:49,020 --> 00:07:55,420
+On the other, those same resources systematically diverted towards the strategic sectors of crime.
+
+122
+00:07:55,420 --> 00:08:01,100
+This strategy of silence, made of signatures, resolutions, and manipulated tenders, proves as dangerous,
+
+123
+00:08:01,100 --> 00:08:04,500
+if not more so, than explicit violence.
+
+124
+00:08:04,500 --> 00:08:10,340
+It corrodes institutions from within, slowly, without ever raising the outcry of a violent act.
+
+125
+00:08:10,380 --> 00:08:14,660
+Academic research thus reveals a sophisticated and harmful mechanism,
+
+126
+00:08:14,660 --> 00:08:20,900
+in which white-collar individuals and organized crime merge their interests to the detriment of us all.
+
+127
+00:08:20,900 --> 00:08:26,100
+And if we think that the dissolution of municipalities is the only visible tool to measure this phenomenon,
+
+128
+00:08:26,100 --> 00:08:30,540
+a truly unsettling final question emerges, one worth reflecting on.
+
+129
+00:08:30,540 --> 00:08:34,100
+What we have measured so far is only the tip of the problem.
+
+130
+00:08:34,100 --> 00:08:36,660
+How deep, truly, is the hidden layer,
+
+131
+00:08:36,659 --> 00:08:39,740
+the iceberg of the infiltrated economy in Italian municipalities,
+
+132
+00:08:39,740 --> 00:08:44,219
+constantly concealed beneath the silent surface of daily bureaucracy?

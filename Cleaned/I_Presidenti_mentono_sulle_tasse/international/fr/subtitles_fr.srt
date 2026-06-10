@@ -1,0 +1,487 @@
+1
+00:00:00,000 --> 00:00:03,000
+bienvenue dans cette nouvelle analyse approfondie.
+
+2
+00:00:03,000 --> 00:00:08,080
+D'accord, allons droit au but et abordons l'un des mystères les plus fascinants de la politique
+
+3
+00:00:08,080 --> 00:00:09,580
+et de l'économie moderne.
+
+4
+00:00:09,580 --> 00:00:14,599
+Les présidents des États-Unis mentent-ils sur les impôts ? En somme, leur rhétorique et les grandes
+
+5
+00:00:14,599 --> 00:00:19,140
+promesses que nous entendons dans les discours s'alignent-elles vraiment avec la réalité des réformes
+
+6
+00:00:19,140 --> 00:00:22,679
+fiscales ? C'est une question absolument cruciale.
+
+7
+00:00:22,679 --> 00:00:26,320
+Nous avons souvent tendance à écarter un peu les discours politiques, n'est-ce pas ?
+
+8
+00:00:26,320 --> 00:00:31,240
+Nous les considérons comme un simple bruit de fond, mais une recherche économique très rigoureuse, publiée
+
+9
+00:00:31,240 --> 00:00:36,480
+récemment dans l'American Economic Journal, nous montre qu'il y a beaucoup, beaucoup plus sous
+
+10
+00:00:36,480 --> 00:00:37,480
+la surface.
+
+11
+00:00:37,480 --> 00:00:41,480
+Et comme nous le verrons, la réponse à cette question nous amènera à découvrir des dynamiques
+
+12
+00:00:41,480 --> 00:00:43,679
+littéralement inattendues.
+
+13
+00:00:43,679 --> 00:00:47,359
+Passons à la première section : le mystère des promesses.
+
+14
+00:00:47,359 --> 00:00:50,200
+Les paroles des présidents deviennent-elles réalité ?
+
+15
+00:00:50,200 --> 00:00:55,079
+Historiquement, mesurer si un politicien dit la vérité et quel est l'impact économique réel
+
+16
+00:00:55,079 --> 00:00:58,719
+de ses paroles a toujours été un véritable casse-tête.
+
+17
+00:00:58,719 --> 00:01:03,039
+Souvent, les dirigeants font des promesses vagues, des mois ou même des années avant d'écrire une
+
+18
+00:01:03,039 --> 00:01:08,640
+véritable loi, tandis que les marchés et les citoyens écoutent et réagissent entre-temps.
+
+19
+00:01:08,640 --> 00:01:09,959
+Prenons un exemple concret.
+
+20
+00:01:09,959 --> 00:01:15,840
+Janvier 1981, le président Ronald Reagan déclare : il est temps de réveiller ce géant
+
+21
+00:01:15,840 --> 00:01:19,799
+industriel et d'alléger notre charge fiscale punitive.
+
+22
+00:01:19,799 --> 00:01:24,560
+Boum, des mois avant la réforme effective, avec ces mots exacts, il envoie un signal
+
+23
+00:01:24,560 --> 00:01:25,560
+non équivoque.
+
+24
+00:01:25,560 --> 00:01:29,359
+Il n'y a pas encore une demi-ligne de loi écrite au Parlement, et pourtant le message passe
+
+25
+00:01:29,359 --> 00:01:30,359
+haut et fort.
+
+26
+00:01:30,359 --> 00:01:35,879
+La question est alors : pouvons-nous mesurer ces signaux de manière systématique pour comprendre s'ils se transforment
+
+27
+00:01:35,879 --> 00:01:36,879
+réellement en réalité ?
+
+28
+00:01:36,879 --> 00:01:39,719
+Et cela nous amène à la section 2.
+
+29
+00:01:39,719 --> 00:01:44,400
+60 ans de discours présidentiels, une énorme archive de données.
+
+30
+00:01:44,400 --> 00:01:50,680
+Pour résoudre ce véritable énigme, les chercheurs ne se sont pas basés sur des opinions
+
+31
+00:01:50,680 --> 00:01:52,560
+ou sur quelques anecdotes isolées.
+
+32
+00:01:52,560 --> 00:01:54,400
+Ils ont fait les choses en grand.
+
+33
+00:01:54,400 --> 00:01:59,719
+Ils ont pris l'intégralité, littéralement l'intégralité, des archives des discours publics
+
+34
+00:01:59,719 --> 00:02:03,159
+présidentiels américains de l'après-guerre à nos jours.
+
+35
+00:02:03,159 --> 00:02:09,879
+Les chiffres sont fous, on parle de 1 119 200 paragraphes exacts, extraits
+
+36
+00:02:09,879 --> 00:02:15,360
+de près de 60 000 textes présidentiels entre 1949 et 2017.
+
+37
+00:02:15,360 --> 00:02:20,360
+C'est une montagne de données, aucun être humain, pas même l'équipe de chercheurs la plus rapide au
+
+38
+00:02:20,360 --> 00:02:25,200
+monde, ne pourrait jamais lire et analyser objectivement tout cela pour trouver des
+
+39
+00:02:25,200 --> 00:02:29,120
+modèles récurrents, il fallait décidément une approche différente.
+
+40
+00:02:29,120 --> 00:02:35,520
+Nous arrivons donc à la section 3 : l'algorithme lit la politique, l'intelligence artificielle
+
+41
+00:02:35,520 --> 00:02:37,320
+analyse les textes.
+
+42
+00:02:37,320 --> 00:02:42,480
+Étant donné que la lecture humaine était physiquement impossible, les chercheurs ont fait appel à un algorithme
+
+43
+00:02:42,480 --> 00:02:48,880
+très avancé, appelé Latent Dirichlet Allocation (pas de panique pour le nom compliqué), ils l'ont utilisé
+
+44
+00:02:48,879 --> 00:02:53,639
+pour isoler de manière totalement neutre les phrases qui parlaient spécifiquement de réformes
+
+45
+00:02:53,639 --> 00:02:54,639
+fiscales.
+
+46
+00:02:54,639 --> 00:02:59,680
+Pour faire simple, nous parlons de topic modeling, imaginez-le simplement comme un énorme système
+
+47
+00:02:59,680 --> 00:03:05,439
+de tri automatique, une machine super-intelligente qui lit des millions de mots et, en regardant uniquement
+
+48
+00:03:05,439 --> 00:03:10,280
+le contexte et la fréquence de proximité de ces mots, commence à les classer dans différents paniers virtuels.
+
+49
+00:03:10,280 --> 00:03:11,280
+distincts.
+
+50
+00:03:11,280 --> 00:03:16,719
+S'il remarque que guerre, troupes, défense, apparaissent toujours ensemble, il crée le panier "sujet militaire".
+
+51
+00:03:16,719 --> 00:03:21,680
+Eh bien, ils ont fait faire exactement la même chose à la machine pour découvrir comment les présidents
+
+52
+00:03:21,680 --> 00:03:22,680
+parlent des impôts.
+
+53
+00:03:22,680 --> 00:03:28,599
+Et regardez les résultats : en observant les mots-clés extraits par l'algorithme pour le sujet
+
+54
+00:03:28,599 --> 00:03:33,319
+"augmentation des impôts", on voit très bien comment le système a visé juste.
+
+55
+00:03:33,319 --> 00:03:39,800
+Les mots écrits en grand, comme déficit, budget et, de manière très évidente, sécurité sociale,
+
+56
+00:03:39,800 --> 00:03:43,879
+sont précisément ceux qui apparaissent le plus souvent quand on prépare le terrain politique
+
+57
+00:03:43,879 --> 00:03:45,280
+pour augmenter les impôts.
+
+58
+00:03:45,800 --> 00:03:50,199
+Et c'est là que ça devient intéressant, car la comparaison est vraiment éclairante.
+
+59
+00:03:50,199 --> 00:03:54,199
+L'algorithme a appris à distinguer le vocabulaire des politiciens.
+
+60
+00:03:54,199 --> 00:03:59,840
+Quand des augmentations fiscales se profilent, les mots tournent autour de la sécurité sociale, du déficit,
+
+61
+00:03:59,840 --> 00:04:05,039
+du budget, mais attention, quand un président — et peu importe son parti
+
+62
+00:04:05,039 --> 00:04:10,960
+politique — veut signaler une baisse d'impôts, eh bien, les mots changent complètement,
+
+63
+00:04:10,960 --> 00:04:16,079
+des termes comme "Small Business", "Croissance" ou "Création d'emplois" surgissent. C'est une
+
+64
+00:04:16,079 --> 00:04:22,120
+division systémique du langage, elle fonctionne pour tous, à travers toutes les administrations.
+
+65
+00:04:22,120 --> 00:04:27,960
+Passons à la section 4 : prédire les réformes fiscales, le verdict des données.
+
+66
+00:04:27,960 --> 00:04:30,519
+Alors, quel est le verdict final ?
+
+67
+00:04:30,519 --> 00:04:33,759
+C'est très simple, l'algorithme fonctionne parfaitement.
+
+68
+00:04:33,759 --> 00:04:38,680
+La découverte incroyable est que la fréquence de ces sujets spécifiques dans les discours
+
+69
+00:04:38,680 --> 00:04:41,759
+parvient réellement à prédire les lois fiscales du futur.
+
+70
+00:04:41,759 --> 00:04:46,759
+Les données montrent que ces discours possèdent ce que les économistes appellent la causalité
+
+71
+00:04:46,759 --> 00:04:49,400
+de Granger par rapport aux réformes elles-mêmes.
+
+72
+00:04:49,400 --> 00:04:52,960
+En termes simples, ils sont un indicateur statistique extrêmement fiable.
+
+73
+00:04:52,960 --> 00:04:58,000
+Ils anticipent la direction, donc si les impôts vont augmenter ou baisser, ils prévoient les changements
+
+74
+00:04:58,000 --> 00:05:02,000
+réels dans les caisses de l'État et, ce qui est peut-être encore plus incroyable,
+
+75
+00:05:02,000 --> 00:05:06,720
+ils influencent les attentes des investisseurs, guidant les marchés financiers et les taux d'intérêt,
+
+76
+00:05:06,760 --> 00:05:09,760
+bien avant que les lois ne soient effectivement votées.
+
+77
+00:05:09,760 --> 00:05:15,720
+Cela nous confirme un fait crucial, en analysant toutes les administrations de l'histoire récente,
+
+78
+00:05:15,720 --> 00:05:20,840
+de Nixon à Obama, sans aucune distinction entre conservateurs ou progressistes.
+
+79
+00:02:20,840 --> 00:05:27,480
+La rhétorique politique est un indicateur étonnamment précis de la future politique fiscale.
+
+80
+00:05:27,480 --> 00:05:32,680
+En pratique, les paroles d'un président sont la toute première information qui commence à façonner
+
+81
+00:05:32,680 --> 00:05:36,000
+le comportement économique de toute la nation.
+
+82
+00:05:36,000 --> 00:05:43,000
+Et ici nous entrons dans la section 5 : le paradoxe de l'attente, un coup de théâtre économique.
+
+83
+00:05:43,000 --> 00:05:49,720
+D'accord, nous avons compris que les signaux existent et sont très précis, mais qu'arrive-t-il à l'économie
+
+84
+00:05:49,720 --> 00:05:53,480
+quand ces signaux arrivent, peut-être, très en avance ?
+
+85
+00:05:53,480 --> 00:05:57,920
+Ici, nous devons absolument explorer un effet secondaire absurde et décidément
+
+86
+00:05:57,920 --> 00:06:00,560
+paradoxal de la transparence en politique.
+
+87
+00:06:00,560 --> 00:06:05,360
+La question fondamentale pour comprendre cette réalité contre-intuitive est : que se passe-t-il quand le
+
+88
+00:06:05,360 --> 00:06:09,080
+marché sait longtemps à l'avance qu'une baisse d'impôts importante arrive ?
+
+89
+00:06:09,080 --> 00:06:13,879
+La logique nous porterait à penser : eh bien, excellente nouvelle, les entreprises et les citoyens auront plus
+
+90
+00:06:13,879 --> 00:06:17,080
+d'argent en poche, il y aura un boom économique immédiat.
+
+91
+00:06:17,080 --> 00:06:18,080
+C'est ça ?
+
+92
+00:06:18,080 --> 00:06:19,080
+Faux.
+
+93
+00:06:19,080 --> 00:06:21,920
+La réalité économique nous montre un tableau totalement inversé.
+
+94
+00:06:21,920 --> 00:06:26,520
+Les données macroéconomiques nous donnent une réponse qui vous laissera bouche bée.
+
+95
+00:06:26,520 --> 00:06:31,520
+En regardant la baisse soudaine tracée sur ce graphique, on remarque une chose incroyable.
+
+96
+00:06:31,519 --> 00:06:36,759
+Quand une future baisse d'impôts est annoncée, l'économie se contracte d'abord.
+
+97
+00:06:36,759 --> 00:06:40,959
+Il y a une véritable baisse du PIB, avant même que la réduction ne devienne réalité.
+
+98
+00:06:40,959 --> 00:06:44,560
+La courbe descend littéralement sous zéro dans les premiers trimestres.
+
+99
+00:06:44,560 --> 00:06:47,159
+C'est un résultat complètement contre-intuitif.
+
+100
+00:06:47,159 --> 00:06:48,519
+Fou, n'est-ce pas ?
+
+101
+00:06:48,519 --> 00:06:52,680
+Essayons de résumer le pourquoi de cet incroyable paradoxe.
+
+102
+00:06:52,680 --> 00:06:56,120
+Mettez-vous un instant à la place des citoyens ou des entreprises.
+
+103
+00:06:56,120 --> 00:07:00,039
+Si vous savez avec certitude que les impôts baisseront dans un an, que faites-vous ?
+
+104
+00:07:00,080 --> 00:07:02,319
+C'est simple, vous mettez tout en pause.
+
+105
+00:07:02,319 --> 00:07:04,879
+Pourquoi dépenser ou investir d'énormes capitaux aujourd'hui,
+
+106
+00:07:04,879 --> 00:07:08,439
+si demain, grâce à la baisse fiscale, cela vous coûtera beaucoup moins cher ?
+
+107
+00:07:08,439 --> 00:07:12,560
+Ce comportement de masse génère la contraction initiale de l'économie.
+
+108
+00:07:12,560 --> 00:07:15,000
+Tout le monde retarde les décisions importantes.
+
+109
+00:07:15,000 --> 00:07:19,680
+Et l'ironie suprême que les chercheurs ont découverte est que plus cette attente est longue,
+
+110
+00:07:19,680 --> 00:07:24,720
+plus l'expansion économique suivante sera faible quand la baisse entrera enfin en vigueur.
+
+111
+00:07:24,720 --> 00:07:28,600
+Et tout cela nous laisse sur une provocation finale vraiment puissante,
+
+112
+00:07:28,600 --> 00:07:30,320
+sur laquelle il vaut la peine de réfléchir.
+
+113
+00:07:30,320 --> 00:07:36,000
+Avoir une transparence politique extrême et connaître l'avenir grâce à ces discours publics
+
+114
+00:07:36,000 --> 00:07:39,080
+finit par nuire à notre économie du présent.
+
+115
+00:07:39,080 --> 00:07:42,360
+C'est une pensée fascinante qui renverse pas mal de convictions
+
+116
+00:07:42,360 --> 00:07:46,760
+que nous avons sur la communication des politiques et sur l'efficacité des marchés.
+
+117
+00:07:46,760 --> 00:07:50,840
+En résumé, nous avons vu clairement aujourd'hui que les mots ne sont jamais seulement des mots.
+
+118
+00:07:50,840 --> 00:07:54,680
+Ils peuvent être mesurés, se transforment en données, déplacent les capitaux,
+
+119
+00:07:54,680 --> 00:07:58,080
+et créent parfois de véritables paradoxes imprévus.
+
+120
+00:07:58,079 --> 00:08:01,199
+Notre analyse s'arrête ici, mais une chose est sûre.
+
+121
+00:08:01,199 --> 00:08:04,839
+La prochaine fois que vous entendrez un politicien parler d'impôts à la télé,
+
+122
+00:08:04,839 --> 00:08:09,039
+ces paroles auront un poids et une signification bien différents.

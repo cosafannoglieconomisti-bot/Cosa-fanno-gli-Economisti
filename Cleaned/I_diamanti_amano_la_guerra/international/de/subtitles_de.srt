@@ -1,0 +1,471 @@
+1
+00:00:00,000 --> 00:00:02,240
+Willkommen zu dieser neuen Hintergrundanalyse.
+
+2
+00:00:02,240 --> 00:00:07,200
+Heute gehen wir von einer Frage aus, die fast wie ein Paradoxon erscheint: Lieben die Finanzmärkte
+
+3
+00:00:07,200 --> 00:00:08,480
+den Krieg?
+
+4
+00:00:08,480 --> 00:00:13,320
+Um das zu verstehen, analysieren wir eine sehr interessante Wirtschaftsstudie von Massimo Guidolin
+
+5
+00:00:13,320 --> 00:00:17,600
+und Eliana La Ferrara mit dem Titel „Diamanten lieben den Krieg“.
+
+6
+00:00:17,600 --> 00:00:22,440
+Es ist eine faszinierende Analyse, die unsere Sichtweise auf die Beziehung
+
+7
+00:00:22,440 --> 00:00:25,080
+zwischen dem Privatsektor und geopolitischer Instabilität radikal verändern wird.
+
+8
+00:00:25,080 --> 00:00:27,480
+Kurz gesagt, steigen wir direkt ein.
+
+9
+00:00:27,480 --> 00:00:29,960
+Hier ist der Fahrplan für unsere heutige Analyse.
+
+10
+00:00:29,960 --> 00:00:32,600
+Zuerst untersuchen wir das Paradoxon des Friedens.
+
+11
+00:00:32,600 --> 00:00:35,640
+Um dann in den Diamantenmarkt in Angola einzutauchen.
+
+12
+00:00:35,640 --> 00:00:40,960
+Wir analysieren dann die Marktreaktion, die vier wirtschaftlichen Ursachen dahinter
+
+13
+00:00:40,960 --> 00:00:44,000
+und schließlich die Konsequenzen aus all dem.
+
+14
+00:00:44,000 --> 00:00:46,679
+Erster Punkt: Das Paradoxon des Friedens.
+
+15
+00:00:46,679 --> 00:00:50,280
+Oder mit anderen Worten: Bedeutet Frieden immer gleich Profit?
+
+16
+00:00:50,280 --> 00:00:51,880
+Stellen Sie sich die Situation vor.
+
+17
+00:00:51,880 --> 00:00:56,159
+Normalerweise gehen wir davon aus, dass Frieden gut für die Geschäfte ist,
+
+18
+00:00:56,160 --> 00:01:00,800
+schließlich zerstört Krieg die Infrastruktur und verschreckt Investoren.
+
+19
+00:01:00,800 --> 00:01:03,680
+Doch das bringt uns zur zentralen Frage von heute.
+
+20
+00:01:03,680 --> 00:01:08,120
+Was passiert mit den Aktienkursen von Bergbauunternehmen, wenn ein Bürgerkrieg
+
+21
+00:01:08,120 --> 00:01:09,120
+plötzlich endet?
+
+22
+00:01:09,120 --> 00:01:14,560
+Die Logik würde eine sofortige Euphorie an den Märkten nahelegen, alle kaufen, die Aktien
+
+23
+00:01:14,560 --> 00:01:15,560
+schießen in die Höhe.
+
+24
+00:01:15,560 --> 00:01:20,040
+Aber halten Sie sich fest: Die Daten erzählen eine völlig andere Geschichte.
+
+25
+00:01:20,040 --> 00:01:25,400
+Und tatsächlich, während unser Instinkt uns sagt, dass die Preise steigen müssten, dank der
+
+26
+00:01:25,400 --> 00:01:30,800
+neu gewonnenen Stabilität, zeigt die tatsächliche Marktreaktion in Angola im Jahr 2002
+
+27
+00:01:30,800 --> 00:01:35,800
+buchstäblich das Gegenteil: Die Preise stürzen ab, ein regelrechter Einbruch.
+
+28
+00:01:35,800 --> 00:01:39,960
+Das macht uns klar, dass die Wirtschaftstheorie oft mit einer Realität vor Ort
+
+29
+00:01:39,960 --> 00:01:42,439
+konfrontiert ist, die viel, viel zynischer ist.
+
+30
+00:01:42,439 --> 00:01:48,200
+Kommen wir zum zweiten Punkt, unserer Fallstudie: dem Diamantenmarkt in Angola.
+
+31
+00:01:48,200 --> 00:01:52,280
+Um diese seltsame Anomalie zu verstehen, müssen wir einen kleinen Schritt zurückgehen und uns
+
+32
+00:01:52,280 --> 00:01:54,960
+in den Kontext dieses komplexen Bürgerkriegs hineinversetzen.
+
+33
+00:01:55,000 --> 00:02:01,720
+1992 finden nationale Wahlen statt, 1994 wird das Lusaka-Protokoll unterzeichnet.
+
+34
+00:02:01,720 --> 00:02:02,960
+Sieht so aus, als sei es geschafft, oder?
+
+35
+00:02:02,960 --> 00:02:08,520
+Doch stattdessen scheitert der Friedensprozess 1998 unaufhaltsam, und es wird wieder gekämpft.
+
+36
+00:02:08,520 --> 00:02:10,920
+Dann plötzlich der Wendepunkt.
+
+37
+00:02:10,920 --> 00:02:16,240
+Am 22. Februar 2002 stirbt Jonas Savimbi, der charismatische Führer der Rebellenbewegung,
+
+38
+00:02:16,240 --> 00:02:17,240
+in einem Hinterhalt.
+
+39
+00:02:17,240 --> 00:02:22,120
+Sein Tod markiert de facto das plötzliche und unerwartete Ende des Konflikts und fegt
+
+40
+00:02:22,120 --> 00:02:26,960
+jede Ungewissheit über die Zukunft des Landes weg – ein perfektes Ereignis, um die Marktreaktion zu verstehen.
+
+41
+00:02:26,960 --> 00:02:29,879
+Und hier zeigt sich das Genie der Forscher.
+
+42
+00:02:29,879 --> 00:02:34,680
+Um die finanziellen Auswirkungen dieses plötzlich ausgebrochenen Friedens zu isolieren, nutzt die Studie
+
+43
+00:02:34,680 --> 00:02:37,680
+eine wirklich strenge Vergleichsmethode.
+
+44
+00:02:37,680 --> 00:02:39,080
+Sie haben zwei Gruppen gebildet.
+
+45
+00:02:39,080 --> 00:02:44,200
+Auf der einen Seite ein angolanisches Portfolio, das sieben bereits vor Ort tätige
+
+46
+00:02:44,200 --> 00:02:45,599
+Diamantenunternehmen umfasst.
+
+47
+00:02:45,599 --> 00:02:50,680
+Auf der anderen Seite ein Kontrollportfolio aus 42 in jeder Hinsicht identischen
+
+48
+00:02:50,680 --> 00:02:53,200
+Unternehmen, die jedoch keinerlei Interessen in Angola haben.
+
+49
+00:02:53,200 --> 00:02:54,719
+Wozu dient das?
+
+50
+00:02:54,719 --> 00:02:58,920
+Ganz einfach: Um auszuschließen, dass die Preisänderungen auf normale globale
+
+51
+00:02:58,920 --> 00:03:00,800
+Schwankungen auf dem Diamantenmarkt zurückzuführen sind.
+
+52
+00:03:00,800 --> 00:03:05,960
+Was uns zum dritten Punkt unserer Analyse bringt: der Reaktion des Marktes auf die Ankündigung
+
+53
+00:03:05,960 --> 00:03:06,960
+des Friedens.
+
+54
+00:03:06,960 --> 00:03:09,439
+Wie fiel also die Reaktion an der Börse aus?
+
+55
+00:03:09,439 --> 00:03:13,879
+Wenn wir uns die nackten Zahlen ansehen, genau wie in Tabelle 1 der Studie dargestellt,
+
+56
+00:03:13,879 --> 00:03:15,200
+fällt uns etwas Unglaubliches auf.
+
+57
+00:03:15,760 --> 00:03:19,640
+In den exakten Tagen von Savimbis Tod verzeichnet das Portfolio der in Angola
+
+58
+00:03:19,640 --> 00:03:22,640
+tätigen Unternehmen einen dramatischen Nettoeinbruch.
+
+59
+00:03:22,640 --> 00:03:27,640
+Im Gegenteil, oder besser gesagt, fast wie zum Spott über die Situation, verzeichnet das Kontrollportfolio
+
+60
+00:03:27,640 --> 00:03:29,120
+Gewinne.
+
+61
+00:03:29,120 --> 00:03:33,280
+Praktisch interpretierten die Märkte das Ende des Krieges als eine sehr schlechte Nachricht für
+
+62
+00:03:33,280 --> 00:03:34,280
+diejenigen, die dort Geschäfte machten.
+
+63
+00:03:34,280 --> 00:03:35,280
+27.
+
+64
+00:03:35,280 --> 00:03:41,440
+27 Prozentpunkte – das ist der enorme Netto-Renditeunterschied zwischen der Kontrollgruppe
+
+65
+00:03:41,439 --> 00:03:45,800
+und dem angolanischen Portfolio, der genau an dem Tag verzeichnet wurde, an dem die Nachricht
+
+66
+00:03:45,800 --> 00:03:46,800
+öffentlich wurde.
+
+67
+00:03:46,800 --> 00:03:51,159
+Eine einzige Zahl, die uns vor Augen führt, wie sehr das Ende des Krieges den wahrgenommenen
+
+68
+00:03:51,159 --> 00:03:53,400
+Wert dieser Unternehmen geschmälert hat.
+
+69
+00:03:53,400 --> 00:03:55,199
+Wir sind beim vierten Punkt.
+
+70
+00:03:55,199 --> 00:03:57,960
+Die wirtschaftlichen Ursachen hinter diesem Einbruch.
+
+71
+00:03:57,960 --> 00:04:02,599
+Natürlich stellt sich die Frage, warum das überhaupt passiert. Die Forscher haben sich nicht
+
+72
+00:04:02,599 --> 00:04:07,680
+darauf beschränkt, die Daten zu beobachten, sondern vier strukturelle Gründe isoliert: erstens,
+
+73
+00:04:07,680 --> 00:04:13,120
+den Wegfall von Markteintrittsbarrieren; zweitens, die Stärkung der Regierungsmacht; drittens, das
+
+74
+00:04:13,120 --> 00:04:18,079
+Ende eines Preiskriegs; und viertens, neue Transparenzstandards. Gehen wir sie einzeln
+
+75
+00:04:18,079 --> 00:04:19,079
+durch.
+
+76
+00:04:19,079 --> 00:04:20,079
+Erster Faktor.
+
+77
+00:04:20,079 --> 00:04:26,519
+So unschön es klingen mag: Der Bürgerkrieg wirkt wie eine gigantische Markteintrittsbarriere.
+
+78
+00:04:26,519 --> 00:04:31,759
+Geschäfte in einem Konfliktgebiet erfordern enorme Investitionen in private Sicherheit und eine
+
+79
+00:04:31,759 --> 00:04:34,680
+Risikotoleranz, die nur wenige Unternehmen besitzen.
+
+80
+00:04:34,680 --> 00:04:37,439
+Das schützt die Unternehmen, die bereits vor Ort sind.
+
+81
+00:04:37,439 --> 00:04:42,000
+Ein plötzlicher Frieden hingegen bringt diese Barriere zu Fall und kündigt das Eintreffen einer Flut
+
+82
+00:04:42,000 --> 00:04:47,120
+neuer Konkurrenten an, die bereit sind, sich in einem nun befriedeten Land ihr Stück vom Kuchen zu sichern.
+
+83
+00:04:47,120 --> 00:04:50,120
+Kommen wir zur zweiten Ursache: den Machtverhältnissen.
+
+84
+00:04:50,120 --> 00:04:54,639
+Während des Krieges muss die Regierung mit den Rebellen um die Kontrolle des Territoriums konkurrieren,
+
+85
+00:04:54,639 --> 00:04:58,879
+doch nach dem Ende des Konflikts erlangt der Staat ein absolutes und totales Monopol über die
+
+86
+00:04:58,879 --> 00:04:59,879
+Schürfrechte zurück.
+
+87
+00:04:59,879 --> 00:05:03,839
+Und für die ausländischen Unternehmen ist dies eine kalte Dusche: Es besteht die konkrete Angst,
+
+88
+00:05:03,840 --> 00:05:08,340
+dass die nun konkurrenzlose Regierung astronomische Lizenzgebühren verlangt oder beschließt,
+
+89
+00:05:08,340 --> 00:05:12,040
+alte Verträge einseitig zu ihren Gunsten neu zu verhandeln.
+
+90
+00:05:12,040 --> 00:05:17,240
+Dritter Punkt, und dieser ist vielleicht der krasseste: das Ende des sogenannten Preiskriegs.
+
+91
+00:05:17,240 --> 00:05:21,920
+Der Frieden schließt für immer die Pforten des von den Rebellen kontrollierten Schwarzmarktes, die in der Vergangenheit
+
+92
+00:05:21,920 --> 00:05:26,160
+die Diamantenrechte verschleuderten, schlicht weil sie verzweifelt waren und schnell Geld
+
+93
+00:05:26,160 --> 00:05:28,680
+brauchten, um Waffen zu kaufen.
+
+94
+00:05:28,680 --> 00:05:34,000
+Stellen Sie sich vor, dass früher manche Betreiber lächerliche Summen zahlten – manchmal nur 250 Dollar –,
+
+95
+00:05:34,000 --> 00:05:36,840
+um von den Rebellen riesige Schürfrechte zu erhalten.
+
+96
+00:05:36,840 --> 00:05:40,240
+Mit dem Frieden verschwinden diese extremen Rabatte vollständig.
+
+97
+00:05:40,240 --> 00:05:46,840
+Vierter und letzter Faktor: die Transparenz. Der Frieden lenkt unweigerlich die Aufmerksamkeit der
+
+98
+00:05:46,840 --> 00:05:51,680
+internationalen Gemeinschaft auf das Land. Solange Krieg herrscht, ist der Ausnahmezustand
+
+99
+00:05:51,680 --> 00:05:56,840
+die perfekte Ausrede, um keine transparenten Bilanzen vorzulegen, was ein ideales Ökosystem für zwielichtige,
+
+100
+00:05:56,840 --> 00:05:59,800
+aber enorm profitable Geschäfte schafft.
+
+101
+00:05:59,800 --> 00:06:04,720
+Mit dem Ende der Feindseligkeiten wächst der internationale Druck, den Sektor zu regulieren,
+
+102
+00:06:04,720 --> 00:06:06,520
+und Grauzonen gehören der Vergangenheit an.
+
+103
+00:06:06,520 --> 00:06:11,440
+Und um all diesen Zahlen etwas Farbe und menschlichen Kontext zu verleihen, gibt es ein Zitat
+
+104
+00:06:11,440 --> 00:06:16,600
+des angolanischen Journalisten und Dissidenten Rafael Marques, das es auf den Punkt bringt.
+
+105
+00:06:16,600 --> 00:06:20,880
+Das Ende des Krieges in Angola bedeutet, dass in diesem Moment die wichtigste Institution
+
+106
+00:06:20,880 --> 00:06:22,920
+des Landes die Korruption ist.
+
+107
+00:06:22,920 --> 00:06:27,720
+Ein scharfer Satz, der uns genau vor Augen führt, in was für einem regulatorischen und ethischen Sumpf
+
+108
+00:06:27,720 --> 00:06:31,240
+sich diese Unternehmensdynamiken in der Nachkriegszeit bewegten.
+
+109
+00:06:31,240 --> 00:06:36,680
+Nun sind wir beim fünften und letzten Punkt angelangt: den Konsequenzen dieser Entdeckung.
+
+110
+00:06:36,680 --> 00:06:40,879
+Am Ende dieser Analyse angelangt zu sein bedeutet, sich mit einer zutiefst unbequemen
+
+111
+00:06:40,879 --> 00:06:41,879
+Realität auseinandersetzen zu müssen.
+
+112
+00:06:41,879 --> 00:06:46,360
+Denken wir darüber nach: Wenn die großen Unternehmen, die bereits in einem vom Konflikt verwüsteten Land tätig sind,
+
+113
+00:06:46,360 --> 00:06:50,720
+spürbare finanzielle Vorteile daraus ziehen, dass der Krieg weitergeht, welchen wirklichen
+
+114
+00:06:50,720 --> 00:06:54,640
+Anreiz werden sie je haben, ihren enormen politischen Einfluss zu nutzen, um den Frieden
+
+115
+00:06:54,640 --> 00:06:55,640
+zu fördern?
+
+116
+00:06:55,640 --> 00:06:59,640
+Das ist eine schwere Frage, dessen bin ich mir bewusst, aber sie zwingt uns, über
+
+117
+00:06:59,640 --> 00:07:03,920
+die Oberfläche hinauszublicken und die dunklen und fragilen Dynamiken, die die Ressourcen
+
+118
+00:07:03,920 --> 00:07:05,400
+unseres Planeten kontrollieren, bis ins Letzte zu verstehen.

@@ -1,0 +1,391 @@
+1
+00:00:00,000 --> 00:00:05,700
+Here we are, welcome to this new in-depth analysis. Today's title poses a question as
+
+2
+00:00:05,700 --> 00:00:09,980
+simple as it is uncomfortable: why do reforms cost votes?
+
+3
+00:00:09,980 --> 00:00:14,339
+Today we are going to explore one of the most incredible paradoxes of modern politics.
+
+4
+00:00:14,339 --> 00:00:19,339
+We will analyze a truly monumental database to try to uncover a mystery, namely why
+
+5
+00:00:19,339 --> 00:00:24,660
+doing the objectively right thing for the economy almost always turns out to be a lethal move for
+
+6
+00:00:24,660 --> 00:00:29,579
+the career of those who govern. In short, fasten your seatbelts because we are diving into the data.
+
+7
+00:00:29,579 --> 00:00:35,259
+And to understand how deeply rooted this problem is, we have to take a big leap back in time.
+
+8
+00:00:35,259 --> 00:00:40,500
+Just think, Machiavelli had already warned us in 1513, writing that there is
+
+9
+00:00:40,500 --> 00:00:45,539
+literally nothing more dangerous than setting out to introduce a new order of things.
+
+10
+00:00:45,539 --> 00:00:50,740
+Because, well, because the innovator makes enemies of all those who benefited from the old system and finds
+
+11
+00:00:50,740 --> 00:00:54,980
+very, very lukewarm defenders in those who might benefit from the new.
+
+12
+00:00:54,980 --> 00:01:00,020
+This resistance to change is not just philosophy; it is a centuries-old problem that today
+
+13
+00:01:00,020 --> 00:01:02,660
+we see exploding in full force in our democracies.
+
+14
+00:01:02,660 --> 00:01:08,579
+Which brings us straight to our fundamental question, the literal, true mystery:
+
+15
+00:01:08,579 --> 00:01:13,260
+why does trying to improve the economy in the long term so often cost a
+
+16
+00:01:13,260 --> 00:01:17,700
+political leader their job? I mean, in theory, if a government manages the economy well, voters should
+
+17
+00:01:17,700 --> 00:01:22,420
+reward it, right? Even classical economic theory says exactly that. And yet, when real
+
+18
+00:01:22,420 --> 00:01:26,579
+structural reforms are put in place, the leaders who take responsibility for them are
+
+19
+00:01:26,579 --> 00:01:31,379
+regularly punished at the ballot box. There is a sort of crazy short-circuit between good intentions
+
+20
+00:01:31,379 --> 00:01:36,820
+for the country and electoral support. Now, to answer this question we won't be here just
+
+21
+00:01:36,820 --> 00:01:41,680
+making idle chit-chat, but we will rely on a literal mountain of data. A team of
+
+22
+00:01:41,680 --> 00:01:47,260
+top-tier researchers created the Structural Reform Database, which is basically
+
+23
+00:01:47,260 --> 00:01:52,140
+the most massive database ever built on this topic. We are talking about something that covers
+
+24
+00:01:52,140 --> 00:01:59,340
+90 nations from 1973 to 2014; they analyzed reforms in every sector and crossed it all with
+
+25
+00:01:59,340 --> 00:02:04,780
+the elections of 66 democracies. In short, it is not a theoretical exercise; it is the economic
+
+26
+00:02:04,780 --> 00:02:10,099
+and electoral history of half the world, put under the microscope. Just to be
+
+27
+00:02:10,099 --> 00:02:16,140
+clear and keep our analysis completely neutral, what exactly do we mean by reform?
+
+28
+00:02:16,140 --> 00:02:21,900
+The researchers used a very simple scale from 0 to 1. 0 means maximum regulation,
+
+29
+00:02:21,900 --> 00:02:27,100
+1 means complete liberalization. So, when we say reform in this context,
+
+30
+00:02:27,100 --> 00:02:31,940
+we simply mean a movement towards the free market—no politics, no ideological
+
+31
+00:02:31,940 --> 00:02:35,580
+preference, we only measure the extent of the change, period.
+
+32
+00:02:35,580 --> 00:02:41,700
+And here, here we get to the heart of the problem. It's all a matter of out-of-sync timing. Imagine
+
+33
+00:02:41,700 --> 00:02:46,820
+two clocks ticking on different planets. On one side you have the economic clock,
+
+34
+00:02:46,820 --> 00:02:51,700
+which is extremely slow. If you pass a reform in the first year, the costs arrive immediately between the
+
+35
+00:02:51,700 --> 00:02:57,020
+second and third year. The benefits? Those keep you waiting until the fourth or fifth year.
+
+36
+00:03:01,700 --> 00:03:06,580
+On the other hand, however, you have the political clock running wildly towards the next
+
+37
+00:03:06,580 --> 00:03:11,260
+elections. You see the madness. The politician has to ask for votes precisely when the citizens
+
+38
+00:03:11,260 --> 00:03:15,819
+are paying the bill for the reform, but don't see its fruits yet. To understand this
+
+39
+00:03:15,819 --> 00:03:21,340
+better, look at the effect on GDP, gross domestic product. When a major
+
+40
+00:03:21,340 --> 00:03:25,539
+reform starts, in the short term, the effect is practically zero, flat. And only from the fourth, and even
+
+41
+00:03:25,539 --> 00:03:30,219
+more clearly from the fifth year, do we see an increase in economic output, let's say
+
+42
+00:03:30,219 --> 00:03:35,219
+around one percent. It's a good result, sure. But let's put ourselves in the shoes of those
+
+43
+00:03:35,219 --> 00:03:40,939
+governing. Five years of waiting, in politics, is equivalent to about two or three
+
+44
+00:03:40,939 --> 00:03:45,620
+geological eras. So, someone might say, "Okay, but if liberalizations take
+
+45
+00:03:45,620 --> 00:03:50,579
+so long, I'll do the opposite: I'll put rules back in place and gain support right away."
+
+46
+00:03:50,579 --> 00:03:55,219
+If only it were that easy. The data slaps us in the face with a terrible truth. It is true
+
+47
+00:03:55,219 --> 00:04:00,620
+that the benefits of liberalizations are slow, but the damage caused by introducing new
+
+48
+00:04:00,620 --> 00:04:05,500
+restrictions is immediate. Blocking or reversing a reform immediately causes economic output to crash.
+
+49
+00:04:05,500 --> 00:04:09,620
+Practically, it is a trap with no way out. If you push for reforms,
+
+50
+00:04:09,620 --> 00:04:17,300
+you lose votes in the short term. If you go backward, you cause short-term economic damage.
+
+51
+00:04:17,300 --> 00:04:22,579
+It is a literally devastating asymmetry. On one hand, we have a slow, gradual,
+
+52
+00:04:22,579 --> 00:04:28,100
+arduous climb that slowly builds growth. On the other hand, when regulations are tightened,
+
+53
+00:04:28,100 --> 00:04:32,460
+we have a dizzying and very fast collapse. Just like in life, destroying is much, much
+
+54
+00:04:32,460 --> 00:04:37,300
+faster than building. And for those who have to govern while trying to balance the state's
+
+55
+00:04:37,300 --> 00:04:43,100
+books with the desperate need not to get kicked out in the next elections,
+
+56
+00:04:43,100 --> 00:04:43,100
+well, it's a nightmare. And let's quantify this nightmare. What actually happens? Numbers in hand,
+
+57
+00:04:43,100 --> 00:04:48,379
+if you force a liberal reform exactly in the election year, here is the answer. You suffer
+
+58
+00:04:48,379 --> 00:04:55,580
+a sharp drop of 1.4% in your vote share. Now, 1.4% might not seem like
+
+59
+00:04:55,579 --> 00:05:00,300
+the end of the world, right? But in a competitive system where governments are decided on a
+
+60
+00:05:00,300 --> 00:05:05,459
+razor's edge, losing one and a half percentage points means packing up and clearing out
+
+61
+00:05:05,459 --> 00:05:10,579
+the office. It's a very heavy price to pay for doing the right thing at the wrong time.
+
+62
+00:05:10,579 --> 00:05:16,339
+But then is there no hope? Actually, there is a highly strategic way out: timing.
+
+63
+00:05:16,339 --> 00:05:21,379
+The data is clear. Passing reforms close to an election is political suicide.
+
+64
+00:05:21,379 --> 00:05:26,019
+But the memory of voters, let's face it, is surprisingly short. If the reform is
+
+65
+00:05:26,019 --> 00:05:30,939
+approved at the beginning of the term, that electoral cost practically vanishes. The hit comes
+
+66
+00:05:30,939 --> 00:05:36,659
+immediately, voters get angry, but after three or four years, not only has the anger faded,
+
+67
+00:05:36,659 --> 00:05:40,579
+but the first concrete benefits on the economy also begin to show.
+
+68
+00:05:40,579 --> 00:05:45,459
+Imagine the situation as if it were a very bitter medicine. Structural reforms,
+
+69
+00:05:45,459 --> 00:05:50,659
+like those on the labor market, act a bit like a very strong treatment. Even before
+
+70
+00:05:50,660 --> 00:05:55,580
+making you better, they knock you down. Unemployment might rise temporarily, wages
+
+71
+00:05:55,580 --> 00:06:00,740
+have to adjust. In short, future benefits are widespread, but present pains are
+
+72
+00:06:00,740 --> 00:06:05,580
+strongly localized and make a lot of noise. So if you go to the patient while they are
+
+73
+00:06:05,580 --> 00:06:10,340
+writhing in pain from the treatment and ask for their opinion on the doctor, well, of course they'll want to
+
+74
+00:06:10,340 --> 00:06:15,620
+fire them instantly. But watch out, because there is another plot twist that completely
+
+75
+00:06:15,620 --> 00:06:20,579
+changes the game. And that is the general state of health of the economy when
+
+76
+00:06:20,579 --> 00:06:25,420
+the reform is introduced. The effect is not always the same. Researchers found
+
+77
+00:06:25,420 --> 00:06:30,579
+that the exact same reform can spark diametrically opposite reactions depending on whether we launch it while
+
+78
+00:06:30,579 --> 00:06:35,300
+the economy is soaring or while it is sinking. Context, when it comes to the patience
+
+79
+00:06:35,300 --> 00:06:41,459
+of voters, is literally everything. And here is the golden rule that emerges: making reforms
+
+80
+00:06:41,460 --> 00:06:46,740
+during a recession is the best way to maximize the electoral penalty. It is
+
+81
+00:06:46,740 --> 00:06:51,260
+a catastrophe. Making layoffs easier at a time when jobs are already scarce
+
+82
+00:06:51,260 --> 00:06:57,620
+only worsens the crisis and infuriates people. But if you pass that exact same
+
+83
+00:06:57,620 --> 00:07:02,820
+reform during a period of economic expansion, not only do they forgive you, but
+
+84
+00:07:02,820 --> 00:07:08,060
+sometimes you are even rewarded. To return to our metaphor, if you give strong medicine
+
+85
+00:07:08,060 --> 00:07:13,259
+to a patient who is already half dead, it ends badly. If you give it to them when they are in good shape, it works
+
+86
+00:07:13,259 --> 00:07:19,699
+great. Who is at risk of getting hurt the absolute most? The research leaves no doubt.
+
+87
+00:07:19,699 --> 00:07:25,420
+Single-party governments and majoritarian systems, especially in rich countries. Why?
+
+88
+00:07:25,420 --> 00:07:30,060
+Very simple: accountability. If you are in a large coalition that's a bit of a
+
+89
+00:07:30,060 --> 00:07:36,100
+mixed bag, blame gets diluted and passed around, but in a majoritarian system, there is only one
+
+90
+00:07:36,100 --> 00:07:41,180
+clear, bright target. Voters know exactly who is in front of them on the ballot
+
+91
+00:07:41,180 --> 00:07:46,660
+and know very well who to punish. In short, all this brings us to a rather big provocation
+
+92
+00:07:46,660 --> 00:07:51,780
+that I want you to think about. If our democratic system itself mathematically punishes
+
+93
+00:07:51,780 --> 00:07:56,100
+anyone trying to create long-term growth during difficult times,
+
+94
+00:07:56,100 --> 00:08:00,500
+then we are fundamentally discouraging political courage. In other words, is our desire for
+
+95
+00:08:00,500 --> 00:08:05,300
+immediate results perhaps condemning us to stay stagnant? Do we want politicians who calculate
+
+96
+00:08:05,300 --> 00:08:10,100
+every move just to survive the next vote, or leaders willing to take the flak today
+
+97
+00:08:10,100 --> 00:08:15,300
+to save the next generations? It is a huge question, and I'll leave you to find the answer.
+
+98
+00:08:15,300 --> 00:08:15,939
+Until next time!

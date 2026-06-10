@@ -1,0 +1,579 @@
+1
+00:00:00,000 --> 00:00:04,980
+Heute tauchen wir in eine wirklich unglaubliche Untersuchung ein, die vom Ökonomen Alberto
+
+2
+00:00:04,980 --> 00:00:06,560
+Alesina und von Sottimo durchgeführt wurde.
+
+3
+00:00:06,560 --> 00:00:11,419
+Es ist eine Analyse, die eine, gelinde gesagt, unerwartete Verbindung aufdeckt zwischen der familiären Zuneigung,
+
+4
+00:00:11,419 --> 00:00:15,759
+unseren am tiefsten verwurzelten kulturellen Werten und den Arbeitsmarktgesetzen.
+
+5
+00:00:15,759 --> 00:00:20,960
+Kurzum, eine völlig neue und definitiv faszinierende Perspektive, um die
+
+6
+00:00:20,960 --> 00:00:23,160
+wirtschaftlichen Entscheidungen von Nationen zu verstehen.
+
+7
+00:00:23,160 --> 00:00:28,519
+Beginnen wir direkt mit einem Paradoxon, einem regelrechten Rätsel, das Ökonomen
+
+8
+00:00:28,519 --> 00:00:29,519
+seit Jahrzehnten verblüfft.
+
+9
+00:00:29,679 --> 00:00:34,640
+Es ist eine Tatsache, dass starr regulierte Arbeitsmärkte dazu neigen,
+
+10
+00:00:34,640 --> 00:00:39,679
+eine höhere Arbeitslosigkeit und im Durchschnitt niedrigere Einkommen zu erzeugen als flexible Märkte.
+
+11
+00:00:39,679 --> 00:00:41,039
+So weit, so gut.
+
+12
+00:00:41,039 --> 00:00:46,480
+Aber warum stimmen dann ganze Gesellschaften trotz dieser offensichtlichen makroökonomischen Ineffizienz,
+
+13
+00:00:46,480 --> 00:00:51,200
+besonders hier in Europa, weiterhin mit Überzeugung dafür, diese starren
+
+14
+00:00:51,200 --> 00:00:53,519
+Gesetze zum Kündigungsschutz beizubehalten?
+
+15
+00:00:53,519 --> 00:00:55,920
+Es scheint fast absurd, finden Sie nicht auch?
+
+16
+00:00:56,000 --> 00:01:02,000
+Okay, kommen wir zum Kern der Sache und vergleichen wir diese zwei gegensätzlichen Wirtschaftsmodelle.
+
+17
+00:01:02,000 --> 00:01:07,760
+Auf der einen Seite haben wir den flexiblen Arbeitsmarkt, ein System, das zwar Effizienz belohnt,
+
+18
+00:01:07,760 --> 00:01:11,359
+aber eine sehr hohe geografische Mobilität erfordert.
+
+19
+00:01:11,359 --> 00:01:15,760
+Praktisch gesehen muss man immer bereit sein, die Koffer zu packen, um den besten
+
+20
+00:01:15,760 --> 00:01:18,960
+Gelegenheiten nachzujagen, und erhält im Gegenzug höhere Einkommen.
+
+21
+00:01:18,960 --> 00:01:21,920
+Auf der anderen Seite steht der starre Arbeitsmarkt.
+
+22
+00:01:22,000 --> 00:01:27,200
+Dieses Modell zeichnet sich durch hohe Mindestlöhne und einen sehr starken Kündigungsschutz aus,
+
+23
+00:01:27,200 --> 00:01:30,719
+was es den Arbeitnehmern ermöglicht, genau dort zu bleiben, wo sie geboren sind.
+
+24
+00:01:30,719 --> 00:01:35,200
+Der kollektive Preis dafür ist jedoch eine höhere strukturelle Arbeitslosigkeit
+
+25
+00:01:35,200 --> 00:01:37,439
+und insgesamt niedrigere Gehälter.
+
+26
+00:01:37,439 --> 00:01:42,799
+Das Rätsel bleibt also: Warum sollte man sich für die Option entscheiden, die am Ende weniger einbringt?
+
+27
+00:01:42,799 --> 00:01:47,840
+Nun, die Antwort verbirgt sich hinter einem absolut unverdächtigen Schuldigen:
+
+28
+00:01:47,840 --> 00:01:50,000
+der Stärke der familiären Bindungen.
+
+29
+00:01:50,079 --> 00:01:54,159
+Es ist fast komisch, wenn man darüber nachdenkt, aber die Gewohnheit erwachsener Kinder, weiterhin unter demselben
+
+30
+00:01:54,159 --> 00:01:58,719
+Dach wie ihre Eltern zu leben, prägt buchstäblich die Wirtschaftspolitik einer Nation.
+
+31
+00:01:58,719 --> 00:02:03,519
+Die Daten des World Values Survey sprechen eine deutliche Sprache: Die Familienbindung kann mit fast
+
+32
+00:02:03,519 --> 00:02:08,000
+unfehlbarer Präzision vorhersagen, welche Art von Arbeitsmarkt eine bestimmte Gesellschaft
+
+33
+00:02:08,000 --> 00:02:09,280
+letztendlich einführen wird.
+
+34
+00:02:09,280 --> 00:02:12,879
+Schauen wir uns Schritt für Schritt an, wie diese Kettenreaktion genau funktioniert.
+
+35
+00:02:12,879 --> 00:02:17,920
+Alles beginnt in Phase 1, innerhalb einer Kultur, die einen immensen Wert auf den familiären Zusammenhalt legt.
+
+36
+00:02:18,000 --> 00:02:21,360
+Dies führt direkt zu Phase 2: der geografischen Immobilität.
+
+37
+00:02:21,360 --> 00:02:25,600
+Sich von den Liebsten zu entfernen, hat einen zu hohen emotionalen Preis – ein regelrechter Riss.
+
+38
+00:02:25,600 --> 00:02:29,440
+Wenn Arbeitnehmer es folglich vermeiden umzuziehen, tritt man in Phase 3 ein,
+
+39
+00:02:29,440 --> 00:02:32,800
+in der lokale Unternehmen eine unverhältnismäßige Marktmacht erlangen.
+
+40
+00:02:32,800 --> 00:02:37,040
+Und schließlich kommen wir zu Phase 4: Um sich zu wehren und die Übermacht der Unternehmen auszugleichen,
+
+41
+00:02:37,040 --> 00:02:41,760
+gehen die Bürger zur Wahlurne und fordern lautstark ein Eingreifen des Staates zur Arbeitsregulierung.
+
+42
+00:02:41,760 --> 00:02:47,680
+Dieses Phänomen äußert sich in einem Konzept, das Ökonomen Monopsonmacht nennen.
+
+43
+00:02:47,760 --> 00:02:50,719
+Es klingt wie ein kompliziertes Wort, ist aber eigentlich ganz einfach.
+
+44
+00:02:50,719 --> 00:02:55,439
+Während es im Monopol nur einen Verkäufer gibt, gibt es im Monopson nur einen Käufer.
+
+45
+00:02:55,439 --> 00:03:00,159
+In diesem Szenario wird ein lokales Unternehmen zum einzigen wirklichen Käufer der Zeit
+
+46
+00:03:00,159 --> 00:03:04,240
+und Fähigkeiten von Arbeitnehmern, die faktisch nicht die Absicht haben, wegzuziehen.
+
+47
+00:03:04,240 --> 00:03:08,319
+Es ist eine Art Falle: Da das Unternehmen genau weiß, dass ein Mitarbeiter niemals
+
+48
+00:03:08,319 --> 00:03:10,560
+seine Koffer packen würde, um seine Familie nicht zu verlassen,
+
+49
+00:03:10,560 --> 00:03:13,600
+kann es sich das Unternehmen leisten, sehr niedrige Löhne durchzusetzen,
+
+50
+00:03:13,600 --> 00:03:16,960
+in der Gewissheit, dass dieser Arbeiter nirgendwo anders hingehen wird.
+
+51
+00:03:16,960 --> 00:03:19,360
+Und hier kommt die wahre Erkenntnis,
+
+52
+00:03:19,360 --> 00:03:22,159
+zusammengefasst in diesem Zitat der Forscher:
+
+53
+00:03:22,159 --> 00:03:26,080
+„Um die Renten der Unternehmen zu begrenzen und einen Umzug zu vermeiden,
+
+54
+00:03:26,080 --> 00:03:31,840
+entscheiden sich Personen mit starken Familienbanden rational für regulierte Arbeitsmärkte.“
+
+55
+00:03:31,840 --> 00:03:34,000
+Genau, rational.
+
+56
+00:03:34,000 --> 00:03:37,200
+Garantierte Mindestlöhne zu fordern oder Entlassungen zu erschweren,
+
+57
+00:03:37,200 --> 00:03:40,240
+ist keineswegs ein Symptom für ökonomischen Analphabetismus.
+
+58
+00:03:40,240 --> 00:03:44,400
+Im Gegenteil, es ist ein brillanter und absolut bewusster Verteidigungsmechanismus,
+
+59
+00:03:44,400 --> 00:03:47,439
+um die Erpressung durch das unternehmerische Monopson zu neutralisieren
+
+60
+00:03:47,439 --> 00:03:50,560
+und gleichzeitig in der Nähe der eigenen Familie bleiben zu können.
+
+61
+00:03:50,560 --> 00:03:53,840
+Analysiert man die globalen Daten, sind die Unterschiede gewaltig.
+
+62
+00:03:53,840 --> 00:03:56,000
+Nehmen wir die Mittelmeerländer Europas,
+
+63
+00:03:56,000 --> 00:03:58,080
+mit ihren tief verwurzelten familiären Kulturen,
+
+64
+00:03:58,080 --> 00:04:00,560
+in denen es die Norm ist, erst spät von zu Hause auszuziehen.
+
+65
+00:04:00,560 --> 00:04:03,439
+Dort ist das Regulierungsniveau sehr hoch.
+
+66
+00:04:03,439 --> 00:04:07,200
+Schaut man sich dagegen die angelsächsischen oder nordischen Länder an,
+
+67
+00:04:07,200 --> 00:04:11,520
+in denen Unabhängigkeit und das frühe Verlassen des Nestes zentrale Werte sind,
+
+68
+00:04:11,520 --> 00:04:15,520
+finden wir drastisch niedrigere Indizes für die Starrheit des Arbeitsmarktes.
+
+69
+00:04:15,520 --> 00:04:17,519
+Nun könnte jemand einwenden:
+
+70
+00:04:17,519 --> 00:04:21,600
+„Wie können wir sicher sein, dass es wirklich an den kulturellen Werten liegt
+
+71
+00:04:21,600 --> 00:04:24,960
+und nicht etwa an der Geographie oder der amtierenden Regierung?“
+
+72
+00:04:24,960 --> 00:04:28,960
+Um diesen methodischen Zweifel auszuräumen, fanden die Forscher eine perfekte
+
+73
+00:04:28,960 --> 00:04:33,519
+und unangreifbare Kontrollgruppe: Einwanderer der zweiten Generation in den USA.
+
+74
+00:04:33,519 --> 00:04:36,000
+Es handelt sich um Menschen, die in Amerika geboren und aufgewachsen sind,
+
+75
+00:04:36,000 --> 00:04:39,199
+die sich jeden Tag auf genau demselben Markt bewegen,
+
+76
+00:04:39,199 --> 00:04:42,879
+denselben Bundesgesetzen und denselben Institutionen unterliegen.
+
+77
+00:04:42,879 --> 00:04:47,120
+Das Einzige, was sie unterscheidet, ist das von ihren Eltern geerbte kulturelle Gepäck.
+
+78
+00:04:47,120 --> 00:04:52,480
+Nun, wenn man diese komplexen ökonometrischen Formeln auf den Alltag überträgt,
+
+79
+00:04:52,480 --> 00:04:54,480
+sind die Ergebnisse verblüffend.
+
+80
+00:04:54,480 --> 00:04:58,319
+Selbst wenn sie in denselben amerikanischen Markt eingetaucht sind,
+
+81
+00:04:58,319 --> 00:05:01,599
+bestimmt die Herkunftskultur das wirtschaftliche Schicksal.
+
+82
+00:05:01,599 --> 00:05:07,279
+Einwanderer aus Kulturen mit starken Familienbindungen neigen dazu, nicht für die Arbeit umzuziehen,
+
+83
+00:05:07,360 --> 00:05:10,160
+haben deutlich höhere Arbeitslosenquoten
+
+84
+00:05:10,160 --> 00:05:13,680
+und erzielen am Ende niedrigere Gehälter als ihre Mitbürger,
+
+85
+00:05:13,680 --> 00:05:18,400
+die aus Kulturen kommen, in denen der familiäre Zusammenhalt weniger bindend gelebt wird.
+
+86
+00:05:18,400 --> 00:05:23,680
+Es gibt eine Zahl, die das Ausmaß verdeutlicht: 7 %.
+
+87
+00:05:23,680 --> 00:05:28,640
+Das ist der exakte Rückgang der geografischen Mobilität bei Einwanderern der zweiten Generation
+
+88
+00:05:28,640 --> 00:05:34,160
+bei einem Anstieg der Stärke der Familienbindungen im Herkunftsland um nur eine Standardabweichung.
+
+89
+00:05:34,240 --> 00:05:40,320
+Kurz gesagt, eine unsichtbare, aber mächtige Bindung an die eigenen Wurzeln bremst buchstäblich
+
+90
+00:05:40,320 --> 00:05:42,960
+die Suche nach dem besten Job im ganzen Land.
+
+91
+00:05:42,960 --> 00:05:47,280
+Und das Verrückteste ist vielleicht, dass nicht nur wirtschaftliche Ergebnisse weitergegeben werden,
+
+92
+00:05:47,280 --> 00:05:51,280
+sondern man erbt direkt die politische Forderung nach staatlicher Intervention.
+
+93
+00:05:51,280 --> 00:05:56,960
+Umfragen zeigen, dass diese Kinder von Einwanderern einen weit überdurchschnittlichen Wunsch
+
+94
+00:05:56,960 --> 00:05:58,960
+nach einem sicheren Arbeitsplatz beibehalten.
+
+95
+00:05:58,960 --> 00:06:02,320
+Sie befürworten staatliche Rettungsschirme für kriselnde Industrien
+
+96
+00:06:02,319 --> 00:06:07,279
+und glauben fest daran, dass die Regierung die Löhne regulieren sollte.
+
+97
+00:06:07,279 --> 00:06:13,120
+An diesem Punkt stellt sich zwangsläufig ein klassisches Dilemma, eine philosophische Frage.
+
+98
+00:06:13,120 --> 00:06:18,399
+Sind es die Gesetze und staatlichen Institutionen, die mit der Zeit die Kultur eines Volkes formen,
+
+99
+00:06:18,399 --> 00:06:23,600
+oder gibt die tiefe Kultur einer Gesellschaft ihren Institutionen die Form?
+
+100
+00:06:23,600 --> 00:06:28,719
+Was aus diesen Studien hervorgeht, ist die Existenz eines kontinuierlichen Rückkopplungszyklus,
+
+101
+00:06:28,720 --> 00:06:32,560
+ein Kreislauf, in dem die Erziehung der Kinder und die Wirtschaftsstruktur der Nation
+
+102
+00:06:32,560 --> 00:06:34,640
+sich gegenseitig unendlich beeinflussen.
+
+103
+00:06:34,640 --> 00:06:40,480
+Der entscheidende Punkt ist also, dass Gesellschaften sich auf zwei parallelen Wegen koordinieren,
+
+104
+00:06:40,480 --> 00:06:46,320
+zwei sich selbst verstärkende Modelle oder, fachsprachlich, zwei multiple Gleichgewichte.
+
+105
+00:06:46,320 --> 00:06:51,280
+Bei schwachen Familienbindungen überwiegt ein sehr freier Markt, ein Laissez-faire,
+
+106
+00:06:51,280 --> 00:06:53,600
+in dem absolute Unabhängigkeit gepredigt wird.
+
+107
+00:06:53,680 --> 00:06:58,340
+Bei starken Bindungen hingegen wird der Markt strukturell starr und den Jüngeren wird beigebracht,
+
+108
+00:06:58,340 --> 00:07:04,160
+sich auf das Sicherheitsnetz der Familie zu verlassen – zwei völlig verschiedene Lebensweisen.
+
+109
+00:07:04,160 --> 00:07:10,000
+Um zu verstehen, wie mächtig diese Kraft ist, müssen wir weit in der Geschichte zurückgehen.
+
+110
+00:07:10,000 --> 00:07:14,240
+Diese Studie belegt eine, gelinde gesagt, verblüffende Beständigkeit über die Zeit.
+
+111
+00:07:14,240 --> 00:07:18,720
+Beginnen wir mit regionalen Familienstrukturen, die nicht weniger als im Mittelalter entstanden sind.
+
+112
+00:07:18,800 --> 00:07:23,920
+Über die Werte, die Auswanderer vor dem Zweiten Weltkrieg nach Amerika mitnahmen,
+
+113
+00:07:23,920 --> 00:07:26,600
+bis hin zum heutigen Tag.
+
+114
+00:07:26,600 --> 00:07:32,040
+Erstaunlicherweise können Werte aus längst vergangenen Epochen noch immer genau vorhersagen,
+
+115
+00:07:32,040 --> 00:07:34,400
+wie viel Arbeitsmarktstarrheit wir heute fordern.
+
+116
+00:07:34,400 --> 00:07:41,080
+Wer hätte gedacht, dass mittelalterliche Familiendynamiken die Arbeitsregeln des 21. Jahrhunderts bestimmen?
+
+117
+00:07:41,080 --> 00:07:45,920
+Genau so ist es: Die Klassifizierungen des Historikers Emmanuel Todd zeigen, dass die alten
+
+118
+00:07:45,920 --> 00:07:52,120
+unabhängigen Kernfamilien eine Vorliebe für superflexible Märkte hinterlassen haben.
+
+119
+00:07:52,120 --> 00:07:57,920
+Im Gegensatz dazu spiegelt sich die mittelalterliche Gemeinschaftsfamilie – typischerweise autoritär,
+
+120
+00:07:57,920 --> 00:08:01,720
+in der Kinder, Ehefrauen und Enkel alle unter dem Dach des Patriarchen lebten –
+
+121
+00:08:01,720 --> 00:08:06,319
+heute in einer Bürgerschaft wider, die vom Staat einen eisernen Schutz verlangt.
+
+122
+00:08:06,319 --> 00:08:10,720
+Und es gibt eine unglaubliche Statistik, die das bestätigt: enorme 19 %.
+
+123
+00:08:10,720 --> 00:08:17,920
+Menschen in Regionen, die vor Jahrhunderten von autoritären Gemeinschaftsfamilien dominiert wurden,
+
+124
+00:08:17,920 --> 00:08:24,320
+fordern heute mit einer um 19 % höheren Wahrscheinlichkeit staatliche Eingriffe zum Erhalt von Arbeitsplätzen.
+
+125
+00:08:24,320 --> 00:08:30,920
+Es ist fast so, als wäre der Geist des alten Patriarchen unsichtbar dort, um die Hand des heutigen Wählers zu führen.
+
+126
+00:08:30,920 --> 00:08:34,519
+Zusammenfassend lässt sich sagen, dass nach dieser unglaublichen, unvoreingenommenen Analyse
+
+127
+00:08:34,519 --> 00:08:38,720
+die Arbeitsgesetze in einem sehr tiefen kulturellen Boden verwurzelt sind.
+
+128
+00:08:38,720 --> 00:08:42,320
+Wenn Familienbindung geografische Immobilität erzeugt,
+
+129
+00:08:42,320 --> 00:08:45,920
+erlangen Unternehmen automatisch eine enorme Monopsonmacht.
+
+130
+00:08:45,920 --> 00:08:49,920
+Folglich ist die Forderung nach staatlichem Eingreifen kein unlogischer Fehltritt,
+
+131
+00:08:49,920 --> 00:08:53,320
+sondern eine hyperrationale Verteidigung, um die Einheit der Familie zu schützen.
+
+132
+00:08:53,320 --> 00:08:58,120
+Kurzum, was in Wirtschaftsbüchern kühl als Ineffizienz abgetan wird,
+
+133
+00:08:58,120 --> 00:09:01,120
+ist in der Realität oft ein ganz bewusster sozialer Kompromiss,
+
+134
+00:09:01,120 --> 00:09:03,320
+der völlig wissentlich eingegangen wurde.
+
+135
+00:09:03,320 --> 00:09:07,320
+Was uns mit einer abschließenden, sehr tiefgreifenden Frage zurücklässt,
+
+136
+00:09:07,320 --> 00:09:09,920
+die weit über rein wirtschaftliche Kalkulationen hinausgeht.
+
+137
+00:09:09,920 --> 00:09:13,120
+Ist es angesichts all dessen die absolute wirtschaftliche Effizienz
+
+138
+00:09:13,120 --> 00:09:16,120
+und Flexibilität um jeden Preis wirklich wert,
+
+139
+00:09:16,120 --> 00:09:20,120
+den Preis einer geografisch zersplitterten Familie zu zahlen?
+
+140
+00:09:20,120 --> 00:09:24,520
+Im Grunde trifft jede Gesellschaft ständig diese stille Entscheidung:
+
+141
+00:09:24,520 --> 00:09:28,320
+reinen Wohlstand optimieren oder die Nähe der Bindungen schützen.
+
+142
+00:09:28,320 --> 00:09:30,520
+Es ist ein gigantischer unsichtbarer Kompromiss,
+
+143
+00:09:30,520 --> 00:09:34,320
+der jeden Tag die Welt prägt, in der wir alle leben und arbeiten.
+
+144
+00:09:34,320 --> 00:09:35,720
+Was ist der richtige Weg?
+
+145
+00:09:35,720 --> 00:09:38,120
+Es ist sicherlich ein schöner Denkanstoß.

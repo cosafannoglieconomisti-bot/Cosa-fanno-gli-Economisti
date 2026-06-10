@@ -1,0 +1,379 @@
+1
+00:00:00,000 --> 00:00:05,040
+Empecemos de inmediato. El título de nuestro análisis de hoy es Super Mario:
+
+2
+00:00:05,040 --> 00:00:10,880
+La IA nos sabotea, y les aseguro que exploraremos un estudio científico realmente fascinante
+
+3
+00:00:10,880 --> 00:00:14,599
+y, francamente, completamente contra-intuitivo.
+
+4
+00:00:14,599 --> 00:00:17,760
+Estamos poniendo bajo la lupa una investigación académica
+
+5
+00:00:17,760 --> 00:00:21,800
+que literalmente destrozará muchas de las creencias que damos por sentadas
+
+6
+00:00:21,800 --> 00:00:25,839
+sobre la inteligencia artificial, la automatización y el trabajo en equipo.
+
+7
+00:00:25,839 --> 00:00:29,120
+Abróchense los cinturones, porque va a ser un gran viaje.
+
+8
+00:00:29,160 --> 00:00:31,160
+Imaginemos por un momento esta escena.
+
+9
+00:00:31,160 --> 00:00:33,640
+Tenemos un equipo muy unido que trabaja muy bien.
+
+10
+00:00:33,640 --> 00:00:38,000
+En un momento dado, la empresa decide sustituir a uno de los compañeros de carne y hueso
+
+11
+00:00:38,000 --> 00:00:41,120
+por una inteligencia artificial perfecta.
+
+12
+00:00:41,120 --> 00:00:44,760
+Una máquina que nunca se distrae, realiza las tareas a la velocidad de la luz
+
+13
+00:00:44,760 --> 00:00:46,600
+y sin un solo error.
+
+14
+00:00:46,600 --> 00:00:49,040
+La lógica convencional nos llevaría a pensar
+
+15
+00:00:49,040 --> 00:00:51,960
+que la productividad debería dispararse, ¿verdad?
+
+16
+00:00:51,960 --> 00:00:57,600
+Parece la jugada perfecta, y sin embargo la realidad nos lanza una paradoja clamorosa a la cara.
+
+17
+00:00:57,840 --> 00:01:00,679
+Capítulo 1: La Paradoja de la IA.
+
+18
+00:01:00,679 --> 00:01:05,400
+Para entender lo que está pasando, echemos un vistazo a un experimento de laboratorio asombroso
+
+19
+00:01:05,400 --> 00:01:08,640
+realizado por los investigadores Dell'Acqua, Kogut y Perkowski.
+
+20
+00:01:08,640 --> 00:01:12,280
+Quisieron medir no solo los resultados fríos de la automatización,
+
+21
+00:01:12,280 --> 00:01:15,280
+sino el impacto real en los comportamientos de los compañeros humanos.
+
+22
+00:01:15,280 --> 00:01:17,760
+Y hay un punto de partida que es inequívoco.
+
+23
+00:01:17,760 --> 00:01:21,079
+Tomada individualmente, la IA es objetivamente superior.
+
+24
+00:01:21,079 --> 00:01:24,920
+Trabajando sola, logra recuperar una media de 7,5 ingredientes,
+
+25
+00:01:24,920 --> 00:01:28,120
+mientras que el ser humano se queda en una media de 6,4.
+
+26
+00:01:28,120 --> 00:01:30,480
+El algoritmo domina totalmente.
+
+27
+00:01:30,480 --> 00:01:34,200
+En resumen, sobre el papel, es literalmente el candidato ideal.
+
+28
+00:01:34,200 --> 00:01:37,799
+Capítulo 2: El Experimento de Super Mario.
+
+29
+00:01:37,799 --> 00:01:42,640
+Pero, ¿cómo se prueba el impacto de este empleado perfecto en el campo?
+
+30
+00:01:42,640 --> 00:01:45,359
+Los investigadores tuvieron una intuición genial:
+
+31
+00:01:45,359 --> 00:01:48,760
+utilizar un famoso videojuego, Super Mario Party,
+
+32
+00:01:48,760 --> 00:01:54,200
+transformándolo en un verdadero microcosmos para simular las dinámicas empresariales.
+
+33
+00:01:54,320 --> 00:01:58,000
+Crearon equipos humanos cuya tarea era moverse en sintonía
+
+34
+00:01:58,000 --> 00:02:00,520
+para recoger ingredientes contra el reloj.
+
+35
+00:02:00,520 --> 00:02:02,200
+Los grupos empezaron a jugar,
+
+36
+00:02:02,200 --> 00:02:04,680
+creando sus rutinas de forma natural.
+
+37
+00:02:04,680 --> 00:02:06,600
+Luego, los equipos se dividieron;
+
+38
+00:02:06,600 --> 00:02:08,439
+algunos permanecieron inalterados,
+
+39
+00:02:08,439 --> 00:02:10,680
+otros acogieron a un nuevo jugador humano,
+
+40
+00:02:10,680 --> 00:02:13,439
+y a otros, bueno, les tocó la automatización.
+
+41
+00:02:13,439 --> 00:02:16,039
+Y aquí está el verdadero giro.
+
+42
+00:02:16,039 --> 00:02:20,599
+A mitad de la partida, después de 6 rondas en las que los equipos humanos habían cogido el ritmo
+
+43
+00:02:20,599 --> 00:02:23,599
+y se entendían casi al instante, todo cambia.
+
+44
+00:02:23,639 --> 00:02:25,879
+De repente, y sin previo aviso,
+
+45
+00:02:25,879 --> 00:02:29,000
+un jugador de carne y hueso es retirado del equipo
+
+46
+00:02:29,000 --> 00:02:33,199
+y sustituido precisamente por esa inteligencia artificial de alto rendimiento,
+
+47
+00:02:33,199 --> 00:02:35,560
+configurada al nivel de dificultad máximo,
+
+48
+00:02:35,560 --> 00:02:38,400
+capaz de calcular trayectorias milimétricas
+
+49
+00:02:38,400 --> 00:02:40,240
+en una fracción de segundo.
+
+50
+00:02:40,240 --> 00:02:41,240
+¿El resultado?
+
+51
+00:02:41,240 --> 00:02:43,159
+Absolutamente impactante.
+
+52
+00:02:43,159 --> 00:02:45,439
+Hubiéramos esperado un boom de eficiencia,
+
+53
+00:02:45,439 --> 00:02:48,120
+pero en cambio los equipos a los que se les asignó la IA
+
+54
+00:02:48,120 --> 00:02:50,079
+literalmente colapsaron.
+
+55
+00:02:50,080 --> 00:02:55,440
+En conjunto, trajeron 6,12 ingredientes menos que los grupos de control.
+
+56
+00:02:55,440 --> 00:02:59,080
+Y cuidado, no estamos hablando solo de numeritos en un juego.
+
+57
+00:02:59,080 --> 00:03:05,880
+Este colapso costó a los participantes una pérdida real del 13% en su bono financiero al final del experimento.
+
+58
+00:03:05,880 --> 00:03:08,920
+Y aquí llegamos al quid de la cuestión,
+
+59
+00:03:08,920 --> 00:03:11,439
+al verdadero misterio de esta investigación:
+
+60
+00:03:11,439 --> 00:03:16,760
+si la inteligencia artificial es tan inmensamente capaz y rápida por sí sola,
+
+61
+00:03:16,760 --> 00:03:19,160
+¿por qué arrastra a todo el equipo al fondo?
+
+62
+00:03:19,280 --> 00:03:21,560
+¿Qué se rompió en el engranaje?
+
+63
+00:03:21,560 --> 00:03:22,759
+Capítulo 3: El Colapso de la Coordinación.
+
+64
+00:03:22,759 --> 00:03:25,199
+El primer gran sospechoso es un verdadero cortocircuito físico en el trabajo en equipo.
+
+65
+00:03:25,199 --> 00:03:30,919
+La llegada de la máquina destruyó las rutinas del grupo.
+
+66
+00:03:30,919 --> 00:03:34,319
+Los humanos desarrollamos hábitos implícitos.
+
+67
+00:03:34,319 --> 00:03:37,199
+Nos coordinamos para no estorbarnos, ¿verdad?
+
+68
+00:03:37,199 --> 00:03:40,519
+La IA no.
+
+69
+00:03:40,519 --> 00:03:41,319
+¿El resultado?
+
+70
+00:03:41,319 --> 00:03:42,439
+Los personajes humanos y la IA terminaban literalmente chocando continuamente entre sí.
+
+71
+00:04:01,840 --> 00:04:06,039
+Piensen que mientras la incorporación de un nuevo colega humano aumentaba los choques en un mísero 0,48,
+
+72
+00:03:54,840 --> 00:03:58,799
+la introducción de la IA causaba casi tres choques más por ronda.
+
+73
+00:03:58,799 --> 00:04:01,840
+La IA seguía trayectorias técnicamente impecables, sí,
+
+74
+00:03:58,799 --> 00:04:01,840
+pero totalmente impredecibles para la mente humana, sembrando el caos.
+
+75
+00:04:06,039 --> 00:04:07,399
+Capítulo 4: Confianza y Motivación Humana.
+
+76
+00:04:06,039 --> 00:04:07,399
+Pero estas colisiones físicas son solo una pieza del rompecabezas.
+
+77
+00:04:07,399 --> 00:04:09,719
+Para entender realmente el colapso de la productividad, debemos profundizar en el impacto psicológico en los trabajadores humanos restantes.
+
+78
+00:04:09,719 --> 00:04:13,519
+Las encuestas de final de partida son claras y bastante alarmantes.
+
+79
+00:04:13,519 --> 00:04:16,279
+No es que las personas sintieran un odio profundo por la tecnología; la aversión a los algoritmos, de hecho, permaneció prácticamente invariable.
+
+80
+00:04:16,320 --> 00:04:20,640
+El verdadero desastre fue otro. Hubo una caída drástica de la confianza dentro del equipo y, como resultado, las personas simplemente redujeron su esfuerzo, tiraron la toalla.
+
+81
+00:04:20,640 --> 00:04:25,040
+El punto clave para recordar es que el esfuerzo humano no es un interruptor siempre encendido; está profundamente condicionado por el entorno que lo rodea.
+
+82
+00:04:25,040 --> 00:04:28,840
+Los datos nos dicen que un rotundo 84% de los participantes prefería con creces trabajar con otros seres humanos.
+
+83
+00:04:28,840 --> 00:04:33,240
+Cuando la IA barrió ese componente crucial de interacción y socialidad del lugar de trabajo, la motivación de las personas se desplomó, borrando de un plumazo cada beneficio aportado por el algoritmo.
+
+84
+00:04:33,240 --> 00:04:35,560
+Capítulo 5: La Diferencia de Competencias.
+
+85
+00:04:35,560 --> 00:04:38,640
+En este punto, sin embargo, entra en juego una variable crítica: la que determinó qué equipos implosionaron y cuáles sobrevivieron a la integración de la máquina: el nivel de competencias básicas.
+
+86
+00:04:38,640 --> 00:04:42,520
+Los números hablan claro. Para los equipos con habilidades bajas o medias, el impacto fue devastador: un colapso masivo.
+
+87
+00:04:42,520 --> 00:04:44,480
+Pero para los equipos altamente competentes, la historia cambia, registrando incluso una ligera mejora. ¿Por qué? Porque solo los grupos que ya poseían bases sólidas tenían la flexibilidad para absorber el impacto y adaptarse al ritmo frenético de la IA.
+
+88
+00:04:44,520 --> 00:04:47,600
+Capítulo 6: El Futuro del Trabajo.
+
+89
+00:04:47,600 --> 00:04:49,720
+Y aquí llegamos al punto. Si tomamos todo esto y lo trasladamos del videojuego a las oficinas reales, entendemos finalmente la paradoja actual de la productividad de la IA, donde las enormes inversiones tecnológicas casi nunca corresponden a un retorno inmediato.
+
+90
+00:04:49,720 --> 00:04:53,160
+Simplemente soltar una IA desde arriba en un entorno de trabajo suele fallar por tres razones esenciales. Primero, la máquina rompe las rutinas existentes. Segundo, al eliminar el componente humano, la motivación social se marchita. Y tercero, para compensar todo esto, se necesitan trabajadores con competencias de muy alto nivel que, francamente, no están tan extendidas.
+
+91
+00:04:53,160 --> 00:04:57,040
+Este concepto se resume perfectamente en una cita de los autores del estudio que dicen: "La introducción exitosa de la IA requerirá aumentar a los humanos a través de la IA en lugar de desmoralizarlos potencialmente".
+
+92
+00:04:57,040 --> 00:05:00,240
+Y justo aquí está el corazón de la cuestión. El verdadero desafío que tienen ante sí las organizaciones no es puramente tecnológico; es socio-técnico. Debemos aprender a aprovechar la potencia de los algoritmos garantizando que las personas mantengan intactas la confianza y la motivación.
+
+93
+00:05:00,240 --> 00:05:03,360
+Y todo esto nos deja con un interrogante final, provocador y decididamente difícil: ¿Estamos invirtiendo miles de millones para diseñar una inteligencia artificial que apunte solo a la fría sustitución de los trabajadores, o estamos realmente tratando de crear entornos de trabajo donde los seres humanos y los algoritmos puedan prosperar juntos en sintonía?
+
+94
+00:05:03,360 --> 00:05:06,000
+Es un matiz que marcará toda la diferencia del mundo entre un éxito extraordinario y un fracaso organizacional. El futuro híbrido está lleno de trampas. Esperamos que este análisis les haya dejado con las ganas de profundizar aún más en este tema crucial.
+
+95
+00:05:06,000 --> 00:05:08,600
+Hasta la próxima.

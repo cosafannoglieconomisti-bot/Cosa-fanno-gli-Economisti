@@ -1,0 +1,639 @@
+1
+00:00:00,000 --> 00:00:03,640
+Willkommen, tauchen wir direkt in diese neue Erkundung ein.
+
+2
+00:00:03,640 --> 00:00:08,640
+Heute analysieren wir eine wirtschaftswissenschaftliche Arbeit, die wegen ihrer methodischen Strenge wirklich unglaublich ist.
+
+3
+00:00:08,640 --> 00:00:11,359
+Verfasst von Alberto Alesina und Eliana La Ferrara,
+
+4
+00:00:11,359 --> 00:00:14,599
+befasst sich diese Studie mit einem zutiefst sensiblen Thema:
+
+5
+00:00:14,599 --> 00:00:17,199
+der Todesstrafe und rassistischen Vorurteilen.
+
+6
+00:00:17,199 --> 00:00:21,120
+Und das auf eine einzigartige Weise, indem sie ausschließlich reine Statistik nutzt,
+
+7
+00:00:21,120 --> 00:00:24,240
+ohne Raum für persönliche Meinungen oder Spekulationen zu lassen.
+
+8
+00:00:24,240 --> 00:00:27,800
+Es ist eine faszinierende Arbeit, die uns zeigt, wie die Werkzeuge der Wirtschaftswissenschaften
+
+9
+00:00:27,800 --> 00:00:32,480
+verborgene Dynamiken direkt im Herzen des Justizsystems ans Licht bringen können.
+
+10
+00:00:32,480 --> 00:00:35,640
+Beginnen wir mit einer Tatsache, die sicherlich zum Nachdenken anregt:
+
+11
+00:00:35,640 --> 00:00:41,920
+Laut Amnesty International machen Afroamerikaner mehr als 40 % der derzeitigen Häftlinge
+
+12
+00:00:41,920 --> 00:00:44,280
+in den Todeszellen der Vereinigten Staaten aus.
+
+13
+00:00:44,280 --> 00:00:48,159
+Das is die faktische Prämisse, von der die gesamte Studie ausgeht.
+
+14
+00:00:48,159 --> 00:00:51,359
+Im Grunde zeigt sie uns, dass Minderheiten in extrem
+
+15
+00:00:51,359 --> 00:00:55,799
+unverhältnismäßiger Weise in den Todeszellen vertreten sind, verglichen mit ihrem tatsächlichen Anteil
+
+16
+00:00:55,800 --> 00:00:57,800
+an der Gesamtbevölkerung.
+
+17
+00:00:57,800 --> 00:01:00,440
+Und hier stellt sich unweigerlich eine Frage:
+
+18
+00:01:00,440 --> 00:01:04,600
+Reichen diese einfachen Rohdaten wirklich aus, um ein Vorurteil zu beweisen?
+
+19
+00:01:04,600 --> 00:01:09,560
+Nun, im wirtschaftsstatistischen Bereich ist es, nur anhand einer einzigen aggregierten Zahl voreilige Schlüsse zu ziehen,
+
+20
+00:01:09,560 --> 00:01:11,040
+super riskant.
+
+21
+00:01:11,040 --> 00:01:13,439
+Diese zahlenmäßige Diskrepanz ist, so deutlich sie auch sein mag,
+
+22
+00:01:13,439 --> 00:01:18,480
+absolut unzureichend, um eine Verzerrung im System wissenschaftlich zu beweisen.
+
+23
+00:01:18,480 --> 00:01:23,280
+Wir müssen uns zwangsläufig fragen, ob es andere, verborgene Faktoren gibt, die diese Zahlen beeinflussen,
+
+24
+00:01:23,280 --> 00:01:25,280
+bevor wir ein Urteil fällen können.
+
+25
+00:01:25,320 --> 00:01:29,320
+So werden wir heute vorgehen: Erstens, die Grenzen der Daten,
+
+26
+00:01:29,320 --> 00:01:32,159
+zweitens analysieren wir die Justizirrtümer,
+
+27
+00:01:32,159 --> 00:01:34,359
+drittens die Logik des Modells,
+
+28
+00:01:34,359 --> 00:01:37,320
+viertens die Ergebnisse auf nationaler Ebene,
+
+29
+00:01:37,320 --> 00:01:39,400
+fünftens die Rolle des Südens
+
+30
+00:01:39,400 --> 00:01:42,640
+und schließlich, sechstens, die Schlussfolgerungen der Studie.
+
+31
+00:01:42,640 --> 00:01:46,000
+Beginnen wir mit dem ersten Punkt: den Grenzen der Daten,
+
+32
+00:01:46,000 --> 00:01:49,280
+beziehungsweise dem eigentlichen Problem von Rohstatistiken.
+
+33
+00:01:49,280 --> 00:01:52,640
+Aber warum ist es ein Fehler, bei den bloßen Verurteilungsraten stehenzubleiben?
+
+34
+00:01:52,680 --> 00:01:55,120
+Der Grund dafür ist, dass die Raten von Gewaltverbrechen,
+
+35
+00:01:55,120 --> 00:01:57,239
+wie viele andere soziale Faktoren auch,
+
+36
+00:01:57,239 --> 00:01:59,719
+zwischen den verschiedenen demografischen Gruppen variieren.
+
+37
+00:01:59,719 --> 00:02:04,519
+Hier kommt ins Spiel, was wir in der Statistik die Gefahr ausgelassener Variablen nennen.
+
+38
+00:02:04,519 --> 00:02:06,159
+Für eine strenge Prüfung
+
+39
+00:02:06,159 --> 00:02:09,360
+muss ein Modell zwangsläufig jene verborgenen Faktoren berücksichtigen,
+
+40
+00:02:09,360 --> 00:02:11,680
+die mit der ethnischen Zugehörigkeit zusammenhängen könnten.
+
+41
+00:02:11,680 --> 00:02:13,280
+Machen wir ein praktisches Beispiel.
+
+42
+00:02:13,280 --> 00:02:17,400
+Wenn eine bestimmte Gruppe Straftaten mit schwerwiegenderen Erschwerungsgründen begehen würde,
+
+43
+00:02:17,400 --> 00:02:20,680
+wie etwa mehrere Opfer oder schwerere Vorstrafen,
+
+44
+00:02:20,719 --> 00:02:24,319
+würde eine einfache durchschnittliche Verurteilungsrate verzerrt erscheinen,
+
+45
+00:02:24,319 --> 00:02:28,080
+selbst wenn das Gericht vollkommen unvoreingenommen urteilen würde.
+
+46
+00:02:28,080 --> 00:02:32,080
+Kurz gesagt, uns fehlen zu viele Puzzleteile, um nur nach den Gesamtzahlen zu urteilen.
+
+47
+00:02:32,080 --> 00:02:34,159
+Kommen wir zum zweiten Punkt:
+
+48
+00:02:34,159 --> 00:02:36,439
+der Analyse von Justizirrtümern –
+
+49
+00:02:36,439 --> 00:02:40,159
+ein Test, den ich als absolut genial bezeichnen würde.
+
+50
+00:02:40,159 --> 00:02:44,040
+Wie umgehen wir also dieses riesige Hindernis fehlender Daten?
+
+51
+00:02:44,040 --> 00:02:47,080
+Die Autoren hatten eine brillante analytische Intuition.
+
+52
+00:02:47,080 --> 00:02:50,600
+Anstatt die von erstinstanzlichen Gerichten ausgesprochenen Verurteilungen zu betrachten,
+
+53
+00:02:50,599 --> 00:02:53,799
+konzentrierten sie sich direkt auf Justizirrtümer.
+
+54
+00:02:53,799 --> 00:02:56,479
+Genauer gesagt untersuchten sie Todesurteile,
+
+55
+00:02:56,479 --> 00:02:58,919
+die von höheren Gerichten aufgehoben wurden.
+
+56
+00:02:58,919 --> 00:03:02,919
+In den USA gibt es bei Kapitalverbrechen zwei automatische Berufungsinstanzen.
+
+57
+00:03:02,919 --> 00:03:05,560
+Die direkte Berufung vor den einzelstaatlichen Gerichten
+
+58
+00:03:05,560 --> 00:03:08,439
+und das Habeas-Corpus-Verfahren vor den Bundesgerichten.
+
+59
+00:03:08,439 --> 00:03:11,159
+Die Schlüsselidee dabei ist die Annahme, dass höhere Gerichte
+
+60
+00:03:11,159 --> 00:03:15,439
+einschreiten, um Fehler und Vorurteile der erstinstanzlichen Gerichte zu korrigieren.
+
+61
+00:03:15,439 --> 00:03:16,079
+Warum?
+
+62
+00:03:16,079 --> 00:03:20,079
+Weil beispielsweise Bundesrichter weiter von lokalem politischen Druck entfernt sind
+
+63
+00:03:20,080 --> 00:03:23,960
+und die Fakten distanzierter und unparteiischer bewerten können.
+
+64
+00:03:23,960 --> 00:03:27,280
+Wir kommen zum dritten Punkt: der Logik des Modells,
+
+65
+00:03:27,280 --> 00:03:30,040
+wie Gerichte in der Praxis entscheiden.
+
+66
+00:03:30,040 --> 00:03:35,000
+Theoretisch schwankt ein erstinstanzliches Gericht immer zwischen zwei großen Ängsten:
+
+67
+00:03:35,000 --> 00:03:38,680
+einen Unschuldigen zu verurteilen oder einen Schuldigen laufen zu lassen.
+
+68
+00:03:38,680 --> 00:03:41,200
+Wenn wir uns die Originalgrafiken der Arbeit ansehen,
+
+69
+00:03:41,200 --> 00:03:45,480
+sehen wir genau den Schaukeleffekt dieser hochsensiblen Dynamik.
+
+70
+00:03:45,480 --> 00:03:48,720
+Stellen wir uns vor, dass eine Jury – vielleicht sogar auf unbewusster Ebene –
+
+71
+00:03:48,759 --> 00:03:52,560
+dem schwerwiegenden Risiko, einen Unschuldigen zu verurteilen, weniger Gewicht beimißt,
+
+72
+00:03:52,560 --> 00:03:55,360
+wenn das Opfer bestimmte Merkmale aufweist.
+
+73
+00:03:55,360 --> 00:03:59,840
+Infolgedessen senkt sie die für eine Verurteilung erforderliche Gewissheitsschwelle.
+
+74
+00:03:59,840 --> 00:04:04,120
+Mathematisch gesehen erhöht dies den sogenannten Fehler erster Art.
+
+75
+00:04:04,120 --> 00:04:07,879
+Einfach ausgedrückt: Es werden mehr wackelige Urteile gefällt,
+
+76
+00:04:07,879 --> 00:04:13,199
+und folglich wird es mehr Fehler geben, die die höheren Gerichte dann aufheben müssen.
+
+77
+00:04:13,199 --> 00:04:18,160
+Und genau hier macht die Methode dieser Studie einen unglaublichen Qualitätssprung.
+
+78
+00:04:18,200 --> 00:04:22,040
+Vergleiche anzustellen, die ausschließlich auf der ethnischen Zugehörigkeit des Angeklagten basieren,
+
+79
+00:04:22,040 --> 00:04:23,840
+ist zutiefst irreführend,
+
+80
+00:04:23,840 --> 00:04:27,840
+weil diese verborgenen Variablen die Daten weiterhin verfälschen würden.
+
+81
+00:04:27,840 --> 00:04:31,640
+Die Genialität liegt darin, einen rangbasierten Test verwendet zu haben.
+
+82
+00:04:31,640 --> 00:04:35,480
+Indem man die ethnische Zugehörigkeit des Angeklagten konstant hält und nur die des Opfers ändert,
+
+83
+00:04:35,480 --> 00:04:38,520
+gelingt es, das Vorurteil chirurgisch präzise zu isolieren.
+
+84
+00:04:38,520 --> 00:04:41,480
+Wenn wir davon ausgehen, dass der Angeklagte einer Minderheit angehört,
+
+85
+00:04:41,480 --> 00:04:45,360
+und feststellen, dass sich die Fehlerquote drastisch ändert, je nachdem, ob das Opfer
+
+86
+00:04:45,400 --> 00:04:46,920
+weiß oder nicht weiß ist –
+
+87
+00:04:46,920 --> 00:04:50,280
+bumm, haben wir alle anderen statistischen Ausreden eliminiert.
+
+88
+00:04:50,280 --> 00:04:55,480
+Wir testen das Verhalten des Gerichts, indem wir nur einen einzigen externen Faktor ändern.
+
+89
+00:04:55,480 --> 00:04:59,280
+Punkt Nummer 4: Die Ergebnisse auf nationaler Ebene.
+
+90
+00:04:59,280 --> 00:05:01,840
+Schauen wir uns die tatsächlichen Daten an.
+
+91
+00:05:01,840 --> 00:05:04,720
+Und wohlgemerkt, wir sprechen hier nicht von reiner Theorie.
+
+92
+00:05:04,720 --> 00:05:09,240
+Diese Ergebnisse stammen aus riesigen, realen Datenbanken in den gesamten USA
+
+93
+00:05:09,240 --> 00:05:13,280
+zwischen 1973 und 1995.
+
+94
+00:05:13,320 --> 00:05:18,000
+In der Endphase des Habeas-Corpus-Verfahrens, wenn ein Angeklagter einer Minderheit
+
+95
+00:05:18,000 --> 00:05:24,000
+ein weißes Opfer tötet, liegt die Quote der aufgehobenen Urteile bei 37,6 %.
+
+96
+00:05:24,000 --> 00:05:28,800
+Wenn das Opfer jedoch nicht weiß ist, sinkt diese Quote auf 28,4 %.
+
+97
+00:05:28,800 --> 00:05:32,760
+Wir sprechen hier von einem enormen Unterschied von satten 9 Prozentpunkten.
+
+98
+00:05:32,760 --> 00:05:37,160
+Bedenken Sie das tatsächliche Gewicht dieser Zahlen: Wir sprechen von 9 Prozentpunkten
+
+99
+00:05:37,160 --> 00:05:41,680
+mehr Fehlurteilen in Prozessen, in denen das Leben eines Menschen auf dem Spiel steht.
+
+100
+00:05:41,720 --> 00:05:46,240
+Das is eine enorme und statistisch äußerst solide systemische Diskrepanz.
+
+101
+00:05:46,240 --> 00:05:49,959
+Um einen völlig unvoreingenommenen und wissenschaftlichen Ansatz beizubehalten,
+
+102
+00:05:49,959 --> 00:05:51,920
+müssen wir die Perspektive wechseln.
+
+103
+00:05:51,920 --> 00:05:54,480
+Was passiert bei weißen Angeklagten?
+
+104
+00:05:54,480 --> 00:05:57,560
+In diesen Fällen geht der Unterschied in der Fehlerquote in die entgegengesetzte Richtung,
+
+105
+00:05:57,560 --> 00:06:01,120
+aber die Daten sagen uns deutlich, dass dies statistisch irrelevant bleibt.
+
+106
+00:06:01,120 --> 00:06:04,920
+Es gibt keinen soliden mathematischen Beweis für ein umgekehrtes Vorurteil.
+
+107
+00:06:04,920 --> 00:06:08,360
+Die wirkliche, extrem starke und durch Zahlen belegte Verzerrung
+
+108
+00:06:08,360 --> 00:06:11,800
+findet nur bei dieser ersten, spezifischen interethnischen Konstellation statt.
+
+109
+00:06:11,800 --> 00:06:14,439
+Fünfter Punkt: Die Rolle des Südens –
+
+110
+00:06:14,439 --> 00:06:18,360
+eine regelrechte geografische Wende in unserer Untersuchung.
+
+111
+00:06:18,360 --> 00:06:21,360
+Ja, denn dieses nationale Muster von Vorurteilen
+
+112
+00:06:21,360 --> 00:06:24,199
+birgt eine unglaubliche Anomalie in sich
+
+113
+00:06:24,199 --> 00:06:28,400
+und wird fast ausschließlich von einer bestimmten amerikanischen Region angetrieben: dem Süden.
+
+114
+00:06:28,400 --> 00:06:31,720
+Hören Sie sich diese Zahl an: 15,6.
+
+115
+00:06:31,720 --> 00:06:34,520
+15,6 Prozentpunkte.
+
+116
+00:06:34,560 --> 00:06:38,359
+Das ist der gigantische Unterschied, der im Süden der USA festgestellt wurde.
+
+117
+00:06:38,359 --> 00:06:40,159
+Während der Habeas-Corpus-Phase,
+
+118
+00:06:40,159 --> 00:06:44,359
+bei Angeklagten aus Minderheiten mit weißen Opfern im Vergleich zu nicht-weißen Opfern.
+
+119
+00:06:44,359 --> 00:06:48,319
+Eine geografische Disparität, die so groß ist, dass sie den gesamten nationalen Durchschnitt verzerrt,
+
+120
+00:06:48,319 --> 00:06:52,039
+und zeigt, wie intensiv das Phänomen in dieser speziellen Region ist.
+
+121
+00:06:52,039 --> 00:06:54,240
+Und das Ganze wird noch offensichtlicher,
+
+122
+00:06:54,240 --> 00:06:56,719
+wenn wir uns die erste Verteidigungslinie ansehen.
+
+123
+00:06:56,719 --> 00:07:00,759
+Bereits in der allerersten einzelstaatlichen Phase der direkten Berufung, ebenfalls im Süden,
+
+124
+00:07:00,759 --> 00:07:04,680
+gibt es einen anfänglichen Unterschied von 3,3 Prozentpunkten.
+
+125
+00:07:04,680 --> 00:07:09,839
+Ein Prozentsatz, der dann zu den 15,6 % der Bundesebene hinzukommt –
+
+126
+00:07:09,839 --> 00:07:13,719
+all dies beschreibt eine regelrechte Kette von systemischen Fehlern,
+
+127
+00:07:13,719 --> 00:07:17,920
+bei der Bundesgerichte gezwungen sind, die aus dem Süden stammenden Verzerrungen
+
+128
+00:07:17,920 --> 00:07:20,599
+kontinuierlich auf mehreren Ebenen zu korrigieren.
+
+129
+00:07:20,599 --> 00:07:24,039
+Sechster und letzter punkt: Die Schlussfolgerungen der Studie.
+
+130
+00:07:24,039 --> 00:07:26,319
+Es ist an der Zeit, Alternativen auszuschließen.
+
+131
+00:07:26,319 --> 00:07:30,000
+An dieser Stelle könnte man sich aus wissenschaftlicher Sicht fragen:
+
+132
+00:07:30,040 --> 00:07:34,399
+Waren diese Verbrechen nicht vielleicht einfach schwerwiegender als die anderen?
+
+133
+00:07:34,399 --> 00:07:35,600
+Hervorragende Frage.
+
+134
+00:07:35,600 --> 00:07:39,680
+Um das zu beantworten, haben die Autoren sogenannte Balancing-Tests angewandt –
+
+135
+00:07:39,680 --> 00:07:41,879
+strengste mathematische Tests,
+
+136
+00:07:41,879 --> 00:07:45,240
+um zu überprüfen, ob die in diesen interethnischen Konstellationen begangenen Verbrechen
+
+137
+00:07:45,240 --> 00:07:47,879
+grausamer waren oder schwerere Vorstrafen vorlagen.
+
+138
+00:07:47,879 --> 00:07:52,399
+Die Ergebnisse zeigen, dass die Merkmale vollkommen homogen verteilt sind;
+
+139
+00:07:52,399 --> 00:07:55,160
+die Verbrechen waren in ihrer Schwere nahezu identisch.
+
+140
+00:07:55,160 --> 00:07:57,000
+Jeder Faktor wurde ausgeglichen,
+
+141
+00:07:57,000 --> 00:08:01,040
+sodass die ethnische Zugehörigkeit als einzige unumstößliche Differenz übrig blieb.
+
+142
+00:08:01,040 --> 00:08:05,079
+Alle anderen statistischen Erklärungen wurden vom Tisch gefegt.
+
+143
+00:08:05,079 --> 00:08:08,120
+Wenn man Bilanz aus dieser außergewöhnlichen Arbeit zieht,
+
+144
+00:08:08,120 --> 00:08:11,040
+zeigen uns die nackten Zahlen unmissverständlich
+
+145
+00:08:11,040 --> 00:08:15,720
+die Existenz eines klaren rassistischen Vorurteils innerhalb des Justizsystems,
+
+146
+00:08:15,720 --> 00:08:18,519
+das bereits in der allerersten Instanz verankert ist.
+
+147
+00:08:18,519 --> 00:08:20,800
+Ein Vorurteil, das sich – den Daten nach –
+
+148
+00:08:20,800 --> 00:08:21,920
+ganz spezifisch
+
+149
+00:08:21,920 --> 00:08:25,560
+gegen Angeklagte aus Minderheiten richtet, die weiße Opfer töten,
+
+150
+00:08:25,560 --> 00:08:29,959
+und das mit einer beeindruckenden Beständigkeit gerade in den Südstaaten zutage tritt.
+
+151
+00:08:29,959 --> 00:08:34,480
+Bevor wir uns verabschieden, hinterlasse ich Ihnen diesen letzten, tiefgründigen Gedanken.
+
+152
+00:08:34,480 --> 00:08:40,720
+Wir wissen, dass es im nationalen Durchschnitt ganze neun Jahre in der Todeszelle dauert,
+
+153
+00:08:40,720 --> 00:08:44,480
+bis ein Fehler durch diese Berufungen korrigiert wird.
+
+154
+00:08:44,480 --> 00:08:48,799
+Was also ist der wahre menschliche und soziale Preis dieses Vorurteils?
+
+155
+00:08:48,799 --> 00:08:52,480
+Es ist nicht nur eine Grafik in einer strengen wirtschaftswissenschaftlichen Arbeit,
+
+156
+00:08:52,480 --> 00:08:54,200
+es ist eine messbare Realität,
+
+157
+00:08:54,200 --> 00:08:57,920
+die enorme Fragen über die Gerechtigkeit unseres Justizsystems aufwirft
+
+158
+00:08:57,920 --> 00:09:01,840
+und über den realen Einfluss von Zahlen auf das Leben von Menschen.
+
+159
+00:09:01,840 --> 00:09:06,360
+Lassen Sie uns weiter forschen, graben und die richtigen Fragen stellen.
+
+160
+00:09:06,360 --> 00:09:09,560
+Vielen Dank, dass Sie diese Analyse verfolgt haben. Bis zum nächsten Mal.

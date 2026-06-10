@@ -1,0 +1,971 @@
+1
+00:00:00,000 --> 00:00:03,240
+Les robots volaient le travail en 1830.
+
+2
+00:00:03,240 --> 00:00:06,679
+Bonjour à tous et bienvenue dans ce nouveau décryptage.
+
+3
+00:00:06,679 --> 00:00:12,019
+Vous savez, aujourd'hui nous entendons parler sans cesse d'algorithmes et d'intelligence artificielle
+
+4
+00:00:12,019 --> 00:00:14,880
+qui finiront tôt ou tard par nous prendre notre travail, n'est-ce pas ?
+
+5
+00:00:14,880 --> 00:00:16,760
+C'est une angoisse très répandue,
+
+6
+00:00:16,760 --> 00:00:20,460
+mais, et si je vous disais que cette dynamique exactement identique,
+
+7
+00:00:20,460 --> 00:00:23,039
+cette peur terrible s'était déjà déchaînée,
+
+8
+00:00:23,039 --> 00:00:26,560
+de manière littéralement explosive, il y a près de deux cents ans.
+
+9
+00:00:26,560 --> 00:00:31,360
+Exactement, faisons un bond dans le temps, dans les années 1830,
+
+10
+00:00:31,360 --> 00:00:34,359
+pour résoudre un véritable mystère économique.
+
+11
+00:00:34,359 --> 00:00:35,719
+Installez-vous confortablement.
+
+12
+00:00:35,719 --> 00:00:38,320
+La question qui nous tourmente aujourd'hui est toujours la même,
+
+13
+00:00:38,320 --> 00:00:42,240
+l'intelligence artificielle va-t-elle vraiment détruire nos emplois ?
+
+14
+00:02:40,000 --> 00:00:46,359
+Eh bien, si nous regardons dans les yeux les ouvriers agricoles anglais d'il y a deux siècles,
+
+15
+00:00:46,359 --> 00:00:48,640
+nous y trouvons exactement la même terreur.
+
+16
+00:00:48,640 --> 00:00:52,560
+Imaginez la scène : soudain arrive une nouvelle technologie,
+
+17
+00:00:52,600 --> 00:00:54,080
+presque extraterrestre pour eux,
+
+18
+00:00:54,080 --> 00:00:56,560
+qui promet de faire exactement le même travail qu'eux,
+
+19
+00:00:56,560 --> 00:00:59,440
+mais à une vitesse folle et sans jamais se fatiguer.
+
+20
+00:00:59,440 --> 00:01:03,400
+Sauf qu'à l'époque, on ne parlait pas de logiciels écrits dans la Silicon Valley,
+
+21
+00:01:03,400 --> 00:01:06,159
+on parlait de machines agricoles nouvellement inventées,
+
+22
+00:01:06,159 --> 00:01:10,040
+et je vous assure que leur réaction n'a pas du tout été pacifique.
+
+23
+00:01:10,040 --> 00:01:12,159
+Bien au contraire.
+
+24
+00:01:12,159 --> 00:01:16,760
+Et l'ampleur de cette réaction peut se résumer en un chiffre impressionnant :
+
+25
+00:01:16,760 --> 00:01:17,760
+3 000.
+
+26
+00:01:17,760 --> 00:01:20,800
+Entre 1830 et 1832,
+
+27
+00:01:20,840 --> 00:01:24,159
+l'Angleterre est littéralement submergée par ce que nous connaissons aujourd'hui
+
+28
+00:01:24,159 --> 00:01:26,159
+sous le nom de révolte de Captain Swing.
+
+29
+00:01:26,159 --> 00:01:29,039
+Nous parlons de plus de 3 000 incidents documentés.
+
+30
+00:01:29,039 --> 00:01:33,200
+Du sérieux : incendies criminels, pillages, attaques contre les autorités locales,
+
+31
+00:01:33,200 --> 00:01:37,640
+et surtout la destruction systématique et furieuse de ces nouvelles machines.
+
+32
+00:01:37,640 --> 00:01:41,599
+Une révolte qui s'est propagée comme une traînée de poudre dans pas moins de 45 comtés.
+
+33
+00:01:41,599 --> 00:01:44,079
+La plus grande vague de protestes de l'histoire du pays,
+
+34
+00:01:44,079 --> 00:01:47,359
+à tel point qu'ils ont finalement dû envoyer l'armée pour les calmer.
+
+35
+00:01:47,400 --> 00:01:51,280
+Mais qui était le coupable de tout ce chaos ?
+
+36
+00:01:51,280 --> 00:01:56,200
+Je vous présente notre suspect numéro un : la batteuse.
+
+37
+00:01:56,200 --> 00:02:00,319
+En gros, un engin mécanique inventé pour faire une chose simple,
+
+38
+00:02:00,319 --> 00:02:02,079
+mais extrêmement fatigante :
+
+39
+00:02:02,079 --> 00:02:04,840
+séparer les grains de blé de la balle.
+
+40
+00:02:04,840 --> 00:02:08,039
+Avant, ce travail se faisait rigoureusement à la main,
+
+41
+00:02:08,039 --> 00:02:11,719
+en s'échinant pendant des heures avec un outil appelé fléau.
+
+42
+00:02:11,719 --> 00:02:14,199
+Bref, un travail éreintant.
+
+43
+00:02:14,239 --> 00:02:16,399
+La batteuse était, si l'on y pense,
+
+44
+00:02:16,399 --> 00:02:19,439
+le Terminator de l'agriculture du XIXe siècle,
+
+45
+00:02:19,439 --> 00:02:22,399
+qu'elle soit actionnée par des chevaux ou par la force de l'eau,
+
+46
+00:02:22,399 --> 00:02:27,239
+elle parvenait à multiplier par dix la productivité d'un seul travailleur.
+
+47
+00:02:27,239 --> 00:02:29,679
+Un véritable chef-d'œuvre d'ingénierie, certes,
+
+48
+00:02:29,679 --> 00:02:32,239
+mais avec un coût humain extrêmement salé.
+
+49
+00:02:32,239 --> 00:02:35,599
+Et nous en arrivons ainsi au mobile économique,
+
+50
+00:02:35,599 --> 00:02:38,359
+celui qui va vraiment allumer l'étincelle.
+
+51
+00:02:38,359 --> 00:02:42,319
+Vous voyez, le battage manuel n'était pas un petit boulot comme les autres.
+
+52
+00:02:42,359 --> 00:02:44,719
+C'était une véritable bouée de sauvetage
+
+53
+00:02:44,719 --> 00:02:46,599
+pour les ouvriers agricoles pendant les mois d'hiver,
+
+54
+00:02:46,599 --> 00:02:51,400
+représentant jusqu'à 50 % de leur revenu saisonnier.
+
+55
+00:02:51,400 --> 00:02:53,439
+50 % !
+
+56
+00:02:53,439 --> 00:02:55,239
+Avec l'arrivée des batteuses,
+
+57
+00:02:55,239 --> 00:02:56,879
+PAF, ce revenu vital
+
+58
+00:02:56,879 --> 00:02:58,519
+s'est volatilisé.
+
+59
+00:02:58,519 --> 00:03:00,879
+Dans les zones où ces machines se sont imposées,
+
+60
+00:03:00,879 --> 00:03:04,799
+le chômage hivernal a grimpé en flèche à 7,6 %,
+
+61
+00:03:04,799 --> 00:03:08,479
+contre 5,5 % dans les zones non touchées.
+
+62
+00:03:08,479 --> 00:03:11,199
+Ce n'était donc pas seulement une question de changer de méthode de travail.
+
+63
+00:03:11,240 --> 00:03:14,400
+Ces machines enlevaient littéralement le pain de la bouche
+
+64
+00:03:14,400 --> 00:03:17,480
+de familles entières durant le rude hiver.
+
+65
+00:03:17,480 --> 00:03:19,560
+Et si vous voulez la preuve irréfutable,
+
+66
+00:03:19,560 --> 00:03:22,240
+jetez un œil à cette corrélation.
+
+67
+00:03:22,240 --> 00:03:25,480
+La superposition géographique est presque impressionnante.
+
+68
+00:03:25,480 --> 00:03:28,720
+En épluchant les journaux de l'époque et les registres agricoles,
+
+69
+00:03:28,720 --> 00:03:31,920
+les chercheurs ont reconstitué un tableau limpide.
+
+70
+00:03:31,920 --> 00:03:35,080
+Dans les paroisses où les batteuses n'étaient jamais arrivées,
+
+71
+00:03:35,080 --> 00:03:37,360
+la probabilité qu'une révolte éclate
+
+72
+00:03:37,360 --> 00:03:40,320
+tournait autour de 13,6 %.
+
+73
+00:03:40,359 --> 00:03:43,159
+Mais dans les zones où cette technologie se propageait ?
+
+74
+00:03:43,159 --> 00:03:47,400
+Ce taux doublait, dépassant largement les 26 %.
+
+75
+00:03:47,400 --> 00:03:50,359
+Bref, les émeutes éclataient exactement
+
+76
+00:03:50,359 --> 00:03:55,079
+et de manière presque chirurgicale là où ces nouvelles machines étaient installées.
+
+77
+00:03:55,079 --> 00:03:57,079
+Mais attendez un instant.
+
+78
+00:03:57,079 --> 00:03:59,799
+Quiconque s'y connaît un peu en chiffres sait qu'à ce stade,
+
+79
+00:03:59,799 --> 00:04:03,439
+nous sommes face au grand dilemme classique.
+
+80
+00:04:03,439 --> 00:04:07,879
+S'agit-il d'une simple corrélation ou d'une véritable causalité ?
+
+81
+00:04:07,919 --> 00:04:11,039
+Étaient-ce vraiment les machines qui déclenchaient les révoltes ?
+
+82
+00:04:11,039 --> 00:04:14,120
+Ou alors, pensez-y, peut-être que les propriétaires terriens,
+
+83
+00:04:14,120 --> 00:04:15,960
+qui n'étaient pas stupides,
+
+84
+00:04:15,960 --> 00:04:18,560
+évitaient délibérément d'acheter des machines coûteuses
+
+85
+00:04:18,560 --> 00:04:20,920
+dans les régions qu'ils savaient déjà agitées
+
+86
+00:04:20,920 --> 00:04:22,480
+et sujettes aux rébellions.
+
+87
+00:04:22,480 --> 00:04:25,560
+Si c'était le cas, nous lirions les données à l'envers.
+
+88
+00:04:25,560 --> 00:04:27,159
+C'est un peu comme jouer les détectives
+
+89
+00:04:27,159 --> 00:04:29,800
+et devoir reconstituer la séquence exacte des événements
+
+90
+00:04:29,800 --> 00:04:32,279
+pour ne pas faire une énorme erreur.
+
+91
+00:04:32,279 --> 00:04:34,040
+Et là, les auteurs de la recherche
+
+92
+00:04:34,040 --> 00:04:37,000
+sortent de leur chapeau une astuce économétrique
+
+93
+00:04:37,000 --> 00:04:38,879
+tout simplement géniale :
+
+94
+00:04:38,879 --> 00:04:41,639
+ils ont utilisé la terre, le sol lui-même,
+
+95
+00:04:41,639 --> 00:04:43,120
+pour démasquer la vérité,
+
+96
+00:04:43,120 --> 00:04:46,199
+en l'utilisant comme variable instrumentale.
+
+97
+00:04:46,199 --> 00:04:49,839
+Je знаю que "variable instrumentale" sonne comme un mot poussiéreux
+
+98
+00:04:49,839 --> 00:04:51,279
+sorti d'un manuel de statistiques,
+
+99
+00:04:51,279 --> 00:04:53,519
+mais croyez-moi, c'est la clé de tout.
+
+100
+00:04:53,519 --> 00:04:55,879
+En utilisant des cartes géologiques modernes
+
+101
+00:04:55,879 --> 00:04:57,160
+qui nous indiquent exactement
+
+102
+00:04:57,160 --> 00:04:59,600
+comment était composé le sol d'origine,
+
+103
+00:04:59,600 --> 00:05:01,360
+un détail qui, en deux siècles,
+
+104
+00:05:01,360 --> 00:05:03,560
+n'a évidemment pas changé d'un iota,
+
+105
+00:05:03,560 --> 00:05:05,519
+les chercheurs ont réussi à isoler
+
+106
+00:05:05,519 --> 00:05:07,319
+l'arrivée de la technologie
+
+107
+00:05:07,319 --> 00:05:09,919
+en la dissociant totalement du risque préexistant
+
+108
+00:05:09,919 --> 00:05:11,359
+d'éventuelles révoltes.
+
+109
+00:05:11,359 --> 00:05:12,639
+Génial, non ?
+
+110
+00:05:12,639 --> 00:05:15,240
+Suivons la logique ensemble, étape par étape,
+
+111
+00:05:15,240 --> 00:05:17,240
+car c'est vraiment fascinant.
+
+112
+00:05:17,240 --> 00:05:18,919
+Premièrement, les sols lourds,
+
+113
+00:05:18,919 --> 00:05:20,319
+ceux qui sont très argileux,
+
+114
+00:05:20,319 --> 00:05:22,399
+retiennent énormément d'eau.
+
+115
+00:05:22,399 --> 00:05:25,719
+Deuxièmement, précisément en raison de cette caractéristique,
+
+116
+00:05:25,719 --> 00:05:27,919
+ils sont très mauvais pour la culture du blé,
+
+117
+00:05:27,919 --> 00:05:30,680
+et les agriculteurs préféraient donc y faire paître des bêtes
+
+118
+00:05:30,680 --> 00:05:32,639
+ou y planter d'autres céréales.
+
+119
+00:05:32,639 --> 00:05:34,799
+Troisièmement, et c'est là le tournant,
+
+120
+00:05:34,800 --> 00:05:37,759
+à l'époque, les batteuses coûtaient les yeux de la tête,
+
+121
+00:05:37,759 --> 00:05:41,160
+et n'étaient efficaces que pour le blé, exclusivement.
+
+122
+00:05:41,160 --> 00:05:43,160
+Donc, équation très simple :
+
+123
+00:05:43,160 --> 00:05:45,800
+pas de blé égale pas de batteuses,
+
+124
+00:05:45,800 --> 00:05:48,560
+et quatrièmement, pas de machines égale pas de révoltes.
+
+125
+00:05:48,560 --> 00:05:51,160
+En pratique, c'était littéralement la géologie
+
+126
+00:05:51,160 --> 00:05:53,360
+qui décidait d'où s'installait la technologie,
+
+127
+00:05:53,360 --> 00:05:55,240
+et la colère sociale ne pouvait pas influencer
+
+128
+00:05:55,240 --> 00:05:58,080
+le moins du monde ce processus naturel.
+
+129
+00:05:58,080 --> 00:05:59,800
+Et les données passées au crible,
+
+130
+00:05:59,800 --> 00:06:02,040
+avec cette méthode, parlent très clairement.
+
+131
+00:06:02,040 --> 00:06:04,639
+Nous avons la preuve irréfutable de la causalité :
+
+132
+00:06:04,639 --> 00:06:06,680
+plus le sol est argileux et lourd,
+
+133
+00:06:06,680 --> 00:06:08,560
+plus l'usage des batteuses s'effondre,
+
+134
+00:06:08,560 --> 00:06:09,560
+et, devinez quoi,
+
+135
+00:06:09,560 --> 00:06:11,399
+s'effondrent aussi, exactement en parallèle,
+
+136
+00:06:11,399 --> 00:06:13,519
+les révoltes de Captain Swing.
+
+137
+00:06:13,519 --> 00:06:15,519
+Les analyses statistiques confirment
+
+138
+00:06:15,519 --> 00:06:17,680
+que chaque machine supplémentaire installée,
+
+139
+00:06:17,680 --> 00:06:19,680
+uniquement parce que le terrain
+
+140
+00:06:19,680 --> 00:06:21,519
+était parfait pour le blé,
+
+141
+00:06:21,519 --> 00:06:23,240
+provoquait un pic net et mesurable
+
+142
+00:06:23,240 --> 00:06:24,599
+des troubles sociaux.
+
+143
+00:06:24,599 --> 00:06:25,719
+On n'y échappe pas,
+
+144
+00:06:25,719 --> 00:06:27,519
+la technologie qui détruisait les emplois
+
+145
+00:06:27,519 --> 00:06:30,240
+menait mathématiquement au conflit social.
+
+146
+00:06:30,240 --> 00:06:32,439
+Mais l'histoire ne s'arrête pas là,
+
+147
+00:06:32,439 --> 00:06:33,919
+il manque un détail fondamental,
+
+148
+00:06:33,960 --> 00:06:34,800
+à savoir :
+
+149
+00:06:34,800 --> 00:06:36,879
+ce gigantesque choc technologique
+
+150
+00:06:36,879 --> 00:06:39,120
+a frappé toute l'agriculture anglaise,
+
+151
+00:06:39,120 --> 00:06:41,680
+et pourtant, les campagnes n'ont pas brûlé partout.
+
+152
+00:06:41,680 --> 00:06:43,520
+Il y a eu des régions où l'arrivée
+
+153
+00:06:43,520 --> 00:06:46,040
+de ces monstres mécaniques a été accueillie,
+
+154
+00:06:46,040 --> 00:06:47,600
+peut-être pas en sabrant le champagne,
+
+155
+00:06:47,600 --> 00:06:50,400
+mais au moins de façon pacifique et résignée.
+
+156
+00:06:50,400 --> 00:06:51,520
+Alors, pourquoi ?
+
+157
+00:06:51,520 --> 00:06:53,080
+Qu'est-ce qui transformait un comté
+
+158
+00:06:53,080 --> 00:06:55,000
+en une poudrière prête à exploser,
+
+159
+00:06:55,000 --> 00:06:56,680
+alors qu'à quelques kilomètres de là,
+
+160
+00:06:56,680 --> 00:06:58,040
+pas une mouche ne volait ?
+
+161
+00:06:58,040 --> 00:07:00,080
+Pour le comprendre, nous devons élargir notre regard
+
+162
+00:07:00,080 --> 00:07:01,800
+et voir ce qui se passait autour
+
+163
+00:07:01,800 --> 00:07:03,319
+de ces pauvres travailleurs
+
+164
+00:07:03,319 --> 00:07:05,079
+remplacés par les machines.
+
+165
+00:07:05,079 --> 00:07:07,800
+Les chercheurs nous montrent qu'il y avait fondamentalement
+
+166
+00:07:07,800 --> 00:07:09,680
+deux voies possibles devant eux,
+
+167
+00:07:09,680 --> 00:07:11,879
+des concepts qu'en économie nous appelons souvent
+
+168
+00:07:11,879 --> 00:07:14,519
+la sortie et, eh bien, le désespoir.
+
+169
+00:07:14,519 --> 00:07:15,879
+La sortie, la première voie,
+
+170
+00:07:15,879 --> 00:07:17,759
+consistait simplement à faire ses valises.
+
+171
+00:07:17,759 --> 00:07:19,680
+Dans les zones proches des nouvelles villes industrielles
+
+172
+00:07:19,680 --> 00:07:20,719
+en pleine expansion,
+
+173
+00:07:20,719 --> 00:07:22,039
+ceux qui perdaient leur emploi dans les champs
+
+174
+00:07:22,039 --> 00:07:24,759
+pouvaient émigrer et tenter leur chance dans les usines.
+
+175
+00:07:24,759 --> 00:07:26,039
+Cette soupape de sécurité
+
+176
+00:07:26,039 --> 00:07:28,399
+faisait baisser considérablement les tensions.
+
+177
+00:07:28,399 --> 00:07:29,639
+L'autre côté de la médaille,
+
+178
+00:07:29,639 --> 00:07:31,800
+malheureusement, c'était le pur désespoir,
+
+179
+00:07:31,800 --> 00:07:34,160
+aggravé par les "enclosures".
+
+180
+00:07:34,160 --> 00:07:35,560
+Quand les terres communales historiques
+
+181
+00:07:35,560 --> 00:07:37,160
+étaient clôturées par les propriétaires
+
+182
+00:07:37,160 --> 00:07:38,480
+et retirées de l'usage public,
+
+183
+00:07:38,480 --> 00:07:40,040
+les ouvriers agricoles perdaient aussi le droit
+
+184
+00:07:40,040 --> 00:07:41,600
+de faire paître leur unique vache
+
+185
+00:07:41,600 --> 00:07:43,360
+ou d'y ramasser du bois de chauffage.
+
+186
+00:07:43,360 --> 00:07:45,480
+On leur retirait leur dernier filet de sécurité,
+
+187
+00:07:45,480 --> 00:07:46,680
+et, sans plan B,
+
+188
+00:07:46,680 --> 00:07:49,280
+la violence restait la seule option sur la table.
+
+189
+00:07:49,280 --> 00:07:51,080
+Ces deux facteurs contextuels
+
+190
+00:07:51,080 --> 00:07:53,360
+se lisent très clairement sur les graphiques.
+
+191
+00:07:53,360 --> 00:07:56,319
+D'un côté, il y a un effet d'atténuation évident :
+
+192
+00:07:56,319 --> 00:07:58,280
+plus on était loin des usines,
+
+193
+00:07:58,280 --> 00:08:00,720
+et donc totalement sans issue,
+
+194
+00:08:00,720 --> 00:08:03,600
+plus la probabilité que les machines provoquent des révoltes
+
+195
+00:08:03,600 --> 00:08:05,360
+grimpait en flèche.
+
+196
+00:08:05,360 --> 00:08:08,320
+De l'autre côté, il y a un effet d'aggravation brutal :
+
+197
+00:08:08,320 --> 00:08:12,120
+là où les enclosures avaient privé les travailleurs des terres communales,
+
+198
+00:08:12,120 --> 00:08:14,120
+le lien entre l'arrivée des batteuses
+
+199
+00:08:14,120 --> 00:08:16,880
+et les foyers de rébellion était extrêmement fort.
+
+200
+00:08:16,880 --> 00:08:20,600
+En somme, en unissant l'absence absolue de travail alternatif
+
+201
+00:08:20,600 --> 00:08:23,200
+au démantèlement de la protection sociale rurale de base,
+
+202
+00:08:23,200 --> 00:08:26,800
+on obtenait le mélange explosif idéal pour déclencher des émeutes.
+
+203
+00:08:26,800 --> 00:08:28,120
+Faisons le bilan,
+
+204
+00:08:28,120 --> 00:08:31,800
+car cette enquête historique nous livre des leçons formidables.
+
+205
+00:08:31,800 --> 00:08:35,799
+Au niveau macroéconomique, la technologie est sans doute un choc positif,
+
+206
+00:08:35,799 --> 00:08:37,720
+elle fait considérablement croître la productivité
+
+207
+00:08:37,720 --> 00:08:39,600
+et la richesse économique globale,
+
+208
+00:08:39,600 --> 00:08:41,320
+et cela est indéniable.
+
+209
+00:08:41,320 --> 00:08:44,000
+Mais en descendant au niveau local, à court terme,
+
+210
+00:08:44,000 --> 00:08:45,799
+cela crée ce que l'on appelle dans le jargon
+
+211
+00:08:45,799 --> 00:08:48,159
+un choc de répartition brutal.
+
+212
+00:08:48,159 --> 00:08:51,480
+La richesse passe rapidement du travail humain au capital,
+
+213
+00:08:51,480 --> 00:08:54,039
+réduisant à néant les revenus de milliers de personnes,
+
+214
+00:08:54,039 --> 00:08:56,759
+et lorsque les emplois s'évaporent rapidement
+
+215
+00:08:56,799 --> 00:09:00,200
+sans qu'il n'y ait de filets de sécurité valides ou de réelles alternatives,
+
+216
+00:09:00,200 --> 00:09:02,960
+l'histoire nous enseigne que le résultat presque garanti
+
+217
+00:09:02,960 --> 00:09:05,559
+est une instabilité politique gigantesque.
+
+218
+00:09:05,559 --> 00:09:10,279
+Et au fond, c'est exactement ce que nous répètent depuis toujours les poids lourds de l'économie,
+
+219
+00:09:10,279 --> 00:09:13,960
+pensez à des géants comme Marx, Keynes ou Leontief,
+
+220
+00:09:13,960 --> 00:09:16,639
+des personnes ayant des visions du monde pratiquement opposées,
+
+221
+00:09:16,639 --> 00:09:20,919
+mais qui s'accordaient toutes sur ce point précis et crucial.
+
+222
+00:09:20,919 --> 00:09:23,559
+Ils nous avaient prévenus que le chômage technologique
+
+223
+00:09:23,559 --> 00:09:26,360
+n'est pas seulement une statistique ennuyeuse dans les manuels,
+
+224
+00:09:26,360 --> 00:09:29,639
+mais un risque profond pour la cohésion même d'une société.
+
+225
+00:09:29,639 --> 00:09:31,720
+Et les données de la révolte de Captain Swing
+
+226
+00:09:31,720 --> 00:09:35,800
+nous apportent la confirmation empirique, presque impitoyable, de ces craintes anciennes.
+
+227
+00:09:35,800 --> 00:09:38,519
+Le choc généré par une technologie de rupture
+
+228
+00:09:38,519 --> 00:09:42,519
+est sans aucun doute l'un des défis économiques les plus universels de tous les temps.
+
+229
+00:09:42,519 --> 00:09:45,720
+Ce qui, inévitablement, nous ramène à nos jours,
+
+230
+00:09:45,720 --> 00:09:48,200
+nous ramène à l'intelligence artificielle.
+
+231
+00:09:48,200 --> 00:09:52,360
+Aujourd'hui, l'IA promet de faire des miracles dans de nombreux secteurs,
+
+232
+00:09:52,360 --> 00:09:57,480
+progressant d'une manière incroyablement similaire à celle de la batteuse au milieu des épis de blé.
+
+233
+00:09:57,480 --> 00:10:03,080
+Mais la véritable leçon que nous tirons de cette turbulente année 1830 est limpide :
+
+234
+00:10:03,080 --> 00:10:06,039
+ce n'est pas la technologie en soi qui crée le chaos,
+
+235
+00:10:06,039 --> 00:10:08,840
+c'est le désespoir de ceux qui n'ont pas d'alternatives.
+
+236
+00:10:08,840 --> 00:10:11,080
+Et donc, alors que nous voyons ces innovations
+
+237
+00:10:11,080 --> 00:10:13,240
+redessiner pour toujours notre monde,
+
+238
+00:10:13,240 --> 00:10:15,720
+la question avec un grand Q reste entière :
+
+239
+00:10:15,720 --> 00:10:19,000
+nos sociétés d'aujourd'hui disposent-elles des filets de sécurité
+
+240
+00:10:19,000 --> 00:10:21,639
+et de la capacité de réinvention nécessaires
+
+241
+00:10:21,639 --> 00:10:24,279
+pour éviter les "Captain Swing" du XXIe siècle ?
+
+242
+00:10:24,279 --> 00:10:26,360
+Je vous laisse sur cette piste de réflexion.
+
+243
+00:10:26,360 --> 00:10:27,559
+À la prochaine !

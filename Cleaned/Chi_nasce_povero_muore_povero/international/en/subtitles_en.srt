@@ -1,0 +1,367 @@
+1
+00:00:00,000 --> 00:00:05,400
+those born poor die poor, welcome to this new analysis, today we dive
+
+2
+00:00:05,400 --> 00:00:10,279
+headfirst into an economic mystery that has always divided public opinion. The question
+
+3
+00:00:10,279 --> 00:00:15,480
+is simple, but the answer is complex. In our economic system, does everyone really have
+
+4
+00:00:15,480 --> 00:00:20,719
+the same probability of achieving success regardless of where they start, or is our
+
+5
+00:00:20,719 --> 00:00:25,879
+financial destiny practically already written at birth? Well, today we will set
+
+6
+00:00:25,879 --> 00:00:30,719
+aside personal opinions and let the data speak to understand once and for all if
+
+7
+00:00:30,719 --> 00:00:36,439
+equal opportunities are a solid reality or just a beautiful illusion. There is a brilliant
+
+8
+00:00:36,439 --> 00:00:42,679
+quote from 1966, often attributed to John Steinbeck, which says: poor workers see
+
+9
+00:00:42,679 --> 00:00:47,640
+themselves as temporarily embarrassed millionaires. It is a perfect quote because it captures a
+
+10
+00:00:47,640 --> 00:00:52,799
+huge cultural contrast. On one side is the classic American dream, the almost romantic idea
+
+11
+00:00:52,800 --> 00:00:57,600
+that with elbow grease and determination you can overcome any obstacle, and that poverty is
+
+12
+00:00:57,600 --> 00:01:02,520
+just a minor temporary setback. On the other side, there is the old European view, accustomed to
+
+13
+00:01:02,520 --> 00:01:06,640
+historically much more rigid social classes, where wealth is often seen as a
+
+14
+00:01:06,640 --> 00:01:11,560
+closed circle reserved for those who inherited privileges. But the real question is, what do
+
+15
+00:01:11,560 --> 00:01:17,360
+the real numbers tell us? Section 1, the American dream exists. To understand this, we rely on a
+
+16
+00:01:17,359 --> 00:01:24,319
+rigorous economic study from 2018, signed by Alberto Alesina, Stefanie Stantcheva, and Edoardo Teso.
+
+17
+00:01:24,319 --> 00:01:30,319
+The beating heart of all their research is a concept called intergenerational mobility.
+
+18
+00:01:30,319 --> 00:01:36,359
+What is it? Simply put, it is the probability that a child born in the poorest 20% of the
+
+19
+00:01:36,359 --> 00:01:42,200
+population manages as an adult to climb the social ladder and reach the highest income
+
+20
+00:01:42,280 --> 00:01:48,439
+brackets. This is exactly the unequivocal yardstick used by economists to determine
+
+21
+00:01:48,439 --> 00:01:55,359
+if the rules of the game are fair for everyone. Section 2, the reality of mobility, and here hold
+
+22
+00:01:55,359 --> 00:02:00,760
+tight, because the raw, hard facts reveal a crazy paradox. If we think of the United States
+
+23
+00:02:00,760 --> 00:02:05,879
+as the land of absolute opportunity, we have to think again. America has an actual
+
+24
+00:02:05,879 --> 00:02:11,120
+social mobility that is lower than in much of Europe. The probability of being born poor
+
+25
+00:02:11,120 --> 00:02:18,960
+and staying stuck in poverty is 33.1% in the United States. In Sweden, it stops at 26.7%.
+
+26
+00:02:18,960 --> 00:02:24,800
+In essence, the country that invented the concept of the self-made man now finds itself with a social rigidity
+
+27
+00:02:24,800 --> 00:02:30,800
+even higher than the much-criticized European model. But there is a specific number, a single
+
+28
+00:02:30,800 --> 00:02:37,560
+data point in this study that is truly mind-blowing: 7.8%. This is the actual, tiny
+
+29
+00:02:37,560 --> 00:02:42,240
+probability that a poor child in the United States manages to make the big leap, going from the
+
+30
+00:02:42,240 --> 00:02:48,520
+absolute bottom up to the richest 20% of the population. We are talking about less than 8 chances
+
+31
+00:02:48,520 --> 00:02:55,199
+in a hundred of performing the economic miracle. Section 3, optimism versus pessimism. So far we have
+
+32
+00:02:55,199 --> 00:03:00,360
+talked about real data, but the real twist in this analysis comes when we compare the
+
+33
+00:03:00,360 --> 00:03:05,500
+reality with what people believe is happening, and a deep psychological split
+
+34
+00:03:05,580 --> 00:03:11,659
+emerges. In the United States, people tend to wear rose-colored glasses. There is an exaggerated optimism and people believe
+
+35
+00:03:11,659 --> 00:03:16,780
+in the American dream much more than the numbers justify. Crossing the ocean to Europe,
+
+36
+00:03:16,780 --> 00:03:22,139
+the exact opposite happens. There is a cosmic pessimism. People are convinced that escaping
+
+37
+00:03:22,139 --> 00:03:27,180
+poverty is an almost impossible feat, far more difficult than the actual statistics
+
+38
+00:03:27,180 --> 00:03:32,780
+prove. Let's look exactly at how all this translates. In the United States,
+
+39
+00:03:32,780 --> 00:03:39,259
+people are convinced that almost 12 children out of a hundred, to be exact 11.7%, will make it
+
+40
+00:03:39,259 --> 00:03:45,780
+from the bottom to the top, but as we have just seen, the real figure is only 7.8%. French
+
+41
+00:03:45,780 --> 00:03:51,900
+citizens, on the other hand, think that over 35% of those born poor will stay poor forever. In
+
+42
+00:03:51,900 --> 00:03:57,740
+reality, the figure stops at 29.2%. In short, our collective beliefs live in a
+
+43
+00:04:57,740 --> 00:04:02,939
+sort of parallel world, completely disconnected from economic reality. But who are these
+
+44
+00:04:02,939 --> 00:04:09,180
+incurable optimists? The researchers neutrally isolated the demographic and
+
+45
+00:04:09,180 --> 00:04:14,939
+ideological traits of those who see the glass half full. They found that this optimism toward the social
+
+46
+00:04:14,939 --> 00:04:20,939
+elevator is strongly linked to certain characteristics: having right-leaning political views,
+
+47
+00:04:20,939 --> 00:04:26,220
+being deeply convinced that poverty stems mostly from a lack of personal effort,
+
+48
+00:04:26,700 --> 00:04:34,220
+not having a university degree, and belonging to younger age groups. Section 4, the role of effort. This
+
+49
+00:04:34,220 --> 00:04:39,180
+leads us to a crucial reflection on the value of sacrifice. How much does rolling up your
+
+50
+00:04:39,180 --> 00:04:43,900
+sleeves really matter? The researchers found a practically universal opinion, shared in all the analyzed
+
+51
+00:04:43,900 --> 00:04:49,420
+countries: almost everyone agrees on one point, working your butt off is definitely useful, but only
+
+52
+00:04:49,420 --> 00:04:54,140
+up to a point. Hard work helps you escape absolute poverty and gain a place
+
+53
+00:04:54,139 --> 00:04:58,779
+in the middle class, but there is strong disillusionment if we look at the absolute peak: very few believe that
+
+54
+00:04:58,779 --> 00:05:03,019
+effort alone is enough to enter the circle of the super-rich if you start from the bottom step,
+
+55
+00:05:03,019 --> 00:05:07,500
+as if at some point the social elevator needed a special key to go to the top
+
+56
+00:05:07,500 --> 00:05:14,699
+floor. Section 5, the experiment on perception. And here we are at the most fascinating moment of the entire
+
+57
+00:05:14,699 --> 00:05:20,459
+paper, a real field experiment. The researchers wanted to find out what happens when
+
+58
+00:05:20,459 --> 00:05:25,739
+people are put face to face with the harsh and often depressing reality of data. They did
+
+59
+00:05:25,739 --> 00:05:31,259
+it in three simple steps. First, they surveyed the participants' initial beliefs. Second,
+
+60
+00:05:31,259 --> 00:05:37,019
+they showed them a short animation that slapped them in the face with the unfiltered, pessimistic data on the
+
+61
+00:05:37,019 --> 00:05:42,219
+actual, extremely low social mobility. Third, they asked the participants again what kind of
+
+62
+00:05:42,219 --> 00:05:47,339
+government intervention they desired at that point. They wanted to see if discovering the truth would change
+
+63
+00:05:47,340 --> 00:05:53,900
+people's minds. The result is the perfect mirror of our polarized society. Faced with the
+
+64
+00:05:53,900 --> 00:05:59,740
+exact same, irrefutable numbers, people reacted in diametrically opposed ways
+
+65
+00:05:59,740 --> 00:06:05,180
+depending on their ideology. Those who were left-leaning, seeing how stuck the social
+
+66
+00:06:05,180 --> 00:06:10,060
+elevator was, reacted by immediately demanding greater government intervention to
+
+67
+00:06:10,060 --> 00:06:15,980
+restore equal opportunities. Those who were right-leaning, on the other hand, perfectly understood and accepted
+
+68
+00:06:15,980 --> 00:06:21,100
+the new negative data, but did not request in any way more help or redistribution by
+
+69
+00:06:21,100 --> 00:06:25,740
+the state. To understand this reaction from the right, which at first glance might seem
+
+70
+00:06:25,740 --> 00:06:31,180
+counter-intuitive, let us borrow a very explanatory quote from J.D. Vance. "It's not
+
+71
+00:06:31,180 --> 00:06:36,620
+your fault if you're a loser, it's the government's fault." This thought makes us realize that not wanting state aid
+
+72
+00:06:36,620 --> 00:06:41,819
+does not mean ignoring the problem at all. Simply, for this school of thought, the
+
+73
+00:06:41,819 --> 00:06:46,860
+state is not the solution to economic inefficiencies. In fact, it is perceived as the main cause,
+
+74
+00:06:46,860 --> 00:06:51,659
+so why ask for help from the one you believe is creating the problem? Analyzing instead in
+
+75
+00:06:51,659 --> 00:06:56,699
+detail the requests that came from the left, we notice a very specific approach. There was no
+
+76
+00:06:56,699 --> 00:07:01,500
+generic demand for blank checks. What they loudly demanded was more funding for
+
+77
+00:07:01,500 --> 00:07:07,420
+public education, higher spending on healthcare, and taxes on large inheritances. In practice,
+
+78
+00:07:07,420 --> 00:07:12,699
+a toolkit aimed at intervening at the starting line of life. The goal is not
+
+79
+00:07:12,699 --> 00:07:18,100
+to guarantee that everyone reaches the exact same finish line, but to make sure that everyone, and I emphasize
+
+80
+00:07:18,100 --> 00:07:24,220
+everyone, has exactly the same running shoes at the start. If we were to summarize the essence
+
+81
+00:07:24,220 --> 00:07:30,180
+of this incredible investigation in a single sentence, it would be this: ideology is a powerful
+
+82
+00:07:30,180 --> 00:07:35,420
+cognitive filter. We never look at economic data neutrally; we constantly filter them
+
+83
+00:07:35,420 --> 00:07:39,900
+through our political lens. Even when numbers debunk our most cherished cultural myths,
+
+84
+00:07:39,900 --> 00:07:45,180
+our political alignment does not make us ignore the facts, but inexorably shapes the solution
+
+85
+00:07:45,180 --> 00:07:50,819
+we are willing to accept. The exact same data simply leads to different recipes. And all
+
+86
+00:07:50,819 --> 00:07:56,420
+this work leaves us with one final question, one of those that really make us think
+
+87
+00:07:56,420 --> 00:08:01,939
+deeply. When we clash with the evidence that the wheel of the economy does not turn as we would like,
+
+88
+00:08:01,939 --> 00:08:08,219
+are we, as a society, really looking for a way to guarantee everyone a concrete chance,
+
+89
+00:08:08,219 --> 00:08:14,100
+or are we using our political lenses—whether steeped in wild optimism or in
+
+90
+00:08:14,100 --> 00:08:20,579
+total distrust of the state—to defend and justify the status quo? A fundamental question,
+
+91
+00:08:20,579 --> 00:08:27,300
+and perhaps the key to understanding how and if we will ever decide to rewrite the rules of the game. See you at the next
+
+92
+00:08:27,300 --> 00:08:27,699
+analysis.

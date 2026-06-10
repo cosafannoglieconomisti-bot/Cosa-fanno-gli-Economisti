@@ -1,0 +1,391 @@
+1
+00:00:00,000 --> 00:00:05,700
+Nous y voilà, bienvenue dans cette nouvelle analyse approfondie. Le titre d'aujourd'hui pose une question aussi
+
+2
+00:00:05,700 --> 00:00:09,980
+simple que dérangeante : pourquoi les réformes coûtent-elles des voix ?
+
+3
+00:00:09,980 --> 00:00:14,339
+Aujourd'hui, nous allons explorer l'un des paradoxes les plus incroyables de la politique moderne.
+
+4
+00:00:14,339 --> 00:00:19,339
+Nous analyserons une base de données vraiment monumentale pour tenter de percer un mystère : pourquoi
+
+5
+00:00:19,339 --> 00:00:24,660
+faire la chose objectivement juste pour l'économie se révèle presque toujours être un coup mortel pour
+
+6
+00:00:24,660 --> 00:00:29,579
+la carrière de ceux qui gouvernent. Bref, attachez vos ceintures, car nous plongeons dans les données.
+
+7
+00:00:29,579 --> 00:00:35,259
+Et pour comprendre à quel point ce problème est enraciné, nous devons faire un grand saut dans le temps.
+
+8
+00:00:35,259 --> 00:00:40,500
+Pensez que Machiavel nous avait déjà prévenus en 1513, il écrivait qu'il n'y a
+
+9
+00:00:40,500 --> 00:00:45,539
+littéralement rien de plus dangereux que de se mettre en tête d'introduire un nouvel ordre des choses.
+
+10
+00:00:45,539 --> 00:00:50,740
+Car, eh bien, le réformateur se fait des ennemis de tous ceux qui profitaient de l'ancien système et trouve
+
+11
+00:00:50,740 --> 00:00:54,980
+des défenseurs très, très tièdes chez ceux qui pourraient bénéficier du nouveau.
+
+12
+00:00:54,980 --> 00:01:00,020
+Cette résistance au changement n'est pas seulement de la philosophie, c'est un problème vieux de plusieurs siècles qu'aujourd'hui
+
+13
+00:01:00,020 --> 00:01:02,660
+nous voyons exploser de plein fouet dans nos démocraties.
+
+14
+00:01:02,660 --> 00:01:08,579
+Ce qui nous amène droit à notre question fondamentale, le véritable mystère littéral :
+
+15
+00:01:08,579 --> 00:01:13,260
+pourquoi essayer d'améliorer l'économie à long terme coûte si souvent sa place à un
+
+16
+00:01:13,260 --> 00:01:17,700
+dirigeant politique ? Je veux dire, en théorie, si un gouvernement gère bien l'économie, l'électeur devrait
+
+17
+00:01:17,700 --> 00:01:22,420
+le récompenser, non ? Même la théorie économique classique dit exactement cela. Pourtant, lorsque l'on met
+
+18
+00:01:22,420 --> 00:01:26,579
+en œuvre de véritables réformes structurelles, les dirigeants qui en assument la responsabilité sont
+
+19
+00:01:26,579 --> 00:01:31,379
+régulièrement punis dans les urnes. Il y a une sorte de court-circuit insensé entre les bonnes intentions
+
+20
+00:01:31,379 --> 00:01:36,820
+pour le pays et le consensus électoral. Maintenant, pour répondre à cette question, nous ne serons pas là à
+
+21
+00:01:36,820 --> 00:01:41,680
+faire des discussions de comptoir, mais nous allons nous appuyer sur une véritable montagne de données. Une équipe de
+
+22
+00:01:41,680 --> 00:01:47,260
+chercheurs de premier plan a créé le Structural Reform Database, qui est fondamentalement
+
+23
+00:01:47,260 --> 00:01:52,140
+la banque données la plus massive jamais construite sur ce sujet. Nous parlons d'un travail qui couvre
+
+24
+00:01:52,140 --> 00:01:59,340
+90 pays de 1973 à 2014 ; ils ont analysé les réformes dans chaque secteur et croisé le tout avec
+
+25
+00:01:59,340 --> 00:02:04,780
+les élections de 66 démocraties. Bref, ce n'est pas un exercice théorique, c'est l'histoire économique
+
+26
+00:02:04,780 --> 00:02:10,099
+et électorale de la moitié du monde, passée à la loupe. Juste pour être
+
+27
+00:02:10,099 --> 00:02:16,140
+clairs et maintenir notre analyse totalement neutre, qu'entendons-nous exactement par réforme ?
+
+28
+00:02:16,140 --> 00:02:21,900
+Les chercheurs ont utilisé une échelle très simple de 0 à 1. 0 signifie réglementation maximale,
+
+29
+00:02:21,900 --> 00:02:27,100
+1 signifie libéralisation complète. Donc, quand nous parlons de réforme dans ce contexte,
+
+30
+00:02:27,100 --> 00:02:31,940
+nous entendons simplement un mouvement vers le libre marché : pas de politique, pas de préférence
+
+31
+00:02:31,940 --> 00:02:35,580
+idéologique, on mesure uniquement l'ampleur du changement, un point c'est tout.
+
+32
+00:02:35,580 --> 00:02:41,700
+Et c'est là que nous arrivons au cœur du problème. C'est une question de décalage temporel. Imaginez
+
+33
+00:02:41,700 --> 00:02:46,820
+deux horloges tournant sur des planètes différentes. D'un côté, vous avez l'horloge économique,
+
+34
+00:02:46,820 --> 00:02:51,700
+qui est très lente. Si vous faites passer une réforme la première année, les coûts arrivent immédiatement entre la
+
+35
+00:02:51,700 --> 00:02:57,020
+deuxième et la troisième année. Les bénéfices ? Ils se font attendre jusqu'à la quatrième ou cinquième année.
+
+36
+00:02:57,020 --> 00:03:01,700
+De l'autre côté, en revanche, vous avez l'horloge politique qui court à toute allure vers les prochaines
+
+37
+00:03:01,700 --> 00:03:06,580
+élections. Vous voyez la folie : le politique doit demander des voix précisément au moment où les citoyens
+
+38
+00:03:06,580 --> 00:03:11,260
+paient l'addition de la réforme, mais n'en voient pas encore les fruits. Pour mieux comprendre,
+
+39
+00:03:11,259 --> 00:03:15,819
+regardez l'effet sur le PIB, le produit intérieur brut. Quand commence une grande
+
+40
+00:03:15,819 --> 00:03:21,340
+réforme, à court terme, l'effet est pratiquement nul, plat. Ce n'est qu'à partir de la quatrième, et de manière
+
+41
+00:03:21,340 --> 00:03:25,539
+encore plus nette à partir de la cinquième année, que l'on voit une augmentation de la production économique, disons
+
+42
+00:03:25,539 --> 00:03:30,219
+autour de 1 %. C'est un beau résultat, certes, mais mettons-nous à la place de ceux qui
+
+43
+00:03:30,219 --> 00:03:35,219
+gouvernent. Cinq ans d'attente, en politique, cela équivaut plus ou moins à deux ou trois
+
+44
+00:03:35,219 --> 00:03:40,939
+ères géologiques. Alors, certains diront : "D'accord, mais si les libéralisations prennent
+
+45
+00:03:40,939 --> 00:03:45,620
+autant de temps, je fais le contraire, je remets des règles et je gagne immédiatement du soutien."
+
+46
+00:03:45,620 --> 00:03:50,579
+Si seulement c'était aussi simple. Les données nous jettent à la figure une vérité terrible. Il est vrai
+
+47
+00:03:50,579 --> 00:03:55,219
+que les bénéfices des libéralisations sont lents, mais les dommages causés par l'introduction de nouvelles
+
+48
+00:03:55,219 --> 00:04:00,620
+restrictions sont immédiats. Bloquer ou inverser une réforme fait immédiatement s'effondrer la production
+
+49
+00:04:00,620 --> 00:04:05,500
+économique. Pratiquement, c'est un piège sans issue : si vous poussez les réformes,
+
+50
+00:04:05,500 --> 00:04:09,620
+vous perdez des voix à court terme. Si vous faites marche arrière, vous causez des dégâts économiques à court terme.
+
+51
+00:04:09,620 --> 00:04:17,300
+C'est une asymétrie littéralement dévastante. D'un côté, nous avons une montée lente, progressive,
+
+52
+00:04:17,300 --> 00:04:22,579
+pénible, qui construit peu à peu la croissance. De l'autre, quand on durcit les règles,
+
+53
+00:04:22,579 --> 00:04:28,100
+nous avons un effondrement vertigineux et extrêmement rapide. Comme dans la vie, détruire est beaucoup, beaucoup
+
+54
+00:04:28,100 --> 00:04:32,460
+plus rapide que construire. Et pour celui qui doit gouverner en essayant d'équilibrer les comptes
+
+55
+00:04:32,460 --> 00:04:37,300
+de l'État avec le besoin désespéré de ne pas se faire chasser aux prochaines élections,
+
+56
+00:04:37,300 --> 00:04:43,100
+eh bien, c'est un cauchemar. Et si nous quantifiions ce cauchemar ? Voyons ce qui se passe. Chiffres à l'appui,
+
+57
+00:04:43,100 --> 00:04:48,379
+si vous imposez une réforme libérale, précisément l'année du vote. Voici la réponse : vous subissez
+
+58
+00:04:48,379 --> 00:04:55,580
+une baisse nette de 1,4 % de votre part des voix. Certes, 1,4 % peut sembler peu,
+
+59
+00:04:55,579 --> 00:05:00,300
+n'est-ce pas ? Mas dans un système compétitif où les gouvernements se décident sur
+
+60
+00:05:00,300 --> 00:05:05,459
+un fil, perdre un point et demi de pourcentage signifie faire ses cartons et débarrasser
+
+61
+00:05:05,459 --> 00:05:10,579
+le bureau. C'est un prix très élevé pour avoir fait la bonne chose au mauvais moment.
+
+62
+00:05:10,579 --> 00:05:16,339
+Mais alors, n'y a-t-il aucun espoir ? En réalité, il existe une issue très stratégique : le timing.
+
+63
+00:05:16,339 --> 00:05:21,379
+Les données parlent d'elles-mêmes : faire passer des réformes à l'approche du vote est un suicide politique.
+
+64
+00:05:21,379 --> 00:05:26,019
+Mais la mémoire de l'électeur, avouons-le, est étonnamment courte. Si la réforme est
+
+65
+00:05:26,019 --> 00:05:30,939
+adoptée au début du mandat, ce coût électoral s'évanouit pratiquement. Le coup de massue arrive
+
+66
+00:05:30,939 --> 00:05:36,659
+immédiatement, les électeurs se fâchent, mais après trois ou quatre ans, non seulement la colère est passée,
+
+67
+00:05:36,659 --> 00:05:40,579
+mais les premiers bénéfices concrets sur l'économie commencent également à se faire sentir.
+
+68
+00:05:40,579 --> 00:05:45,459
+Imaginez la situation comme s'il s'agissait d'un médicament bien amer. Les réformes structurelles,
+
+69
+00:05:45,459 --> 00:05:50,659
+comme celles du marché du travail, agissent un peu comme un traitement très fort. Avant même
+
+70
+00:05:50,660 --> 00:05:55,580
+de vous guérir, ils vous assomment. Le chômage peut augmenter temporairement, les salaires
+
+71
+00:05:55,580 --> 00:06:00,740
+doivent se réajuster. Bref, les bénéfices futurs sont diffus, mais les douleurs du présent sont
+
+72
+00:06:00,740 --> 00:06:05,580
+fortes, localisées et font beaucoup de bruit. Donc, si vous allez voir le patient alors qu'il se
+
+73
+00:06:05,580 --> 00:06:10,340
+tord de douleur à cause du traitement et que vous lui demandez son avis sur le médecin, eh bien, il est évident qu'il veut
+
+74
+00:06:10,340 --> 00:06:15,620
+le licencier sur-le-champ. Mais attention, car il y a un autre rebondissement qui change
+
+75
+00:06:15,620 --> 00:06:20,579
+complètement la donne : c'est l'état de santé général de l'économie au moment
+
+76
+00:06:20,579 --> 00:06:25,420
+où l'on introduit la réforme. L'effet n'est pas toujours le même. Les chercheurs ont découvert
+
+77
+00:06:25,420 --> 00:06:30,579
+qu'une seule et même réforme peut susciter des réactions diamétralement opposées selon qu'on la lance pendant que
+
+78
+00:06:30,579 --> 00:06:35,300
+l'économie décolle ou pendant qu'elle s'effondre. Le contexte, lorsqu'il s'agit de la patience
+
+79
+00:06:35,300 --> 00:06:41,459
+des électeurs, fait littéralement tout. Et voici la règle d'or qui en ressort : faire des réformes
+
+80
+00:06:41,460 --> 00:06:46,740
+pendant une récession est le meilleur moyen de maximiser la pénalité électorale. C'est
+
+81
+00:06:46,740 --> 00:06:51,260
+une catastrophe. Faciliter les licenciements, à un moment où l'emploi se fait déjà
+
+82
+00:06:51,260 --> 00:06:57,620
+rare, ne fait qu'aggraver la crise et enrager les gens. Mais si cette même et unique
+
+83
+00:06:57,620 --> 00:07:02,820
+réforme est menée durant une période d'expansion économique, non seulement on vous la pardonne, mais
+
+84
+00:07:02,820 --> 00:07:08,060
+parfois on vous en récompense. Pour en revenir à notre métaphore, si vous donnez un médicament fort
+
+85
+00:07:08,060 --> 00:07:13,259
+à un patient déjà à moitié mort, cela finit mal. Si vous le lui donnez quand il est en forme, cela fonctionne
+
+86
+00:07:13,259 --> 00:07:19,699
+à merveille. Qui risque de se faire le plus de mal de tous ? La recherche ne laisse aucun doute :
+
+87
+00:07:19,699 --> 00:07:25,420
+les gouvernements à parti unique et les systèmes majoritaires, surtout dans les pays riches. Pourquoi ?
+
+88
+00:07:25,420 --> 00:07:30,060
+C'est très simple : la responsabilité. Si vous êtes dans une grande coalition de type
+
+89
+00:07:30,060 --> 00:07:36,100
+fourre-tout, les torts se diluent et se rejettent, mais dans un système majoritaire, il n'y a qu'une
+
+90
+00:07:36,100 --> 00:07:41,180
+cible claire et lumineuse. Les électeurs savent exactement qui ils ont en face d'eux sur le bulletin
+
+91
+00:07:41,180 --> 00:07:46,660
+de vote et savent très bien qui punir. En somme, tout cela nous amène à une provocation
+
+92
+00:07:46,660 --> 00:07:51,780
+assez de taille, sur laquelle je veux vous faire réfléchir : si notre propre système démocratique punit
+
+93
+00:07:51,780 --> 00:07:56,100
+mathématiquement ceux qui cherchent à créer de la croissance à long terme dans les moments difficiles,
+
+94
+00:07:56,100 --> 00:08:00,500
+alors nous décourageons le courage politique à la base. En d'autres termes, notre désir de
+
+95
+00:08:00,500 --> 00:08:05,300
+résultats immédiats nous condamne-t-il peut-être à faire du surplace ? Voulons-nous des politiciens qui calculent
+
+96
+00:08:05,300 --> 00:08:10,100
+chaque mouvement uniquement pour survivre au prochain scrutin, ou des leaders prêts à se faire huer aujourd'hui
+
+97
+00:08:10,100 --> 00:08:15,300
+pour sauver les générations futures ? C'est une question immense, et je vous laisse trouver la réponse.
+
+98
+00:08:15,300 --> 00:08:15,939
+À la prochaine !

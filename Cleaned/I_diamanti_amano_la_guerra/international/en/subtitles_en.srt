@@ -1,0 +1,450 @@
+1
+00:00:00,000 --> 00:00:02,240
+Welcome to this new in-depth analysis.
+
+2
+00:00:02,240 --> 00:00:07,200
+Today we start with a question that seems almost like a paradox, and it is: do financial markets
+
+3
+00:00:07,200 --> 00:00:08,480
+love war?
+
+4
+00:00:08,480 --> 00:00:13,320
+To understand this, let's analyze a very interesting economic paper by Massimo Guidolin
+
+5
+00:00:13,320 --> 00:00:17,600
+and Eliana La Ferrara, entitled precisely "Diamonds are a war's best friend,"
+
+6
+00:00:17,600 --> 00:00:22,440
+it is a fascinating analysis that will radically change the way we think about the relationship
+
+7
+00:00:22,440 --> 00:00:25,080
+between the private sector and geopolitical instability.
+
+8
+00:00:25,080 --> 00:00:27,480
+So, let's get right into it.
+
+9
+00:00:27,480 --> 00:00:29,960
+Here is the map of our analysis today.
+
+10
+00:00:29,960 --> 00:00:32,600
+First, we will explore the paradox of peace.
+
+11
+00:00:32,600 --> 00:00:35,640
+And then dive into the diamond market in Angola.
+
+12
+00:00:35,640 --> 00:00:40,960
+We will then analyze the market reaction, the four economic causes behind it,
+
+13
+00:00:40,960 --> 00:00:44,000
+and finally the consequences of all this.
+
+14
+00:00:44,000 --> 00:00:46,679
+Point one: the paradox of peace.
+
+15
+00:00:46,679 --> 00:00:50,280
+Or, in other words, does peace always equal profit?
+
+16
+00:00:50,280 --> 00:00:51,880
+Imagine the situation.
+
+17
+00:00:51,880 --> 00:00:56,159
+Normally, we take it for granted that peace is great for business,
+
+18
+00:00:56,160 --> 00:01:00,800
+after all, war destroys infrastructure and terrifies investors.
+
+19
+00:01:00,800 --> 00:01:03,680
+But this brings us to today's central question.
+
+20
+00:01:03,680 --> 00:01:08,120
+What happens to the stock prices of mining companies if a civil war ends
+
+21
+00:01:08,120 --> 00:01:09,120
+all of a sudden?
+
+22
+00:01:09,120 --> 00:01:14,560
+Logic would suggest an immediate market euphoria, everyone buys and stocks
+
+23
+00:01:14,560 --> 00:01:15,560
+soar.
+
+24
+00:01:15,560 --> 00:01:20,040
+And yet, hold on tight, the data tells us a completely different story.
+
+25
+00:01:20,040 --> 00:01:25,400
+And indeed, while our instinct tells us that prices should rise thanks to
+
+26
+00:01:25,400 --> 00:01:30,800
+the rediscovered stability, the real market reaction recorded in Angola in 2002
+
+27
+00:01:30,800 --> 00:01:35,800
+shows literally the opposite: prices collapse, a real plunge.
+
+28
+00:01:35,800 --> 00:01:39,960
+This makes us realize that, well, economic theory often has to deal with a reality
+
+29
+00:01:39,960 --> 00:01:42,439
+on the ground that is much, much more cynical.
+
+30
+00:01:42,439 --> 00:01:48,200
+Let's move on to the second point, our case study: the diamond market in Angola.
+
+31
+00:01:48,200 --> 00:01:52,280
+To understand this strange anomaly, we have to take a step back and immerse ourselves
+
+32
+00:01:52,280 --> 00:01:54,960
+in the context of this complex civil war.
+
+33
+00:01:55,000 --> 00:02:01,720
+In 1992, national elections are held; in 1994, the Lusaka Protocol is signed.
+
+34
+00:02:01,720 --> 00:02:02,960
+It seems like a done deal, right?
+
+35
+00:02:02,960 --> 00:02:08,520
+But instead, in 1998, the peace process collapses inexorably, and fighting resumes.
+
+36
+00:02:08,520 --> 00:02:10,920
+Then, suddenly, the turning point.
+
+37
+00:02:10,920 --> 00:02:16,240
+On February 22, 2002, Jonas Savimbi, the charismatic leader of the rebel
+
+38
+00:02:16,240 --> 00:02:17,240
+movement, dies in an ambush.
+
+39
+00:02:17,240 --> 00:02:22,120
+His passing, in fact, marks the sudden and unexpected end of the conflict, wiping out
+
+40
+00:02:22,120 --> 00:02:26,960
+any uncertainty about the country's future—a perfect event to understand the market's reaction.
+
+41
+00:02:26,960 --> 00:02:29,879
+And here comes the genius of the researchers.
+
+42
+00:02:29,879 --> 00:02:34,680
+To financially isolate the impact of this sudden peace, the study
+
+43
+00:02:34,680 --> 00:02:37,680
+uses a very rigorous comparative method.
+
+44
+00:02:37,680 --> 00:02:39,080
+They created two groups.
+
+45
+00:02:39,080 --> 00:02:44,200
+On one hand, an Angolan portfolio, which includes seven diamond companies already operating
+
+46
+00:02:44,200 --> 00:02:45,599
+in the territory.
+
+47
+00:02:45,599 --> 00:02:50,680
+On the other, a control portfolio made up of 42 companies identical in every way,
+
+48
+00:02:50,680 --> 00:02:53,200
+but with no interests in Angola whatsoever.
+
+49
+00:02:53,200 --> 00:02:54,719
+What is the purpose of this?
+
+50
+00:02:54,719 --> 00:02:58,920
+Simple: to rule out that price changes are due to normal fluctuations
+
+51
+00:02:58,920 --> 00:03:00,800
+in the global diamond market.
+
+52
+00:03:00,800 --> 00:03:05,960
+Which brings us to the third point of our analysis: the market's reaction to the announcement
+
+53
+00:03:05,960 --> 00:03:06,960
+of peace.
+
+54
+00:03:06,960 --> 00:03:09,439
+So, what was the response on the stock market?
+
+55
+00:03:09,439 --> 00:03:13,879
+If we look at the raw data, just as reported in table one of the paper,
+
+56
+00:03:13,879 --> 00:03:15,200
+we notice something incredible.
+
+57
+00:03:15,760 --> 00:03:19,640
+On the exact days Savimbi dies, the portfolio of companies operating in
+
+58
+00:03:19,640 --> 00:03:22,640
+Angola records a dramatic net drop.
+
+59
+00:03:22,640 --> 00:03:27,640
+On the contrary, or rather, almost in mockery of the situation, the control portfolio
+
+60
+00:03:27,640 --> 00:03:29,120
+records gains.
+
+61
+00:03:29,120 --> 00:03:33,280
+In practice, markets interpreted the end of the war as terrible news for
+
+62
+00:03:33,280 --> 00:03:34,280
+those doing business.
+
+63
+00:03:34,280 --> 00:03:35,280
+27.
+
+64
+00:03:35,280 --> 00:03:41,440
+27 percentage points—this is the huge net difference in return between the control group
+
+65
+00:03:41,439 --> 00:03:45,800
+and the Angolan portfolio, recorded on the very day the news became
+
+66
+00:03:45,800 --> 00:03:46,800
+public.
+
+67
+00:03:46,800 --> 00:03:51,159
+A single figure that throws in our face how much the end of the war damaged
+
+68
+00:03:51,159 --> 00:03:53,400
+the perceived value of those companies.
+
+69
+00:03:53,400 --> 00:03:55,199
+We are at the fourth point.
+
+70
+00:03:55,199 --> 00:03:57,960
+The economic causes behind this crash.
+
+71
+00:03:57,960 --> 00:04:02,599
+Naturally, the question arises: why on earth does all this happen? The researchers didn't
+
+72
+00:04:02,599 --> 00:04:07,680
+just observe the data, but isolated four structural reasons: one,
+
+73
+00:04:07,680 --> 00:04:13,120
+the collapse of entry barriers; second, the increase in government power; third, the
+
+74
+00:04:13,120 --> 00:04:18,079
+end of a price war; and four, new transparency standards. Let's look at them one
+
+75
+00:04:18,079 --> 00:04:19,079
+by one.
+
+76
+00:04:19,079 --> 00:04:20,079
+First factor.
+
+77
+00:04:20,079 --> 00:04:26,519
+As bad as it sounds, civil war acts as a giant barrier to entry.
+
+78
+00:04:26,519 --> 00:04:31,759
+Operating in a conflict zone requires crazy investments in private security and a risk
+
+79
+00:04:31,759 --> 00:04:34,680
+tolerance that few companies possess.
+
+80
+00:04:34,680 --> 00:04:37,439
+This protects the companies that are already there.
+
+81
+00:04:37,439 --> 00:04:42,000
+A sudden peace, however, breaks down this barrier and heralds the arrival of an avalanche
+
+82
+00:04:42,000 --> 00:04:47,120
+of new competitors ready to take their slice of the pie in a now peaceful country.
+
+83
+00:04:47,120 --> 00:04:50,120
+Let's move on to the second cause: the balance of power.
+
+84
+00:04:50,120 --> 00:04:54,639
+During the war, the government must compete with the rebels for control of the territory,
+
+85
+00:04:54,639 --> 00:04:58,879
+but once the conflict is over, the state regains an absolute and total monopoly over
+
+86
+00:04:58,879 --> 00:04:59,879
+mining rights.
+
+87
+00:04:59,879 --> 00:05:03,839
+And for foreign companies, this is a cold shower: there is a concrete fear
+
+88
+00:05:03,840 --> 00:05:08,340
+that the government, now unrivaled, will impose exorbitant licensing fees, or decide
+
+    89
+00:05:08,340 --> 00:05:12,040
+to unilaterally renegotiate old contracts in its favor.
+
+90
+00:05:12,040 --> 00:05:17,240
+Third point, and this is perhaps the crudest: the end of the so-called price war.
+
+91
+00:05:17,240 --> 00:05:21,920
+Peace permanently closes the doors on the black market run by rebels, who in the past
+
+92
+00:05:21,920 --> 00:05:26,160
+sold off diamond-mining rights simply because they were desperate and needed
+
+93
+00:05:26,160 --> 00:05:28,680
+money to buy weapons quickly.
+
+94
+00:05:28,680 --> 00:05:34,000
+Just imagine that before, some operators paid ridiculous sums, sometimes as low as 250 dollars,
+
+95
+00:05:34,000 --> 00:05:36,840
+to obtain massive prospecting rights from the rebels.
+
+96
+00:05:36,840 --> 00:05:40,240
+With peace, these nightmare discounts disappear completely.
+
+97
+00:05:40,240 --> 00:05:46,840
+Fourth and final factor: transparency. Peace inevitably brings the attention of the
+
+98
+00:05:46,840 --> 00:05:51,680
+international community to the country. As long as there is war, the state of emergency is
+
+99
+00:05:51,680 --> 00:05:56,840
+the perfect excuse for not having transparent finances, creating an ideal ecosystem for shady
+
+100
+00:05:56,840 --> 00:05:59,800
+yet enormously profitable business.
+
+101
+00:05:59,800 --> 00:06:04,720
+With the end of hostilities, international pressure kicks in to regularize the sector
+
+102
+00:06:04,720 --> 00:06:06,520
+and goodbye to gray areas.
+
+103
+00:06:06,520 --> 00:06:11,440
+And to add some color and human context to all these numbers, there is a quote
+
+104
+00:06:11,440 --> 00:06:16,600
+by the Angolan journalist and dissident Rafael Marques, which hits right to the point.
+
+105
+00:06:16,600 --> 00:06:20,880
+"The end of the war in Angola means that at this moment, the main institution
+
+106
+00:06:20,880 --> 00:06:22,920
+of the country is corruption."
+
+107
+00:06:22,920 --> 00:06:27,720
+A sharp sentence that reminds us exactly what kind of regulatory and ethical swamp
+
+108
+00:06:27,720 --> 00:06:31,240
+these corporate dynamics operated in the post-war period.
+
+109
+00:06:31,240 --> 00:06:36,680
+Here we are at the fifth and final point: the consequences of this discovery.
+
+110
+00:06:36,680 --> 00:06:40,879
+Reaching the end of this analysis means having to come to terms with a deeply
+
+uncomfortable reality.
+
+Think about it: if the large companies already operating in a conflict-devastated country
+obtain tangible financial benefits from the continuation of the war, what real
+incentive will they ever have to use their huge political influence to promote
+peace?
+
+It is a heavy question, I realize that, but it is a question that forces us to look
+beyond the surface and to fully understand the dark and fragile dynamics that control
+the resources of our planet.

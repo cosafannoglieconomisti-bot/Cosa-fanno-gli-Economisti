@@ -1,0 +1,111 @@
+=== TRASCRITTO CON TIMESTAMP ===
+Video: I_prof_sono_razzisti_cleaned.mp4
+
+[00:00] Allora oggi parliamo di una ricerca davvero importante, che entra in un tema delicato,
+[00:05] i pregiudizi in conci nella scuola italiana, andremo a vedere come gli stereotipi, anche
+[00:09] quelli che non sappiamo di avere, possono avere un peso reale, concreto, sulle valutazioni
+[00:14] degli studenti.
+[00:15] Esatto.
+[00:16] E la domanda centrale da cui parte tutto è proprio questa.
+[00:20] Immaginiamo per un attimo due studenti, uno italiano e un immigrato, che in un test, uguale
+[00:25] per tutti e soprattutto anonimo, prendono esattamente lo stesso punteggio.
+[00:30] La domanda è, alla fine, il loro insegnante, darà entrambi lo stesso voto, beh, la risposta
+[00:36] come stiamo per scoprire, non è così semplice.
+[00:38] Ok, partiamo dal problema che i ricercatori hanno messo a fuoco nelle nostre scuole medie,
+[00:44] c'è qualcosa che non torna, una differenza nei voti che a Occionudo non si vede, un vero
+[00:48] e proprio di vario nascosto.
+[00:50] Diamo un occhiata a questo grafico, perché è qui che si vede il nocciolo della questione.
+[00:55] Qui vediamo i voti dati dagli insegnanti a studenti che, come dicevamo, nei testi nazionali
+[01:00] standardizzati, hanno dimostrato la stessa preparazione.
+[01:03] La prima barra, quella un po' più alta, sono gli studenti nativi, la seconda gli studenti
+[01:08] immigrati.
+[01:09] E' la differenza anche se piccola c'è sempre.
+[01:12] A parità di competenza, gli studenti immigrati si ritrovano con un voto mediamente un po'
+[01:16] più basso.
+[01:17] Certo, 0.14 punti può sembrare un'inerzia, ma è fondamentale capire il suo peso reale.
+[01:23] Questo piccolo scarco, pensate, è grande quasi quanto l'impatto che ha il livello di
+[01:28] struzione della madre sull'endimento scolastico di un figlio, e sappiamo tutti quanto
+[01:32] continua e fattori socio-economici.
+[01:33] Insomma, non stiamo parlando di una differenza da niente.
+[01:36] E quindi la domanda sorge spontania, ma perché succede questo, da dove salta fuori questa
+[01:43] differenza?
+[01:44] Per capirlo, i ricercatori hanno provato a misurare qualcosa di molto, molto sfugente, i
+[01:50] pregiudizi impliciti, quelli inconsci degli insegnanti.
+[01:55] Proprio così, e facciamo chiarezza su cosa intendiamo per pregiudizio implicito.
+[02:00] Non stiamo parlando di una scelta consapevole di discriminare.
+[02:04] No, sono delle associazioni mentali che scattano in automatico, degli esterioti, che respiriamo
+[02:09] dalla cultura in cui viviamo, e che possono, senza che nemmeno ce ne accorgiamo, orientare
+[02:14] le nostre decisioni.
+[02:15] Per provare a misurarli si usa un test che si chiama Implicit Association Test, YAT.
+[02:21] In pratica, funziona così.
+[02:23] Viene chiesto all'insegnante di associare il più velocemente possibile nomi tipo Fatima
+[02:27] o Francesca, apparò le positive o negative.
+[02:30] L'idea di fondo è che se nella nostra testa l'associazione nome straniero e aggettivo
+[02:34] negativo e più automatica, ci mettiamo una frazione di secondo in più per fare l'associazione
+[02:38] opposta, quella contro intuitiva, come nome straniero e aggettivo positivo.
+[02:43] Ecco quel piccolo ritardo, misurato i mili secondi, e la spia del Prejudizio Implicito.
+[02:47] E i risultati, beh, sono stati ad il poco sorprendenti.
+[02:51] Questo grafico ci fa vedere come è distribuito il Prejudizio Implicito Negativo verso gli
+[02:56] immigrati tra gli insegnanti testati.
+[02:58] Il 70% una fette enorme ha mostrato un Prejudizio da moderato a forte, e solo un piccolissimo
+[03:06] 5% non ne aveva affatto.
+[03:09] Attenzione, questo non vuol dire che il 95% degli insegnanti sia racista, ma che quasi
+[03:14] tutti noi abbiamo dentro delle associazioni incontce negative.
+[03:18] Ok, una volta che abbiamo misurato questo Prejudizio, la domanda successiva è stata, e
+[03:23] quindi, che succede se mettiamo gli insegnanti di fronte a questi loro bias, sapere di averli,
+[03:29] può cambiare il modo in cui valutano?
+[03:31] Per scoprirlo si sono spostati dalla teoria alla pratica con un esperimento vero e proprio
+[03:36] nelle scuole.
+[03:37] Esperto uno, il disegno dell'esperimento è stato tanto semplice quanto direi geniale.
+[03:43] Hanno preso gli insegnanti e li hanno divisi in due gruppi.
+[03:46] Al primo gruppo che chiamiamo informato hanno comunicato il risultato del loro test sul
+[03:51] Prejudizio prima che descero i voti finali.
+[03:54] Al secondo gruppo, quello di controllo, l'hanno detto dopo.
+[03:58] L'unica cosa che cambiava, quindi, era il quando.
+[04:01] E il risultato è stato pazzesco.
+[04:04] Il solo fatto di sapere in anticipo il proprio punteggio.
+[04:06] Aspinto gli insegnanti del gruppo informato a ridurre il divario nei voti di ben 0.35
+[04:11] punti.
+[04:12] In pratica hanno quasi azzerato la differenza iniziale e l'hanno fatto soprattutto
+[04:16] al sando i voti e gli studenti immigrati.
+[04:18] A questo punto, però i ricercatori hanno voluto andare ancora più a fondo, cioè la
+[04:22] domanda era, a fare la differenza e sapere del proprio specifico prejudizio, o basterebbe
+[04:28] un avvertimento più generico tipo attenzione i prejudizi esistono.
+[04:33] Per capirlo, hanno messo in piedi un secondo esperimento, stavolta un line.
+[04:37] In questo secondo round, a tutti arrivato un messaggio generale che l'informava appunto
+[04:41] dell'esistenza di prejudizia scuola, però solo la metà di loro, al gruppo trattamento,
+[04:47] oltre al messaggio generale, è stato comunicato anche il risultato personale del test.
+[04:51] L'obiettivo era proprio isolare l'effetto dell'informazione su misura.
+[04:55] Ed è qui che la cosa si fa super interessante.
+[04:58] Guardate questa tabella, perché è la chiave di tutto.
+[05:02] Per il insegnanti con un prejudizio basso, il messaggio generico e quello personale
+[05:06] hanno avuto più o meno lo stesso effetto positivo, ma la vera sorpresa è nella riga sotto.
+[05:12] Per quelli con un prejudizio forte, il messaggio generico non è servito a nulla.
+[05:17] Nessun cambiamento.
+[05:18] Hanno cambiato registro solo quando si sono visti sbatteri in face loro risultato personale.
+[05:23] L'issicchi hanno ridotto il divario.
+[05:25] E questo ci porta adritti al cuore del meccanismo che hanno scoperto.
+[05:29] Quello che potremmo chiamare è effetto sorpresa.
+[05:32] L'informazione personalizzata è una bomba, soprattutto quando ti coglia di sorpresa.
+[05:36] L'insegnanti che hanno cambiato di più il loro comportamento sono stati proprio quelli
+[05:41] che probabilmente avrebbero detto, io, prejudizi, ma figurati.
+[05:45] E a conferma di questo, c'è un dato che fa impressione.
+[05:49] L'80% degli insegnanti, otto su 10, ha sottovalutato il proprio livello di prejudizio.
+[05:54] Questo ci fa capire quanto poco ci conosciamo da questo punto di vista.
+[05:58] E perché un feedback diretto e personale possa essere così dirompente.
+[06:02] E così arriviamo al dunque.
+[06:04] Che cosa ci portiamo a casa da tutta questa ricerca?
+[06:07] E soprattutto cosa ci dice su come possiamo rendere la scuola un posto concretamente più giusto per tutti?
+[06:13] Riasso mi amo un attimo le cose fondamentali e che abbiamo capito.
+[06:16] Punto primo, i prejudizi in conci non sono pensieri astrati, ma hanno un impatto reale sui voti.
+[06:22] Punto secondo, la consapevolezza è un'arma potente.
+[06:25] Dire un insegnante guarda che questo bias può ridurre le disparità.
+[06:29] Terzo, un conto è dire i bias esistono, un altro è dire questo è il tuo bias.
+[06:34] L'informazione personalizzata a vince, soprattutto con chi ha prejudizi più forti.
+[06:39] En fine, il vero motore del cambiamento è la sorpresa.
+[06:42] Lo shock di scoprire un lato di noi che non ci aspettavamo.
+[06:46] E chiudiamo con una domanda aperta, una riflessione.
+[06:50] Tutt'a questa ricerca sembra suggerire che a volte per iniziare a risolvere un problema basta renderlo visibile.
+[06:56] E la domanda che lasciamo sul tavolo è proprio questa.
+[07:00] Portare alla luce un prejudizio che non sapevamo di avere è davvero il primo indispensabile passo per iniziare a sconfigerlo.
+[07:07] Grazie per averci seguito in questa analisi.

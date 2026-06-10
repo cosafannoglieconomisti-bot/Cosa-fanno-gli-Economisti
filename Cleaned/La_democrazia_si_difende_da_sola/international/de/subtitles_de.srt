@@ -1,0 +1,491 @@
+1
+00:00:00,000 --> 00:00:03,040
+Willkommen zu dieser neuen visuellen Erklärung.
+
+2
+00:00:03,040 --> 00:00:08,560
+Heute widmen wir uns einer buchstäblich faszinierenden Wirtschafts- und Politikanalyse.
+
+3
+00:00:08,560 --> 00:00:12,800
+Wir beginnen mit einer grundlegenden Frage, die von Daron Acemoglu,
+
+4
+00:00:12,800 --> 00:00:16,559
+frisch global ausgezeichnet, und seinen Co-Autoren erforscht wurde.
+
+5
+00:00:16,559 --> 00:00:20,600
+Ist die Unterstützung für demokratische Institutionen eine Gegebenheit,
+
+6
+00:00:20,600 --> 00:00:26,160
+oder muss die Demokratie ständig ihren Wert beweisen, um zu überleben?
+
+7
+00:00:26,160 --> 00:00:29,199
+Anhand äußerst präziser weltweiter Daten
+
+8
+00:00:29,199 --> 00:00:35,759
+werden wir gemeinsam versuchen zu verstehen, was Menschen dazu bringt, an das demokratische System zu glauben oder nicht mehr daran zu glauben.
+
+9
+00:00:35,759 --> 00:00:39,679
+Okay, stürzen wir uns sofort in diese empirische Reise.
+
+10
+00:00:39,679 --> 00:00:43,039
+Zuerst werden wir das historische Problem der Demokratie untersuchen.
+
+11
+00:00:43,039 --> 00:00:46,320
+Wir werden uns fragen, ob Erfahrung tatsächlich Unterstützung schafft
+
+12
+00:00:46,320 --> 00:00:49,480
+und den sogenannten Erfolgsfaktor entdecken.
+
+13
+00:00:49,480 --> 00:00:53,159
+Danach werden wir Wachstum, Frieden und Korruption analysieren.
+
+14
+00:00:53,159 --> 00:00:55,760
+Um dann zu einem direkten Vergleich mit Autokratien überzugehen,
+
+15
+00:00:55,759 --> 00:00:59,640
+und schließlich werden wir versuchen, die Zukunft unserer Institutionen zu skizzieren.
+
+16
+00:00:59,640 --> 00:01:06,280
+Kommen wir zum ersten Abschnitt: Das Problem der Demokratie und ihre historische These.
+
+17
+00:01:06,280 --> 00:01:09,679
+Wie leider bekannt ist, haben wir kürzlich ganze 15 Jahre
+
+18
+00:01:09,679 --> 00:01:13,239
+in Folge eines globalen demokratischen Rückschritts erlebt.
+
+19
+00:01:13,239 --> 00:01:16,599
+Es stellt sich also die Frage, was in modernen Zeiten
+
+20
+00:01:16,599 --> 00:01:19,519
+den Zusammenbruch des gesamten Systems verhindert?
+
+21
+00:01:19,519 --> 00:01:23,159
+Um das zu verstehen, gehen wir einen Moment zurück ins Jahr 1938.
+
+22
+00:01:23,200 --> 00:01:25,439
+Als US-Präsident Franklin Delano Roosevelt seinen historischen New Deal
+
+23
+00:01:25,439 --> 00:01:28,159
+rechtfertigte, machte er
+
+24
+00:01:28,159 --> 00:01:30,239
+eine sehr scharfsinnige Beobachtung.
+
+25
+00:01:30,239 --> 00:01:33,719
+Die Demokratie ist in mehreren anderen großen Nationen verschwunden,
+
+26
+00:01:33,719 --> 00:01:37,200
+nicht weil die Völker dieser Nationen die Demokratie hassten,
+
+27
+00:01:37,200 --> 00:01:41,319
+sondern weil sie der Arbeitslosigkeit und Unsicherheit müde waren.
+
+28
+00:01:41,319 --> 00:01:43,159
+Roosevelt traf den Nagel auf den Kopf.
+
+29
+00:01:43,159 --> 00:01:45,799
+Die Einsicht war, dass Bürger, um das System zu unterstützen,
+
+30
+00:01:45,799 --> 00:01:50,719
+ein vitales Bedürfnis nach einer positiven und greifbaren Erfahrung mit der Demokratie haben.
+
+31
+00:01:50,760 --> 00:01:55,519
+Und genau das ist die zentrale Hypothese der Forschung, die wir heute untersuchen.
+
+32
+00:01:55,519 --> 00:01:57,760
+Was uns zu Abschnitt zwei führt,
+
+33
+00:01:57,760 --> 00:02:00,039
+Erfahrung schafft Unterstützung.
+
+34
+00:02:00,039 --> 00:02:01,200
+Schauen wir uns die Daten an.
+
+35
+00:02:01,200 --> 00:02:06,960
+Es ist an der Zeit, diese alte und faszinierende These in einem noch nie dagewesenen Ausmaß zu testen.
+
+36
+00:02:06,960 --> 00:02:11,039
+Und die Zahlen dieser Untersuchung sind einfach außergewöhnlich.
+
+37
+00:02:11,039 --> 00:02:14,039
+Die Analyse basiert auf den Integrated Value Surveys
+
+38
+00:02:14,039 --> 00:02:16,960
+und untersucht nicht weniger als 110 Länder
+
+39
+00:02:16,960 --> 00:02:19,919
+mit über 560.000 Befragten.
+
+40
+00:02:19,920 --> 00:02:25,760
+Wir sprechen von einem Meer von Daten, die akribisch zwischen 1981 und 2018 gesammelt wurden.
+
+41
+00:02:25,760 --> 00:02:27,680
+Aber die wahre methodische Perle:
+
+42
+00:02:27,680 --> 00:02:32,400
+Die Forscher konnten den Einfluss direkter Erfahrung rigoros isolieren.
+
+43
+00:02:32,400 --> 00:02:35,600
+Sie haben tatsächlich gezeigt, dass der Grad der Demokratie eines Landes
+
+44
+00:02:35,600 --> 00:02:37,320
+vor der Geburt einer Person
+
+45
+00:02:37,320 --> 00:02:41,360
+keinen signifikanten Einfluss auf ihre zukünftige Unterstützung für das System hat.
+
+46
+00:02:41,360 --> 00:02:45,840
+Kurz gesagt, es zählt ausschließlich die persönlich gemachte Erfahrung.
+
+47
+00:02:45,840 --> 00:02:48,400
+Und wenn man diese gelebten Erfahrungen analysiert,
+
+48
+00:02:48,400 --> 00:02:51,120
+zeigt sich ein wirklich kristallklarer Aufwärtstrend.
+
+49
+00:02:51,120 --> 00:02:56,480
+Empirische Belege zeigen, dass eine stärkere Exposition gegenüber Demokratie einen stabilen und positiven Effekt hat.
+
+50
+00:02:56,480 --> 00:03:00,159
+Quantifiziert man dies, so erhöhen 10 zusätzliche Jahre des Lebens in einem demokratischen System
+
+51
+00:03:00,159 --> 00:03:05,360
+die Unterstützung für die Institutionen um etwa 4 % ihrer Standardabweichung.
+
+52
+00:03:05,360 --> 00:03:10,040
+Das ist eine sehr solide Korrelation, aber Vorsicht, es gibt noch mehr unter der Oberfläche.
+
+53
+00:03:10,040 --> 00:03:14,000
+Damit gelangen wir zum dritten Abschnitt, dem Erfolgsfaktor.
+
+54
+00:03:14,000 --> 00:03:18,479
+Und hier ist die entscheidende Offenbarung, der wahre Wendepunkt dieser Studie.
+
+55
+00:03:18,479 --> 00:03:25,759
+Die Exposition gegenüber Demokratie erzeugt Unterstützung, wenn und nur wenn diese spezifische Demokratie funktioniert.
+
+56
+00:03:25,759 --> 00:03:28,759
+Aber was genau bedeutet „funktionieren“?
+
+57
+00:03:28,759 --> 00:03:33,439
+Acemoglu und seine Co-Autoren haben sich sicherlich nicht mit abstrakten Definitionen begnügt.
+
+58
+00:03:33,439 --> 00:03:36,199
+Sie haben das Konzept des Erfolgs seziert,
+
+59
+00:03:36,199 --> 00:03:39,159
+indem sie es an vier genauen Säulen gemessen haben.
+
+60
+00:03:39,159 --> 00:03:42,159
+Erstens: Das Wachstum des Bruttoinlandsprodukts.
+
+61
+00:03:42,159 --> 00:03:48,639
+Zweitens: Eine rigorose Kontrolle der Korruption. Drittens: Die Aufrechterhaltung von Frieden und politischer Stabilität.
+
+62
+00:03:48,639 --> 00:03:53,400
+Und viertens: Eine öffentliche Ausgabenpolitik, die der Gemeinschaft reale Dienstleistungen bieten kann.
+
+63
+00:03:53,400 --> 00:03:58,479
+Fahren wir fort mit dem vierten Abschnitt, in dem wir die visuellen Beweise dieser ersten Säulen untersuchen,
+
+64
+00:03:58,479 --> 00:04:00,759
+nämlich Wachstum, Frieden und Korruption.
+
+65
+00:04:00,759 --> 00:04:03,919
+Sehen wir, wie sie sich in tatsächliche politische Unterstützung umwandeln.
+
+66
+00:04:03,919 --> 00:04:07,479
+Hier beschreiben die Daten eine eindeutige Entwicklung:
+
+67
+00:04:07,480 --> 00:04:12,000
+Wenn ein demokratisches Land Phasen starken und anhaltenden Wirtschaftswachstums durchläuft,
+
+68
+00:04:12,000 --> 00:04:14,800
+schießt die Unterstützung der Bevölkerung buchstäblich in die Höhe.
+
+69
+00:04:14,800 --> 00:04:18,160
+Zehn zusätzliche Jahre in einer wirtschaftlich florierenden Demokratie
+
+70
+00:04:18,160 --> 00:04:24,080
+erhöhen die institutionelle Unterstützung um 4 bis 8 % der Standardabweichung.
+
+71
+00:04:24,080 --> 00:04:26,759
+Aber was, wenn die Demokratie wirtschaftlich stagniert?
+
+72
+00:04:26,759 --> 00:04:31,319
+Überraschenderweise ist die Zunahme der Unterstützung praktisch nicht vorhanden.
+
+73
+00:04:31,319 --> 00:04:36,080
+Und dies illustriert hervorragend ein weiteres grundlegendes Element: Integrität.
+
+74
+00:04:36,120 --> 00:04:41,919
+In einer Demokratie zu leben, die Korruption effektiv kontrolliert, lässt die Wertschätzung der Bürger stark ansteigen.
+
+75
+00:04:41,919 --> 00:04:46,800
+Im Gegenteil, wenn Regierungen als korrupt und unfähig wahrgenommen werden, Missbräuche einzudämmen,
+
+76
+00:04:46,800 --> 00:04:49,240
+verschwindet dieser positive Effekt ins Nichts.
+
+77
+00:04:49,240 --> 00:04:54,439
+Die Ernüchterung setzt ein, sobald man merkt, dass das System manipuliert ist.
+
+78
+00:04:54,439 --> 00:04:58,839
+Auch Frieden und Stabilität spielen eine entscheidende Rolle in dieser Gleichung.
+
+79
+00:04:58,839 --> 00:05:02,159
+Die Studie nennt ein frappierendes Beispiel: die Philippinen.
+
+80
+00:05:02,200 --> 00:05:07,120
+Obwohl sie die meiste Zeit der letzten 40 Jahre als Demokratie eingestuft wurden,
+
+81
+00:05:07,120 --> 00:05:10,200
+litten sie unter langwierigen bewaffneten Konflikten.
+
+82
+00:05:10,200 --> 00:05:14,200
+Die Daten zeigen, dass selbst in Zeiten des Wirtschaftswachstums
+
+83
+00:05:14,200 --> 00:05:19,000
+das Fehlen von Frieden die Konsolidierung einer starken demokratischen Unterstützung verhinderte.
+
+84
+00:05:19,000 --> 00:05:22,600
+Einfach ausgedrückt: Die Menschen wollen vor allem Sicherheit.
+
+85
+00:05:22,600 --> 00:05:27,240
+Abgerundet wird dieses analytische Bild durch den Effekt der öffentlichen Ausgaben.
+
+86
+00:05:27,240 --> 00:05:30,000
+Die Menschen erwarten konkrete Dienstleistungen.
+
+87
+00:05:30,040 --> 00:05:33,720
+Ein hohes Niveau der öffentlichen Ausgaben im Verhältnis zum Bruttoinlandsprodukt
+
+88
+00:05:33,720 --> 00:05:37,079
+ist stark mit einer größeren Unterstützung für das System korreliert.
+
+89
+00:05:37,079 --> 00:05:43,680
+Kurz gesagt, Institutionen werden verteidigt und geschätzt, wenn sie sichtbar in das Wohlergehen aller investieren.
+
+90
+00:05:43,680 --> 00:05:47,319
+Nun kommen wir zum fünften Abschnitt, einem notwendigen Schritt,
+
+91
+00:05:47,319 --> 00:05:52,759
+dem Vergleich mit Autokratien, die in dieser Analyse als perfekte Kontrollgruppe dienen.
+
+92
+00:05:52,759 --> 00:05:53,920
+Man könnte sich fragen,
+
+93
+00:05:53,920 --> 00:05:58,759
+was passiert, wenn ein autoritäres Regime ein starkes Wirtschaftswachstum liefert?
+
+94
+00:05:58,759 --> 00:06:02,199
+Rechtfertigt wirtschaftlicher Erfolg vielleicht die Diktatur?
+
+95
+00:06:02,199 --> 00:06:05,759
+Der Kontrast, der sich aus den Daten ergibt, ist gelinde gesagt überraschend.
+
+96
+00:06:05,759 --> 00:06:09,439
+Wie wir gerade gesehen haben, stärkt wirtschaftlicher Erfolg unter einer demokratischen Regierung
+
+97
+00:06:09,439 --> 00:06:12,399
+das Vertrauen in diese Institutionen enorm.
+
+98
+00:06:12,399 --> 00:06:14,120
+Aber eine erfolgreiche Autokratie?
+
+99
+00:06:14,120 --> 00:06:15,279
+Absolut nicht.
+
+100
+00:06:15,279 --> 00:06:20,639
+Die Daten zeigen keine signifikante Zunahme der Wertschätzung für Autoritarismus, wenn die Wirtschaft gut läuft.
+
+101
+00:06:20,639 --> 00:06:25,159
+Das könnte daran liegen, dass die Erwartungen an ein Regime strukturell niedriger sind,
+
+102
+00:06:25,160 --> 00:06:29,880
+oder vielleicht weil das Fehlen von Transparenz und Freiheit die Schaffung echten bürgerschaftlichen Vertrauens verhindert,
+
+103
+00:06:29,880 --> 00:06:32,640
+unabhängig von den positiven BIP-Zahlen.
+
+104
+00:06:32,640 --> 00:06:37,760
+Die Forscher fassen all dies durch einen sehr präzisen ökonomischen und psychologischen Mechanismus zusammen,
+
+105
+00:06:37,760 --> 00:06:40,360
+der als "verallgemeinertes Lernen" definiert wird.
+
+106
+00:06:40,360 --> 00:06:46,040
+Im Wesentlichen bedeutet dies, dass die Unterstützung für die Demokratie keine in Stein gemeißelte kulturelle Eigenschaft ist
+
+107
+00:06:46,040 --> 00:06:48,120
+und auch keine Art von Glaubensbekenntnis,
+
+108
+00:06:48,120 --> 00:06:50,200
+sondern ein völlig pragmatisches Update.
+
+109
+00:06:50,200 --> 00:06:54,879
+Es gibt ein fantastisches Zitat des britischen Dichters John Betjeman, das in der Studie zitiert wird:
+
+110
+00:06:54,920 --> 00:07:00,360
+Unsere Nation gründet sich auf Demokratie und funktionierende Rohrleitungen – nichts könnte wahrer sein.
+
+111
+00:07:00,360 --> 00:07:05,240
+Eine echte Bindung an das System entwickelt sich nur, wenn man am eigenen Leib erfährt, dass es
+
+112
+00:07:05,240 --> 00:07:08,560
+greifbare und nützliche Ergebnisse für den Alltag liefert.
+
+113
+00:07:08,560 --> 00:07:14,719
+Und hier kommen wir zum sechsten und letzten Abschnitt, der Zukunft der Institutionen und den Schlussfolgerungen.
+
+114
+00:07:14,719 --> 00:07:20,800
+Verbindet man diese immense Datenmenge mit unserer Gegenwart, ist die daraus resultierende Botschaft kristallklar:
+
+115
+00:07:20,840 --> 00:07:25,439
+Die Demokratie nährt sich ausschließlich von ihren eigenen greifbaren Erfolgen.
+
+116
+00:07:25,439 --> 00:07:29,840
+Diese rigorose Forschung erzwingt eine tiefe und unausweichliche Reflexion.
+
+117
+00:07:29,840 --> 00:07:33,199
+Wenn globale Stabilität nicht von göttlichem Recht garantiert ist
+
+118
+00:07:33,199 --> 00:07:37,000
+und wenn Demokratien Extremismus und den autoritären Zusammenbruch nur dann vermeiden,
+
+119
+00:07:37,000 --> 00:07:40,240
+wenn sie Wachstum, Gerechtigkeit
+
+120
+00:07:40,240 --> 00:07:45,560
+und reale Dienstleistungen liefern können – wie werden wir die unvermeidlichen wirtschaftlichen Stürme des nächsten Jahrzehnts meistern?
+
+121
+00:07:45,560 --> 00:07:49,840
+Es ist eine grundlegende Provokation, die weit über die reine akademische Theorie hinausgeht
+
+122
+00:07:49,840 --> 00:07:53,640
+und direkt die praktischen Grundlagen unseres zivilen Zusammenlebens berührt.
+
+123
+00:07:53,640 --> 00:07:58,160
+Vielen Dank, dass Sie uns bei dieser visuellen Erklärung begleitet haben, und bis zur nächsten Erkundung.

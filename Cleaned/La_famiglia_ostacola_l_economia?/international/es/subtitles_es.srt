@@ -1,0 +1,579 @@
+1
+00:00:00,000 --> 00:00:04,980
+Hoy nos sumergimos en una investigación realmente increíble realizada por el economista Alberto
+
+2
+00:00:04,980 --> 00:00:06,560
+Alesina y por su equipo.
+
+3
+00:00:06,560 --> 00:00:11,419
+Es un análisis que revela un vínculo, por decir lo menos, inesperado entre el afecto familiar,
+
+4
+00:00:11,419 --> 00:00:15,759
+nuestros valores culturales más arraigados y las leyes del mercado laboral.
+
+5
+00:00:15,759 --> 00:00:20,960
+En definitiva, una perspectiva completamente nueva y decididamente fascinante para entender las
+
+6
+00:00:20,960 --> 00:00:23,160
+elecciones económicas de las naciones.
+
+7
+00:00:23,160 --> 00:00:28,519
+Comencemos de inmediato con una paradoja, un verdadero rompecabezas que desconcierta a los economistas
+
+8
+00:00:28,519 --> 00:00:29,519
+desde hace décadas.
+
+9
+00:00:29,679 --> 00:00:34,640
+Es un hecho que los mercados laborales rígidamente regulados tienden a generar
+
+10
+00:00:34,640 --> 00:00:39,679
+un desempleo más alto e ingresos promedio más bajos en comparación con los flexibles.
+
+11
+00:00:39,679 --> 00:00:41,039
+Y hasta aquí estamos de acuerdo.
+
+12
+00:00:41,039 --> 00:00:46,480
+Pero entonces, a pesar de esta evidente ineficiencia macroeconómica, ¿por qué sociedades enteras,
+
+13
+00:00:46,480 --> 00:00:51,200
+especialmente aquí en Europa, siguen votando con convicción para mantener estas rígidas
+
+14
+00:00:51,200 --> 00:00:53,519
+leyes de protección del empleo?
+
+15
+00:00:53,519 --> 00:00:55,920
+Parece casi un absurdo, ¿no creen?
+
+16
+00:00:56,000 --> 00:01:02,000
+Bien, entremos en el meollo del asunto y comparemos estos dos modelos económicos opuestos.
+
+17
+00:01:02,000 --> 00:01:07,760
+Por un lado, tenemos el mercado laboral flexible, un sistema que premia la eficiencia,
+
+18
+00:01:07,760 --> 00:01:11,359
+cierto, pero que requiere una altísima movilidad geográfica.
+
+19
+00:01:11,359 --> 00:01:15,760
+En la práctica, hay que estar siempre listo para hacer las maletas para perseguir las mejores
+
+20
+00:01:15,760 --> 00:01:18,960
+oportunidades, obteniendo a cambio ingresos más altos.
+
+21
+00:01:18,960 --> 00:01:21,920
+Por el otro lado, está el mercado laboral rígido.
+
+22
+00:01:22,000 --> 00:01:27,200
+Este modelo presume de altos salarios mínimos y protecciones muy fuertes contra los despidos,
+
+23
+00:01:27,200 --> 00:01:30,719
+permitiendo a los trabajadores quedarse exactamente donde nacieron.
+
+24
+00:01:30,719 --> 00:01:35,200
+El precio colectivo a pagar, sin embargo, es un desempleo estructural más alto
+
+25
+00:01:35,200 --> 00:01:37,439
+y salarios generales inferiores.
+
+26
+00:01:37,439 --> 00:01:42,799
+Así que el misterio permanece: ¿por qué se elegiría la opción que al final rinde menos?
+
+27
+00:01:42,799 --> 00:01:47,840
+Bueno, la respuesta se esconde en un culpable absolutamente insospechado:
+
+28
+00:01:47,840 --> 00:01:50,000
+la fuerza de los vínculos familiares.
+
+29
+00:01:50,079 --> 00:01:54,159
+Es casi curioso pensarlo, pero la costumbre de los hijos adultos de seguir viviendo bajo el mismo
+
+30
+00:01:54,159 --> 00:01:58,719
+techo que sus padres moldea, literalmente, la política económica de una nación.
+
+31
+00:01:58,719 --> 00:02:03,519
+Los datos de la World Values Survey hablan claro: el apego a la familia logra predecir,
+
+32
+00:02:03,519 --> 00:02:08,000
+con una precisión casi infalible, el tipo de mercado laboral que una determinada sociedad
+
+33
+00:02:08,000 --> 00:02:09,280
+terminará por adoptar.
+
+34
+00:02:09,280 --> 00:02:12,879
+Veamos exactamente cómo funciona esta reacción en cadena paso a paso.
+
+35
+00:02:12,879 --> 00:02:17,920
+Todo comienza en la fase 1, dentro de una cultura que da un valor inmenso a estar unidos en familia.
+
+36
+00:02:18,000 --> 00:02:21,360
+Esto lleva directamente a la fase 2: la inmovilidad geográfica.
+
+37
+00:02:21,360 --> 00:02:25,600
+Alejarse de los seres queridos tiene un costo emocional demasiado alto, una verdadera ruptura.
+
+38
+00:02:25,600 --> 00:02:29,440
+En consecuencia, cuando los trabajadores evitan trasladarse, se entra en la fase 3,
+
+39
+00:02:29,440 --> 00:02:32,800
+en la que las empresas locales adquieren un poder de mercado desproporcionado.
+
+40
+00:02:32,800 --> 00:02:37,040
+Y finalmente llegamos a la fase 4: para defenderse y equilibrar el gran poder de las empresas,
+
+41
+00:02:37,040 --> 00:02:41,760
+los ciudadanos acuden a las urnas y piden a gritos que el Estado intervenga para regular el trabajo.
+
+42
+00:02:41,760 --> 00:02:47,680
+Este fenómeno se traduce en un concepto que los economistas llaman poder de monopsonio.
+
+43
+00:02:47,760 --> 00:02:50,719
+Parece una palabra complicadísima, pero en realidad es sencilla.
+
+44
+00:02:50,719 --> 00:02:55,439
+Si en el monopolio hay un solo vendedor, en el monopsonio hay un solo comprador.
+
+45
+00:02:55,439 --> 00:03:00,159
+En este escenario, una empresa local se encuentra siendo el único comprador real del tiempo
+
+46
+00:03:00,159 --> 00:03:04,240
+y de las capacidades de trabajadores que, de hecho, no tienen intención de mudarse.
+
+47
+00:03:04,240 --> 00:03:08,319
+Es una especie de trampa; sabiendo muy bien que un empleado nunca haría
+
+48
+00:03:08,319 --> 00:03:10,560
+las maletas con tal de no abandonar a sus familiares,
+
+49
+00:03:10,560 --> 00:03:13,600
+la empresa puede permitirse imponer salarios muy bajos,
+
+50
+00:03:13,600 --> 00:03:16,960
+con la seguridad de que ese trabajador no irá a ninguna parte.
+
+51
+00:03:16,960 --> 00:03:19,360
+Y es aquí donde llega la verdadera revelación,
+
+52
+00:03:19,360 --> 00:03:22,159
+resumida en esta cita de los investigadores:
+
+53
+00:03:22,159 --> 00:03:26,080
+"Para limitar las rentas de las empresas y para evitar trasladarse,
+
+54
+00:03:26,080 --> 00:03:31,840
+los individuos con fuertes vínculos familiares eligen racionalmente mercados laborales regulados".
+
+55
+00:03:31,840 --> 00:03:34,000
+Exacto, racionalmente.
+
+56
+00:03:34,000 --> 00:03:37,200
+Pedir salarios mínimos garantizados o dificultar los despidos
+
+57
+00:03:37,200 --> 00:03:40,240
+no es en absoluto un síntomo de analfabetismo económico.
+
+58
+00:03:40,240 --> 00:03:44,400
+Al contrario, es un brillantísimo mecanismo de defensa absolutamente consciente
+
+59
+00:03:44,400 --> 00:03:47,439
+para neutralizar el chantaje del monopsonio empresarial,
+
+60
+00:03:47,439 --> 00:03:50,560
+logrando al mismo tiempo permanecer cerca de su propia familia.
+
+61
+00:03:50,560 --> 00:03:53,840
+Analizando los datos globales, las diferencias son abismales.
+
+62
+00:03:53,840 --> 00:03:56,000
+Tomemos las naciones de la Europa mediterránea,
+
+63
+00:03:56,000 --> 00:03:58,080
+culturas profundamente familistas,
+
+64
+00:03:58,080 --> 00:04:00,560
+donde irse de casa tarde es prácticamente la norma.
+
+65
+00:04:00,560 --> 00:04:03,439
+Allí, los niveles de regulación son altísimos.
+
+66
+00:04:03,439 --> 00:04:07,200
+Por el contrario, si miramos a los países anglosajones o a los nórdicos,
+
+67
+00:04:07,200 --> 00:04:11,520
+donde la independencia y la salida temprana del nido familiar son valores centrales,
+
+68
+00:04:11,520 --> 00:04:15,520
+encontramos índices de rigidez del mercado laboral drásticamente inferiores.
+
+69
+00:04:15,520 --> 00:04:17,519
+Ahora, alguien podría objetar:
+
+70
+00:04:17,519 --> 00:04:21,600
+¿pero cómo podemos estar seguros de que es realmente culpa de los valores culturales
+
+71
+00:04:21,600 --> 00:04:24,960
+y no quizás de la geografía o del gobierno de turno?
+
+72
+00:04:24,960 --> 00:04:28,960
+Para superar esta duda metodológica, los investigadores encontraron un grupo de control
+
+73
+00:04:28,960 --> 00:04:33,519
+perfecto e inatacable: los inmigrantes de segunda generación en los Estados Unidos.
+
+74
+00:04:33,519 --> 00:04:36,000
+Hablamos de personas nacidas y criadas en América,
+
+75
+00:04:36,000 --> 00:04:39,199
+que se mueven cada día en el mismo mercado idéntico,
+
+76
+00:04:39,199 --> 00:04:42,879
+sujetos a las mismas leyes federales y a las mismas instituciones.
+
+77
+00:04:42,879 --> 00:04:47,120
+Lo único que los distingue es el bagaje cultural heredado de sus padres.
+
+78
+00:04:47,120 --> 00:04:52,480
+Pues bien, trasladando estas complejas fórmulas econométricas a la realidad cotidiana,
+
+79
+00:04:52,480 --> 00:04:54,480
+los resultados son asombrosos.
+
+80
+00:04:54,480 --> 00:04:58,319
+Aunque estén inmersos en el mismo e idéntico mercado estadounidense,
+
+81
+00:04:58,319 --> 00:05:01,599
+es la cultura d'origine la que dicta las leyes sobre los destinos económicos.
+
+82
+00:05:01,599 --> 00:05:07,279
+Los inmigrantes provenientes de culturas con fuertes vínculos familiares tienden a no trasladarse por trabajo,
+
+83
+00:05:07,360 --> 00:05:10,160
+enfrentan tasas de desempleo claramente más altas
+
+84
+00:05:10,160 --> 00:05:13,680
+y terminan teniendo salarios más bajos en comparación con sus conciudadanos
+
+85
+00:05:13,680 --> 00:05:18,400
+que provienen de culturas donde la cohesión familiar se vive de manera menos vinculante.
+
+86
+00:05:18,400 --> 00:05:23,680
+Hay un número en particular que nos ayuda a visualizar el alcance de todo esto: el 7%.
+
+87
+00:05:23,680 --> 00:05:28,640
+Es el porcentaje exacto de caída de la movilidad geográfica entre los inmigrantes de segunda generación,
+
+88
+00:05:28,640 --> 00:05:34,160
+ante el aumento de una sola desviación estándar en la fuerza de los vínculos familiares del país de origen.
+
+89
+00:05:34,240 --> 00:05:40,320
+En definitiva, un apego invisible pero poderosísimo a las propias raíces ralentiza literal y físicamente
+
+90
+00:05:40,320 --> 00:05:42,960
+la búsqueda del mejor trabajo por todo el país.
+
+91
+00:05:42,960 --> 00:05:47,280
+Y lo más increíble quizás es que no solo se transmiten los resultados económicos,
+
+92
+00:05:47,280 --> 00:05:51,280
+sino que se hereda precisamente la demanda política de intervención estatal.
+
+93
+00:05:51,280 --> 00:05:56,960
+Las encuestas muestran que estos hijos de inmigrantes mantienen un deseo muy superior a la media
+
+94
+00:05:56,960 --> 00:05:58,960
+de tener un puesto de trabajo seguro.
+
+95
+00:05:58,960 --> 00:06:02,320
+Están a favor de los rescates estatales para las industrias en declive
+
+96
+00:06:02,319 --> 00:06:07,279
+y albergan una fe inquebrantable en que debe ser el gobierno quien regule los salarios.
+
+97
+00:06:07,279 --> 00:06:13,120
+En este punto surge espontáneo el más clásico de los dilemas, una verdadera cuestión filosófica.
+
+98
+00:06:13,120 --> 00:06:18,399
+¿Son las leyes y las instituciones estatales las que, con el tiempo, moldean la cultura de un pueblo,
+
+99
+00:06:18,399 --> 00:06:23,600
+o es la cultura profunda de una sociedad la que da forma a sus instituciones?
+
+100
+00:06:23,600 --> 00:06:28,719
+Lo que surge de estos estudios es la existencia de un verdadero ciclo de retroalimentación continua,
+
+101
+00:06:28,720 --> 00:06:32,560
+un círculo en el que la educación de los hijos y la estructura económica de la nación
+
+102
+00:06:32,560 --> 00:06:34,640
+se influyen mutuamente hasta el infinito.
+
+103
+00:06:34,640 --> 00:06:40,480
+Por tanto, el punto crucial es que las sociedades terminan coordinándose en dos vías paralelas,
+
+104
+00:06:40,480 --> 00:06:46,320
+dos modelos que se autoalimentan o, para usar un término técnico, dos equilibrios múltiples.
+
+105
+00:06:46,320 --> 00:06:51,280
+Con vínculos familiares débiles, se impone un mercado muy libre, un laissez-faire,
+
+106
+00:06:51,280 --> 00:06:53,600
+donde se predica la independencia absoluta.
+
+107
+00:06:53,680 --> 00:06:58,340
+Con vínculos fuertes, en cambio, el mercado se vuelve estructuralmente rígido y se enseña a los más
+
+108
+00:06:58,340 --> 00:07:04,160
+jóvenes a confiar en la red de protección de la familia; dos formas completamente diferentes de vivir.
+
+109
+00:07:04,160 --> 00:07:10,000
+Y para entender cuán poderosa es esta fuerza, debemos dar un largo salto hacia atrás en la historia.
+
+110
+00:07:10,000 --> 00:07:14,240
+Este estudio demuestra una persistencia en el tiempo, por decir lo menos, asombrosa.
+
+111
+00:07:14,240 --> 00:07:18,720
+Partamos de las estructuras familiares regionales, nacidas nada menos que en la Edad Media.
+
+112
+00:07:18,800 --> 00:07:23,920
+Pasemos por los valores puestos en la maleta por los emigrantes hacia América antes de la Segunda Guerra Mundial
+
+113
+00:07:23,920 --> 00:07:26,600
+y lleguemos directamente a nuestros días.
+
+114
+00:07:26,600 --> 00:07:32,040
+Sorprendentemente, los valores de épocas lejanas logran todavía predecir con exactitud cuánta
+
+115
+00:07:32,040 --> 00:07:34,400
+rigidez laboral exigimos hoy.
+
+116
+00:07:34,400 --> 00:07:41,080
+¿Quién habría dicho que los vínculos familiares de la Edad Media dictarían las reglas laborales del siglo XXI?
+
+117
+00:07:41,080 --> 00:07:45,920
+Es exactamente así: las clasificaciones del historiador Emmanuel Todd nos muestran que las antiguas
+
+118
+00:07:45,920 --> 00:07:52,120
+familias nucleares e independientes dejaron como herencia una preferencia por mercados superflexibles.
+
+119
+00:07:52,120 --> 00:07:57,920
+Al contrario, la familia medieval de tipo comunitario, típicamente autoritaria, en la que hijos,
+
+120
+00:07:57,920 --> 00:08:01,720
+esposas y nietos seguían viviendo todos bajo el techo del patriarca,
+
+121
+00:08:01,720 --> 00:08:06,319
+pues bien, se refleja hoy en una ciudadanía que exige al Estado una protección férrea.
+
+122
+00:08:06,319 --> 00:08:10,720
+Y hay una estadística increíble para confirmarlo: un enorme 19%.
+
+123
+00:08:10,720 --> 00:08:17,920
+Hoy, las personas que viven en regiones que hace siglos estaban dominadas por esas dinámicas familiares autoritarias y comunitarias
+
+124
+00:08:17,920 --> 00:08:24,320
+tienen una probabilidad un 19% mayor de exigir que el gobierno intervenga para proteger los puestos de trabajo.
+
+125
+00:08:24,320 --> 00:08:30,920
+Es casi como si el fantasma del antiguo patriarca estuviera allí, invisible, guiando la mano del votante contemporáneo.
+
+126
+00:08:30,920 --> 00:08:34,519
+Haciendo balance de todo este increíble análisis imparcial,
+
+127
+00:08:34,519 --> 00:08:38,720
+las leyes laborales hunden sus raíces en un terreno cultural muy profundo.
+
+128
+00:08:38,720 --> 00:08:42,320
+Cuando el apego a la familia genera inmovilidad geográfica,
+
+129
+00:08:42,320 --> 00:08:45,920
+las empresas ganan automáticamente un enorme poder de monopsonio.
+
+130
+00:08:45,920 --> 00:08:49,920
+En consecuencia, pedir la intervención del Estado no es un desliz ilógico,
+
+131
+00:08:49,920 --> 00:08:53,320
+sino una defensa hiperracional para proteger la unidad de los afectos.
+
+132
+00:08:53,320 --> 00:08:58,120
+En definitiva, lo que en los libros de economía se despacha fríamente como ineficiencia,
+
+133
+00:08:58,120 --> 00:09:01,120
+en la realidad es a menudo un compromiso social muy preciso,
+
+134
+00:09:01,120 --> 00:09:03,320
+elegido de manera totalmente consciente.
+
+135
+00:09:03,320 --> 00:09:07,320
+Lo que nos deja con un interrogante final muy, muy profundo,
+
+136
+00:09:07,320 --> 00:09:09,920
+que va mucho más allá de los meros cálculos económicos.
+
+137
+00:09:09,920 --> 00:09:13,120
+Considerando todo esto, ¿maximizar a toda costa
+
+138
+00:09:13,120 --> 00:09:16,120
+la eficiencia económica absoluta y la flexibilidad
+
+139
+00:09:16,120 --> 00:09:20,120
+vale realmente el precio de tener una familia geográficamente fragmentada?
+
+140
+00:09:20,120 --> 00:09:24,520
+En el fondo, cada sociedad toma continuamente esta decisión silenciosa:
+
+141
+00:09:24,520 --> 00:09:28,320
+optimizar la riqueza pura o proteger la cercanía de los vínculos.
+
+142
+00:09:28,320 --> 00:09:30,520
+Es un gigantesco compromiso invisible
+
+143
+00:09:30,520 --> 00:09:34,320
+que cada día moldea el mundo en el que todos vivimos y trabajamos.
+
+144
+00:09:34,320 --> 00:09:35,720
+¿Cuál es el camino correcto?
+
+145
+00:09:35,720 --> 00:09:38,120
+Es sin duda un buen punto de reflexión.

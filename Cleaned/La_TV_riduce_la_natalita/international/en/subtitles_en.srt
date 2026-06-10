@@ -1,0 +1,423 @@
+1
+00:00:00,000 --> 00:00:01,520
+So, here we are.
+
+2
+00:00:01,520 --> 00:00:07,520
+Today we are acting a bit like academic investigators, because we have a sociological mystery on our hands
+
+3
+00:00:07,520 --> 00:00:08,519
+that is truly crazy.
+
+4
+00:00:08,519 --> 00:00:11,679
+The title of our analysis is clear.
+
+5
+00:00:11,679 --> 00:00:15,880
+TV reduces the birth rate, the impact of telenovelas in Brazil.
+
+6
+00:00:15,880 --> 00:00:19,719
+Think about it for a second, it almost sounds like a provocation, right?
+
+7
+00:00:19,719 --> 00:00:24,740
+I mean, how can a simple TV series profoundly alter the demographics of an
+
+8
+00:00:24,740 --> 00:00:25,740
+entire country?
+
+9
+00:00:25,740 --> 00:00:31,520
+And yet, the data we are about to sift through will literally flip your perspective
+
+10
+00:00:31,520 --> 00:00:33,000
+on the impact of media.
+
+11
+00:00:33,000 --> 00:00:35,160
+Okay, let's get straight into it.
+
+12
+00:00:35,160 --> 00:00:40,219
+The real question here is how a soap opera, created purely to switch off and
+
+13
+00:00:40,219 --> 00:00:44,620
+relax in the evening, was able to redefine the structure of families in a nation as huge
+
+14
+00:00:44,620 --> 00:00:45,900
+and complex as Brazil.
+
+15
+00:00:45,900 --> 00:00:50,900
+And, mind you, we are not talking about boring educational documentaries or massive
+
+16
+00:00:50,900 --> 00:00:53,060
+government campaigns on family planning.
+
+17
+00:00:53,060 --> 00:00:55,300
+No, we are talking about pure fiction.
+
+18
+00:00:55,300 --> 00:00:59,740
+Those tear-jerking stories broadcast at dinner time, it seems completely impossible,
+
+19
+00:00:59,740 --> 00:01:03,220
+right, and yet reality has surpassed fantasy.
+
+20
+00:01:03,220 --> 00:01:08,980
+First point, the birth rate mystery and the rigorous 2012 economic study.
+
+21
+00:01:08,980 --> 00:01:14,620
+So, to understand something, we must rely on a phenomenal study published in the American
+
+22
+00:01:14,620 --> 00:01:20,860
+Economic Journal by three researchers, Eliana La Ferrara, Alberto Chong, and Suzanne Duryea who
+
+23
+00:01:20,860 --> 00:01:22,620
+did a meticulous job.
+
+24
+00:01:22,620 --> 00:01:24,620
+What was their magnifying glass?
+
+25
+00:01:24,620 --> 00:01:29,579
+The very popular novelas produced by Rede Globo, which in Brazil is a true giant
+
+26
+00:01:29,579 --> 00:01:30,579
+of TV.
+
+27
+00:01:30,579 --> 00:01:34,900
+Now, these soap operas didn't stage family dynamics at random, absolutely
+
+28
+00:01:34,900 --> 00:01:35,900
+not.
+
+29
+00:01:35,900 --> 00:01:40,200
+They almost always portrayed small families, often very wealthy, perhaps with one or at
+
+30
+00:01:40,200 --> 00:01:41,540
+most two children.
+
+31
+00:01:41,540 --> 00:01:47,100
+In short, they opened a daily window onto a super-modern and emancipated lifestyle,
+
+32
+00:01:47,100 --> 00:01:51,700
+which, however, clashed loudly with the traditional and much larger reality
+
+33
+00:01:51,700 --> 00:01:54,420
+of most Brazilian families at that time.
+
+34
+00:01:54,420 --> 00:01:55,420
+2.
+
+35
+00:01:55,420 --> 00:02:00,939
+The expansion of Rede Globo, historically tracing the coverage of the television signal.
+
+36
+00:02:00,939 --> 00:02:05,700
+Now, the truly fascinating thing is how they managed to prove all this.
+
+37
+00:02:05,700 --> 00:02:11,500
+To prove that TV was actually causing a real demographic change, the researchers
+
+38
+00:02:11,500 --> 00:02:16,580
+took a leap back in time, they mapped, year after year, the advance of the
+
+39
+00:02:16,580 --> 00:02:17,580
+television network.
+
+40
+00:02:17,580 --> 00:02:22,539
+Because Rede Globo didn't just cover the immense Brazilian territory overnight,
+
+41
+00:02:22,539 --> 00:02:24,699
+it happened patchily.
+
+42
+00:02:24,699 --> 00:02:29,379
+On one hand, there were areas lit up by the signal almost immediately, on the other, areas that remained
+
+43
+00:02:29,379 --> 00:02:31,899
+practically in the dark for a decade or more.
+
+44
+00:02:31,899 --> 00:02:33,099
+And you know what?
+
+45
+00:02:33,099 --> 00:02:37,340
+This huge time difference served them on a silver platter an absolutely
+
+46
+00:02:37,340 --> 00:02:39,939
+impeccable natural experiment.
+
+47
+00:02:39,939 --> 00:02:45,979
+We come to point 3, the methodology of the study, that is, establishing in an irrefutable way
+
+48
+00:02:45,979 --> 00:02:47,379
+causality.
+
+49
+00:02:47,379 --> 00:02:52,579
+This brilliant idea of using the timeline allowed scholars to rule out
+
+50
+00:02:52,579 --> 00:02:57,299
+from the start what in academic jargon is called selection bias.
+
+51
+00:02:57,299 --> 00:03:02,620
+In practice, they proved that it wasn't the broadcaster cleverly choosing to transmit
+
+52
+00:03:02,620 --> 00:03:07,819
+in big cities where women were already having fewer children, but exactly the opposite,
+
+53
+00:03:07,819 --> 00:03:10,699
+the logical sequence is surgical in three steps.
+
+54
+00:03:10,699 --> 00:03:14,139
+First, the Globo network enters a new local market.
+
+55
+00:03:14,140 --> 00:03:19,300
+Second, boom, suddenly living rooms fill with novela dramas.
+
+56
+00:03:19,300 --> 00:03:24,740
+Third, in the period immediately following, the fertility choices of that
+
+57
+00:03:24,740 --> 00:03:25,740
+specific area are measured.
+
+58
+00:03:25,740 --> 00:03:30,700
+By lining up these historical events, television is literally framed
+
+59
+00:03:30,700 --> 00:03:33,220
+as the only true trigger.
+
+60
+00:03:33,220 --> 00:03:39,180
+Point 4, the demographic results, the data revealed by the investigation.
+
+61
+00:03:39,180 --> 00:03:41,420
+So the crucial point is this.
+
+62
+00:03:41,420 --> 00:03:46,340
+Once the TV effect was isolated, the results are truly jaw-dropping.
+
+63
+00:03:46,340 --> 00:03:51,100
+In the areas covered by the Globo signal, entertainment was literally slowing down
+
+64
+00:03:51,100 --> 00:03:52,100
+births.
+
+65
+00:03:52,100 --> 00:03:55,180
+But careful, it didn't affect everyone in the same way.
+
+66
+00:03:55,180 --> 00:04:00,260
+The reduction in births proved to be significantly stronger, much more marked, among
+
+67
+00:04:00,260 --> 00:04:02,820
+women of lower socio-economic status.
+
+68
+00:04:02,820 --> 00:04:07,820
+Think about it, for the less affluent groups, that polished lifestyle they saw on TV
+
+69
+00:04:07,819 --> 00:04:12,579
+was a powerful aspirational model, and in trying to pursue it they radically modified
+
+70
+00:04:12,579 --> 00:04:15,979
+their own family choices, incredible.
+
+71
+00:04:15,979 --> 00:04:21,139
+But to understand exactly the mechanics of this transformation, we must introduce a
+
+72
+00:04:21,139 --> 00:04:27,300
+key concept in demography, stopping behavior, if you prefer
+
+73
+00:04:27,300 --> 00:04:28,300
+the English term.
+
+74
+00:04:28,300 --> 00:04:31,300
+Researchers noticed something super interesting.
+
+75
+00:04:31,300 --> 00:04:35,939
+Watching novelas didn't push young women at all to postpone their first child.
+
+76
+00:04:35,939 --> 00:04:41,819
+The real impact, the heavy one, comes later in the middle and final stages of the reproductive cycle.
+
+77
+00:04:41,819 --> 00:04:47,219
+Women simply decided to stop sooner, they chose not to have a third,
+
+78
+00:04:47,219 --> 00:04:52,180
+fourth, or maybe fifth child; they aligned themselves almost without realizing it with the modern
+
+79
+00:04:52,180 --> 00:04:55,060
+little family that kept them company on the screen every night.
+
+80
+00:04:55,060 --> 00:05:02,819
+And now the highlight, point 5, the proof of names, the definitive and irrefutable evidence.
+
+81
+00:05:02,819 --> 00:05:08,540
+At this point, you might rightly say to me, sorry, but how can you be 100% sure
+
+82
+00:05:08,540 --> 00:05:13,779
+that the cause is exactly the content of the novelas and not, say, the spread of news programs
+
+83
+00:05:13,779 --> 00:05:14,779
+on the same network.
+
+84
+00:05:14,779 --> 00:05:20,899
+And here, my friends, comes the smoking gun; sifting through the birth records of those years,
+
+85
+00:05:20,899 --> 00:05:26,420
+researchers found anomalous, almost absurd peaks of babies named exactly
+
+86
+00:05:26,420 --> 00:05:31,339
+after the protagonists of the soap operas airing in those months, something crazy.
+
+87
+00:05:31,340 --> 00:05:35,540
+This demonstrates a level of deep and visceral emotional involvement.
+
+88
+00:05:35,540 --> 00:05:40,500
+The audience didn't just keep the TV on as background noise, they actively absorbed
+
+89
+00:05:40,500 --> 00:05:42,940
+the culture, the models, the narratives.
+
+90
+00:05:42,940 --> 00:05:47,980
+There's a sentence in the study's abstract that summarizes everything perfectly.
+
+91
+00:05:47,980 --> 00:05:54,220
+Listen carefully: we provide evidence that novelas, and not just television, influenced
+
+92
+00:05:54,220 --> 00:05:55,220
+individual choices.
+
+93
+00:05:55,220 --> 00:06:00,420
+It is a crucial distinction: it wasn't the piece of plastic and electronics that changed
+
+94
+00:06:00,420 --> 00:06:05,780
+Brazil, it was the emotional content, the pure power of a well-told story
+
+95
+00:06:05,780 --> 00:06:10,939
+that promoted new social norms, it snuck into minds and guided, in the intimacy
+
+96
+00:06:10,939 --> 00:06:14,180
+of homes, the family planning of millions of people.
+
+97
+00:06:14,180 --> 00:06:18,620
+And all this leads us to a single powerful truth.
+
+98
+00:06:18,620 --> 00:06:23,780
+A single medium of entertainment managed to reshape the very framework of a
+
+99
+00:06:23,780 --> 00:06:24,780
+society.
+
+100
+00:06:24,780 --> 00:06:29,980
+Stories invented in the evening literally lowered real birth rates.
+
+101
+00:06:29,980 --> 00:06:32,580
+I leave you with a big final reflection.
+
+102
+00:06:32,580 --> 00:06:38,460
+If a simple and somewhat naive soap opera from the 80s or 90s had the power to change
+
+103
+00:06:38,460 --> 00:06:43,860
+how many lives were born in a country, in what way are the hyper-personalized and infinite contents
+
+104
+00:06:43,860 --> 00:06:48,540
+that we scroll through today on our smartphones secretly shaping our decisions
+
+105
+00:06:48,540 --> 00:06:50,060
+and the society of tomorrow?
+
+106
+00:06:50,060 --> 00:06:53,060
+Think about it, and we'll talk at the next analysis.

@@ -1,0 +1,759 @@
+1
+00:00:00,000 --> 00:00:02,720
+Does deporting migrants reduce crime?
+
+2
+00:00:02,720 --> 00:00:07,160
+Welcome to this new in-depth analysis, where we will explore one of the most heated
+
+3
+00:00:07,160 --> 00:00:12,160
+and debated issues of all time, and we will do it in a slightly different way than usual, completely putting
+
+4
+00:00:12,160 --> 00:00:17,359
+aside personal opinions and politics to rely exclusively on pure economic data.
+
+5
+00:00:17,359 --> 00:00:22,760
+We will analyze together a truly fascinating paper by economist Paolo Pinotti, titled "Immigration
+
+6
+00:00:22,760 --> 00:00:25,960
+Enforcement and Crime," published in the American Economic Review.
+
+7
+00:00:25,960 --> 00:00:31,280
+The goal here is to answer an extremely complex question in an entirely objective way.
+
+8
+00:00:31,280 --> 00:00:36,719
+Do stricter deportation policies really have a real impact on crime rates?
+
+9
+00:00:36,719 --> 00:00:38,399
+Let's dive right in.
+
+10
+00:00:38,399 --> 00:00:42,200
+Today we will structure our investigation into six quick steps.
+
+11
+00:00:42,200 --> 00:00:47,240
+We will start by trying to understand what the deportation dilemma is, and then delve into the
+
+12
+00:00:47,240 --> 00:00:50,359
+Italian quota system and the role of international agreements.
+
+13
+00:00:50,359 --> 00:00:54,240
+After that, we will look at the ingenious experiment of the so-called "click days,"
+
+14
+00:00:54,240 --> 00:00:59,719
+we will analyze the real data on crime, and finally, we will draw conclusions for policy.
+
+15
+00:00:59,719 --> 00:01:02,880
+Point number one: the deportation dilemma.
+
+16
+00:01:02,880 --> 00:01:06,920
+In short, what is the mystery that economists find themselves facing?
+
+17
+00:01:06,920 --> 00:01:12,120
+To untangle this knot, we must familiarize ourselves with a key concept in economics:
+
+18
+00:01:12,120 --> 00:01:14,079
+opportunity cost.
+
+19
+00:01:14,079 --> 00:01:17,760
+Imagine the situation of someone who finds themselves in a country without documents:
+
+20
+00:01:17,760 --> 00:01:20,120
+being unable to work in the official sector,
+
+21
+00:01:20,120 --> 00:01:23,840
+the opportunities to generate a legal income drop drastically.
+
+22
+00:01:23,840 --> 00:01:27,600
+Consequently, the cost of risking a criminal activity, calculated
+
+23
+00:01:27,600 --> 00:01:31,040
+in terms of legal job opportunities lost in the event of arrest,
+
+24
+00:01:31,040 --> 00:01:34,920
+is much, much lower compared to those who have regular status.
+
+25
+00:01:34,920 --> 00:01:39,040
+And, as the data confirms, limited access to the official economy
+
+26
+00:01:39,040 --> 00:01:41,840
+inevitably increases the appeal of crime.
+
+27
+00:01:41,840 --> 00:01:43,840
+And here, the dilemma arises.
+
+28
+00:01:43,840 --> 00:01:48,000
+What really happens if a country tightens deportations?
+
+29
+00:01:48,000 --> 00:01:51,600
+On one hand, we have the so-called incapacitation effect.
+
+30
+00:01:51,640 --> 00:01:55,680
+If you physically deport a person, you obviously reduce to zero their possibility
+
+31
+00:01:55,680 --> 00:01:58,160
+of committing crimes in that territory.
+
+32
+00:01:58,160 --> 00:01:59,440
+But on the other hand?
+
+33
+00:01:59,440 --> 00:02:03,520
+Well, a very rigid enforcement of deportations drastically reduces
+
+34
+00:02:03,520 --> 00:02:06,720
+the expected utility and stability for those irregular migrants
+
+35
+00:02:06,720 --> 00:02:10,000
+who are not or cannot be deported.
+
+36
+00:02:10,000 --> 00:02:11,920
+If they know they could be kicked out tomorrow,
+
+37
+00:02:11,920 --> 00:02:14,080
+the incentive to integrate vanishes
+
+38
+00:02:14,080 --> 00:02:17,920
+and the famous opportunity cost we were talking about drops even further.
+
+39
+00:02:17,920 --> 00:02:19,200
+The big question is,
+
+40
+00:02:19,200 --> 00:02:22,080
+in reality, which of these two forces wins?
+
+41
+00:02:22,080 --> 00:02:23,760
+Let's move on to the second point.
+
+42
+00:02:23,760 --> 00:02:27,840
+The Italian quota system. To answer that big question,
+
+43
+00:02:27,840 --> 00:02:31,760
+our study uses a natural laboratory that is perfectly suited:
+
+44
+00:02:31,760 --> 00:02:32,960
+Italy.
+
+45
+00:02:32,960 --> 00:02:37,280
+Historically, Italian migration policy has relied on a system of annual quotas.
+
+46
+00:02:37,280 --> 00:02:41,040
+But the interesting thing is the total disconnection between what the law says
+
+47
+00:02:41,040 --> 00:02:42,960
+and what happens in practice.
+
+48
+00:02:42,960 --> 00:02:45,760
+In theory, an employer should hire a foreign worker
+
+49
+00:02:45,760 --> 00:02:48,320
+even before they set foot in the country.
+
+50
+00:02:48,400 --> 00:02:49,359
+But let's be honest.
+
+51
+00:02:49,359 --> 00:02:52,159
+Who would ever hire someone without ever having seen them?
+
+52
+00:02:52,159 --> 00:02:54,000
+So, the typical process is different.
+
+53
+00:02:54,000 --> 00:02:55,680
+They enter Italy unofficially,
+
+54
+00:02:55,680 --> 00:02:58,959
+perhaps simply by letting a completely normal tourist visa expire.
+
+55
+00:02:58,959 --> 00:03:00,319
+Then they start working under the table,
+
+56
+00:03:00,319 --> 00:03:03,759
+hoping one day to find an employer willing to sponsor them,
+
+57
+00:03:03,759 --> 00:03:06,639
+right when the government quotas are opened.
+
+58
+00:03:06,639 --> 00:03:11,439
+In this limbo, the risk on paper is immediate deportation,
+
+59
+00:03:11,439 --> 00:03:14,000
+but the reality is much more complicated,
+
+60
+00:03:14,000 --> 00:03:17,840
+and physically deporting a person costs the state a lot.
+
+61
+00:03:17,840 --> 00:03:22,479
+In addition, those who are stopped very often do not have valid identity documents with them.
+
+62
+00:03:22,479 --> 00:03:25,840
+And as if that weren't enough, countries of origin often
+
+63
+00:03:25,840 --> 00:02:29,680
+oppose repatriation if there is no absolute certainty of nationality.
+
+64
+00:02:29,680 --> 00:03:32,879
+The final result of this short circuit is a paradox.
+
+65
+00:03:32,879 --> 00:03:36,240
+In the vast majority of cases, there is no actual return flight,
+
+66
+00:03:36,240 --> 00:03:39,360
+but a written injunction is simply delivered,
+
+67
+00:03:39,360 --> 00:03:42,719
+the famous expulsion order, which dictates leaving the country,
+
+68
+00:03:42,719 --> 00:03:45,920
+a piece of paper that, in fact, remains unenforced.
+
+69
+00:03:46,000 --> 00:03:49,680
+And here we are, at the third point: the role of agreements.
+
+70
+00:03:49,680 --> 00:03:53,360
+There is indeed a vital exception to this rule of inefficiency,
+
+71
+00:03:53,360 --> 00:03:57,600
+and it is exactly the piece of the puzzle that allows the paper to work its magic.
+
+72
+00:03:57,600 --> 00:04:01,040
+The trick lies entirely in the bilateral agreements between Italy
+
+73
+00:04:01,040 --> 00:04:05,360
+and certain specific countries of origin, created to control undocumented flows.
+
+74
+00:04:05,360 --> 00:04:09,600
+Just think, the very first one was signed with Poland in 1994.
+
+75
+00:04:09,600 --> 00:04:13,040
+Looking at the data in the table extracted from the study, it is clear.
+
+76
+00:04:13,039 --> 00:04:14,959
+If there is a bilateral agreement,
+
+77
+00:04:14,959 --> 00:04:19,519
+the actual execution of deportation undergoes a statistically massive increase,
+
+78
+00:04:19,519 --> 00:04:21,599
+even after adjusting the data for other variables,
+
+79
+00:04:21,599 --> 00:04:24,719
+such as geographical distance or the volume of arrests.
+
+80
+00:04:24,719 --> 00:04:28,399
+Let's put it in simpler terms, with some percentages:
+
+81
+00:04:28,399 --> 00:04:30,000
+without an agreement between states,
+
+82
+00:04:30,000 --> 00:04:34,639
+on average, only 25% of stopped people are actually repatriated.
+
+83
+00:04:34,639 --> 00:04:38,800
+But if the agreement exists, the percentage jumps to 41%.
+
+84
+00:04:38,800 --> 00:04:41,680
+This difference is pure gold for an economist,
+
+85
+00:04:41,680 --> 00:04:44,800
+because it creates two perfect natural groups to compare:
+
+86
+00:04:44,800 --> 00:04:47,920
+on one hand, irregular migrants with a low risk of deportation,
+
+87
+00:04:47,920 --> 00:04:52,400
+on the other hand, irregular migrants with a much higher and concrete risk of deportation.
+
+88
+00:04:52,400 --> 00:04:54,400
+Fourth fundamental step:
+
+89
+00:04:54,400 --> 00:04:56,199
+the "click day" experiment.
+
+90
+00:04:56,199 --> 00:04:57,639
+Now that we have our two groups,
+
+91
+00:04:57,639 --> 00:05:02,759
+how do we measure whether this high risk of deportation fosters or deters crime?
+
+92
+00:05:02,759 --> 00:05:05,960
+It is the classic challenge for those who study these issues:
+
+93
+00:05:05,960 --> 00:05:07,759
+isolating the variable.
+
+94
+00:05:07,759 --> 00:05:11,120
+How can we assert with scientific certainty
+
+95
+00:05:11,160 --> 00:05:15,199
+that it is precisely the lack of legal status that pushes someone toward crime
+
+96
+00:05:15,199 --> 00:05:20,040
+and not perhaps other differences in background, education, or social conditions?
+
+97
+00:05:20,040 --> 00:05:21,840
+A brilliant idea was needed.
+
+98
+00:05:21,840 --> 00:05:24,319
+And Pinotti found that brilliant idea,
+
+99
+00:05:24,319 --> 00:05:28,240
+by exploiting the notorious Italian "click day" mechanism.
+
+100
+00:05:28,240 --> 00:05:29,720
+Imagine the scene.
+
+101
+00:05:29,720 --> 00:05:33,560
+Residence permits, up for grabs through an online portal
+
+102
+00:05:33,560 --> 00:05:36,560
+that opened its doors at exactly 8:00 AM.
+
+103
+00:05:36,560 --> 00:05:40,480
+An actual, instantaneous digital bottleneck was created.
+
+104
+00:05:40,600 --> 00:05:43,759
+Applications were processed by the servers to the millisecond
+
+105
+00:05:43,759 --> 00:05:46,920
+in a strict order of arrival, from first to last,
+
+106
+00:05:46,920 --> 00:05:51,400
+stopping abruptly as soon as the annual quota set by the government was exhausted.
+
+107
+00:05:51,400 --> 00:05:55,879
+Pinotti examined the entire universe of male applicants in 2008,
+
+108
+00:05:55,879 --> 00:05:58,280
+something like 110,000 applications,
+
+109
+00:05:58,280 --> 00:06:00,600
+but the real stroke of genius was this.
+
+110
+00:06:00,600 --> 00:06:03,480
+He focused only on those who clicked "send"
+
+111
+00:06:03,480 --> 00:06:07,480
+in a very narrow one-hour window around the exact cutoff time,
+
+112
+00:06:07,480 --> 00:06:09,080
+when the quotas ran out.
+
+113
+00:06:09,199 --> 00:06:12,079
+In those hectic minutes, with slowed-down servers,
+
+114
+00:06:12,079 --> 00:06:17,519
+managing to get in before or after the limit was literally a lottery, pure chance.
+
+115
+00:06:17,519 --> 00:06:21,479
+You have two completely identical people clicking at almost the same instant:
+
+116
+00:06:21,479 --> 00:06:23,399
+one becomes legal, the other does not.
+
+117
+00:06:23,399 --> 00:06:27,159
+By anonymously cross-referencing this sample with criminal records,
+
+118
+00:06:27,159 --> 00:06:31,759
+we obtain very clean data, entirely free of statistical distortions.
+
+119
+00:06:31,759 --> 00:06:33,680
+Fifth item on the agenda.
+
+120
+00:06:33,680 --> 00:06:35,680
+Crime data.
+
+121
+00:06:35,959 --> 00:06:37,000
+What emerged,
+
+122
+00:06:37,000 --> 00:06:39,639
+then, from this unrepeatable experiment?
+
+123
+00:06:39,639 --> 00:06:42,480
+The very first data point is glaring:
+
+124
+00:06:42,480 --> 00:06:45,840
+irregular status in itself generates crime.
+
+125
+00:06:45,840 --> 00:06:48,879
+Receiving a rejection and remaining outside the quotas
+
+126
+00:06:48,879 --> 00:06:52,040
+increases the probability of committing a serious crime
+
+127
+00:06:52,040 --> 00:06:55,280
+in the following year by 0.6%.
+
+128
+00:06:55,280 --> 00:06:57,280
+It may seem like a little, but beware:
+
+129
+00:06:57,280 --> 00:07:01,560
+this calculation is based on a baseline rate of just 0.9%.
+
+130
+00:07:01,560 --> 00:07:04,720
+In short, the numbers confirm the initial theory:
+
+131
+00:07:04,880 --> 00:07:07,040
+by shutting people out of legal pathways,
+
+132
+00:07:07,040 --> 00:07:10,400
+they are inevitably pushed toward illegal channels.
+
+133
+00:07:10,400 --> 00:07:12,200
+And here is the twist.
+
+134
+00:07:12,200 --> 00:07:14,120
+This increase is not the same for everyone.
+
+135
+00:07:14,120 --> 00:07:15,760
+Remember the two groups from earlier?
+
+136
+00:07:15,760 --> 00:07:16,480
+Well,
+
+137
+00:07:16,480 --> 00:07:18,840
+for those coming from countries with strong bilateral agreements,
+
+138
+00:07:18,840 --> 00:07:21,960
+where the risk of being caught and put on a plane is real,
+
+139
+00:07:21,960 --> 00:07:24,800
+the probability of turning to crime due to irregular status
+
+140
+00:07:24,800 --> 00:07:27,680
+grows by only 0.3%.
+
+141
+00:07:27,680 --> 00:07:29,360
+On the other hand, for those coming from countries
+
+142
+00:07:29,360 --> 00:07:30,400
+without agreements, where
+
+143
+00:07:30,400 --> 00:07:33,200
+they know very well that deportations are just talk on paper,
+
+144
+00:07:33,199 --> 00:07:36,560
+the increase in crime shoots up to 0.8%.
+
+145
+00:07:36,560 --> 00:07:42,319
+This result finally resolves the big economic dilemma we started with.
+
+146
+00:07:42,319 --> 00:07:43,759
+What do the numbers tell us?
+
+147
+00:07:43,759 --> 00:07:46,759
+They tell us that strictly enforcing deportations
+
+148
+00:07:46,759 --> 00:07:50,319
+does not trigger a wave of crime caused by the desperation
+
+149
+00:07:50,319 --> 00:07:52,360
+of those who slip through the cracks of justice.
+
+150
+00:07:52,360 --> 00:07:53,279
+On the contrary,
+
+151
+00:07:53,279 --> 00:07:56,279
+the incapacitation effect wins hands down.
+
+152
+00:07:56,279 --> 00:07:58,919
+Physically removing individuals from the territory
+
+153
+00:07:58,919 --> 00:08:00,560
+prevents far more crimes
+
+154
+00:08:00,560 --> 00:08:04,720
+than the drop in opportunity cost for those who remain can generate.
+
+155
+00:08:04,720 --> 00:08:06,319
+It is one of those revelations
+
+156
+00:08:06,319 --> 00:08:09,720
+that completely change the lens through which we should judge
+
+157
+00:08:09,720 --> 00:08:12,959
+the real impact of laws in our society.
+
+158
+00:08:12,959 --> 00:08:14,840
+Sixth and final point:
+
+159
+00:08:14,840 --> 00:08:16,840
+conclusions for policy.
+
+160
+00:08:16,840 --> 00:08:19,439
+Faced with such a clear empirical picture,
+
+161
+00:08:19,439 --> 00:08:21,240
+what should governments do?
+
+162
+00:08:21,240 --> 00:08:25,079
+The author leaves us with extremely pragmatic guidelines.
+
+163
+00:08:25,079 --> 00:08:30,040
+The economist's suggestion does not favor any political faction.
+
+164
+00:08:30,080 --> 00:08:31,600
+It simply says this:
+
+165
+00:08:31,600 --> 00:08:34,120
+once the state decides on a quota system,
+
+166
+00:08:34,120 --> 00:08:38,600
+it must enforce it with extreme rigor, cost what it may.
+
+167
+00:08:38,600 --> 00:08:40,320
+But—and it's a huge "but"—
+
+168
+00:08:40,320 --> 00:08:44,279
+if the state realizes that enforcing these deportations is technically
+
+169
+00:08:44,279 --> 00:08:46,960
+or economically impossible,
+
+170
+00:08:46,960 --> 00:08:51,399
+the only true rational way out is to proceed with regularizations.
+
+171
+00:08:51,399 --> 00:08:53,399
+The fatal mistake, in both cases,
+
+172
+00:08:53,399 --> 00:08:54,639
+is to turn a blind eye
+
+173
+00:08:54,639 --> 00:08:58,399
+and leave thousands of people parked in a dead end.
+
+174
+00:08:58,439 --> 00:09:02,720
+This idea is perfectly captured in this quote from the study:
+
+175
+00:09:02,720 --> 00:09:06,319
+"Governments and migration authorities should avoid the formation
+
+176
+00:09:06,319 --> 00:09:08,639
+of large pools of unauthorized immigrants,
+
+177
+00:09:08,639 --> 00:09:11,399
+with a low opportunity cost of committing crimes."
+
+178
+00:09:11,399 --> 00:09:13,799
+At the end of the day, it is not a matter of ideology,
+
+179
+00:09:13,799 --> 00:09:17,519
+it is a pure and simple matter of economic incentives and social stability.
+
+180
+00:09:17,519 --> 00:09:20,759
+All this analysis brings us to a broader reflection:
+
+181
+00:09:20,759 --> 00:09:25,360
+finding the balance between raw economic incentives and the laws of the state.
+
+182
+00:09:25,399 --> 00:09:28,800
+This is the true great challenge for modern nations.
+
+183
+00:09:28,800 --> 00:09:32,560
+How can we balance, once and for all, these economic realities
+
+184
+00:09:32,560 --> 00:09:34,159
+and collective security,
+
+185
+00:09:34,159 --> 00:09:37,960
+knowing that gray areas only bring negative consequences?
+
+186
+00:09:37,960 --> 00:09:41,320
+It is a crucial question that this purely objective approach
+
+187
+00:09:41,320 --> 00:09:44,440
+fortunately forces us to look straight in the face,
+
+188
+00:09:44,440 --> 00:09:46,000
+well beyond the slogans.
+
+189
+00:09:46,000 --> 00:09:48,840
+We will stop here, but the invitation is open for you to delve deeper.
+
+190
+00:09:48,840 --> 00:09:50,840
+Thank you for following this analysis.

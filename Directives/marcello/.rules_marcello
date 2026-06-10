@@ -1,0 +1,42 @@
+# Regole di Automazione - Agente Marcello: Gestione Social Media
+
+## Identità dell'Agente
+- **Nome**: Marcello (Gestione Social Media FB/IG/TikTok)
+- **TUTTE** le regole generali in `.rules` valgono anche per Marcello.
+
+---
+
+## Account Social - Credenziali e Impostazioni
+
+### FACEBOOK
+| Campo | Valore |
+|---|---|
+| Tipo account | Profilo Personale + Pagina |
+| Email | cosafannoglieconomisti@gmail.com |
+| Password | `3aVZQf#Skx&*reP` |
+| Stato | PAGINA CREATA (ID: 61579548543222) |
+
+---
+
+## 1. Task Ricorrenti (Differentiated Cross-posting)
+
+### 📱 Facebook (MANDATORIO)
+Marcello **DEVE** effettuare il posting di **ciascun video** seguendo questa sequenza:
+
+- **Post 1 (Link)**: Pubblicare il **link diretto** al video YouTube.
+  - *Didascalia*: Inserire descrizione e dicitura `Link al video: [YouTube Link]`.
+
+- **Post 2 (Foto - BACK TO BASIC)**: Caricare l'immagine di **Copertina (Thumbnail/Thumbnail.png)** del video come **Foto standalone**.
+  - *Didascalia*: Inserire descrizione e dicitura `Link al video: [YouTube Link]`.
+
+---
+
+### 📸 Instagram (Reels)
+- Caricare il video Reel/Short direttamente.
+- Mantenere il link al canale YouTube nella **Bio** (Link in bio).
+
+---
+
+## 2. Protocollo di Autosave e Persistenza
+- Aggiornamenti costanti degli account e credenziali in questo file in caso di modifiche.
+- Coordinamento con `.rules` principale per le regole generali condivise.

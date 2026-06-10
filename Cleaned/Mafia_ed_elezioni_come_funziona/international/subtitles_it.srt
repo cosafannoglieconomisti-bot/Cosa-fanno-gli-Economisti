@@ -1,0 +1,408 @@
+1
+00:00:00,000 --> 00:00:07,000
+Benvenuti, in questo approfondimento andiamo a esplorare un paper economico davvero complesso ma assolutamente affascinante.
+
+2
+00:00:07,000 --> 00:00:12,000
+Sintito la esattamente così, mafia ed elezioni. Come funziona?
+
+3
+00:00:12,000 --> 00:00:19,000
+Niente paroloni o concetti academici a stratti oggi, ci baseremo insomma sui dati, nudi e crudi e sui grafici della ricerca,
+
+4
+00:00:19,000 --> 00:00:25,000
+per farluce su un fenomeno che, beh, che spesso preferisce rimanere nell'ombra, entriamo subito nel vivo.
+
+5
+00:00:25,000 --> 00:00:30,000
+La politica e la mafia sono due poteri che vivono sul controllo dello stesso territorio,
+
+6
+00:00:30,000 --> 00:00:32,000
+o si fanno la guerra, o si mettono d'accordo.
+
+7
+00:00:32,000 --> 00:00:37,000
+Questa accitazione di Paolo Borssellino è incredibilmente pragmatica, dire quasi cruda,
+
+8
+00:00:37,000 --> 00:00:42,000
+e ci lancia dritti nel mistero centrale di oggi, ovvero, perché la violenza mafiosa esplode
+
+9
+00:00:42,000 --> 00:00:45,000
+in momenti storici molto, ma molto precisi.
+
+10
+00:00:45,000 --> 00:00:49,000
+E se iniziassimo a leggere questi picchi di violenza non come un caos casuale,
+
+11
+00:00:49,000 --> 00:00:52,000
+ma come una vera è proprio a strategie di puro calcolo economico?
+
+12
+00:00:52,000 --> 00:00:55,000
+Capitolo 1, le tempistiche della violenza.
+
+13
+00:00:55,000 --> 00:00:59,000
+È condato che onestamente fa un po' saltare sulla sedia.
+
+14
+00:00:59,000 --> 00:01:04,000
+I numeri dell'ostudio parlano chiaro, la violenza contro i politici aumenta in modo drastico.
+
+15
+00:01:04,000 --> 00:01:09,000
+Parliamo di omicidi che arrivano a più che radoppiare, endovinate quando,
+
+16
+00:01:09,000 --> 00:01:14,000
+esattamente nei dodici mesi che precedono un'elezione nazionale, più del doppio.
+
+17
+00:01:14,000 --> 00:01:19,000
+Ma la vera domanda è perché si scatena tutto proprio in questa specifica finestra temporale?
+
+18
+00:01:19,000 --> 00:01:23,000
+Passiamo alla seconda sezione, la logica del terrore.
+
+19
+00:01:23,000 --> 00:01:28,000
+I ricercatori hanno un nome tecnico per tutto questo, violenza pre-elettorale strategica.
+
+20
+00:01:28,000 --> 00:01:32,000
+Che significa in pratica? Beh, in termini strettamente economici,
+
+21
+00:01:32,000 --> 00:01:37,000
+un homicidio in questo periodo non è un atto di rabbia, ma un segnale, un messaggio chiarissimo,
+
+22
+00:01:37,000 --> 00:01:41,000
+serve a terrorizzare i candidati di quello che il modello teorico definisce il partito o onesto.
+
+23
+00:01:41,000 --> 00:01:45,000
+Cioè, la fazione contraria gli interessi del clan in quel momento.
+
+24
+00:01:45,000 --> 00:01:48,000
+È un modo spietato per dire, l'organizzazione criminale è forte,
+
+25
+00:01:48,000 --> 00:01:52,000
+ed è pienamente disposta a usare la forza se le mettete bastoni tra le ruote.
+
+26
+00:01:52,000 --> 00:01:55,000
+Sezione 3, i bersagli dei clan.
+
+27
+00:01:55,000 --> 00:02:01,000
+Diamo un'occhiata a questi dati storici raccolti in Sicilia dal 1945, al 2013.
+
+28
+00:02:01,000 --> 00:02:05,000
+Ci mostrano la mappa e le categorie di chi ha pagato il prezzo più alto.
+
+29
+00:02:05,000 --> 00:02:08,000
+Parliamo di 452 vittime in totale.
+
+30
+00:02:08,000 --> 00:02:12,000
+Di queste, le forze dell'ordine i magistrati sono 138.
+
+31
+00:02:13,000 --> 00:02:19,000
+Poi abbiamo 78 imprenditori, mentre i politici, i membri di partito dei sindacati, sono 50.
+
+32
+00:02:19,000 --> 00:02:23,000
+Ora, a prima vista 50 potrebbe sembrare un numero contenuto giusto,
+
+33
+00:02:23,000 --> 00:02:28,000
+ma fermiamoci a riflettere su quanto siano poche e le persone attivamente coinvolte in politica
+
+34
+00:02:28,000 --> 00:02:30,000
+rispetto all'intera popolazione.
+
+35
+00:02:30,000 --> 00:02:34,000
+Visto in proporzione, il rischio statistico che corrono durante le campagne elettorali
+
+36
+00:02:34,000 --> 00:02:36,000
+è letteralmente altissimo.
+
+37
+00:02:36,000 --> 00:02:40,000
+E in nota fondamentale da ricordare, i dati dimostrano che questa strategia
+
+38
+00:02:40,000 --> 00:02:45,000
+viene applicata in modo oggettivo, a prescindere dallo schieramento politico coinvolto.
+
+39
+00:02:45,000 --> 00:02:49,000
+Sezione numero 4, regole elettorali e omicidi.
+
+40
+00:02:49,000 --> 00:02:53,000
+Ma come cambiano le cose in base alle regole del gioco democratico?
+
+41
+00:02:53,000 --> 00:02:55,000
+È affascinante notarlo.
+
+42
+00:02:55,000 --> 00:02:59,000
+In un sistema elettorale proporzionale, la violenza segue in genere il divario
+
+43
+00:02:59,000 --> 00:03:01,000
+dei voti su scala nazionale.
+
+44
+00:03:01,000 --> 00:03:05,000
+Se la competizione globale è molto serrata, la violenza tende a salire.
+
+45
+00:03:05,000 --> 00:03:09,000
+Invece attenzione qui con un sistema maggioritario la dinamica cambia completamente.
+
+46
+00:03:09,000 --> 00:03:14,000
+La violenza risulta i per concentrata solo e disclusivamente nei colleggi elettorali marginali.
+
+47
+00:03:14,000 --> 00:03:17,000
+Quelli più incert in sum, dove davvero una manciata di voti
+
+48
+00:03:17,000 --> 00:03:19,000
+fa la differenza tra vincere per dire tutto.
+
+49
+00:03:19,000 --> 00:03:23,000
+È d'ecco spuntare una anomalia statistica che lascia davvero distucco.
+
+50
+00:03:23,000 --> 00:03:27,000
+Guardando a un intero secolo di storia italiana, i ricercatori hanno notato
+
+51
+00:03:27,000 --> 00:03:31,000
+che durante la dittatura fascista, la violenza mafiosa legata alle elezioni
+
+52
+00:03:31,000 --> 00:03:33,000
+è semplicemente crollata.
+
+53
+00:03:33,000 --> 00:03:34,000
+Zero, sparita.
+
+54
+00:03:34,000 --> 00:03:38,000
+Il motivo è piuttosto semplice non c'era una elezioni democratice competitive da influenzare.
+
+55
+00:03:38,000 --> 00:03:42,000
+Questo fatto storico calza appennello con la teoria economica che stiamo vedendo.
+
+56
+00:03:42,000 --> 00:03:46,000
+Significa che l'organizzazione criminale usa la violenza come strumento solo
+
+57
+00:03:46,000 --> 00:03:50,000
+e unicamente quando c'è un reale tangibile margine di guadagno politico sulle elezioni.
+
+58
+00:03:50,000 --> 00:03:53,000
+Quinta sezione, l'impatto sulle urne.
+
+59
+00:03:53,000 --> 00:03:56,000
+Arrivati a questo punto la domanda sorge spontanea,
+
+60
+00:03:56,000 --> 00:03:59,000
+ma questa terribile strategia funziona davvero sui voti.
+
+61
+00:03:59,000 --> 00:04:02,000
+Purtroppo, la matematica ci risponde di sì.
+
+62
+00:04:02,000 --> 00:04:06,000
+I dati economici ci svelano che un singolo micidio politico provoca in media
+
+63
+00:04:06,000 --> 00:04:12,000
+un calo del 2,4% dei voti del partito persagliato in quel particolare comune.
+
+64
+00:04:12,000 --> 00:04:15,000
+È un impatto enorme, assolutamente decisivo.
+
+65
+00:04:15,000 --> 00:04:17,000
+Per inquadrare meglio la portata della cosa,
+
+66
+00:04:17,000 --> 00:04:20,000
+il paper prende in esame un evento storico ben preciso.
+
+67
+00:04:20,000 --> 00:04:24,000
+La strage di portella della Ginestra, il primo maggio del 1947.
+
+68
+00:04:24,000 --> 00:04:27,000
+I dati elettorali successivi mostrano chiaramente
+
+69
+00:04:27,000 --> 00:04:29,000
+come quell'atto estremo,
+
+70
+00:04:29,000 --> 00:04:33,000
+abbia seminato un terroretale dal lontanare mass'enormi di voti dai partiti presidi mira.
+
+71
+00:04:33,000 --> 00:04:36,000
+Una paura che si è diffusa letteralmente a macchiadolio,
+
+72
+00:04:36,000 --> 00:04:38,000
+tanto che questo effetto di fuga dalle urne
+
+73
+00:04:38,000 --> 00:04:41,000
+si è registrato chiaramente anche nei comuni limitrofi
+
+74
+00:04:41,000 --> 00:04:44,000
+durante le lezioni dell'anno successivo il 1948.
+
+75
+00:04:44,000 --> 00:04:46,000
+Arriviamo all'ultima parte.
+
+76
+00:04:46,000 --> 00:04:49,000
+Sezione 6, silenzio in Parlamento.
+
+77
+00:04:49,000 --> 00:04:53,000
+Qui i ricercatori hanno fatto un lavoro davvero titanico,
+
+78
+00:04:53,000 --> 00:04:58,000
+hanno passato al cetaccio qualcosa come 300.000 pagine di discorsi parlamentari
+
+79
+00:04:58,000 --> 00:05:01,000
+usando sofisticati algoritmi di esplorazione testuale
+
+80
+00:05:01,000 --> 00:05:03,000
+il risultato è l'ampante.
+
+81
+00:05:03,000 --> 00:05:07,000
+Da una parte scopriamo che un homicidio per così dire standard
+
+82
+00:05:07,000 --> 00:05:11,000
+spinge la maggior parte dei parlamentari a parlare di più del problema mafia in aula
+
+83
+00:05:11,000 --> 00:05:14,000
+per chiedere giustizia e interventi,
+
+84
+00:05:14,000 --> 00:05:16,000
+ma dall'altra parte ecco l'effetto agliacciante.
+
+85
+00:05:16,000 --> 00:05:18,000
+Un homicidio politico mirato,
+
+86
+00:05:18,000 --> 00:05:20,000
+avvenuto prima del voto,
+
+87
+00:05:20,000 --> 00:05:24,000
+ha un impatto diametranmente opposto sui politici della fazione minacciata.
+
+88
+00:05:24,000 --> 00:05:26,000
+Improvvisamente silenzio.
+
+89
+00:05:26,000 --> 00:05:28,000
+Ne parlano molto, molto meno.
+
+90
+00:05:28,000 --> 00:05:33,000
+Questo dimostra matematicamente che la violenza mirata raggiunge il suo scopo più subtolo,
+
+91
+00:05:33,000 --> 00:05:35,000
+riesce a silenziale che è subito le minacce,
+
+92
+00:05:35,000 --> 00:05:38,000
+persino una volta varcata la soglia del Parlamento.
+
+93
+00:05:38,000 --> 00:05:42,000
+Tutto questo scenario apre inivitabilmente a una riflessione finale.
+
+94
+00:05:42,000 --> 00:05:45,000
+Se si dimostra che la violenza può agire come un gelido
+
+95
+00:05:45,000 --> 00:05:48,000
+spietato calcolo matematico per manipolare i voti
+
+96
+00:05:48,000 --> 00:05:51,000
+e imporre il silenzio istituzionale, c'è da chiedersi.
+
+97
+00:05:51,000 --> 00:05:54,000
+Quanto restano vulnerabili le istituzioni di oggi?
+
+98
+00:05:54,000 --> 00:05:57,000
+Sopra tutto di fronte a queste pressioni sistemiche
+
+99
+00:05:57,000 --> 00:06:00,000
+che i modelli economici riescono a misorare al millimetro,
+
+100
+00:06:00,000 --> 00:06:04,000
+ma che spesso rimangono totalmente invisibili agli occhi del grande pubblico.
+
+101
+00:06:04,000 --> 00:06:08,000
+È un interrogativo che ci lascia riflettere profondamente sulla complessa
+
+102
+00:06:08,000 --> 00:06:11,000
+e a volte tragica architettura della democrazia.
+

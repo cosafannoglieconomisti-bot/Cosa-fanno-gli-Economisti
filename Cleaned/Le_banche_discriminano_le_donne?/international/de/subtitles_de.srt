@@ -1,0 +1,451 @@
+1
+00:00:00,000 --> 00:00:05,040
+Lassen Sie uns sofort mit dieser neuen Untersuchung beginnen. Heute tauchen wir in ein echtes wirtschaftliches Rätsel ein.
+
+2
+00:00:05,040 --> 00:00:06,040
+Rätsel.
+
+3
+00:00:06,040 --> 00:00:10,080
+Wenn man an Finanzen und Zinssätze denkt, stellt man sich normalerweise eine Welt vor,
+
+4
+00:00:10,080 --> 00:00:13,759
+die aus kalten, objektiven und absolut unparteiischen Zahlen besteht.
+
+5
+00:00:13,759 --> 00:00:18,359
+Die allgemeine Vorstellung ist, dass der Kreditmarkt niemanden bevorzugt, sondern sich darauf beschränkt,
+
+6
+00:00:18,359 --> 00:00:20,160
+Bilanzen und Sicherheiten zu bewerten.
+
+7
+00:00:20,160 --> 00:00:25,560
+Doch eine faszinierende Studie von Alesina, Lotti und Mistrulli, die auf echten
+
+8
+00:00:25,560 --> 00:00:29,719
+italienischen Daten basiert, wirft eine entscheidende Frage auf, die auch genau der Titel
+
+9
+00:00:29,719 --> 00:04:34,460
+unserer Analyse ist: Diskriminieren Banken Frauen? Lassen Sie uns direkt in die Daten eintauchen, um
+
+10
+00:00:34,460 --> 00:00:37,280
+zu verstehen, was wirklich vor sich geht.
+
+11
+00:00:37,280 --> 00:00:42,200
+Um die Schwere der Situation zu verstehen, müssen wir sozusagen beim Tatbestand anfangen.
+
+12
+00:00:42,200 --> 00:00:46,480
+Die Daten zeigen uns eindeutig, dass Unternehmerinnen bei gleichen Ausgangsbedingungen
+
+13
+00:00:46,480 --> 00:00:50,560
+einen deutlich höheren Aufschlag für den Zugang zu Krediten zahlen.
+
+14
+00:00:50,560 --> 00:00:54,359
+Wir sprechen von satten 28 Basispunkten mehr als bei ihren männlichen Kollegen.
+
+15
+00:04:54,359 --> 00:05:59,679
+28 mag wenig erscheinen, aber in Wirklichkeit bedeutet diese Lücke bei einer normalen Kreditlinie
+
+16
+00:00:59,679 --> 00:01:03,600
+für ein Kleinstunternehmen sofort Hunderte von Euro an zusätzlichen Kosten in jedem einzelnen
+
+17
+00:01:03,600 --> 00:01:08,120
+Jahr. Es ist buchstäblich eine unsichtbare Steuer, die einzig und allein auf von Frauen geführten
+
+18
+00:01:08,120 --> 00:01:09,120
+Unternehmen lastet.
+
+19
+00:01:09,120 --> 00:01:11,280
+Aber woher kommt dieser Unterschied?
+
+20
+00:01:11,280 --> 00:01:14,560
+Ist es nur eine kalte Frage des Risikos oder steckt etwas anderes dahinter?
+
+21
+00:01:14,560 --> 00:01:21,400
+Gut, gehen wir der Sache auf den Grund und untersuchen wir den ersten Verdächtigen dieser Untersuchung: das finanzielle
+
+22
+00:01:21,400 --> 00:01:29,240
+Risiko. Das heißt, wir beantworten die Frage: Sind Frauen vielleicht weniger verlässliche Schuldnerinnen?
+
+23
+00:01:29,239 --> 00:01:33,299
+Die logischste Erklärung, die jedem Analysten in den Sinn kommen würde, is, dass
+
+24
+00:01:33,299 --> 00:01:37,560
+Frauen höhere Zinsen zahlen, einfach weil ihre Unternehmen als
+
+25
+00:01:37,560 --> 00:01:39,640
+von Natur aus riskanter eingestuft werden.
+
+26
+00:01:39,640 --> 00:01:45,359
+Nun, bereiten Sie sich darauf vor, diese Hypothese zu verwerfen, denn die Daten widerlegen sie auf ganzer Linie.
+
+27
+00:01:45,359 --> 00:01:50,000
+Wenn man sich die Kennzahlen anschaut, liegt die Insolvenzquote—also die Häufigkeit, mit der Schulden nicht
+
+28
+00:01:50,000 --> 00:01:56,560
+zurückgezahlt werden können oder Unternehmen pleitegehen—bei 0,5 % für Männer und bei 0,4 % für
+
+29
+00:01:56,560 --> 00:01:57,560
+Frauen.
+
+30
+00:02:02,280 --> 00:02:10,599
+Überraschung: Frauen gehen seltener pleite. Und das ist noch nicht alles; auch die Nutzung von Kreditlinien
+
+31
+00:02:02,280 --> 00:02:10,599
+zeigt eine praktisch identische Handhabung, 73,9 % gegenüber 75,2 %. Kurz gesagt, die Hypothese des finanziellen
+
+32
+00:02:10,599 --> 00:02:12,719
+Risikos bricht kläglich in sich zusammen.
+
+33
+00:02:12,719 --> 00:02:16,520
+Frauen sind für die Banken keineswegs gefährlichere Kunden.
+
+34
+00:02:16,520 --> 00:02:22,039
+Kommen wir nun zum zweiten Verdächtigen: Was ist, wenn es einfach an der Wahl der
+
+35
+00:02:22,039 --> 00:02:26,439
+Bank liegt? Vielleicht ist es nur eine Frage dessen, wo man diesen Kredit beantragt.
+
+36
+00:02:26,960 --> 00:02:31,319
+Das ist eine mehr als berechtigte Frage. Man könnte denken, dass Unternehmerinnen sich
+
+37
+00:02:31,319 --> 00:02:36,800
+am Ende an Kreditinstitute wenden, die im Durchschnitt für alle teurer sind. Aber passen Sie auf,
+
+38
+00:02:36,800 --> 00:02:38,840
+denn hier nimmt die Geschichte an Fahrt auf.
+
+39
+00:02:38,840 --> 00:02:44,039
+Die Forscher wendeten sehr strenge statistische Filter an, um die einzelnen Banken zu isolieren,
+
+40
+00:02:44,039 --> 00:02:48,680
+und das Ergebnis ist verblüffend: Der Zinsunterschied bleibt selbst innerhalb
+
+41
+00:02:48,680 --> 00:02:50,599
+der exakt gleichen Bank identisch.
+
+42
+00:02:50,599 --> 00:02:55,000
+Gleiches Institut, gleiche Filiale, aber unterschiedliche Zinsen für Männer und Frauen mit völlig
+
+43
+00:02:55,000 --> 00:02:59,479
+identischen Risikoprofilen. Es liegt also nicht daran, dass man die falsche Bank gewählt hat;
+
+44
+00:02:59,479 --> 00:03:02,680
+es ist ein systematisches Verhalten innerhalb der einzelnen Filiale.
+
+45
+00:03:02,680 --> 00:03:08,319
+Und das bringt uns zu einer echten Wendung, die wir als das Paradoxon der
+
+46
+00:03:08,319 --> 00:03:12,840
+Bürgen bezeichnen können—ein absolut entscheidender Hinweis in unserer Untersuchung.
+
+47
+00:03:12,840 --> 00:03:18,199
+Wie wir wissen, verlangt eine Bank, wenn sie bei einem Kreditantrag die Nase rümpft, einen Bürgen—
+
+48
+00:03:18,199 --> 00:03:23,520
+jemanden, der sein eigenes Vermögen als Sicherheit einbringt. Wenn wir nun das Geschlecht dieser
+
+49
+00:03:23,520 --> 00:03:26,320
+Bürgen analysieren, kommt etwas Unglaubliches ans Licht.
+
+50
+00:03:26,320 --> 00:03:31,840
+Tritt eine Frau mit einem männlichen Bürgen auf, atmet die Bank auf und der Zinssatz sinkt.
+
+51
+00:03:31,840 --> 00:03:33,160
+Aber aufgepasst: Tritt dieselbe Frau mit einer weiblichen Bürgin auf, aufgepasst, steigt der Zinssatz
+
+52
+00:03:33,160 --> 00:03:39,439
+schwindelerregend an.
+
+53
+00:03:41,600 --> 00:03:47,000
+Eine Frau, für die eine andere Frau bürgt, wird automatisch zur am stärksten benachteiligten Kundin
+
+54
+00:03:47,000 --> 00:03:52,640
+auf dem gesamten Markt und zahlt fast 30 Basispunkte mehr als
+
+55
+00:03:52,640 --> 00:03:56,040
+ein Mann ohne jeglichen Bürgen. Verrückt, oder?
+
+56
+00:03:56,040 --> 00:04:00,080
+An diesem Punkt scheinen die klassischen Regeln der Wirtschaft an allen Ecken und Enden zu
+
+57
+00:04:00,080 --> 00:04:01,080
+versagen.
+
+58
+00:04:01,080 --> 00:04:05,800
+Fassen wir zusammen: Wir haben festgestellt, dass Frauen äußerst zuverlässige Schuldnerinnen sind, sogar
+
+59
+00:04:05,800 --> 00:04:06,800
+noch mehr als Männer.
+
+60
+00:04:06,800 --> 00:04:11,600
+Wir haben gesehen, dass die Ungleichheit innerhalb derselben Bank auftritt, und wir haben
+
+61
+00:04:11,600 --> 00:04:17,120
+festgestellt, dass zwei Frauen, die sich finanziell verbünden, die härteste Strafe von allen erleiden.
+
+62
+00:04:17,120 --> 00:04:21,400
+Wenn Markt-Rationalität und traditionelle Wirtschaftsmodelle dieses Rätsel nicht erklären
+
+63
+00:04:21,399 --> 00:04:24,359
+können, was ist dann die wahre Ursache für all das?
+
+64
+00:04:24,359 --> 00:04:30,279
+Und hier entlarven wir den ersten wirklichen Schuldigen: das kulturelle Vorurteil, das sich aus
+
+65
+00:04:30,279 --> 00:04:33,519
+traditionellen Vorstellungen über die Arbeitswelt speist.
+
+66
+00:04:33,519 --> 00:04:37,560
+In der Wirtschaftswissenschaft nennt man dieses Phänomen präferenzbasierte Diskriminierung.
+
+67
+00:04:37,560 --> 00:04:42,000
+In der Praxis wird die Rationalität über Bord geworfen, um sich von geschlechtsspezifischen
+
+68
+00:04:42,000 --> 00:04:47,000
+Vorurteilen leiten zu lassen. Und um zu verstehen, wie tief das verwurzelt ist, reicht eine Analyse der Daten des World
+
+69
+00:04:48,000 --> 00:04:49,000
+Value Survey für Italien.
+
+70
+00:04:49,000 --> 00:04:52,720
+In der Umfrage wird gefragt, ob man der Aussage zustimmt: Wenn Arbeitsplätze knapp sind, haben Männer
+
+71
+00:04:52,720 --> 00:04:55,360
+mehr Anrecht auf einen Job als Frauen.
+
+72
+00:05:00,160 --> 00:05:03,720
+Betrachtet man die Daten, so hat Schweden ein sehr niedriges Niveau und die USA liegen im Mittelfeld,
+
+73
+00:05:03,720 --> 00:05:07,959
+während Italien den absolut höchsten Wert unter den fortgeschrittenen Ländern verzeichnet.
+
+74
+00:05:07,959 --> 00:05:11,480
+Dies ist eine tiefe Überzeugung, die die gesamte Gesellschaft durchdringt und die unweigerlich
+
+75
+00:05:11,480 --> 00:05:16,199
+mit am Tisch sitzt, wenn jemand darüber entscheiden muss, ob ein Kredit gewährt wird.
+
+76
+00:05:16,199 --> 00:05:20,479
+Die Autoren der Studie kommen direkt auf den Punkt und formulieren eine sehr klare Hypothese: Bankdirektoren
+
+77
+00:05:16,199 --> 00:05:20,479
+könnten Frauen schlichtweg als weniger begehrenswerte Kunden betrachten—
+
+78
+00:05:20,479 --> 00:05:24,360
+ungeachtet ihrer perfekten Bilanzen, allein aufgrund der Tatsache, dass sie Frauen sind.
+
+79
+00:05:24,360 --> 00:05:27,639
+Der endgültige Beweis zeigt sich beim Blick auf die verschiedenen Wirtschaftssektoren.
+
+80
+00:05:27,639 --> 00:05:31,680
+In historisch von Männern dominierten Bereichen wie dem Bauwesen oder der Schwerindustrie
+
+81
+00:05:31,680 --> 00:05:35,560
+erreicht dieser Zinsaufschlag für Frauen Rekordwerte, als ob das System die
+
+82
+00:05:35,560 --> 00:05:38,279
+weibliche Kompetenz in diesen Kontexten anzweifeln würde.
+
+83
+00:05:38,279 --> 00:05:42,519
+In als eher weiblich wahrgenommenen Sektoren wie dem Einzelhandel hingegen
+
+84
+00:05:42,519 --> 00:05:46,159
+verringert sich dieser Zinsunterschied, bis er fast verschwindet.
+
+85
+00:05:46,159 --> 00:05:51,680
+Uns fehlt noch das letzte Puzzleteil, der zweite Schuldige: die Verhandlungsmacht
+
+86
+00:05:51,680 --> 00:05:54,359
+und die Verhandlungsdynamik unter Stress.
+
+87
+00:05:54,359 --> 00:05:58,719
+Denn wenn wir darüber nachdenken, ist die Aufnahme eines Kredits nicht wie der Kauf eines Gegenstands mit einem
+
+88
+00:05:58,719 --> 00:05:59,719
+Festpreis.
+
+89
+00:05:59,719 --> 00:06:05,120
+Es ist ein Prozess. Man muss feilschen und verhandeln, und die Verhaltensökonomie lehrt, dass
+
+90
+00:06:05,120 --> 00:06:09,799
+in stressigen Situationen derjenige, der mehr Verhandlungsmacht hat, am Ende besser dasteht.
+
+91
+00:06:09,800 --> 00:06:13,879
+Eine Analyse der Daten über italienische Bankmanager im untersuchten Zeitraum ist gelinde gesagt
+
+92
+00:06:13,879 --> 00:06:19,280
+erhellend: Weniger als 10 % der Entscheidungspositionen sind mit Frauen besetzt.
+
+93
+00:06:19,280 --> 00:06:24,360
+Über 90 % der Verantwortlichen, die materiell entschieden, waren Männer.
+
+94
+00:06:24,360 --> 00:06:26,920
+Dies führt zu einem eklatanten Machtungleichgewicht.
+
+95
+00:06:26,920 --> 00:06:30,720
+Eine Unternehmerin sieht sich systematisch damit konfrontiert, ihr Projekt in einem von männlichen
+
+96
+00:06:30,720 --> 00:06:35,920
+Figuren dominierten Umfeld verteidigen zu müssen—eine Dynamik, die die Verhandlungen deutlich härter macht
+
+97
+00:06:35,920 --> 00:06:39,000
+und aktiv dazu beiträgt, dass die Zinssätze höher bleiben.
+
+98
+00:06:39,000 --> 00:06:43,240
+Wenn man die Fäden dieser spektakulären Untersuchung zusammenführt, ist das Bild, das sich uns bietet,
+
+99
+00:06:43,240 --> 00:06:47,120
+aus akademischer Sicht ebenso faszinierend wie hart für die Realwirtschaft.
+
+100
+00:06:47,120 --> 00:06:52,120
+Fassen wir die Fakten zusammen: Erstens, Frauen zahlen mehr. Zweitens sind sie paradoxerweise keineswegs
+
+101
+00:06:52,120 --> 00:06:57,040
+riskantere Kunden. Drittens wird selbst die finanzielle Solidarität unter Frauen durch eine weibliche Bürgin
+
+102
+00:06:57,040 --> 00:07:00,680
+vom System bestraft. Und warum passiert das alles?
+
+103
+00:07:00,680 --> 00:07:04,660
+Die Antwort steht nicht in den Finanzlehrbüchern, sondern in einer unsichtbaren Mischung aus tief sitzenden
+
+104
+00:07:04,660 --> 00:07:08,860
+kulturellen Vorurteilen und einem chronischen Mangel an Vielfalt in den Entscheidungsgremien
+
+105
+00:07:08,860 --> 00:07:12,820
+der Banken—eine fatale Mischung, die die Kosten drastisch in die Höhe treibt.
+
+106
+00:07:12,820 --> 00:07:18,220
+Und diese Erkenntnis hinterlässt bei uns eine letzte große Provokation: Wenn der Kreditmarkt
+
+107
+00:07:18,220 --> 00:07:23,060
+nicht jene perfekte, super-rationale Maschine ist, die man an der Universität studiert,
+
+108
+00:07:23,060 --> 00:07:28,260
+sondern am Ende alle Vorurteile der Gesellschaft aufsaugt, in der er existiert, dann ist die Herausforderung klar:
+
+109
+00:07:28,260 --> 00:07:32,940
+Es reicht nicht aus, mit perfekten Bilanzen aufzuwarten, um eine Gleichbehandlung zu erfahren.
+
+110
+00:07:32,939 --> 00:07:37,980
+Wir müssen diese unsichtbaren Barrieren aus kulturellem Erbe und Machtungleichgewichten abbauen.
+
+111
+00:07:37,980 --> 00:07:42,219
+Die eigentliche Frage, mit der die heutige Reflexion schließt, lautet:
+
+112
+00:07:42,219 --> 00:07:47,100
+Welche Maßnahmen müssen jetzt ergriffen werden, damit in Zukunft die Solidität einer Geschäftsidee
+
+113
+00:07:47,100 --> 00:07:52,220
+endlich nur nach ihrem absoluten Wert bemessen wird und nicht nach dem Geschlecht der Person, die sie vorschlägt?

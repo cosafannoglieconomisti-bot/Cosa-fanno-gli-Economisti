@@ -1,0 +1,459 @@
+1
+00:00:00,000 --> 00:00:04,960
+Beginnen wir gleich mit einer Frage, die wir uns, seien wir ehrlich, alle schon mindestens einmal gestellt haben,
+
+2
+00:00:04,960 --> 00:00:07,440
+warum Politiker schlecht ausgeben.
+
+3
+00:00:07,440 --> 00:00:12,000
+In dieser ausführlichen Analyse tauchen wir in ein aktuelles und faszinierendes akademisches Paper ein,
+
+4
+00:00:12,000 --> 00:00:16,320
+das unser Wissen über Staatsverschuldung und
+
+5
+00:00:16,320 --> 00:00:17,800
+Wirtschaftsreformen völlig auf den Kopf stellt.
+
+6
+00:00:17,800 --> 00:00:21,359
+Es ist nicht nur eine Frage von Inkompetenz oder Unaufmerksamkeit, ganz im Gegenteil.
+
+7
+00:00:21,359 --> 00:00:26,400
+Wie wir gleich feststellen werden, ist es eine komplexe, schonungslose Frage der Anreize.
+
+8
+00:00:26,400 --> 00:00:31,320
+Es ist unglaublich frustrierend und wahr, wir sehen ständig Regierungen, die es nicht schaffen,
+
+9
+00:00:31,320 --> 00:00:36,520
+langfristige Reformen durchzubringen, die objektiv allen zugutekämen.
+
+10
+00:00:36,520 --> 00:00:41,440
+Denken wir zum Beispiel daran, das Stromnetz wirklich zu modernisieren oder das öffentliche Schulsystem
+
+11
+00:00:41,440 --> 00:00:42,439
+ein für alle Mal in Ordnung zu bringen.
+
+12
+00:00:42,439 --> 00:00:47,800
+Und das führt uns zur großen Grundfrage: Aber aus welchem absurden Grund
+
+13
+00:00:47,800 --> 00:00:53,719
+tun sich die logischsten, rationalsten und effizientesten Strategien so unendlich schwer, Realität zu werden?
+
+14
+00:00:53,719 --> 00:00:59,879
+Um das zu verstehen und die Punkte zu verbinden, begeben wir uns in dieser Analyse auf eine echte Reise,
+
+15
+00:00:59,879 --> 00:01:05,400
+Wir beginnen mit dem großen Reformdilemma, analysieren die Mathematik des Konsenses, die unerwartete
+
+16
+00:01:05,400 --> 00:01:10,640
+Rolle der Schulden, die Natur öffentlicher Güter, das Paradoxon der Fiskalgrenzen, um dann
+
+17
+00:01:10,640 --> 00:01:12,879
+mit Beweisen aus realen Daten abzuschließen.
+
+18
+00:01:12,879 --> 00:01:19,079
+Also, beginnen wir mit dem ersten Punkt, dem Reformdilemma, oder besser gesagt, warum es fast nie ausreicht, effizient zu sein
+
+19
+00:01:19,079 --> 00:01:21,960
+in der Politik, allein.
+
+20
+00:01:21,960 --> 00:01:27,600
+Stellen Sie sich vor, Sie sind ein politischer Entscheidungsträger, Sie befinden sich in einer ständigen Spannung, einem
+
+21
+00:01:27,600 --> 00:01:30,960
+echten Tauziehen zwischen zwei gegensätzlichen Seiten.
+
+22
+00:01:30,960 --> 00:01:37,000
+Auf der einen Seite haben Sie die Dringlichkeit, die sogenannten zielgerichteten Ausgaben zu tätigen, das heißt, öffentliche Gelder heute zu verwenden,
+
+23
+00:01:37,000 --> 00:01:40,560
+um Gefälligkeiten zu verteilen und sofort Stimmen zu gewinnen.
+
+24
+00:01:40,560 --> 00:01:46,000
+Auf der anderen Seite wissen Sie, dass effiziente Reformen und enorme Investitionen für die Zukunft des Landes notwendig wären.
+
+25
+00:01:46,000 --> 00:01:47,000
+des Landes.
+
+26
+00:01:47,000 --> 00:01:48,000
+Das Problem?
+
+27
+00:01:48,000 --> 00:01:52,959
+Die Vorteile dieser schönen Reformen werden irgendwann ankommen, höchstwahrscheinlich, wenn
+
+28
+00:01:52,959 --> 00:01:55,920
+die nächsten Wahlen bereits eine ferne Erinnerung sind.
+
+29
+00:01:55,920 --> 00:02:01,040
+Und hier kommen wir direkt zum zweiten Punkt: Um zu verstehen, warum Vetternwirtschaft oft
+
+30
+00:02:01,040 --> 00:02:06,079
+überwiegt, müssen wir uns mit der schonungslosen Mathematik der Wählerzustimmung auseinandersetzen.
+
+31
+00:02:06,079 --> 00:02:11,080
+Um diese Arithmetik zu entschlüsseln, gibt es ein Schlüsselwort, fast magisch, das wir unbedingt
+
+32
+00:02:11,080 --> 00:02:14,120
+im Gedächtnis behalten müssen: Teilbarkeit.
+
+33
+00:02:14,120 --> 00:02:18,680
+Im Fachjargon bedeutet dies wörtlich die Fähigkeit eines Politikers, öffentliche Mittel zu nehmen
+
+34
+00:02:18,680 --> 00:02:23,920
+und sie gezielt auf ultra-spezifische Wählergruppen auszurichten. Eine Subvention
+
+35
+00:02:23,920 --> 00:02:28,360
+für eine einzelne und klar definierte Berufsgruppe ist hochgradig teilbar.
+
+36
+00:02:28,360 --> 00:02:33,240
+Ein Gesetz, das das Leben aller ein wenig verbessert, überhaupt nicht. Und genau diese chirurgische Präzision
+
+37
+00:02:33,240 --> 00:02:36,920
+ist der wahre Motor, um Zustimmung zu kaufen und Wahlen zu gewinnen.
+
+38
+00:02:36,920 --> 00:02:42,960
+Der Haken ist also genau dieser: Die Finanzierung einer riesigen, für alle nützlichen Strukturreform
+
+39
+00:02:42,960 --> 00:02:46,680
+leert buchstäblich das Portemonnaie des Politikers.
+
+40
+00:02:46,680 --> 00:02:50,879
+Sie entzieht ihm die sofortigen Ressourcen, die er dringend benötigt, um seine
+
+41
+00:02:50,879 --> 00:02:54,120
+Schlüsselwähler anzusprechen und heute politisch zu überleben.
+
+42
+00:02:54,120 --> 00:03:00,120
+Kurz gesagt, er befindet sich in einem Albtraum gefangen: das Richtige für das Land tun oder sich die
+
+43
+00:03:00,120 --> 00:03:01,120
+Wiederwahl sichern.
+
+44
+00:03:01,120 --> 00:03:07,600
+Aber halten Sie sich fest, denn hier kommen wir zum dritten Punkt und zur vielleicht unerwartetsten Entdeckung
+
+45
+00:03:07,600 --> 00:03:12,640
+der gesamten Studie: die wirklich nützliche Rolle der Staatsverschuldung.
+
+46
+00:03:13,120 --> 00:03:19,080
+Die akademische Analyse konfrontiert uns mit dem, was sie einen intertemporalen Trade-off nennen,
+
+47
+00:03:19,080 --> 00:03:24,560
+umgangssprachlich ausgedrückt: Die Staatsverschuldung funktioniert praktisch wie eine Zeitmaschine,
+
+48
+00:03:24,560 --> 00:03:30,040
+indem sie Wohlstand aus der Zukunft in die Gegenwart holt. Schulden werden zum genauen Instrument,
+
+49
+00:03:30,040 --> 00:03:35,360
+das es Politikern ermöglicht, die Waage auszugleichen: Sie finanzieren die richtigen Reformen für morgen,
+
+50
+00:03:35,360 --> 00:03:39,520
+aber ohne auf die Gelder für die Wahlgeschenke von heute zu verzichten.
+
+51
+00:03:39,520 --> 00:03:45,040
+Der Mechanismus ist von absoluter, fast theatralischer Eleganz und vollzieht sich in drei Schritten.
+
+52
+00:03:45,040 --> 00:03:48,439
+Erstens: Sie machen heute Schulden und erhalten frisches Kapital.
+
+53
+00:03:48,439 --> 00:03:53,960
+Zweitens: Sie verwenden dieses geliehene Geld, um die anfängliche Hürde zu bezahlen, d.h. die langfristige Reform.
+
+54
+00:03:53,960 --> 00:03:55,120
+langfristige Reform.
+
+55
+00:03:55,120 --> 00:03:59,560
+Drittens: Dadurch bleiben die eigentlichen Staatskassen intakt.
+
+56
+00:03:59,560 --> 00:04:04,960
+Sie haben immer noch Unmengen an Ressourcen für Ihre zielgerichteten und wahlkampfbezogenen Ausgaben, und die Wiederwahl
+
+57
+00:04:04,960 --> 00:04:05,960
+ist gesichert.
+
+58
+00:04:05,960 --> 00:04:11,879
+Kommen wir zum vierten Punkt: Dieser fantastische Trick hat jedoch eine Achillesferse,
+
+59
+00:04:11,879 --> 00:04:15,240
+er hängt vollständig von der Art der Reform ab, die man durchführen möchte.
+
+60
+00:04:15,240 --> 00:04:18,319
+Ja, denn nicht alle Vorteile sind gleich.
+
+61
+00:04:18,319 --> 00:04:22,879
+Eine Reform kann private Vorteile schaffen, die wie Kuchenstücke sind: Man kann sie
+
+62
+00:04:22,879 --> 00:04:27,879
+schneiden und gezielt an seine Wählerfreunde verteilen. Oder sie kann reine öffentliche Güter schaffen,
+
+63
+00:04:27,879 --> 00:04:31,960
+wie eine Justiz, die für alle besser funktioniert, oder sauberere Luft.
+
+64
+00:04:31,960 --> 00:04:34,199
+Diese kann man niemandem vorenthalten.
+
+65
+00:04:34,199 --> 00:04:38,399
+Das riesige Problem für einen Politiker ist, dass ein reines öffentliches Gut absolut nutzlos ist,
+
+66
+00:04:38,399 --> 00:04:40,959
+um selektiv Stimmen zu kaufen.
+
+67
+00:04:40,959 --> 00:04:44,800
+Und das erzeugt einen geradezu surrealen Schaukeleffekt.
+
+68
+00:04:44,800 --> 00:04:49,839
+Denken Sie darüber nach: Wenn eine Reform ausnahmslos allen zugutekommt, verliert der Politiker völlig seine
+
+69
+00:04:49,839 --> 00:04:52,279
+wertvollste Waffe, die Teilbarkeit.
+
+70
+00:04:52,279 --> 00:04:54,360
+Wie überzeugt er sie dann, sie zu unterzeichnen?
+
+71
+00:04:54,360 --> 00:04:59,199
+Ganz einfach: indem er die Geldhähne noch weiter aufdreht. Je größer das öffentliche Gut, das geschaffen wird, desto größer
+
+72
+00:04:59,199 --> 00:05:03,599
+wird der Schuldenberg sein, den der Politiker benötigt, um uns zu überzeugen, diesen
+
+73
+00:05:03,600 --> 00:05:09,600
+kurzfristigen Wahlkampf-Nachteil zu akzeptieren. Das bringt uns zum fünften Punkt, und glauben Sie mir,
+
+74
+00:05:09,600 --> 00:05:15,280
+hier kommt ein echter Schlag in den Magen ins Spiel: das Paradoxon der verfassungsrechtlichen Grenzen
+
+75
+00:05:15,280 --> 00:05:16,280
+für Schulden.
+
+76
+00:05:16,280 --> 00:05:21,879
+Die Studie vergleicht zwei Parallelwelten: auf der einen Seite flexible Grenzen, wo die Verschuldung
+
+77
+00:05:21,879 --> 00:05:27,780
+über Jahre hinweg ruhig und durchschnittlich bewertet wird; auf der anderen Seite starre Grenzen, die
+
+78
+00:05:27,780 --> 00:05:29,879
+Jahr für Jahr mit der Axt angewendet werden.
+
+79
+00:05:29,879 --> 00:05:34,920
+Nun, beide reduzieren die Möglichkeit, Reformen durchzuführen, aber starre Grenzen erweisen sich als
+
+80
+00:05:34,920 --> 00:05:41,399
+verheerend, sie blockieren unterschiedslos alles, sowohl nutzlose Verschwendung als auch die öffentlichen Investitionen,
+
+81
+00:05:41,399 --> 00:05:43,800
+die wir dringend benötigen würden.
+
+82
+00:05:43,800 --> 00:05:47,759
+Die mathematischen Daten sprechen unmissverständlich.
+
+83
+00:05:47,759 --> 00:05:52,759
+Mit zunehmender Strenge einer starren Fiskalregel sinkt die Wahrscheinlichkeit, dass eine gute Reform verabschiedet wird,
+
+84
+00:05:52,759 --> 00:05:55,480
+buchstäblich rapide ab.
+
+85
+00:05:55,480 --> 00:06:01,360
+Und der Nebeneffekt: Ohne diese strukturellen Investitionen steigt die wirtschaftliche Ungleichheit, gemessen
+
+86
+00:06:01,360 --> 00:06:07,640
+am berühmten Gini-Koeffizienten, sprunghaft an. Kurz gesagt, zu strenge Regeln führen
+
+87
+00:06:07,640 --> 00:06:11,000
+zu null Reformen und einer unglaublich ungleicheren Gesellschaft.
+
+88
+00:06:11,000 --> 00:06:18,000
+Und hier kommen wir zum sechsten und letzten Schritt, denn, wohlgemerkt, wir reden nicht nur
+
+89
+00:06:18,000 --> 00:06:23,400
+von netten mathematischen Tafelmodellen, die Realität bestätigt alles.
+
+90
+00:06:23,400 --> 00:06:30,560
+Bei der Durchsicht der empirischen Belege aus Dutzenden von OECD-Ländern von 1995 bis 2019 ist der Beweis erdrückend.
+
+91
+00:06:30,560 --> 00:06:35,040
+Wenn ein System von Politikern eine größere Schuldentragfähigkeit hat, werden ständig mehr
+
+92
+00:06:35,040 --> 00:06:39,360
+langfristige strukturelle öffentliche Investitionen eingeleitet, und natürlich nehmen parallel dazu auch
+
+93
+00:06:39,360 --> 00:06:40,760
+die gezielten Begünstigungen zu.
+
+94
+00:06:40,760 --> 00:06:45,320
+Aber wenn man den Gürtel zu eng schnallt mit zu starren Grenzen, geht der Schalter aus und es wird weder das eine
+
+95
+00:06:45,320 --> 00:06:46,320
+noch das andere getan.
+
+96
+00:06:46,320 --> 00:06:49,760
+Es gibt einen Vergleich, der besonders beeindruckend ist.
+
+97
+00:06:49,759 --> 00:06:54,000
+Denken Sie an die Eurozone, wo die Mitgliedsländer mit der berüchtigten und
+
+98
+00:06:54,000 --> 00:06:57,879
+sehr starren Obergrenze von 60 % des Schulden-BIP-Verhältnisses jonglieren müssen.
+
+99
+00:06:57,879 --> 00:07:02,920
+Vergleicht man sie mit Ländern außerhalb der Eurozone, zeigt die Datenstreuung einen Abgrund.
+
+100
+00:07:02,920 --> 00:07:07,000
+Wer unter diesen eisernen Grenzen lebt, verzeichnet eine dramatisch geringere Wahrscheinlichkeit,
+
+101
+00:07:07,000 --> 00:07:11,399
+große öffentliche Investitionen zu tätigen, als diejenigen, die eine gesunde fiskalische Flexibilität haben.
+
+102
+00:07:11,399 --> 00:07:18,639
+Kurz gesagt, zu strenge Fiskalregeln verwandeln sich buchstäblich in einen institutionellen Käfig.
+
+103
+00:07:18,639 --> 00:07:24,680
+Sie nehmen den Politikern versehentlich den einzigen finanziellen Hebel aus der Hand, den sie haben, um
+
+104
+00:07:24,680 --> 00:07:26,639
+einen akzeptablen Kompromiss zu finden.
+
+105
+00:07:26,639 --> 00:07:31,919
+Ohne das Ventil der Schulden werden die Kosten in Form von Stimmen für eine nützliche Reform
+
+106
+00:07:31,919 --> 00:07:37,560
+unerschwinglich, und so ist das ganze Land zur völligen Untätigkeit verdammt.
+
+107
+00:07:37,560 --> 00:07:38,560
+völligen Untätigkeit.
+
+108
+00:07:38,560 --> 00:07:43,279
+Und hier schließt sich der Kreis, und wir bleiben mit einer ziemlich großen Provokation zurück.
+
+109
+00:07:43,279 --> 00:07:48,000
+Wir haben gerade gesehen, wie Schulden, oft als das absolute Übel dargestellt, in Wirklichkeit
+
+110
+00:07:48,000 --> 00:07:52,279
+das entscheidende Instrument sind, um Fortschritt in einer modernen Demokratie zu verhandeln.
+
+111
+00:07:52,279 --> 00:07:57,439
+Die wahre Frage ist also: Ist es möglich, dass gerade die Regeln zur Haushaltsdisziplin,
+
+112
+00:07:57,439 --> 00:08:02,319
+die eigentlich dazu gedacht waren, unsere Wirtschaft zu schützen, die Politiker in Wirklichkeit daran hindern,
+
+113
+00:08:02,319 --> 00:08:04,399
+in unsere Zukunft zu investieren?
+
+114
+00:08:04,399 --> 00:08:08,879
+Denken Sie darüber nach, es ist eine Frage, die unsere Sichtweise auf öffentliche Ausgaben wirklich völlig auf den Kopf stellen könnte.
+
+115
+00:08:08,879 --> 00:08:09,759
+auf öffentliche Ausgaben.

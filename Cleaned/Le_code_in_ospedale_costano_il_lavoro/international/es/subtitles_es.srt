@@ -1,0 +1,652 @@
+1
+00:00:00,000 --> 00:00:02,000
+¿Las colas en el hospital le cuestan trabajo?
+
+2
+00:00:02,000 --> 00:00:05,000
+Hola a todos y bienvenidos a esta nueva visión.
+
+3
+00:00:05,000 --> 00:00:10,000
+Hoy arrojaremos luz sobre los costes reales, los ocultos de las listas de espera médica.
+
+4
+00:00:10,000 --> 00:00:14,000
+Nos sumergiremos de lleno en los datos de una investigación cuanto menos fascinante,
+
+5
+00:00:14,000 --> 00:00:17,000
+publicado en el America Economic Journal.
+
+6
+00:00:17,000 --> 00:00:22,000
+El objetivo es analizar los datos y gráficos originales del estudio para comprender, en pocas palabras,
+
+7
+00:00:22,000 --> 00:00:26,000
+lo que realmente sucede mientras la gente espera su turno en el hospital.
+
+8
+00:00:26,000 --> 00:00:30,000
+Comencemos con la primera parte, el enigma de la lista de espera.
+
+9
+00:00:30,000 --> 00:00:36,000
+Seamos realistas, la frustrante experiencia de tener que esperar meses para una cirugía ortopédica.
+
+10
+00:00:36,000 --> 00:00:39,000
+no urgente, como quizás protección para la cadera o la rodilla,
+
+11
+00:00:39,000 --> 00:00:42,000
+es una historia que conocemos muy bien.
+
+12
+00:00:42,000 --> 00:00:47,000
+Pero esto nos lleva directamente a una cuestión que trastoca por completo nuestra perspectiva habitual.
+
+13
+00:00:47,000 --> 00:00:51,000
+El daño real de estas colas interminables es sólo físico,
+
+14
+00:00:51,000 --> 00:00:55,000
+o también afecta devastadoramente la capacidad de producir ingresos
+
+15
+00:00:55,000 --> 00:01:00,000
+y para mantener una carguera, en fin el daño es al cuerpo o a la billetera.
+
+16
+00:01:00,000 --> 00:01:04,000
+El instinto y el sentido común sugieren una respuesta que parece obvia.
+
+17
+00:01:04,000 --> 00:01:07,000
+Es natural pensar en hacer esperar mucho tiempo a un paciente.
+
+18
+00:01:07,000 --> 00:01:10,000
+significa condenarlo a una decadencia física inexorable.
+
+19
+00:01:10,000 --> 00:01:13,000
+Articulaciones que empeoran, dolor que aumenta,
+
+20
+00:01:13,000 --> 00:01:15,000
+tal vez la necesidad de acudir corriendo a la sala de urgencias.
+
+21
+00:01:15,000 --> 00:01:17,000
+Ah, perfecto sentido, ¿verdad?
+
+22
+00:01:17,000 --> 00:01:21,000
+Pero la verdadera pregunta es: ¿los datos realmente confirman este extinto nuestro?
+
+23
+00:01:21,000 --> 00:01:26,000
+Y aquí entramos en la segunda parte, donde descubrimos el truco de los economistas.
+
+24
+00:01:26,000 --> 00:01:30,000
+En medicina, demostrar causa y efecto es un verdadero enigma
+
+25
+00:01:30,000 --> 00:01:35,000
+porque, debido a que los sistemas de salud tienden, con razón, a operar primero con aquellos que están en peor situación,
+
+26
+00:01:35,000 --> 00:01:38,000
+sin embargo, esto crea una distorsión en los datos, porque quienes esperan poco tiempo
+
+27
+00:01:38,000 --> 00:01:41,000
+a menudo son aquellos cuya salud ya es precaria.
+
+28
+00:01:41,000 --> 00:01:45,000
+Resulta que los autores del estudio tuvieron una brillante intuición.
+
+29
+00:01:45,000 --> 00:01:48,000
+utilizando un concepto llamado estafa de gestión u hospitalario.
+
+30
+00:01:48,000 --> 00:01:51,000
+En lugar de observar cuánto tiempo espera el individuo,
+
+31
+00:01:51,000 --> 00:01:54,000
+midieron el tiempo de espera promedio de otros pacientes,
+
+32
+00:01:54,000 --> 00:01:57,000
+en ese mismo hospital exactamente al mismo tiempo.
+
+33
+00:01:57,000 --> 00:02:02,000
+Esto es pura casualidad y nos permite aislar el efecto de la espera de forma quirúrgica.
+
+34
+00:02:02,000 --> 00:02:04,000
+Miremos esta línea subiendo.
+
+35
+00:02:04,000 --> 00:02:07,000
+Nos muestra claramente una relación lineal.
+
+36
+00:02:07,000 --> 00:02:10,000
+Si llega al hospital en un momento en que el sistema está congestionado,
+
+37
+00:02:10,000 --> 00:02:13,000
+la espera individual será inevitablemente más larga.
+
+38
+00:02:13,000 --> 00:02:16,000
+Utilizando esta congestión, como herramienta estadística,
+
+39
+00:02:16,000 --> 00:02:19,000
+los investigadores finalmente obtuvieron datos limpios e inexpugnables
+
+40
+00:02:19,000 --> 00:02:21,000
+y sobre todo completamente desatada
+
+41
+00:02:21,000 --> 00:02:24,000
+de cualquier otra variable clínica del paciente.
+
+42
+00:02:24,000 --> 00:02:28,000
+Pasemos a la tercera parte, con un título que lo dice todo.
+
+43
+00:02:28,000 --> 00:02:31,000
+Salud intacta, trabajo perdido.
+
+44
+00:02:31,000 --> 00:02:35,000
+Prepárense porque los datos aquí desacreditan el principal falso mito.
+
+45
+00:02:35,000 --> 00:02:38,000
+con un giro loco.
+
+46
+00:02:38,000 --> 00:02:41,000
+Increíblemente, las esperas más largas no provocan ningún aumento en las visitas
+
+47
+00:02:41,000 --> 00:02:44,000
+por el médico de cabecera, ni aumentan la probabilidad
+
+48
+00:02:44,000 --> 00:02:47,000
+de hospitalizaciones de emergencia en los siguientes cinco años.
+
+49
+00:02:47,000 --> 00:02:49,000
+La salud inicial general se mantiene.
+
+50
+00:02:49,000 --> 00:02:53,000
+El verdadero desastre ocurre en un campo de batalla completamente diferente.
+
+51
+00:02:53,000 --> 00:02:56,000
+La oferta de trabajo se lleva una paliza y los días de ausencia
+
+52
+00:02:56,000 --> 00:02:58,000
+literalmente se disparan.
+
+53
+00:02:58,000 --> 00:03:02,000
+Al analizar los gráficos del estudio, el contraste es asombroso.
+
+54
+00:03:02,000 --> 00:03:05,000
+En los paneles superiores se indica el uso de las instalaciones hospitalarias.
+
+55
+00:03:05,000 --> 00:03:09,000
+Vemos líneas prácticamente planas, sin aumento significativo.
+
+56
+00:03:09,000 --> 00:03:11,000
+Pero miremos hacia los paneles inferiores,
+
+57
+00:03:11,000 --> 00:03:13,000
+aquellos que rastrean las ausencias por enfermedad
+
+58
+00:03:13,000 --> 00:03:16,000
+y nuevas entradas sobre incapacidad permanente.
+
+59
+00:03:16,000 --> 00:03:20,000
+Allí las filas aumentaron dramáticamente en los años posteriores a la solicitud de intervención.
+
+60
+00:03:20,000 --> 00:03:23,000
+De hecho, la espera no ha desgastado el cuerpo,
+
+61
+00:03:23,000 --> 00:03:26,000
+pero literalmente ha fracturado el vínculo con el mundo del trabajo.
+
+62
+00:03:26,000 --> 00:03:29,000
+Y si queremos traducir estos gráficos en números precisos,
+
+63
+00:03:29,000 --> 00:03:31,000
+las cifras hablan muy claramente,
+
+64
+00:03:31,000 --> 00:03:34,000
+el estudio calculó que 10 días extra de espera son suficientes
+
+65
+00:03:34,000 --> 00:03:38,000
+provocar 8,7 días más de ausencia laboral,
+
+66
+00:03:38,000 --> 00:03:40,000
+repartidos en 5 años.
+
+67
+00:03:40,000 --> 00:03:43,000
+Y no termina ahí, hay un aumento mensurable
+
+68
+00:03:43,000 --> 00:03:45,000
+el riesgo de acabar con una incapacidad permanente.
+
+69
+00:03:45,000 --> 00:03:48,000
+Todo esto, lo repito porque es fundamental,
+
+70
+00:03:48,000 --> 00:03:51,000
+ocurre sin ningún aumento significativo en las visitas médicas
+
+71
+00:03:51,000 --> 00:03:53,000
+o en el uso de los servicios de salud.
+
+72
+00:03:53,000 --> 00:03:55,000
+Así entramos en la cuarta parte,
+
+73
+00:03:55,000 --> 00:03:58,000
+la trampa del ausencia prolongada.
+
+74
+00:03:58,000 --> 00:04:00,000
+Ahora surge la pregunta espontánea,
+
+75
+00:04:00,000 --> 00:04:04,000
+pero ¿cómo es posible que ese efecto afecte tu carrera?
+
+76
+00:04:04,000 --> 00:04:07,000
+La piedra angular es un concepto que los economistas
+
+77
+00:04:07,000 --> 00:04:09,000
+lo llaman Dependencia del Estado,
+
+78
+00:04:09,000 --> 00:04:11,000
+es decir, la dependencia del estado actual.
+
+79
+00:04:11,000 --> 00:04:13,000
+En pocas palabras, cuanto más tiempo pasas
+
+80
+00:04:13,000 --> 00:04:15,000
+lejos de la oficina o fábrica,
+
+81
+00:04:15,000 --> 00:04:18,000
+cuanto más se rompen los hilos que nos unen al mercado laboral.
+
+82
+00:04:18,000 --> 00:04:21,000
+Las habilidades se oxidan, los contactos se pierden
+
+83
+00:04:21,000 --> 00:04:24,000
+Y esta distancia crea una verdadera barrera.
+
+84
+00:04:24,000 --> 00:04:26,000
+tanto psicológico como logístico.
+
+85
+00:04:26,000 --> 00:04:28,000
+La vuelta a la normalidad se convierte en una montaña
+
+86
+00:04:28,000 --> 00:04:30,000
+cada vez más empinado para subir.
+
+87
+00:04:30,000 --> 00:04:32,000
+Y llegamos al descubrimiento.
+
+88
+00:04:32,000 --> 00:04:34,000
+que es quizás el corazón de todo el análisis.
+
+89
+00:04:34,000 --> 00:04:36,000
+Este vertiginoso colapso del trabajo
+
+90
+00:04:36,000 --> 00:04:38,000
+No afecta a todos de la misma manera.
+
+91
+00:04:38,000 --> 00:04:41,000
+De hecho, el daño es casi implacable.
+
+92
+00:04:41,000 --> 00:04:44,000
+exclusivamente en un grupo súper específico.
+
+93
+00:04:44,000 --> 00:04:46,000
+Hablemos de los pacientes que ya estaban en casa.
+
+94
+00:04:46,000 --> 00:04:48,000
+baja por enfermedad.
+
+95
+00:04:48,000 --> 00:04:50,000
+En el momento exacto en que el doctor
+
+96
+00:04:50,000 --> 00:04:52,000
+les recetó cirugía.
+
+97
+00:04:52,000 --> 00:04:55,000
+Mira este número 27.
+
+98
+00:04:55,000 --> 00:04:57,000
+Es un número que engloba toda la gravedad.
+
+99
+00:04:57,000 --> 00:04:59,000
+de la situación de este grupo de personas.
+
+100
+00:04:59,000 --> 00:05:01,000
+Para los que ya están en casa enfermos.
+
+101
+00:05:02,000 --> 00:05:05,000
+tener que esperar sólo 10 días más para la operación
+
+102
+00:05:05,000 --> 00:05:08,000
+genera 27 días a largo plazo
+
+103
+00:05:08,000 --> 00:05:10,000
+de licencia laboral adicional.
+
+104
+00:05:10,000 --> 00:05:12,000
+Además, acelera drásticamente la transición.
+
+105
+00:05:12,000 --> 00:05:14,000
+hacia la incapacidad permanente.
+
+106
+00:05:14,000 --> 00:05:17,000
+Es una verdadera reacción en cadena, imparable.
+
+107
+00:05:17,000 --> 00:05:19,000
+Para contrarrestar todo esto,
+
+108
+00:05:19,000 --> 00:05:21,000
+los datos nos dicen que los pacientes que tuvieron éxito
+
+109
+00:05:21,000 --> 00:05:23,000
+todavía va a trabajar, en el momento de la visita,
+
+110
+00:05:23,000 --> 00:05:25,000
+a pesar de tener un problema ortopédico,
+
+111
+00:05:25,000 --> 00:05:28,000
+no sufren este daño profesional a largo plazo.
+
+112
+00:05:28,000 --> 00:05:30,000
+Para ellos, esperar un poco más significa
+
+113
+00:05:30,000 --> 00:05:32,000
+simplemente mueva la fecha de la operación,
+
+114
+00:05:32,000 --> 00:05:34,000
+No les hagas saltar del mercado laboral.
+
+115
+00:05:34,000 --> 00:05:36,000
+Es una prueba clara de que la trampa ha sido lanzada.
+
+116
+00:05:36,000 --> 00:05:38,000
+por una combinación fatal,
+
+117
+00:05:38,000 --> 00:05:40,000
+estar ya ausente y sufrir más espera
+
+118
+00:05:40,000 --> 00:05:42,000
+colocado por el sistema.
+
+119
+00:05:42,000 --> 00:05:45,000
+Y llegamos a nuestra quinta y última parte.
+
+120
+00:05:45,000 --> 00:05:47,000
+¿Quién paga la factura final?
+
+121
+00:05:47,000 --> 00:05:50,000
+Una vez que comprenda la dinámica de los individuos,
+
+122
+00:05:50,000 --> 00:05:52,000
+No hace falta mucho para comprender que, a gran escala,
+
+123
+00:05:52,000 --> 00:05:55,000
+Esta avalancha financiera abruma las arcas públicas.
+
+124
+00:05:55,000 --> 00:05:57,000
+El verdadero recuento de las listas de espera
+
+125
+00:05:57,000 --> 00:05:59,000
+No es sólo el gasto de funcionamiento del hospital.
+
+126
+00:05:59,000 --> 00:06:01,000
+Quizás fue sólo eso.
+
+127
+00:06:01,000 --> 00:06:04,000
+Es el pago ampliado de las prestaciones por enfermedad.
+
+128
+00:06:04,000 --> 00:06:06,000
+Es la apertura de nuevos, muy pesados,
+
+129
+00:06:06,000 --> 00:06:08,000
+controles de discapacidad para personas que de otro modo
+
+130
+00:06:08,000 --> 00:06:10,000
+volverían a trabajar.
+
+131
+00:06:10,000 --> 00:06:12,000
+Y ella es, obviamente, Maria di Tasse.
+
+132
+00:06:12,000 --> 00:06:14,000
+que el estado ya no recauda
+
+133
+00:06:14,000 --> 00:06:16,000
+porque estas personas perdieron sus trabajos.
+
+134
+00:06:16,000 --> 00:06:19,000
+Un efecto dominó despiadado para las finanzas públicas.
+
+135
+00:06:19,000 --> 00:06:22,000
+Los cálculos que los autores del estudio ponen sobre la mesa
+
+136
+00:06:22,000 --> 00:06:24,000
+son realmente esclarecedores.
+
+137
+00:06:24,000 --> 00:06:26,000
+Nos muestran en blanco y negro
+
+138
+00:06:26,000 --> 00:06:27,000
+y el ahorro fiscal resultante
+
+139
+00:06:27,000 --> 00:06:29,000
+de pagar menos beneficios,
+
+140
+00:06:29,000 --> 00:06:31,000
+si sólo las personas fueran operadas a tiempo,
+
+141
+00:06:31,000 --> 00:06:33,000
+superar y por lejos,
+
+142
+00:06:33,000 --> 00:06:35,000
+los costos inmediatos para financiar
+
+143
+00:06:35,000 --> 00:06:37,000
+esas operaciones médicas adicionales.
+
+144
+00:06:37,000 --> 00:06:39,000
+Por tanto, desde un punto de vista puramente económico,
+
+145
+00:06:39,000 --> 00:06:41,000
+Recortar las listas de espera no supone un coste.
+
+146
+00:06:41,000 --> 00:06:43,000
+Es una inversión que genera
+
+147
+00:06:43,000 --> 00:06:45,000
+un ahorro neto colosal.
+
+148
+00:06:45,000 --> 00:06:47,000
+Y cerramos este análisis en profundidad
+
+149
+00:06:47,000 --> 00:06:49,000
+con una provocación que invita a la reflexión.
+
+150
+00:06:49,000 --> 00:06:51,000
+A la luz de estos datos
+
+151
+00:06:51,000 --> 00:06:53,000
+tenemos que cuestionarnos seriamente
+
+152
+00:06:53,000 --> 00:06:56,000
+sobre cuán eficientes son nuestras políticas sanitarias.
+
+153
+00:06:56,000 --> 00:06:58,000
+Toleran y colas interminables en los hospitales
+
+154
+00:06:58,000 --> 00:07:00,000
+para intentar ahorrar en los presupuestos actuales.
+
+155
+00:07:00,000 --> 00:07:02,000
+Cuando entonces la consecuencia directa
+
+156
+00:07:02,000 --> 00:07:04,000
+está pagando años de beneficios de imballidad
+
+157
+00:07:04,000 --> 00:07:06,000
+y quemar mano de obra mañana.
+
+158
+00:07:06,000 --> 00:07:08,000
+Tiene mucho sentido lógico.
+
+159
+00:07:08,000 --> 00:07:10,000
+Os dejo con esta pregunta.
+
+160
+00:07:10,000 --> 00:07:12,000
+Gracias por seguir este análisis.
+
+161
+00:07:12,000 --> 00:07:14,000
+Con suerte, hemos ofrecido una nueva perspectiva.
+
+162
+00:07:14,000 --> 00:07:16,000
+sobre un problema tan real y costoso.
+
+163
+00:07:16,000 --> 00:07:18,000
+Hasta la próxima.
+

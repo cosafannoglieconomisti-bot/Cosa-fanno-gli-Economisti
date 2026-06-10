@@ -1,0 +1,639 @@
+1
+00:00:00,000 --> 00:00:03,640
+Bienvenidos, sumerjámonos de lleno en esta nueva exploración.
+
+2
+00:00:03,640 --> 00:00:08,640
+Hoy analizamos un artículo económico realmente increíble por su rigor metodológico.
+
+3
+00:00:08,640 --> 00:00:11,359
+Firmado por Alberto Alesina y Eliana La Ferrara,
+
+4
+00:00:11,359 --> 00:00:14,599
+este estudio aborda un tema profundamente delicado:
+
+5
+00:00:14,599 --> 00:00:17,199
+la pena de muerte y los prejuicios raciales.
+
+6
+00:00:17,199 --> 00:00:21,120
+Y lo hace de una manera única, utilizando exclusivamente la pura estadística,
+
+7
+00:00:21,120 --> 00:00:24,240
+sin dejar espacio a opiniones personales o especulaciones.
+
+8
+00:00:24,240 --> 00:00:27,800
+Es un trabajo fascinante que nos hace comprender cómo las herramientas de la economía
+
+9
+00:00:27,800 --> 00:00:32,480
+pueden sacar a la luz dinámicas ocultas en el corazón mismo del sistema judicial.
+
+10
+00:00:32,480 --> 00:00:35,640
+Empecemos con un dato que sin duda invita a la reflexión:
+
+11
+00:00:35,640 --> 00:00:41,920
+según Amnistía Internacional, los afroamericanos representan más del 40% de los presos actuales
+
+12
+00:00:41,920 --> 00:00:44,280
+en el corredor de la muerte en los Estados Unidos.
+
+13
+00:00:44,280 --> 00:00:48,159
+Esta es la premisa fáctica de la que parte todo el estudio.
+
+14
+00:00:48,159 --> 00:00:51,359
+En la práctica, nos dice que las minorías están representadas de manera
+
+15
+00:00:51,359 --> 00:00:55,799
+enormemente desproporcionada en el corredor de la muerte en comparación con su peso real
+
+16
+00:00:55,800 --> 00:00:57,800
+en la población general.
+
+17
+00:00:57,800 --> 00:01:00,440
+Y aquí surge de forma natural una pregunta:
+
+18
+00:01:00,440 --> 00:01:04,600
+¿bastan estos simples datos brutos para demostrar un prejuicio?
+
+19
+00:01:04,600 --> 00:01:09,560
+Bueno, en el campo económico y estadístico, sacar conclusiones mirando un solo número agregado
+
+20
+00:01:09,560 --> 00:01:11,040
+es sumamente arriesgado.
+
+21
+00:01:11,040 --> 00:01:13,439
+Esta disparidad numérica, por fuerte que sea,
+
+22
+00:01:13,439 --> 00:01:18,480
+no es en absoluto suficiente para probar científicamente una distorsión en el sistema.
+
+23
+00:01:18,480 --> 00:01:23,280
+Debemos preguntarnos necesariamente si hay otros factores ocultos que impulsan estas cifras
+
+24
+00:01:23,280 --> 00:01:25,280
+antes de poder emitir un veredicto.
+
+25
+00:01:25,320 --> 00:01:29,320
+Así es como procederemos hoy: uno, el límite de los datos;
+
+26
+00:01:29,320 --> 00:01:32,159
+dos, analizaremos los errores judiciales;
+
+27
+00:01:32,159 --> 00:01:34,359
+tres, la lógica del modelo;
+
+28
+00:01:34,359 --> 00:01:37,320
+cuatro, los resultados a escala nacional;
+
+29
+00:01:37,320 --> 00:01:39,400
+cinco, el papel del sur;
+
+30
+00:01:39,400 --> 00:01:42,640
+y finalmente, seis, las conclusiones del estudio.
+
+31
+00:01:42,640 --> 00:01:46,000
+Empecemos por el primer punto, el límite de los datos,
+
+32
+00:01:46,000 --> 00:01:49,280
+es decir, el verdadero problema de las estadísticas brutas.
+
+33
+00:01:49,280 --> 00:01:52,640
+Pero ¿por qué limitarse a las simples tasas de condena es un error?
+
+34
+00:01:52,680 --> 00:01:55,120
+El motivo es que las tasas de delitos violentos,
+
+35
+00:01:55,120 --> 00:01:57,239
+al igual que muchos otros factores sociales,
+
+36
+00:01:57,239 --> 00:01:59,719
+varían entre los diferentes grupos demográficos.
+
+37
+00:01:59,719 --> 00:02:04,519
+Aquí entra en juego lo que en estadística llamamos el peligro de las variables omitidas.
+
+38
+00:02:04,519 --> 00:02:06,159
+Para realizar una prueba rigurosa,
+
+39
+00:02:06,159 --> 00:02:09,360
+un modelo debe considerar necesariamente esos factores ocultos
+
+40
+00:02:09,360 --> 00:02:11,680
+que podrían estar vinculados a la etnia.
+
+41
+00:02:11,680 --> 00:02:13,280
+Pongamos un ejemplo práctico.
+
+42
+00:02:13,280 --> 00:02:17,400
+Si un grupo determinado cometiera delitos con mayores agravantes,
+
+43
+00:02:17,400 --> 00:02:20,680
+como múltiples víctimas o antecedentes penales más graves,
+
+44
+00:02:20,719 --> 00:02:24,319
+una simple tasa media de condenas parecería distorsionada,
+
+45
+00:02:24,319 --> 00:02:28,080
+incluso si el tribunal estuviera juzgando de manera perfectamente equitativa.
+
+46
+00:02:28,080 --> 00:02:32,080
+En resumen, nos faltan demasiadas piezas del rompecabezas para juzgar solo por los totales.
+
+47
+00:02:32,080 --> 00:02:34,159
+Pasemos al segundo punto,
+
+48
+00:02:34,159 --> 00:02:36,439
+analizar los errores judiciales,
+
+49
+00:02:36,439 --> 00:02:40,159
+una prueba que calificaría de absolutamente brillante.
+
+50
+00:02:40,159 --> 00:02:44,040
+Entonces, ¿cómo sorteamos este enorme obstáculo de los datos faltantes?
+
+51
+00:02:44,040 --> 00:02:47,080
+Los autores tuvieron una intuición analitica genial.
+
+52
+00:02:47,080 --> 00:02:50,600
+En lugar de fijarse en las condenas dictadas en los tribunales de primera instancia,
+
+53
+00:02:50,599 --> 00:02:53,799
+se concentraron directamente en los errores judiciales.
+
+54
+00:02:53,799 --> 00:02:56,479
+Específicamente, estudiaron las condenas a muerte
+
+55
+00:02:56,479 --> 00:02:58,919
+que fueron anuladas por los tribunales superiores.
+
+56
+00:02:58,919 --> 00:03:02,919
+En los Estados Unidos, para los casos capitales existen dos instancias de apelación automática.
+
+57
+00:03:02,919 --> 00:03:05,560
+La apelación directa, gestionada por los tribunales estatales,
+
+58
+00:03:05,560 --> 00:03:08,439
+y el habeas corpus gestionado por los tribunales federales.
+
+59
+00:03:08,439 --> 00:03:11,159
+La idea clave aquí es asumir que los tribunales superiores
+
+60
+00:03:11,159 --> 00:03:15,439
+intervienen para corregir los defectos y prejuicios de los tribunales de primera instancia.
+
+61
+00:03:15,439 --> 00:03:16,079
+¿Por qué?
+
+62
+00:03:16,079 --> 00:03:20,079
+Porque los jueces federales, por ejemplo, están más alejados de las presiones políticas locales
+
+63
+00:03:20,080 --> 00:03:23,960
+y pueden evaluar los hechos de manera más distanciada e imparcial.
+
+64
+00:03:23,960 --> 00:03:27,280
+Llegamos al tercer punto: la lógica del modelo,
+
+65
+00:03:27,280 --> 00:03:30,040
+cómo deciden en la práctica los tribunales.
+
+66
+00:03:30,040 --> 00:03:35,000
+Teoricamente, un tribunal de primera instancia está siempre en vilo entre dos grandes temores:
+
+67
+00:03:35,000 --> 00:03:38,680
+condenar a un inocente o dejar libre a un culpable.
+
+68
+00:03:38,680 --> 00:03:41,200
+Si miramos los gráficos originales del artículo,
+
+69
+00:03:41,200 --> 00:03:45,480
+vemos precisamente el efecto de vaivén de esta dinámica tan delicada.
+
+70
+00:03:45,480 --> 00:03:48,720
+Imaginemos que un jurado, tal vez incluso a nivel inconsciente,
+
+71
+00:03:48,759 --> 00:03:52,560
+otorgue menor peso al gravísimo riesgo de condenar a un inocente
+
+72
+00:03:52,560 --> 00:03:55,360
+cuando la víctima tiene ciertas características.
+
+73
+00:03:55,360 --> 00:03:59,840
+En consecuencia, reducirá el umbral de certeza necesario para condenar.
+
+74
+00:03:59,840 --> 00:04:04,120
+Matemáticamente, esto aumenta el llamado error de tipo I.
+
+75
+00:04:04,120 --> 00:04:07,879
+En pocas palabras, se dictarán más condenas dudosas
+
+76
+00:04:07,879 --> 00:04:13,199
+y, fisiológicamente, habrá más errores que los tribunales superiores tendrán que revocar después.
+
+77
+00:04:13,199 --> 00:04:18,160
+Y es aquí donde el método de este estudio da un salto de calidad increíble.
+
+78
+00:04:18,200 --> 00:04:22,040
+Hacer comparaciones basándose única y exclusivamente en la etnia del acusado
+
+79
+00:04:22,040 --> 00:04:23,840
+es profundamente engañoso,
+
+80
+00:04:23,840 --> 00:04:27,840
+porque esas variables ocultas seguirían contaminando los datos.
+
+81
+00:04:27,840 --> 00:04:31,640
+La genialidad radica en haber utilizado una prueba basada en el rango.
+
+82
+00:04:31,640 --> 00:04:35,480
+Al mantener constante la etnia del acusado y cambiar únicamente la de la víctima,
+
+83
+00:04:35,480 --> 00:04:38,520
+se logra aislar quirúrgicamente el prejuicio.
+
+84
+00:04:38,520 --> 00:04:41,480
+Si mantenemos fijo el hecho de que el acusado pertenece a una minoría
+
+85
+00:04:41,480 --> 00:04:45,360
+y observamos que la tasa de error cambia drásticamente dependiendo de si la víctima
+
+86
+00:04:45,400 --> 00:04:46,920
+es blanca o no blanca,
+
+87
+00:04:46,920 --> 00:04:50,280
+¡pum! Hemos eliminado las otras excusas estadísticas,
+
+88
+00:04:50,280 --> 00:04:55,480
+estamos probando el comportamiento del tribunal cambiando un único factor externo.
+
+89
+00:04:55,480 --> 00:04:59,280
+Punto número 4: los resultados a escala nacional.
+
+90
+00:04:59,280 --> 00:05:01,840
+Vamos a descubrir los datos reales.
+
+91
+00:05:01,840 --> 00:05:04,720
+Y ojo, no estamos hablando de pura teoría.
+
+92
+00:05:04,720 --> 00:05:09,240
+Estos resultados provienen de enormes bases de datos reales en todos los Estados Unidos,
+
+93
+00:05:09,240 --> 00:05:13,280
+entre 1973 y 1995.
+
+94
+00:05:13,320 --> 00:05:18,000
+En la fase final de Habeas Corpus, cuando un acusado perteneciente a una minoría
+
+95
+00:05:18,000 --> 00:05:24,000
+asesina a víctima blanca, la tasa de sentencias anuladas es del 37,6%.
+
+96
+00:05:24,000 --> 00:05:28,800
+Pero si la víctima no es blanca, esta tasa cae al 28,4%.
+
+97
+00:05:28,800 --> 00:05:32,760
+Hablamos de una diferencia enorme de nada menos que 9 puntos porcentuales.
+
+98
+00:05:32,760 --> 00:05:37,160
+Piensen en el peso real de estos números; estamos hablando de 9 puntos porcentuales
+
+99
+00:05:37,160 --> 00:05:41,680
+más de condenas erróneas en juicios donde está en juego la vida de una persona.
+
+100
+00:05:41,720 --> 00:05:46,240
+Es una disparidad sistémica enorme y estadísticamente muy sólida.
+
+101
+00:05:46,240 --> 00:05:49,959
+Ahora, para mantener un enfoque totalmente imparcial y científico,
+
+102
+00:05:49,959 --> 00:05:51,920
+debemos voltear el espejo.
+
+103
+00:05:51,920 --> 00:05:54,480
+¿Qué sucede con los acusados blancos?
+
+104
+00:05:54,480 --> 00:05:57,560
+En estos casos, la diferencia de error va en la dirección opuesta,
+
+105
+00:05:57,560 --> 00:06:01,120
+pero los datos nos dicen claramente que sigue siendo estadísticamente relevante.
+
+106
+00:06:01,120 --> 00:06:04,920
+No existe una prueba matemática sólida de un prejuicio inverso.
+
+107
+00:06:04,920 --> 00:06:08,360
+La verdadera y fortísima distorsión certificada por los números
+
+108
+00:06:08,360 --> 00:06:11,800
+ocurre únicamente en ese primer y específico cruce interracial.
+
+109
+00:06:11,800 --> 00:06:14,439
+Quinto punto: el papel del sur,
+
+110
+00:06:14,439 --> 00:06:18,360
+un verdadero giro geográfico en nuestra investigación.
+
+111
+00:06:18,360 --> 00:06:21,360
+Sí, porque ese patrón nacional de prejuicio
+
+112
+00:06:21,360 --> 00:06:24,199
+esconde en su interior una anomalía increíble
+
+113
+00:06:24,199 --> 00:06:28,400
+y está impulsado casi en su totalidad por una región estadounidense específica: el sur.
+
+114
+00:06:28,400 --> 00:06:31,720
+Escuchen esta cifra: 15,6.
+
+115
+00:06:31,720 --> 00:06:34,520
+15,6 puntos porcentuales.
+
+116
+00:06:34,560 --> 00:06:38,359
+Esta es la gigantesca diferencia registrada en el sur de los Estados Unidos
+
+117
+00:06:38,359 --> 00:06:40,159
+durante la fase de Habeas Corpus,
+
+118
+00:06:40,159 --> 00:06:44,359
+para acusados de minorías con víctimas blancas en comparación con víctimas no blancas.
+
+119
+00:06:44,359 --> 00:06:48,319
+Una disparidad geográfica tal que distorsiona todo el promedio nacional,
+
+120
+00:06:48,319 --> 00:06:52,039
+mostrando cuán intenso es el fenómeno en esta área específica.
+
+121
+00:06:52,039 --> 00:06:54,240
+Y esto se vuelve aún más evidente
+
+122
+00:06:54,240 --> 00:06:56,719
+si miramos la primera línea de defensa.
+
+123
+00:06:56,719 --> 00:07:00,759
+Ya en la primerísima fase estatal de apelación directa, también en el sur,
+
+124
+00:07:00,759 --> 00:07:04,680
+hay una diferencia inicial de 3,3 puntos porcentuales.
+
+125
+00:07:04,680 --> 00:07:09,839
+Un porcentaje que luego se suma a ese 15,6% de la fase federal.
+
+126
+00:07:09,839 --> 00:07:13,719
+Todo esto nos describe una auténtica cadena de errores sistémicos,
+
+127
+00:07:13,719 --> 00:07:17,920
+con los tribunales federales obligados a corregir continuamente en múltiples niveles
+
+128
+00:07:17,920 --> 00:07:20,599
+las distorsiones provenientes del sur.
+
+129
+00:07:20,599 --> 00:07:24,039
+Sexto y último punto: las conclusiones del estudio.
+
+130
+00:07:24,039 --> 00:07:26,319
+Es hora de descartar las alternativas.
+
+131
+00:07:26,319 --> 00:07:30,000
+A estas alturas, científicamente hablando, se podrían preguntar:
+
+132
+00:07:30,040 --> 00:07:34,399
+¿no será que estos crímenes eran simplemente más graves que los demás?
+
+133
+00:07:34,399 --> 00:07:35,600
+Excelente pregunta.
+
+134
+00:07:35,600 --> 00:07:39,680
+Para responder, los autores aplicaron las llamadas pruebas de equilibrio,
+
+135
+00:07:39,680 --> 00:07:41,879
+pruebas matemáticas rigurosísimas,
+
+136
+00:07:41,879 --> 00:07:45,240
+para verificar si los delitos cometidos en estos cruces raciales
+
+137
+00:07:45,240 --> 00:07:47,879
+eran más atroces o con peores antecedentes.
+
+138
+00:07:47,879 --> 00:07:52,399
+Los resultados: las características se distribuyen de manera perfectamente homogénea,
+
+139
+00:07:52,399 --> 00:07:55,160
+los crímenes eran casi idénticos en gravedad.
+
+140
+00:07:55,160 --> 00:07:57,000
+Cada factor fue equilibrado,
+
+141
+00:07:57,000 --> 00:08:01,040
+dejando la etnia como la única e incontrovertible diferencia.
+
+142
+00:08:01,040 --> 00:08:05,079
+Todas las demás explicaciones estadísticas fueron descartadas de la mesa.
+
+143
+00:08:05,079 --> 00:08:08,120
+Haciendo un balance de este excepcional trabajo,
+
+144
+00:08:08,120 --> 00:08:11,040
+los fríos números nos indican sin rodeos
+
+145
+00:08:11,040 --> 00:08:15,720
+la existencia de un claro prejuicio racial dentro del sistema judicial,
+
+146
+00:08:15,720 --> 00:08:18,519
+arraigado ya desde la mismísima primera instancia.
+
+147
+00:08:18,519 --> 00:08:20,800
+Un prejuicio que actúa específicamente,
+
+148
+00:08:20,800 --> 00:08:21,920
+con los datos en la mano,
+
+149
+00:08:21,920 --> 00:08:25,560
+contra los acusados de minorías que asesinan a víctimas blancas
+
+150
+00:08:25,560 --> 00:08:29,959
+y que surge con una constancia impresionante precisamente en los estados del sur.
+
+151
+00:08:29,959 --> 00:08:34,480
+Antes de despedirnos, los dejo con esta última y profunda reflexión.
+
+152
+00:08:34,480 --> 00:08:40,720
+Sabemos que en promedio nacional se necesitan nada menos que nueve años en el corredor de la muerte
+
+153
+00:08:40,720 --> 00:08:44,480
+antes de que un error sea corregido mediante estas apelaciones.
+
+154
+00:08:44,480 --> 00:08:48,799
+Entonces, ¿cuál es el verdadero costo humano y social de este prejuicio?
+
+155
+00:08:48,799 --> 00:08:52,480
+No es solo un gráfico en un riguroso artículo de economía,
+
+156
+00:08:52,480 --> 00:08:54,200
+es una realidad medible,
+
+157
+00:08:54,200 --> 00:08:57,920
+que plantea enormes interrogantes sobre la equidad de la justicia
+
+158
+00:08:57,920 --> 00:09:01,840
+y sobre el impacto real de los números en la vida de las personas.
+
+159
+00:09:01,840 --> 00:09:06,360
+Sigamos siempre explorando, investigando y haciéndonos las preguntas correctas.
+
+160
+00:09:06,360 --> 00:09:09,560
+Gracias por seguir este análisis. Hasta la próxima.

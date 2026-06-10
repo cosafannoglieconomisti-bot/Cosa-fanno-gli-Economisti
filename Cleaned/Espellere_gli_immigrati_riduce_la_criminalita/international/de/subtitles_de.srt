@@ -1,0 +1,755 @@
+1
+00:00:00,000 --> 00:00:02,720
+Und reduziert die Abschiebung von Migranten die Kriminalität?
+
+2
+00:00:02,720 --> 00:00:07,160
+Willkommen zu diesem neuen Hintergrundbericht, in dem wir eine der brisantesten
+
+3
+00:00:07,160 --> 00:00:12,160
+und am heißesten diskutierten Fragen aller Zeiten untersuchen, und zwar auf eine etwas andere Art als sonst, indem wir
+
+4
+00:00:12,160 --> 00:00:17,359
+persönliche Meinungen und Politik völlig beiseite lassen und uns ausschließlich auf reine Wirtschaftsdaten verlassen.
+
+5
+00:00:17,359 --> 00:00:22,760
+Wir werden gemeinsam eine wirklich faszinierende Arbeit des Ökonomen Paolo Pinotti analysieren, betitelt „Immigration
+
+6
+00:00:22,760 --> 00:00:25,960
+Enforcement and Crime“, veröffentlicht im American Economic Review.
+
+7
+00:00:25,960 --> 00:00:31,280
+Das Ziel hierbei ist es, eine äußerst complexe Frage völlig objektiv zu beantworten.
+
+8
+00:00:31,280 --> 00:00:36,719
+Haben strengere Abschiebeverfahren wirklich einen realen Einfluss auf die Kriminalitätsraten?
+
+9
+00:00:36,719 --> 00:00:38,399
+Gehen wir direkt ins Detail.
+
+10
+00:00:38,399 --> 00:00:42,200
+Heute werden wir unsere Untersuchung in sechs schnelle Schritte gliedern.
+
+11
+00:00:42,200 --> 00:00:47,240
+Wir beginnen mit dem Versuch zu verstehen, was das Dilemma der Abschiebung ist, um dann in das italienische
+
+12
+00:00:47,240 --> 00:00:50,359
+Quotensystem und die Rolle internationaler Abkommen einzutauchen.
+
+13
+00:00:50,359 --> 00:00:54,240
+Danach werden wir uns das geniale Experiment der sogenannten „Click Days“ ansehen,
+
+14
+00:00:54,240 --> 00:00:59,719
+die echten Kriminalitätsdaten analysieren und schließlich Schlussfolgerungen für die Politik ziehen.
+
+15
+00:00:59,719 --> 00:10:02,880
+Punkt Nummer eins: Das Dilemma der Abschiebung.
+
+16
+00:01:02,880 --> 00:01:06,920
+Welches Rätsel müssen Ökonomen also lösen?
+
+17
+00:01:06,920 --> 00:01:12,120
+Um dieses Knäuel zu entwirren, müssen wir uns mit einem Kernkonzept der Wirtschaft vertraut machen:
+
+18
+00:01:12,120 --> 00:01:14,079
+den Opportunitätskosten.
+
+19
+00:01:14,079 --> 00:01:17,760
+Stellen Sie sich die Situation von jemandem vor, der sich ohne Papiere in einem Land aufhält,
+
+20
+00:01:17,760 --> 00:01:20,120
+nicht im offiziellen Sektor arbeiten kann –
+
+21
+00:01:20,120 --> 00:01:23,840
+die Möglichkeiten, ein legales Einkommen zu erzielen, brechen drastisch ein.
+
+22
+00:01:23,840 --> 00:01:27,600
+Folglich sind die Kosten für das Risiko einer kriminellen Aktivität, berechnet
+
+23
+00:01:27,600 --> 00:01:31,040
+in Form von entgangenen legalen Arbeitsmöglichkeiten im Falle einer Festnahme,
+
+24
+00:01:31,040 --> 00:01:34,920
+viel, viel niedriger als bei Personen mit regulärem Status.
+
+25
+00:01:34,920 --> 00:01:39,040
+Und wie die Daten bestätigen, lässt ein eingeschränkter Zugang zur offiziellen Wirtschaft
+
+26
+00:01:39,040 --> 00:01:41,840
+die Attraktivität von Kriminalität unweigerlich steigen.
+
+27
+00:01:41,840 --> 00:01:43,840
+Und hier entsteht das Dilemma.
+
+28
+00:01:43,840 --> 00:01:48,000
+Was passiert wirklich, wenn ein Land die Abschiebungen verschärft?
+
+29
+00:01:48,000 --> 00:01:51,600
+Auf der einen Seite haben wir den sogenannten Unschädlichmachungseffekt.
+
+30
+00:01:51,640 --> 00:01:55,680
+Wenn man eine Person physisch abschiebt, senkt man natürlich ihre Möglichkeit,
+
+31
+00:01:55,680 --> 00:01:58,160
+in diesem Land Straftaten zu begehen, auf Null.
+
+32
+00:01:58,160 --> 00:01:59,440
+Aber auf der anderen Seite?
+
+33
+00:01:59,440 --> 00:02:03,520
+Nun, eine extrem strikte Durchsetzung von Abschiebungen verringert drastisch
+
+34
+00:02:03,520 --> 00:02:06,720
+den erwarteten Nutzen und die Stabilität für jene illegalen Migranten,
+
+35
+00:02:06,720 --> 00:02:10,000
+die nicht abgeschoben werden oder nicht abgeschoben werden können.
+
+36
+00:02:10,000 --> 00:02:11,920
+Wenn sie wissen, dass sie morgen ausgewiesen werden können,
+
+37
+00:02:11,920 --> 00:02:14,080
+schwindet der Anreiz zur Integration,
+
+38
+00:02:14,080 --> 00:02:17,920
+und die berühmten Opportunitätskosten, von denen wir sprachen, sinken noch weiter.
+
+39
+00:02:17,920 --> 00:02:19,200
+Die große Frage ist:
+
+40
+00:02:19,200 --> 00:02:22,080
+Welche dieser beiden Kräfte setzt sich in der Realität durch?
+
+41
+00:02:22,080 --> 00:02:23,760
+Kommen wir zum zweiten Punkt.
+
+42
+00:02:23,760 --> 00:02:27,840
+Das italienische Quotensystem. Um diese große Frage zu beantworten,
+
+43
+00:02:27,840 --> 00:02:31,760
+nutzt unsere Studie ein natürliches Labor, das sich perfekt dafür anbietet:
+
+44
+00:02:31,760 --> 00:02:32,960
+Italien.
+
+45
+00:02:32,960 --> 00:02:37,280
+Historisch gesehen basierte die italienische Migrationspolitik auf einem jährlichen Quotensystem.
+
+46
+00:02:37,280 --> 00:02:41,040
+Aber das Interessante ist die völlige Diskrepanz zwischen dem Gesetzestext
+
+47
+00:02:41,040 --> 00:02:42,960
+und der tatsächlichen Praxis.
+
+48
+00:02:42,960 --> 00:02:45,760
+Die Theorie besagt, dass ein Arbeitgeber einen ausländischen Arbeitnehmer einstellt,
+
+49
+00:02:45,760 --> 00:02:48,320
+noch bevor dieser überhaupt einen Fuß in das Land setzt.
+
+50
+00:02:48,400 --> 00:02:49,359
+Aber seien wir ehrlich:
+
+51
+00:02:49,359 --> 00:02:52,159
+Wer würde jemals jemanden einstellen, ohne ihn je gesehen zu haben?
+
+52
+00:02:52,159 --> 00:02:54,000
+Der typische Weg sieht also anders aus.
+
+53
+00:02:54,000 --> 00:02:55,680
+Man reist inoffiziell nach Italien ein,
+
+54
+00:02:55,680 --> 00:02:58,959
+vielleicht indem man einfach ein ganz normales Touristenvisum ablaufen lässt.
+
+55
+00:02:58,959 --> 00:03:00,319
+Dann beginnt man, schwarz zu arbeiten,
+
+56
+00:03:00,319 --> 00:03:03,759
+in der Hoffnung, eines Tages einen Arbeitgeber zu finden, der bereit ist, als Sponsor aufzutreten,
+
+57
+00:03:03,759 --> 00:03:06,639
+genau dann, wenn die staatlichen Quoten freigegeben werden.
+
+58
+00:03:06,639 --> 00:03:11,439
+In dieser Schwebe ist das Risiko auf dem Papier die sofortige Abschiebung,
+
+59
+00:03:11,439 --> 00:03:14,000
+aber die Realität ist weitaus komplizierter,
+
+60
+00:03:14,000 --> 00:03:17,840
+und eine Person physisch abzuschieben, kostet den Staat extrem viel.
+
+61
+00:03:17,840 --> 00:03:22,479
+Zudem haben die Aufgegriffenen sehr oft keine gültigen Ausweisdokumente bei sich.
+
+62
+00:03:22,479 --> 00:03:25,840
+Und als ob das nicht genug wäre, weigern sich die Herkunftsländer oft,
+
+63
+00:03:25,840 --> 00:03:29,680
+einer Rückführung zuzustimmen, wenn keine absolute Gewissheit über die Staatsangehörigkeit besteht.
+
+64
+00:03:29,680 --> 00:03:32,879
+Das Endergebnis dieses Kurzschlusses ist ein Paradoxon.
+
+65
+00:03:32,879 --> 00:03:36,240
+In den allermeisten Fällen gibt es keinen tatsächlichen Rückflug,
+
+66
+00:03:36,240 --> 00:03:39,360
+sondern es wird lediglich eine schriftliche Aufforderung ausgehändigt –
+
+67
+00:03:39,360 --> 00:03:42,719
+die berühmte Ausweisungsverfügung, die zur Ausreise auffordert –,
+
+68
+00:03:42,719 --> 00:03:45,920
+ein Stück Papier, das praktisch wirkungslos bleibt.
+
+69
+00:03:46,000 --> 00:03:49,680
+Und da wären wir beim dritten Punkt: Die Rolle der Abkommen.
+
+70
+00:03:49,680 --> 00:03:53,360
+Es gibt nämlich eine entscheidende Ausnahme von dieser Regel der Ineffizienz,
+
+71
+00:03:53,360 --> 00:03:57,600
+und genau das ist das Puzzleteil, das es dieser Arbeit ermöglicht, ihre Magie zu entfalten.
+
+72
+00:03:57,600 --> 00:04:01,040
+Der Trick liegt in den bilateralen Abkommen zwischen Italien
+
+73
+00:04:01,040 --> 00:04:05,360
+und bestimmten Herkunftsländern, die geschlossen wurden, um illegale Migrationsströme zu kontrollieren.
+
+74
+00:04:05,360 --> 00:04:09,600
+Stellen Sie sich vor, das allererste wurde bereits 1994 mit Polen unterzeichnet.
+
+75
+00:04:09,600 --> 00:04:13,040
+Ein Blick auf die Daten der Tabelle aus der Studie macht es deutlich.
+
+76
+00:04:13,039 --> 00:04:14,959
+Wenn ein bilaterales Abkommen existiert,
+
+77
+00:04:14,959 --> 00:04:19,519
+steigt die tatsächliche Durchführung der Abschiebung statistisch massiv an,
+
+78
+00:04:19,519 --> 00:04:21,599
+selbst wenn man die Daten um andere Variablen bereinigt,
+
+79
+00:04:21,599 --> 00:04:24,719
+wie die geografische Distanz oder die Anzahl der Festnahmen.
+
+80
+00:04:24,719 --> 00:04:28,399
+Formulieren wir es einfacher, mit einigen Prozentzahlen:
+
+81
+00:04:28,399 --> 00:04:30,000
+Ohne ein zwischenstaatliches Abkommen
+
+82
+00:04:30,000 --> 00:04:34,639
+werden im Schnitt nur 25 % der aufgegriffenen Personen tatsächlich zurückgeführt.
+
+83
+00:04:34,639 --> 00:04:38,800
+Besteht jedoch ein Abkommen, schnellt die Quote auf 41 % hoch.
+
+84
+00:04:38,800 --> 00:04:41,680
+Dieser Unterschied ist pures Gold für einen Ökonomen,
+
+85
+00:04:41,680 --> 00:04:44,800
+weil er zwei perfekte natürliche Vergleichsgruppen schafft:
+
+86
+00:04:44,800 --> 00:04:47,920
+auf der einen Seite irreguläre Migranten mit einem geringen Abschiebungsrisiko,
+
+87
+00:04:47,920 --> 00:04:52,400
+auf der anderen Seite solche mit einem viel höheren und konkreteren Risiko.
+
+88
+00:04:52,400 --> 00:04:54,400
+Vierter grundlegender Schritt:
+
+89
+00:04:54,400 --> 00:04:56,199
+Das Experiment der „Click Days“.
+
+90
+00:04:56,199 --> 00:04:57,639
+Nun, da wir unsere beiden Gruppen haben:
+
+91
+00:04:57,639 --> 00:05:02,759
+Wie messen wir, ob dieses hohe Abschiebungsrisiko Kriminalität fördert oder eindämmt?
+
+92
+00:05:02,759 --> 00:05:05,960
+Das ist die klassische Herausforderung bei der Erforschung dieser Themen:
+
+93
+00:05:05,960 --> 00:05:07,759
+die Variable zu isolieren.
+
+94
+00:05:07,759 --> 00:05:11,120
+Wie können wir mit wissenschaftlicher Gewissheit sagen,
+
+95
+00:15:11,160 --> 00:05:15,199
+dass es genau der fehlende legale Status ist, der jemanden in die Kriminalität treibt,
+
+96
+00:05:15,199 --> 00:05:20,040
+und nicht etwa andere Unterschiede im Hintergrund, der Bildung oder den sozialen Bedingungen?
+
+97
+00:05:20,040 --> 00:05:21,840
+Es brauchte eine geniale Idee.
+
+98
+00:05:21,840 --> 00:05:24,319
+Und diese geniale Idee hat Pinotti gefunden,
+
+99
+00:05:24,319 --> 00:05:28,240
+indem er den berüchtigten italienischen Mechanismus der „Click Days“ nutzte.
+
+100
+00:05:28,240 --> 00:05:29,720
+Stellen Sie sich die Szene vor:
+
+101
+00:05:29,720 --> 00:05:33,560
+Aufenthaltstitel, die über ein Online-Portal vergeben werden,
+
+102
+00:05:33,560 --> 00:05:36,560
+das pünktlich um 8 Uhr morgens seine Pforten öffnete.
+
+103
+00:05:36,560 --> 00:05:40,480
+Es kam sofort zu einem regelrechten digitalen Stau.
+
+104
+00:05:40,600 --> 00:05:43,759
+Die Anträge wurden von den Servern im Millisekundenbereich verarbeitet,
+
+105
+00:05:43,759 --> 00:05:46,920
+in einer strengen Reihenfolge des Eingangs, vom ersten bis zum letzten,
+
+106
+00:05:46,920 --> 00:05:51,400
+und stoppten abrupt, sobald die von der Regierung festgelegte Jahresquote erschöpft war.
+
+107
+00:05:51,400 --> 00:05:55,879
+Pinotti untersuchte die Gesamtheit der männlichen Antragsteller des Jahres 2008,
+
+108
+00:05:55,879 --> 00:05:58,280
+etwa 110.000 Anträge.
+
+109
+00:05:58,280 --> 00:06:00,600
+Aber der eigentliche clevere Schachzug war folgender:
+
+110
+00:06:00,600 --> 00:06:03,480
+Er konzentrierte sich nur auf diejenigen, die in einem sehr engen
+
+111
+00:06:03,480 --> 00:06:07,480
+Zeitfenster von einer Stunde um den exakten Zeitpunkt des Cut-offs auf „Senden“ geklickt hatten,
+
+112
+00:06:07,480 --> 00:06:09,080
+als die Quoten erschöpft waren.
+
+113
+00:06:09,199 --> 00:06:12,079
+In diesen hektischen Minuten mit überlasteten Servern
+
+114
+00:06:12,079 --> 00:06:17,519
+war es reine Glückssache, ob man vor oder nach dem Limit durchkam – ein reiner Zufall.
+
+115
+00:06:17,519 --> 00:06:21,479
+Man hat zwei völlig identische Personen, die fast im selben Moment klicken:
+
+116
+00:06:21,479 --> 00:06:23,399
+Eine wird legalisiert, die andere nicht.
+
+117
+00:06:23,399 --> 00:06:27,159
+Durch den anonymen Abgleich dieser Stichprobe mit dem Strafregister
+
+118
+00:06:27,159 --> 00:06:31,759
+erhalten wir völlig saubere Daten, ganz ohne statistische Verzerrungen.
+
+119
+00:06:31,759 --> 00:06:33,680
+Fünfter Punkt auf der Tagesordnung:
+
+120
+00:06:33,680 --> 00:06:35,680
+Die Kriminalitätsdaten.
+
+121
+00:06:35,959 --> 00:06:37,000
+Was kam also heraus
+
+122
+00:06:37,000 --> 00:06:39,639
+bei diesem einmaligen Experiment?
+
+123
+00:06:39,639 --> 00:06:42,480
+Die allererste Erkenntnis ist offensichtlich:
+
+124
+00:06:42,480 --> 00:06:45,840
+Irregularität an sich erzeugt Kriminalität.
+
+125
+00:06:45,840 --> 00:06:48,879
+Eine Ablehnung zu erhalten und außerhalb der Quoten zu bleiben,
+
+126
+00:06:48,879 --> 00:06:52,040
+erhöht die Wahrscheinlichkeit, im Folgejahr eine schwere Straftat
+
+127
+00:06:52,040 --> 00:06:55,280
+zu begehen, um 0,6 %.
+
+128
+00:06:55,280 --> 00:06:57,280
+Das mag wenig klingen, aber Vorsicht:
+
+129
+00:06:57,280 --> 00:07:01,560
+Diese Berechnung basiert auf einer Ausgangsquote von nur 0,9 %.
+
+130
+00:07:01,560 --> 00:07:04,720
+Kurz gesagt, die Zahlen bestätigen die ursprüngliche Theorie:
+
+131
+00:07:04,880 --> 00:07:07,040
+Wenn man Menschen von legalen Wegen ausschließt,
+
+132
+00:07:07,040 --> 00:07:10,400
+treibt man sie unweigerlich in illegale Kanäle.
+
+133
+00:07:10,400 --> 00:07:12,200
+Und hier kommt die Wendung:
+
+134
+00:07:12,200 --> 00:07:14,120
+Dieser Anstieg ist nicht bei allen gleich.
+
+135
+00:07:14,120 --> 00:07:15,760
+Erinnern Sie sich an die beiden Gruppen von vorhin?
+
+136
+00:07:15,760 --> 00:07:16,480
+Nun:
+
+137
+00:07:16,480 --> 00:07:18,840
+Bei Personen aus Ländern mit starken bilateralen Abkommen,
+
+138
+00:07:18,840 --> 00:07:21,960
+bei denen das Risiko, aufgegriffen und in ein Flugzeug gesetzt zu werden, real ist,
+
+139
+00:07:21,960 --> 00:07:24,800
+steigt die Wahrscheinlichkeit, wegen der Irregularität kriminell zu werden,
+
+140
+00:07:24,800 --> 00:07:27,680
+nur um 0,3 %.
+
+141
+00:07:27,680 --> 00:07:29,360
+Bei Personen aus Ländern hingegen,
+
+142
+00:07:29,360 --> 00:07:30,400
+mit denen es kein Abkommen gibt und wo
+
+143
+00:07:30,400 --> 00:07:33,200
+man genau weiß, dass Abschiebungen nur leeres Gerede auf dem Papier sind,
+
+144
+00:07:33,199 --> 00:07:36,560
+schnellt der Anstieg der Straftaten auf 0,8 % hoch.
+
+145
+00:07:36,560 --> 00:07:42,319
+Dieses Ergebnis löst endlich das große ökonomische Dilemma, mit dem wir begonnen haben.
+
+146
+00:07:42,319 --> 00:07:43,759
+Was sagen uns die Zahlen?
+
+147
+00:07:43,759 --> 00:07:46,759
+Sie sagen uns, dass eine konsequente Durchsetzung von Abschiebungen
+
+148
+00:07:46,759 --> 00:07:50,319
+keine Kriminalitätswelle auslöst, die durch die Verzweiflung
+
+149
+00:07:50,319 --> 00:07:52,360
+derer entsteht, die dem Netz der Justiz entkommen.
+
+150
+00:07:52,360 --> 00:07:53,279
+Im Gegenteil:
+
+151
+00:07:53,279 --> 00:07:56,279
+Der Unschädlichmachungseffekt siegt auf ganzer Linie.
+
+152
+00:07:56,279 --> 00:07:58,919
+Personen physisch aus dem Staatsgebiet zu entfernen,
+
+153
+00:07:58,919 --> 00:08:00,560
+verhindert weitaus mehr Straftaten,
+
+154
+00:08:00,560 --> 00:08:04,720
+als durch das Sinken der Opportunitätskosten bei den Verbleibenden entstehen können.
+
+155
+00:08:04,720 --> 00:08:06,319
+Das ist eine jener Erkenntnisse,
+
+156
+00:08:06,319 --> 00:08:09,720
+die den Blickwinkel völlig verändern, mit dem wir die realen
+
+157
+00:08:09,720 --> 00:08:12,959
+Auswirkungen von Gesetzen auf unsere Gesellschaft betrachten sollten.
+
+158
+00:08:12,959 --> 00:08:14,840
+Sechster und letzter Punkt:
+
+159
+00:08:14,840 --> 00:08:16,840
+Die Schlussfolgerungen für die Politik.
+
+160
+00:08:16,840 --> 00:08:19,439
+Was sollten Regierungen angesichts eines so klaren empirischen Bildes tun?
+
+161
+00:08:19,439 --> 00:08:21,240
+Der Autor hinterlässt uns äußerst pragmatische Empfehlungen.
+
+162
+00:08:21,240 --> 00:08:25,079
+Der Vorschlag des Ökonomen nimmt auf keine politische Fraktion Rücksicht.
+
+163
+00:08:25,079 --> 00:08:30,040
+Er besagt schlichtweg Folgendes:
+
+164
+00:08:30,080 --> 00:08:31,600
+Wenn der Staat ein Quotensystem beschließt,
+
+165
+00:08:31,600 --> 00:08:34,120
+muss er es mit äußerster Strenge durchsetzen, koste es, was es wolle.
+
+166
+00:08:34,120 --> 00:08:38,600
+Aber – und das ist ein riesiges Aber –:
+
+167
+00:08:38,600 --> 00:08:40,320
+Wenn der Staat merkt, dass die Durchsetzung dieser Abschiebungen technisch
+
+168
+00:08:40,320 --> 00:08:44,279
+oder wirtschaftlich unmöglich ist,
+
+169
+00:08:44,279 --> 00:08:46,960
+ist der einzige rationale Ausweg, Legalisierungen vorzunehmen.
+
+170
+00:08:46,960 --> 00:08:51,399
+Der fatale Fehler in beiden Fällen ist es,
+
+171
+00:08:51,399 --> 00:08:53,399
+ein Auge zuzudrücken
+
+172
+00:08:53,399 --> 00:08:54,639
+und Tausende von Menschen in einer Sackgasse sitzenzulassen.
+
+173
+00:08:54,639 --> 00:08:58,399
+Dieser Gedanke wird in diesem Zitat aus der Studie perfekt zusammengefasst:
+
+174
+00:08:58,439 --> 00:09:02,720
+„Regierungen und Migrationsbehörden sollten die Entstehung
+
+175
+00:09:02,720 --> 00:09:06,319
+großer Gruppen nicht autorisierter Migranten vermeiden,
+
+176
+00:09:06,319 --> 00:09:08,639
+die geringe Opportunitätskosten für die Begehung von Straftaten haben.“
+
+177
+00:09:08,639 --> 00:09:11,399
+Am Ende des Tages ist das keine Frage der Ideologie,
+
+178
+00:09:11,399 --> 00:09:13,799
+sondern eine reine Frage von wirtschaftlichen Anreizen und sozialem Zusammenhalt.
+
+179
+00:09:13,799 --> 00:09:17,519
+All diese Analysen führen uns zu einer breiteren Reflexion:
+
+180
+00:09:17,519 --> 00:09:20,759
+den Schnittpunkt zwischen harten wirtschaftlichen Anreizen und den Gesetzen des Staates zu finden.
+
+181
+00:09:20,759 --> 00:09:25,360
+Das ist die eigentliche große Herausforderung für moderne Nationen.
+
+182
+00:09:25,399 --> 00:09:28,800
+Wie können wir diese wirtschaftlichen Realitäten und die kollektive Sicherheit
+
+183
+00:09:28,800 --> 00:09:32,560
+ein für alle Mal in Einklang bringen,
+
+184
+00:09:32,560 --> 00:09:34,159
+im Wissen, dass Grauzonen nur negative Folgen haben?
+
+185
+00:09:34,159 --> 00:09:37,960
+Das ist eine entscheidende Frage, die uns dieser rein objektive Ansatz
+
+186
+00:09:37,960 --> 00:09:41,320
+erfreulicherweise direkt ins Auge zu blicken zwingt,
+
+187
+00:09:41,320 --> 00:09:44,440
+weit über bloße Slogans hinaus.
+
+188
+00:09:44,440 --> 00:09:46,000
+Wir machen hier Halt, aber Sie sind herzlich eingeladen, das Thema weiter zu vertiefen.
+
+189
+00:09:46,000 --> 00:09:48,840
+Vielen Dank, dass Sie diese Analyse verfolgt haben.

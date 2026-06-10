@@ -1,0 +1,483 @@
+1
+00:00:00,000 --> 00:00:05,339
+Willkommen. Heute tauchen wir in dieser Analyse in ein echtes Geheimnis unserer
+
+2
+00:00:05,339 --> 00:00:06,339
+Gesellschaft ein.
+
+3
+00:00:06,339 --> 00:00:12,099
+Denken Sie einmal darüber nach: Warum scheinen einige Demokratien zu blühen, angetrieben von einer enormen Beteiligung
+
+4
+00:00:12,099 --> 00:00:17,179
+der Bürger, während andere enorme Mühe haben, auch nur die grundlegendsten Institutionen
+
+5
+00:00:17,179 --> 00:00:18,179
+am Laufen zu halten?
+
+6
+00:00:18,179 --> 00:00:23,300
+Tauchen wir also in die Daten ein, um die verborgenen Dynamiken zu entdecken, die unsere intimsten Beziehungen –
+
+7
+00:00:23,300 --> 00:00:26,460
+jene in der Familie – mit der gesamten öffentlichen Sphäre verbinden.
+
+8
+00:00:26,859 --> 00:00:32,160
+Aber was bestimmt eigentlich wirklich unser demokratisches Engagement? Was bringt eine ganze
+
+9
+00:00:32,160 --> 00:00:36,939
+Bevölkerung dazu, morgens aufzustehen, um wählen zu gehen, sich ehrenamtlich zu engagieren, Petitionen
+
+10
+00:00:36,939 --> 00:00:40,980
+zu unterschreiben oder einfach ihren Institutionen zu vertrauen?
+
+11
+00:00:40,980 --> 00:00:44,700
+Man könnte meinen, es sei nur eine Frage des Geldes, oder?
+
+12
+00:00:44,700 --> 00:00:46,620
+Oder vielleicht der formalen Bildung.
+
+13
+00:00:46,620 --> 00:00:51,620
+Doch die Daten deuten darauf hin, dass sich die Antwort viel, viel näher bei uns verbergen könnte,
+
+14
+00:00:51,620 --> 00:00:56,280
+buchstäblich in unseren eigenen vier Wänden und in den Traditionen, die wir
+
+15
+00:00:56,280 --> 00:00:58,800
+von Kindesbeinen an aufsaugen.
+
+16
+00:00:58,800 --> 00:01:04,799
+Sektion 1: Das Geheimnis des bürgerschaftlichen Engagements. Schauen wir uns an, worum es geht.
+
+17
+00:01:04,799 --> 00:01:08,799
+Sektion 2: Die Theorie des amoralischen Familismus.
+
+18
+00:01:08,799 --> 00:01:14,319
+Alles beginnt mit einer – ich wage zu behaupten – erhellenden Beobachtung eines amerikanischen Forschers,
+
+19
+00:01:14,319 --> 00:01:19,240
+Edward Banfield. Stellen Sie sich vor, Sie befinden sich in einem kleinen Dorf in Süditalien, in den
+
+20
+00:01:19,240 --> 00:01:20,240
+50er Jahren.
+
+21
+00:01:20,240 --> 00:01:26,200
+Banfield bemerkt etwas ganz Besonderes und prägt diesen Begriff: amoralischer Familismus.
+
+22
+00:01:26,200 --> 00:01:31,719
+Was genau ist das? Im Grunde ist es ein soziales Gleichgewicht, in dem die Menschen blind vertrauen
+
+23
+00:01:31,719 --> 00:01:37,000
+und sich ausschließlich um ihre unmittelbare Familie kümmern. So weit, so gut, aber der
+
+24
+00:01:37,000 --> 00:01:41,159
+Punkt ist, dass sie erwarten, dass alle anderen genau dasselbe tun.
+
+25
+00:01:41,159 --> 00:01:45,640
+Folglich – und aus ihrer Sicht ist das völlig rational – vertrauen sie überhaupt niemandem
+
+26
+00:01:45,640 --> 00:01:50,200
+außerhalb des Familienkreises. Es ist, als ob eine unsichtbare Mauer gegenüber
+
+27
+00:01:50,200 --> 00:01:54,359
+dem öffentlichen Leben entstünde, weil alles, was nicht Familie ist, mit tiefem
+
+28
+00:01:54,359 --> 00:01:55,359
+Misstrauen betrachtet wird.
+
+29
+00:01:55,519 --> 00:02:01,680
+Und das Verrückte ist, wie sich all das über die Zeit überträgt, fast wie eine
+
+30
+00:02:01,680 --> 00:02:03,920
+generationsübergreifende Gebrauchsanweisung.
+
+31
+00:02:03,920 --> 00:02:09,060
+Schauen wir uns die Schritte an: Erstens wird Kindern ein absolutes Vertrauen in die
+
+32
+00:02:09,060 --> 00:02:10,080
+eigenen Familienmitglieder beigebracht.
+
+33
+00:02:10,080 --> 00:02:15,719
+Zweitens wird parallel dazu ein starkes Misstrauen gegenüber Fremden eingeflößt.
+
+34
+00:02:15,719 --> 00:02:21,039
+Drittens – und das ist ein entscheidender Indikator – wird gelehrt, dass Gehorsam eine weitaus
+
+35
+00:02:21,039 --> 00:02:26,199
+höhere Tugend ist als Eigeninitiative. Das heißt, wer seinen Platz kennt, wird belohnt, was eine
+
+36
+00:02:26,199 --> 00:02:28,959
+regelrechte Resistenz gegen Veränderungen schafft.
+
+37
+00:02:28,959 --> 00:02:34,120
+Vierter und letzter Schritt: Das Ergebnis dieser Kette ist eine sehr geringe bürgerliche Beteiligung,
+
+38
+00:02:34,120 --> 00:02:39,159
+die sich leider unerbittlich über Generationen hinweg hält.
+
+39
+00:02:39,159 --> 00:02:43,039
+Sektion 3: Globale Daten – Familie gegen Politik.
+
+40
+00:02:43,039 --> 00:02:48,359
+Weiten wir nun den Blick, verlassen wir das einzelne Dorf und schauen wir auf die Daten des
+
+41
+00:02:48,360 --> 00:02:52,680
+World Values Survey, einer unglaublich gründlichen globalen Untersuchung.
+
+42
+00:02:52,680 --> 00:02:56,040
+Und hier zeigt sich ein enormer Kontrast zwischen verschiedenen Kulturen.
+
+43
+00:02:56,040 --> 00:02:58,280
+Auf der einen Seite haben wir Nordeuropa.
+
+44
+00:02:58,280 --> 00:03:03,200
+Die Familienbande sind schwächer, aber wir finden ein sehr hohes Sozialkapital, viel
+
+45
+00:03:03,200 --> 00:03:06,400
+Vertrauen in Fremde und eine enorme bürgerliche Beteiligung.
+
+46
+00:03:06,400 --> 00:03:11,120
+Auf der anderen Seite finden wir Südeuropa, aber auch Lateinamerika und verschiedene Regionen Asiens
+
+47
+00:03:11,120 --> 00:03:12,120
+und Afrikas.
+
+48
+00:03:12,120 --> 00:03:17,000
+Hier ist die Familie alles, die Bindungen sind extrem stark und eng, und doch brechen das bürgerschaftliche Engagement und das
+
+49
+00:03:17,000 --> 00:03:19,000
+Vertrauen in die Institutionen ein.
+
+50
+00:03:19,000 --> 00:03:23,759
+Aber Vorsicht: Wir müssen an diesem Punkt völlig klar sein. Wir sagen nicht, dass eine
+
+51
+00:03:23,759 --> 00:03:28,960
+Kultur gut und die andere schlecht ist. Wir beobachten lediglich ganz unvoreingenommen,
+
+52
+00:03:28,960 --> 00:03:31,240
+wie sich unterschiedliche Gesellschaften organisieren.
+
+53
+00:03:31,240 --> 00:03:37,240
+Und die Zahlen dieser Studie bestätigen eine felsenfeste umgekehrte Beziehung: Je
+
+54
+00:03:37,240 --> 00:03:40,199
+mehr Gewicht man der Familie beimisst, desto weniger kümmert man sich um die Politik.
+
+55
+00:03:40,199 --> 00:03:44,960
+Und was mich buchstäblich verrückt macht, ist, dass diese Regel auch dann gilt, wenn wir Faktoren
+
+56
+00:03:44,960 --> 00:03:48,400
+wie Einkommen oder Bildungsniveau aus der Gleichung herausrechnen.
+
+57
+00:03:48,400 --> 00:03:53,080
+Um Ihnen eine konkrete Vorstellung zu geben: Stellen Sie sich vor, Sie vergleichen eine Person mit sehr lockeren Familienbanden
+
+58
+00:03:53,080 --> 00:03:55,879
+mit einer Person mit sehr starken Bindungen.
+
+59
+00:03:55,879 --> 00:04:00,640
+Nun, die Zunahme des politischen Desinteresses zwischen diesen beiden Extremen ist vergleichbar mit dem Effekt,
+
+60
+00:04:00,640 --> 00:04:05,960
+den es hätte, wenn man einem Akademiker plötzlich nur noch eine Grundschulbildung
+
+61
+00:04:05,960 --> 00:04:06,960
+zuschreiben würde.
+
+62
+00:04:06,960 --> 00:04:09,080
+Der Effekt der Kultur ist schlichtweg überwältigend.
+
+63
+00:04:09,080 --> 00:04:13,719
+Und wohlgemerkt, wir sprechen hier nicht nur vom Stammtischgespräch.
+
+64
+00:04:13,719 --> 00:04:18,759
+Die Studie hat die Bereitschaft gemessen, tatsächlich aktiv zu werden – Dinge wie das Unterzeichnen
+
+65
+00:04:18,759 --> 00:04:23,920
+von Petitionen, den Boykott von Produkten, die Teilnahme an genehmigten Demonstrationen bis hin
+
+66
+00:04:23,920 --> 00:04:29,240
+zu wilden Streiks und Hausbesetzungen – kurzum, das gesamte Spektrum
+
+67
+00:04:29,240 --> 00:04:30,240
+des Aktivismus.
+
+68
+00:04:30,240 --> 00:04:35,800
+Und die Daten sprechen eine klare Sprache: Wer eiserne Familienbande hat, ist systematisch weniger geneigt,
+
+69
+00:04:35,800 --> 00:04:41,300
+auch nur eines dieser Dinge zu tun. Weniger Ehrenamt, weniger Demonstrationen – es ist, als ob
+
+70
+00:04:41,300 --> 00:04:46,060
+die gesamte Energie bis zum letzten Tropfen von den eigenen vier Wänden aufgesaugt würde.
+
+71
+00:04:46,060 --> 00:04:47,060
+Sektion 4.
+
+72
+00:04:47,060 --> 00:04:48,060
+Der ultimative Beweis.
+
+73
+00:04:48,060 --> 00:04:49,060
+Die Einwanderer.
+
+74
+00:04:49,060 --> 00:04:55,300
+Okay, an diesem Punkt könnten Sie mir berechtigterweise entgegnen: "Entschuldigung, aber vielleicht liegt es an den lokalen Institutionen,
+
+75
+00:04:55,300 --> 00:05:00,300
+die schlecht laufen und die Menschen entmutigen." Ein völlig berechtigter Einwand.
+
+76
+00:05:00,300 --> 00:05:03,860
+Und genau hier zeigt sich der wahre Geniestreich der Studie.
+
+77
+00:05:03,860 --> 00:05:08,980
+Um Kultur und Umwelt voneinander zu trennen, nutzten sie den European Social Survey, um
+
+78
+00:05:08,980 --> 00:05:11,340
+Einwanderer der zweiten Generation zu analysieren.
+
+79
+00:05:11,340 --> 00:05:15,819
+Wir sprechen von Menschen, die unter genau denselben Gesetzen und Institutionen geboren und aufgewachsen sind,
+
+80
+00:05:15,819 --> 00:05:18,259
+zur Schule gehen und arbeiten wie die Einheimischen.
+
+81
+00:05:18,259 --> 00:05:23,220
+Die Logik ist also einfach: Wenn ihre Art und Weise, sich auf Politik zu beziehen, sich vom
+
+82
+00:05:23,220 --> 00:05:28,060
+lokalen Durchschnitt unterscheidet und stattdessen dem Herkunftsland der Eltern ähnelt, nun,
+
+83
+00:05:28,060 --> 00:05:29,060
+Bingo.
+
+84
+00:05:29,060 --> 00:05:33,300
+Das bedeutet, dass wir es mit einem rein kulturellen, in der Familie weitergegebenen Merkmal zu tun haben
+
+85
+00:05:33,300 --> 00:05:35,460
+und nicht mit einem Problem der lokalen Institutionen.
+
+86
+00:05:35,460 --> 00:05:36,460
+32.
+
+87
+00:05:36,579 --> 00:05:38,459
+Ja, Sie haben richtig gehört.
+
+88
+00:05:38,459 --> 00:05:41,939
+32 verschiedene Zielländer wurden analysiert.
+
+89
+00:05:41,939 --> 00:05:45,500
+Sie haben nicht nur diejenigen betrachtet, die in die USA auswandern, wie es oft getan wird.
+
+90
+00:05:45,500 --> 00:05:50,259
+Bei einer solchen Datenmenge, verteilt auf 32 Nationen, wird jeder Zweifel ausgeräumt,
+
+91
+00:05:50,259 --> 00:05:54,299
+dass die Ergebnisse durch die Regeln eines einzelnen Landes verzerrt sein könnten.
+
+92
+00:05:54,299 --> 00:05:56,979
+Es ist eine beeindruckend robuste Analyse.
+
+93
+00:05:56,979 --> 00:06:00,819
+Und wenn man sich diese Daten ansieht, fügt sich das Bild perfekt zusammen.
+
+94
+00:06:00,819 --> 00:06:05,339
+Kinder von Einwanderern aus Ländern mit starken Familienbanden behalten, selbst wenn sie in einer völlig neuen
+
+95
+00:06:05,340 --> 00:06:09,420
+Umgebung leben, sehr spezifische Verhaltensweisen bei.
+
+96
+00:06:09,420 --> 00:06:14,420
+Sie sehen weniger Nachrichten, lesen weniger über Politik, interessieren sich weniger für das öffentliche Leben
+
+97
+00:06:14,420 --> 00:06:16,660
+und vertrauen Fremden weitaus weniger.
+
+98
+00:06:16,660 --> 00:06:20,640
+Es scheint ganz so, als ob starke Familienbande und allgemeines Vertrauen ein
+
+99
+00:06:20,640 --> 00:06:24,740
+Nullsummenspiel spielen: Wenn man fast seinen gesamten Vorrat an Vertrauen innerhalb der
+
+100
+00:06:24,740 --> 00:06:29,500
+Kernfamilie aufbraucht, bleibt so gut wie gar nichts mehr übrig, was man der Außenwelt
+
+101
+00:06:29,500 --> 00:06:30,500
+schenken könnte.
+
+102
+00:06:30,500 --> 00:06:38,180
+Sektion 5: Starke Bindungen, eine abschließende Bilanz. An diesem Punkt ist es absolut wichtig,
+
+103
+00:06:38,180 --> 00:06:39,660
+eine Klarstellung vorzunehmen.
+
+104
+00:06:39,660 --> 00:06:44,899
+Extrem starke Familienbande zu haben, ist keine Krankheit, die man heilen muss. Es ist einfach ein
+
+105
+00:06:44,899 --> 00:06:49,180
+anderes Gleichgewicht, mit seinen eigenen immensen Vor- und Nachteilen.
+
+106
+00:06:49,180 --> 00:06:53,459
+Auf die Familie ausgerichtete Gesellschaften bieten ein unglaubliches emotionales und wirtschaftliches Sicherheitsnetz;
+
+107
+00:06:53,459 --> 00:06:58,459
+Menschen, die dort leben, berichten von einer hohen persönlichen Zufriedenheit und einer sehr ausgeprägten
+
+108
+00:06:58,460 --> 00:07:01,500
+häuslichen Fürsorge füreinander.
+
+109
+00:07:01,500 --> 00:07:05,100
+Der Preis dafür ist jedoch ein geringeres Vertrauen in die Institutionen.
+
+110
+00:07:05,100 --> 00:07:09,780
+Im Gegensatz dazu lassen Gesellschaften mit schwachen Bindungen die öffentliche demokratische Maschinerie
+
+111
+00:07:09,780 --> 00:07:15,020
+hervorragend funktionieren und vertrauen ihren Mitmenschen, müssen aber auf die Wärme und Geborgenheit
+
+112
+00:07:15,020 --> 00:07:16,460
+einer großen, eng verbundenen Familie verzichten.
+
+113
+00:07:16,460 --> 00:07:22,140
+Und dieses ganze Erklärvideo hinterlässt uns mit einer riesigen Frage für unsere Zukunft: Wenn sich,
+
+114
+00:07:22,140 --> 00:07:27,100
+wie wir gerade gesehen haben, Familienwerte nur extrem langsam verändern, was
+
+115
+00:07:27,100 --> 00:07:28,500
+passiert dann jetzt?
+
+116
+00:07:28,500 --> 00:07:33,780
+Wird uns die Globalisierung allmählich alle angleichen und diese Unterschiede einebnen,
+
+117
+00:07:33,780 --> 00:07:38,040
+oder wird diese immer schnellere Welt im Gegenteil den Instinkt wecken, sich noch stärker
+
+118
+00:07:38,040 --> 00:07:42,460
+an diese lokalen und familiären Wurzeln zu klammern, um sie zu schützen?
+
+119
+00:07:42,460 --> 00:07:44,580
+Es ist eine faszinierende Dynamik, nicht wahr?
+
+120
+00:07:44,580 --> 00:07:49,260
+Sie macht uns bewusst, dass letztendlich jener einfache Tisch, um den wir uns abends zum Essen versammeln,
+
+121
+00:07:49,260 --> 00:07:53,660
+im Stillen unserer Häuser weiterhin das Schicksal unserer Demokratien selbst prägt.

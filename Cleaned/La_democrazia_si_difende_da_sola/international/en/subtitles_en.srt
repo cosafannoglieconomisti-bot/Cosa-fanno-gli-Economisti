@@ -1,0 +1,491 @@
+1
+00:00:00,000 --> 00:00:03,040
+Welcome to this new visual explanation.
+
+2
+00:00:03,040 --> 00:00:08,560
+Today, we're diving into a truly fascinating economic and political analysis.
+
+3
+00:00:08,560 --> 00:00:12,800
+We start with a fundamental question, explored by Daron Acemoglu,
+
+4
+00:00:12,800 --> 00:00:16,559
+recently recognized globally, and his co-authors.
+
+5
+00:00:16,559 --> 00:00:20,600
+Is support for democratic institutions a given,
+
+6
+00:00:20,600 --> 00:00:26,160
+or does democracy constantly have to prove its worth to survive?
+
+7
+00:00:26,160 --> 00:00:29,199
+Through highly rigorous worldwide data,
+
+8
+00:00:29,199 --> 00:00:35,759
+we will try to understand together what drives people to believe or stop believing in the democratic system.
+
+9
+00:00:35,759 --> 00:00:39,679
+Okay, let's jump right into this empirical journey.
+
+10
+00:00:39,679 --> 00:00:43,039
+We'll first explore the historical problem of democracy.
+
+11
+00:00:43,039 --> 00:00:46,320
+We'll ask if experience actually creates support,
+
+12
+00:00:46,320 --> 00:00:49,480
+and we'll discover the so-called success factor.
+
+13
+00:00:49,480 --> 00:00:53,159
+We will then analyze growth, peace, and corruption.
+
+14
+00:00:53,159 --> 00:00:55,760
+Before moving on to a direct comparison with autocracies,
+
+15
+00:00:55,759 --> 00:00:59,640
+and finally, we will try to outline the future of our institutions.
+
+16
+00:00:59,640 --> 00:01:06,280
+Let's move to the first section: the problem of democracy and its historical thesis.
+
+17
+00:01:06,280 --> 00:01:09,679
+As is sadly known, we have recently witnessed a full 15 years
+
+18
+00:01:09,679 --> 00:01:13,239
+of consecutive democratic backsliding at a global level.
+
+19
+00:01:13,239 --> 00:01:16,599
+Therefore, a reflection naturally arises: in modern times,
+
+20
+00:01:16,599 --> 00:01:19,519
+what prevents the collapse of the entire system?
+
+21
+00:01:19,519 --> 00:01:23,159
+To understand this, let's go back for a moment to 1938.
+
+22
+00:01:23,200 --> 00:01:25,439
+Justifying his historic New Deal,
+
+23
+00:01:25,439 --> 00:01:28,159
+American President Franklin Delano Roosevelt,
+
+24
+00:01:28,159 --> 00:01:30,239
+made a very astute observation.
+
+25
+00:01:30,239 --> 00:01:33,719
+Democracy has disappeared in several other great nations,
+
+26
+00:01:33,719 --> 00:01:37,200
+not because the peoples of those nations hated democracy,
+
+27
+00:01:37,200 --> 00:01:41,319
+but because they had grown tired of unemployment and insecurity.
+
+28
+00:01:41,319 --> 00:01:43,159
+Roosevelt hit the nail on the head.
+
+29
+00:01:43,159 --> 00:01:45,799
+The insight was that to support the system,
+
+30
+00:01:45,799 --> 00:01:50,719
+citizens have a vital need for a positive and tangible experience with democracy.
+
+31
+00:01:50,760 --> 00:01:55,519
+And this is precisely the central hypothesis of the research we are dissecting today.
+
+32
+00:01:55,519 --> 00:01:57,760
+Which brings us to section two,
+
+33
+00:01:57,760 --> 00:02:00,039
+experience creates support.
+
+34
+00:02:00,039 --> 00:02:01,200
+Let's look at the data.
+
+35
+00:02:01,200 --> 00:02:06,960
+The time has come to test this ancient and fascinating thesis on an unprecedented scale.
+
+36
+00:02:06,960 --> 00:02:11,039
+And the numbers from this survey are simply extraordinary.
+
+37
+00:02:11,039 --> 00:02:14,039
+The analysis is based on integrated value surveys
+
+38
+00:02:14,039 --> 00:02:16,960
+and examines no less than 110 countries,
+
+39
+00:02:16,960 --> 00:02:19,919
+with over 560,000 respondents.
+
+40
+00:02:19,920 --> 00:02:25,760
+We're talking about a treasure trove of data meticulously collected between 1981 and 2018.
+
+41
+00:02:25,760 --> 00:02:27,680
+But here's the real methodological gem.
+
+42
+00:02:27,680 --> 00:02:32,400
+The researchers rigorously managed to isolate the impact of direct experience.
+
+43
+00:02:32,400 --> 00:02:35,600
+They have shown, in fact, that the level of democracy in a country,
+
+44
+00:02:35,600 --> 00:02:37,320
+before a person's birth,
+
+45
+00:02:37,320 --> 00:02:41,360
+has no significant impact on their future support for the system.
+
+46
+00:02:41,360 --> 00:02:45,840
+In short, only personal, lived experience truly matters.
+
+47
+00:02:45,840 --> 00:02:48,400
+And when these lived experiences are analyzed,
+
+48
+00:02:48,400 --> 00:02:51,120
+a truly crystal-clear upward trend emerges.
+
+49
+00:02:51,120 --> 00:02:56,480
+Empirical evidence shows that greater exposure to democracy has a stable and positive effect.
+
+50
+00:02:56,480 --> 00:03:00,159
+To quantify, 10 more years of life in a democratic regime
+
+51
+00:03:00,159 --> 00:03:05,360
+increase support for institutions by about 4% of its standard deviation.
+
+52
+00:03:05,360 --> 00:03:10,040
+It's a very solid correlation, but beware, there's more beneath the surface.
+
+53
+00:03:10,040 --> 00:03:14,000
+Thus, we enter the third section: the success factor.
+
+54
+00:03:14,000 --> 00:03:18,479
+And here's the crucial revelation, the true plot twist of this study.
+
+55
+00:03:18,479 --> 00:03:25,759
+Exposure to democracy generates support if and only if that specific democracy works.
+
+56
+00:03:25,759 --> 00:03:28,759
+But what exactly does "work" mean?
+
+57
+00:03:28,759 --> 00:03:33,439
+Acemoglu and his co-authors certainly weren't content with abstract definitions.
+
+58
+00:03:33,439 --> 00:03:36,199
+They dissected the concept of success,
+
+59
+00:03:36,199 --> 00:03:39,159
+measuring it through four precise pillars.
+
+60
+00:03:39,159 --> 00:03:42,159
+First, the growth of the gross domestic product,
+
+61
+00:03:42,159 --> 00:04:00,759
+second, rigorous control of corruption; third, the maintenance of peace and political stability; and fourth, public spending capable of providing real services to the community. Let's proceed to the fourth section, exploring the visual evidence of these first pillars: growth, peace, and corruption.
+
+62
+00:03:48,639 --> 00:03:53,400
+and fourth, public spending capable of providing real services to the community.
+
+63
+00:03:53,400 --> 00:03:58,479
+Let's proceed to the fourth section, exploring the visual evidence of these first pillars:
+
+64
+00:03:58,479 --> 00:04:00,759
+growth, peace, and corruption.
+
+65
+00:04:00,759 --> 00:04:03,919
+Let's see how they translate into real political support.
+
+66
+00:04:03,919 --> 00:04:07,479
+Here, the data describes an unequivocal trajectory:
+
+67
+00:04:07,480 --> 00:04:12,000
+when a democratic country goes through phases of strong and prolonged economic growth,
+
+68
+00:04:12,000 --> 00:04:14,800
+popular support literally takes off.
+
+69
+00:04:14,800 --> 00:04:18,160
+Ten more years in an economically thriving democracy
+
+70
+00:04:18,160 --> 00:04:24,080
+increase institutional support by a margin ranging from 4 to 8% of the standard deviation.
+
+71
+00:04:24,080 --> 00:04:26,759
+But what if democracy stagnates economically?
+
+72
+00:04:26,759 --> 00:04:31,319
+Surprisingly, the increase in support is practically nonexistent.
+
+73
+00:04:31,319 --> 00:04:36,080
+And this brilliantly illustrates another fundamental element: integrity.
+
+74
+00:04:36,120 --> 00:04:41,919
+Living in a democracy that effectively controls corruption sends citizens' appreciation skyrocketing.
+
+75
+00:04:41,919 --> 00:04:46,800
+Conversely, if governments are perceived as corrupt and unable to curb abuses,
+
+76
+00:04:46,800 --> 00:04:49,240
+that positive effect vanishes into thin air.
+
+77
+00:04:49,240 --> 00:04:54,439
+Disillusionment takes over as soon as the system is perceived as rigged.
+
+78
+00:04:54,439 --> 00:04:58,839
+Peace and stability also play a critical role in this equation.
+
+79
+00:04:58,839 --> 00:05:02,159
+The study provides a striking example: the Philippines.
+
+80
+00:05:02,200 --> 00:05:07,120
+Despite having been classified as a democracy for much of the last 40 years,
+
+81
+00:05:07,120 --> 00:05:10,200
+they have suffered from prolonged armed conflicts.
+
+82
+00:05:10,200 --> 00:05:14,200
+The data shows that even in the presence of periods of economic growth,
+
+83
+00:05:14,200 --> 00:05:19,000
+the lack of peace has prevented the consolidation of strong democratic support.
+
+84
+00:05:19,000 --> 00:05:22,600
+Simply put, people prioritize security above all else.
+
+85
+00:05:22,600 --> 00:05:27,240
+Concluding this analytical framework is the effect of public spending.
+
+86
+00:05:27,240 --> 00:05:30,000
+People expect concrete services.
+
+87
+00:05:30,040 --> 00:05:33,720
+A high level of public spending relative to the gross domestic product
+
+88
+00:05:33,720 --> 00:05:37,079
+is strongly correlated with greater support for the system.
+
+89
+00:05:37,079 --> 00:05:43,680
+In essence, institutions are defended and appreciated when they visibly invest in the well-being of everyone.
+
+90
+00:05:43,680 --> 00:05:47,319
+We now come to the fifth section, a necessary step,
+
+91
+00:05:47,319 --> 00:05:52,759
+the comparison with autocracies, which in this analysis serve as a perfect control group.
+
+92
+00:05:52,759 --> 00:05:53,920
+One might ask,
+
+93
+00:05:53,920 --> 00:05:58,759
+but what happens when an authoritarian regime delivers strong economic growth?
+
+94
+00:05:58,759 --> 00:06:02,199
+Does economic success perhaps justify dictatorship?
+
+95
+00:06:02,199 --> 00:06:05,759
+The contrast that emerges from the data is nothing short of surprising.
+
+96
+00:06:05,759 --> 00:06:09,439
+As we have just seen, economic success under a democratic government
+
+97
+00:06:09,439 --> 00:06:12,399
+enormously strengthens trust in those institutions.
+
+98
+00:06:12,399 --> 00:06:14,120
+But a successful autocracy?
+
+99
+00:06:14,120 --> 00:06:15,279
+Absolutely not.
+
+100
+00:06:15,279 --> 00:06:20,639
+The data show no significant increase in appreciation for authoritarianism when the economy is doing well.
+
+101
+00:06:20,639 --> 00:06:25,159
+This could happen because expectations of a regime are structurally lower,
+
+102
+00:06:25,160 --> 00:06:29,880
+or perhaps because the lack of transparency and freedom prevents the creation of real civic trust,
+
+103
+00:06:29,880 --> 00:06:32,640
+regardless of positive GDP figures.
+
+104
+00:06:32,640 --> 00:06:37,760
+The researchers frame all of this through a very precise economic and psychological mechanism,
+
+105
+00:06:37,760 --> 00:06:40,360
+defined as generalized learning.
+
+106
+00:06:40,360 --> 00:06:46,040
+Essentially, it means that support for democracy is not a cultural trait etched in stone
+
+107
+00:06:46,040 --> 00:06:48,120
+and it's not some kind of civic faith either;
+
+108
+00:06:48,120 --> 00:06:50,200
+it's an entirely pragmatic update.
+
+109
+00:06:50,200 --> 00:06:54,879
+There's a fantastic quote from the British poet John Betjeman cited in the study.
+
+110
+00:06:54,920 --> 00:07:00,360
+"Our nation is founded on democracy and working drains," nothing could be truer.
+
+111
+00:07:00,360 --> 00:07:05,240
+A genuine attachment to the system develops only when one directly experiences that it can provide
+
+112
+00:07:05,240 --> 00:07:08,560
+tangible results useful for everyday life.
+
+113
+00:07:08,560 --> 00:07:14,719
+And here we are at the sixth and final section, the future of institutions and the final conclusions.
+
+114
+00:07:14,719 --> 00:07:20,800
+Connecting this immense volume of data to our present, the message that emerges is crystal clear:
+
+115
+00:07:20,840 --> 00:07:25,439
+democracy feeds exclusively on its own tangible successes.
+
+116
+00:07:25,439 --> 00:07:29,840
+This rigorous research imposes a deep and inescapable reflection.
+
+117
+00:07:29,840 --> 00:07:33,199
+If global stability is not guaranteed by divine right,
+
+118
+00:07:33,199 --> 00:07:37,000
+and if democracies avoid extremism and authoritarian collapse,
+
+119
+00:07:37,000 --> 00:07:40,240
+only when they succeed in delivering growth, equity,
+
+120
+00:07:40,240 --> 00:07:45,560
+and real services, how will we navigate the inevitable economic storms of the next decade?
+
+121
+00:07:45,560 --> 00:07:49,840
+It's a fundamental challenge that goes far beyond pure academic theory
+
+122
+00:07:49,840 --> 00:07:53,640
+and directly touches the practical foundations of our civil life.
+
+123
+00:07:53,640 --> 00:07:58,160
+Thank you for joining us in this visual explanation, and until our next exploration.

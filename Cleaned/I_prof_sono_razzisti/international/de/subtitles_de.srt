@@ -1,0 +1,431 @@
+1
+00:00:00,000 --> 00:00:05,040
+Heute sprechen wir über eine wirklich wichtige Studie, die ein sensibles Thema behandelt:
+
+2
+00:00:05,040 --> 00:00:09,960
+unbewusste Vorurteile in der italienischen Schule. Wir werden sehen, wie Stereotype – auch
+
+3
+00:00:09,960 --> 00:00:14,679
+jene, von denen wir nicht wissen, dass wir sie haben – ein reales, konkretes Gewicht
+
+4
+00:00:14,679 --> 00:00:15,679
+auf die Bewertungen der Schüler haben können.
+
+5
+00:00:15,679 --> 00:00:16,679
+Genau.
+
+6
+00:00:16,679 --> 00:00:20,719
+Und die zentrale Frage, von der alles ausgeht, ist genau diese.
+
+7
+00:00:20,719 --> 00:00:25,960
+Stellen wir uns für einen Moment zwei Schüler vor, einen Italiener und einen Migranten, die in einem
+
+8
+00:00:25,960 --> 00:00:30,320
+Test, der für alle gleich und vor allem anonym ist, genau die gleiche Punktzahl erzielen.
+
+9
+00:00:30,320 --> 00:00:36,039
+Die Frage ist: Wird ihr Lehrer am Ende beiden die gleiche Note geben? Nun, die Antwort ist,
+
+10
+00:00:36,039 --> 00:00:38,679
+wie wir gleich herausfinden werden, nicht so einfach.
+
+11
+00:00:38,679 --> 00:00:44,200
+Ok, fangen wir mit dem Problem an, das die Forscher in unseren Mittelschulen fokussiert haben:
+
+12
+00:00:44,200 --> 00:00:48,960
+Da stimmt etwas nicht, ein Unterschied in den Noten, den man mit bloßem Auge nicht sieht, eine
+
+13
+00:00:48,960 --> 00:00:50,679
+echte verborgene Kluft.
+
+14
+00:00:50,679 --> 00:00:55,240
+Werfen wir einen Blick auf diese Grafik, denn hier sieht man den Kern der Sache.
+
+15
+00:00:55,320 --> 00:01:00,280
+Hier sehen wir die Noten, die Lehrer Schülern gegeben haben, die, wie wir bereits sagten, in den
+
+16
+00:01:00,280 --> 00:01:03,520
+standardisierten nationalen Tests die gleiche Vorbereitung gezeigt haben.
+
+17
+00:01:03,520 --> 00:01:08,599
+Der erste Balken, der etwas höher ist, stellt die einheimischen Schüler dar, der zweite die
+
+18
+00:01:08,599 --> 00:01:09,599
+Schüler mit Migrationshintergrund.
+
+19
+00:01:09,599 --> 00:01:12,359
+Und der Unterschied ist, auch wenn er klein ist, immer da.
+
+20
+00:01:12,359 --> 00:01:16,920
+Bei gleicher Kompetenz erhalten Migrantenschüler im Durchschnitt eine Note, die etwas
+
+21
+00:01:16,920 --> 00:01:17,920
+niedriger ist.
+
+22
+00:01:17,920 --> 00:01:23,960
+Sicher, 0,14 Punkte mögen unbedeutend erscheinen, aber es ist entscheidend, ihr reales Gewicht zu verstehen.
+
+23
+00:01:23,960 --> 00:01:28,200
+Diese kleine Abweichung ist, man stelle sich vor, fast so groß wie der Einfluss, den das
+
+24
+00:01:28,200 --> 00:01:32,120
+Bildungsniveau der Mutter auf die schulische Leistung eines Kindes hat, und wir wissen alle,
+
+25
+00:01:32,120 --> 00:01:33,880
+wie sehr sozioökonomische Faktoren zählen.
+
+26
+00:01:33,880 --> 00:01:36,680
+Kurzum, wir sprechen hier nicht von einem unbedeutenden Unterschied.
+
+27
+00:01:36,680 --> 00:01:43,600
+Und so stellt sich zwangsläufig die Frage: Warum passiert das? Woher kommt diese
+
+28
+00:01:43,600 --> 00:01:44,600
+Differenz?
+
+29
+00:01:44,600 --> 00:01:50,460
+Um das zu verstehen, haben die Forscher versucht, etwas sehr, sehr Flüchtiges zu messen: die
+
+30
+00:01:50,460 --> 00:01:55,380
+impliziten Vorurteile, jene unbewussten der Lehrer.
+
+31
+00:01:55,380 --> 00:02:00,700
+Genau so ist es, und klären wir auf, was wir unter impliziten Vorurteilen verstehen.
+
+32
+00:02:00,700 --> 00:02:04,140
+Wir sprechen nicht von einer bewussten Entscheidung zu diskriminieren.
+
+33
+00:02:04,140 --> 00:02:09,420
+Nein, es sind mentale Assoziationen, die automatisch ablaufen, Stereotype, die wir
+
+34
+00:02:09,420 --> 00:02:14,140
+aus der Kultur, in der wir leben, aufsaugen und die, ohne dass wir es merken, unsere
+
+35
+00:02:14,140 --> 00:02:15,780
+Entscheidungen beeinflussen können.
+
+36
+00:02:15,780 --> 00:02:21,699
+Um sie zu messen, verwendet man einen Test namens Implicit Association Test, IAT.
+
+37
+00:02:21,699 --> 00:02:23,420
+In der Praxis funktioniert das so:
+
+38
+00:02:23,420 --> 00:02:27,979
+Der Lehrer wird gebeten, so schnell wie möglich Namen wie Fatima oder Francesca positiven
+
+39
+00:02:27,979 --> 00:02:30,819
+oder negativen Wörtern zuzuordnen.
+
+40
+00:02:30,819 --> 00:02:34,740
+Der Grundgedanke ist: Wenn in unserem Kopf die Verbindung zwischen ausländischem Namen und
+
+41
+00:02:34,740 --> 00:02:38,860
+negativem Adjektiv automatischer ist, brauchen wir einen Bruchteil einer Sekunde länger für die
+
+42
+00:02:38,860 --> 00:02:43,060
+entgegengesetzte Assoziation, die kontraintuitive, wie ausländischer Name und positives Adjektiv.
+
+43
+00:02:43,060 --> 00:02:47,500
+Diese kleine Verzögerung, gemessen in Millisekunden, ist das Anzeichen für das implizite Vorurteil.
+
+44
+00:02:47,500 --> 00:02:51,819
+Und die Ergebnisse waren, nun ja, mehr als überraschend.
+
+45
+00:02:51,819 --> 00:02:56,580
+Diese Grafik zeigt uns, wie das negative implizite Vorurteil gegenüber Migranten unter den
+
+46
+00:02:56,580 --> 00:02:58,979
+getesteten Lehrern verteilt ist.
+
+47
+00:02:58,979 --> 00:03:06,259
+70 %, ein riesiger Anteil, zeigten ein moderates bis starkes Vorurteil, und nur ein winziger
+
+48
+00:03:06,259 --> 00:03:09,060
+Teil von 5 % hatte überhaupt keine.
+
+49
+00:03:09,060 --> 00:03:14,580
+Achtung, das bedeutet nicht, dass 95 % der Lehrer Rassisten sind, sondern dass fast
+
+50
+00:03:14,580 --> 00:03:18,580
+wir alle negative unbewusste Assoziationen in uns tragen.
+
+51
+00:03:18,580 --> 00:03:23,780
+Ok, nachdem wir dieses Vorurteil gemessen haben, war die nächste Frage: Was passiert, wenn wir
+
+52
+00:03:23,780 --> 00:03:29,259
+die Lehrer mit diesen ihren Bias konfrontieren? Kann das Wissen darüber die Art und Weise ändern,
+
+53
+00:03:29,259 --> 00:03:31,699
+wie sie bewerten?
+
+54
+00:03:31,699 --> 00:03:36,180
+Um das herauszufinden, sind sie von der Theorie zur Praxis übergegangen, mit einem echten
+
+55
+00:03:36,180 --> 00:03:37,500
+Experiment an den Schulen.
+
+56
+00:03:37,500 --> 00:03:43,219
+Experiment eins: Das Versuchsdesign war ebenso einfach wie, ich würde sagen, genial.
+
+57
+00:03:43,219 --> 00:03:46,419
+Sie nahmen die Lehrer und teilten sie in zwei Gruppen auf.
+
+58
+00:03:46,419 --> 00:03:51,500
+Der ersten Gruppe, die wir "informiert" nennen, teilten sie das Ergebnis ihres Vorurteil-Tests
+
+59
+00:03:51,500 --> 00:03:54,539
+mit, bevor sie die Endnoten vergaben.
+
+60
+00:03:54,539 --> 00:03:58,259
+Der zweiten Gruppe, der Kontrollgruppe, sagten sie es erst danach.
+
+61
+00:03:58,259 --> 00:04:01,539
+Das Einzige, was sich änderte, war also der Zeitpunkt.
+
+62
+00:04:01,539 --> 00:04:04,180
+Und das Ergebnis war unglaublich.
+
+63
+00:04:04,180 --> 00:04:06,900
+Allein die Tatsache, die eigene Punktzahl im Voraus zu kennen,
+
+64
+00:04:06,939 --> 00:04:11,780
+veranlasste die Lehrer der informierten Gruppe, die Notenkluft um stolze 0,35
+
+65
+00:04:11,780 --> 00:12,780
+Punkte zu verringern.
+
+66
+00:04:12,780 --> 00:04:16,139
+Praktisch haben sie den anfänglichen Unterschied fast auf Null reduziert, und sie taten dies
+
+67
+00:04:16,139 --> 00:04:18,139
+vor allem, indem sie die Noten der Migrantenschüler anhoben.
+
+68
+00:04:18,139 --> 00:04:22,740
+An diesem Punkt wollten die Forscher jedoch noch tiefer gehen, das heißt, die Frage war:
+
+69
+00:04:22,740 --> 00:04:28,660
+Macht es den Unterschied, das eigene spezifische Vorurteil zu kennen, oder würde eine
+
+70
+00:04:28,660 --> 00:04:33,060
+allgemeinere Warnung reichen, wie: "Achtung, Vorurteile existieren"?
+
+71
+00:04:33,100 --> 00:04:37,220
+Um das zu verstehen, führten sie ein zweites Experiment durch, diesmal online.
+
+72
+00:04:37,220 --> 00:04:41,660
+In dieser zweiten Runde erhielten alle eine allgemeine Nachricht, die sie über das
+
+73
+00:04:41,660 --> 00:04:47,180
+Vorhandensein von Vorurteilen in der Schule informierte. Aber nur der Hälfte von ihnen,
+
+74
+00:04:47,180 --> 00:04:51,980
+der Behandlungsgruppe, wurde zusätzlich auch das persönliche Testergebnis mitgeteilt.
+
+75
+00:04:51,980 --> 00:04:55,939
+Das Ziel war es, die Wirkung der maßgeschneiderten Information zu isolieren.
+
+76
+00:04:55,939 --> 00:04:58,980
+Und hier wird es extrem interessant.
+
+77
+00:04:58,980 --> 00:05:02,379
+Schauen Sie sich diese Tabelle an, denn sie ist der Schlüssel zu allem.
+
+78
+00:05:02,420 --> 00:05:06,939
+Bei Lehrern mit geringem Vorurteil hatten die allgemeine und die persönliche Nachricht mehr
+
+79
+00:05:06,939 --> 00:05:12,500
+oder weniger den gleichen positiven Effekt. Die wahre Überraschung liegt aber in der Zeile darunter.
+
+80
+00:05:12,500 --> 00:05:17,180
+Bei jenen mit starken Vorurteilen nützte die allgemeine Nachricht gar nichts.
+
+81
+00:05:17,180 --> 00:05:18,699
+Keinerlei Veränderung.
+
+82
+00:05:18,699 --> 00:05:23,540
+Sie änderten ihre Haltung erst, als sie mit ihrem persönlichen Ergebnis konfrontiert wurden.
+
+83
+00:05:23,540 --> 00:05:25,540
+Erst dann verringerten sie die Kluft.
+
+84
+00:05:25,540 --> 00:05:29,420
+Und das führt uns direkt zum Kern des entdeckten Mechanismus.
+
+85
+00:05:29,420 --> 00:05:32,259
+Das, was wir den Überraschungseffekt nennen könnten.
+
+86
+00:05:32,300 --> 00:05:36,980
+Personalisierte Information ist eine Bombe, besonders wenn sie einen unvorbereitet trifft.
+
+87
+00:05:36,980 --> 00:05:41,180
+Die Lehrer, die ihr Verhalten am meisten änderten, waren genau jene, die wahrscheinlich gesagt
+
+88
+00:05:41,180 --> 00:05:45,899
+hätten: "Ich? Vorurteile? Niemals!"
+
+89
+00:05:45,899 --> 00:05:49,019
+Und als Bestätigung dafür gibt es einen beeindruckenden Wert.
+
+90
+00:05:49,019 --> 00:05:54,819
+80 % der Lehrer, acht von zehn, haben ihr eigenes Vorurteilsniveau unterschätzt.
+
+91
+00:05:54,819 --> 00:05:58,420
+Das macht uns klar, wie wenig wir uns in dieser Hinsicht selbst kennen.
+
+92
+00:05:58,420 --> 00:06:02,460
+Und warum ein direktes und persönliches Feedback so bahnbrechend sein kann.
+
+93
+00:06:02,460 --> 00:06:04,259
+Und so kommen wir zum Punkt.
+
+94
+00:06:04,259 --> 00:06:07,020
+Was nehmen wir aus dieser ganzen Forschung mit?
+
+95
+00:06:07,020 --> 00:06:13,140
+Und vor allem, was sagt es uns darüber, wie wir die Schule zu einem konkret gerechteren Ort machen können?
+
+96
+00:06:13,140 --> 00:06:16,460
+Fassen wir kurz die wesentlichen Dinge zusammen, die wir verstanden haben.
+
+97
+00:06:16,460 --> 00:06:22,220
+Erstens: Unbewusste Vorurteile sind keine abstrakten Gedanken, sondern haben eine reale Auswirkung auf Noten.
+
+98
+00:06:22,220 --> 00:06:25,379
+Zweitens: Bewusstsein ist eine mächtige Waffe.
+
+99
+00:06:25,379 --> 00:06:29,300
+Einem Lehrer zu sagen: "Pass auf, dieser Bias kann Ungleichheiten verringern."
+
+100
+00:06:29,300 --> 00:06:34,899
+Drittens: Es ist eine Sache zu sagen, dass Bias existieren, und eine andere zu sagen: "Das ist dein Bias".
+
+101
+00:06:34,899 --> 00:06:39,500
+Personalisierte Information gewinnt, besonders bei denjenigen mit stärkeren Vorurteilen.
+
+102
+00:06:39,500 --> 00:06:42,740
+Und schließlich: Der wahre Motor der Veränderung ist die Überraschung.
+
+103
+00:06:42,740 --> 00:06:46,139
+Der Schock, eine Seite an sich zu entdecken, die man nicht erwartet hat.
+
+104
+00:06:46,139 --> 00:06:50,060
+Wir schließen mit einer offenen Frage, einer Reflexion.
+
+105
+00:06:50,060 --> 00:06:56,819
+Diese ganze Forschung scheint nahezulegen, dass es manchmal reicht, ein Problem sichtbar zu machen, um es zu lösen.
+
+106
+00:06:56,819 --> 00:07:00,060
+Und die Frage, die wir im Raum stehen lassen, ist genau diese:
+
+107
+00:07:00,060 --> 00:07:07,699
+Ist das Ans-Licht-Bringen eines Vorurteils, das wir nicht kannten, wirklich der erste unverzichtbare Schritt, um es zu besiegen?
+
+108
+00:07:07,699 --> 00:07:09,899
+Vielen Dank, dass Sie uns bei dieser Analyse gefolgt sind.

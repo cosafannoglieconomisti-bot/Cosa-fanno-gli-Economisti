@@ -1,0 +1,391 @@
+1
+00:00:00,000 --> 00:00:05,700
+Hier sind wir, herzlich willkommen zu dieser neuen Vertiefung. Der heutige Titel stellt eine Frage, die ebenso
+
+2
+00:00:05,700 --> 00:00:09,980
+einfach wie unbequem ist: Warum kosten Reformen Stimmen?
+
+3
+00:00:09,980 --> 00:00:14,339
+Heute werden wir eines der unglaublichsten Paradoxe der modernen Politik untersuchen.
+
+4
+00:00:14,339 --> 00:00:19,339
+Wir werden eine wirklich monumentale Datenbank analysieren, um ein Rätsel zu lösen: Warum
+
+5
+00:00:19,339 --> 00:00:24,660
+sich das objektiv Richtige für die Wirtschaft fast immer als ein tödlicher Schachzug für
+
+6
+00:00:24,660 --> 00:00:29,579
+die Karriere der Regierenden erweist. Kurz gesagt, schnallen Sie sich an, denn wir tauchen in die Daten ein.
+
+7
+00:00:29,579 --> 00:00:35,259
+Und um zu verstehen, wie tief dieses Problem verwurzelt ist, müssen wir einen großen Sprung zurück in der Zeit machen.
+
+8
+00:00:35,259 --> 00:00:40,500
+Bedenken Sie, dass Machiavelli uns bereits 1513 gewarnt hat. Er schrieb, dass es
+
+9
+00:00:40,500 --> 00:00:45,539
+buchstäblich nichts Gefährlicheres gibt, als sich in den Kopf zu setzen, eine neue Ordnung der Dinge einzuführen.
+
+10
+00:00:45,539 --> 00:00:50,740
+Denn, nun ja, wer Neuerungen einführt, macht sich all jene zu Feinden, die vom alten System profitiert haben, und findet
+
+11
+00:00:50,740 --> 00:00:54,980
+nur sehr, sehr laue Verteidiger in denen, die vom neuen profitieren könnten.
+
+12
+00:00:54,980 --> 00:01:00,020
+Dieser Widerstand gegen Veränderungen ist nicht nur Philosophie, es ist ein jahrhundertealtes Problem, das wir heute
+
+13
+00:01:00,020 --> 00:01:02,660
+in unseren Demokratien vollends explodieren sehen.
+
+14
+00:01:02,660 --> 00:01:08,579
+Was uns direkt zu unserer grundlegenden Frage führt, dem buchstäblich wahren Geheimnis:
+
+15
+00:01:08,579 --> 00:01:13,260
+Warum kostet der Versuch, die Wirtschaft langfristig zu verbessern, so oft einem
+
+16
+00:01:13,260 --> 00:01:17,700
+politischen Führer das Amt? Ich meine, theoretisch sollte der Wähler, wenn eine Regierung der Wirtschaft guttut,
+
+17
+00:01:17,700 --> 00:01:22,420
+sie belohnen, oder? Genau das besagt auch die klassische Wirtschaftstheorie. Und doch, wenn echte
+
+18
+00:01:22,420 --> 00:01:26,579
+strukturelle Reformen auf den Weg gebracht werden, werden die Staats- und Regierungschefs, die die Verantwortung dafür übernehmen,
+
+19
+00:01:26,579 --> 00:01:31,379
+regelmäßig an den Wahlurnen bestraft. Es gibt eine Art verrückten Kurzschluss zwischen den guten Absichten
+
+20
+00:01:31,379 --> 00:01:36,820
+für das Land und der Zustimmung der Wähler. Um diese Frage zu beantworten, werden wir hier nicht
+
+21
+00:01:36,820 --> 00:01:41,680
+Stammtischparolen dreschen, sondern uns auf einen regelrechten Berg von Daten stützen. Ein Team von
+
+22
+00:01:41,680 --> 00:01:47,260
+erstklassigen Forschern hat die Structural Reform Database erstellt, die im Grunde die
+
+23
+00:01:47,260 --> 00:01:52,140
+massivste Datenbank ist, die jemals zu diesem Thema aufgebaut wurde. Wir sprechen hier von Daten, die
+
+24
+00:01:52,140 --> 00:01:59,340
+90 Nationen von 1973 bis 2014 abdecken; sie haben Reformen in jedem Sektor analysiert und das alles mit
+
+25
+00:01:59,340 --> 00:02:04,780
+den Wahlen in 66 Demokratien abgeglichen. Kurz gesagt, das ist keine theoretische Übung, es ist die Wirtschafts-
+
+26
+00:02:04,780 --> 00:02:10,099
+und Wahlgeschichte der halben Welt, die unter die Lupe genommen wurde. Nur um ganz klar zu sein
+
+27
+00:02:10,099 --> 00:02:16,140
+und unsere Analyse völlig neutral zu halten: Was genau verstehen wir unter einer Reform?
+
+28
+00:02:16,140 --> 00:02:21,900
+Die Forscher verwendeten eine sehr einfache Skala von 0 bis 1. 0 bedeutet maximale Regulierung,
+
+29
+00:02:21,900 --> 00:02:27,100
+1 bedeutet vollständige Liberalisierung. Wenn wir also in diesem Zusammenhang von Reform sprechen,
+
+30
+00:02:27,100 --> 00:02:31,940
+meinen wir einfach eine Bewegung hin zum freien Markt – keine Politik, keine ideologischen Vorlieben,
+
+31
+00:02:31,940 --> 00:02:35,580
+es wird nur das Ausmaß der Veränderung gemessen, Punkt um.
+
+32
+00:02:35,580 --> 00:02:41,700
+Und hier kommen wir zum Kern des Problems. Es ist alles eine Frage völlig unterschiedlicher Zeithorizonte. Stellen Sie sich
+
+33
+00:02:41,700 --> 00:02:46,820
+zwei Uhren vor, die auf verschiedenen Planeten ticken. Auf der einen Seite haben Sie die Wirtschaftsuhr,
+
+34
+00:02:46,820 --> 00:02:51,700
+die sehr langsam tickt. Wenn Sie im ersten Jahr eine Reform verabschieden, fallen die Kosten sofort im
+
+35
+00:02:51,700 --> 00:02:57,020
+zweiten und dritten Jahr an. Und die Vorteile? Die lassen bis zum vierten oder fünften Jahr auf sich warten.
+
+36
+00:02:57,020 --> 00:03:01,700
+Auf der anderen Seite steht die politische Uhr, die wie verrückt auf die nächsten
+
+37
+00:03:01,700 --> 00:03:06,580
+Wahlen zusteuert. Erkennen Sie den Wahnsinn? Der Politiker muss genau dann um Stimmen bitten, wenn die Bürger
+
+38
+00:03:06,580 --> 00:03:11,260
+die Rechnung für die Reform bezahlen, aber noch keine Früchte davon sehen. Um das besser
+
+39
+00:03:11,259 --> 00:03:15,819
+zu verstehen, schauen wir uns den Effekt auf das BIP, das Bruttoinlandsprodukt, an. Wenn eine große
+
+40
+00:03:15,819 --> 00:03:21,340
+Reform beginnt, ist der Effekt kurzfristig praktisch gleich null, flach. Erst ab dem vierten und noch
+
+41
+00:03:21,340 --> 00:03:25,539
+deutlicher ab dem fünften Jahr sieht man einen Anstieg der Wirtschaftsleistung, sagen wir
+
+42
+00:03:25,539 --> 00:03:30,219
+um etwa ein Prozent. Das ist ein gutes Ergebnis, sicher. Aber versetzen wir uns in die Lage derjenigen,
+
+43
+00:03:30,219 --> 00:03:35,219
+die regieren. Fünf Jahre Wartezeit entsprechen in der Politik etwa zwei oder drei
+
+44
+00:03:35,219 --> 00:03:40,939
+geologischen Zeitaltern. Nun könnte jemand sagen: Okay, aber wenn Liberalisierungen so lange
+
+45
+00:03:40,939 --> 00:03:45,620
+dauern, mache ich das Gegenteil, führe wieder Regeln ein und gewinne sofort an Zustimmung.
+
+46
+00:03:45,620 --> 00:03:50,579
+Wenn es nur so einfach wäre. Die Daten führen uns eine schreckliche Wahrheit vor Augen. Es stimmt zwar,
+
+47
+00:03:50,579 --> 00:03:55,219
+dass die Vorteile von Liberalisierungen langsam eintreffen, aber der Schaden durch neue
+
+48
+00:03:55,219 --> 00:04:00,620
+Beschränkungen ist sofort spürbar. Eine Reform zu blockieren oder rückgängig zu machen, lässt die Wirtschaftsleistung
+
+49
+00:04:00,620 --> 00:04:05,500
+sofort einbrechen. Praktisch ist das eine Falle ohne Ausweg. Wenn man Reformen vorantreibt,
+
+50
+00:04:05,500 --> 00:04:09,620
+verliert man kurzfristig Stimmen. Wenn man sie zurücknimmt, richtet man kurzfristig wirtschaftlichen Schaden an.
+
+51
+00:04:09,620 --> 00:04:17,300
+Das ist eine buchstäblich verheerende Asymmetrie. Auf der einen Seite haben wir einen langsamen, schrittweisen
+
+52
+00:04:17,300 --> 00:04:22,579
+und mühsamen Aufstieg, der langsam das Wachstum aufbaut. Auf der anderen Seite, wenn die Regeln verschärft werden,
+
+53
+00:04:22,579 --> 00:04:28,100
+haben wir einen schwindelerregenden und extrem schnellen Absturz. Wie im Leben ist Zerstören viel, viel
+
+54
+00:04:28,100 --> 00:04:32,460
+schneller als Aufbauen. Und für diejenigen, die regieren und versuchen müssen, den Staatshaushalt
+
+55
+00:04:32,460 --> 00:04:37,300
+mit dem verzweifelten Bedürfnis auszubalancieren, bei den nächsten Wahlen nicht abgewählt zu werden,
+
+56
+00:04:37,300 --> 00:04:43,100
+nun ja, ist das ein Albtraum. Und wie lässt sich dieser Albtraum beziffern? Schauen wir uns an, was passiert. Zahlen lügen nicht:
+
+57
+00:04:43,100 --> 00:04:48,379
+Wenn man eine liberale Reform genau im Wahljahr durchdrückt, lautet die Antwort: Sie erleiden
+
+58
+00:04:48,379 --> 00:04:55,580
+einen glatten Verlust von 1,4 % Ihres Stimmenanteils. Nun, 1,4 % klingen vielleicht
+
+59
+00:04:55,579 --> 00:05:00,300
+nicht nach dem Weltuntergang, oder? Aber in einem wettbewerbsintensiven System, in dem Regierungen auf des
+
+60
+00:05:00,300 --> 00:05:05,459
+Messers Schneide entschieden werden, bedeutet der Verlust von anderthalb Prozentpunkten, Kisten zu packen und das Büro
+
+61
+00:05:05,459 --> 00:05:10,579
+zu räumen. Das ist ein extrem hoher Preis dafür, das Richtige im falschen Moment getan zu haben.
+
+62
+00:05:10,579 --> 00:05:16,339
+Gibt es also keine Hoffnung? Tatsächlich gibt es einen hochstrategischen Ausweg: das Timing.
+
+63
+00:05:16,339 --> 00:05:21,379
+Die Daten sprechen eine klare Sprache. Reformen kurz vor der Wahl zu verabschieden, ist politischer Selbstmord.
+
+64
+00:05:21,379 --> 00:05:26,019
+Aber das Gedächtnis der Wähler ist, geben wir es zu, überraschend kurz. Wenn die Reform
+
+65
+00:05:26,019 --> 00:05:30,939
+zu Beginn der Amtszeit verabschiedet wird, schwinden diese elektoralen Kosten praktisch gegen null. Der Schlag trifft sie
+
+66
+00:05:30,939 --> 00:05:36,659
+sofort, die Wähler ärgern sich, aber nach drei oder vier Jahren ist der Ärger nicht nur verraucht,
+
+67
+00:05:36,659 --> 00:05:40,579
+sondern es zeigen sich auch die ersten konkreten Vorteile für die Wirtschaft.
+
+68
+00:05:40,579 --> 00:05:45,459
+Stellen Sie sich die Situation wie eine bittere Medizin vor. Strukturreformen,
+
+69
+00:05:45,459 --> 00:05:50,659
+wie die auf dem Arbeitsmarkt, wirken ein wenig wie eine sehr starke Therapie. Noch bevor sie
+
+70
+00:05:50,660 --> 00:05:55,580
+zur Heilung beitragen, hauen sie einen um. Vielleicht steigt die Arbeitslosigkeit vorübergehend, die Löhne
+
+71
+00:05:55,580 --> 00:06:00,740
+müssen sich anpassen. Kurz gesagt: Die künftigen Vorteile sind breit gestreut, aber die gegenwärtigen Schmerzen sind
+
+72
+00:06:00,740 --> 00:06:05,580
+stark spürbar, lokalisiert und machen eine menge Lärm. Wenn Sie also zum Patienten gehen, während er sich
+
+73
+00:06:05,580 --> 00:06:10,340
+vor Schmerzen durch die Behandlung krümmt, und ihn nach seiner Meinung über den Arzt fragen, nun, dann will er ihn natürlich
+
+74
+00:06:10,340 --> 00:06:15,620
+sofort entlassen. Aber Vorsicht, denn es gibt eine weitere Wendung, die die Karten
+
+75
+00:06:15,620 --> 00:06:20,579
+völlig neu mischt. Und das ist der allgemeine Gesundheitszustand der Wirtschaft, wenn
+
+76
+00:06:20,579 --> 00:06:25,420
+die Reform eingeführt wird. Der Effekt ist nicht immer derselbe. Die Forscher haben herausgefunden,
+
+77
+00:06:25,420 --> 00:06:30,579
+dass exakt dieselbe Reform diametral entgegengesetzte Reaktionen hervorrufen kann, je nachdem, ob wir sie lancieren, während
+
+78
+00:06:30,579 --> 00:06:35,300
+die Wirtschaft floriert oder ob sie gerade abstürzt. Wenn es um die Geduld der
+
+79
+00:06:35,300 --> 00:06:41,459
+Wähler geht, ist der Kontext buchstäblich alles. Und hier ist die goldene Regel, die sich herauskristallisiert: Reformen
+
+80
+00:06:41,460 --> 00:06:46,740
+während einer Rezession durchzuführen, ist der beste Weg, den Verlust an Wählerstimmen zu maximieren. Es ist
+
+81
+00:06:46,740 --> 00:06:51,260
+eine Katastrophe. Kündigungen in einer Zeit zu erleichtern, in der es ohnehin keine Arbeit gibt,
+
+82
+00:06:51,260 --> 00:06:57,620
+verschlimmert die Krise nur und macht die Menschen wütend. Aber wenn man exakt dieselbe
+
+83
+00:06:57,620 --> 00:07:02,820
+Reform in einer Phase des wirtschaftlichen Aufschwungs durchführt, verzeiht man sie einem nicht nur, sondern
+
+84
+00:07:02,820 --> 00:07:08,060
+wird manchmal sogar dafür belohnt. Um auf unsere Metapher zurückzukommen: Wenn man einem halbtoten Patienten
+
+85
+00:07:08,060 --> 00:07:13,259
+eine starke Medizin gibt, geht es schlecht aus. Wenn man sie ihm gibt, wenn er bei Kräften ist, wirkt sie wunderbar.
+
+86
+00:07:13,259 --> 00:07:19,699
+Wer riskiert es am meisten, sich zu verletzen? Die Forschung lässt keinen Zweifel.
+
+87
+00:07:19,699 --> 00:07:25,420
+Einparteienregierungen und Mehrheitswahlsysteme, insbesondere in reichen Ländern. Warum?
+
+88
+00:07:25,420 --> 00:07:30,060
+Ganz einfach: Verantwortung. Wenn man in einer großen Koalition nach Art eines
+
+89
+00:07:30,060 --> 00:07:36,100
+"Eintopfs" ist, verwässert sich die Schuld und wird hin- und hergeschoben. Aber in einem Mehrheitswahlsystem gibt es nur ein einziges,
+
+90
+00:07:36,100 --> 00:07:41,180
+klares und hell erleuchtetes Ziel. Die Wähler wissen genau, wen sie auf dem Stimmzettel vor sich haben,
+
+91
+00:07:41,180 --> 00:07:46,660
+und wissen genau, wen sie bestrafen müssen. Kurzum, all das bringt uns zu einer ziemlich großen Provokation,
+
+92
+00:07:46,660 --> 00:07:51,780
+über die ich Sie nachdenken lassen möchte. Wenn unser eigenes demokratisches System mathematisch diejenigen bestraft,
+
+93
+00:07:51,780 --> 00:07:56,100
+die in schwierigen Zeiten versuchen, langfristiges Wachstum zu schaffen,
+
+94
+00:07:56,100 --> 00:08:00,500
+dann nehmen wir dem politischen Mut im Kern jeden Anreiz. Das heißt, verdammt uns unser Wunsch nach
+
+95
+00:08:00,500 --> 00:08:05,300
+sofortigen Ergebnissen vielleicht dazu, auf der Stelle zu treten? Wollen wir Politiker, die jeden Schritt nur kalkulieren,
+
+96
+00:08:05,300 --> 00:08:10,100
+um die nächste Wahl zu überleben, oder Leader, die bereit sind, heute Buhrufe einzustecken,
+
+97
+00:08:10,100 --> 00:08:15,300
+um die nächsten Generationen zu retten? Das ist eine riesige Frage, und die Antwort überlasse ich Ihnen.
+
+98
+00:08:15,300 --> 00:08:15,939
+Bis zum nächsten Mal!

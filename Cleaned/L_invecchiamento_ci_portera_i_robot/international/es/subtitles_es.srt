@@ -1,0 +1,987 @@
+1
+00:00:00,000 --> 00:00:04,299
+Cuando se habla de automatización y del ascenso imparable de los robots industriales,
+
+2
+00:00:04,299 --> 00:00:08,580
+la imagen que viene de inmediato a la mente es la de los microchips de silicio
+
+3
+00:00:08,580 --> 00:00:12,400
+o tal vez de los descubrimientos más recientes en inteligencia artificial.
+
+4
+00:00:12,400 --> 00:00:15,500
+Es bastante común creer que el progreso ocurre simplemente
+
+5
+00:00:15,500 --> 00:00:20,539
+porque la propia tecnología se vuelve cada día más inteligente y rápida.
+
+6
+00:00:20,539 --> 00:00:24,780
+Bueno, en este análisis daremos un paso atrás y cambiaremos totalmente de perspectiva.
+
+7
+00:00:24,780 --> 00:00:28,179
+De hecho, exploraremos una tesis económica de lo más fascinante
+
+8
+00:00:28,179 --> 00:00:32,320
+presentada por los investigadores Daron Acemoglu y Pascual Restrepo.
+
+9
+00:00:32,320 --> 00:00:36,179
+La idea central de su investigación es que lo que guía la verdadera invasión
+
+10
+00:00:36,179 --> 00:00:40,880
+de los robots en las fábricas de todo el mundo no es solo la pura y simple potencia de cálculo,
+
+11
+00:00:40,880 --> 00:00:44,719
+sino algo mucho, mucho más humano: la demografía.
+
+12
+00:00:44,719 --> 00:00:48,000
+Exacto, la forma en que evolucionan las poblaciones humanas
+
+13
+00:00:48,000 --> 00:00:52,960
+podría ser el verdadero motor invisible de la automatización, planteándonos una pregunta fundamental:
+
+14
+00:00:52,960 --> 00:00:55,320
+¿el envejecimiento nos traerá los robots?
+
+15
+00:00:55,340 --> 00:00:59,460
+Cabe entonces preguntarse: ¿qué guía realmente la automatización industrial?
+
+16
+00:00:59,460 --> 00:01:03,899
+Si echamos un vistazo al panorama global actual, surge un verdadero mistero.
+
+17
+00:01:03,899 --> 00:01:07,460
+Hay algunas naciones que están llenando sus líneas de producción
+
+18
+00:01:07,460 --> 00:01:12,260
+con brazos robóticos superavanzados a una velocidad simplemente asombrosa.
+
+19
+00:01:12,260 --> 00:01:16,900
+Otras naciones, en cambio, a pesar de tener exactamente el mismo acceso a las mismas tecnologías,
+
+20
+00:01:16,900 --> 00:01:19,980
+avanzan a un ritmo mucho, mucho más lento.
+
+21
+00:01:19,980 --> 00:01:23,140
+Ahora bien, si la tecnología fuera el único factor determinante,
+
+22
+00:01:23,140 --> 00:01:28,060
+la adopción debería ser prácticamente uniforme en cualquier lugar donde haya capital para invertir, ¿verdad?
+
+23
+00:01:28,060 --> 00:01:31,420
+Y sin embargo, los datos nos muestran discrepancias enormes.
+
+24
+00:01:31,420 --> 00:01:35,159
+Es precisamente esta clara disparidad la que nos empuja a indagar más a fondo,
+
+25
+00:01:35,159 --> 00:01:39,319
+a buscar causas estructurales y arraigadas en las sociedades y economías locales.
+
+26
+00:01:39,319 --> 00:01:43,599
+Pongamos las cartas sobre la mesa y comparemos las dos visiones principales.
+
+27
+00:01:43,599 --> 00:01:47,799
+Por un lado tenemos la tesis clásica, un poco la de manual,
+
+28
+00:01:47,799 --> 00:01:52,439
+según la cual es simplemente la oferta de nuevas tecnologías lo que impulsa la automatización:
+
+29
+00:01:52,439 --> 00:01:58,299
+se inventa un robot mejor y más eficiente y, por lo tanto, las empresas lo compran, fin de la historia.
+
+30
+00:01:58,299 --> 00:02:03,679
+Por otro lado, en cambio, encontramos la disruptiva tesis de la investigación de Acemoglu y Restrepo.
+
+31
+00:02:03,679 --> 00:02:06,480
+Ellos cambian literalmente la perspectiva:
+
+32
+00:02:06,480 --> 00:02:12,360
+es el cambio demográfico lo que crea una demanda imperiosa y desesperada de automatización.
+
+33
+00:02:12,360 --> 00:02:17,099
+En otras palabras, no se adoptan los robots solo porque están ahí en el escaparate listos para usar,
+
+34
+00:02:17,099 --> 00:02:21,439
+sino porque la estructura de edad de los trabajadores está sufriendo un cambio radical,
+
+35
+00:02:21,439 --> 00:02:25,579
+dejando vacíos que solo las máquinas pueden llenar de manera eficiente.
+
+36
+00:02:25,579 --> 00:02:28,939
+Para adentrarnos en los mecanismos de este modelo económico,
+
+37
+00:02:28,939 --> 00:02:33,139
+debemos definir primero con exactitud las piezas del tablero.
+
+38
+00:02:33,139 --> 00:02:38,379
+En este contexto, el mercado laboral se divide en dos macrocategorías muy precisas.
+
+39
+00:02:38,379 --> 00:02:44,520
+En primer lugar, tenemos a los trabajadores de mediana edad, que entran en un rango que va de los 21 a los 55 años.
+
+40
+00:02:44,520 --> 00:02:48,819
+Este es históricamente el grupo que posee el vigor físico y la agilidad necesarios
+
+41
+00:02:48,819 --> 00:02:53,699
+para realizar tareas manuales complejas y altamente repetitivas dentro de las fábricas.
+
+42
+00:02:53,699 --> 00:02:58,780
+Luego encontramos a los trabajadores de más edad, es decir, todos aquellos que han superado los 56 años.
+
+43
+00:02:58,780 --> 00:03:02,060
+Llegados a esa edad, estadística y fisiológicamente,
+
+44
+00:03:02,060 --> 00:03:06,379
+se tiende a pasar a roles de apoyo, gestión o servicios,
+
+45
+00:03:06,379 --> 00:03:10,019
+reduciendo drásticamente la presencia en esas actividades puramente manuales
+
+46
+00:03:10,019 --> 00:03:12,379
+y, admitámoslo, físicamente agotadoras.
+
+47
+00:03:12,419 --> 00:03:19,019
+Así pues, ¿cómo se transforma todo esto en un mecanismo económico progresivo e inexorable?
+
+48
+00:03:19,019 --> 00:03:23,099
+Podemos desglosar el proceso en tres fases sumamente lógicas.
+
+49
+00:03:23,099 --> 00:03:27,259
+Paso número uno: cuando toda una población empieza a envejecer,
+
+50
+00:03:27,259 --> 00:03:33,219
+el grupo de trabajadores de mediana edad, los famosos de entre 21 y 55 años, se reduce.
+
+51
+00:03:33,219 --> 00:03:37,699
+Y esto crea una grave escasez de mano de obra para las tareas puramente manuales.
+
+52
+00:03:37,699 --> 00:03:40,939
+Paso número dos: las leyes más básicas de la economía
+
+53
+00:03:40,939 --> 00:03:45,099
+nos enseñan que cuando algo escasea, su precio se dispara,
+
+54
+00:03:45,099 --> 00:03:49,460
+en consecuencia, los salarios exigidos para estos trabajadores industriales específicos
+
+55
+00:03:49,460 --> 00:03:53,419
+aumentan significativamente, lo que nos lleva al paso número tres.
+
+56
+00:03:53,419 --> 00:04:57,419
+Este aumento repentino de los costes laborales pone a las empresas contra las cuerdas,
+
+57
+00:04:57,419 --> 00:03:59,620
+obligándolas a buscar alternativas.
+
+58
+00:03:59,620 --> 00:04:03,900
+De repente, la enorme inversión inicial necesaria para comprar
+
+59
+00:04:03,900 --> 00:04:07,900
+e instalar un robot ya no es solo una estrategia para parecer modernos,
+
+60
+00:04:07,900 --> 00:04:11,340
+se vuelve no solo conveniente, sino absolutamente vital
+
+61
+00:04:11,340 --> 00:04:13,420
+para no quedar fuera del mercado.
+
+62
+00:04:13,420 --> 00:04:16,259
+Observando la evolución del modelo económico,
+
+63
+00:04:16,259 --> 00:04:20,459
+queda muy claro cómo el envejecimiento empuja inevitablemente al alza
+
+64
+00:04:20,459 --> 00:04:23,540
+el salario di equilibrio para los trabajadores de mediana edad.
+
+65
+00:04:23,540 --> 00:04:27,420
+El punto en el que se encuentran la oferta y la demanda se desplaza
+
+66
+00:04:27,420 --> 00:04:32,939
+progresivamente, paso a paso, hacia un nivel de coste laboral cada vez más alto.
+
+67
+00:04:32,939 --> 00:04:35,540
+Existe un umbral matemático muy preciso
+
+68
+00:04:35,660 --> 00:04:39,700
+más allá del cual el coste de un operador humano supera con creces el coste
+
+69
+00:04:39,700 --> 00:04:43,580
+fijo de alquiler, amortización y mantenimiento de una máquina.
+
+70
+00:04:43,580 --> 00:04:46,939
+Pues bien, cuando la dinámica demográfica empuja los salarios
+
+71
+00:04:46,939 --> 00:04:49,379
+más allá de esa línea roja de no retorno,
+
+72
+00:04:49,379 --> 00:04:51,780
+se enciende la chispa de la automatización.
+
+73
+00:04:51,780 --> 00:04:54,100
+No tiene nada que ver con la fascinación por la alta tecnología;
+
+74
+00:04:54,100 --> 00:04:57,140
+se trata de pura y simple supervivencia financiera.
+
+75
+00:04:57,140 --> 00:05:01,060
+Todo muy lógico, claro; la teoría es sin duda elegante,
+
+76
+00:05:01,100 --> 00:05:05,939
+pero como siempre en economía, debe superar la prueba implacable de los hechos.
+
+77
+00:05:05,939 --> 00:05:09,540
+Dirigiendo la atención a los datos globales sobre la adopción de robots,
+
+78
+00:05:09,540 --> 00:05:12,259
+si el envejecimiento es realmente el motor principal,
+
+79
+00:05:12,259 --> 00:05:15,019
+deberíamos encontrar un hecho inequívoco.
+
+80
+00:05:15,019 --> 00:05:17,139
+Los países que envejecen más rápidamente
+
+81
+00:05:17,139 --> 00:05:21,420
+deberían ser exactamente los mismos que instalan más robots industriales.
+
+82
+00:05:21,420 --> 00:05:22,819
+¿Andivinen qué?
+
+83
+00:05:22,819 --> 00:05:25,860
+Eso es exactamente lo que los investigadores fueron a medir,
+
+84
+00:05:25,860 --> 00:05:29,060
+cruzando los datos demográficos oficiales de las Naciones Unidas
+
+85
+00:05:29,060 --> 00:05:32,819
+con los rigurosos registros de la Federación Internacional de Robótica.
+
+86
+00:05:32,819 --> 00:05:38,060
+Al analizar los números, salta de inmediato a la vista una divergencia muy clara entre las naciones.
+
+87
+00:05:38,060 --> 00:05:41,259
+Por un lado, observamos la proporción de trabajadores de más edad
+
+88
+00:05:41,259 --> 00:05:43,100
+en comparación con los de mediana edad.
+
+89
+00:05:43,100 --> 00:05:45,459
+Si ponemos el foco en naciones como Alemania,
+
+90
+00:05:45,459 --> 00:05:47,100
+Japón y Corea del Sur,
+
+91
+00:05:47,100 --> 00:05:51,340
+sus curvas demográficas apuntan bruscamente hacia arriba, como cohetes.
+
+92
+00:05:51,340 --> 00:05:53,740
+Si observamos el número de robots operativos
+
+93
+00:05:53,740 --> 00:05:55,860
+por cada mil trabajadores de la industria,
+
+94
+00:05:55,860 --> 00:05:59,819
+se nota un aumento casi idéntico en esos mismos países.
+
+95
+00:05:59,819 --> 00:06:03,060
+Estados Unidos, por el contrario, presenta una tasa de envejecimiento
+
+96
+00:06:03,060 --> 00:06:05,259
+de la fuerza laboral notablemente más lenta,
+
+97
+00:06:05,259 --> 00:06:08,980
+y, en paralelo, su curva de adopción de robots se queda ahí,
+
+98
+00:06:08,980 --> 00:06:11,620
+mucho más plana y cercana a la media general.
+
+99
+00:06:11,620 --> 00:06:12,860
+¿Una coincidencia?
+
+100
+00:06:12,860 --> 00:06:14,340
+Absolutamente no.
+
+101
+00:06:14,340 --> 00:06:16,699
+Y así llegamos al punto crucial,
+
+102
+00:06:16,699 --> 00:06:21,220
+que se puede resumir en un único y potentísimo dato: 35%.
+
+103
+00:06:21,220 --> 00:06:22,980
+Según las estimaciones de los investigadores,
+
+104
+00:06:22,980 --> 00:06:25,620
+el envejecimiento de la población, considerado por sí solo,
+
+105
+00:06:25,620 --> 00:06:29,019
+explica nada menos que el 35% de todas las variaciones
+
+106
+00:06:29,019 --> 00:06:31,300
+en la adopción de robots entre los distintos países.
+
+107
+00:06:31,300 --> 00:06:34,699
+Es un porcentaje monstruoso para una sola variable macroeconómica.
+
+108
+00:06:34,699 --> 00:06:36,699
+Para dar una idea concreta de la magnitud,
+
+109
+00:06:36,699 --> 00:06:40,060
+si Estados Unidos hubiera tenido exactamente las mismas tendencias demográficas
+
+110
+00:06:40,060 --> 00:06:42,259
+que Alemania en las últimas décadas,
+
+111
+00:06:42,259 --> 00:06:46,819
+hoy la brecha en la adopción de robots entre ambas naciones prácticamente se habría reducido a la mitad.
+
+112
+00:06:46,819 --> 00:06:51,980
+El impacto de la curva demográfica es algo tangible, medible y masivo.
+
+113
+00:06:51,980 --> 00:06:53,939
+Para consolidar todo el concepto,
+
+114
+00:06:53,939 --> 00:06:56,379
+basta con cruzar la magnitud del envejecimiento
+
+115
+00:06:56,379 --> 00:06:59,300
+con el aumento anual de la adopción de robots;
+
+116
+00:06:59,300 --> 00:07:03,139
+la línea de tendencia positiva que surge de ello es inequívoca
+
+117
+00:07:03,139 --> 00:07:05,019
+y no deja lugar a muchas dudas.
+
+118
+00:07:05,019 --> 00:07:09,259
+Se nota de manera evidente, tanto al analizar la muestra a escala global
+
+119
+00:07:09,259 --> 00:07:11,339
+como al restringir el campo de investigación
+
+120
+00:07:11,339 --> 00:07:13,659
+únicamente a los países industrializados de la OCDE.
+
+121
+00:07:13,659 --> 00:07:18,060
+En los cuadrantes superiores dominan siempre, inevitablemente, los sospechosos habituales:
+
+122
+00:07:18,060 --> 00:07:20,339
+Corea del Sur y Alemania en primer lugar.
+
+123
+00:07:20,339 --> 00:07:22,180
+La regla de oro es sencilla:
+
+124
+00:07:22,180 --> 00:07:24,500
+cuanto más envejece la fuerza laboral nacional,
+
+125
+00:07:24,500 --> 00:07:29,259
+más robots se convocan para mantener operativas las líneas de montaje.
+
+126
+00:07:29,259 --> 00:07:32,459
+Pero ojo, porque la historia no termina para nada
+
+127
+00:07:32,459 --> 00:07:36,340
+con la simple instalación de maquinaria comprada quién sabe dónde.
+
+128
+00:07:36,340 --> 00:07:40,379
+Un cambio tan profundo y sísmico en el tejido económico
+
+129
+00:07:40,379 --> 00:07:44,139
+genera inevitables efectos en cascada en la propia innovación.
+
+130
+00:07:44,139 --> 00:07:47,579
+Si existe una necesidad absoluta de sustituir el trabajo manual,
+
+131
+00:07:47,579 --> 00:07:50,980
+se desencadena una carrera frenética no solo por conseguir robots,
+
+132
+00:07:50,980 --> 00:07:52,900
+sino por inventarlos desde cero.
+
+133
+00:07:52,900 --> 00:07:58,060
+Adentrémonos, pues, en la fascinante conexión entre la estructura demográfica de un país,
+
+134
+00:07:58,060 --> 00:08:00,379
+el registro de patentes internacionales
+
+135
+00:08:00,379 --> 00:08:02,980
+y las exportaciones de tecnología de vanguardia.
+
+136
+00:08:02,980 --> 00:08:07,660
+Al comparar el envejecimiento demográfico no solo con la compra pasiva de robots,
+
+137
+00:08:07,660 --> 00:08:10,420
+sino también con la creación activa de nuevas patentes,
+
+138
+00:08:10,420 --> 00:08:13,060
+se revela un paralelismo verdaderamente formidable.
+
+139
+00:08:13,060 --> 00:08:17,060
+Por un lado, tenemos la ya conocida correlación entre edad y compras.
+
+140
+00:10:17,180 --> 00:08:21,459
+Por otro lado, analizando las patentes específicamente relacionadas con la automatización
+
+141
+00:08:21,459 --> 00:08:24,579
+que se conceden a los inventores de esas mismas naciones,
+
+142
+00:08:24,579 --> 00:08:27,699
+la tendencia es increíblemente idéntica.
+
+143
+00:08:27,699 --> 00:08:31,620
+Los países que envejecen a ritmos de récord, como Japón y Alemania,
+
+144
+00:08:31,620 --> 00:08:35,659
+no se conforman con ser los mejores clientes de la industria robótica global,
+
+145
+00:08:35,659 --> 00:08:37,820
+se han convertido en sus padres fundadores;
+
+146
+00:08:37,820 --> 00:08:41,500
+son ellos quienes inventan, desarrollan y patentan los sistemas que luego
+
+147
+00:08:41,500 --> 00:08:43,659
+venderán a todo el resto del mundo.
+
+148
+00:08:43,659 --> 00:08:48,139
+Llegados a este punto, podría surgir de forma natural una pregunta legítima:
+
+149
+00:08:48,139 --> 00:08:52,299
+¿no será que acaso estas naciones simplemente se están volviendo
+
+150
+00:08:52,299 --> 00:08:56,139
+más avanzadas tecnológicamente en cada uno de los campos?
+
+151
+00:08:56,139 --> 00:08:59,899
+La respuesta respaldada por los datos es un rotundo no.
+
+152
+00:08:59,899 --> 00:09:01,819
+Y este es un detalle crucial.
+
+153
+00:09:01,819 --> 00:09:05,179
+El empuje demográfico crea un auge específico y exclusivo
+
+154
+00:09:05,179 --> 00:09:09,059
+en la exportación y la invención de tecnologías robóticas.
+
+155
+00:09:09,059 --> 00:09:12,779
+Hablamos de un enfoque quirúrgico en la automatización industrial:
+
+156
+00:09:12,779 --> 00:09:17,100
+máquinas de control numérico, soldadoras automáticas, brazos mecánicos.
+
+157
+00:09:17,100 --> 00:09:21,100
+En cambio, no se detecta absolutamente ningún efecto causado por la demografía
+
+158
+00:09:21,100 --> 00:09:24,980
+en la invención de ordenadores genéricos, teléfonos inteligentes o tecnologías
+
+159
+00:09:24,980 --> 00:09:27,059
+pensadas para el consumidor final.
+
+160
+00:09:27,059 --> 00:09:31,059
+Al analizar específicamente las diferentes clases de patentes presentadas,
+
+161
+00:09:31,059 --> 00:09:34,259
+la particularidad del fenómeno surge con total claridad.
+
+162
+00:09:34,259 --> 00:09:36,819
+Hay una auténtica explosión de patentes vinculadas
+
+163
+00:09:36,819 --> 00:09:40,059
+estrechamente a la robótica en respuesta al envejecimiento.
+
+164
+00:09:40,100 --> 00:09:43,500
+Sin embargo, si bajamos a analizar otras clases tecnológicas,
+
+165
+00:09:43,500 --> 00:09:47,700
+esta fuerte correlación se desvanece por completo o incluso se vuelve negativa.
+
+166
+00:09:47,700 --> 00:09:51,780
+Categorías como ordenadores, software, nanotecnología o incluso productos
+
+167
+00:09:51,780 --> 00:09:54,220
+farmacéuticos no registran el mismo impulso
+
+168
+00:09:54,220 --> 00:09:57,980
+derivado de la falta de trabajadores de entre 21 y 55 años.
+
+169
+00:09:57,980 --> 00:10:01,220
+En definitiva, la escasez de brazos en las fábricas estimula la mente
+
+170
+00:10:01,220 --> 00:10:03,260
+para inventar nuevos brazos mecánicos,
+
+171
+00:10:03,260 --> 00:10:05,980
+y no nuevos programas de contabilidad.
+
+172
+00:10:05,980 --> 00:10:08,100
+Avanzando en este análisis profundo,
+
+173
+00:10:08,100 --> 00:10:10,180
+llegamos al meollo de la cuestión:
+
+174
+00:10:10,180 --> 00:10:14,740
+los efectos macroeconómicos de esta inmensa transformación.
+
+175
+00:10:14,740 --> 00:10:18,060
+Una vez que los robots cruzan las puertas de la fábrica
+
+176
+00:10:18,060 --> 00:10:21,340
+para compensar la falta crónica de trabajadores jóvenes,
+
+177
+00:10:21,340 --> 00:10:24,980
+¿qué ocurre con la productividad total de ese país?
+
+178
+00:10:24,980 --> 00:10:28,540
+¿Y qué pasa con la parte de la riqueza destinada al trabajo humano?
+
+179
+00:10:28,540 --> 00:10:32,180
+En teoría, el envejecimiento demográfico, considerado de forma aislada,
+
+180
+00:10:32,180 --> 00:10:34,259
+tendería a deprimir la productividad,
+
+181
+00:10:34,259 --> 00:10:37,779
+simplemente porque hay menos personas en edad de trabajar.
+
+182
+00:10:37,779 --> 00:10:40,539
+Pero es justo aquí donde entra en juego la automatización,
+
+183
+00:10:40,539 --> 00:10:44,019
+actuando como un poderosísimo contrapeso para contener
+
+184
+00:10:44,019 --> 00:10:46,179
+e invertir este declino.
+
+185
+00:10:46,179 --> 00:10:48,579
+Las palabras utilizadas por los autores de la investigación
+
+186
+00:10:48,579 --> 00:10:51,220
+para resumirlo todo son perfectas.
+
+187
+00:10:51,220 --> 00:10:53,860
+El cambio demográfico fomenta la adopción
+
+188
+00:10:53,860 --> 00:10:56,100
+y el desarrollo de tecnologías de automatización.
+
+189
+00:10:56,100 --> 00:10:59,740
+Esta simple afirmación cristaliza un concepto fundamental.
+
+190
+00:10:59,740 --> 00:11:01,939
+La automatización no es un enemigo abstracto:
+
+191
+00:11:01,939 --> 00:11:04,419
+interviene como un auténtico sustituto directo
+
+192
+00:11:04,419 --> 00:11:07,459
+para los trabajadores de producción, los clásicos de cuello azul,
+
+193
+00:11:07,500 --> 00:11:10,900
+en el preciso momento en que superan el umbral de los 56 años
+
+194
+00:11:10,900 --> 00:11:14,340
+y empiezan a dejar gradualmente las tareas manuales más pesadas.
+
+195
+00:11:14,340 --> 00:11:16,860
+La economía es un organismo vivo que se adapta,
+
+196
+00:11:16,860 --> 00:11:19,379
+encontrando la manera de garantizar que las líneas de producción
+
+197
+00:11:19,379 --> 00:11:20,740
+no se detengan nunca.
+
+198
+00:11:20,740 --> 00:11:23,740
+Naturalmente, al observar la distribución del fenómeno
+
+199
+00:11:23,740 --> 00:11:25,540
+en los diferentes sectores industriales,
+
+200
+00:11:25,540 --> 00:11:28,700
+es evidente que el efecto no es igual para todos.
+
+201
+00:11:28,700 --> 00:11:30,860
+Hay industrias como la química,
+
+202
+00:11:30,860 --> 00:11:34,180
+la del plástico o la de fabricación de maquinaria pesada
+
+203
+00:11:34,180 --> 00:11:36,620
+que históricamente dependen de manera masiva
+
+204
+00:11:36,620 --> 00:11:38,299
+de los trabajadores de mediana edad.
+
+205
+00:11:38,299 --> 00:11:41,259
+Y es completamente lógico que sean precisamente estos sectores
+
+206
+00:11:41,259 --> 00:11:44,139
+los que sufran el impacto más fuerte del envejecimiento,
+
+207
+00:11:44,139 --> 00:11:48,500
+registrando en consecuencia una adopción de robots a ritmos frenéticos.
+
+208
+00:11:48,500 --> 00:11:50,539
+Por el contrario, sectores como el textil,
+
+209
+00:11:50,539 --> 00:11:53,539
+que dependen mucho menos de ese rango de edad específico
+
+210
+00:11:53,539 --> 00:11:55,980
+y que a menudo requieren manipulaciones complejas
+
+211
+00:11:55,980 --> 00:11:58,620
+y difíciles de automatizar al 100%,
+
+212
+00:11:58,620 --> 00:12:02,220
+muestran ritmos de adopción extremadamente más lentos.
+
+213
+00:12:02,220 --> 00:12:04,740
+Para disipar cualquier duda y confirmar
+
+214
+00:12:04,740 --> 00:12:07,139
+que no estamos hablando solo de diferencias culturales
+
+215
+00:12:07,139 --> 00:12:08,539
+entre naciones lejanas,
+
+216
+00:12:08,539 --> 00:12:11,539
+los investigadores hicieron zoom dentro de las fronteras
+
+217
+00:12:11,539 --> 00:12:14,019
+de un solo país: Estados Unidos.
+
+218
+00:12:14,019 --> 00:12:16,580
+Pues bien, incluso a nivel puramente local,
+
+219
+00:12:16,580 --> 00:12:19,620
+al examinar los distintos condados y zonas de transporte diario,
+
+220
+00:12:19,620 --> 00:12:22,500
+la línea de tendencia ascendente es clarísima.
+
+221
+00:12:22,500 --> 00:12:24,659
+Las zonas estadounidenses donde la población activa
+
+222
+00:12:24,659 --> 00:12:26,580
+está envejeciendo con mayor rapidez
+
+223
+00:12:26,580 --> 00:12:28,820
+se transforman en auténticos imanes
+
+224
+00:12:28,820 --> 00:12:31,139
+para los llamados integradores de robots,
+
+225
+00:12:31,139 --> 00:12:33,060
+es decir, las empresas especializadas
+
+226
+00:12:33,060 --> 00:12:36,580
+en vender, instalar y mantener la automatización industrial.
+
+227
+00:12:36,580 --> 00:12:39,300
+Ese efecto demográfico global se repite,
+
+228
+00:12:39,300 --> 00:12:42,100
+como un fractal, a una microescala local.
+
+229
+00:12:42,100 --> 00:12:43,460
+Increíble, ¿verdad?
+
+230
+00:12:43,460 --> 00:12:47,220
+Todo esto nos lleva a una conclusión ineludible
+
+231
+00:12:47,220 --> 00:12:49,940
+y a una pregunta que proyecta este análisis
+
+232
+00:12:49,940 --> 00:12:52,020
+directamente hacia nuestro futuro.
+
+233
+00:12:52,020 --> 00:12:55,060
+Sabiendo con certeza que las curvas demográficas de gran parte
+
+234
+00:12:55,060 --> 00:12:56,980
+de Occidente y de Extremo Oriente
+
+235
+00:12:56,980 --> 00:13:00,340
+están inexorablemente orientadas hacia un rápido envejecimiento,
+
+236
+00:13:00,340 --> 00:13:02,980
+¿cómo influirán en el mercado de las tecnologías
+
+237
+00:13:02,980 --> 00:13:05,779
+las políticas demográficas de las próximas décadas?
+
+238
+00:13:05,779 --> 00:13:07,860
+La era de la automatización en la que nos estamos adentrando
+
+239
+00:13:07,860 --> 00:13:09,779
+a pasos agigantados no está dictada
+
+240
+00:13:09,779 --> 00:13:12,259
+exclusivamente por los genios de Silicon Valley,
+
+241
+00:13:12,259 --> 00:13:14,500
+sino que está marcada por el implacable y lento
+
+242
+00:13:14,500 --> 00:13:17,300
+tictac del reloj demográfico global.
+
+243
+00:13:17,300 --> 00:13:19,779
+Si la población mundial sigue envejeciendo,
+
+244
+00:13:19,779 --> 00:13:21,379
+el ascenso definitivo de los robots
+
+245
+00:13:21,379 --> 00:13:24,019
+no es solo un escenario de ciencia ficción probable,
+
+246
+00:13:24,019 --> 00:13:26,100
+es una necesidad económica absoluta
+
+247
+00:13:26,100 --> 00:13:27,860
+a la que no podremos escapar.

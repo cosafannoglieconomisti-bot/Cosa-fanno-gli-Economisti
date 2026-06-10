@@ -1,0 +1,459 @@
+1
+00:00:00,000 --> 00:00:04,960
+Empecemos con una pregunta que, admitámoslo, todos nos hemos hecho al menos una vez:
+
+2
+00:00:04,960 --> 00:00:07,440
+¿por qué los políticos gastan mal?
+
+3
+00:00:07,440 --> 00:00:12,000
+En esta profundización, vamos a indagar en un reciente y fascinante artículo académico
+
+4
+00:00:12,000 --> 00:00:16,320
+que da un giro completo a lo que creemos saber sobre la deuda pública y las
+
+5
+00:00:16,320 --> 00:00:17,800
+reformas económicas.
+
+6
+00:00:17,800 --> 00:00:21,359
+No es solo cuestión de incompetencia o desatención, al contrario.
+
+7
+00:00:21,359 --> 00:00:26,400
+Como descubriremos en breve, es toda una compleja y despiadada cuestión de incentivos.
+
+8
+00:00:26,400 --> 00:00:31,320
+Es increíblemente frustrante y cierto, vemos continuamente gobiernos que no logran
+
+9
+00:00:31,320 --> 00:00:36,520
+aprobar reformas a largo plazo que, objetivamente, harían un gran bien a todos.
+
+10
+00:00:36,520 --> 00:00:41,440
+Pensemos, por ejemplo, en modernizar de verdad la red eléctrica o en arreglar la escuela pública
+
+11
+00:00:41,440 --> 00:00:42,439
+de una vez por todas.
+
+12
+00:00:42,439 --> 00:04:47,800
+Y esto nos lleva a la gran pregunta fundamental: ¿por qué motivo absurdo
+
+13
+00:04:47,800 --> 00:00:53,719
+las políticas más lógicas, racionales y eficientes tienen una dificultad inmensa para hacerse realidad?
+
+14
+00:00:53,719 --> 00:00:59,879
+Para entender algo y unir los puntos, en este análisis haremos un verdadero viaje:
+
+15
+00:00:59,879 --> 00:01:05,400
+partiremos del gran dilema de las reformas, analizaremos las matemáticas del consenso, el inesperado
+
+16
+00:01:05,400 --> 00:01:10,640
+papel de la deuda, la naturaleza de los bienes públicos, la paradoja de los límites fiscales, para luego
+
+17
+00:01:10,640 --> 00:01:12,879
+concluir con las pruebas de datos reales.
+
+18
+00:01:12,879 --> 00:01:19,079
+Entonces, empecemos por el primer punto, el dilema de las reformas, o mejor dicho, por qué ser eficiente
+
+19
+00:01:19,079 --> 00:01:21,960
+en política por sí solo casi nunca es suficiente.
+
+20
+00:01:21,960 --> 00:01:27,600
+Imaginen ser un decisor político, se encuentran en una tensión constante, una
+
+21
+00:01:27,600 --> 00:01:30,960
+verdadera cuerda tirada por dos lados opuestos.
+
+22
+00:01:30,960 --> 00:01:37,000
+Por un lado, tienen la urgencia de hacer el llamado "gasto dirigido", es decir, usar el dinero público
+
+23
+00:01:37,000 --> 00:01:40,560
+hoy para distribuir favores y conseguir votos de inmediato.
+
+24
+00:01:40,560 --> 00:01:46,000
+Por otro lado, saben que se necesitarían reformas eficientes y enormes inversiones para el futuro
+
+25
+00:01:46,000 --> 00:01:47,000
+del país.
+
+26
+00:01:47,000 --> 00:01:48,000
+¿El problema?
+
+27
+00:01:48,000 --> 00:01:52,959
+Los beneficios de estas buenas reformas llegarán quién sabe cuándo, con mucha probabilidad, cuando
+
+28
+00:01:52,959 --> 00:01:55,920
+las próximas elecciones ya sean un recuerdo lejano.
+
+29
+00:01:55,920 --> 00:02:01,040
+Y aquí nos lanzamos directamente al segundo punto: para entender por qué los favoritismos a menudo
+
+30
+00:02:01,040 --> 00:02:06,079
+ganan por goleada, debemos enfrentarnos a la despiadada matemática del consenso electoral.
+
+31
+00:02:06,079 --> 00:02:11,080
+Para decodificar esta aritmética, hay una palabra clave, casi mágica, que debemos
+
+32
+00:02:11,080 --> 00:02:14,120
+tener absolutamente en mente: fraccionabilidad.
+
+33
+00:02:14,120 --> 00:02:18,680
+En jerga técnica, significa literalmente la capacidad de un político de tomar recursos
+
+34
+00:02:18,680 --> 00:02:23,920
+públicos y dirigirlos con láser hacia grupos de electores ultra específicos. Un subsidio
+
+35
+00:02:23,920 --> 00:02:28,360
+para una única y bien definida categoría profesional es altamente fraccionable.
+
+36
+00:02:28,360 --> 00:02:33,240
+Una ley que mejora un poco la vida de todos, para nada, y es precisamente esta precisión
+
+37
+00:02:33,240 --> 00:02:36,920
+quirúrgica el verdadero motor para comprar el consenso y ganar en las urnas.
+
+38
+00:02:36,920 --> 00:02:42,960
+Así que, el problema es este: financiar una reforma estructural, enorme y útil
+
+39
+00:02:42,960 --> 00:02:46,680
+para todos, vacía literalmente el bolsillo del político.
+
+40
+00:02:46,680 --> 00:02:50,879
+Le quita los recursos inmediatos que necesita desesperadamente para apuntar a sus
+
+41
+00:02:50,879 --> 00:02:54,120
+electores clave y sobrevivir políticamente hoy.
+
+42
+00:02:54,120 --> 00:03:00,120
+En resumen, se encuentra atrapado en una pesadilla: hacer lo correcto por el país o asegurarse
+
+43
+00:03:00,120 --> 00:03:01,120
+la reelección.
+
+44
+00:03:01,120 --> 00:03:07,600
+Pero agárrense fuerte, porque aquí llegamos al tercer punto y al descubrimiento quizás más inesperado
+
+45
+00:03:07,600 --> 00:03:12,640
+de toda la investigación: el verdadero y utilísimo papel de la deuda pública.
+
+46
+00:03:13,120 --> 00:03:19,080
+El análisis académico nos confronta con lo que llaman un "trade-off intertemporal".
+
+47
+00:03:19,080 --> 00:03:24,560
+Traducido de forma más coloquial, la deuda pública funciona prácticamente como una máquina
+
+48
+00:03:24,560 --> 00:03:30,040
+del tiempo, trayendo la riqueza del futuro al presente. La deuda se convierte en el instrumento exacto
+
+49
+00:03:30,040 --> 00:03:35,360
+que permite a los políticos equilibrar la balanza: financian las reformas correctas para mañana,
+
+50
+00:03:35,360 --> 00:03:39,520
+pero sin renunciar al dinero para los favores electorales de hoy.
+
+51
+00:03:39,520 --> 00:03:45,040
+El mecanismo es de una elegancia absoluta, casi teatral, y se desarrolla en tres pasos:
+
+52
+00:03:45,040 --> 00:03:48,439
+Uno, hoy te endeudas, recaudando capital fresco.
+
+53
+00:03:48,439 --> 00:03:53,960
+Dos, usas este dinero prestado para pagar el obstáculo inicial, es decir, la reforma
+
+54
+00:03:53,960 --> 00:03:55,120
+a largo plazo.
+
+55
+00:03:55,120 --> 00:03:59,560
+Tres, de este modo, las verdaderas arcas estatales permanecen intactas.
+
+56
+00:03:59,560 --> 00:04:04,960
+Todavía tienes un montón de recursos para tu gasto dirigido y electoral, y la reelección
+
+57
+00:04:04,960 --> 00:04:05,960
+en el bolsillo.
+
+58
+00:04:05,960 --> 00:04:11,879
+Pasamos al cuarto punto: todo este fantástico truco, sin embargo, tiene un talón de Aquiles,
+
+59
+00:04:11,879 --> 00:04:15,240
+depende enteramente del tipo de reforma que se quiera hacer.
+
+60
+00:04:15,240 --> 00:04:18,319
+Sí, porque no todos los beneficios son iguales.
+
+61
+00:04:18,319 --> 00:04:22,879
+Una reforma puede crear beneficios privados que son como los trozos de una tarta: puedes
+
+62
+00:04:22,879 --> 00:04:27,879
+cortarlos y distribuirlos de forma selectiva a tus amigos electores, o puede crear bienes públicos
+
+63
+00:04:27,879 --> 00:04:31,960
+puros, como una justicia que funcione mejor para todos o un aire más limpio.
+
+64
+00:04:31,960 --> 00:04:34,199
+Estos no los puedes excluir a nadie.
+
+65
+00:04:34,199 --> 00:04:38,399
+El enorme problema para un político es que un bien público puro no sirve absolutamente
+
+66
+00:04:38,399 --> 00:04:40,959
+para nada para comprar votos de forma selectiva.
+
+67
+00:04:40,959 --> 00:04:44,800
+Y esto genera un efecto de balancín cuanto menos irreal.
+
+68
+00:04:44,800 --> 00:04:49,839
+Piensen, si una reforma beneficia indistintamente a todos, el político pierde totalmente su
+
+69
+00:04:49,839 --> 00:04:52,279
+arma más preciosa: la fraccionabilidad.
+
+70
+00:04:52,279 --> 00:04:54,360
+¿Cómo los convence entonces para firmarla?
+
+71
+00:04:54,360 --> 00:04:59,199
+Sencillo, abriendo aún más los grifos. Cuanto mayor sea el bien público que se crea, mayor
+
+72
+00:04:59,199 --> 00:05:03,599
+será la montaña de deuda que el político necesitará para convencernos de aceptar
+
+73
+00:05:03,600 --> 00:05:09,600
+esa desventaja electoral a corto plazo, lo que nos lleva al quinto punto y créanme,
+
+74
+00:05:09,600 --> 00:05:15,280
+aquí entra en juego un verdadero puñetazo en el estómago: la paradoja de los límites constitucionales
+
+75
+00:05:15,280 --> 00:05:16,280
+a la deuda.
+
+76
+00:05:16,280 --> 00:05:21,879
+El estudio compara dos mundos paralelos: por un lado, los límites flexibles donde la deuda
+
+77
+00:05:21,879 --> 00:05:27,780
+se evalúa con calma en promedio a lo largo de los años; por otro, los límites rígidos aplicados
+
+78
+00:05:27,780 --> 00:05:29,879
+con la guadaña año tras año.
+
+79
+00:05:29,879 --> 00:05:34,920
+Pues bien, ambos reducen la posibilidad de hacer reformas, pero los límites rígidos resultan
+
+80
+00:05:34,920 --> 00:05:41,399
+devastadores, terminan bloqueando indiscriminadamente todo, tanto los gastos inútiles como las inversiones
+
+81
+00:05:41,399 --> 00:05:43,800
+públicas que necesitaríamos desesperadamente.
+
+82
+00:05:43,800 --> 00:04:47,759
+Los datos matemáticos hablan de forma inequívoca.
+
+83
+00:04:47,759 --> 00:05:52,759
+Al aumentar la severidad de una regla fiscal rígida, la probabilidad de ver aprobada
+
+84
+00:05:52,759 --> 00:05:55,480
+una buena reforma cae literalmente en picada.
+
+85
+00:05:55,480 --> 00:06:01,360
+Y el efecto colateral: sin estas inversiones estructurales, la desigualdad económica, medida
+
+86
+00:06:01,360 --> 00:06:07,640
+por el famoso coeficiente de Gini, se dispara. En síntesis extrema, reglas demasiado duras conducen
+
+87
+00:06:07,640 --> 00:06:11,000
+a cero reformas y a una sociedad increíblemente más desigual.
+
+88
+00:06:11,000 --> 00:06:18,000
+Y aquí llegamos al sexto y último paso, porque, fíjense bien, no estamos hablando solo
+
+89
+00:06:18,000 --> 00:06:23,400
+de simpáticos modelos matemáticos de fantasía, la realidad lo confirma todo.
+
+90
+00:06:23,400 --> 00:06:30,560
+Analizando la evidencia empírica de decenas de países de la OCDE entre 1995 y 2019, la prueba es abrumadora.
+
+91
+00:06:30,560 --> 00:06:35,040
+Cuando un sistema político tiene una mayor capacidad de deuda, se inician constantemente más
+
+92
+00:06:35,040 --> 00:06:39,360
+inversiones públicas estructurales a largo plazo y, obviamente, aumentan en paralelo
+
+93
+00:06:39,360 --> 00:06:40,760
+también los favoritismos dirigidos.
+
+94
+00:06:40,760 --> 00:06:45,320
+Pero si se aprieta el cinturón con límites demasiado rígidos, el motor se apaga y no se hace
+
+95
+00:06:45,320 --> 00:06:46,320
+ni una cosa ni la otra.
+
+96
+00:06:46,320 --> 00:06:49,760
+Hay una comparación sobre todo que es realmente impresionante.
+
+97
+00:06:49,759 --> 00:06:54,000
+Piensen en la eurozona, donde los países miembros deben arreglárselas con ese famoso y
+
+98
+00:06:54,000 --> 00:06:57,879
+rígidísimo techo del 60% en la relación deuda/PIB.
+
+99
+00:06:57,879 --> 00:07:02,920
+Comparándolos con los países fuera de la zona euro, la dispersión de datos muestra un abismo.
+
+100
+00:07:02,920 --> 00:07:07,000
+Quienes viven bajo estos límites férreos registran una probabilidad dramáticamente inferior
+
+101
+00:07:07,000 --> 00:07:11,399
+de realizar grandes inversiones públicas en comparación con quienes tienen una sana flexibilidad fiscal.
+
+102
+00:07:11,399 --> 00:07:18,639
+En resumen, las reglas fiscales demasiado severas se transforman literalmente en una jaula institucional.
+
+103
+00:07:18,639 --> 00:07:24,680
+Quitan accidentalmente de las manos a los políticos la única palanca financiera que tienen para encontrar
+
+104
+00:07:24,680 --> 00:07:26,639
+un compromiso aceptable.
+
+105
+00:07:26,639 --> 00:07:31,919
+Sin la válvula de escape de la deuda, el costo en términos de votos para hacer una reforma
+
+106
+00:07:31,919 --> 00:07:37,560
+útil se vuelve prohibitivo, y así todo el país está condenado al inmovilismo más
+
+107
+00:07:37,560 --> 00:07:38,560
+total.
+
+108
+00:07:38,560 --> 00:07:43,279
+Y aquí se cierra el círculo, dejándonos con una provocación bastante grande.
+
+109
+00:07:43,279 --> 00:07:48,000
+Acabamos de ver cómo la deuda, a menudo descrita como el mal absoluto, es en realidad
+
+110
+00:07:48,000 --> 00:07:52,279
+el instrumento vital para negociar el progreso en una democracia moderna.
+
+111
+00:07:52,279 --> 00:07:57,439
+La verdadera pregunta entonces es esta: ¿es posible que precisamente las reglas sobre el rigor fiscal,
+
+112
+00:07:57,439 --> 00:08:02,319
+nacidas y teóricamente para proteger nuestra economía, estén en realidad bloqueando a los políticos
+
+113
+00:08:02,319 --> 00:08:04,399
+para que no inviertan en nuestro futuro?
+
+114
+00:08:04,399 --> 00:08:08,879
+Piensen en ello, es una pregunta que realmente corre el riesgo de cambiar por completo nuestra visión
+
+115
+00:08:08,879 --> 00:08:09,759
+del gasto público.

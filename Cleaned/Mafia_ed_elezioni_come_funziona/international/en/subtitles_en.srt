@@ -1,0 +1,407 @@
+1
+00:00:00,000 --> 00:00:07,000
+Welcome, in this in-depth analysis we are going to explore a truly complex but absolutely fascinating economic paper.
+
+2
+00:00:07,000 --> 00:00:12,000
+It is titled exactly like this: mafia and elections. How does it work?
+
+3
+00:00:12,000 --> 00:00:19,000
+No big words or abstract academic concepts today, we will basically rely on raw data and research charts,
+
+4
+00:00:19,000 --> 00:00:25,000
+to shed light on a phenomenon that, well, often prefers to remain in the shadows, let's dive right in.
+
+5
+00:00:25,000 --> 00:00:30,000
+Politics and the mafia are two powers that live on the control of the same territory,
+
+6
+00:00:30,000 --> 00:00:32,000
+either they wage war on each other, or they reach an agreement.
+
+7
+00:00:32,000 --> 00:00:37,000
+This quote by Paolo Borsellino is incredibly pragmatic, almost raw, I would say,
+
+8
+00:00:37,000 --> 00:00:42,000
+and launches us straight into today's central mystery, namely, why mafia violence explodes
+
+9
+00:00:42,000 --> 00:00:45,000
+at very, very specific historical moments.
+
+10
+00:00:45,000 --> 00:00:49,000
+What if we started to read these peaks of violence not as random chaos,
+
+11
+00:00:49,000 --> 00:00:52,000
+but as a true strategy of pure economic calculation?
+
+12
+00:00:52,000 --> 00:00:55,000
+Chapter 1, the timing of violence.
+
+13
+00:00:55,000 --> 00:00:59,000
+It is a fact that honestly makes you jump a bit in your seat.
+
+14
+00:00:59,000 --> 00:01:04,000
+The numbers from the study speak clearly: violence against politicians increases drastically.
+
+15
+00:01:04,000 --> 00:01:09,000
+We are talking about homicides that more than double, guess when,
+
+16
+00:01:09,000 --> 00:01:14,000
+exactly in the twelve months preceding a national election, more than double.
+
+17
+00:01:14,000 --> 00:01:19,000
+But the real question is, why does everything break out precisely in this specific time window?
+
+18
+00:01:19,000 --> 00:01:23,000
+Let's move on to the second section, the logic of terror.
+
+19
+00:01:23,000 --> 00:01:28,000
+Researchers have a technical name for all this: strategic pre-electoral violence.
+
+20
+00:01:28,000 --> 00:01:32,000
+What does that mean in practice? Well, in strictly economic terms,
+
+21
+00:01:32,000 --> 00:01:37,000
+a homicide in this period is not an act of anger, but a signal, a very clear message,
+
+22
+00:01:37,000 --> 00:01:41,000
+it serves to terrorize the candidates of what the theoretical model defines as the "honest party."
+
+23
+00:01:41,000 --> 00:01:45,000
+That is, the faction opposed to the clan's interests at that moment.
+
+24
+00:01:45,000 --> 00:01:48,000
+It is a ruthless way of saying, the criminal organization is strong,
+
+25
+00:01:48,000 --> 00:01:52,000
+and is fully prepared to use force if you throw a wrench in its works.
+
+26
+00:01:52,000 --> 00:01:55,000
+Section 3, the clans' targets.
+
+27
+00:01:55,000 --> 00:02:01,000
+Let's take a look at these historical data collected in Sicily from 1945 to 2013.
+
+28
+00:02:01,000 --> 00:02:05,000
+They show us the map and the categories of those who paid the highest price.
+
+29
+00:02:05,000 --> 00:02:08,000
+We are talking about 452 victims in total.
+
+30
+00:02:08,000 --> 00:02:12,000
+Of these, law enforcement officers and magistrates account for 138.
+
+31
+00:02:13,000 --> 00:02:19,000
+Then we have 78 entrepreneurs, while politicians, party members, and trade unionists account for 50.
+
+32
+00:02:19,000 --> 00:02:23,000
+Now, at first glance 50 might seem like a small number, right?
+
+33
+00:02:23,000 --> 00:02:28,000
+but let's pause to reflect on how few people are actively involved in politics
+
+34
+00:02:28,000 --> 00:02:30,000
+compared to the entire population.
+
+35
+00:02:30,000 --> 00:02:34,000
+Seen in proportion, the statistical risk they run during electoral campaigns
+
+36
+00:02:34,000 --> 00:02:36,000
+is literally extremely high.
+
+37
+00:02:36,000 --> 00:02:40,000
+And a key point to remember, the data show that this strategy
+
+38
+00:02:40,000 --> 00:02:45,000
+is applied objectively, regardless of the political side involved.
+
+39
+00:02:45,000 --> 00:02:49,000
+Section number 4, electoral rules and homicides.
+
+40
+00:02:49,000 --> 00:02:53,000
+But how do things change based on the rules of the democratic game?
+
+41
+00:02:53,000 --> 00:02:55,000
+It is fascinating to note.
+
+42
+00:02:55,000 --> 00:02:59,000
+In a proportional electoral system, the violence generally follows the gap
+
+43
+00:02:59,000 --> 00:03:01,000
+in votes on a national scale.
+
+44
+00:03:01,000 --> 00:03:05,000
+If the overall competition is very tight, violence tends to rise.
+
+45
+00:03:05,000 --> 00:03:09,000
+On the other hand, pay attention here: with a majoritarian system, the dynamic changes completely.
+
+46
+00:03:09,000 --> 00:03:14,000
+Violence is hyper-concentrated solely and exclusively in marginal constituencies.
+
+47
+00:03:14,000 --> 00:03:17,000
+The most uncertain ones, in short, where indeed a handful of votes
+
+48
+00:03:17,000 --> 00:03:19,000
+makes the difference between winning, so to speak, everything.
+
+49
+00:03:19,000 --> 00:03:23,000
+And here emerges a statistical anomaly that leaves us truly speechless.
+
+50
+00:03:23,000 --> 00:03:27,000
+Looking at an entire century of Italian history, researchers noticed
+
+51
+00:03:27,000 --> 00:03:31,000
+that during the fascist dictatorship, election-related mafia violence
+
+52
+00:03:31,000 --> 00:03:33,000
+simply collapsed.
+
+53
+00:03:33,000 --> 00:03:34,000
+Zero, vanished.
+
+54
+00:03:34,000 --> 00:03:38,000
+The reason is quite simple: there were no competitive democratic elections to influence.
+
+55
+00:03:38,000 --> 00:03:42,000
+This historical fact fits perfectly with the economic theory we are examining.
+
+56
+00:03:42,000 --> 00:03:46,000
+This means that the criminal organization uses violence as a tool solely
+
+57
+00:03:46,000 --> 00:03:50,000
+and exclusively when there is a real, tangible margin of political gain from the elections.
+
+58
+00:03:50,000 --> 00:03:53,000
+Fifth section, the impact on the polls.
+
+59
+00:03:53,000 --> 00:03:56,000
+At this point, the question arises naturally,
+
+60
+00:03:56,000 --> 00:03:59,000
+but does this terrible strategy really work on votes?
+
+61
+00:03:59,000 --> 00:04:02,000
+Unfortunately, mathematics answers yes.
+
+62
+00:04:02,000 --> 00:04:06,000
+Economic data reveal that a single political homicide causes, on average,
+
+63
+00:04:06,000 --> 00:04:12,000
+a 2.4% drop in votes for the targeted party in that particular municipality.
+
+64
+00:04:12,000 --> 00:04:15,000
+It is a huge, absolutely decisive impact.
+
+65
+00:04:15,000 --> 00:04:17,000
+To better frame the scope of this,
+
+66
+00:04:17,000 --> 00:04:20,000
+the paper examines a very specific historical event.
+
+67
+00:04:20,000 --> 00:04:24,000
+The Portella della Ginestra massacre, on May 1st, 1947.
+
+68
+00:04:24,000 --> 00:04:27,000
+Subsequent electoral data clearly show
+
+69
+00:04:27,000 --> 00:04:29,000
+how that extreme act
+
+70
+00:04:29,000 --> 00:04:33,000
+sowed such terror as to drive huge masses of votes away from the targeted parties.
+
+71
+00:04:33,000 --> 00:04:36,000
+A fear that literally spread like wildfire,
+
+72
+00:04:36,000 --> 00:04:38,000
+so much so that this voter flight effect
+
+73
+00:04:38,000 --> 00:04:41,000
+was clearly recorded also in neighboring municipalities
+
+74
+00:04:41,000 --> 00:04:44,000
+during the elections of the following year, 1948.
+
+75
+00:04:44,000 --> 00:04:46,000
+We reach the final part.
+
+76
+00:04:46,000 --> 00:04:49,000
+Section 6, silence in Parliament.
+
+77
+00:04:49,000 --> 00:04:53,000
+Here, the researchers did a truly titanic job,
+
+78
+00:04:53,000 --> 00:04:58,000
+they sifted through something like 300,000 pages of parliamentary speeches
+
+79
+00:04:58,000 --> 00:05:01,000
+using sophisticated text mining algorithms
+
+80
+00:05:01,000 --> 00:05:03,000
+the result is clear.
+
+81
+00:05:03,000 --> 00:05:07,000
+On one hand, we discover that a so-called standard homicide
+
+82
+00:05:07,000 --> 00:05:11,000
+prompts most MPs to speak more about the mafia problem in the chamber
+
+83
+00:05:11,000 --> 00:05:14,000
+to demand justice and action,
+
+84
+00:05:14,000 --> 00:05:16,000
+but on the other hand, here is the chilling effect.
+
+85
+00:05:16,000 --> 00:05:18,000
+A targeted political homicide,
+
+86
+00:05:18,000 --> 00:05:20,000
+occurring before the vote,
+
+87
+00:05:20,000 --> 00:05:24,000
+has a diametrically opposite impact on the politicians of the threatened faction.
+
+88
+00:05:24,000 --> 00:05:26,000
+Suddenly, silence.
+
+89
+00:05:26,000 --> 00:05:28,000
+They talk about it much, much less.
+
+90
+00:05:28,000 --> 00:05:33,000
+This mathematically proves that targeted violence achieves its most subtle purpose,
+
+91
+00:05:33,000 --> 00:05:35,000
+it succeeds in silencing those who have suffered threats,
+
+92
+00:05:35,000 --> 00:05:38,000
+even once they cross the threshold of Parliament.
+
+93
+00:05:38,000 --> 00:05:42,000
+This entire scenario inevitably opens up a final reflection.
+
+94
+00:05:42,000 --> 00:05:45,000
+If it is proven that violence can act as a cold,
+
+95
+00:05:45,000 --> 00:05:48,000
+ruthless mathematical calculation to manipulate votes
+
+96
+00:05:48,000 --> 00:05:51,000
+and impose institutional silence, one must wonder:
+
+97
+00:05:51,000 --> 00:05:54,000
+How vulnerable do today's institutions remain?
+
+98
+00:05:54,000 --> 00:05:57,000
+Especially in the face of these systemic pressures
+
+99
+00:05:57,000 --> 00:06:00,000
+that economic models manage to measure to the millimeter,
+
+100
+00:06:00,000 --> 00:06:04,000
+but which often remain totally invisible to the general public.
+
+101
+00:06:04,000 --> 00:06:08,000
+It is a question that leaves us reflecting deeply on the complex
+
+102
+00:06:08,000 --> 00:06:11,000
+and sometimes tragic architecture of democracy.

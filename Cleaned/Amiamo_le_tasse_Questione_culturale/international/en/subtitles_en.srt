@@ -1,0 +1,443 @@
+1
+00:00:00,000 --> 00:00:04,440
+Hello everyone, have you ever wondered why some societies think it is right for the
+
+2
+00:00:04,440 --> 00:00:08,599
+state to intervene to help the weakest, while others are convinced that everyone should
+
+3
+00:00:08,599 --> 00:00:10,359
+make it on their own.
+
+4
+00:00:10,359 --> 00:00:15,519
+Well, today we are going deep, to explore the often invisible roots of our
+
+5
+00:00:15,519 --> 00:00:18,359
+beliefs about wealth and social justice.
+
+6
+00:00:18,359 --> 00:00:22,760
+Dr. Rossi, the question that guides our entire analysis is exactly this.
+
+7
+00:00:22,760 --> 00:00:27,240
+Why, for example, is the idea an American citizen has of state intervention
+
+8
+00:00:27,240 --> 00:00:30,400
+so radically different from that of a European.
+
+9
+00:00:30,400 --> 00:00:34,579
+Professor Bianchi, the document we are examining today starts right from this huge
+
+10
+00:00:34,579 --> 00:00:35,880
+gap, right?
+
+11
+00:00:35,880 --> 00:00:41,400
+Exactly, Dr. Rossi, here we see two worlds, two almost opposite mindsets.
+
+12
+00:00:41,400 --> 00:00:46,000
+On one hand, in Europe, the dominant idea is that the government should act to reduce
+
+13
+00:00:46,000 --> 00:00:51,740
+inequalities and that poverty is a kind of trap that is hard to escape alone.
+
+14
+00:00:51,740 --> 00:00:56,040
+On the other hand, in the United States, the more widespread belief is that the state should
+
+15
+00:00:56,039 --> 00:01:01,039
+step aside, and that, ultimately, poverty is more a matter of laziness or lack
+
+16
+00:01:01,039 --> 00:01:02,799
+of individual initiative.
+
+17
+00:01:02,799 --> 00:01:08,719
+Well, to try to explain these abysmal differences, research usually focuses
+
+18
+00:00:08,719 --> 00:01:15,120
+on two, let's say, main suspects: culture, on one hand, and context, on the other.
+
+19
+00:01:15,120 --> 00:01:19,280
+They are the two great forces that shape what we think, but they act in
+
+20
+00:01:19,280 --> 00:01:20,280
+very different ways.
+
+21
+00:01:20,280 --> 00:01:25,359
+So, let's start with culture; as the study defines it, culture is that
+
+22
+00:01:25,359 --> 00:01:31,039
+set of beliefs and values that a group passes down almost intact, from father to son.
+
+23
+00:01:31,039 --> 00:01:37,000
+In short, it is our invisible heritage, what we learn growing up in a certain place.
+
+24
+00:01:37,000 --> 00:01:40,799
+Context, however, is the present, it is the here and now.
+
+25
+00:01:40,799 --> 00:01:45,960
+We are talking about the environment that surrounds us today, the laws of the country we live in, the
+
+26
+00:01:45,960 --> 00:01:47,760
+tax system, the economy.
+
+27
+00:01:47,760 --> 00:01:52,599
+Context, therefore, shapes our opinions mostly based on our immediate
+
+28
+00:01:52,599 --> 00:01:54,599
+personal interest.
+
+29
+00:01:54,840 --> 00:02:00,920
+And here we get to the real heart of the problem for researchers: how do you
+
+30
+00:02:00,920 --> 00:02:01,920
+separate culture and context?
+
+31
+00:02:01,920 --> 00:02:06,960
+They are almost always fused together; that is, if a person living in Sweden is in favor of
+
+32
+00:02:06,960 --> 00:02:12,800
+high taxes and many services, is it because of Swedish culture, or because they simply benefit
+
+33
+00:02:12,800 --> 00:02:13,800
+from that system?
+
+34
+00:02:13,800 --> 00:02:15,760
+Distinguishing them is a huge challenge.
+
+35
+00:02:15,760 --> 00:02:21,879
+And it is precisely here that the study we are analyzing has what I would call a brilliant insight.
+
+36
+00:02:22,120 --> 00:02:26,519
+To solve this enigma, it focuses on a specific group of people.
+
+37
+00:02:26,519 --> 00:02:27,759
+Immigrants.
+
+38
+00:02:27,759 --> 00:02:29,560
+They are the key.
+
+39
+00:02:29,560 --> 00:02:31,000
+Let's think about it for a moment.
+
+40
+00:02:31,000 --> 00:02:37,359
+An immigrant, from a scientific point of view, is a perfect natural experiment; they completely change
+
+41
+00:02:37,359 --> 00:02:38,840
+their context.
+
+42
+00:02:38,840 --> 00:02:44,639
+They move to a country with new laws, a different economy, a different politics, but they bring
+
+43
+00:02:44,639 --> 00:02:48,039
+with them all the cultural baggage of their country of origin.
+
+44
+00:02:48,079 --> 00:02:52,359
+It's like transplanting an idea into a new soil and seeing what happens.
+
+45
+00:02:52,359 --> 00:02:57,719
+At this point, the logic of the study is almost disarmingly simple.
+
+46
+00:02:57,719 --> 00:03:02,359
+First, an immigrant's opinions on redistribution are measured.
+
+47
+00:03:02,359 --> 00:03:07,479
+Then, using statistical methods, the effect of the new context is neutralized, for example, their
+
+48
+00:03:07,479 --> 00:03:11,039
+current income, and finally, the decisive question is asked.
+
+49
+00:03:11,039 --> 00:03:15,280
+Net of everything, does the culture of the country they come from still carry weight?
+
+50
+00:03:15,599 --> 00:03:18,800
+A truly ingenious approach, no doubt about it.
+
+51
+00:03:18,800 --> 00:03:21,640
+So, professor, what did they discover?
+
+52
+00:03:21,640 --> 00:03:25,199
+Once this method was applied, what do the data tell us?
+
+53
+00:03:25,199 --> 00:03:30,120
+Does the effect of this culture of origin vanish once they arrive in the new country?
+
+54
+00:03:30,120 --> 00:03:34,759
+Absolutely not; in fact, the results are very clear.
+
+55
+00:03:34,759 --> 00:03:37,159
+The relationship is strong and clear.
+
+56
+00:03:37,159 --> 00:03:43,159
+The culture of the country of birth continues to influence a person's opinions very strongly.
+
+57
+00:03:43,199 --> 00:03:47,199
+Even after having lived for years in a completely different context.
+
+58
+00:03:47,199 --> 00:03:50,479
+Cultural roots, in short, are deep.
+
+59
+00:03:50,479 --> 00:03:52,240
+And it's not just an impression.
+
+60
+00:03:52,240 --> 00:03:55,079
+They also managed to measure this effect.
+
+61
+00:03:55,079 --> 00:03:57,280
+The key number that emerges is this.
+
+62
+00:03:57,280 --> 00:03:59,240
+0.34.
+
+63
+00:03:59,240 --> 00:04:04,439
+Put simply, it means that about a third of the average preferences of the country of origin
+
+64
+00:04:04,439 --> 00:04:07,840
+survives and transfers into the immigrant's head.
+
+65
+00:04:07,840 --> 00:04:10,680
+It's an incredibly tenacious influence.
+
+66
+00:04:10,719 --> 00:04:16,600
+And to really understand how powerful this cultural effect is, look at this graph.
+
+67
+00:04:16,600 --> 00:04:22,079
+It compares the impact of the culture of origin with the impact of personal income.
+
+68
+00:04:22,079 --> 00:04:24,280
+They are practically identical.
+
+69
+00:04:24,280 --> 00:04:26,079
+This data is crazy.
+
+70
+00:04:26,079 --> 00:04:30,480
+It tells us that the place where we grew up counts almost as much as the money in our pockets
+
+71
+00:04:30,480 --> 00:04:33,399
+in determining our ideas about society.
+
+72
+00:04:33,399 --> 00:04:37,120
+Of course, at this point, objections might arise.
+
+73
+00:04:37,160 --> 00:04:38,720
+One might think:
+
+74
+00:04:38,720 --> 00:04:43,120
+Could it be that simply those who are already in favor of redistribution choose to emigrate
+
+75
+00:04:43,120 --> 00:04:46,519
+to countries that practice it? The so-called selection effect.
+
+76
+00:04:46,519 --> 00:04:51,639
+Or maybe it's just that it takes a very long time to change one's mind and it's not a real
+
+77
+00:04:51,639 --> 00:04:53,319
+lasting cultural effect.
+
+78
+00:04:53,319 --> 00:04:59,280
+Very legitimate questions, which the study addressed one by one, and the results debunk them.
+
+79
+00:04:59,280 --> 00:05:02,360
+First, the cultural effect does not disappear over time.
+
+80
+00:05:02,400 --> 00:05:07,720
+It is still very much present and measurable, even in those who have lived in the new country for over 20 years.
+
+81
+00:05:07,720 --> 00:05:12,960
+Second, the effect persists even when controlling for many other variables.
+
+82
+00:05:12,960 --> 00:05:14,639
+And most importantly.
+
+83
+00:05:14,639 --> 00:05:16,280
+It's not just about opinions.
+
+84
+00:05:16,280 --> 00:05:20,319
+This cultural heritage influences real behaviors, such as voting;
+
+85
+00:05:20,319 --> 00:05:23,800
+those who come from countries with a strong preference for redistribution
+
+86
+00:05:23,800 --> 00:05:26,400
+tend to vote for left-wing parties.
+
+87
+00:05:26,400 --> 00:05:27,759
+Incredible.
+
+88
+00:05:27,759 --> 00:05:31,240
+And this brings us to an even deeper question.
+
+89
+00:05:31,240 --> 00:05:37,600
+If this cultural baggage is so strong in those who move, what happens to their children?
+
+90
+00:05:37,600 --> 00:05:41,720
+Is this heritage passed on to the next generation?
+
+91
+00:05:41,720 --> 00:05:47,040
+To be even clearer, let's take a person born and raised in Germany,
+
+92
+00:05:47,040 --> 00:05:52,840
+who has therefore only experienced the German context, but with a parent from Turkey.
+
+93
+00:05:52,840 --> 00:05:59,720
+In their ideas, will we still find an echo of the average Turkish preferences on redistribution?
+
+94
+00:05:59,760 --> 00:06:03,240
+And the answer again is a loud and clear yes.
+
+95
+00:06:03,240 --> 00:06:07,840
+The analysis done on the children of immigrants, those born and raised in the new context,
+
+96
+00:06:07,840 --> 00:06:12,600
+shows without a shadow of a doubt that the parents' cultural heritage continues to carry weight
+
+97
+00:06:12,600 --> 00:06:15,800
+in a measurable way on their economic preferences.
+
+98
+00:06:15,800 --> 00:06:18,320
+In this case too, the effect was calculated:
+
+99
+00:06:18,320 --> 00:06:25,480
+the cultural influence on the second generation is about two-thirds of that observed in the immigrant parents.
+
+100
+00:06:25,480 --> 00:06:27,360
+So yes, it fades a little.
+
+101
+00:06:27,400 --> 00:06:31,560
+But the transmission from one generation to the next is extremely powerful.
+
+102
+00:06:31,560 --> 00:06:35,199
+The conclusion of the study, therefore, is truly important.
+
+103
+00:06:35,199 --> 00:06:39,240
+Culture is not a detail; it is not a secondary factor;
+
+104
+00:06:39,240 --> 00:06:44,400
+it is a determining, persistent force that shapes economic preferences.
+
+105
+00:06:44,400 --> 00:06:47,920
+And through migration flows and generational transmission,
+
+106
+00:06:47,920 --> 00:06:53,199
+these ideas can influence a nation's politics and economy for decades.
+
+107
+00:06:53,279 --> 00:06:58,599
+And all this leaves us with a final reflection, almost a philosophical question.
+
+108
+00:06:58,599 --> 00:07:01,800
+If our most deeply rooted beliefs about what is right
+
+109
+00:07:01,800 --> 00:07:06,680
+and what is wrong in economics are so heavily shaped by an invisible heritage,
+
+110
+00:07:06,680 --> 00:07:08,800
+by something that has been passed down to us.
+
+111
+00:07:08,800 --> 00:07:14,599
+Well, the question arises naturally: how many of our ideas are truly and uniquely our own?

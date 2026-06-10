@@ -1,0 +1,299 @@
+1
+00:00:00,000 --> 00:00:07,200
+Gravar menos a las mujeres parece una provocación, pero en nuestra nueva exploración vamos a analizar algunas investigaciones.
+
+2
+00:00:07,200 --> 00:00:11,000
+economía que propone exactamente esta solución fiscal.
+
+3
+00:00:11,000 --> 00:00:16,000
+Partamos de un concepto básico, la teoría de la tributación óptima.
+
+4
+00:00:16,000 --> 00:00:24,000
+En esencia, un gobierno benévolo, es decir, un gobierno que quiere recaudar ingresos públicos haciendo el menor daño posible a la economía,
+
+5
+00:00:24,000 --> 00:00:28,000
+debería aplicar impuestos más bajos a aquellos con una oferta laboral más elástica.
+
+6
+00:00:28,000 --> 00:00:34,000
+Llegando al corazón de esta teoría resulta fascinante descubrir cómo funciona la organización interna de la familia,
+
+7
+00:00:34,000 --> 00:00:39,000
+llega incluso a influir en las políticas fiscales de una nación entera de una manera directa y poderosa.
+
+8
+00:00:39,000 --> 00:00:46,000
+Llegados a este punto cabría preguntarse ¿por qué aquellos con una oferta laboral más flexible deberían tener un descuento en impuestos?
+
+9
+00:00:46,000 --> 00:00:51,000
+La lógica económica detrás de todo esto es la llamada regla de la astica inversa.
+
+10
+00:00:52,000 --> 00:00:59,000
+Para minimizar la ineficiencia del sistema, el Estado debería gravar más a aquellos que de todos modos no cambiarían sus hábitos de trabajo debido a los impuestos.
+
+11
+00:00:59,000 --> 00:01:04,000
+y gravar menos a quienes dejarían de trabajar si la carga fiscal fuera demasiado alta.
+
+12
+00:01:04,000 --> 00:01:08,000
+Sin embargo, la realidad de los hechos va exactamente en la dirección opuesta.
+
+13
+00:01:08,000 --> 00:01:15,000
+Hoy en día, en la mayoría de los sistemas occidentales, las mujeres casadas que representan precisamente el grupo de trabajadores con mayor y absoluta
+
+14
+00:01:15,000 --> 00:01:19,000
+terminan enfrentando facturas de impuestos marginales significativamente más altas que las de los solteros.
+
+15
+00:01:19,000 --> 00:01:24,000
+Los datos de Oxe que datan de 2001 resaltan esta paradoja de manera espectacular.
+
+16
+00:01:24,000 --> 00:01:34,000
+Se desprende claramente que los llamados segundos ingresos de la familia, que histórica y estadísticamente son casi siempre mujeres, han sido duramente penalizados.
+
+17
+00:01:34,000 --> 00:01:42,000
+Si miramos la media general, el tipo medio de los segundos asalariados se sitúa en el 28%, mientras que para los solteros desciende hasta el 21%.
+
+18
+00:01:43,000 --> 00:01:50,000
+En algunos países la situación es aún más drástica. En Alemania, por ejemplo, tenemos un porcentaje muy elevado del 50% frente al 34%.
+
+19
+00:01:50,000 --> 00:01:55,000
+Y en Italia, la diferencia entre el 38% y el 24%.
+
+20
+00:01:55,000 --> 00:02:03,000
+En resumen, el sistema actual desalienta el trabajo de aquellas personas que, según la fría lógica económica, deberían ser estimuladas.
+
+21
+00:02:03,000 --> 00:02:11,000
+Pero para entender cómo llegamos a esta situación, debemos asomarnos al interior de los muros domésticos, siguiendo el modelo económico central de este estudio.
+
+22
+00:02:12,000 --> 00:02:19,000
+El punto de inflexión es que la unidad familiar no es vista como una única entidad de granito, en absoluto.
+
+23
+00:02:19,000 --> 00:02:30,000
+La familia es, de hecho, una verdadera mesa de negociaciones. El marido y la mujer llevan a cabo negociaciones continuas, lo que en economía llamamos negociación de Nash.
+
+24
+00:02:30,000 --> 00:02:37,000
+Literalmente negocian todo, cómo enviar el dinero, cuánto tiempo dedicar al trabajo remunerado y por supuesto quién lo paga.
+
+25
+00:02:37,000 --> 00:02:42,000
+Si hay un desequilibrio, el problema se resuelve con pagos laterales implícitos.
+
+26
+00:02:42,000 --> 00:02:49,000
+Es un poco como si uno de los dos socios recibiera una mayor proporción de consumo o tiempo libre a cambio de un compromiso.
+
+27
+00:02:49,000 --> 00:02:57,000
+Ahora, la investigación identifica dos macromotivos que llevan a dividir el trabajo y los deberes de forma desequilibrada entre géneros.
+
+28
+00:02:58,000 --> 00:03:11,000
+Por un lado está la llamada ventaja comparativa. Esto ocurre cuando hay diferencias externas, tal vez el mercado laboral paga menos a las mujeres que se van, lo que hace que sea más sensato económicamente para ellas cuidar de la casa.
+
+29
+00:03:11,000 --> 00:03:20,000
+Por otro lado está la hipótesis de un mayor poder de negociación. En este escenario, incluso si hombres y mujeres fueran idénticos en términos de productividad tanto en la oficina como en el hogar,
+
+30
+00:03:20,000 --> 00:03:26,000
+el hombre parte con un peso negociador superior, derivado de las ventajas culturales e históricas perdidas.
+
+31
+00:03:26,000 --> 00:03:36,000
+Curiosamente, el modelo demuestra que ambos caminos conducen exactamente al mismo desequilibrio final, manteniendo una perfecta neutralidad científica sobre las causas sociales.
+
+32
+00:03:36,000 --> 00:03:43,000
+Y fíjate, esta negociación no comienza el día de la boda, comienza mucho antes, con las opciones de carrera.
+
+33
+00:03:43,000 --> 00:03:52,000
+Decidir emprender una carrera profesional bien remunerada es un compromiso verdaderamente vinculante, que requiere esfuerzo y estándares y niveles de estrés muy altos.
+
+34
+00:03:52,000 --> 00:03:58,000
+Sin embargo, los salarios más altos aumentan la trucha conyugal, es decir, el bienestar total de la futura familia.
+
+35
+00:03:58,000 --> 00:04:03,000
+Y aquí está el punto crítico, aquellos que ya saben o prevén tener mayor poder de negociación en el futuro matrimonio,
+
+36
+00:04:03,000 --> 00:04:11,000
+tiene un enorme incentivo económico para asumir todo ese estrés, porque sabe quién será, en última instancia, capaz de quedarse con la porción más grande de ese pastel compartido.
+
+37
+00:04:11,000 --> 00:04:17,000
+Esto nos lleva al verdadero motor de todo este análisis, la elasticidad de la oferta de empleo.
+
+38
+00:04:18,000 --> 00:04:25,000
+Sin usar demasiadas palabras académicas, la elasticidad es simplemente la medida de cuántas horas una persona decide trabajar
+
+39
+00:04:25,000 --> 00:04:28,000
+cambian cuando cambia el salario.
+
+40
+00:04:28,000 --> 00:04:34,000
+Si los impuestos suben o una persona reduce inmediata y drásticamente el tiempo de oficina, entonces su elasticidad es alta.
+
+41
+00:04:34,000 --> 00:04:42,000
+Sin embargo, si con impuestos o sin impuestos, la persona continúa trabajando a tiempo completo sin pestañear, su elasticidad es decididamente baja.
+
+42
+00:04:42,000 --> 00:04:48,000
+Y aquí llegamos a la cuestión fundamental. ¿Por qué esta elasticidad es tan diferente entre hombres y mujeres?
+
+43
+00:04:48,000 --> 00:04:56,000
+La respuesta está en la división de roles de la que hablábamos antes. Sí, al igual que las mujeres, históricamente asumen más tareas domésticas,
+
+44
+00:04:56,000 --> 00:05:01,000
+las horas dedicadas al cuidado de la casa se convierten en un perfecto sustituto del amor pagado.
+
+45
+00:05:01,000 --> 00:05:09,000
+En la práctica, si los impuestos aumentan un poco, resulta económicamente ventajoso trabajar menos en la oficina y hacer más en casa.
+
+46
+00:05:09,000 --> 00:05:14,000
+como preparar comidas o cuidar niños, en lugar de pagarle a alguien para que lo haga.
+
+47
+00:05:14,000 --> 00:05:22,000
+Tener esta fuerte opción alternativa hace que la oferta laboral de las mujeres sea extremadamente flexible y sensible en comparación con la de los hombres.
+
+48
+00:05:22,000 --> 00:05:29,000
+Y los datos empíricos lo confirman plenamente. A pesar de la entrada masiva de mujeres al mercado laboral en las últimas décadas,
+
+49
+00:05:29,000 --> 00:05:36,000
+la lasticidad de las mujeres casadas se mantiene constante y sistemáticamente por encima de la de los hombres.
+
+50
+00:05:36,000 --> 00:05:44,000
+En cuanto a cuánto, las estimaciones indican una proporción de aproximadamente cuatro a uno. Exactamente, la capacidad de respuesta del trabajo de las mujeres a los cambios salariales.
+
+51
+00:05:44,000 --> 00:05:53,000
+es aproximadamente cuatro veces mayor que la de los hombres casados. Esta brecha es simplemente demasiado grande para que la política fiscal la ignore.
+
+52
+00:05:53,000 --> 00:06:01,000
+Y es en este contexto puramente matemático donde el artículo presenta su solución. Fiscalidad basada en el género.
+
+53
+00:06:01,000 --> 00:06:08,000
+Si nos fijamos en la eficiencia económica pura, el objetivo de un gobierno es recaudar dinero minimizando los años para la sociedad.
+
+54
+00:06:08,000 --> 00:06:16,000
+Si asumimos que el Estado resuelve el problema de las desigualdades de otras maneras, entonces el sistema tributario debería basarse únicamente en las desigualdades.
+
+55
+00:06:16,000 --> 00:06:27,000
+En consecuencia, dado que las mujeres son cuatro veces más sensibles a las variaciones salariales causadas por las tasas, la lógica formal dicta que deberían tener ingresos marginales más bajos que los hombres.
+
+56
+00:06:27,000 --> 00:06:37,000
+La prueba visual de este mecanismo se encuentra en este gráfico original del artículo, que nos muestra las curvas de ingreso marginal y costo marginal a medida que varían las tarifas.
+
+57
+00:06:37,000 --> 00:06:42,000
+En la horizontal si tenemos la diferencia entre las tasas aplicadas a los hombres y las aplicadas a las mujeres.
+
+58
+00:06:42,000 --> 00:06:55,000
+Como puede verse al observar la intersección entre las líneas, el equilibrio económicamente perfecto se encuentra en esa área precisa en la que el ingreso adicional derivado de gravar a los hombres cubre más ampliamente el costo marginal.
+
+59
+00:06:55,000 --> 00:07:03,000
+En resumen, es la demostración matemática de que para optimizar el sistema, la carga tributaria debería desplazarse más hacia el componente masculino.
+
+60
+00:07:03,000 --> 00:07:10,000
+Pero, ¿cómo se podría llevar a la práctica una teoría tan innovadora? El modelo propone un plan de tres fases.
+
+61
+00:07:10,000 --> 00:07:22,000
+En primer lugar, se introducen transferencias de suma fija específicas de género, es decir, dinero que el gobierno da independientemente de cuánto trabajo se haga para reequilibrar el poder social básico sin distorsionar el mercado.
+
+62
+00:07:22,000 --> 00:07:34,000
+En segundo lugar, como hemos visto, se aplican tipos marginales más altos a los hombres y, en tercer lugar, quizás el aspecto más brillante, observamos cómo esta presión fiscal cambia las reglas del juego en casa.
+
+63
+00:07:34,000 --> 00:07:40,000
+Ante estos nuevos incentivos, la familia cambia espontáneamente los términos de su negociación interna.
+
+64
+00:07:40,000 --> 00:07:49,000
+Esto nos lleva a los efectos a largo plazo que son cruciales. La familia no sufre pasivamente la política fiscal, sino que se adapta a ella de forma dinámica.
+
+65
+00:07:49,000 --> 00:07:57,000
+Al gravar menos el trabajo de las mujeres, aumentamos exponencialmente el incentivo para que las mujeres inviertan en carreras ambiciosas y bien remuneradas antes del matrimonio.
+
+66
+00:07:57,000 --> 00:08:04,000
+El hombre, por el contrario, al pagar más impuestos, se verá obligado a reducir su exceso de horas de trabajo en el mercado.
+
+67
+00:08:04,000 --> 00:08:10,000
+El resultado final, la división entre quienes traen a casa a las personas dependientes y quienes cuidan la casa, se vuelve mucho más equilibrada.
+
+68
+00:08:10,000 --> 00:08:18,000
+No es sólo una manera de recaudar impuestos eficientemente, sino una fuerza invisible que cierra la brecha de elasticidad de la que comenzó todo el problema.
+
+69
+00:08:19,000 --> 00:08:26,000
+Y esto nos lleva a una conclusión casi filosófica: si esta tributación basada en el género funciona,
+
+70
+00:08:26,000 --> 00:08:31,000
+empujando a las familias a igualar las horas trabajadas en el mercado y a dividir las tareas domésticas entre ellas,
+
+71
+00:08:31,000 --> 00:08:37,000
+a largo plazo las elasticidades laborales de hombres y mujeres acabarían siendo exactamente iguales.
+
+72
+00:08:37,000 --> 00:08:41,000
+Y si los comportamientos se alinean, surge espontáneamente una pregunta loca.
+
+73
+00:08:41,000 --> 00:08:47,000
+Una política fiscal tan eficiente podría terminar eliminando su necesidad misma de existir.
+
+74
+00:08:47,000 --> 00:08:53,000
+Es un pensamiento provocativo, claro, pero demuestra el poder que tienen los incentivos económicos para rediseñar,
+
+75
+00:08:53,000 --> 00:08:56,000
+desde los cimientos, la estructura de nuestra sociedad.

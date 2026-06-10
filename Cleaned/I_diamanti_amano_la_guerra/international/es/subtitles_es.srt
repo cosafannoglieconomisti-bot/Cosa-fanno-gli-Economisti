@@ -1,0 +1,471 @@
+1
+00:00:00,000 --> 00:00:02,240
+Bienvenidos a este nuevo análisis en profundidad.
+
+2
+00:00:02,240 --> 00:00:07,200
+Hoy partimos de una pregunta que parece casi una paradoja, y es: ¿los mercados financieros
+
+3
+00:00:07,200 --> 00:00:08,480
+aman la guerra?
+
+4
+00:00:08,480 --> 00:00:13,320
+Para entenderlo, vamos a analizar un interesantísimo estudio económico de Massimo Guidolin
+
+5
+00:00:13,320 --> 00:00:17,600
+y Eliana La Ferrara, titulado precisamente "Los diamantes aman la guerra",
+
+6
+00:00:17,600 --> 00:00:22,440
+es un análisis fascinante que cambiará radicalmente la forma en que pensamos sobre la relación
+
+7
+00:00:22,440 --> 00:00:25,080
+entre el sector privado y la inestabilidad geopolítica.
+
+8
+00:00:25,080 --> 00:00:27,480
+En fin, entremos en materia.
+
+9
+00:00:27,480 --> 00:00:29,960
+Aquí está el mapa de nuestro análisis de hoy.
+
+10
+00:00:29,960 --> 00:00:32,600
+Primero exploraremos la paradoja de la paz.
+
+11
+00:00:32,600 --> 00:00:35,640
+Para luego adentrarnos en el mercado de los diamantes en Angola.
+
+12
+00:00:35,640 --> 00:00:40,960
+Analizaremos entonces la reacción del mercado, las cuatro causas económicas que hay detrás
+
+13
+00:00:40,960 --> 00:00:44,000
+y, para terminar, las consecuencias de todo esto.
+
+14
+00:00:44,000 --> 00:00:46,679
+Primer punto, la paradoja de la paz.
+
+15
+00:00:46,679 --> 00:00:50,280
+O, en otras palabras, paz siempre es igual a ganancias.
+
+16
+00:00:50,280 --> 00:00:51,880
+Imaginen la situación.
+
+17
+00:00:51,880 --> 00:00:56,159
+Normalmente, damos por sentado que la paz es excelente para los negocios,
+
+18
+00:00:56,160 --> 00:01:00,800
+después de todo, la guerra destruye las infraestructuras y aterroriza a los inversores.
+
+19
+00:01:00,800 --> 00:01:03,680
+Pero esto nos lleva a la pregunta central de hoy.
+
+20
+00:01:03,680 --> 00:01:08,120
+¿Qué pasa con los precios de las acciones de las empresas mineras si una guerra civil termina
+
+21
+00:01:08,120 --> 00:01:09,120
+de golpe?
+
+22
+00:01:09,120 --> 00:01:14,560
+La lógica nos sugeriría una euforia inmediata de los mercados, todos compran, las acciones
+
+23
+00:01:14,560 --> 00:01:15,560
+vuelan.
+
+24
+00:01:15,560 --> 00:01:20,040
+Sin embargo, agárrense fuerte, los datos nos cuentan una historia completamente diferente.
+
+25
+00:01:20,040 --> 00:01:25,400
+Y de hecho, mientras nuestro instinto nos dice que los precios deberían subir gracias a la
+
+26
+00:01:25,400 --> 00:01:30,800
+estabilidad recuperada, la reacción real de los mercados registrada en Angola en 2002
+
+27
+00:01:30,800 --> 00:01:35,800
+muestra literalmente lo contrario: los precios se desploman, un verdadero desplome.
+
+28
+00:01:35,800 --> 00:01:39,960
+Esto nos hace comprender que, bueno, la teoría económica a menudo tiene que enfrentarse a una realidad
+
+29
+00:01:39,960 --> 00:01:42,439
+sobre el terreno mucho, mucho más cínica.
+
+30
+00:01:42,439 --> 00:01:48,200
+Pasemos al segundo punto, nuestro caso de estudio: el mercado de diamantes en Angola.
+
+31
+00:01:48,200 --> 00:01:52,280
+Para comprender esta extraña anomalía, debemos dar un pequeño paso atrás y adentrarnos
+
+32
+00:01:52,280 --> 00:01:54,960
+en el contexto de esta compleja guerra civil.
+
+33
+00:01:55,000 --> 00:02:01,720
+1992 se celebran las elecciones nacionales, 1994 se firma el protocolo de Lusaka.
+
+34
+00:02:01,720 --> 00:02:02,960
+Parece hecho, ¿verdad?
+
+35
+00:02:02,960 --> 00:02:08,520
+Y en cambio, en 1998, el proceso de paz colapsa inexorablemente y se vuelve a combatir.
+
+36
+00:02:08,520 --> 00:02:10,920
+Luego, de repente, el punto de inflexión.
+
+37
+00:02:10,920 --> 00:02:16,240
+El 22 de febrero de 2002 muere en una emboscada Jonas Savimbi, el carismático líder del movimiento
+
+38
+00:02:16,240 --> 00:02:17,240
+rebelde.
+
+39
+00:02:17,240 --> 00:02:22,120
+Su desaparición, de hecho, marca el fin repentino e inesperado del conflicto, barriendo
+
+40
+00:02:22,120 --> 00:02:26,960
+cualquier incertidumbre sobre el futuro del país, un evento perfecto para entender la reacción del mercado.
+
+41
+00:02:26,960 --> 00:02:29,879
+Y aquí llega la genialidad de los investigadores.
+
+42
+00:02:29,879 --> 00:02:34,680
+Para aislar financieramente el impacto de esta paz estallada de repente, el estudio
+
+43
+00:02:34,680 --> 00:02:37,680
+utiliza un método comparativo realmente riguroso.
+
+44
+00:02:37,680 --> 00:02:39,080
+Crearon dos grupos.
+
+45
+00:02:39,080 --> 00:02:44,200
+Por un lado, una cartera angoleña, que incluye siete empresas de diamantes ya operativas
+
+46
+00:02:44,200 --> 00:02:45,599
+en el territorio.
+
+47
+00:02:45,599 --> 00:02:50,680
+Por el otro, una cartera de control, formada por 42 empresas idénticas en todo,
+
+48
+00:02:50,680 --> 00:02:53,200
+pero sin ningún interés en Angola.
+
+49
+00:02:53,200 --> 00:02:54,719
+¿Para qué sirve?
+
+50
+00:02:54,719 --> 00:02:58,920
+Sencillo: para excluir que las variaciones de precios se deban a las fluctuaciones normales
+
+51
+00:02:58,920 --> 00:03:00,800
+del mercado de diamantes.
+
+52
+00:03:00,800 --> 00:03:05,960
+Lo que nos lleva al tercer punto de nuestro análisis: la reacción del mercado al anuncio
+
+53
+00:03:05,960 --> 00:03:06,960
+de la paz.
+
+54
+00:03:06,960 --> 00:03:09,439
+¿Cuál fue, entonces, la respuesta en bolsa?
+
+55
+00:03:09,439 --> 00:03:13,879
+Si miramos los datos puros y duros, tal como se reportan en la tabla uno del estudio,
+
+56
+00:03:13,879 --> 00:03:15,200
+notamos algo increíble.
+
+57
+00:03:15,760 --> 00:03:19,640
+En los días exactos en que muere Savimbi, la cartera de las empresas que operan en
+
+58
+00:03:19,640 --> 00:03:22,640
+Angola registra una caída neta dramática.
+
+59
+00:03:22,640 --> 00:03:27,640
+Al contrario, o mejor dicho, casi burlándose de la situación, la cartera de control
+
+60
+00:03:27,640 --> 00:03:29,120
+registra ganancias.
+
+61
+00:03:29,120 --> 00:03:33,280
+En la práctica, los mercados interpretaron el fin de la guerra como una pésima noticia para
+
+62
+00:03:33,280 --> 00:03:34,280
+quienes hacían negocios.
+
+63
+00:03:34,280 --> 00:03:35,280
+27.
+
+64
+00:03:35,280 --> 00:03:41,440
+27 puntos porcentuales: esta es la enorme diferencia neta de rendimiento entre el grupo de control
+
+65
+00:03:41,439 --> 00:03:45,800
+y la cartera angoleña, registrada precisamente el día en que la noticia se hizo
+
+66
+00:03:45,800 --> 00:03:46,800
+pública.
+
+67
+00:03:46,800 --> 00:03:51,159
+Una sola cifra que nos golpea con cuánto dañó el fin de la guerra
+
+68
+00:03:51,159 --> 00:03:53,400
+el valor percibido de esas compañías.
+
+69
+00:03:53,400 --> 00:03:55,199
+Llegamos al cuarto punto.
+
+70
+00:03:55,199 --> 00:03:57,960
+Las causas económicas detrás de este desplome.
+
+71
+00:03:57,960 --> 00:04:02,599
+Obviamente, la pregunta surge de forma natural: ¿por qué ocurre todo esto? Los investigadores no
+
+72
+00:04:02,599 --> 00:04:07,680
+se limitaron a observar el dato, sino que aislaron cuatro razones estructurales: uno,
+
+73
+00:04:07,680 --> 00:04:13,120
+el desplome de las barreras de entrada; dos, el aumento del poder del gobierno; tres, el
+
+74
+00:04:13,120 --> 00:04:18,079
+fin de una guerra de precios; y cuatro, nuevos estándares de transparencia. Veámoslos uno
+
+75
+00:04:18,079 --> 00:04:19,079
+por uno.
+
+76
+00:04:19,079 --> 00:04:20,079
+Primer factor.
+
+77
+00:04:20,079 --> 00:04:26,519
+Por muy feo que sea decirlo, la guerra civil actúa como una gigantesca barrera de entrada.
+
+78
+00:04:26,519 --> 00:04:31,759
+Operar en una zona di conflicto requiere inversiones descabelladas en seguridad privada y una tolerancia
+
+79
+00:04:31,759 --> 00:04:34,680
+al riesgo que pocas empresas poseen.
+
+80
+00:04:34,680 --> 00:04:37,439
+Esto protege a las compañías que ya están allí.
+
+81
+00:04:37,439 --> 00:04:42,000
+Una paz repentina, en cambio, derriba esta barrera y anuncia la llegada de una avalancha
+
+82
+00:04:42,000 --> 00:04:47,120
+de nuevos competidores listos para llevarse su parte del pastel en un país ahora pacificado.
+
+83
+00:04:47,120 --> 00:04:50,120
+Pasemos a la segunda causa: el equilibrio de poder.
+
+84
+00:04:50,120 --> 00:04:54,639
+Durante la guerra, el gobierno debe competir con los rebeldes por el control del territorio,
+
+85
+00:04:54,639 --> 00:04:58,879
+pero una vez terminado el conflicto, el Estado recupera un monopolio absoluto y total sobre
+
+86
+00:04:58,879 --> 00:04:59,879
+los derechos mineros.
+
+87
+00:04:59,879 --> 00:05:03,839
+Y para las compañías extranjeras esto es un balde de agua fría: existe el temor concreto
+
+88
+00:05:03,840 --> 00:05:08,340
+de que el gobierno, ahora sin rivales, imponga costos de licencias exorbitantes o que decida
+
+89
+00:05:08,340 --> 00:05:12,040
+renegociar unilateralmente los contratos antiguos a su favor.
+
+90
+00:05:12,040 --> 00:05:17,240
+Tercer punto, y este es quizás el más crudo: el fin de la llamada guerra de precios.
+
+91
+00:05:17,240 --> 00:05:21,920
+La paz cierra para siempre las puertas al mercado negro gestionado por los rebeldes, que en el pasado
+
+92
+00:05:21,920 --> 00:05:26,160
+malvendían los derechos diamantíferos simplemente porque estaban desesperados y necesitaban
+
+93
+00:05:26,160 --> 00:05:28,680
+dinero rápidamente para comprar armas.
+
+94
+00:05:28,680 --> 00:05:34,000
+Imaginen que antes algunos operadores pagaban sumas ridículas, a veces incluso solo 250 dólares,
+
+95
+00:05:34,000 --> 00:05:36,840
+para obtener de los rebeldes enormes derechos de prospección.
+
+96
+00:05:36,840 --> 00:05:40,240
+Con la paz, estos descuentos de pesadilla desaparecen por completo.
+
+97
+00:05:40,240 --> 00:05:46,840
+Cuarto y último factor: la transparencia. La paz atrae inevitablemente la atención de la
+
+98
+00:05:46,840 --> 00:05:51,680
+comunidad internacional sobre el país. Mientras hay guerra, el estado de emergencia es
+
+99
+00:05:51,680 --> 00:05:56,840
+la excusa perfecta para no tener cuentas transparentes, creando un ecosistema ideal para negocios
+
+100
+00:05:56,840 --> 00:05:59,800
+poco claros, pero enormemente lucrativos.
+
+101
+00:05:59,800 --> 00:06:04,720
+Con el fin de las hostilidades, se desata la presión internacional para regularizar el sector
+
+102
+00:06:04,720 --> 00:06:06,520
+y adiós a las zonas grises.
+
+103
+00:06:06,520 --> 00:06:11,440
+Y para dar un poco de color y contexto humano a todos estos números, hay una cita
+
+104
+00:06:11,440 --> 00:06:16,600
+del periodista y disidente angoleño Rafael Marques, que da justo en el blanco.
+
+105
+00:06:16,600 --> 00:06:20,880
+El fin de la guerra en Angola significa que, en este momento, la institución principal
+
+106
+00:06:20,880 --> 00:06:22,920
+del país es la corrupción.
+
+107
+00:06:22,920 --> 00:06:27,720
+Una frase mordaz, que nos recuerda exactamente en qué tipo de pantano normativo y ético
+
+108
+00:06:27,720 --> 00:06:31,240
+se movían estas dinámicas corporativas en la posguerra.
+
+109
+00:06:31,240 --> 00:06:36,680
+And so arrived we at the fifth and final point: the consequences of this discovery.
+
+110
+00:06:36,680 --> 00:06:40,879
+Llegar al final de este análisis significa tener que enfrentarse a una realidad profundamente
+
+111
+00:06:40,879 --> 00:06:41,879
+incómoda.
+
+112
+00:06:41,879 --> 00:06:46,360
+Piénsenlo bien: si las grandes compañías que ya operan en un país devastado por el conflicto
+
+113
+00:06:46,360 --> 00:06:50,720
+obtienen beneficios financieros tangibles de que la guerra continúe, ¿qué incentivo real
+
+114
+00:06:50,720 --> 00:06:54,640
+tendrán jamás para usar su enorme influencia política con el fin de promover
+
+115
+00:06:54,640 --> 00:06:55,640
+la paz?
+
+116
+00:06:55,640 --> 00:06:59,640
+Es una pregunta de peso, soy consciente de ello, pero es una interrogante que nos obliga a mirar
+
+117
+00:06:59,640 --> 00:07:03,920
+más allá de la superficie y a comprender a fondo las oscuras y frágiles dinámicas que controlan
+
+118
+00:07:03,920 --> 00:07:05,400
+los recursos de nuestro planeta.

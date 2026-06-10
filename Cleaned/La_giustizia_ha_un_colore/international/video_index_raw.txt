@@ -1,0 +1,163 @@
+=== TRASCRITTO CON TIMESTAMP ===
+Video: La_giustizia_ha_un_colore_cleaned.mp4
+
+[00:00] Benvenuti, tu fiamoci subito in questa nuova esplorazione.
+[00:03] Oggi analizziamo un paper economico davvero pazzesco per il suo rigore metodologico.
+[00:08] Firmato dal Berto Alessina e DeLiana Laferrara,
+[00:11] questo studio affronta un tema è profondamente delicato,
+[00:14] la pena di morte e i presudizi raziali.
+[00:17] E lo fai in un modo unico, usando esclusivamente la pura statistica,
+[00:21] senza lasciare spazio a opinioni personali o speculazioni.
+[00:24] È un lavoro affascinante che ci fa capire come gli strumenti dell'economia
+[00:27] possono portare alla luce dinamiche nascoste proprio nel cuore del sistema giudiziario.
+[00:32] Iniziamo da un dato che fa sicuramente riflettere,
+[00:35] secondo Amnesty International, i Afroamericani rappresentano più del 40% degli attuali dettenuti
+[00:41] nel braccio della morte negli Stati Uniti.
+[00:44] Questa è la premessa fattuale da cui parte tutto lo studio.
+[00:48] In pratica ci dice che le minoranze sono rappresentate in modo
+[00:51] enormemente sproporzionato nei bracci della morte rispetto al loro peso effettivo
+[00:55] nella popolazione generale.
+[00:57] E qui sorge spontanea una domanda,
+[01:00] ma questi semplici dati grezi bastano per dimostrare un pregiudizio?
+[01:04] Beh, in campo economico statistico saltare alle conclusioni guardando un solo numero agregato
+[01:09] è superrischioso.
+[01:11] Questa disparità numerica, per quanto forte,
+[01:13] non è assolutamente sufficiente per provare in modo scientifico una distorsione nel sistema.
+[01:18] Dobbiamo necessariamente chiederci se ci sono altri fattori nascosti che guidano queste cifre
+[01:23] prima di potere mettere un verdetto.
+[01:25] Ecco come procederemo oggi uno, il limite dei dati,
+[01:29] due, analizzeremo gli errori giudiziari,
+[01:32] tre, la logica del modello,
+[01:34] quattro, i risultati su scala nazionale,
+[01:37] cinque, il ruolo del sud,
+[01:39] e infine, sei, le conclusioni dello studio.
+[01:42] Partiamo dal primo punto, il limite dei dati,
+[01:46] ovvero il vero problema delle statistiche grezze.
+[01:49] Ma perché fermarsi ai semplici tassi di condanna e un errore?
+[01:52] Il motivo è che i tassi di crimini violenti,
+[01:55] come tanti altri fattori sociali,
+[01:57] cambiano tra i vari gruppi demografici.
+[01:59] Qui entra in gioco quello che in statistica chiamiamo il pericolo delle variabili omesse.
+[02:04] Per fare un test rigoroso,
+[02:06] un modello deve per forza considerare quei fattori nascosti
+[02:09] che potrebbero essere legati all'etmia.
+[02:11] Facciamo un esempio pratico.
+[02:13] Se un determinato gruppo si trovasse a commettere reati con maggiori agravanti,
+[02:17] come vittime multiple o precedenti penali più pesanti,
+[02:20] un semplici tasso di condanna medio sempre rebbe distorto,
+[02:24] anche se il tribunale stesse giudicando in modo perfettamente eco.
+[02:28] Insomma ci mancano troppi pezzi del puzzle per giudicare solo dai totali.
+[02:32] Passiamo al secondo punto,
+[02:34] analizzare gli errori giudiziari,
+[02:36] un test che definirei assolutamente brillante.
+[02:40] Quindi come aggiriamo questo enorme ostacolo dei dati mancanti?
+[02:44] Gli autori hanno avuto un'intuizione analitica geniale.
+[02:47] Invece di guardare alle condanne e messi nei tribunali di primo grado,
+[02:50] si sono concentrati direttamente sugli errori giudiziari.
+[02:53] Nello specifico hanno studiato le condanne a morte
+[02:56] che venivano annullate dalle corti superiori.
+[02:58] Negli stati uniti per i casi capitali ci sono due stati di appello automatico.
+[03:02] L'appello diretto, gestito dalle corti statali,
+[03:05] e l'adiascorpus gestito dalle corti federali.
+[03:08] I ideacchiave qui è assumere che le corti superiori
+[03:11] intervengano per correggere i difetti e i pregiudizi dei tribunali di primo grado.
+[03:15] Perché?
+[03:16] Perché i giudici federali ad esempio sono più lontani dalle pressioni politiche locali
+[03:20] e possono valutare i fatti in modo più distaccato e imparziale.
+[03:23] Arriviamo al terzo punto la logica del modello,
+[03:27] come decidono in pratica le corti.
+[03:30] Teoricamente un tribunale di primo grado è sempre in bilico tra due grandi paure,
+[03:35] condannare un'innocente o lasciare libero un colpebole.
+[03:38] Se guardiamo i grafici originali del paper,
+[03:41] vediamo proprio l'effetto alta lena di questa dinamica delicatissima.
+[03:45] Immaginiamo che una juria magari anche è livello in concio,
+[03:48] di ha un peso minore a rischio gravissimo di condannare un'innocente
+[03:52] quando la vittima ha determinate caratteristiche.
+[03:55] Di conseguenza abbasserà la soglia di certezza necessaria per condannare.
+[03:59] Matematicamente questo aumenta il cosiddetto errore di primo tipo.
+[04:04] In parole povere verranno e messe più condanne tra ballanti
+[04:07] e, physiologicamente, ci saranno più errori che le corti superiori dovranno poi ribaltare.
+[04:13] Ed è qui che il metodo di questo studio fa un salto di qualità pazzesco.
+[04:18] Fare paragoni vasandosi solo ed esclusivamente sull'ettnia dell'imputato
+[04:22] è profondamente forviante,
+[04:23] perché quelle variabili inascoste continuerebbero a inquinare i dati.
+[04:27] La genialità sta nella verusata un test basato sul rango.
+[04:31] Mantenendo costante l'ettnia dell'imputato e cambiando solo quella della vittima
+[04:35] si riesce a isolare chirurgicamente il pregiudizio.
+[04:38] Se teniamo fermo il fatto che l'imputato appartiene a una minoranza
+[04:41] e notiamo che il tasso di errore cambia drasticamente a seconda che la vittima
+[04:45] sia bianca o non bianca,
+[04:46] bomb abbiamo eliminato le altre scusanti statistiche,
+[04:50] stiamo testando il comportamento del tribunale cambiando un solo singole fattore esterno.
+[04:55] Punto numero 4, i risultati su scala nazionale.
+[04:59] Andiamo a scoprire i dati veri e propri.
+[05:01] E' attenzione, non parliamo di pura teoria.
+[05:04] Questi risultati derivano dai norme database reali in tutti gli stati uniti,
+[05:09] tra il 1973 e il 1995.
+[05:13] Nella fase finale di Abia Scorpus, quando un'imputato appartenente a una minoranza
+[05:18] uccide una vittima bianca, il tasso di sentenze annullate e del 37,6%.
+[05:24] Ma se la vittima non è bianca, questo tasso crolla al 28,4%.
+[05:28] Parliamo di una differenza enorme di ben 9 punti percentuali.
+[05:32] Pensate al peso reale di questi numeri, stiamo parlando di 9 punti percentuali
+[05:37] in più di condanne errate, in processi dove c'è in gioco la vita di una persona.
+[05:41] È una disparità sistemica enorme e statisticamente solidissima.
+[05:46] Ora, per mantenere un approccio totalmente imparziale e scientifico,
+[05:49] dobbiamo ribaltare lo specchio.
+[05:51] Cosa succede con gli imputati bianchi?
+[05:54] In questi casi la differenza di errore va nella direzione opposta,
+[05:57] ma i dati ci dicono chiaramente che rimane statisticamente rilevante.
+[06:01] Non c'è una prova matematica solida per un pre giudizio inverso.
+[06:04] La vera fortissima distorsione certificata dai numeri
+[06:08] avviene solo in quel primo e specifico in croce interraziale.
+[06:11] Quinto punto, il ruolo del sud,
+[06:14] una vera e propria svolta geografica nella nostra indagine.
+[06:18] Sì, perché quel modello nazionale di pre giudizio
+[06:21] nasconde al suo interno una anomalia pazzesca
+[06:24] e guidato quasi interamente da una specifica regione americana, il sud.
+[06:28] Sentite questo numero, 15,6.
+[06:31] 15,6 punti percentuali.
+[06:34] Queste è la mastodontica differenza riscontrata nel sud degli stati uniti.
+[06:38] Durante la fase di Abia Scorpus,
+[06:40] per imputati di minoranze con vittime bianche, rispetto a vittime non bianche.
+[06:44] Una disparità geografica tale da distorcere tutta la media nazionale,
+[06:48] mostrando quanto il fenomeno sia intenso in questa precisarea.
+[06:52] È la cosa diventa ancora più evidente,
+[06:54] se guardiamo alla prima linea di difesa.
+[06:56] Già nella premissima fase estatale di appello diretto, sempre nel sud,
+[07:00] c'è una differenza iniziale di 3,3 punti percentuali.
+[07:04] Una percentuale che si aggiunge poi a quei 15,6% della fase federale,
+[07:09] tutto questo ci descrive una vera e propria cattena di errori sistemici.
+[07:13] Con i tribunali federali costretti a correggere continuamente su più livelli
+[07:17] le storture provenienti dal sud.
+[07:20] Sesto è ultimo punto, le conclusioni dell'ostudio.
+[07:24] È tempo di scartare le alternative.
+[07:26] A questo punto, ho scientificamente parlando vi potresti chiedere,
+[07:30] ma non è che questi crimini fossero semplicemente più gravi degli altri?
+[07:34] Ottima domanda.
+[07:35] Per rispondere, gli autori hanno applicato i cosiddetti test di bilanciamento,
+[07:39] test matematici rigolosissimi,
+[07:41] per verificare se i crimini commessi in questi incroci raziali
+[07:45] fossero più efferati o con precedenti peggiori.
+[07:47] I risultati, le caratteristiche si distribuiscono in modo perfettamente omogeneo,
+[07:52] i crimini erano presso che i dentici in gravità.
+[07:55] Ogni fattore è stato bilanciato,
+[07:57] lasciando l'etnia come unica incontrovertibile differenza.
+[08:01] Tutte le altre spiegazioni statisti che sono state spazzate via dal tavolo.
+[08:05] Tirando le sombe di questo eccezionale lavoro,
+[08:08] i freddi numeri cindicano senza mezzemisure
+[08:11] l'esistenza di un chiaro pregiudizio raziale all'interno del sistema giudiziario,
+[08:15] radicato già al primissimo grado di giudizio.
+[08:18] Un pregiudizio che agisce specificamente,
+[08:20] dati alla mano,
+[08:21] contro gli imputati delle minoranze che uccidono vittime bianche
+[08:25] e che emerge con una costanza impressionante proprio negli stati del sud.
+[08:29] Prima di salutarci vi lascio con quest'ultima profonda riflessione.
+[08:34] Sappiamo che in media nazionale ci vogliono ben nove anni nel braccio della morte,
+[08:40] prima che un errore venga corretto tramite questi appelli.
+[08:44] Quindi, qual è il vero costo umano e sociale di questo pregiudizio?
+[08:48] Non è solo un grafico su un rigoroso paper di economia,
+[08:52] è una realtà misurabile,
+[08:54] che solleva interrogativi enormi sull'equità della giustizia
+[08:57] e sull'impatto reale dei numeri sulle vite delle persone.
+[09:01] Continuiamo sempre a esplorare, ascavare e a farci le giuste domande.
+[09:06] Grazie per aver seguito questa analisi. Alla prossima.

@@ -1,0 +1,431 @@
+1
+00:00:00,000 --> 00:00:05,040
+Así que hoy hablamos de una investigación realmente importante, que aborda un tema delicado,
+
+2
+00:00:05,040 --> 00:00:09,960
+los prejuicios inconscientes en la escuela italiana, vamos a ver cómo los estereotipos, incluso
+
+3
+00:00:09,960 --> 00:00:14,679
+aquellos que no sabemos que tenemos, pueden tener un peso real, concreto, en las evaluaciones
+
+4
+00:00:14,679 --> 00:00:15,679
+de los estudiantes.
+
+5
+00:00:15,679 --> 00:00:16,679
+Exacto.
+
+6
+00:00:16,679 --> 00:00:20,719
+Y la pregunta central de la que parte todo es precisamente esta.
+
+7
+00:00:20,719 --> 00:00:25,960
+Imaginemos por un momento a dos estudiantes, uno italiano y un inmigrante, que en una prueba, igual
+
+8
+00:00:25,960 --> 00:00:30,320
+para todos y sobre todo anónima, obtienen exactamente la misma puntuación.
+
+9
+00:00:30,320 --> 00:00:36,039
+La pregunta es, al final, su profesor, ¿les dará a ambos la misma nota? Bueno, la respuesta
+
+10
+00:00:36,039 --> 00:00:38,679
+como estamos por descubrir, no es tan sencilla.
+
+11
+00:00:38,679 --> 00:00:44,200
+Vale, partamos del problema en el que los investigadores se han enfocado en nuestras escuelas secundarias,
+
+12
+00:00:44,200 --> 00:00:48,960
+hay algo que no cuadra, una diferencia en las notas que a simple vista no se ve, una verdadera
+
+13
+00:00:48,960 --> 00:00:50,679
+brecha oculta.
+
+14
+00:00:50,679 --> 00:00:55,240
+Echemos un vistazo a este gráfico, porque aquí es donde se ve el núcleo de la cuestión.
+
+15
+00:00:55,320 --> 00:01:00,280
+Aquí vemos las notas dadas por los profesores a estudiantes que, como decíamos, en las pruebas nacionales
+
+16
+00:01:00,280 --> 00:01:03,520
+estandarizadas, han demostrado la misma preparación.
+
+17
+00:01:03,520 --> 00:01:08,599
+La primera barra, la un poco más alta, son los estudiantes nativos, la segunda los estudiantes
+
+18
+00:01:08,599 --> 00:01:09,599
+inmigrantes.
+
+19
+00:01:09,599 --> 00:01:12,359
+Y la diferencia, aunque sea pequeña, siempre está ahí.
+
+20
+00:01:12,359 --> 00:01:16,920
+A igualdad de competencia, los estudiantes inmigrantes terminan con una nota de media un poco
+
+21
+00:01:16,920 --> 00:01:17,920
+más baja.
+
+22
+00:01:17,920 --> 00:01:23,960
+Claro, 0,14 puntos puede parecer insignificante, pero es fundamental entender su peso real.
+
+23
+00:01:23,960 --> 00:01:28,200
+Esta pequeña brecha, piensen, es casi tan grande como el impacto que tiene el nivel de
+
+24
+00:01:28,200 --> 00:01:32,120
+instrucción de la madre en el rendimiento escolar de un hijo, y todos sabemos cuánto
+
+25
+00:01:32,120 --> 00:01:33,880
+influyen los factores socioeconómicos.
+
+26
+00:01:33,880 --> 00:01:36,680
+En resumen, no estamos hablando de una diferencia insignificante.
+
+27
+00:01:36,680 --> 00:01:43,600
+Y así surge la pregunta de forma natural, ¿pero por qué sucede esto? ¿De dónde sale esta
+
+28
+00:01:43,600 --> 00:01:44,600
+diferencia?
+
+29
+00:01:44,600 --> 00:01:50,460
+Para entenderlo, los investigadores intentaron medir algo muy, muy esquivo: los
+
+30
+00:01:50,460 --> 00:01:55,380
+prejuicios implícitos, los inconscientes de los profesores.
+
+31
+00:01:55,380 --> 00:02:00,700
+Exactamente, y aclaremos qué entendemos por prejuicio implícito.
+
+32
+00:02:00,700 --> 00:02:04,140
+No estamos hablando de una elección consciente de discriminar.
+
+33
+00:02:04,140 --> 00:02:09,420
+No, son asociaciones mentales que se activan automáticamente, estereotipos que respiramos
+
+34
+00:02:09,420 --> 00:02:14,140
+de la cultura en la que vivimos, y que pueden, sin que ni siquiera nos demos cuenta, orientar
+
+35
+00:02:14,140 --> 00:02:15,780
+nuestras decisiones.
+
+36
+00:02:15,780 --> 00:02:21,699
+Para intentar medirlos se utiliza una prueba llamada Test de Asociación Implícita, IAT.
+
+37
+00:02:21,699 --> 00:02:23,420
+En la práctica, funciona así.
+
+38
+00:02:23,420 --> 00:02:27,979
+Se le pide al profesor que asocie lo más rápido posible nombres como Fátima
+
+39
+00:02:27,979 --> 00:02:30,819
+o Francesca, a palabras positivas o negativas.
+
+40
+00:02:30,819 --> 00:02:34,740
+La idea de fondo es que si en nuestra cabeza la asociación entre nombre extranjero y adjetivo
+
+41
+00:02:34,740 --> 00:02:38,860
+negativo es más automática, tardamos una fracción de segundo más en hacer la asociación
+
+42
+00:02:38,860 --> 00:02:43,060
+opuesta, la contraintuitiva, como nombre extranjero y adjetivo positivo.
+
+43
+00:02:43,060 --> 00:02:47,500
+Ese pequeño retraso, medido en milisegundos, es la señal del Prejuicio Implícito.
+
+44
+00:02:47,500 --> 00:02:51,819
+Y los resultados, bueno, han sido nada menos que sorprendentes.
+
+45
+00:02:51,819 --> 00:02:56,580
+Este gráfico nos muestra cómo se distribuye el Prejuicio Implícito Negativo hacia los
+
+46
+00:02:56,580 --> 00:02:58,979
+inmigrantes entre los profesores evaluados.
+
+47
+00:02:58,979 --> 00:03:06,259
+El 70%, una parte enorme, mostró un prejuicio de moderado a fuerte, y solo un pequeñísimo
+
+48
+00:03:06,259 --> 00:03:09,060
+5% no tenía ninguno en absoluto.
+
+49
+00:03:09,060 --> 00:03:14,580
+Ojo, esto no significa que el 95% de los profesores sea racista, sino que casi
+
+50
+00:03:14,580 --> 00:03:18,580
+todos nosotros tenemos dentro asociaciones inconscientes negativas.
+
+51
+00:03:18,580 --> 00:03:23,780
+Vale, una vez que hemos medido este prejuicio, la siguiente pregunta fue: y
+
+52
+00:03:23,780 --> 00:03:29,259
+entonces, ¿qué pasa si ponemos a los profesores frente a sus sesgos? Saber que los tienen,
+
+53
+00:03:29,259 --> 00:03:31,699
+¿puede cambiar la forma en que evalúan?
+
+54
+00:03:31,699 --> 00:03:36,180
+Para descubrirlo pasaron de la teoría a la práctica con un experimento real
+
+55
+00:03:36,180 --> 00:03:37,500
+en las escuelas.
+
+56
+00:03:37,500 --> 00:03:43,219
+Experimento uno: el diseño del experimento fue tan simple como, diría yo, genial.
+
+57
+00:03:43,219 --> 00:04:46,419
+Tomaron a los profesores y los dividieron en dos grupos.
+
+58
+00:04:46,419 --> 00:03:51,500
+Al primer grupo, que llamamos informado, le comunicaron el resultado de su test sobre el
+
+59
+00:03:51,500 --> 00:03:54,539
+prejuicio antes de que pusieran las notas finales.
+
+60
+00:03:54,539 --> 00:03:58,259
+Al segundo grupo, el de control, se lo dijeron después.
+
+61
+00:03:58,259 --> 00:04:01,539
+Lo único que cambiaba, por tanto, era el cuándo.
+
+62
+00:04:01,539 --> 00:04:04,180
+Y el resultado fue increíble.
+
+63
+00:04:04,180 --> 00:04:06,900
+El solo hecho de saber de antemano su propia puntuación
+
+64
+00:04:06,939 --> 00:04:11,780
+llevó a los profesores del grupo informado a reducir la brecha en las notas en nada menos que 0,35
+
+65
+00:04:11,780 --> 00:04:12,780
+puntos.
+
+66
+00:04:12,780 --> 00:04:16,139
+En la práctica, casi eliminaron la diferencia inicial y lo hicieron sobre todo
+
+67
+00:04:16,139 --> 00:04:18,139
+subiendo las notas de los estudiantes inmigrantes.
+
+68
+00:04:18,139 --> 00:04:22,740
+En este punto, sin embargo, los investigadores quisieron profundizar aún más, es decir, la
+
+69
+00:04:22,740 --> 00:04:28,660
+pregunta era: ¿lo que marca la diferencia es conocer el propio prejuicio específico, o bastaría
+
+70
+00:04:28,660 --> 00:04:33,060
+con una advertencia más genérica tipo "atención, los prejuicios existen"?
+
+71
+00:04:33,100 --> 00:04:37,220
+Para entenderlo, pusieron en marcha un segundo experimento, esta vez online.
+
+72
+00:04:37,220 --> 00:04:41,660
+En esta segunda ronda, todos recibieron un mensaje general que les informaba precisamente
+
+73
+00:04:41,660 --> 00:04:47,180
+de la existencia de prejuicios en la escuela, pero solo a la mitad de ellos, al grupo de tratamiento,
+
+74
+00:04:47,180 --> 00:04:51,980
+además del mensaje general, se les comunicó también el resultado personal del test.
+
+75
+00:04:51,980 --> 00:04:55,939
+El objetivo era precisamente aislar el efecto de la información personalizada.
+
+76
+00:04:55,939 --> 00:04:58,980
+Y aquí es donde la cosa se pone superinteresante.
+
+77
+00:04:58,980 --> 00:05:02,379
+Mirad esta tabla, porque es la clave de todo.
+
+78
+00:05:02,420 --> 00:05:06,939
+Para los profesores con un prejuicio bajo, el mensaje genérico y el personal
+
+79
+00:05:06,939 --> 00:05:12,500
+tuvieron más o menos el mismo efecto positivo, pero la verdadera sorpresa está en la fila de abajo.
+
+80
+00:05:12,500 --> 00:05:17,180
+Para aquellos con un prejuicio fuerte, el mensaje genérico no sirvió de nada.
+
+81
+00:05:17,180 --> 00:05:18,699
+Ningún cambio.
+
+82
+00:05:18,699 --> 00:05:23,540
+Solo cambiaron de registro cuando vieron su resultado personal de golpe.
+
+83
+00:05:23,540 --> 00:05:25,540
+Fue entonces cuando redujeron la brecha.
+
+84
+00:05:25,540 --> 00:05:29,420
+Y esto nos lleva directos al corazón del mecanismo que han descubierto.
+
+85
+00:05:29,420 --> 00:05:32,259
+Lo que podríamos llamar efecto sorpresa.
+
+86
+00:05:32,300 --> 00:05:36,980
+La información personalizada es una bomba, especialmente cuando te pilla por sorpresa.
+
+87
+00:05:36,980 --> 00:05:41,180
+Los profesores que más cambiaron su comportamiento fueron precisamente aquellos
+
+88
+00:05:41,180 --> 00:05:45,899
+que probablemente habrían dicho: "¿Yo prejuicios? ¡Ni hablar!".
+
+89
+00:05:45,899 --> 00:05:49,019
+Y para confirmar esto, hay un dato impresionante.
+
+90
+00:05:49,019 --> 00:05:54,819
+El 80% de los profesores, ocho de cada diez, subestimó su propio nivel de prejuicio.
+
+91
+00:05:54,819 --> 00:05:58,420
+Esto nos hace entender lo poco que nos conocemos desde este punto de vista.
+
+92
+00:05:58,420 --> 00:06:02,460
+Y por qué un feedback directo y personal puede ser tan impactante.
+
+93
+00:06:02,460 --> 00:06:04,259
+Y así llegamos al grano.
+
+94
+00:06:04,259 --> 00:06:07,020
+¿Qué lección nos llevamos de toda esta investigación?
+
+95
+00:06:07,020 --> 00:06:13,140
+Y sobre todo, ¿qué nos dice sobre cómo podemos hacer de la escuela un lugar concretamente más justo para todos?
+
+96
+00:06:13,140 --> 00:06:16,460
+Resumamos un momento las cosas fundamentales que hemos entendido.
+
+97
+00:06:16,460 --> 00:06:22,220
+Primero, los prejuicios inconscientes no son pensamientos abstractos, sino que tienen un impacto real en las notas.
+
+98
+00:06:22,220 --> 00:06:25,379
+Segundo, la concienciación es un arma poderosa.
+
+99
+00:06:25,379 --> 00:06:29,300
+Decirle a un profesor "mira este sesgo" puede reducir las disparidades.
+
+100
+00:06:29,300 --> 00:06:34,899
+Tercero, una cosa es decir "los sesgos existen" y otra es decir "este es tu sesgo".
+
+101
+00:06:34,899 --> 00:06:39,500
+La información personalizada gana, sobre todo con quienes tienen prejuicios más fuertes.
+
+102
+00:06:39,500 --> 00:06:42,740
+Por último, el verdadero motor del cambio es la sorpresa.
+
+103
+00:06:42,740 --> 00:06:46,139
+El choque de descubrir un lado de nosotros que no esperábamos.
+
+104
+00:06:46,139 --> 00:06:50,060
+Y cerramos con una pregunta abierta, una reflexión.
+
+105
+00:06:50,060 --> 00:06:56,819
+Toda esta investigación parece sugerire que a veces, para empezar a resolver un problema, basta con hacerlo visible.
+
+106
+00:06:56,819 --> 00:07:00,060
+Y la pregunta que dejamos sobre la mesa es precisamente esta.
+
+107
+00:07:00,060 --> 00:07:07,699
+¿Es sacar a la luz un prejuicio que no sabíamos que teníamos realmente el primer paso indispensable para empezar a derrotarlo?
+
+108
+00:07:07,699 --> 00:07:09,899
+Gracias por habernos seguido en este análisis.

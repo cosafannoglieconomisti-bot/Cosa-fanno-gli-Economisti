@@ -1,0 +1,759 @@
+1
+00:00:00,000 --> 00:00:02,720
+L'expulsion des migrants réduit-elle la criminalité ?
+
+2
+00:00:02,720 --> 00:00:07,160
+Bienvenue dans cette nouvelle analyse, où nous explorerons l'une des questions les plus brûlantes
+
+3
+00:00:07,160 --> 00:00:12,160
+et les plus débattues de tous les temps, et nous le ferons d'une manière un peu différente de d'habitude, en mettant complètement
+
+4
+00:00:12,160 --> 00:00:17,359
+de côté les opinions personnelles et la politique pour nous fier exclusivement aux pures données économiques.
+
+5
+00:00:17,359 --> 00:00:22,760
+Nous analyserons ensemble une étude vraiment fascinante de l'économiste Paolo Pinotti, intitulée Immigration
+
+6
+00:00:22,760 --> 00:00:25,960
+Enforcement and Crime, publiée dans l'American Economic Review.
+
+7
+00:00:25,960 --> 00:00:31,280
+L'objectif ici est de répondre à une question extrêmement complexe de manière totalement objective.
+
+8
+00:00:31,280 --> 00:00:36,719
+Les politiques d'expulsion plus sévères ont-elles vraiment un impact réel sur les taux de criminalité ?
+
+9
+00:00:36,719 --> 00:00:38,399
+Entrons tout de suite dans le vif du sujet.
+
+10
+00:00:38,399 --> 00:00:42,200
+Aujourd'hui, nous structurerons notre enquête en six étapes rapides.
+
+11
+00:00:42,200 --> 00:00:47,240
+Nous commencerons par essayer de comprendre ce qu'est le dilemme de l'expulsion, pour ensuite nous plonger dans le système
+
+12
+00:00:47,240 --> 00:00:50,359
+des quotas italien et le rôle des accords internationaux.
+
+13
+00:00:50,359 --> 00:00:54,240
+Après quoi, nous verrons l'expérience géniale des prétendus "click days",
+
+14
+00:00:54,240 --> 00:00:59,719
+nous analyserons les véritables données sur la criminalité et enfin, nous en tirerons des conclusions pour les politiques publiques.
+
+15
+00:00:59,719 --> 00:01:02,880
+Point numéro un, le dilemme de l'expulsion.
+
+16
+00:01:02,880 --> 00:01:06,920
+Bref, quel est le mystère auquel les économistes sont confrontés ?
+
+17
+00:01:06,920 --> 00:01:12,120
+Pour démêler ce fil, nous devez nous familiariser avec un concept clé de l'économie,
+
+18
+00:01:12,120 --> 00:01:14,079
+le coût d'opportunité.
+
+19
+00:01:14,079 --> 00:01:17,760
+Imaginez la situation de quelqu'un qui se trouve dans un pays sans papiers,
+
+20
+00:01:17,760 --> 00:01:20,120
+ne pouvant pas travailler dans le secteur officiel,
+
+21
+00:01:20,120 --> 00:01:23,840
+les opportunités de générer un revenu légal s'effondrent de manière drastique.
+
+22
+00:01:23,840 --> 00:01:27,600
+Par conséquent, le coût de risquer une activité criminelle, calculé
+
+23
+00:01:27,600 --> 00:01:31,040
+en termes d'opportunités d'emploi légal perdues en cas d'arrestation,
+
+24
+00:01:31,040 --> 00:01:34,920
+est beaucoup, beaucoup plus bas que pour quelqu'un qui possède un statut régulier.
+
+25
+00:01:34,920 --> 00:01:39,040
+Et, comme nous le confirment les données, un accès limité à l'économie officielle
+
+26
+00:01:39,040 --> 00:01:41,840
+rend le crime inévitablement plus attractif.
+
+27
+00:01:41,840 --> 00:01:43,840
+Et c'est là que le dilemme se pose.
+
+28
+00:01:43,840 --> 00:01:48,000
+Que se passe-t-il vraiment si un pays durcit les expulsions ?
+
+29
+00:01:48,000 --> 00:01:51,600
+D'un côté, nous avons ce qu'on appelle l'effet de neutralisation.
+
+30
+00:01:51,640 --> 00:01:55,680
+Si vous expulsez physiquement une personne, il est évident que vous réduisez à néant sa possibilité
+
+31
+00:01:55,680 --> 00:01:58,160
+de commettre des délits sur ce territoire.
+
+32
+00:01:58,160 --> 00:01:59,440
+Mais de l'autre côté ?
+
+33
+00:01:59,440 --> 00:02:03,520
+Eh bien, une application extrêmement rigide des expulsions réduit considérablement
+
+34
+00:02:03,520 --> 00:02:06,720
+l'utilité et la stabilité attendues pour les immigrés irréguliers
+
+35
+00:02:06,720 --> 00:02:10,000
+qui ne sont pas ou ne peuvent pas être expulsés.
+
+36
+00:02:10,000 --> 00:02:11,920
+S'ils savent qu'ils peuvent être expulsés demain,
+
+37
+00:02:11,920 --> 00:02:14,080
+l'incitation à s'intégrer disparaît
+
+38
+00:02:14,080 --> 00:02:17,920
+et le fameux coût d'opportunité dont nous parlions s'effondre encore plus.
+
+39
+00:02:17,920 --> 00:02:19,200
+La grande question est :
+
+40
+00:02:19,200 --> 00:02:22,080
+dans la réalité, laquelle de ces deux forces l'emporte ?
+
+41
+00:02:22,080 --> 00:02:23,760
+Passons au deuxième point.
+
+42
+00:02:23,760 --> 00:02:27,840
+Le système des quotas italien : pour répondre à cette grande question,
+
+43
+00:02:27,840 --> 00:02:31,760
+notre étude utilise un laboratoire naturel qui s'y prête parfaitement.
+
+44
+00:02:31,760 --> 00:02:32,960
+L'Italie.
+
+45
+00:02:32,960 --> 00:02:37,280
+Historiquement, la politique migratoire italienne repose sur un système de quotas annuels.
+
+46
+00:02:37,280 --> 00:02:41,040
+Mais ce qui est intéressant, c'est la déconnexion totale entre ce que dit la loi
+
+47
+00:02:41,040 --> 00:02:42,960
+et ce qui se passe dans la pratique.
+
+48
+00:02:42,960 --> 00:02:45,760
+En théorie, un employeur devrait embaucher un travailleur
+
+49
+00:02:45,760 --> 00:02:48,320
+étranger avant même que celui-ci ne mette les pieds dans le pays.
+
+50
+00:02:48,400 --> 00:02:49,359
+Mais soyons honnêtes.
+
+51
+00:02:49,359 --> 00:02:52,159
+Qui embaucherait une personne sans l'avoir jamais vue ?
+
+52
+00:02:52,159 --> 00:02:54,000
+Donc, le parcours typique est tout autre.
+
+53
+00:02:54,000 --> 00:02:55,680
+On entre en Italie de manière non officielle,
+
+54
+00:02:55,680 --> 00:02:58,959
+parfois simplement en laissant expirer un visa de tourisme tout à fait normal.
+
+55
+00:02:58,959 --> 00:03:00,319
+Ensuite, on commence à travailler au noir,
+
+56
+00:03:00,319 --> 00:03:03,759
+en espérant un jour trouver un employeur disposé à faire office de garant,
+
+57
+00:03:03,759 --> 00:03:06,639
+précisément au moment où les quotas gouvernementaux sont ouverts.
+
+58
+00:03:06,639 --> 00:03:11,439
+Dans ce flou, le risque théorique est l'expulsion immédiate,
+
+59
+00:03:11,439 --> 00:03:14,000
+mais la réalité est bien plus compliquée :
+
+60
+00:03:14,000 --> 00:03:17,840
+expulser physiquement une personne coûte très cher à l'État.
+
+61
+00:03:17,840 --> 00:03:22,479
+De plus, les personnes interpellées n'ont très souvent pas de papiers d'identité valides sur elles.
+
+62
+00:03:22,479 --> 00:03:25,840
+Et comme si cela ne suffisait pas, les pays d'origine s'opposent bien souvent
+
+63
+00:03:25,840 --> 00:03:29,680
+au rapatriement s'il n'y a pas la certitude absolue de la nationalité.
+
+64
+00:03:29,680 --> 00:03:32,879
+Le résultat finale de ce court-circuit est un paradoxe.
+
+65
+00:03:32,879 --> 00:03:36,240
+Dans la grande majorité des cas, il n'y a pas de véritable vol retour,
+
+66
+00:03:36,240 --> 00:03:39,360
+mais on remet simplement une injonction écrite,
+
+67
+00:03:39,360 --> 00:03:42,719
+la fameuse obligation de quitter le territoire, qui ordonne de partir,
+
+68
+00:03:42,719 --> 00:03:45,920
+un bout de papier qui, dans les faits, reste lettre morte.
+
+69
+00:03:46,000 --> 00:03:49,680
+Et nous voici au troisième point, le rôle des accords.
+
+70
+00:03:49,680 --> 00:03:53,360
+Il existe en effet une exception essentielle à cette règle d'inefficacité,
+
+71
+00:03:53,360 --> 00:03:57,600
+et c'est précisément l'élément qui permet à l'étude d'opérer sa magie.
+
+72
+00:03:57,600 --> 00:04:01,040
+Tout le secret réside dans les accords bilatéraux entre l'Italie
+
+73
+00:04:01,040 --> 00:04:05,360
+et certains pays d'origine spécifiques, créés pour contrôler les flux clandestins.
+
+74
+00:04:05,360 --> 00:04:09,600
+Sachez que le tout premier a été signé avec la Pologne en 1994.
+
+75
+00:04:09,600 --> 00:04:13,040
+En regardant les données du tableau extrait de l'étude, c'est flagrant.
+
+76
+00:04:13,039 --> 00:04:14,959
+S'il y a un accord bilatéral,
+
+77
+00:04:14,959 --> 00:04:19,519
+l'exécution effective de l'expulsion connaît une hausse statistiquement massive,
+
+78
+00:04:19,519 --> 00:04:21,599
+même en épurant les données des autres variables,
+
+79
+00:04:21,599 --> 00:04:24,719
+comme la distance géographique ou le volume des arrestations.
+
+80
+00:04:24,719 --> 00:04:28,399
+Disons-le plus simplement, avec quelques pourcentages :
+
+81
+00:04:28,399 --> 00:04:30,000
+sans accord entre États,
+
+82
+00:04:30,000 --> 00:04:34,639
+en moyenne, seuls 25 % des personnes interpellées sont réellement rapatriées.
+
+83
+00:04:34,639 --> 00:04:38,800
+Mais si l'accord existe, le pourcentage grimpe à 41 %.
+
+84
+00:04:38,800 --> 00:04:41,680
+Cette différence est une mine d'or pour un économiste,
+
+85
+00:04:41,680 --> 00:04:44,800
+car elle crée deux groupes naturels parfaits à comparer :
+
+86
+00:04:44,800 --> 00:04:47,920
+d'un côté, les irréguliers avec un faible risque d'expulsion,
+
+87
+00:04:47,920 --> 00:04:52,400
+de l'autre, les irréguliers avec un risque d'expulsion beaucoup plus élevé et concret.
+
+88
+00:04:52,400 --> 00:04:54,400
+Quatrième étape fondamentale,
+
+89
+00:04:54,400 --> 00:04:56,199
+l'expérience des "click days".
+
+90
+00:04:56,199 --> 00:04:57,639
+Maintenant que nous avons nos deux groupes,
+
+91
+00:04:57,639 --> 00:05:02,759
+comment fait-on pour mesurer si ce risque élevé d'expulsion encourage ou réduit la criminalité ?
+
+92
+00:05:02,759 --> 00:05:05,960
+C'est le défi classique de ceux qui étudient ces questions,
+
+93
+00:05:05,960 --> 00:05:07,759
+isoler la variable :
+
+94
+00:05:07,759 --> 00:05:11,120
+comment pouvons-nous affirmer avec une certitude scientifique
+
+95
+00:05:11,160 --> 00:05:15,199
+que c'est précisément l'absence de statut légal qui pousse quelqu'un vers le crime,
+
+96
+00:05:15,199 --> 00:05:20,040
+et non d'autres différences de parcours, d'éducation ou de conditions sociales ?
+
+97
+00:05:20,040 --> 00:05:21,840
+Il fallait une idée de génie.
+
+98
+00:05:21,840 --> 00:05:24,319
+Et cette idée de génie, Pinotti l'a trouvée,
+
+99
+00:05:24,319 --> 00:05:28,240
+en exploitant le fameux mécanisme italien des "click days".
+
+100
+00:05:28,240 --> 00:05:29,720
+Imaginez la scène.
+
+101
+00:05:29,720 --> 00:05:33,560
+Des permis de séjour mis en jeu via un portail informatique
+
+102
+00:05:33,560 --> 00:05:36,560
+qui ouvrait ses portes à 8 heures précises du matin.
+
+103
+00:05:36,560 --> 00:05:40,480
+Cela créait un véritable embouteillage numérique instantané.
+
+104
+00:05:40,600 --> 00:05:43,759
+Les demandes étaient traitées par les serveurs à la milliseconde près,
+
+105
+00:05:43,759 --> 00:05:46,920
+dans un ordre d'arrivée strict, du premier au dernier,
+
+106
+00:05:46,920 --> 00:05:51,400
+s'arrêtant net dès que le quota annuel fixé par le gouvernement était épuisé.
+
+107
+00:05:51,400 --> 00:05:55,879
+Pinotti a examiné l'ensemble des demandeurs masculins en 2008,
+
+108
+00:05:55,879 --> 00:05:58,280
+soit environ 110 000 dossiers,
+
+109
+00:05:58,280 --> 00:06:00,600
+mais le véritable coup de maître a été celui-ci.
+
+110
+00:06:00,600 --> 00:06:03,480
+Il s'est concentré uniquement sur ceux qui ont cliqué sur "envoyer"
+
+111
+00:06:03,480 --> 00:06:07,480
+dans une fenêtre très étroite d'une heure autour du moment précis de la coupure,
+
+112
+00:06:07,480 --> 00:06:09,080
+au moment où les quotas ont été épuisés.
+
+113
+00:06:09,199 --> 00:06:12,079
+Dans ces minutes agitées, avec des serveurs ralentis,
+
+114
+00:06:12,079 --> 00:06:17,519
+réussir à entrer avant ou après la limite relevait littéralement de la loterie, du pur hasard.
+
+115
+00:06:17,519 --> 00:06:21,479
+Vous avez deux personnes totalement identiques qui cliquent presque au même instant :
+
+116
+00:06:21,479 --> 00:06:23,399
+l'une est régularisée, l'autre non.
+
+117
+00:06:23,399 --> 00:06:27,159
+En croisant de manière anonyme cet échantillon avec les casiers judiciaires,
+
+118
+00:06:27,159 --> 00:06:31,759
+nous obtenons des données extrêmement propres, totalement exemptes de biais statistiques.
+
+119
+00:06:31,759 --> 00:06:33,680
+Cinquième point à l'ordre du jour.
+
+120
+00:06:33,680 --> 00:06:35,680
+Les données sur la criminalité.
+
+121
+00:06:35,959 --> 00:06:37,000
+Qu'est-ce qui est ressorti
+
+122
+00:06:37,000 --> 00:06:39,639
+de cette expérience unique ?
+
+123
+00:06:39,639 --> 00:06:42,480
+La toute première donnée est flagrante :
+
+124
+00:06:42,480 --> 00:06:45,840
+l'irrégularité en soi génère de la criminalité.
+
+125
+00:06:45,840 --> 00:06:48,879
+Essuyer un refus et rester en dehors des quotas
+
+126
+00:06:48,879 --> 00:06:52,040
+augmente la probabilité de commettre un délit grave
+
+127
+00:06:52,040 --> 00:06:55,280
+l'année suivante de 0,6 %.
+
+128
+00:06:55,280 --> 00:06:57,280
+Cela peut sembler peu, mais attention :
+
+129
+00:06:57,280 --> 00:07:01,560
+ce calcul s'appuie sur un taux de départ qui n'est que de 0,9 %.
+
+130
+00:07:01,560 --> 00:07:04,720
+En somme, les chiffres nous confirment la théorie initiale :
+
+131
+00:07:04,880 --> 00:07:07,040
+en barrant l'accès aux voies légales,
+
+132
+00:07:07,040 --> 00:07:10,400
+on pousse inévitablement les gens vers l'illégalité.
+
+133
+00:07:10,400 --> 00:07:12,200
+Et voici le coup de théâtre.
+
+134
+00:07:12,200 --> 00:07:14,120
+Cette augmentation n'est pas la même pour tout le monde.
+
+135
+00:07:14,120 --> 00:07:15,760
+Vous vous souvenez des deux groupes de tout à l'heure ?
+
+136
+00:07:15,760 --> 00:07:16,480
+Eh bien :
+
+137
+00:07:16,480 --> 00:07:18,840
+pour ceux issus de pays ayant des accords bilatéraux forts,
+
+138
+00:07:18,840 --> 00:07:21,960
+où le risque d'être arrêté et mis dans un avion est bien réel,
+
+139
+00:07:21,960 --> 00:07:24,800
+la probabilité de sombrer dans la criminalité à cause du statut irrégulier
+
+140
+00:07:24,800 --> 00:07:27,680
+n'augmente que de 0,3 %.
+
+141
+00:07:27,680 --> 00:07:29,360
+En revanche, pour ceux venant de pays
+
+142
+00:07:29,360 --> 00:07:30,400
+sans accords, où l'on
+
+143
+00:07:30,400 --> 00:07:33,200
+sait très bien que les expulsions ne restent que des mots sur du papier,
+
+144
+00:07:33,199 --> 00:07:36,560
+la hausse des délits grimpe à 0,8 %.
+
+145
+00:07:36,560 --> 00:07:42,319
+Ce résultat résout enfin le grand dilemme économique par lequel nous avions commencé.
+
+146
+00:07:42,319 --> 00:07:43,759
+Que nous disent les chiffres ?
+
+147
+00:07:43,759 --> 00:07:46,759
+Ils nous disent qu'appliquer sévèrement les expulsions
+
+148
+00:07:46,759 --> 00:07:50,319
+ne déclenche pas une vague de criminalité causée par le désespoir
+
+149
+00:07:50,319 --> 00:07:52,360
+de ceux qui échappent aux mailles du filet de la justice.
+
+150
+00:07:52,360 --> 00:07:53,279
+Au contraire,
+
+151
+00:07:53,279 --> 00:07:56,279
+l'effet de neutralisation l'emporte largement.
+
+152
+00:07:56,279 --> 00:07:58,919
+Éloigner physiquement les individus du territoire
+
+153
+00:07:58,919 --> 00:08:00,560
+évite bien plus de délits
+
+154
+00:08:00,560 --> 00:08:04,720
+que n'en génère la baisse du coût d'opportunité chez ceux qui restent.
+
+155
+00:08:04,720 --> 00:08:06,319
+C'est l'une de ces révélations
+
+156
+00:08:06,319 --> 00:08:09,720
+qui changent complètement la façon dont nous devrions juger
+
+157
+00:08:09,720 --> 00:08:12,959
+l'impact réel des lois dans notre société.
+
+158
+00:08:12,959 --> 00:08:14,840
+Sixième et dernier point.
+
+159
+00:08:14,840 --> 00:08:16,840
+Les conclusions pour les politiques publiques.
+
+160
+00:08:16,840 --> 00:08:19,439
+Face à un tableau empirique si clair,
+
+161
+00:08:19,439 --> 00:08:21,240
+que devraient faire les gouvernements ?
+
+162
+00:08:21,240 --> 00:08:25,079
+L'auteur nous laisse avec des recommandations extrêmement pragmatiques.
+
+163
+00:08:25,079 --> 00:08:30,040
+La suggestion de l'économiste ne prend parti pour aucun bord politique.
+
+164
+00:08:30,080 --> 00:08:31,600
+Elle dit simplement ceci :
+
+165
+00:08:31,600 --> 00:08:34,120
+une fois que l'État décide d'un système de quotas,
+
+166
+00:08:34,120 --> 00:08:38,600
+il doit le faire respecter avec une rigueur extrême, coûte que coûte.
+
+167
+00:08:38,600 --> 00:08:40,320
+Mais, et c'est un "mais" de taille,
+
+168
+00:08:40,320 --> 00:08:44,279
+si l'État s'aperçoit que l'application de ces expulsions est techniquement
+
+169
+00:08:44,279 --> 00:08:46,960
+ou économiquement impossible,
+
+170
+00:08:46,960 --> 00:08:51,399
+la seule véritable issue rationnelle est de procéder à des régularisations.
+
+171
+00:08:51,399 --> 00:08:53,399
+L'erreur fatale, dans les deux cas,
+
+172
+00:08:53,399 --> 00:08:54,639
+est de fermer les yeux
+
+173
+00:08:54,639 --> 00:08:58,399
+et de laisser des milliers de personnes bloquées dans une impasse.
+
+174
+00:08:58,439 --> 00:09:02,720
+Cette idée est parfaitement résumée dans cette citation tirée de l'étude.
+
+175
+00:09:02,720 --> 00:09:06,319
+Le gouvernement et les autorités migratoires devraient éviter la formation
+
+176
+00:09:06,319 --> 00:09:08,639
+de vastes réservoirs d'immigrés non autorisés,
+
+177
+00:09:08,639 --> 00:09:11,399
+présentant un faible coût d'opportunité à commettre des délits.
+
+178
+00:09:11,399 --> 00:09:13,799
+En fin de compte, ce n'est pas une question d'idéologie,
+
+179
+00:09:13,799 --> 00:09:17,519
+c'est une simple et pure question d'incitations économiques et de cohésion sociale.
+
+180
+00:09:17,519 --> 00:09:20,759
+Toute cette analyse nous amène à une réflexion plus large :
+
+181
+00:09:20,759 --> 00:09:25,360
+trouver le point d'équilibre entre les incitations économiques brutes et les lois de l'État.
+
+182
+00:09:25,399 --> 00:09:28,800
+C'est là le véritable grand défi pour les nations modernes.
+
+183
+00:09:28,800 --> 00:09:32,560
+Comment pouvons-nous concilier une fois pour toutes ces réalités économiques
+
+184
+00:09:32,560 --> 00:09:34,159
+et la sécurité collective,
+
+185
+00:09:34,159 --> 00:09:37,960
+sachant que les zones grises n'engendrent que des conséquences négatives ?
+
+186
+00:09:37,960 --> 00:09:41,320
+C'est une question cruciale que cette approche purement objective
+
+187
+00:09:41,320 --> 00:09:44,440
+nous oblige heureusement à regarder en face,
+
+188
+00:09:44,440 --> 00:09:46,000
+bien au-delà des slogans.
+
+189
+00:09:46,000 --> 00:09:48,840
+Nous nous arrêtons ici, mais nous vous invitons à approfondir le sujet.
+
+190
+00:09:48,840 --> 00:09:50,840
+Merci d'avoir suivi cette analyse.

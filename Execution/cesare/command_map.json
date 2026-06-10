@@ -1,0 +1,36 @@
+{
+  "git_status_test": ["/bin/echo", "Azione Eseguita: Git Status simulation..."],
+  "suggest_approve_tmp_file": ["/bin/echo", "Azione Eseguita: Scrittura /tmp/check_input_file.py autorizzata!"],
+  "backup": [
+    "/Users/<USER>/Desktop/canale/.venv/bin/python3",
+    "/Users/<USER>/Desktop/canale/Execution/mercurio/mercurio_github_sync.py"
+  ],
+  "gmail": [
+    "/Users/<USER>/Desktop/canale/.venv/bin/python3",
+    "/Users/<USER>/Desktop/canale/Execution/mercurio/mercurio_gmail_manager.py"
+  ],
+  "report": [
+    "/Users/<USER>/Desktop/canale/.venv/bin/python3",
+    "/Users/<USER>/Desktop/canale/Execution/romolo/romolo_manage_channel.py"
+  ],
+  "pulizia": [
+    "/Users/<USER>/Desktop/canale/.venv/bin/python3",
+    "/Users/<USER>/Desktop/canale/Execution/enea/video_processor.py"
+  ],
+  "produzione": [
+    "/Users/<USER>/Desktop/canale/.venv/bin/python3",
+    "/Users/<USER>/Desktop/canale/Execution/enea/notebooklm_orchestrator.py"
+  ],
+  "articoli": [
+    "/Users/<USER>/Desktop/canale/.venv/bin/python3",
+    "/Users/<USER>/Desktop/canale/Execution/ulisse/verify_paper.py"
+  ],
+  "copertina": [
+    "/Users/<USER>/Desktop/canale/.venv/bin/python3",
+    "/Users/<USER>/Desktop/canale/Execution/enea/generate_cover.py"
+  ],
+  "competitor": [
+    "/Users/<USER>/Desktop/canale/.venv/bin/python3",
+    "/Users/<USER>/Desktop/canale/Execution/romolo/competitor_scout.py"
+  ]
+}
