@@ -1,0 +1,399 @@
+1
+00:00:00,000 --> 00:00:02,439
+bienvenue à cette nouvelle analyse.
+
+2
+00:00:02,439 --> 00:00:07,879
+Aujourd'hui, nous abordons sans filtre l'un des paradoxes les plus fascinants de l'économie contemporaine.
+
+3
+00:00:07,879 --> 00:00:13,640
+La démocratie est-elle vraiment un moteur de croissance économique ou un frein bureaucratique ?
+
+4
+00:00:13,640 --> 00:00:18,440
+On entend souvent dire que les gouvernements d'une main de fer peuvent imposer les réformes nécessaires
+
+5
+00:00:18,440 --> 00:00:21,440
+beaucoup plus rapidement, mais que disent les données réelles ?
+
+6
+00:00:21,440 --> 00:00:24,679
+Celles mesurées sur le terrain et libérées des idéologies.
+
+7
+00:00:24,679 --> 00:00:29,160
+Bien, mettons de côté les opinions personnelles et plongeons-nous dans les faits.
+
+8
+00:00:29,199 --> 00:00:30,960
+Voici le programme d'aujourd'hui.
+
+9
+00:00:30,960 --> 00:00:33,480
+Un, le débat sur la démocratie.
+
+10
+00:00:33,480 --> 00:00:36,520
+Deux, l'illusion d'optique des données historiques.
+
+11
+00:00:36,520 --> 00:00:39,200
+Trois, la nouvelle lentille méthodologique.
+
+12
+00:00:39,200 --> 00:00:41,679
+Quatre, les vrais effets sur le PIB.
+
+13
+00:00:41,679 --> 00:00:43,920
+Cinq, les moteurs de la croissance.
+
+14
+00:00:43,920 --> 00:00:47,840
+Et pour finir, six, institutions pour la prospérité.
+
+15
+00:00:47,840 --> 00:00:49,200
+Commençons tout de suite.
+
+16
+00:00:49,200 --> 00:00:52,760
+Point un, le débat sur la démocratie.
+
+17
+00:00:52,760 --> 00:00:56,480
+Au cours des dernières décennies, une idée un peu pessimiste s'est répandue.
+
+18
+00:00:56,520 --> 00:00:58,200
+Il y a ce scepticisme de fond.
+
+19
+00:00:58,200 --> 00:01:01,960
+Très bien résumé par une phrase audacieuse de l'économiste Robert Barro,
+
+20
+00:01:01,960 --> 00:01:06,480
+qui dit : "Des droits politiques accrus n'ont pas d'effet sur la croissance."
+
+21
+00:01:06,480 --> 00:01:10,680
+En somme, le mythe est qu'un régime autoritaire peut tirer tout droit
+
+22
+00:01:10,680 --> 00:01:13,040
+et faire croître l'économie beaucoup plus vite,
+
+23
+00:01:13,040 --> 00:01:16,840
+en contournant totalement les très longues discussions parlementaires.
+
+24
+00:01:16,840 --> 00:01:18,800
+Et ici, nous passons au point deux.
+
+25
+00:01:18,800 --> 00:01:21,359
+L'illusion d'optique des données.
+
+26
+00:01:21,359 --> 00:01:24,000
+Or, si nous regardons certaines données historiques,
+
+27
+00:01:24,000 --> 00:01:28,200
+il semblerait presque que ce scepticisme soit justifié.
+
+28
+00:01:28,200 --> 00:01:29,519
+Mais il y a un piège.
+
+29
+00:01:29,519 --> 00:01:32,519
+Il y a littéralement une illusion d'optique en jeu.
+
+30
+00:01:32,519 --> 00:01:37,680
+En observant les années qui précèdent le moment où un pays devient démocratique,
+
+31
+00:01:37,680 --> 00:01:40,799
+on observe toujours un effondrement spectaculaire de la richesse,
+
+32
+00:01:40,799 --> 00:01:44,799
+une véritable chute économique juste avant le changement de régime.
+
+33
+00:01:44,799 --> 00:01:48,400
+Mais attention, car c'est le cœur de toute la question.
+
+34
+00:01:48,400 --> 00:01:51,920
+Ce n'est absolument pas l'arrivée de la démocratie qui cause cet effondrement,
+
+35
+00:01:51,920 --> 00:01:55,439
+c'est l'exact opposé : ce sont les crises économiques profondes
+
+36
+00:01:55,439 --> 00:01:57,120
+qui déclenchent la démocratie.
+
+37
+00:01:57,120 --> 00:02:00,320
+L'autocratie échoue, la pauvreté monte en flèche,
+
+38
+00:02:00,320 --> 00:02:05,000
+et à ce moment-là, la population descend dans la rue pour réclamer des droits politiques.
+
+39
+00:02:05,000 --> 00:02:06,840
+Avoir confondu la cause et l'effet
+
+40
+00:02:06,840 --> 00:02:11,000
+a malheureusement alimenté des décennies de pessimisme totalement injustifié.
+
+41
+00:02:11,000 --> 00:02:15,920
+Cela nous mène directement au point trois, la nouvelle lentille méthodologique.
+
+42
+00:02:15,920 --> 00:02:21,719
+Pour démonter cette illusion, les chercheurs ont dû changer radicalement d'approche.
+
+43
+00:02:21,719 --> 00:02:25,840
+L'ancienne méthode se limitait à comparer les pays à un moment donné,
+
+44
+00:02:25,840 --> 00:02:29,479
+tombant de plein pied dans le piège de l'illusion d'optique.
+
+45
+00:02:29,479 --> 00:02:33,319
+La nouvelle méthode, en revanche, utilise une stratégie extrêmement avancée,
+
+46
+00:02:33,319 --> 00:02:37,079
+qui tient compte de toutes les caractéristiques uniques d'une nation,
+
+47
+00:02:37,079 --> 00:02:41,199
+et surtout de l'histoire dynamique passée de son PIB.
+
+48
+00:02:41,199 --> 00:02:44,520
+Pour le dire plus simplement, cette stratégie du panneau dynamique
+
+49
+00:04:44,520 --> 00:02:47,599
+fonctionne comme un puissant filtre de purification,
+
+50
+00:02:47,599 --> 00:02:51,879
+soustrayant mathématiquement les dommages et le bruit de la crise préexistante.
+
+51
+00:02:51,879 --> 00:02:56,280
+En nettoyant les données de cette manière, nous pouvons enfin voir la réalité pure et dure,
+
+52
+00:02:56,280 --> 00:02:58,439
+ce qui se passe réellement dans l'économie,
+
+53
+00:02:58,439 --> 00:03:01,519
+lorsque les institutions démocratiques prennent des racines solides.
+
+54
+00:03:01,519 --> 00:03:05,560
+Et donc, point 4, les vrais effets sur le PIB.
+
+55
+00:03:05,560 --> 00:03:11,159
+Roulement de tambours, 20 %, exact, un solide 20 %.
+
+56
+00:03:11,159 --> 00:03:14,039
+Les données historiques globales, une fois épurées,
+
+57
+00:03:14,039 --> 00:03:18,479
+nous disent clairement que passer à une démocratie, de manière permanente,
+
+58
+00:03:18,479 --> 00:03:22,519
+fait augmenter le PIB par habitant de 20 % sur le long terme,
+
+59
+00:03:22,519 --> 00:03:26,560
+par rapport au scénario où ce pays serait resté une dictature,
+
+60
+00:03:26,560 --> 00:03:29,799
+un bond en avant absolument indéniable.
+
+61
+00:03:29,799 --> 00:03:33,639
+Et attention, ce n'est pas une magie qui opère du jour au lendemain,
+
+62
+00:03:33,639 --> 00:03:35,959
+la richesse se construit avec le temps,
+
+63
+00:03:35,959 --> 00:03:39,039
+en observant la trajectoire, on voit qu'après la transition,
+
+64
+00:03:39,039 --> 00:03:42,039
+la richesse augmente de manière constante, année après année,
+
+65
+00:03:42,039 --> 00:03:46,560
+pour ensuite se stabiliser à son maximum après environ 20 ou 25 ans.
+
+66
+00:03:46,560 --> 00:03:49,840
+En somme, la démocratie est un investissement structurel
+
+67
+00:03:49,840 --> 00:03:53,799
+qui a besoin de temps, mais qui finit par payer énormément.
+
+68
+00:03:53,799 --> 00:03:57,799
+Arrivons au point 5, les moteurs de la croissance.
+
+69
+00:03:57,799 --> 00:04:01,560
+On se demande spontanément comment un changement
+
+70
+00:04:01,560 --> 00:04:05,359
+dans les droits politiques se transforme en argent réel pour l'économie.
+
+71
+00:04:05,359 --> 00:04:07,239
+Eh bien, les données sont claires.
+
+72
+00:04:07,239 --> 00:04:09,319
+Les démocraties font une chose fondamentale
+
+73
+00:04:09,319 --> 00:04:11,319
+que les autocraties ignorent souvent :
+
+74
+00:04:11,319 --> 00:04:14,560
+elles investissent dans les personnes et dans des biens publics à large spectre.
+
+75
+00:04:14,560 --> 00:04:16,560
+Nous parlons d'investissements massifs de capitaux,
+
+76
+00:04:16,560 --> 00:04:18,680
+d'un boom des inscriptions aux lycées,
+
+77
+00:04:18,680 --> 00:04:20,879
+d'améliorations énormes et généralisées dans la santé,
+
+78
+00:04:20,879 --> 00:04:24,639
+et, crucialement, d'une réduction drastique des désordres sociaux.
+
+79
+00:04:24,639 --> 00:04:28,120
+C'est ce solide mélange qui génère ces 20 % supplémentaires.
+
+80
+00:04:28,120 --> 00:04:32,079
+Enfin, point 6, institutions pour la prospérité.
+
+81
+00:04:32,079 --> 00:04:34,600
+Il y a un dernier faux mythe à déconstruire.
+
+82
+00:04:34,600 --> 00:04:38,039
+Il existe cette conviction répandue selon laquelle un pays
+
+83
+00:04:38,040 --> 00:04:42,240
+doit être déjà riche pour pouvoir se permettre la démocratie.
+
+84
+00:04:42,240 --> 00:04:44,360
+Complètement faux.
+
+85
+00:04:44,360 --> 00:04:47,760
+L'analyse nous démontre que l'effet positif sur la croissance
+
+86
+00:04:47,760 --> 00:04:51,720
+ne dépend absolument pas du niveau de développement initial d'un pays,
+
+87
+00:04:51,720 --> 00:04:53,560
+qu'il parte de conditions de pauvreté
+
+88
+00:04:53,560 --> 00:04:55,720
+ou qu'il soit déjà en voie de développement,
+
+89
+00:04:55,720 --> 00:04:57,720
+embrasser la liberté politique
+
+90
+00:04:57,720 --> 00:05:00,600
+apporte toujours un bénéfice matériel concret.
+
+91
+00:05:00,600 --> 00:05:04,560
+Concluons cette analyse avec une question rigoureusement basée
+
+92
+00:05:04,560 --> 00:05:07,439
+sur des décennies de mesures objectives.
+
+93
+00:05:07,480 --> 00:05:10,319
+Si les données démontrent de manière si éclatante
+
+94
+00:05:10,319 --> 00:05:13,040
+que les droits politiques génèrent, à eux seuls,
+
+95
+00:05:13,040 --> 00:05:16,639
+une augmentation de 20 % de la richesse à long terme,
+
+96
+00:05:16,639 --> 00:05:19,800
+a-t-il encore un sens aujourd'hui de séparer la liberté politique
+
+97
+00:05:19,800 --> 00:05:21,439
+du bien-être matériel ?
+
+98
+00:05:21,439 --> 00:05:23,800
+C'est une considération qui marque les esprits.
+
+99
+00:05:23,800 --> 00:05:26,800
+Le droit de vote n'est pas seulement une grande conquête morale,
+
+100
+00:05:26,800 --> 00:05:30,800
+tout bien considéré, c'est le premier véritable moteur structurel de l'économie.
