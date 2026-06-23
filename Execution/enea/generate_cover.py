@@ -63,7 +63,7 @@ def generate_cover(title, output_path="/tmp/active_cover.png"):
             
             if result.generated_images:
                 with open(output_path, 'wb') as f:
-                    f.write(result.generated_images[0].image_bytes)
+                    f.write(result.generated_images[0].image.image_bytes)
                 print(f"✅ Successo Imagen: {output_path}")
                 return output_path
         except Exception as e:

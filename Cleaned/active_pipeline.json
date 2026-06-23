@@ -1,5 +1,17 @@
 {
-    "active_video": "Chi_diventa_davvero_un_politico",
-    "pdf_path": "Cleaned/Chi_diventa_davvero_un_politico/Who Becomes a Politician.pdf",
-    "step": "Setup Completato"
+    "active_video": "Piu_democrazia_piu_PIL",
+    "paper_title": "Democracy Does Cause Growth",
+    "step": "Upload Completato",
+    "last_updated": "2026-06-22T23:56:00.000000",
+    "title": "Più democrazia, più PIL?",
+    "paper_path": "/Users/<USER>/Desktop/canale/Cleaned/Piu_democrazia_piu_PIL/Democracy Does Cause Growth.pdf",
+    "target_dir": "/Users/<USER>/Desktop/canale/Cleaned/Piu_democrazia_piu_PIL",
+    "clean_title": "Piu_democrazia_piu_PIL",
+    "academic_title": "Democracy Does Cause Growth",
+    "paper": "Democracy Does Cause Growth.pdf",
+    "notebook_id": "999ff16f-635e-469d-bdb2-51982f1a2bd4",
+    "youtube_id": "ea-OgbOdySY",
+    "youtube_url": "https://www.youtube.com/watch?v=ea-OgbOdySY",
+    "scheduled_at": "2026-06-23T10:00:00+02:00",
+    "status": "UploadCompletato"
 }

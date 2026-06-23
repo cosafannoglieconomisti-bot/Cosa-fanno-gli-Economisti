@@ -90,10 +90,16 @@ def main():
         log("ERRORE: Impossibile creare il notebook dopo vari tentativi.")
         return
     
-    # Estrazione UUID robusta
+    # Estrazione UUID robusta (JSON nlm >=0.7 o formato testuale legacy)
     try:
-        match = re.search(r"ID:\s*([a-fA-F0-9-]+)", res)
-        nb_id = match.group(1).strip() if match else res.split("ID:")[1].strip().split()[0].replace(')', '')
+        nb_id = None
+        json_start = res.find("{")
+        if json_start >= 0:
+            data = json.loads(res[json_start:])
+            nb_id = data.get("notebook_id") or data.get("id")
+        if not nb_id:
+            match = re.search(r"ID:\s*([a-fA-F0-9-]+)", res)
+            nb_id = match.group(1).strip() if match else res.split("ID:")[1].strip().split()[0].replace(')', '')
         log(f"Notebook creato: {nb_id}")
     except Exception as e:
         log(f"Impossibile estrarre ID Notebook: {e} | Output: {res}")
