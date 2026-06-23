@@ -1,35 +1,23 @@
-import os
-import sys
-import json
-import time
-import random
+import os, sys, json, time, random
 from google import genai
 from dotenv import load_dotenv
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from PIL import Image, ImageDraw, ImageFont
 
-# Carica .env dalla root del progetto
 load_dotenv("/Users/<USER>/Desktop/canale/.env")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-
 ASSETS_DIR = "/Users/<USER>/Desktop/canale/Temp/assets"
 OVERRIDE_PATH = os.path.join(ASSETS_DIR, "override_cover.png")
 
 def generate_cover(title, output_path="/tmp/active_cover.png"):
-    # --- 0. MECCANISMO DI OVERRIDE (ASSISTANT OVERDRIVE) ---
-    # Se Antigravity ha generato una copertina perfetta, la usiamo subito.
     if os.path.exists(OVERRIDE_PATH):
         import shutil
         shutil.copy(OVERRIDE_PATH, output_path)
-        # Non cancelliamo qui per permettere rigenerazioni se necessario, 
-        # ma l'assistente lo farà dopo la conferma.
         print(f"🚀 [OVERRIDE] Usando copertina Premium dell'Assistente: {output_path}")
         return output_path
 
-    # --- 1. TENTA LA GENERAZIONE NATIVA AI (IMAGEN 4.0) ---
     if GEMINI_API_KEY:
         client = genai.Client(api_key=GEMINI_API_KEY)
         try:
-            # Recupero contesto artistico Breve
             context_prompt = f"""
             Describe a striking, high-contrast comic book cover illustration for the topic: '{title}'.
             Style: High-contrast comic, vibrant orange, black and white palette. 
@@ -42,15 +30,15 @@ def generate_cover(title, output_path="/tmp/active_cover.png"):
             )
             context = context_response.text.strip()
             
-            # Prompt Imagen Potenziato
             prompt = f"""
-            A premium comic book cover illustration. 
-            Palette: STRICTLY ONLY BLACK, ORANGE AND WHITE. 
-            Style: High-contrast comic book cover, bold ink shadows, dramatic lighting. 
+            A premium comic book cover illustration. Format: exactly Square 1:1.
+            Palette: STRICTLY ONLY BLACK, ORANGE AND WHITE. You must use vibrant orange.
+            Style: High-contrast comic book cover graphic novel style, bold ink shadows, halftone dots, dramatic lighting. 
             Subject: {context}. 
             Integrated Title Text: '{title.upper()}'. 
-            The text must be part of the comic design, bold and impactful, using white or orange for maximum contrast.
-            CRITICAL: NO watermarks, NO barcodes, NO price tags, NO volume numbers, NO editor logos, NO dates. 
+            The ONLY text allowed is EXACTLY '{title.upper()}'. The text MUST be natively integrated into the comic art itself (like a classic comic book masthead), NOT on a flat solid color block.
+            The lettering must be bold, dynamic comic-book style text.
+            CRITICAL: NO watermarks, NO barcodes, NO publisher logos, NO dates, NO extra words in corners. 
             Clean, professional graphic design.
             """
             
@@ -64,45 +52,23 @@ def generate_cover(title, output_path="/tmp/active_cover.png"):
             if result.generated_images:
                 with open(output_path, 'wb') as f:
                     f.write(result.generated_images[0].image.image_bytes)
-                print(f"✅ Successo Imagen: {output_path}")
+                
+                # SOP: Enforce 1:1 and remove edge watermarks via slight center crop (Inpainting alternative)
+                img = Image.open(output_path)
+                w, h = img.size
+                if w != 1024 or h != 1024:
+                    img = img.resize((1024, 1024), Image.Resampling.LANCZOS)
+                
+                # Crop 4% off the edges to remove barcodes/corner logos without using black boxes
+                crop_margin = int(1024 * 0.04)
+                img_cropped = img.crop((crop_margin, crop_margin, 1024 - crop_margin, 1024 - crop_margin))
+                img_final = img_cropped.resize((1024, 1024), Image.Resampling.LANCZOS)
+                img_final.save(output_path)
+                
+                print(f"✅ Successo Imagen (Cropped edges for watermark removal): {output_path}")
                 return output_path
         except Exception as e:
             print(f"⚠️ Imagen Error: {e}")
-
-    # --- 2. FALLBACK MINIMALISTA (NO TEMPLATE STATICI) ---
-    print("[*] Fallback: Generazione Grafica Minimale...")
-    # Crea un'immagine bianca/arancione con testo se Imagen fallisce
-    img = Image.new('RGB', (1024, 1024), color=(255, 255, 255)) # Bianco fallback
-    draw = ImageDraw.Draw(img)
-    
-    # Sfondo arancio parziale o pattern
-    draw.rectangle([0, 0, 1024, 200], fill=(255, 140, 0)) # Header Arancio
-    
-    # Font IMPACT (Standard Mac)
-    font_path = "/System/Library/Fonts/Supplemental/Impact.ttf"
-    if not os.path.exists(font_path): font_path = "/System/Library/Fonts/Helvetica.ttc"
-    
-    import textwrap
-    font_size = 140
-    lines = textwrap.wrap(title.upper(), width=10)
-    
-    while font_size > 60:
-        font = ImageFont.truetype(font_path, font_size)
-        total_h = sum([draw.textbbox((0, 0), l, font=font)[3] - draw.textbbox((0, 0), l, font=font)[1] + 20 for l in lines])
-        if total_h < 850: break
-        font_size -= 10
-
-    y = (1024 - total_h) // 2
-    for line in lines:
-        bbox = draw.textbbox((0, 0), line, font=font)
-        w, h = bbox[2]-bbox[0], bbox[3]-bbox[1]
-        x = (1024 - w) // 2
-        draw.text((x+5, y+5), line, font=font, fill=(0,0,0,100)) # Shadow
-        draw.text((x, y), line, font=font, fill=(0, 0, 0)) # Text
-        y += h + 30
-
-    img.save(output_path)
-    return output_path
 
 if __name__ == "__main__":
     t = sys.argv[1] if len(sys.argv) > 1 else "TEST TITOLO"

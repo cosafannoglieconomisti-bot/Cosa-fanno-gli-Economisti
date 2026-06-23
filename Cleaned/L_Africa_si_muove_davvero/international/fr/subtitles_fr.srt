@@ -1,0 +1,639 @@
+1
+00:00:00,000 --> 00:00:05,500
+Bienvenue dans cette nouvelle analyse. Aujourd'hui, nous plongeons dans un article d'économie vraiment extraordinaire,
+
+2
+00:00:05,500 --> 00:00:11,660
+publié dans une revue économétrique, qui cartographie la mobilité intergénérationnelle dans 27 nations africaines.
+
+3
+00:00:11,660 --> 00:00:15,500
+Et l'échelle de cette recherche est tout simplement stupéfiante.
+
+4
+00:00:15,500 --> 00:00:19,039
+Nous parlons de données de recensement de plus de 16 millions d'individus,
+
+5
+00:00:19,039 --> 00:00:23,140
+utilisées pour reconstituer les trajectoires éducatives depuis les années 60.
+
+6
+00:00:23,140 --> 00:00:28,240
+C'est une exploration rigoureuse qui va au-delà des récits simplistes habituels sur le continent africain,
+
+7
+00:00:28,240 --> 00:00:32,579
+en se basant uniquement et exclusivement sur les chiffres, et les résultats sont surprenants.
+
+8
+00:00:32,579 --> 00:00:36,840
+Alors, l'Afrique bouge-t-elle vraiment, et qu'est-ce qui favorise réellement la réussite éducative ?
+
+9
+00:00:36,840 --> 00:00:38,740
+Eh bien, découvrons-le ensemble.
+
+10
+00:00:38,740 --> 00:00:41,620
+Voici notre plan d'action pour aujourd'hui.
+
+11
+00:00:41,620 --> 00:00:44,280
+Nous allons comprendre exactement ce qu'est la mobilité.
+
+12
+00:00:44,280 --> 00:00:46,920
+Nous jetterons un coup d'œil à la carte des opportunités.
+
+13
+00:00:46,920 --> 00:00:50,620
+Pour ensuite explorer le fossé profond entre ville et campagne.
+
+14
+00:00:50,620 --> 00:00:53,120
+Nous étudierons les racines historiques de tout cela,
+
+15
+00:00:53,120 --> 00:00:56,120
+nous résoudrons le dilemme entre environnement et sélection.
+
+16
+00:00:56,160 --> 00:01:00,660
+Enfin, nous comprendrons pourquoi le destin, heureusement, n'est pas du tout scellé.
+
+17
+00:01:00,660 --> 00:01:01,860
+Commençons.
+
+18
+00:01:01,860 --> 00:01:05,960
+Point numéro un, qu'est-ce que la mobilité intergénérationnelle ?
+
+19
+00:01:05,960 --> 00:01:12,040
+En somme, que signifie réellement faire un pas en avant par rapport à la génération précédente ?
+
+20
+00:01:12,040 --> 00:01:16,500
+Avant de pouvoir mesurer le progrès, il nous faut un indicateur clair et objectif.
+
+21
+00:01:16,500 --> 00:01:22,040
+Le concept centrale de cette étude est la mobilité intergénérationnelle ascendante absolue.
+
+22
+00:01:22,040 --> 00:01:24,780
+Cela semble compliqué, mais c'est en réalité très intuitif.
+
+23
+00:01:24,859 --> 00:01:28,340
+En économétrie, mesurer les revenus dans de nombreux pays en développement
+
+24
+00:01:28,340 --> 00:01:30,960
+est un véritable cauchemar car les données manquent.
+
+25
+00:01:30,960 --> 00:01:34,299
+Mais l'éducation, elle, est documentée de manière excellente.
+
+26
+00:01:34,299 --> 00:01:37,960
+Dans ce contexte africain, le véritable tournant pour l'avenir d'un enfant
+
+27
+00:01:37,960 --> 00:01:40,040
+est l'achèvement de l'école primaire.
+
+28
+00:01:40,040 --> 00:01:43,079
+Ainsi, notre question clé est simple mais puissante.
+
+29
+00:01:43,079 --> 00:01:48,280
+Quelle est la probabilité qu'un enfant, né de parents qui ne savent pas lire ou n'ont pas fini l'école primaire,
+
+30
+00:01:48,280 --> 00:01:50,439
+réussisse quant à lui à obtenir ce diplôme ?
+
+31
+00:01:50,519 --> 00:01:56,299
+Et pour répondre à cette question, les chercheurs n'ont pas pris deux ou trois petits échantillons au hasard,
+
+32
+00:01:56,299 --> 00:02:02,200
+ils ont analysé les données de pas moins de 16 millions de personnes, 16 millions,
+
+33
+00:02:02,200 --> 00:02:06,479
+et tout cela réparti dans 2 846 régions différentes,
+
+34
+00:02:06,479 --> 00:02:11,199
+un niveau de détail fou qui nous révèle non seulement les différences entre États,
+
+35
+00:02:11,199 --> 00:02:13,319
+mais aussi celles cachées en leur sein.
+
+36
+00:02:13,319 --> 00:02:18,060
+Et cela nous amène à la section deux : cartographier les opportunités en Afrique.
+
+37
+00:02:18,140 --> 00:02:21,740
+Un continent qui se révélera être un véritable puzzle de contrastes.
+
+38
+00:02:21,740 --> 00:02:26,819
+En observant comment se répartissent ces opportunités éducatives sur le territoire,
+
+39
+00:02:26,819 --> 00:02:31,020
+on remarque immédiatement des zones très claires de forte mobilité,
+
+40
+00:02:31,020 --> 00:02:33,819
+et des zones très sombres d'immobilité profonde.
+
+41
+00:02:33,819 --> 00:02:38,620
+Comme on peut le constater, la géographie des opportunités n'est pas du tout uniforme.
+
+42
+00:02:38,620 --> 00:02:42,620
+Il y a des nations qui brillent littéralement par leurs perspectives,
+
+43
+00:02:42,620 --> 00:02:47,699
+tandis que d'autres semblent bloquées dans un cercle vicieux de génération en génération.
+
+44
+00:02:47,740 --> 00:02:49,540
+Mettons les chiffres en perspective.
+
+45
+00:02:49,540 --> 00:02:51,620
+Dans des pays comme l'Afrique du Sud et le Botswana,
+
+46
+00:02:51,620 --> 00:02:54,500
+la probabilité que l'enfant de parents non instruits
+
+47
+00:02:54,500 --> 00:02:59,300
+achève l'école primaire dépasse les 70 %, un taux très élevé.
+
+48
+00:02:59,300 --> 00:03:03,060
+D'un autre côté, dans le Sahel ou dans des pays comme le Soudan et l'Éthiopie,
+
+49
+00:03:03,060 --> 00:03:06,700
+cette même probabilité s'effondre en dessous de 20 %.
+
+50
+00:03:06,700 --> 00:03:08,340
+Cela signifie que dans ces régions,
+
+51
+00:03:08,340 --> 00:03:10,540
+en naissant dans une famille sans éducation,
+
+52
+00:03:10,540 --> 00:03:15,460
+on a plus de 80 % de chances de rester à son tour sans éducation.
+
+53
+00:03:15,460 --> 00:03:17,340
+C'est un fossé gigantesque.
+
+54
+00:03:17,460 --> 00:03:19,500
+Mais le véritable génie de cette étude
+
+55
+00:03:19,500 --> 00:03:23,340
+est de nous montrer que le véritable fossé n'est pas souvent entre les nations,
+
+56
+00:03:23,340 --> 00:03:25,020
+mais bel et bien en leur sein.
+
+57
+00:03:25,020 --> 00:03:26,500
+Prenons le cas du Ghana.
+
+58
+00:03:26,500 --> 00:03:27,699
+Il y a un contraste net.
+
+59
+00:03:27,699 --> 00:03:30,259
+Dans le sud du pays, les opportunités sont incroyables.
+
+60
+00:03:30,259 --> 00:03:31,699
+Il y a énormément de mobilité.
+
+61
+00:03:31,699 --> 00:03:34,420
+Mais dès que l'on se déplace vers les districts du nord,
+
+62
+00:03:34,420 --> 00:03:37,020
+les perspectives s'assombrissent radicalement.
+
+63
+00:03:37,020 --> 00:03:38,340
+La nation est la même,
+
+64
+00:03:38,340 --> 00:03:42,500
+mais les chances d'une personne dépendent presque entièrement du district où elle est née.
+
+65
+00:03:42,500 --> 00:03:43,900
+Passons au point trois.
+
+66
+00:03:43,900 --> 00:03:46,580
+Le fossé entre zones urbaines et rurales.
+
+67
+00:03:46,660 --> 00:03:47,860
+Parce que, apparemment,
+
+68
+00:03:47,860 --> 00:03:48,860
+le lieu où l'on vit
+
+69
+00:03:48,860 --> 00:03:50,860
+fait toute la différence du monde.
+
+70
+00:03:50,860 --> 00:03:52,780
+En continuant à creuser les données,
+
+71
+00:03:52,780 --> 00:03:56,660
+un autre grand mur invisible émerge et divise le continent.
+
+72
+00:03:56,660 --> 00:03:59,660
+Vivre dans un centre urbain offre un élan énorme.
+
+73
+00:03:59,660 --> 00:04:01,580
+En moyenne, résider dans une zone urbaine
+
+74
+00:04:01,580 --> 00:04:03,380
+garantit une mobilité ascendante
+
+75
+00:04:03,380 --> 00:04:06,900
+supérieure de 18 % par rapport aux zones rurales.
+
+76
+00:04:06,900 --> 00:04:10,140
+Dans les campagnes africaines, il y a une force d'inertie très puissante.
+
+77
+00:04:10,140 --> 00:04:13,340
+Dépasser le niveau d'éducation de ses parents est beaucoup plus rare
+
+78
+00:04:13,340 --> 00:04:16,460
+et souvent, l'opportunité éducative est totalement absente.
+
+79
+00:04:16,620 --> 00:04:19,259
+Bien sûr, ce fossé n'est pas le même partout.
+
+80
+00:04:19,259 --> 00:04:21,819
+Dans les pays les plus pauvres, c'est un véritable gouffre.
+
+81
+00:04:21,819 --> 00:04:27,259
+En Éthiopie et au Burkina Faso, il y a une différence de pas moins de 40 points de pourcentage entre ville et campagne.
+
+82
+00:04:27,259 --> 00:04:28,459
+40.
+
+83
+00:04:28,459 --> 00:04:32,259
+Au contraire, en Afrique du Sud, elle se réduit à moins de 10 points de pourcentage.
+
+84
+00:04:32,259 --> 00:04:34,419
+Et il y a une autre donnée très intéressante.
+
+85
+00:04:34,419 --> 00:04:36,339
+En moyenne, au niveau continental,
+
+86
+00:04:36,339 --> 00:04:39,979
+les différences de mobilité entre garçons et filles sont minimes.
+
+87
+00:04:39,979 --> 00:04:43,819
+La seule exception notable se trouve dans la région du Sahel et en Afrique du Nord,
+
+88
+00:04:43,819 --> 00:04:46,779
+où subsiste un fort désavantage initial pour les filles.
+
+89
+00:04:46,779 --> 00:04:50,819
+Nous arrivons à la section 4 : d'où naissent ces différences,
+
+90
+00:04:50,819 --> 00:04:54,099
+les racines du développement, entre histoire et géographie.
+
+91
+00:04:54,099 --> 00:04:56,819
+Maintenant, la question cruciale.
+
+92
+00:04:56,819 --> 00:05:01,379
+Pourquoi certaines régions offrent-elles le monde et d'autres presque rien ?
+
+93
+00:05:01,379 --> 00:05:05,100
+Les données pointent directement vers la géographie et l'histoire.
+
+94
+00:05:05,100 --> 00:05:10,899
+Les régions avec la plus forte mobilité aujourd'hui sont généralement proches des côtes ou des capitales.
+
+95
+00:05:10,940 --> 00:05:14,700
+Incroyablement, même les zones montagneuses ou escarpées s'en sortent mieux
+
+96
+00:05:14,700 --> 00:05:18,100
+car historiquement, elles offraient un abri contre les chocs et les conflits.
+
+97
+00:05:18,100 --> 00:05:19,740
+Ensuite, il y a l'environnement.
+
+98
+00:05:19,740 --> 00:05:23,580
+Moins de paludisme signifie une meilleure santé et donc plus de développement.
+
+99
+00:05:23,580 --> 00:05:25,780
+Et enfin l'empreinte historique.
+
+100
+00:05:25,780 --> 00:05:29,660
+Les districts traversés par les chemins de fer coloniaux ou ceux qui abritaient
+
+101
+00:05:29,660 --> 00:05:32,220
+des missions chrétiennes et leurs écoles
+
+102
+00:05:32,220 --> 00:05:35,700
+affichent des taux de mobilité incroyablement plus élevés.
+
+103
+00:05:35,700 --> 00:05:38,940
+Aujourd'hui encore, des décennies après l'indépendance.
+
+104
+00:05:38,980 --> 00:05:41,779
+Savez-vous quel est le fil conducteur de tout cela ?
+
+105
+00:05:41,779 --> 00:05:44,019
+L'alphabétisation initiale.
+
+106
+00:05:44,019 --> 00:05:49,219
+Tous ces facteurs historiques ont déterminé qui a appris à lire il y a plusieurs générations.
+
+107
+00:05:49,219 --> 00:05:52,620
+L'inertie dont parle le document est presque imparable.
+
+108
+00:05:52,620 --> 00:05:56,300
+Les différences de taux d'éducation de la génération la plus âgée
+
+109
+00:05:56,300 --> 00:06:01,259
+expliquent à elles seules environ 50 % des disparités spatiales que nous observons aujourd'hui.
+
+110
+00:06:01,259 --> 00:06:05,779
+Le passé continue de projeter une ombre géante et persistante sur le présent.
+
+111
+00:06:05,820 --> 00:06:09,780
+Section 5 : effet de l'environnement ou sélection.
+
+112
+00:06:09,780 --> 00:06:13,140
+Essayons de démêler ce casse-tête causal.
+
+113
+00:06:13,140 --> 00:06:16,300
+Cela nous amène au véritable cœur économique de la question.
+
+114
+00:06:16,300 --> 00:06:19,420
+Un dilemme classique de la poule et de l'œuf.
+
+115
+00:06:19,420 --> 00:06:22,900
+Nous venons de voir que certaines régions offrent une grande mobilité.
+
+116
+00:06:22,900 --> 00:06:27,300
+Mais est-ce vraiment la région en soi avec ses infrastructures qui fait s'épanouir les enfants ?
+
+117
+00:06:27,300 --> 00:06:31,940
+Ou ces zones semblent-elles vertueuses uniquement parce qu'elles sont pleines de familles hyper-motivées
+
+118
+00:06:31,980 --> 00:06:36,939
+qui, accordant une valeur immense aux études, ont simplement décidé de s'installer précisément là ?
+
+119
+00:06:36,939 --> 00:06:40,300
+C'est un véritable jeu de tir à la corde entre deux forces.
+
+120
+00:06:40,300 --> 00:06:42,980
+D'un côté, nous avons l'effet de sélection.
+
+121
+00:06:42,980 --> 00:06:47,899
+Les parents enclins à investir dans leurs enfants s'installent activement dans les meilleurs districts.
+
+122
+00:06:47,899 --> 00:06:50,819
+De l'autre, l'effet d'exposition.
+
+123
+00:06:50,819 --> 00:06:56,259
+L'idée qu'un lieu en soi ait le pouvoir de changer le cours de la vie d'un enfant,
+
+124
+00:06:56,259 --> 00:06:59,300
+indépendamment du milieu d'origine de sa famille.
+
+125
+00:06:59,340 --> 00:07:04,340
+Mais comment les chercheurs ont-ils fait pour séparer mathématiquement ces deux dynamiques ?
+
+126
+00:07:04,340 --> 00:07:06,379
+La solution trouvée est géniale.
+
+127
+00:07:06,379 --> 00:07:11,180
+Les chercheurs ont épluché les données sur les migrants internes, en isolant les enfants dont les familles
+
+128
+00:07:11,180 --> 00:07:13,020
+ont déménagé dans de nouvelles régions.
+
+129
+00:07:13,020 --> 00:07:16,379
+En traçant la différence de qualité entre destination et origine,
+
+130
+00:07:16,379 --> 00:07:21,540
+ils ont pu mesurer les résultats éducatifs des jeunes en fonction de l'âge exact auquel ils ont déménagé.
+
+131
+00:07:21,540 --> 00:07:22,939
+Présentons les choses ainsi.
+
+132
+00:07:22,939 --> 00:07:27,660
+Si un enfant arrive à l'âge de deux ans dans une région de premier plan, son parcours sera différent de celui de son frère
+
+133
+00:07:27,660 --> 00:07:31,580
+qui y arrive à 14 ans, alors que l'école primaire appartient déjà au passé.
+
+134
+00:07:31,580 --> 00:07:35,980
+Et en comparant précisément l'éducation des frères et sœurs au sein d'une même famille,
+
+135
+00:07:35,980 --> 00:07:39,940
+les chercheurs ont isolé la réponse avec une précision chirurgicale.
+
+136
+00:07:39,940 --> 00:07:44,860
+Le verdict : les deux dynamiques sont réelles et opèrent en même temps.
+
+137
+00:07:44,860 --> 00:07:50,460
+Les chiffres parlent d'eux-mêmes, la sélection est massive et explique environ deux tiers des différences totales.
+
+138
+00:07:50,460 --> 00:07:53,379
+En somme, ceux qui cherchent des opportunités déménagent.
+
+139
+00:07:53,379 --> 00:07:57,580
+Mais cet effet d'exposition à l'environnement est indéniable, et c'est la clé de voûte.
+
+140
+00:07:57,699 --> 00:08:01,579
+Chaque année supplémentaire qu'un enfant passe dans un district à forte mobilité,
+
+141
+00:08:01,579 --> 00:08:07,180
+avant d'avoir atteint l'âge de douze ans, augmente sensiblement ses chances d'achever l'école primaire.
+
+142
+00:08:07,180 --> 00:08:12,659
+Les données nous indiquent que la fenêtre temporelle critique pour changer une vie se situe entre 5 et 11 ans.
+
+143
+00:08:12,659 --> 00:08:17,939
+L'environnement dans lequel sont passées ces années a un impact direct et causal sur la réussite future.
+
+144
+00:08:17,939 --> 00:08:20,060
+Et nous arrivons à la fin de notre voyage.
+
+145
+00:08:20,060 --> 00:08:24,299
+Point 6 : Le destin n'est pas scellé. Regardons vers l'avenir.
+
+146
+00:08:24,420 --> 00:08:29,139
+En résumé, l'analyse brosse un tableau grandiose mais logique.
+
+147
+00:08:29,139 --> 00:08:36,460
+La géographie et l'histoire séculaire de l'Afrique ont planté les graines des grandes disparités initiales d'alphabétisation.
+
+148
+00:08:36,460 --> 00:08:42,340
+Ces graines ont germé en une forte inertie, renforcée aujourd'hui par deux moteurs.
+
+149
+00:08:42,340 --> 00:08:46,299
+Les familles motivées qui s'installent vers les meilleures zones
+
+150
+00:08:46,299 --> 00:08:52,340
+et l'impact réel, tangible et transformateur que ces régions ont sur les enfants qui y grandissent.
+
+151
+00:08:52,460 --> 00:08:57,700
+Et c'est précisément cette preuve empirique qui nous laisse avec une réflexion finale puissante.
+
+152
+00:08:57,700 --> 00:09:01,620
+Si nous savons avec certitude que grandir dans un environnement différent durant l'enfance
+
+153
+00:09:01,620 --> 00:09:04,860
+modifie littéralement le destin éducatif d'une personne,
+
+154
+00:09:04,860 --> 00:09:10,100
+comment les politiques de développement devraient-elles repenser la lutte contre les inégalités spatiales ?
+
+155
+00:09:10,100 --> 00:09:14,460
+Comment faire en sorte que l'Afrique entière, et pas seulement quelques districts chanceux,
+
+156
+00:09:14,460 --> 00:09:17,139
+s'élève réellement ?
+
+157
+00:09:17,139 --> 00:09:19,220
+C'est l'interrogation cruciale
+
+158
+00:09:19,220 --> 00:09:21,980
+que ces 16 millions de données nous lancent aujourd'hui,
+
+159
+00:09:21,980 --> 00:09:24,980
+et c'est une question à laquelle nous ne pouvons plus nous soustraire.
+
+160
+00:09:24,980 --> 00:09:27,980
+Merci d'avoir été avec nous, à la prochaine analyse.

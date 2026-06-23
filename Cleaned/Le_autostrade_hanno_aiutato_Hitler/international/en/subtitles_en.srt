@@ -1,0 +1,539 @@
+1
+00:00:00,000 --> 00:00:02,240
+Well, let's kick off this deep dive.
+
+2
+00:00:02,240 --> 00:00:06,400
+Today we will explore an incredibly complex historical dynamic, but we will do it in a
+
+3
+00:00:06,400 --> 00:00:10,720
+slightly different way than usual, namely through the rigorous lens of data and political
+
+4
+00:00:10,720 --> 00:00:11,720
+economy.
+
+5
+00:00:11,720 --> 00:00:14,599
+The exact title of our analysis today is just that.
+
+6
+00:00:14,599 --> 00:00:16,879
+The highways helped Hitler.
+
+7
+00:00:16,879 --> 00:00:20,600
+We will examine, in a purely objective way, a fascinating study, to say the least, published
+
+8
+00:00:20,600 --> 00:00:25,000
+in the American Economic Journal, analyzing a literal mountain of data from the era,
+
+9
+00:00:25,000 --> 00:00:28,760
+the authors sought to quantify exactly how major public works
+
+10
+00:00:28,760 --> 00:00:31,160
+can manipulate political support.
+
+11
+00:00:31,160 --> 00:00:36,280
+It is a meticulous academic investigation that will guide us through numbers, maps, and surprising methodologies,
+
+12
+00:00:36,280 --> 00:00:37,679
+in short, let's get started.
+
+13
+00:00:37,679 --> 00:042,359
+All this research starts from a question that, if we think about it, is truly profound
+
+14
+00:00:42,359 --> 00:00:44,799
+when analyzing the rise of totalitarian regimes.
+
+15
+00:00:44,799 --> 00:00:48,680
+How does a dictator, who at the beginning is openly opposed by large segments of the
+
+16
+00:00:48,680 --> 00:00:52,439
+population, manage to obtain almost total consensus within a few months?
+
+17
+00:00:52,439 --> 00:00:56,680
+It is a crucial question, because power is not consolidated by intimidation
+
+18
+00:00:56,680 --> 00:00:57,680
+or repression alone.
+
+19
+00:00:57,679 --> 00:00:59,039
+Something more is needed.
+
+20
+00:00:59,039 --> 00:01:03,240
+A true dictatorship, the kind that also feeds on real popular support, requires
+
+21
+00:01:03,240 --> 00:01:06,319
+literally perfect mechanisms of mass persuasion.
+
+22
+00:01:06,319 --> 00:01:11,599
+And this brings us to section 3, democracy in danger, because history reminds us
+
+23
+00:01:11,599 --> 00:01:15,760
+that authoritarian regimes rarely rule by force alone.
+
+24
+00:01:15,760 --> 00:01:21,200
+To truly root power, there is a need to manufacture tangible popular support,
+
+25
+00:01:21,200 --> 00:01:25,760
+and looking at this timeline, the speed of this transformation is impressive.
+
+26
+00:01:25,760 --> 00:01:31,320
+In March 1933 we have the last semi-free elections, and mind you, at that moment
+
+27
+00:01:31,320 --> 00:01:35,600
+a huge segment of the population was still actively and decisively opposing them.
+
+28
+00:01:35,600 --> 00:01:39,080
+Then in September 1933, something clicks.
+
+29
+00:01:39,080 --> 00:01:42,040
+The first stone of the new highway network is laid.
+
+30
+00:01:42,040 --> 00:01:46,920
+Barely two months later, in November 1933, voting takes place again with only one party
+
+31
+00:01:46,920 --> 00:01:47,920
+allowed.
+
+32
+00:01:47,920 --> 00:01:51,920
+The climate was one of total intimidation, but there were still those who defied the system by spoiling
+
+33
+00:01:51,920 --> 00:01:52,920
+their ballots.
+
+34
+00:01:52,920 --> 00:01:58,439
+The definitive turning point comes in August 1934; a plebiscite grants absolute powers
+
+35
+00:01:58,439 --> 00:02:01,840
+to the leadership, registering an unprecedented peak in support.
+
+36
+00:02:01,840 --> 00:02:04,240
+But what happened in such a short time?
+
+37
+00:02:04,240 --> 00:02:08,719
+The answer might lie in what we can define as an extremely
+
+38
+00:02:08,719 --> 00:02:09,719
+visible project.
+
+39
+00:02:09,719 --> 00:02:13,520
+Our number one suspect is the Autobahn itself.
+
+40
+00:02:13,520 --> 00:02:17,960
+Take a look at this map of the highway network in 1934.
+
+41
+00:02:17,960 --> 00:02:21,840
+Those thick, dark lines are the open construction sites. Do you notice anything strange about this
+
+42
+00:02:21,840 --> 00:02:22,840
+distribution?
+
+43
+00:02:22,840 --> 00:02:27,080
+Work began simultaneously in a myriad of completely disconnected points
+
+44
+00:02:27,080 --> 00:02:28,080
+from one another.
+
+45
+00:02:28,080 --> 00:02:31,400
+From the standpoint of engineering utility, it makes absolutely no sense.
+
+46
+00:02:31,400 --> 00:02:35,199
+It would have made much more sense to finish a functional section entirely first, right?
+
+47
+00:02:35,199 --> 00:02:36,199
+But instead, no.
+
+48
+00:02:36,199 --> 00:02:39,759
+From a political economy perspective, it was an incredibly calculated move.
+
+49
+00:02:39,759 --> 00:02:43,520
+The goal was to maximize the local visibility of the work so that the largest possible number
+
+50
+00:02:43,520 --> 00:02:47,560
+of citizens could literally see with their own eyes the excavators in action
+
+51
+00:02:47,560 --> 00:02:48,920
+right outside their doorstep.
+
+52
+00:02:49,200 --> 00:02:52,800
+And here we move on to the section, the proof of the votes.
+
+53
+00:02:52,800 --> 00:02:56,920
+Did all this strategic visibility actually shift the scale's needle,
+
+54
+00:02:56,920 --> 00:02:57,920
+literally?
+
+55
+00:02:57,920 --> 00:03:01,860
+The answer is imprinted in this heat map. It is the result of complex processing
+
+56
+00:03:01,860 --> 00:03:04,920
+of statistics, but the visual message is unmistakable.
+
+57
+00:03:04,920 --> 00:03:08,880
+The darkest red areas, which represent the highest electoral gains in favor
+
+58
+00:03:08,880 --> 00:03:15,160
+of the regime between 1933 and 1934, follow the lines of the new construction sites
+
+59
+00:03:15,160 --> 00:03:16,160
+almost to the millimeter.
+
+60
+00:03:16,160 --> 00:03:17,920
+There is a crazy correlation.
+
+61
+00:03:17,920 --> 00:03:22,320
+Wherever there was digging, local support spiked abnormally.
+
+62
+00:03:22,320 --> 00:03:27,040
+This intuition becomes rigorous statistical proof when looking at this graph.
+
+63
+00:03:27,040 --> 00:03:31,400
+On the horizontal axis, we have the distance in kilometers from the construction sites, while on the
+
+64
+00:03:31,400 --> 00:03:33,920
+vertical one is the change in votes.
+
+65
+00:03:33,920 --> 00:03:37,600
+Pay attention to those thin lines at the top of the gray columns.
+
+66
+00:03:37,600 --> 00:03:42,360
+Economists call them error bars, and in this case, they indicate a confidence interval
+
+67
+00:03:42,360 --> 00:03:44,360
+of 95%.
+
+68
+00:03:44,360 --> 00:03:47,320
+This means the data is scientifically bulletproof.
+
+69
+00:03:47,319 --> 00:03:51,639
+As we can see, electoral support made a drastic jump precisely in municipalities
+
+70
+00:03:51,639 --> 00:03:54,479
+located between zero and 20 kilometers from the works,
+
+71
+00:03:54,479 --> 00:03:59,159
+only to gradually drop as cities were located further from the
+
+72
+00:03:59,159 --> 00:04:00,159
+fresh concrete.
+
+73
+00:04:00,159 --> 00:04:05,959
+At this point, a classic methodological problem arises, which we address in the tenth section,
+
+74
+00:04:05,959 --> 00:04:07,680
+the route test.
+
+75
+00:04:07,680 --> 00:04:09,560
+The legitimate doubt is this.
+
+76
+00:04:09,560 --> 00:04:13,560
+Did the infrastructure generate popularity, or was it the regime that traced the
+
+77
+00:04:13,560 --> 00:04:16,680
+roads to reward regions that were already loyal to it?
+
+78
+00:04:16,680 --> 00:04:20,879
+To solve this enigma, the study brings into play the least-cost paths.
+
+79
+00:04:20,879 --> 00:04:25,040
+Let's imagine that a software program must calculate the most efficient route between two cities,
+
+80
+00:04:25,040 --> 00:04:29,840
+looking only at the conformation of the terrain, perhaps avoiding steep slopes or large rivers,
+
+81
+00:04:29,840 --> 00:04:32,160
+but totally ignoring politics.
+
+82
+00:04:32,160 --> 00:04:36,220
+Economists use these very virtual and purely geographical routes to isolate
+
+83
+00:04:36,220 --> 00:04:40,920
+the causal effect, stripping the data of any suspicion of political favoritism.
+
+84
+00:04:40,920 --> 00:04:45,840
+Look at how spectacular this overlap is: the theoretical least-cost routes, the thick gray
+
+85
+00:04:45,840 --> 00:04:50,880
+ones, match incredibly well with the sections of highway actually built, indicated
+
+86
+00:04:50,880 --> 00:04:51,880
+in black.
+
+87
+00:04:51,880 --> 00:04:55,080
+This clear correspondence proves an essential fact.
+
+88
+00:04:55,080 --> 00:04:59,320
+The highways followed a rigid and cold logic of geographical efficiency, not
+
+89
+00:04:59,320 --> 00:05:01,080
+electoral convenience.
+
+90
+00:05:01,080 --> 00:05:04,960
+This allows us to state with certainty that it was indeed the infrastructure that caused
+
+91
+00:05:04,960 --> 00:05:08,920
+a genuine boom in popularity in the areas crossed, and not vice versa.
+
+92
+00:05:08,920 --> 00:05:11,800
+But what exactly triggered this enthusiasm?
+
+93
+00:05:11,800 --> 00:05:15,000
+We come to the section, propaganda versus economy.
+
+94
+00:05:15,040 --> 00:05:17,480
+What really made people change their minds?
+
+95
+00:05:17,480 --> 00:05:20,680
+Was it real economic relief brought by the construction sites?
+
+96
+00:05:20,680 --> 00:05:23,480
+Or was it a masterful propaganda illusion?
+
+97
+00:05:23,480 --> 00:05:25,480
+The comparison is astounding.
+
+98
+00:05:25,480 --> 00:05:29,560
+In reality, the direct economic benefits of the construction sites were very scarce.
+
+99
+00:05:29,560 --> 00:05:33,800
+At the peak of activity, just over 100,000 workers were employed, which was
+
+100
+00:05:33,800 --> 00:05:37,560
+barely a drop in the ocean compared to the millions of unemployed at the time.
+
+101
+00:05:37,560 --> 00:05:42,439
+Furthermore, the data confirms that unemployment fell uniformly everywhere, throughout
+
+102
+00:05:42,439 --> 00:05:46,639
+the country, due to a general economic recovery unrelated to the highways.
+
+103
+00:05:46,639 --> 00:05:51,360
+The effect of the propaganda, however, was massive; it completely distorted reality,
+
+104
+00:05:51,360 --> 00:05:55,839
+convincing everyone that the recovery was solely and uniquely due to those public works.
+
+105
+00:05:55,839 --> 00:06:00,159
+They knew how to use mass media amplification in a terrifying way.
+
+106
+00:06:00,159 --> 00:06:04,959
+They organized live radio broadcasts so that the noise of jackhammers
+
+107
+00:06:04,959 --> 00:06:07,879
+would resound in living rooms across the nation.
+
+108
+00:06:07,879 --> 00:06:10,680
+The front pages of newspapers talked of nothing else,
+
+109
+00:06:10,680 --> 00:06:16,079
+orchestrating pompous inaugurations even for just a tiny completed kilometer.
+
+110
+00:06:16,079 --> 00:06:20,959
+And the ultimate proof is that the highest electoral peaks were recorded exactly in the
+
+111
+00:06:20,959 --> 00:06:25,519
+places where the construction sites coincided with excellent radio signal strength.
+
+112
+00:06:25,519 --> 00:06:30,280
+They turned a simple strip of asphalt into the tangible symbol of a nation
+
+113
+00:06:30,280 --> 00:06:32,759
+rising from economic stagnation.
+
+114
+00:06:32,759 --> 00:06:38,199
+Which brings us to draw our conclusions in the section, the power of perception.
+
+115
+00:06:38,240 --> 00:06:42,639
+The numbers we analyzed leave us with a clear lesson on how distant
+
+116
+00:06:42,639 --> 00:06:45,879
+reality can be from its public perception.
+
+117
+00:06:45,879 --> 00:06:51,019
+The evidence tells us that building highly visible infrastructure projects is a
+
+118
+00:06:51,019 --> 00:06:54,959
+formidable tool to consolidate autocratic power.
+
+119
+00:06:54,959 --> 00:06:56,759
+And not because of the work itself.
+
+120
+00:06:56,759 --> 00:07:01,399
+At the time, there were very few cars in circulation, the logistical benefits were
+
+121
+00:07:01,399 --> 00:07:05,719
+ridiculous, and the success of the Autobahn was 100% symbolic.
+
+122
+00:07:05,720 --> 00:07:11,600
+It sent a perfect message, creating the illusion of a highly competent, energetic government,
+
+123
+00:07:11,600 --> 00:07:16,720
+capable of resolving, with the force of concrete, all the instability that had characterized
+
+124
+00:07:16,720 --> 00:07:17,880
+the previous era.
+
+125
+00:07:17,880 --> 00:07:22,480
+And here is a final reflection that should set off an alarm bell
+
+126
+00:07:22,480 --> 00:07:23,480
+today.
+
+127
+00:07:23,480 --> 00:07:27,560
+Studying these dynamics of the past is the only real way to keep our eyes open
+
+128
+00:07:27,560 --> 00:07:28,560
+on the present.
+
+129
+00:07:28,560 --> 00:07:33,840
+How might giant and highly visible contemporary infrastructure projects—perhaps
+
+130
+00:07:33,840 --> 00:07:39,840
+immense stadiums in the desert, new pharaonic capitals, or colossal dams—mask
+
+131
+00:07:39,840 --> 00:07:44,640
+the real intentions and lack of freedom of today's authoritarian regimes?
+
+132
+00:07:44,640 --> 00:07:48,840
+Understanding the math behind historical events gives us a powerful weapon to read
+
+133
+00:07:48,840 --> 00:07:51,840
+our present with a much more critical spirit.
+
+134
+00:07:51,840 --> 00:07:56,160
+We hope this analysis has provided interesting insights, and we'll see you in the next
+
+135
+00:07:56,160 --> 00:07:56,960
+deep dive.

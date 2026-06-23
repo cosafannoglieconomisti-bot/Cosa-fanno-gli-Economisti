@@ -1,0 +1,539 @@
+1
+00:00:00,000 --> 00:00:02,240
+Gut, beginnen wir mit dieser Vertiefung.
+
+2
+00:00:02,240 --> 00:00:06,400
+Heute werden wir eine unglaublich komplexe historische Dynamik erforschen, aber wir werden es auf eine
+
+3
+00:00:06,400 --> 00:00:10,720
+etwas andere Weise tun, nämlich durch die rigorose Linse von Daten und der
+
+4
+00:00:10,720 --> 00:00:11,720
+politischen Ökonomie.
+
+5
+00:00:11,720 --> 00:00:14,599
+Der genaue Titel unserer heutigen Analyse lautet genau so.
+
+6
+00:00:14,599 --> 00:00:16,879
+Haben Autobahnen Hitler geholfen?
+
+7
+00:00:16,879 --> 00:00:20,600
+Wir werden eine gelinde gesagt faszinierende Studie rein objektiv untersuchen, die
+
+8
+00:00:20,600 --> 00:00:25,000
+im American Economic Journal veröffentlicht wurde, indem wir einen wahren Berg von Daten der damaligen Zeit analysieren,
+
+9
+00:00:25,000 --> 00:00:28,760
+versuchten die Autoren genau zu quantifizieren, wie große öffentliche Bauwerke
+
+10
+00:00:28,760 --> 00:00:31,160
+politische Zustimmung manipulieren können.
+
+11
+00:00:31,160 --> 00:00:36,280
+Es ist eine akribische akademische Untersuchung, die uns durch Zahlen, Karten und überraschende Methoden führen wird,
+
+12
+00:00:36,280 --> 00:00:37,679
+also, fangen wir an.
+
+13
+00:00:37,679 --> 00:00:42,359
+Diese ganze Forschung beginnt mit einer Frage, die, wenn wir genau darüber nachdenken, wirklich tiefgründig ist,
+
+14
+00:00:42,359 --> 00:00:44,799
+wenn man den Aufstieg totalitärer Regime analysiert.
+
+15
+00:00:44,799 --> 00:00:48,680
+Wie gelingt es einem Diktator, der anfangs offen von großen Teilen der
+
+16
+00:00:48,680 --> 00:00:52,439
+Bevölkerung abgelehnt wird, innerhalb weniger Monate fast vollständige Zustimmung zu erhalten?
+
+17
+00:00:52,439 --> 00:00:56,680
+Es ist eine entscheidende Frage, denn Macht konsolidiert sich nicht allein durch Einschüchterung
+
+18
+00:00:56,680 --> 00:00:57,680
+oder Unterdrückung.
+
+19
+00:00:57,679 --> 00:00:59,039
+Es braucht mehr.
+
+20
+00:00:59,039 --> 00:01:03,240
+Die wahre Diktatur, die sich auch von echter Volkszustimmung nährt, benötigt
+
+21
+00:01:03,240 --> 00:01:06,319
+buchstäblich perfekte Massenüberzeugungsmechanismen.
+
+22
+00:01:06,319 --> 00:01:11,599
+Und das bringt uns zu Abschnitt 3, Demokratie in Gefahr, denn die Geschichte erinnert uns daran,
+
+23
+00:01:11,599 --> 00:01:15,760
+dass autoritäre Regime selten nur mit Gewalt regieren.
+
+24
+00:01:15,760 --> 00:01:21,200
+Um die Macht wirklich zu verankern, bedarf es der Schaffung einer greifbaren Volksunterstützung,
+
+25
+00:01:21,200 --> 00:01:25,760
+und wenn man diese Zeitleiste betrachtet, ist die Geschwindigkeit dieser Transformation beeindruckend.
+
+26
+00:01:25,760 --> 00:01:31,320
+Im März 1933 fanden die letzten halbwegs freien Wahlen statt, und wohlgemerkt, zu diesem Zeitpunkt
+
+27
+00:01:31,320 --> 00:01:35,600
+leistete ein riesiger Teil der Bevölkerung noch aktiven und entschiedenen Widerstand.
+
+28
+00:01:35,600 --> 00:01:39,080
+Dann, im September 1933, geschah etwas.
+
+29
+00:01:39,080 --> 00:01:42,040
+Der Grundstein für das neue Autobahnnetz wird gelegt.
+
+30
+00:01:42,040 --> 00:01:46,920
+Nur zwei Monate später, im November 1933, wird erneut abgestimmt, mit nur einer zugelassenen
+
+31
+00:01:46,920 --> 00:01:47,920
+Partei.
+
+32
+00:01:47,920 --> 00:01:51,920
+Das Klima war von totaler Einschüchterung geprägt, aber es gab immer noch diejenigen, die das System herausforderten, indem sie
+
+33
+00:01:51,920 --> 00:01:52,920
+die Stimmzettel ungültig machten.
+
+34
+00:01:52,920 --> 00:01:58,439
+Die entscheidende Wende kam im August 1934: Ein Plebiszit sicherte der Führung absolute Macht
+
+35
+00:01:58,439 --> 00:02:01,840
+und verzeichnete einen beispiellosen Höhepunkt der Unterstützung.
+
+36
+00:02:01,840 --> 00:02:04,240
+Aber was geschah in so kurzer Zeit?
+
+37
+00:02:04,240 --> 00:02:08,719
+Die Antwort könnte in dem liegen, was wir als ein extrem
+
+38
+00:02:08,719 --> 00:02:09,719
+sichtbares Projekt bezeichnen können.
+
+39
+00:02:09,719 --> 00:02:13,520
+Unser Hauptverdächtiger ist die Autobahn.
+
+40
+00:02:13,520 --> 00:02:17,960
+Werfen Sie einen Blick auf diese Karte des Autobahnnetzes im Jahr 1934.
+
+41
+00:02:17,960 --> 00:02:21,840
+Diese dunklen, dicken Linien sind die offenen Baustellen, bemerken Sie etwas Merkwürdiges an dieser
+
+42
+00:02:21,840 --> 00:02:22,840
+Verteilung?
+
+43
+00:02:22,840 --> 00:02:27,080
+Die Arbeiten begannen gleichzeitig an einer Vielzahl von völlig voneinander unabhängigen Stellen,
+
+44
+00:02:27,080 --> 00:02:28,080
+untereinander.
+
+45
+00:02:28,080 --> 00:02:31,400
+Aus ingenieurtechnischer Sicht ist das ein völliger Unsinn.
+
+46
+00:02:31,400 --> 00:02:35,199
+Es hätte viel mehr Sinn gemacht, zuerst eine funktionale Strecke ganz fertigzustellen, oder?
+
+47
+00:02:35,199 --> 00:02:36,199
+Und doch nicht.
+
+48
+00:02:36,199 --> 00:02:39,759
+Aus Sicht der politischen Ökonomie war es ein unglaublich kalkulierter Schachzug.
+
+49
+00:02:39,759 --> 00:02:43,520
+Ziel war es, die lokale Sichtbarkeit des Projekts zu maximieren, damit die größtmögliche Anzahl
+
+50
+00:02:43,520 --> 00:02:47,560
+von Bürgern die Bagger buchstäblich vor ihrer Haustür in Aktion sehen konnte.
+
+51
+00:02:47,560 --> 00:02:48,920
+vor der Haustür.
+
+52
+00:02:49,200 --> 00:02:52,800
+Und hier kommen wir zum Abschnitt: Der Beweis der Stimmen.
+
+53
+00:02:52,800 --> 00:02:56,920
+Hat all diese strategische Sichtbarkeit tatsächlich das Zünglein an der Waage
+
+54
+00:02:56,920 --> 00:02:57,920
+bewegt?
+
+55
+00:02:57,920 --> 00:03:01,860
+Die Antwort steckt in dieser Wärmekarte, sie ist das Ergebnis komplexer statistischer
+
+56
+00:03:01,860 --> 00:03:04,920
+Berechnungen, aber die visuelle Botschaft ist unmissverständlich.
+
+57
+00:03:04,920 --> 00:03:08,880
+Die dunkelroten Zonen, die die höchsten Wahlgewinne zugunsten des
+
+58
+00:03:08,880 --> 00:03:15,160
+Regimes zwischen 1933 und 1934 darstellen, folgen fast auf den Millimeter genau den Linien der neuen
+
+59
+00:03:15,160 --> 00:03:16,160
+Autobahnbaustellen.
+
+60
+00:03:16,160 --> 00:03:17,920
+Es gibt eine verrückte Korrelation.
+
+61
+00:03:17,920 --> 00:03:22,320
+Wo gegraben wurde, schoss die lokale Zustimmung anomal in die Höhe.
+
+62
+00:03:22,320 --> 00:03:27,040
+Diese Erkenntnis wird zu einem rigorosen statistischen Beweis, wenn wir uns dieses Diagramm ansehen.
+
+63
+00:03:27,040 --> 00:03:31,400
+Auf der horizontalen Achse haben wir die Entfernung in Kilometern zu den Baustellen, während auf der
+
+64
+00:03:31,400 --> 00:03:33,920
+vertikalen Achse die Stimmenänderung dargestellt ist.
+
+65
+00:03:33,920 --> 00:03:37,600
+Achten Sie auf die dünnen Linien oben auf den grauen Säulen.
+
+66
+00:03:37,600 --> 00:03:42,360
+Ökonomen nennen sie Fehlerbalken, und in diesem Fall zeigen sie ein Konfidenzintervall
+
+67
+00:03:42,360 --> 00:03:44,360
+von 95 % an.
+
+68
+00:03:44,360 --> 00:03:47,320
+Das bedeutet, dass die Daten wissenschaftlich abgesichert sind.
+
+69
+00:03:47,319 --> 00:03:51,639
+Wie man sieht, stieg die Wahlunterstützung drastisch genau in den Gemeinden,
+
+70
+00:03:51,639 --> 00:03:54,479
+die zwischen null und 20 Kilometern von den Baustellen entfernt lagen.
+
+71
+00:03:54,479 --> 00:03:59,159
+Um dann allmählich zu sinken, je weiter die Städte vom frischen Beton
+
+72
+00:03:59,159 --> 00:04:00,159
+entfernt waren.
+
+73
+00:04:00,159 --> 00:04:05,959
+An diesem Punkt taucht ein klassisches methodologisches Problem auf, das wir im zehnten Abschnitt behandeln,
+
+74
+00:04:05,959 --> 00:04:07,680
+der Pfadtest.
+
+75
+00:04:07,680 --> 00:04:09,560
+Der legitime Zweifel ist folgender.
+
+76
+00:04:09,560 --> 00:04:13,560
+Hat die Infrastruktur die Popularität erzeugt, oder war es das Regime, das die
+
+77
+00:04:13,560 --> 00:04:16,680
+Straßen gebaut hat, um Regionen zu belohnen, die ihm bereits treu waren?
+
+78
+00:04:16,680 --> 00:04:20,879
+Um dieses Rätsel zu lösen, zieht die Studie die Wege mit minimalen Kosten heran.
+
+79
+00:04:20,879 --> 00:04:25,040
+Stellen wir uns vor, eine Software müsste die effizienteste Route zwischen zwei Städten berechnen,
+
+80
+00:04:25,040 --> 00:04:29,840
+nur auf die Beschaffenheit des Geländes achtend, vielleicht starke Steigungen oder große Flüsse vermeidend,
+
+81
+00:04:29,840 --> 00:04:32,160
+aber die Politik völlig ignorierend.
+
+82
+00:04:32,160 --> 00:04:36,220
+Die Ökonomen nutzen genau diese virtuellen und rein geografischen Routen, um den
+
+83
+00:04:36,220 --> 00:04:40,920
+kausalen Effekt aufzulösen, indem sie die Daten von jeglichem Verdacht politischer Bevorzugung befreien.
+
+84
+00:04:40,920 --> 00:04:45,840
+Sehen Sie sich diese Überlagerung an, die theoretischen Strecken mit minimalen Kosten, die grauen
+
+85
+00:04:45,840 --> 00:04:50,880
+dicken, stimmen erstaunlich gut mit den tatsächlich gebauten Autobahnabschnitten überein, die in
+
+86
+00:04:50,880 --> 00:04:51,880
+Schwarz dargestellt sind.
+
+87
+00:04:51,880 --> 00:04:55,080
+Diese klare Übereinstimmung beweist eine wesentliche Tatsache.
+
+88
+00:04:55,080 --> 00:04:59,320
+Die Autobahnen folgten einer strengen und klaren geografischen Effizienzlogik, nicht
+
+89
+00:04:59,320 --> 00:05:01,080
+einer Wahlbequemlichkeit.
+
+90
+00:05:01,080 --> 00:05:04,960
+Dies erlaubt uns, mit Sicherheit zu sagen, dass es gerade die Infrastruktur war, die
+
+91
+00:05:04,960 --> 00:05:08,920
+einen echten Popularitätsschub in den durchquerten Gebieten verursachte, und nicht umgekehrt.
+
+92
+00:05:08,920 --> 00:05:11,800
+Aber was genau löste diese Begeisterung aus?
+
+93
+00:05:11,800 --> 00:05:15,000
+Wir kommen zum Abschnitt: Propaganda gegen Wirtschaft.
+
+94
+00:05:15,040 --> 00:05:17,480
+Was hat die Menschen wirklich umgestimmt?
+
+95
+00:05:17,480 --> 00:05:20,680
+War es eine echte wirtschaftliche Erleichterung durch die Baustellen?
+
+96
+00:05:20,680 --> 00:05:23,480
+Oder war es eine meisterhafte Propaganda-Illusion?
+
+97
+00:05:23,480 --> 00:05:25,480
+Der Vergleich ist verblüffend.
+
+98
+00:05:25,480 --> 00:05:29,560
+Die direkten wirtschaftlichen Vorteile der Baustellen waren in Wirklichkeit äußerst gering.
+
+99
+00:05:29,560 --> 00:05:33,800
+Auf dem Höhepunkt der Aktivitäten waren etwas mehr als 100.000 Arbeiter beschäftigt, was
+
+100
+00:05:33,800 --> 00:05:37,560
+kaum ein Tropfen auf den heißen Stein war im Vergleich zu den Millionen von Arbeitslosen der damaligen Zeit.
+
+101
+00:05:37,560 --> 00:05:42,439
+Übrigens bestätigen die Daten, dass die Arbeitslosigkeit überall gleichmäßig im ganzen
+
+102
+00:05:42,439 --> 00:05:46,639
+Land zurückging, aufgrund einer allgemeinen wirtschaftlichen Erholung, die unabhängig von den Autobahnen war.
+
+103
+00:05:46,639 --> 00:05:51,360
+Der Effekt der Propaganda hingegen war gewaltig, er verzerrte die Realität völlig,
+
+104
+00:05:51,360 --> 00:05:55,839
+indem er alle davon überzeugte, dass die Erholung einzig und allein auf diese öffentlichen Bauprojekte zurückzuführen sei.
+
+105
+00:05:55,839 --> 00:06:00,159
+Sie verstanden es, die Verstärkung der Massenmedien auf erschreckende Weise zu nutzen.
+
+106
+00:06:00,159 --> 00:06:04,959
+Sie organisierten Live-Radiosendungen, damit das Dröhnen der Presslufthämmer
+
+107
+00:06:04,959 --> 00:06:07,879
+abends in den Wohnzimmern der ganzen Nation widerhallte.
+
+108
+00:06:07,879 --> 00:06:10,680
+Die Titelseiten der Zeitungen sprachen von nichts anderem,
+
+109
+00:06:10,680 --> 00:06:16,079
+orchestrierten pompöse Einweihungsfeiern, selbst für nur einen winzigen fertiggestellten Kilometer.
+
+110
+00:06:16,079 --> 00:06:20,959
+Und der ultimative Beweis ist, dass die höchsten Wahlspitzen genau an den
+
+111
+00:06:20,959 --> 00:06:25,519
+Orten verzeichnet wurden, an denen die Baustellen mit einer hervorragenden Radioempfangsstärke zusammenfielen.
+
+112
+00:06:25,519 --> 00:06:30,280
+Sie verwandelten einen einfachen Asphaltstreifen in das greifbare Symbol einer Nation,
+
+113
+00:06:30,280 --> 00:06:32,759
+die aus der wirtschaftlichen Stagnation auferstand.
+
+114
+00:06:32,759 --> 00:06:38,199
+Was uns dazu bringt, die Fäden des Diskurses im Abschnitt Die Macht der Wahrnehmung zusammenzuführen.
+
+115
+00:06:38,240 --> 00:06:42,639
+Die Zahlen, die wir analysiert haben, hinterlassen uns eine klare Lektion darüber, wie weit die
+
+116
+00:06:42,639 --> 00:06:45,879
+Realität von ihrer öffentlichen Wahrnehmung entfernt sein kann.
+
+117
+00:06:45,879 --> 00:06:51,019
+Die Beweise zeigen uns, dass die Realisierung hoch sichtbarer Infrastrukturprojekte ein
+
+118
+00:06:51,019 --> 00:06:54,959
+formidables Instrument ist, um autokratische Macht zu konsolidieren.
+
+119
+00:06:54,959 --> 00:06:56,759
+Und nicht wegen des Werkes an sich.
+
+120
+00:06:56,759 --> 00:07:01,399
+Zu jener Zeit gab es nur sehr wenige Autos, die logistischen Vorteile waren
+
+121
+00:07:01,399 --> 00:07:05,719
+lächerlich, der Erfolg der Autobahn war zu 100% symbolisch.
+
+122
+00:07:05,720 --> 00:07:11,600
+Sie sendete eine perfekte Botschaft, schuf die Illusion einer hochkompetenten, energischen
+
+123
+00:07:11,600 --> 00:07:16,720
+und fähigen Regierung, die in der Lage war, mit der Kraft des Betons all die Instabilität zu lösen, die die
+
+124
+00:07:16,720 --> 00:07:17,880
+vorherige Ära geprägt hatte.
+
+125
+00:07:17,880 --> 00:07:22,480
+Und hier ist eine abschließende Überlegung, die heute eine Alarmglocke läuten
+
+126
+00:07:22,480 --> 00:07:23,480
+sollte.
+
+127
+00:07:23,480 --> 00:07:27,560
+Die Untersuchung dieser Dynamiken der Vergangenheit ist der einzig wahre Weg, die Augen offen zu halten
+
+128
+00:07:27,560 --> 00:07:28,560
+für die Gegenwart.
+
+129
+00:07:28,560 --> 00:07:33,840
+Wie könnten gigantische und höchst sichtbare zeitgenössische Infrastrukturprojekte, vielleicht
+
+130
+00:07:33,840 --> 00:07:39,840
+riesige Stadien in der Wüste, neue pharaonische Hauptstädte oder kolossale Dämme, die wahren Absichten und die mangelnde Freiheit
+
+131
+00:07:39,840 --> 00:07:44,640
+der heutigen autoritären Regime verschleiern?
+
+132
+00:07:44,640 --> 00:07:48,840
+Die Mathematik hinter historischen Ereignissen zu verstehen, gibt uns eine sehr mächtige Waffe, um
+
+133
+00:07:48,840 --> 00:07:51,840
+unsere Gegenwart mit einem viel kritischeren Geist zu lesen.
+
+134
+00:07:51,840 --> 00:07:56,160
+Wir hoffen, dass diese Analyse interessante Einblicke geliefert hat, und wir sehen uns bei der nächsten
+
+135
+00:07:56,160 --> 00:07:56,960
+Vertiefung.
