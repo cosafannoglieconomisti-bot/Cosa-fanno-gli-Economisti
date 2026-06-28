@@ -1,0 +1,715 @@
+1
+00:00:00,000 --> 00:00:02,500
+Bienvenidos a este nuevo análisis.
+
+2
+00:00:02,500 --> 00:00:06,780
+Hoy exploramos un artículo de economía literalmente fascinante.
+
+3
+00:00:06,780 --> 00:00:11,040
+La pregunta central que da título a nuestro análisis de hoy es esta.
+
+4
+00:00:11,040 --> 00:00:13,580
+¿Las persecuciones dejan cicatrices?
+
+5
+00:00:13,580 --> 00:00:17,900
+A menudo tendemos a pensar que el pasado es, en resumen, una página cerrada,
+
+6
+00:00:17,900 --> 00:00:21,640
+pero los datos que veremos revelan una realidad muy, muy diferente,
+
+7
+00:00:21,640 --> 00:00:24,160
+con consecuencias a larguísimo plazo.
+
+8
+00:00:24,160 --> 00:00:26,400
+Surge una pregunta realmente intrigante,
+
+9
+00:00:26,400 --> 00:00:29,400
+una especie de misterio para quien estudia economía.
+
+10
+00:00:29,400 --> 00:00:33,320
+¿El pasado remoto puede influir en la riqueza moderna de una ciudad?
+
+11
+00:00:33,320 --> 00:00:35,160
+¿Es posible, o mejor dicho,
+
+12
+00:00:35,160 --> 00:00:40,800
+hay siquiera la mínima probabilidad de que eventos dramáticos ocurridos hace siglos y siglos
+
+13
+00:00:40,800 --> 00:00:44,100
+sigan dictando las disparidades económicas que vemos hoy?
+
+14
+00:00:44,100 --> 00:00:48,300
+Es como si el pasado proyectara una sombra gigantesca sobre el presente.
+
+15
+00:00:48,300 --> 00:00:51,140
+Así es como se desarrollará nuestra investigación hoy.
+
+16
+00:00:51,140 --> 00:00:53,800
+Seguiremos estas 5 etapas fundamentales.
+
+17
+00:00:53,800 --> 00:00:56,219
+Primero, un misterio económico español.
+
+18
+00:00:56,299 --> 00:00:58,679
+Segundo, nuestro principal sospechoso,
+
+19
+00:00:58,679 --> 00:01:00,359
+la Inquisición histórica.
+
+20
+00:01:00,359 --> 00:01:02,379
+Tercero, las pruebas del desarrollo.
+
+21
+00:01:02,379 --> 00:01:04,980
+Cuarto, falta de confianza y educación.
+
+22
+00:01:04,980 --> 00:01:07,420
+Y finalmente, las consecuencias en el presente.
+
+23
+00:01:07,420 --> 00:01:10,659
+Un viaje riguroso y basado exclusivamente en datos.
+
+24
+00:01:10,659 --> 00:01:11,799
+Empecemos ahora.
+
+25
+00:01:11,799 --> 00:01:12,900
+Punto primero.
+
+26
+00:01:12,900 --> 00:01:17,000
+Un misterio económico español: investigar las modernas disparidades de riqueza.
+
+27
+00:01:17,000 --> 00:01:21,700
+Analizando el rendimiento económico actual en varias municipalidades españolas,
+
+28
+00:01:21,700 --> 00:01:25,099
+los investigadores han notado diferencias enormes.
+
+29
+00:01:25,100 --> 00:01:30,220
+Diferencias que, francamente, no podían explicarse solo observando la conformación
+
+30
+00:01:30,220 --> 00:01:33,740
+geográfica. Observando el mapa de la España moderna,
+
+31
+00:01:33,740 --> 00:01:37,900
+salta a la vista que ciertas áreas están netamente más atrasadas.
+
+32
+00:01:37,900 --> 00:01:40,980
+Y esta brecha no concierne solo a la economía,
+
+33
+00:01:40,980 --> 00:01:44,180
+sino que se refleja fuertemente en los niveles de educación
+
+34
+00:01:44,180 --> 00:01:46,820
+y en lo que llamamos confianza social,
+
+35
+00:01:46,820 --> 00:01:51,060
+es decir, la propensión a colaborar serenamente en la vida cotidiana.
+
+36
+00:01:51,140 --> 00:01:55,100
+Así que, pongámonos por un momento en la piel de detectives históricos.
+
+37
+00:01:55,100 --> 00:02:00,100
+¿Qué mecanismo subterráneo podría alinearse con una precisión tan quirúrgica
+
+38
+00:02:00,100 --> 00:02:02,219
+con estas disparidades económicas actuales?
+
+39
+00:02:02,219 --> 00:02:05,500
+¿Qué factor, que ha permanecido oculto entre los pliegues del tiempo,
+
+40
+00:02:05,500 --> 00:02:07,740
+es capaz de trazar una línea tan neta
+
+41
+00:02:07,740 --> 00:02:10,939
+a través de la geografía económica de una nación moderna?
+
+42
+00:02:10,939 --> 00:02:14,939
+Y aquí entra en escena nuestro sospechoso número uno.
+
+43
+00:02:14,939 --> 00:02:18,379
+Punto segundo, la Inquisición histórica,
+
+44
+00:02:18,419 --> 00:02:22,539
+356 años de control del pensamiento.
+
+45
+00:02:22,539 --> 00:02:24,979
+Instituida en 1478,
+
+46
+00:02:24,979 --> 00:02:28,139
+la Inquisición española actuó durante más de tres siglos.
+
+47
+00:02:28,139 --> 00:02:30,620
+Hablamos de un aparato estatal de control social
+
+48
+00:02:30,620 --> 00:02:33,099
+y religioso increíblemente capilar.
+
+49
+00:02:33,099 --> 00:02:35,259
+Para entender realmente la magnitud de esta máquina,
+
+50
+00:02:35,259 --> 00:02:38,180
+los investigadores han reunido una base de datos colosal.
+
+51
+00:02:38,180 --> 00:02:41,939
+Hablamos de 67.521 procesos individuales,
+
+52
+00:02:41,939 --> 00:02:44,060
+todos minuciosamente registrados.
+
+53
+00:02:44,060 --> 00:02:47,699
+Una mole de datos nos permite mapear la intensidad de esta persecución
+
+54
+00:02:47,700 --> 00:02:50,780
+con una precisión nunca antes vista en la historia económica.
+
+55
+00:02:50,780 --> 00:02:54,380
+Ahora, analizando el mapa de intensidad elaborado en el artículo,
+
+56
+00:02:54,380 --> 00:02:56,260
+emerge un hecho clarísimo.
+
+57
+00:02:56,260 --> 00:02:59,740
+La persecución no fue para nada uniforme,
+
+58
+00:02:59,740 --> 00:03:01,220
+absolutamente no.
+
+59
+00:03:01,220 --> 00:03:04,260
+Las zonas más oscuras, los verdaderos puntos calientes,
+
+60
+00:03:04,260 --> 00:03:06,820
+se concentran evidentemente en el sur de España
+
+61
+00:03:06,820 --> 00:03:08,620
+y en algunas partes de Aragón.
+
+62
+00:03:08,620 --> 00:03:12,420
+Fue una represión selectiva, extremadamente localizada.
+
+63
+00:03:12,420 --> 00:03:15,380
+Pero, ¿cómo operaba en la práctica esta institución?
+
+64
+00:03:15,379 --> 00:03:18,620
+No estamos hablando de un guardia en cada esquina.
+
+65
+00:03:18,620 --> 00:03:22,859
+El sistema se basaba en dinámicas psicológicas muy específicas.
+
+66
+00:03:22,859 --> 00:03:25,979
+Un miedo dirigido, el uso constante de denuncias secretas
+
+67
+00:03:25,979 --> 00:03:28,219
+por parte de los propios vecinos
+
+68
+00:03:28,219 --> 00:03:30,939
+y castigos públicos, teatrales.
+
+69
+00:03:30,939 --> 00:03:34,620
+El objetivo era maximizar el terror dentro de la comunidad,
+
+70
+00:03:34,620 --> 00:03:36,939
+una verdadera pesadilla social.
+
+71
+00:03:36,939 --> 00:03:39,859
+Pasemos al punto tercero, las pruebas del desarrollo.
+
+72
+00:03:39,859 --> 00:03:44,460
+Veamos cómo esta persecución histórica se conecta con el PIB moderno.
+
+73
+00:03:44,460 --> 00:03:46,180
+Para medir la economía local,
+
+74
+00:03:46,180 --> 00:03:50,340
+los investigadores utilizaron indicadores modernos increíblemente precisos,
+
+75
+00:03:50,340 --> 00:03:53,180
+como la luminosidad nocturna detectada por los satélites
+
+76
+00:03:53,180 --> 00:03:54,860
+para estimar el PIB local.
+
+77
+00:03:54,860 --> 00:03:56,740
+Observando la distribución de los datos,
+
+78
+00:03:56,740 --> 00:04:00,420
+la línea continua representa las zonas sin ningún impacto de la Inquisición
+
+79
+00:04:00,420 --> 00:04:02,379
+que hoy presumen de los ingresos más altos.
+
+80
+00:04:02,379 --> 00:04:04,060
+En cambio, la línea con los triangulitos,
+
+81
+00:04:04,060 --> 00:04:07,580
+que representa las municipalidades con la máxima intensidad inquisitorial,
+
+82
+00:04:07,580 --> 00:04:09,740
+está claramente desplazada hacia la izquierda.
+
+83
+00:04:09,740 --> 00:04:11,420
+Significa que la economía actual,
+
+84
+00:04:11,420 --> 00:04:12,780
+en esas áreas específicas,
+
+85
+00:04:12,780 --> 00:04:15,740
+es visible e indiscutiblemente inferior.
+
+86
+00:04:15,740 --> 00:04:20,300
+Y este desplazamiento hacia la izquierda no es solo una curiosidad estadística,
+
+87
+00:04:20,300 --> 00:04:23,020
+tiene un impacto real y diría que devastador.
+
+88
+00:04:23,020 --> 00:04:24,819
+Hablamos de una penalidad económica
+
+89
+00:04:24,819 --> 00:04:28,180
+que se traduce en una caída neta de 1428 euros
+
+90
+00:04:28,180 --> 00:04:31,819
+en el ingreso medio anual para las áreas históricamente más perseguidas
+
+91
+00:04:31,819 --> 00:04:33,580
+en comparación con las que se salvaron.
+
+92
+00:04:33,580 --> 00:04:35,500
+1428 euros,
+
+93
+00:04:35,500 --> 00:04:39,060
+una cifra aterradora si se multiplica por toda una población.
+
+94
+00:04:39,180 --> 00:04:41,540
+En este punto, por puro rigor académico,
+
+95
+00:04:41,540 --> 00:04:43,620
+hay que probar la coartada perfecta.
+
+96
+00:04:43,620 --> 00:04:46,500
+¿Quizás la Inquisición atacaba precisamente las áreas
+
+97
+00:04:46,500 --> 00:04:48,420
+que ya eran pobres de por sí?
+
+98
+00:04:48,420 --> 00:04:50,819
+Si así fuera, toda la teoría se derrumbaría,
+
+99
+00:04:50,819 --> 00:04:54,060
+porque significaría que la Inquisición no causó la pobreza,
+
+100
+00:04:54,060 --> 00:04:57,060
+sino que solo siguió las huellas de áreas ya en declive.
+
+101
+00:04:57,060 --> 00:05:01,379
+Pues bien, los investigadores han desmantelado literalmente esta coartada
+
+102
+00:05:01,379 --> 00:05:03,939
+con un experimento natural ingenioso.
+
+103
+00:05:03,939 --> 00:05:05,779
+En el siglo XVI,
+
+104
+00:05:05,779 --> 00:05:08,220
+tener hospitales financiados localmente
+
+105
+00:05:08,220 --> 00:05:10,620
+era un enorme indicador de riqueza.
+
+106
+00:05:10,620 --> 00:05:12,180
+Y los datos hablan por sí mismos,
+
+107
+00:05:12,180 --> 00:05:15,220
+las áreas históricamente ricas y dotadas de hospitales
+
+108
+00:05:15,220 --> 00:05:18,700
+en realidad atrajeron mucha más actividad inquisitorial.
+
+109
+00:05:18,700 --> 00:05:22,460
+Y, sin embargo, esas mismas áreas, que antaño eran prósperas,
+
+110
+00:05:22,460 --> 00:05:26,740
+hoy se encuentran tristemente en los niveles más bajos de PIB per cápita.
+
+111
+00:05:26,740 --> 00:05:28,220
+Misterio resuelto.
+
+112
+00:05:28,220 --> 00:05:31,740
+Punto cuarto, falta de confianza y educación,
+
+113
+00:05:31,740 --> 00:05:35,660
+ha llegado el momento de descubrir los verdaderos mecanismos de este declive.
+
+114
+00:05:35,700 --> 00:05:38,460
+El punto crucial aquí es entender el movimiento.
+
+115
+00:05:38,460 --> 00:05:41,500
+¿Cómo hace, en la práctica, una institución antigua
+
+116
+00:05:41,500 --> 00:05:43,980
+para dejar una cicatriz tan profunda
+
+117
+00:05:43,980 --> 00:05:47,420
+como para bloquear el crecimiento económico de forma permanente?
+
+118
+00:05:47,420 --> 00:05:51,660
+Para entenderlo, debemos apartar la vista de los meros flujos de dinero.
+
+119
+00:05:51,660 --> 00:05:54,060
+La clave está oculta en los datos sociológicos
+
+120
+00:05:54,060 --> 00:05:56,300
+y en los relacionados con la educación.
+
+121
+00:05:56,300 --> 00:05:59,540
+Una represión de ese nivel trastorna literalmente
+
+122
+00:05:59,540 --> 00:06:01,940
+las motivaciones e incentivos humanos.
+
+123
+00:06:01,940 --> 00:06:04,180
+Los mecanismos que crearon esta cicatriz
+
+124
+00:06:04,180 --> 00:06:05,660
+son implacables.
+
+125
+00:06:05,660 --> 00:06:09,300
+Cuando un sistema alienta la denuncia secreta de los propios vecinos,
+
+126
+00:06:09,300 --> 00:06:11,579
+el tejido social se desgarra.
+
+127
+00:06:11,579 --> 00:06:15,340
+Sin confianza, las redes comerciales y la cooperación espontánea se derrumban.
+
+128
+00:06:15,340 --> 00:06:16,300
+No solo eso.
+
+129
+00:06:16,300 --> 00:06:19,259
+La Inquisición apuntaba directamente a la clase media instruida,
+
+130
+00:06:19,259 --> 00:06:21,579
+castigando duramente el pensamiento independiente.
+
+131
+00:06:21,579 --> 00:06:25,540
+El resultado, un enorme y crónico desincentivo hacia el estudio,
+
+132
+00:06:25,540 --> 00:06:28,420
+la educación superior y la investigación científica.
+
+133
+00:06:28,420 --> 00:06:33,420
+E increíblemente, los números aún hoy reflejan este trauma cultural.
+
+134
+00:06:33,460 --> 00:06:37,580
+Los datos nos muestran una reducción relativa del 5,6%
+
+135
+00:06:37,580 --> 00:06:40,180
+en las personas que completan la educación superior
+
+136
+00:06:40,180 --> 00:06:43,900
+en las áreas históricamente afectadas en comparación con el resto de la nación.
+
+137
+00:06:43,900 --> 00:06:46,180
+El capital humano fue sofocado
+
+138
+00:06:46,180 --> 00:06:48,500
+y ha permanecido suprimido en el tiempo.
+
+139
+00:06:48,500 --> 00:06:51,620
+Hay una cita en el artículo que resume perfectamente
+
+140
+00:06:51,620 --> 00:06:53,180
+esta tragedia silenciosa.
+
+141
+00:06:53,180 --> 00:06:55,740
+Afirma, la Inquisición proyectó una sombra
+
+142
+00:06:55,740 --> 00:06:57,500
+sobre todas las interacciones sociales,
+
+143
+00:06:57,500 --> 00:06:59,660
+minando la fuerza del capital social.
+
+144
+00:06:59,660 --> 00:07:01,900
+Sin confianza y cooperación mutua,
+
+145
+00:07:01,940 --> 00:07:05,500
+para una comunidad se vuelve casi imposible prosperar económicamente
+
+146
+00:07:05,500 --> 00:07:07,340
+o resolver problemas colectivos.
+
+147
+00:07:07,340 --> 00:07:11,060
+Es una limitación enorme que se transmite de generación en generación.
+
+148
+00:07:11,060 --> 00:07:13,220
+Y así llegamos al punto quinto,
+
+149
+00:07:13,220 --> 00:07:15,540
+las consecuencias en el presente.
+
+150
+00:07:15,540 --> 00:07:19,140
+La larga, inexorable sombra de la persecución.
+
+151
+00:07:19,140 --> 00:07:21,660
+Esta sombra no es en absoluto una teoría abstracta.
+
+152
+00:07:21,660 --> 00:07:24,580
+Es un lastre cuantificable que moldea el presente.
+
+153
+00:07:24,580 --> 00:07:27,540
+El costo económico acumulativo es asombroso.
+
+154
+00:07:27,540 --> 00:07:29,100
+Para las poblaciones afectadas,
+
+155
+00:07:29,140 --> 00:07:31,980
+se estima una reducción global del PIB per cápita
+
+156
+00:07:31,980 --> 00:07:34,020
+equivalente a unos 2.000 euros.
+
+157
+00:07:34,020 --> 00:07:35,620
+Es la demostración definitiva
+
+158
+00:07:35,620 --> 00:07:38,740
+de que esta cicatriz histórica es estadísticamente fuerte,
+
+159
+00:07:38,740 --> 00:07:42,620
+duradera y terriblemente perjudicial para el bienestar moderno.
+
+160
+00:07:42,620 --> 00:07:46,140
+La conclusión central de los investigadores es cristalina.
+
+161
+00:07:46,140 --> 00:07:48,379
+Choques históricos tan adversos,
+
+162
+00:07:48,379 --> 00:07:50,379
+en particular aquellos impulsados
+
+163
+00:07:50,379 --> 00:07:53,379
+por formas de represión extrema deseadas por el estado,
+
+164
+00:07:53,379 --> 00:07:56,540
+tienen el poder de atrapar a las sociedades.
+
+165
+00:07:56,660 --> 00:07:58,860
+Las encasillan en un ciclo permanente
+
+166
+00:07:58,860 --> 00:08:00,780
+y letal de baja confianza,
+
+167
+00:08:00,780 --> 00:08:03,260
+baja educación y bajos ingresos,
+
+168
+00:08:03,260 --> 00:08:06,260
+haciendo descarrilar la prosperidad de una región entera
+
+169
+00:08:06,260 --> 00:08:08,140
+por tiempo indefinido.
+
+170
+00:08:08,140 --> 00:08:10,860
+Y todo esto nos deja con un interrogante final
+
+171
+00:08:10,860 --> 00:08:12,939
+profundamente provocador.
+
+172
+00:08:12,939 --> 00:08:15,460
+Si una institución desmantelada hace siglos
+
+173
+00:08:15,460 --> 00:08:19,220
+aún hoy logra dictar los límites de la riqueza y el desarrollo,
+
+174
+00:08:19,220 --> 00:08:21,740
+¿qué cicatrices silenciosas y permanentes
+
+175
+00:08:21,740 --> 00:08:23,660
+están incidiendo en nuestro futuro
+
+176
+00:08:23,660 --> 00:08:26,620
+los actuales métodos de control totalitario?
+
+177
+00:08:26,620 --> 00:08:28,460
+Una reflexión que, sin duda, impulsa
+
+178
+00:08:28,460 --> 00:08:32,100
+a profundizar en los complejos e invisibles hilos de nuestra historia.
+
+179
+00:08:32,100 --> 00:08:33,899
+Hasta la próxima exploración.

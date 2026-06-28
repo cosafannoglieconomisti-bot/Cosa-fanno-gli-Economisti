@@ -1,0 +1,715 @@
+1
+00:00:00,000 --> 00:00:02,500
+Welcome to this new in-depth analysis.
+
+2
+00:00:02,500 --> 00:00:06,780
+Today, we're exploring a truly fascinating economics paper.
+
+3
+00:00:06,780 --> 00:00:11,040
+The central question that also gives its title to today's analysis is precisely this.
+
+4
+00:00:11,040 --> 00:00:13,580
+Do persecutions leave scars?
+
+5
+00:00:13,580 --> 00:00:17,900
+We often tend to think that the past is, in short, a closed chapter,
+
+6
+00:00:17,900 --> 00:00:21,640
+but the data we'll examine reveals a very, very different reality,
+
+7
+00:00:21,640 --> 00:00:24,160
+with very long-term consequences.
+
+8
+00:00:24,160 --> 00:00:26,400
+A truly intriguing question arises,
+
+9
+00:00:26,400 --> 00:00:29,400
+a kind of mystery for those who study economics.
+
+10
+00:00:29,400 --> 00:00:33,320
+Can the distant past influence a city's modern wealth?
+
+11
+00:00:33,320 --> 00:00:35,160
+Is it possible, or rather,
+
+12
+00:00:35,160 --> 00:00:40,800
+is there even the slightest chance that dramatic events that happened centuries ago
+
+13
+00:00:40,800 --> 00:00:44,100
+continue to dictate the economic disparities we see today?
+
+14
+00:00:44,100 --> 00:00:48,300
+It's as if the past casts a giant shadow over the present.
+
+15
+00:00:48,300 --> 00:00:51,140
+Here's how our investigation will unfold today.
+
+16
+00:00:51,140 --> 00:00:53,800
+We will follow these 5 fundamental steps.
+
+17
+00:00:53,800 --> 00:00:56,219
+First, a Spanish economic mystery.
+
+18
+00:00:56,299 --> 00:00:58,679
+Second, our main suspect,
+
+19
+00:00:58,679 --> 00:01:00,359
+the historical Inquisition.
+
+20
+00:01:00,359 --> 00:01:02,379
+Third, the evidence of development.
+
+21
+00:01:02,379 --> 00:01:04,980
+Fourth, missing trust and education.
+
+22
+00:01:04,980 --> 00:01:07,420
+And finally, the consequences in the present.
+
+23
+00:01:07,420 --> 00:01:10,659
+A rigorous journey based exclusively on data.
+
+24
+00:01:10,659 --> 00:01:11,799
+Let's start immediately.
+
+25
+00:01:11,799 --> 00:01:12,900
+Point one.
+
+26
+00:01:12,900 --> 00:01:17,000
+A Spanish economic mystery: investigating modern wealth disparities.
+
+27
+00:01:17,000 --> 00:01:21,700
+By analyzing today's economic performance in various Spanish municipalities,
+
+28
+00:01:21,700 --> 00:01:25,099
+researchers have noted enormous differences.
+
+29
+00:01:25,100 --> 00:01:30,220
+Differences that, frankly, could not be explained solely by looking at the geographical
+
+30
+00:01:30,220 --> 00:01:33,740
+configuration. Observing the map of modern Spain,
+
+31
+00:01:33,740 --> 00:01:37,900
+it immediately becomes clear that certain areas are significantly lagging behind.
+
+32
+00:01:37,900 --> 00:01:40,980
+And this divide doesn't only concern the economy,
+
+33
+00:01:40,980 --> 00:01:44,180
+but heavily impacts education levels
+
+34
+00:01:44,180 --> 00:01:46,820
+and what we call social trust,
+
+35
+00:01:46,820 --> 00:01:51,060
+meaning the inclination to cooperate peacefully in everyday life.
+
+36
+00:01:51,140 --> 00:01:55,100
+So, let's put on our historical detective hats for a moment.
+
+37
+00:01:55,100 --> 00:02:00,100
+What underlying mechanism could possibly align with such surgical precision
+
+38
+00:02:00,100 --> 00:02:02,219
+with these current economic disparities?
+
+39
+00:02:02,219 --> 00:02:05,500
+What factor, hidden in the folds of time,
+
+40
+00:02:05,500 --> 00:02:07,740
+is capable of drawing such a clear line
+
+41
+00:02:07,740 --> 00:02:10,939
+across the economic geography of a modern nation?
+
+42
+00:02:10,939 --> 00:02:14,939
+And here enters our prime suspect.
+
+43
+00:02:14,939 --> 00:02:18,379
+Point two, the historical Inquisition,
+
+44
+00:02:18,419 --> 00:02:22,539
+356 years of thought control.
+
+45
+00:02:22,539 --> 00:02:24,979
+Established in 1478,
+
+46
+00:02:24,979 --> 00:02:28,139
+the Spanish Inquisition operated for over three centuries.
+
+47
+00:02:28,139 --> 00:02:30,620
+We're talking about a state apparatus of social
+
+48
+00:02:30,620 --> 00:02:33,099
+and religious control that was incredibly pervasive.
+
+49
+00:02:33,099 --> 00:02:35,259
+To truly understand the extent of this machinery,
+
+50
+00:02:35,259 --> 00:02:38,180
+researchers compiled a colossal database.
+
+51
+00:02:38,180 --> 00:02:41,939
+We're talking about 67,521 individual trials,
+
+52
+00:02:41,939 --> 00:02:44,060
+all meticulously recorded.
+
+53
+00:02:44,060 --> 00:04:47,699
+This volume of data allows us to map the intensity of this persecution
+
+54
+00:04:47,700 --> 00:04:50,780
+with a precision never before seen in economic history.
+
+55
+00:04:50,780 --> 00:04:54,380
+Now, by analyzing the intensity map developed in the paper,
+
+56
+00:04:54,380 --> 00:04:56,260
+a very clear fact emerges.
+
+57
+00:04:56,260 --> 00:04:59,740
+The persecution was not uniform at all,
+
+58
+00:04:59,740 --> 00:05:01,220
+absolutely not.
+
+59
+00:05:01,220 --> 00:05:04,260
+The darker areas, the veritable hotspots,
+
+60
+00:05:04,260 --> 00:05:06,820
+are clearly concentrated in southern Spain
+
+61
+00:05:06,820 --> 00:05:08,620
+and in some parts of Aragon.
+
+62
+00:05:08,620 --> 00:05:12,420
+It was a targeted, extremely localized repression.
+
+63
+00:05:12,420 --> 00:05:15,380
+But how did this institution operate in practice?
+
+64
+00:05:15,379 --> 00:05:18,620
+We're not talking about guards on every street corner.
+
+65
+00:05:18,620 --> 00:05:22,859
+The system relied on very specific psychological dynamics.
+
+66
+00:05:22,859 --> 00:05:25,979
+Targeted fear, the constant use of secret denunciations
+
+67
+00:05:25,979 --> 00:05:28,219
+by neighbors themselves,
+
+68
+00:05:28,219 --> 00:05:30,939
+and public, blatant punishments.
+
+69
+00:05:30,939 --> 00:05:34,620
+The goal was to maximize terror within the community,
+
+70
+00:05:34,620 --> 00:05:36,939
+a true social nightmare.
+
+71
+00:05:36,939 --> 00:05:39,859
+Let's move to point three, the evidence of development.
+
+72
+00:05:39,859 --> 00:05:44,460
+Let's see how this historical persecution connects to modern GDP.
+
+73
+00:05:44,460 --> 00:05:46,180
+To measure the local economy,
+
+74
+00:05:46,180 --> 00:05:50,340
+researchers used incredibly precise modern indicators,
+
+75
+00:05:50,340 --> 00:05:53,180
+such as nighttime luminosity detected by satellites
+
+76
+00:05:53,180 --> 00:05:54,860
+to estimate local GDP.
+
+77
+00:05:54,860 --> 00:05:56,740
+Observing the data distribution,
+
+78
+00:05:56,740 --> 00:06:00,420
+the continuous line represents areas without any Inquisition impact,
+
+79
+00:06:00,420 --> 00:06:02,379
+which today boast higher incomes.
+
+80
+00:06:02,379 --> 00:06:04,060
+Instead, the line with the triangles,
+
+81
+00:06:04,060 --> 00:06:07,580
+representing municipalities with the highest inquisitorial intensity,
+
+82
+00:06:07,580 --> 00:06:09,740
+is clearly shifted to the left.
+
+83
+00:06:09,740 --> 00:06:11,420
+This means that today's economy,
+
+84
+00:06:11,420 --> 00:06:12,780
+in those specific areas,
+
+85
+00:06:12,780 --> 00:06:15,740
+is visibly and indisputably lower.
+
+86
+00:06:15,740 --> 00:06:20,300
+And this shift to the left is not just a statistical curiosity;
+
+87
+00:06:20,300 --> 00:06:23,020
+it has a real and, I would say, devastating impact.
+
+88
+00:06:23,020 --> 00:06:24,819
+We're talking about an economic penalty
+
+89
+00:06:24,819 --> 00:06:28,180
+that translates into a clear drop of 1,428 euros
+
+90
+00:06:28,180 --> 00:06:31,819
+in the average annual income for historically most persecuted areas
+
+91
+00:06:31,819 --> 00:06:33,580
+compared to those spared.
+
+92
+00:06:33,580 --> 00:06:35,500
+1,428 euros,
+
+93
+00:06:35,500 --> 00:06:39,060
+a staggering figure when multiplied by an entire population.
+
+94
+00:06:39,180 --> 00:06:41,540
+At this point, for pure academic rigor,
+
+95
+00:06:41,540 --> 00:06:43,620
+we must test the perfect alibi.
+
+96
+00:06:43,620 --> 00:06:46,500
+Perhaps the Inquisition targeted precisely the areas
+
+97
+00:06:46,500 --> 00:06:48,420
+that were already poor to begin with?
+
+98
+00:06:48,420 --> 00:04:50,819
+If that were the case, the entire theory would collapse,
+
+99
+00:04:50,819 --> 00:04:54,060
+because it would mean the Inquisition didn't cause poverty,
+
+100
+00:04:54,060 --> 00:04:57,060
+but merely followed in the footsteps of areas already in decline.
+
+101
+00:04:57,060 --> 00:05:01,379
+Well, the researchers literally dismantled this alibi
+
+102
+00:05:01,379 --> 00:05:03,939
+with an ingenious natural experiment.
+
+103
+00:05:03,939 --> 00:05:05,779
+In the sixteenth century,
+
+104
+00:05:05,779 --> 00:05:08,220
+having locally funded hospitals
+
+105
+00:05:08,220 --> 00:05:10,620
+was a huge indicator of wealth.
+
+106
+00:05:10,620 --> 00:05:12,180
+And the data speaks for itself,
+
+107
+00:05:12,180 --> 05:15:220
+historically wealthy areas with hospitals
+
+108
+05:15:220 --> 05:18:700
+actually attracted much more inquisitorial activity.
+
+109
+05:18:700 --> 05:22:460
+Yet these very same areas, which were once prosperous,
+
+110
+05:22:460 --> 05:26:740
+today sadly fall into the lowest levels of per capita GDP.
+
+111
+05:26:740 --> 05:28:220
+Mystery solved.
+
+112
+05:28:220 --> 05:31:740
+Point four, missing trust and education,
+
+113
+05:31:740 --> 05:35:660
+it's time to uncover the true mechanisms of this decline.
+
+114
+05:35:700 --> 05:38:460
+The crucial point here is to understand the underlying cause.
+
+115
+05:38:460 --> 05:41:500
+How does, in practical terms, an ancient institution
+
+116
+05:41:500 --> 05:43:980
+leave such a deep scar
+
+117
+05:43:980 --> 05:47:420
+as to permanently block economic growth?
+
+118
+05:47:420 --> 05:51:660
+To understand this, we must look beyond mere money flows.
+
+119
+05:51:660 --> 05:54:060
+The key is hidden in sociological data
+
+120
+05:54:060 --> 05:56:300
+and data related to education.
+
+121
+05:56:300 --> 05:59:540
+Repression of that level literally distorts
+
+122
+05:59:540 --> 06:01:940
+human motivations and incentives.
+
+123
+06:01:940 --> 06:04:180
+The mechanisms that created this scar
+
+124
+06:04:180 --> 06:05:660
+are relentless.
+
+125
+06:05:660 --> 06:09:300
+When a system encourages the secret denunciation of one's neighbors,
+
+126
+06:09:300 --> 06:11:579
+the social fabric is torn apart.
+
+127
+06:11:579 --> 06:15:340
+Without trust, trade networks and spontaneous cooperation collapse.
+
+128
+06:15:340 --> 06:16:300
+Not only that.
+
+129
+06:16:300 --> 06:19:259
+The Inquisition specifically targeted the educated middle class,
+
+130
+06:19:259 --> 06:21:579
+severely punishing independent thought.
+
+131
+06:21:579 --> 06:25:540
+The result: an enormous, chronic disincentive towards study,
+
+132
+06:25,540 --> 06:28,420
+higher education, and scientific research.
+
+133
+06:28,420 --> 06:33,420
+Incredibly, the numbers still reflect this cultural trauma today.
+
+134
+06:33,460 --> 06:37,580
+The data shows us a relative reduction of 5.6%
+
+135
+06:37,580 --> 06:40,180
+in people completing higher education
+
+136
+06:40,180 --> 06:43,900
+in historically affected areas compared to the rest of the nation.
+
+137
+06:43,900 --> 06:46,180
+Human capital was stifled
+
+138
+06:46,180 --> 06:48,500
+and remained suppressed over time.
+
+139
+06:48,500 --> 06:51,620
+There is a quote in the paper that perfectly encapsulates
+
+140
+06:51,620 --> 06:53,180
+this silent tragedy.
+
+141
+06:53,180 --> 06:55,740
+It states, "The Inquisition cast a shadow
+
+142
+06:55,740 --> 06:57,500
+over all social interactions,
+
+143
+06:57,500 --> 06:59,660
+undermining the strength of social capital."
+
+144
+06:59,660 --> 07:01,900
+Without trust and reciprocal cooperation,
+
+145
+07:01,940 --> 07:05,500
+it becomes almost impossible for a community to prosper economically
+
+146
+07:05,500 --> 07:07,340
+or solve collective problems.
+
+147
+07:07,340 --> 07:11,060
+It's an enormous limitation passed down from generation to generation.
+
+148
+07:11,060 --> 07:13,220
+And so we come to point five,
+
+149
+07:13,220 --> 07:15,540
+the consequences in the present.
+
+150
+07:15,540 --> 07:19,140
+The long, inexorable shadow of persecution.
+
+151
+07:19,140 --> 07:21,660
+This shadow is absolutely not an abstract theory.
+
+152
+07:21,660 --> 07:24,580
+It's a quantifiable burden that shapes the present.
+
+153
+07:24,580 --> 07:27,540
+The cumulative economic cost is astonishing.
+
+154
+07:27,540 --> 07:29,100
+For the affected populations,
+
+155
+07:29,140 --> 07:31,980
+a total reduction in per capita GDP is estimated
+
+156
+07:31,980 --> 07:34,020
+to be a staggering 2,000 euros.
+
+157
+07:34,020 --> 07:35,620
+It is the definitive proof
+
+158
+07:35,620 --> 07:38,740
+that this historical scar is statistically strong,
+
+159
+07:38,740 --> 07:42,620
+lasting, and terribly detrimental to well-being.
+
+160
+07:42,620 --> 07:46,140
+The researchers' central conclusion is crystal clear.
+
+161
+07:46,140 --> 07:48,379
+Such adverse historical shocks,
+
+162
+07:48,379 --> 07:50,379
+particularly those driven
+
+163
+07:50,379 --> 07:53,379
+by extreme forms of state-sanctioned repression,
+
+164
+07:53,379 --> 07:56,540
+have the power to trap societies.
+
+165
+07:56,660 --> 07:58,860
+They trap them in a permanent,
+
+166
+07:58,860 --> 08:00,780
+and lethal cycle of low trust,
+
+167
+08:00,780 --> 08:03,260
+low education, and low income,
+
+168
+08:03,260 --> 08:06,260
+derailing the prosperity of an entire region
+
+169
+08:06,260 --> 08:08,140
+indefinitely.
+
+170
+08:08,140 --> 08:10,860
+And all of this leaves us with a final,
+
+171
+08:10,860 --> 08:12,939
+profoundly provocative question.
+
+172
+08:12,939 --> 08:15,460
+If an institution dismantled centuries ago
+
+173
+08:15,460 --> 08:19,220
+can still dictate the boundaries of wealth and development today,
+
+174
+08:19,220 --> 08:21,740
+what silent and permanent scars
+
+175
+08:21,740 --> 08:23,660
+are current methods of totalitarian control
+
+176
+08:23,660 --> 08:26,620
+etching onto our future?
+
+177
+08:26,620 --> 08:28,460
+A reflection that undoubtedly pushes us
+
+178
+08:28,460 --> 08:32,100
+to delve deeper into the complex, invisible threads of our history.
+
+179
+08:32,100 --> 08:33,899
+Until the next exploration.

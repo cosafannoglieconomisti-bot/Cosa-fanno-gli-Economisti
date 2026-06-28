@@ -1,0 +1,715 @@
+1
+00:00:00,000 --> 00:00:02,500
+Willkommen zu diesem neuen Einblick.
+
+2
+00:00:02,500 --> 00:00:06,780
+Heute stellen wir ein buchstäblich faszinierendes Wirtschaftspapier vor.
+
+3
+00:00:06,780 --> 00:00:11,040
+Die zentrale Frage, die auch den Titel unserer heutigen Analyse bildet, lautet:
+
+4
+00:00:11,040 --> 00:00:13,580
+Hinterlassen Verfolgungen Narben?
+
+5
+00:00:13,580 --> 00:00:17,900
+Oft neigen wir dazu zu denken, dass die Vergangenheit eine abgeschlossene Seite ist,
+
+6
+00:00:17,900 --> 00:00:21,640
+doch die Daten, die wir sehen werden, offenbaren eine ganz, ganz andere Realität,
+
+7
+00:00:21,640 --> 00:00:24,160
+mit sehr langfristigen Konsequenzen.
+
+8
+00:00:24,160 --> 00:00:26,400
+Es stellt sich eine wirklich faszinierende Frage,
+
+9
+00:00:26,400 --> 00:00:29,400
+eine Art Rätsel für Wirtschaftsstudierende.
+
+10
+00:00:29,400 --> 00:00:33,320
+Kann die ferne Vergangenheit den modernen Wohlstand einer Stadt beeinflussen?
+
+11
+00:00:33,320 --> 00:00:35,160
+Ist es möglich, oder besser gesagt,
+
+12
+00:00:35,160 --> 00:00:40,800
+gibt es auch nur die geringste Wahrscheinlichkeit, dass dramatische Ereignisse, die sich vor Jahrhunderten ereigneten,
+
+13
+00:00:40,800 --> 00:00:44,100
+weiterhin die wirtschaftlichen Ungleichheiten diktieren, die wir heute sehen?
+
+14
+00:00:44,100 --> 00:00:48,300
+Es ist, als ob die Vergangenheit einen riesigen Schatten auf die Gegenwart wirft.
+
+15
+00:00:48,300 --> 00:00:51,140
+So wird sich unsere heutige Untersuchung entwickeln.
+
+16
+00:00:51,140 --> 00:00:53,800
+Wir werden diese 5 grundlegenden Schritte verfolgen.
+
+17
+00:00:53,800 --> 00:00:56,219
+Erstens, ein spanisches Wirtschaftsrätsel.
+
+18
+00:00:56,299 --> 00:00:58,679
+Zweitens, unser Hauptverdächtiger,
+
+19
+00:00:58,679 --> 00:01:00,359
+die historische Inquisition.
+
+20
+00:01:00,359 --> 00:01:02,379
+Drittens, die Beweise der Entwicklung.
+
+21
+00:01:02,379 --> 00:01:04,980
+Viertens, fehlendes Vertrauen und Bildung.
+
+22
+00:01:04,980 --> 00:01:07,420
+Und schließlich, die Konsequenzen in der Gegenwart.
+
+23
+00:01:07,420 --> 00:01:10,659
+Eine rigorose und ausschließlich datenbasierte Reise.
+
+24
+00:01:10,659 --> 00:01:11,799
+Fangen wir sofort an.
+
+25
+00:01:11,799 --> 00:01:12,900
+Erster Punkt.
+
+26
+00:01:12,900 --> 00:01:17,000
+Ein spanisches Wirtschaftsrätsel: Die Untersuchung moderner Wohlstandsdisparitäten.
+
+27
+00:01:17,000 --> 00:01:21,700
+Bei der Analyse der heutigen Wirtschaftsleistung in verschiedenen spanischen Gemeinden
+
+28
+00:01:21,700 --> 00:01:25,099
+stellten die Forscher enorme Unterschiede fest.
+
+29
+00:01:25,100 --> 00:01:30,220
+Unterschiede, die, ehrlich gesagt, nicht allein durch die geografische Beschaffenheit
+
+30
+00:01:30,220 --> 00:01:33,740
+erklärt werden konnten. Wenn man die Karte des modernen Spaniens betrachtet,
+
+31
+00:01:33,740 --> 00:01:37,900
+fällt sofort auf, dass bestimmte Gebiete deutlich zurückliegen.
+
+32
+00:01:37,900 --> 00:01:40,980
+Und diese Spaltung betrifft nicht nur die Wirtschaft,
+
+33
+00:01:40,980 --> 00:01:44,180
+sondern spiegelt sich auch stark in den Bildungsniveaus wider
+
+34
+00:01:44,180 --> 00:01:46,820
+und in dem, was wir soziales Vertrauen nennen,
+
+35
+00:01:46,820 --> 00:01:51,060
+das heißt, die Bereitschaft, im Alltag friedlich zusammenzuarbeiten.
+
+36
+00:01:51,140 --> 00:01:55,100
+Also schlüpfen wir für einen Moment in die Rolle von Geschichtsdetektiven.
+
+37
+00:01:55,100 --> 00:02:00,100
+Welcher verborgene Mechanismus könnte sich mit solch chirurgischer Präzision
+
+38
+00:02:00,100 --> 00:02:02,219
+an diese aktuellen wirtschaftlichen Unterschiede anpassen?
+
+39
+00:02:02,219 --> 00:02:05,500
+Welcher Faktor, der in den Falten der Zeit verborgen blieb,
+
+40
+00:02:05,500 --> 00:02:07,740
+ist in der Lage, eine so klare Linie
+
+41
+00:02:07,740 --> 00:02:10,939
+durch die Wirtschaftsgeographie einer modernen Nation zu ziehen?
+
+42
+00:02:10,939 --> 00:02:14,939
+Und hier kommt unser Verdächtiger Nummer eins ins Spiel.
+
+43
+00:02:14,939 --> 00:02:18,379
+Zweiter Punkt: die historische Inquisition,
+
+44
+00:02:18,419 --> 00:02:22,539
+356 Jahre Gedankenkontrolle.
+
+45
+00:02:22,539 --> 00:02:24,979
+1478 gegründet,
+
+46
+00:02:24,979 --> 00:02:28,139
+war die spanische Inquisition über drei Jahrhunderte lang aktiv.
+
+47
+00:02:28,139 --> 00:02:30,620
+Wir sprechen hier von einem staatlichen Apparat zur sozialen
+
+48
+00:02:30,620 --> 00:02:33,099
+und religiösen Kontrolle, der unglaublich weit verzweigt war.
+
+49
+00:02:33,099 --> 00:02:35,259
+Um die Tragweite dieser Maschine wirklich zu verstehen,
+
+50
+00:02:35,259 --> 00:02:38,180
+haben die Forscher eine kolossale Datenbank zusammengestellt.
+
+51
+00:03:38,180 --> 00:03:41,939
+Wir sprechen von 67.521 einzelnen Prozessen,
+
+52
+00:03:41,939 --> 00:03:44,060
+alle minuti genau aufgezeichnet.
+
+53
+00:03:44,060 --> 00:03:47,699
+Eine solche Datenmenge ermöglicht es uns, die Intensität dieser Verfolgung
+
+54
+00:03:47,700 --> 00:03:50,780
+mit einer in der Wirtschaftsgeschichte nie dagewesenen Präzision abzubilden.
+
+55
+00:03:50,780 --> 00:03:54,380
+Bei der Analyse der im Papier erstellten Intensitätskarte
+
+56
+00:03:54,380 --> 00:03:56,260
+wird eine Tatsache sehr deutlich.
+
+57
+00:03:56,260 --> 00:03:59,740
+Die Verfolgung war keineswegs einheitlich,
+
+58
+00:03:59,740 --> 00:04:01,220
+absolut nicht.
+
+59
+00:04:01,220 --> 00:04:04,260
+Die dunkelsten Zonen, die eigentlichen Hotspots,
+
+60
+00:04:04,260 --> 00:04:06,820
+konzentrieren sich eindeutig im Süden Spaniens
+
+61
+00:04:06,820 --> 00:04:08,620
+und in einigen Teilen Aragons.
+
+62
+00:04:08,620 --> 00:04:12,420
+Es war eine gezielte, extrem lokalisierte Repression.
+
+63
+00:04:12,420 --> 00:04:15,380
+Doch wie funktionierte diese Institution in der Praxis?
+
+64
+00:04:15,379 --> 00:04:18,620
+Wir sprechen hier nicht von Wachen an jeder Straßenecke.
+
+65
+00:04:18,620 --> 00:04:22,859
+Das System basierte auf sehr spezifischen psychologischen Dynamiken.
+
+66
+00:04:22,859 --> 00:04:25,979
+Eine gezielte Angst, der ständige Einsatz geheimer Denunziationen
+
+67
+00:04:25,979 --> 00:04:28,219
+durch die eigenen Nachbarn
+
+68
+00:04:28,219 --> 00:04:30,939
+und öffentliche, offenkundige Bestrafungen.
+
+69
+00:04:30,939 --> 00:04:34,620
+Ziel war es, den Terror innerhalb der Gemeinschaft zu maximieren,
+
+70
+00:04:34,620 --> 00:04:36,939
+ein wahrer sozialer Albtraum.
+
+71
+00:04:36,939 --> 00:04:39,859
+Kommen wir zum dritten Punkt: die Beweise der Entwicklung.
+
+72
+00:04:39,859 --> 00:04:44,460
+Wir untersuchen, wie diese historische Verfolgung mit dem modernen BIP zusammenhängt.
+
+73
+000:04:44,460 --> 00:04:46,180
+Um die lokale Wirtschaft zu messen,
+
+74
+00:04:46,180 --> 00:04:50,340
+verwendeten die Forscher unglaublich präzise moderne Indikatoren,
+
+75
+00:04:50,340 --> 00:04:53,180
+wie die nächtliche Helligkeit, die von Satelliten erfasst wurde,
+
+76
+00:04:53,180 --> 00:04:54,860
+um das lokale BIP zu schätzen.
+
+77
+00:04:54,860 --> 00:04:56,740
+Wenn man die Datenverteilung betrachtet,
+
+78
+00:04:56,740 --> 00:05:00,420
+repräsentiert die durchgehende Linie die Gebiete ohne jeglichen Einfluss der Inquisition,
+
+79
+00:05:00,420 --> 00:05:02,379
+die heute die höchsten Einkommen aufweisen.
+
+80
+00:05:02,379 --> 00:05:04,060
+Die Linie mit den kleinen Dreiecken hingegen,
+
+81
+00:05:04,060 --> 00:05:07,580
+die die Gemeinden mit der höchsten Intensität der Inquisition darstellt,
+
+82
+00:05:07,580 --> 00:05:09,740
+ist deutlich nach links verschoben.
+
+83
+00:05:09,740 --> 00:05:11,420
+Das bedeutet, dass die heutige Wirtschaft
+
+84
+00:05:11,420 --> 00:05:12,780
+in diesen spezifischen Gebieten
+
+85
+00:05:12,780 --> 00:05:15,740
+sichtlich und unbestreitbar schlechter ist.
+
+86
+00:05:15,740 --> 00:05:20,300
+Und diese Verschiebung nach links ist nicht nur eine statistische Kuriosität,
+
+87
+00:05:20,300 --> 00:05:23,020
+sie hat eine reale und ich würde sagen verheerende Auswirkung.
+
+88
+00:05:23,020 --> 00:05:24,819
+Wir sprechen von einem wirtschaftlichen Nachteil,
+
+89
+00:05:24,819 --> 00:05:28,180
+der sich in einem direkten Rückgang von 1428 Euro
+
+90
+00:05:28,180 --> 00:05:31,819
+im durchschnittlichen Jahreseinkommen für die historisch am stärksten verfolgten Gebiete
+
+91
+00:05:31,819 --> 00:05:33,580
+im Vergleich zu den verschonten Gebieten niederschlägt.
+
+92
+00:05:33,580 --> 00:05:35,500
+1428 Euro,
+
+93
+00:05:35,500 --> 00:05:39,060
+eine erschreckende Zahl, wenn man sie auf eine ganze Bevölkerung hochrechnet.
+
+94
+00:05:39,180 --> 00:05:41,540
+An diesem Punkt, aus rein akademischer Genauigkeit,
+
+95
+00:05:41,540 --> 00:05:43,620
+müssen wir das perfekte Alibi prüfen.
+
+96
+00:05:43,620 --> 00:05:46,500
+Vielleicht griff die Inquisition genau die Gebiete an,
+
+97
+00:05:46,500 --> 00:05:48,420
+die von Anfang an bereits arm waren?
+
+98
+00:04:48,420 --> 00:04:50,819
+Wenn dem so wäre, würde die ganze Theorie zusammenbrechen,
+
+99
+00:04:50,819 --> 00:04:54,060
+denn das würde bedeuten, dass die Inquisition die Armut nicht verursacht hat,
+
+100
+00:04:54,060 --> 00:04:57,060
+sondern nur den Spuren bereits im Niedergang befindlicher Gebiete folgte.
+
+101
+00:04:57,060 --> 00:05:01,379
+Nun, die Forscher haben dieses Alibi buchstäblich widerlegt
+
+102
+00:05:01,379 --> 00:05:03,939
+mit einem genialen natürlichen Experiment.
+
+103
+00:05:03,939 --> 00:05:05,779
+Im 16. Jahrhundert
+
+104
+00:05:05,779 --> 00:05:08,220
+waren lokal finanzierte Krankenhäuser
+
+105
+00:05:08,220 --> 00:05:10,620
+ein enormer Indikator für Reichtum.
+
+106
+00:05:10,620 --> 00:05:12,180
+Und die Daten sprechen eine klare Sprache,
+
+107
+00:05:12,180 --> 00:05:15,220
+historisch reiche Gebiete mit Krankenhäusern
+
+108
+00:05:15,220 --> 00:05:18,700
+zogen tatsächlich viel mehr inquisitorische Aktivitäten an.
+
+109
+00:05:18,700 --> 00:05:22,460
+Und doch fallen dieselben Gebiete, die einst blühend waren,
+
+110
+00:05:22,460 --> 00:05:26,740
+heute traurigerweise in die niedrigsten Pro-Kopf-BIP-Niveaus.
+
+111
+00:05:26,740 --> 00:05:28,220
+Rätsel gelöst.
+
+112
+00:05:28,220 --> 00:05:31,740
+Vierter Punkt: Fehlendes Vertrauen und Bildung,
+
+113
+00:05:31,740 --> 00:05:35,660
+es ist an der Zeit, die wahren Mechanismen dieses Niedergangs zu entdecken.
+
+114
+00:05:35,700 --> 00:05:38,460
+Der entscheidende Weg hier ist, die Motivation zu verstehen.
+
+115
+00:05:38,460 --> 00:05:41,500
+Wie kann eine alte Institution in der Praxis
+
+116
+00:05:41,500 --> 00:05:43,980
+eine so tiefe Narbe hinterlassen,
+
+117
+00:05:43,980 --> 00:05:47,420
+dass sie das Wirtschaftswachstum dauerhaft blockiert?
+
+118
+00:05:47,420 --> 00:05:51,660
+Um das zu verstehen, müssen wir unseren Blick von reinen Geldflüssen abwenden.
+
+119
+00:05:51,660 --> 00:05:54,060
+Der Schlüssel liegt in den soziologischen Daten
+
+120
+00:05:54,060 --> 00:05:56,300
+und jenen, die mit Bildung zusammenhängen.
+
+121
+00:05:56,300 --> 00:05:59,540
+Eine Repression dieses Ausmaßes verändert buchstäblich
+
+122
+00:05:59,540 --> 00:06:01,940
+menschliche Motivationen und Anreize.
+
+123
+00:06:01,940 --> 00:06:04,180
+Die Mechanismen, die diese Narbe geschaffen haben,
+
+124
+00:06:04,180 --> 00:06:05,660
+sind unerbittlich.
+
+125
+00:06:05,660 --> 00:06:09,300
+Wenn ein System dazu anregt, seine Nachbarn heimlich zu denunzieren,
+
+126
+00:06:09,300 --> 00:06:11,579
+wird das soziale Gefüge zerrissen.
+
+127
+00:06:11,579 --> 00:06:15,340
+Ohne Vertrauen brechen Handelsnetzwerke und spontane Zusammenarbeit zusammen.
+
+128
+00:06:15,340 --> 00:06:16,300
+Nicht nur das.
+
+129
+00:06:16,300 --> 00:06:19,259
+Die Inquisition zielte direkt auf die gebildete Mittelschicht ab,
+
+130
+00:06:19,259 --> 00:06:21,579
+indem sie unabhängiges Denken hart bestrafte.
+
+131
+00:06:21,579 --> 00:06:25,540
+Das Ergebnis: ein enormer, chronischer Anreizverlust für Studium,
+
+132
+00:06:25,540 --> 00:06:28,420
+höhere Bildung und wissenschaftliche Forschung.
+
+133
+00:06:28,420 --> 00:06:33,420
+Und erstaunlicherweise spiegeln die Zahlen dieses kulturelle Trauma auch heute noch wider.
+
+134
+00:06:33,460 --> 00:06:37,580
+Die Daten zeigen uns eine relative Reduzierung von 5,6 %
+
+135
+00:06:37,580 --> 00:06:40,180
+bei den Personen, die eine höhere Ausbildung abschließen,
+
+136
+00:06:40,180 --> 00:06:43,900
+in den historisch betroffenen Gebieten im Vergleich zum Rest der Nation.
+
+137
+00:06:43,900 --> 00:06:46,180
+Das Humankapital wurde erstickt
+
+138
+00:06:46,180 --> 00:06:48,500
+und ist im Laufe der Zeit unterdrückt geblieben.
+
+139
+00:06:48,500 --> 00:06:51,620
+Es gibt ein Zitat in dem Papier, das diese stille Tragödie perfekt zusammenfasst.
+
+140
+00:06:51,620 --> 00:06:53,180
+diese stille Tragödie.
+
+141
+00:06:53,180 --> 00:06:55,740
+Es heißt: Die Inquisition warf einen Schatten
+
+142
+00:06:55,740 --> 00:06:57,500
+auf alle sozialen Interaktionen,
+
+143
+00:06:57,500 --> 00:06:59,660
+und untergrub die Stärke des Sozialkapitals.
+
+144
+00:06:59,660 --> 00:07:01,900
+Ohne Vertrauen und gegenseitige Zusammenarbeit
+
+145
+00:07:01,940 --> 00:07:05,500
+wird es für eine Gemeinschaft fast unmöglich, wirtschaftlich zu gedeihen
+
+146
+00:07:05,500 --> 00:07:07,340
+oder kollektive Probleme zu lösen.
+
+147
+00:07:07,340 --> 00:07:11,060
+Es ist eine enorme Einschränkung, die von Generation zu Generation weitergegeben wird.
+
+148
+00:07:11,060 --> 00:07:13,220
+Und so kommen wir zum fünften Punkt,
+
+149
+00:07:13,220 --> 00:07:15,540
+die Konsequenzen in der Gegenwart.
+
+150
+00:07:15,540 --> 00:07:19,140
+Der lange, unerbittliche Schatten der Verfolgung.
+
+151
+00:07:19,140 --> 00:07:21,660
+Dieser Schatten ist absolut keine abstrakte Theorie.
+
+152
+00:07:21,660 --> 00:07:24,580
+Es ist eine quantifizierbare Last, die die Gegenwart prägt.
+
+153
+00:07:24,580 --> 00:07:27,540
+Die kumulativen wirtschaftlichen Kosten sind erstaunlich.
+
+154
+00:07:27,540 --> 00:07:29,100
+Für die betroffenen Bevölkerungsgruppen
+
+155
+00:07:29,140 --> 00:07:31,980
+wird eine Gesamtverringerung des Pro-Kopf-BIP
+
+156
+00:07:31,980 --> 00:07:34,020
+von ganzen 2.000 Euro geschätzt.
+
+157
+00:07:34,020 --> 00:07:35,620
+Es ist der endgültige Beweis,
+
+158
+00:07:35,620 --> 00:07:38,740
+dass diese historische Narbe statistisch stark,
+
+159
+00:07:38,740 --> 00:07:42,620
+dauerhaft und für das Wohlergehen der Menschen schrecklich schädlich ist.
+
+160
+00:07:42,620 --> 00:07:46,140
+Die zentrale Schlussfolgerung der Forscher ist kristallklar.
+
+161
+00:07:46,140 --> 00:07:48,379
+Solch widrige historische Schocks,
+
+162
+00:07:48,379 --> 00:07:50,379
+insbesondere solche, die von
+
+163
+00:07:50,379 --> 00:07:53,379
+extremen, staatlich gewollten Repressionsformen angetrieben werden,
+
+164
+00:07:53,379 --> 00:07:56,540
+haben die Macht, Gesellschaften zu fesseln.
+
+165
+00:07:56,660 --> 00:07:58,860
+Sie verwickeln sie in einen permanenten
+
+166
+00:07:58,860 --> 00:08:00,780
+und tödlichen Kreislauf aus geringem Vertrauen,
+
+167
+00:08:00,780 --> 00:08:03,260
+geringer Bildung und niedrigem Einkommen,
+
+168
+00:08:03,260 --> 00:08:06,260
+wodurch der Wohlstand einer ganzen Region
+
+169
+00:08:06,260 --> 00:08:08,140
+auf unbestimmte Zeit entgleist wird.
+
+170
+00:08:08,140 --> 00:08:10,860
+Und all das hinterlässt uns mit einer letzten,
+
+171
+00:08:10,860 --> 00:08:12,939
+zutiefst provokativen Frage.
+
+172
+00:08:12,939 --> 00:08:15,460
+Wenn eine Institution, die vor Jahrhunderten aufgelöst wurde,
+
+173
+00:08:15,460 --> 00:08:19,220
+noch heute die Grenzen von Reichtum und Entwicklung bestimmen kann,
+
+174
+00:08:19,220 --> 00:08:21,740
+welche stillen und permanenten Narben
+
+175
+00:08:21,740 --> 00:08:23,660
+prägen unsere Zukunft
+
+176
+00:08:23,660 --> 00:08:26,620
+die aktuellen Methoden totalitärer Kontrolle?
+
+177
+00:08:26,620 --> 00:08:28,460
+Eine Reflexion, die zweifellos dazu anregt,
+
+178
+00:08:28,460 --> 00:08:32,100
+die komplexen, unsichtbaren Fäden unserer Geschichte zu ergründen,
+
+179
+00:08:32,100 --> 00:08:33,899
+bis zur nächsten Erkundung.
