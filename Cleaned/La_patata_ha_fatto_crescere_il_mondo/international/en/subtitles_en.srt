@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:05,120
+So, welcome to this new analysis, today we are diving into a crazy historical mystery,
+
+2
+00:00:05,120 --> 00:00:09,040
+looking at the title the question almost seems like a joke: did the potato make the
+
+3
+00:00:09,040 --> 00:00:13,960
+world grow? And yet, we are about to discover, with data and economics in hand, how a very common tuber
+
+4
+00:00:13,960 --> 00:00:18,359
+literally overturned the course of human civilization, triggering social
+
+5
+00:00:18,359 --> 00:00:21,120
+and industrial changes on a global scale, nothing less.
+
+6
+00:00:21,120 --> 00:00:26,839
+Ok, let's get straight to the heart of it, if we analyze historical dynamics over the very long term,
+
+7
+00:00:26,839 --> 00:00:31,640
+an incredible thing stands out, there is a sharp break, almost a vertical wall,
+
+8
+00:00:31,640 --> 00:00:36,960
+the world population and the urbanization rate shoot upwards, and they do so exactly
+
+9
+00:00:36,960 --> 00:00:40,799
+together, starting right around the year 1700.
+
+10
+00:00:40,799 --> 00:00:45,600
+After centuries and centuries of dead calm, boom, a demographic expansion literally
+
+11
+00:00:45,600 --> 00:00:51,799
+never seen before, but then what triggered this explosive growth?
+
+12
+00:00:51,800 --> 00:00:56,440
+I mean, for centuries humanity remained stuck in what in economics we call
+
+13
+00:00:56,440 --> 00:01:01,640
+the Malthusian trap, and in simple terms, you have more children, but you can't increase
+
+14
+00:01:01,640 --> 00:01:05,920
+the food to feed them, and so growth stops, tragically.
+
+15
+00:01:05,920 --> 00:01:11,680
+What suddenly acted as a catalyst, allowing us to break these historical chains
+
+16
+00:01:11,680 --> 00:01:13,600
+in an irreversible way?
+
+17
+00:01:13,600 --> 00:01:19,159
+To solve it, we will follow the fantastic economic research of Nathan Nunn and Nancy Qian.
+
+18
+00:01:19,159 --> 00:01:25,359
+Our path today will be this: first, an inexplicable demographic growth; second, the super-
+
+19
+00:01:25,359 --> 00:01:31,719
+food of the past; third, the natural historical experiment; fourth, the results on population
+
+20
+00:01:31,719 --> 00:01:35,439
+and cities; and to close, the legacy of the tuber.
+
+21
+00:01:35,439 --> 00:01:40,439
+Let's start with section 1: an inexplicable demographic growth.
+
+22
+00:01:40,439 --> 00:01:45,039
+We must remember that before the eighteenth century, agriculture in the Old World
+
+23
+00:01:45,040 --> 00:01:51,600
+struggled a lot, the land yielded little, and there were very strict limits. And yet,
+
+24
+00:01:51,600 --> 00:01:56,920
+the records show that between the year 1000 and the year 1900, the global population more
+
+25
+00:01:56,920 --> 00:02:02,000
+than quintupled, going from less than 300 million to about 1.6 billion
+
+26
+00:02:02,000 --> 00:02:03,000
+people.
+
+27
+00:02:03,000 --> 00:02:08,360
+But the key point is that this crazy growth was not gradual at all; it was concentrated
+
+28
+00:02:08,360 --> 00:02:12,879
+almost exclusively in the very last centuries of this historical interval.
+
+29
+00:02:13,599 --> 00:02:18,359
+Which brings us to section 2: the superfood of the past.
+
+30
+00:02:18,359 --> 00:02:23,519
+Now, the truly fascinating thing that emerges from the crop data of the time is the
+
+31
+00:02:23,519 --> 00:02:27,079
+crazy gap created by this plant that arrived from the Americas.
+
+32
+00:02:27,079 --> 00:02:34,000
+Think about it, a field planted with potatoes produced a whopping 31,900 MJ. We are talking about nearly
+
+33
+00:02:34,000 --> 00:02:40,800
+three times the energy offered by a wheat field, which stopped at 8,900, or oats at 9,300.
+
+34
+00:02:40,800 --> 00:02:45,840
+And to better understand the scale of all this, to get 42 MJ, which is roughly the energy
+
+35
+00:02:45,840 --> 00:02:50,400
+to feed an entire family for a year, you needed over 1.6 acres cultivated
+
+36
+00:02:50,400 --> 00:02:51,920
+with traditional cereals.
+
+37
+00:02:51,920 --> 00:02:58,040
+With potatoes, just 0.50 acres (half an acre) was enough, a gigantic amount of calories
+
+38
+00:02:58,040 --> 00:03:00,160
+concentrated in a tiny space.
+
+39
+00:03:00,160 --> 00:03:05,120
+And believe me, such an innovation certainly did not go unnoticed by the great thinkers.
+
+40
+00:03:05,120 --> 00:03:09,800
+Even Adam Smith, in his famous "The Wealth of Nations", wrote exactly
+
+41
+00:03:09,800 --> 00:03:14,360
+this, noting how the food produced by potatoes was by far superior to that
+
+42
+00:03:14,360 --> 00:03:15,360
+of wheat.
+
+43
+00:03:15,360 --> 00:03:20,040
+In short, the fathers of classical economics were realizing in real time that the tuber guaranteed
+
+44
+00:03:20,040 --> 00:03:24,480
+an exceptional nutritional boost, capable of sustaining human health and labor
+
+45
+00:03:24,480 --> 00:03:26,400
+at levels previously unthinkable.
+
+46
+00:03:26,400 --> 00:03:30,320
+And let's move on to section 3: the natural historical experiment.
+
+47
+00:03:30,320 --> 00:03:35,640
+Here a big problem arises for economists: the notorious reverse causality.
+
+48
+00:03:35,640 --> 00:03:39,920
+In practice, was it the introduction of the potato that caused the population to explode, or was it
+
+49
+00:03:39,920 --> 00:03:44,560
+a rapidly growing population that desperately needed to plant potatoes?
+
+50
+00:03:44,560 --> 00:03:47,600
+It's a bit of the classic chicken and egg dilemma.
+
+51
+00:03:47,600 --> 00:03:52,000
+To get out of it scientifically, the research uses geography and the concept of suitability
+
+52
+00:03:52,000 --> 00:03:57,240
+for agriculture, based exclusively on climate and soil data, which of course are immutable
+
+53
+00:03:57,240 --> 00:04:01,560
+and do not depend on humans. The researchers obtain a totally independent variable
+
+54
+00:04:01,560 --> 00:04:02,880
+to run a clean test.
+
+55
+00:04:02,879 --> 00:04:05,560
+No bias, no human choices involved.
+
+56
+00:04:05,560 --> 00:04:10,319
+A super-elegant method is thus applied, which in economics we call difference-in-
+
+57
+00:04:10,319 --> 00:04:11,319
+differences.
+
+58
+00:04:11,319 --> 00:04:16,079
+In simple terms, first you identify the regions perfect for growing potatoes and those
+
+59
+00:04:16,079 --> 00:04:17,399
+totally unsuitable.
+
+60
+00:04:17,399 --> 00:04:23,079
+Second, you look at the data before the year 1700, and third, you compare them with those after
+
+61
+00:04:23,079 --> 00:04:24,319
+1700.
+
+62
+00:04:24,319 --> 00:04:30,519
+In this brilliant way, we manage to surgically isolate the effect of the potato solely and exclusively
+
+63
+00:04:30,519 --> 00:04:33,120
+in places where nature allowed it to thrive.
+
+64
+00:04:33,120 --> 00:04:37,439
+And here we are at the results, section 4: population and cities.
+
+65
+00:04:37,439 --> 00:04:41,159
+And the regression models show a very clear discontinuity.
+
+66
+00:04:41,159 --> 00:04:47,079
+After centuries of stagnation, from the year 1700 onwards, we see unmistakable growth.
+
+67
+00:04:47,079 --> 00:04:52,319
+The data certify that population and urbanization shot up proportionally
+
+68
+00:04:52,319 --> 00:04:57,639
+and specifically only in those areas that were geographically suitable for potatoes,
+
+69
+00:04:57,639 --> 00:05:00,079
+coinciding precisely with its mass diffusion.
+
+70
+00:05:00,199 --> 00:05:04,159
+In regions unsuitable for its cultivation, however, during the same time frame nothing
+
+71
+00:05:04,159 --> 00:05:05,959
+comparable happened.
+
+72
+00:05:05,959 --> 00:05:10,240
+And this brilliantly illustrates the robustness of the study.
+
+73
+00:05:10,240 --> 00:05:13,399
+There is a perfect and verifiable alignment.
+
+74
+00:05:13,399 --> 00:05:18,360
+The nations that had a high percentage of land that was, let's say, naturally suitable
+
+75
+00:05:18,360 --> 00:05:23,399
+from a climatic perspective, are indeed those that dominated the global production
+
+76
+00:05:23,399 --> 00:05:26,479
+of potatoes documented for the year 1900.
+
+77
+00:05:26,480 --> 00:05:31,200
+In practice, nature provided the perfect preconditions and economic history
+
+78
+00:05:31,200 --> 00:05:32,800
+seized the opportunity.
+
+79
+00:05:32,800 --> 00:05:38,120
+But get ready, because the crucial point of the whole investigation is this number.
+
+80
+00:05:38,120 --> 00:05:41,879
+According to estimates based on truly rigorous mathematical models,
+
+81
+00:05:41,879 --> 00:05:46,520
+the introduction of the potato alone explains about 25%.
+
+82
+00:05:46,520 --> 00:05:51,400
+Exactly, a quarter of the entire population growth and urbanization rate
+
+83
+00:05:51,400 --> 00:05:55,560
+that occurred in the Old World between the year 1700 and the year 1900.
+
+84
+00:05:55,600 --> 00:05:59,120
+A whole quarter of the global demographic development of two centuries
+
+85
+00:05:59,120 --> 00:06:03,759
+is solely thanks to this single, incredible agricultural innovation.
+
+86
+00:06:03,759 --> 00:06:08,120
+Let's conclude with section 5: the legacy of the tuber.
+
+87
+00:06:08,120 --> 00:06:12,439
+The impact of this agricultural shock went far beyond simple demographics,
+
+88
+00:06:12,439 --> 00:06:14,319
+it was a cascade effect.
+
+89
+00:06:14,319 --> 00:06:19,000
+Since much less land was needed to produce the calories required for survival,
+
+90
+00:06:19,000 --> 00:06:22,800
+a huge slice of the workforce was freed from laboring in the fields
+
+91
+00:06:22,800 --> 00:06:25,279
+and moved massively to the cities.
+
+92
+00:06:25,320 --> 00:06:28,240
+Feeding the nascent manufacturing industry itself.
+
+93
+00:06:28,240 --> 00:06:33,120
+But there's more: this superior nutrition literally changed human biology.
+
+94
+00:06:33,120 --> 00:06:36,000
+Just think that by reading historical military records,
+
+95
+00:06:36,000 --> 00:06:40,080
+we discover that French soldiers born in villages perfect for potatoes
+
+96
+00:06:40,080 --> 00:06:41,640
+were, on average, taller
+
+97
+00:06:41,640 --> 00:06:46,240
+by about half an inch compared to fellow soldiers born in areas not suited for cultivation.
+
+98
+00:06:46,240 --> 00:06:48,600
+A real evolutionary leap.
+
+99
+00:06:48,600 --> 00:06:51,520
+In short, a single, very humble tuber
+
+100
+00:06:51,519 --> 00:06:58,399
+irreversibly redesigned the social, economic, and even biological fabric of entire nations.
+
+101
+00:06:58,399 --> 00:07:01,639
+Which raises a profound question about our present.
+
+102
+00:07:01,639 --> 00:07:05,599
+If agriculture of the past had such an effect over the centuries,
+
+103
+00:07:05,599 --> 00:07:09,560
+to what extent will today's enormous agricultural and technological discoveries
+
+104
+00:07:09,560 --> 00:07:13,399
+shape the economic destiny of future generations?
+
+105
+00:07:13,399 --> 00:07:16,000
+It is a perspective that really makes you think.
+
+106
+00:07:16,000 --> 00:07:18,639
+And with this, we close our analysis for today.
+
+107
+00:07:18,639 --> 00:07:23,120
+Thank you for being with us on this fantastic journey into economic history.

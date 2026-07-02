@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:05,120
+Bienvenue dans cette nouvelle analyse. Aujourd'hui, nous plongeons dans un incroyable mystère historique :
+
+2
+00:00:05,120 --> 00:00:09,040
+à la lecture du titre, la question semble presque être une blague : la pomme de terre a-t-elle fait grandir le
+
+3
+00:00:09,040 --> 00:00:13,960
+monde ? Et pourtant, données et économie à l'appui, nous allons découvrir comment un tubercule des plus communs
+
+4
+00:00:13,960 --> 00:00:18,359
+a littéralement bouleversé le cours de la civilisation humaine, déclenchant des changements sociaux
+
+5
+00:00:18,359 --> 00:00:21,120
+et industriels à l'échelle mondiale, rien de moins.
+
+6
+00:00:21,120 --> 00:00:26,839
+Entrons tout de suite dans le vif du sujet. Si nous analysons les dynamiques historiques à très long terme,
+
+7
+00:00:26,839 --> 00:00:31,640
+une chose incroyable saute aux yeux : il y a une rupture nette, presque un mur vertical,
+
+8
+00:00:31,640 --> 00:00:36,960
+la population mondiale et le taux d'urbanisation montent en flèche, et ils le font exactement
+
+9
+00:00:36,960 --> 00:00:40,799
+en même temps, en commençant précisément autour de l'an 1700.
+
+10
+00:00:40,799 --> 00:00:45,600
+Après des siècles et des siècles de calme plat, boum, une expansion démographique littéralement
+
+11
+00:00:45,600 --> 00:00:51,799
+jamais vue auparavant. Mais alors, qu'est-ce qui a déclenché cette croissance explosive ?
+
+12
+00:00:51,800 --> 00:00:56,440
+Je veux dire, pendant des siècles, l'humanité est restée bloquée dans ce que nous appelons en économie
+
+13
+00:00:56,440 --> 00:01:01,640
+le piège malthusien. En termes simples, vous faites plus d'enfants, mais vous ne parvenez pas à augmenter
+
+14
+00:01:01,640 --> 00:01:05,920
+la nourriture pour les nourrir, et la croissance s'arrête donc, tragiquement.
+
+15
+00:01:05,920 --> 00:01:11,680
+Qu'est-ce qui a soudainement servi de catalyseur, nous permettant de briser ces chaînes historiques
+
+16
+00:01:11,680 --> 00:01:13,600
+de manière irréversible ?
+
+17
+00:01:13,600 --> 00:01:19,159
+Pour le résoudre, nous suivrons les fantastiques recherches économiques de Nathan Nunn et Nancy Qian.
+
+18
+00:01:19,159 --> 00:01:25,359
+Notre parcours aujourd'hui sera le suivant : premièrement, une croissance démographique inexpliquée ; deuxièmement, le super-
+
+19
+00:01:25,359 --> 00:01:31,719
+aliment du passé ; troisièmement, l'expérience historique naturelle ; quatrièmement, les résultats sur la population
+
+20
+00:01:31,719 --> 00:01:35,439
+et les villes ; et pour finir, l'héritage du tubercule.
+
+21
+00:01:35,439 --> 00:01:40,439
+Commençons par la section 1 : une croissance démographique inexpliquée.
+
+22
+00:01:40,439 --> 00:01:45,039
+Il faut se rappeler qu'avant le XVIIIe siècle, l'agriculture du Vieux Monde
+
+23
+00:01:45,040 --> 00:01:51,600
+avait beaucoup de mal : la terre rendait peu et il y avait des limites très strictes. Pourtant,
+
+24
+00:01:51,600 --> 00:01:56,920
+les registres indiquent qu'entre l'an 1000 et l'an 1900, la population mondiale a plus
+
+25
+00:01:56,920 --> 00:02:02,000
+que quintuplé, passant de moins de 300 millions à environ 1,6 milliard
+
+26
+00:02:02,000 --> 00:02:03,000
+d'habitants.
+
+27
+00:02:03,000 --> 00:02:08,360
+Mais le point clé est que cette croissance folle n'a pas du tout été progressive : elle s'est concentrée
+
+28
+00:02:08,360 --> 00:02:12,879
+presque exclusivement sur les tout derniers siècles de cette période historique.
+
+29
+00:02:13,599 --> 00:02:18,359
+Ce qui nous amène à la section 2 : le super-aliment du passé.
+
+30
+00:02:18,359 --> 00:02:23,519
+Or, ce qui est vraiment fascinant dans les données sur les cultures de l'époque, c'est le
+
+31
+00:02:23,519 --> 00:02:27,079
+fossé énorme créé par cette plante venue des Amériques.
+
+32
+00:02:27,079 --> 00:02:34,000
+Pensez-y : un champ de pommes de terre produisait pas moins de 31 900 MJ. Nous parlons de près de
+
+33
+00:02:34,000 --> 00:02:40,800
+trois fois l'énergie offerte par un champ de blé, qui plafonnait à 8 900 MJ, ou d'avoine à 9 300 MJ.
+
+34
+00:02:40,800 --> 00:02:45,840
+Et pour mieux comprendre la portée de tout cela, pour fournir 42 MJ, ce qui est à peu près l'énergie
+
+35
+00:02:45,840 --> 00:02:50,400
+pour nourrir une famille entière pendant un an, il fallait plus de 1,6 acre cultivé
+
+36
+00:02:50,400 --> 00:02:51,920
+en céréales traditionnelles.
+
+37
+00:02:51,920 --> 00:02:58,040
+Avec la pomme de terre, il suffisait d'à peine 0,50 acre (un demi-acre) : une quantité de calories gigantesque
+
+38
+00:02:58,040 --> 00:03:00,160
+concentrée dans un espace minuscule.
+
+39
+00:03:00,160 --> 00:03:05,120
+Et croyez-moi, une telle innovation n'est pas passée inaperçue auprès des grands penseurs.
+
+40
+00:03:05,120 --> 00:03:09,800
+Même Adam Smith, dans sa célèbre "Richesse des nations", écrivait précisément
+
+41
+00:03:09,800 --> 00:03:14,360
+cela, soulignant que la nourriture produite par les pommes de terre était bien supérieure à celle
+
+42
+00:03:14,360 --> 00:03:15,360
+du blé.
+
+43
+00:03:15,360 --> 00:03:20,040
+En somme, les pères de l'économie classique comprenaient en temps réel que le tubercule garantissait
+
+44
+00:03:20,040 --> 00:03:24,480
+un apport nutritionnel exceptionnel, capable de soutenir la santé et le travail humain
+
+45
+00:03:24,480 --> 00:03:26,400
+à des niveaux jusqu'alors impensables.
+
+46
+00:03:26,400 --> 00:03:30,320
+Passons à la section 3 : l'expérience historique naturelle.
+
+47
+00:03:30,320 --> 00:03:35,640
+C'est là que surgit un problème de taille pour les économistes : la fameuse causalité inverse.
+
+48
+00:03:35,640 --> 00:03:39,920
+En pratique, est-ce l'introduction de la pomme de terre qui a fait exploser la population, ou est-ce
+
+49
+00:03:39,920 --> 00:03:44,560
+une population déjà en croissance rapide qui avait désespérément besoin de planter des pommes de terre ?
+
+50
+00:03:44,560 --> 00:03:47,600
+C'est un peu le dilemme classique de l'œuf et de la poule.
+
+51
+00:03:47,600 --> 00:03:52,000
+Pour s'en sortir de manière scientifique, l'étude utilise la géographie et le concept d'aptitude
+
+52
+00:03:52,000 --> 00:03:57,240
+agricole. En se basant uniquement sur les données du climat et du sol, qui sont évidemment immuables
+
+53
+00:03:57,240 --> 00:04:01,560
+et ne dépendent pas de l'homme, les chercheurs obtiennent une variable totalement indépendante
+
+54
+00:04:01,560 --> 00:04:02,880
+pour faire un test propre.
+
+55
+00:04:02,879 --> 00:04:05,560
+Pas de biais, pas de choix humains en jeu.
+
+56
+00:04:05,560 --> 00:04:10,319
+On applique ainsi une méthode très élégante qu'on appelle en économie la différence des
+
+57
+00:04:10,319 --> 00:04:11,319
+différences.
+
+58
+00:04:11,319 --> 00:04:16,079
+En clair : premièrement, on identifie les régions idéales pour cultiver les pommes de terre et celles
+
+59
+00:04:16,079 --> 00:04:17,399
+totalement inadaptées.
+
+60
+00:04:17,399 --> 00:04:23,079
+Deuxièmement, on observe les données d'avant 1700, et troisièmement, on les compare avec celles d'après
+
+61
+00:04:23,079 --> 00:04:24,319
+1700.
+
+62
+00:04:24,319 --> 00:04:30,519
+De cette manière ingénieuse, on réussit à isoler chirurgicalement l'effet de la pomme de terre uniquement
+
+63
+00:04:30,519 --> 00:04:33,120
+dans les endroits où la nature lui permettait de prospérer.
+
+64
+00:04:33,120 --> 00:04:37,439
+Et nous voici aux résultats, section 4 : population et villes.
+
+65
+00:04:37,439 --> 00:04:41,159
+Les modèles de régression montrent une discontinuité très nette.
+
+66
+00:04:41,159 --> 00:04:47,079
+Après des siècles de stagnation, à partir de l'an 1700, on constate une croissance sans équivoque.
+
+67
+00:04:47,079 --> 00:04:52,319
+Les données prouvent que la population et l'urbanisation ont grimpé en flèche proportionnellement
+
+68
+00:04:52,319 --> 00:04:57,639
+et spécifiquement dans les zones qui étaient géographiquement adaptées à la pomme de terre,
+
+69
+00:04:57,639 --> 00:05:00,079
+précisément au moment de sa diffusion massive.
+
+70
+00:05:00,199 --> 00:05:04,159
+Dans les régions inadaptées à sa culture, en revanche, rien de comparable ne s'est produit
+
+71
+00:05:04,159 --> 00:05:05,959
+sur la même période.
+
+72
+00:05:05,959 --> 00:05:10,240
+Et cela illustre brillamment la solidité de l'étude.
+
+73
+00:05:10,240 --> 00:05:13,399
+Il y a un alignement parfait et vérifiable.
+
+74
+00:05:13,399 --> 00:05:18,360
+Les nations qui présentaient un pourcentage élevé de terres, disons, naturellement propices
+
+75
+00:05:18,360 --> 00:05:23,399
+sur le plan climatique, sont effectivement celles qui ont dominé la production mondiale
+
+76
+00:05:23,399 --> 00:05:26,479
+de pommes de terre documentée pour l'année 1900.
+
+77
+00:05:26,480 --> 00:05:31,200
+En pratique, la nature a fourni les conditions préalables parfaites et l'histoire économique
+
+78
+00:05:31,200 --> 00:05:32,800
+a saisi l'opportunité au bond.
+
+79
+00:05:32,800 --> 00:05:38,120
+Mais préparez-vous, car le point crucial de toute cette enquête est ce chiffre.
+
+80
+00:05:38,120 --> 00:05:41,879
+Selon des estimations basées sur des modèles mathématiques très rigoureux,
+
+81
+00:05:41,879 --> 00:05:46,520
+l'introduction de la pomme de terre explique à elle seule environ 25 %.
+
+82
+00:05:46,520 --> 00:05:51,400
+Exactement, un quart de l'ensemble de la croissance démographique et du taux d'urbanisation
+
+83
+00:05:51,400 --> 00:05:55,560
+enregistrés dans le Vieux Monde entre 1700 et 1900.
+
+84
+00:05:55,600 --> 00:05:59,120
+Un quart entier du développement démographique mondial pendant deux siècles
+
+85
+00:05:59,120 --> 00:06:03,759
+est le fruit exclusif de cette seule et incroyable innovation agricole.
+
+86
+00:06:03,759 --> 00:06:08,120
+Concluons avec la section 5 : l'héritage du tubercule.
+
+87
+00:06:08,120 --> 00:06:12,439
+L'impact de ce choc agricole est allé bien au-delà de la simple démographie :
+
+88
+00:06:12,439 --> 00:06:14,319
+cela a eu un effet de cascade.
+
+89
+00:06:14,319 --> 00:06:19,000
+Comme il fallait beaucoup moins de terres pour produire les calories nécessaires à la survie,
+
+90
+00:06:19,000 --> 00:06:22,800
+une part énorme de la main-d'œuvre s'est libérée du travail des champs
+
+91
+00:06:22,800 --> 00:06:25,279
+et a migré massivement vers les villes,
+
+92
+00:06:25,320 --> 00:06:28,240
+alimentant ainsi l'industrie manufacturière naissante.
+
+93
+00:06:28,240 --> 00:06:33,120
+Mais il y a plus : cette nutrition supérieure a littéralement modifié la biologie humaine.
+
+94
+00:06:33,120 --> 00:06:36,000
+En lisant les registres militaires historiques, on découvre
+
+95
+00:06:36,000 --> 00:06:40,080
+que les soldats français nés dans des villages parfaits pour la pomme de terre
+
+96
+00:06:40,080 --> 00:06:41,640
+étaient plus grands en moyenne,
+
+97
+00:06:41,640 --> 00:06:46,240
+d'environ un demi-pouce par rapport à leurs camarades nés dans des zones non propices à sa culture.
+
+98
+00:06:46,240 --> 00:06:48,600
+Un véritable saut évolutif.
+
+99
+00:06:48,600 --> 00:06:51,520
+En somme, un seul et très humble tubercule
+
+100
+00:06:51,519 --> 00:06:58,399
+a redessiné de manière irréversible le tissu social, économique et même biologique de nations entières.
+
+101
+00:06:58,399 --> 00:07:01,639
+Ce qui soulève une question profonde sur notre présent :
+
+102
+00:07:01,639 --> 00:07:05,599
+si l'agriculture du passé a eu un tel effet à travers les siècles,
+
+103
+00:07:05,599 --> 00:07:09,560
+dans quelle mesure les immenses découvertes agricoles et technologiques d'aujourd'hui
+
+104
+00:07:09,560 --> 00:07:13,399
+vont-elles façonner le destin économique des prochaines générations ?
+
+105
+00:07:13,399 --> 00:07:16,000
+C'est une perspective qui donne vraiment à réfléchir.
+
+106
+00:07:16,000 --> 00:07:18,639
+Et c'est sur cela que nous terminons notre analysis d'aujourd'hui.
+
+107
+00:07:18,639 --> 00:07:23,120
+Merci d'avoir été avec nous dans ce fantastique voyage à travers l'histoire économique.

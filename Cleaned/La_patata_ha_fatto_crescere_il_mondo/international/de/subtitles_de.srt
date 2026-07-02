@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:05,120
+Willkommen zu dieser neuen Analyse. Heute tauchen wir in ein unglaubliches historisches Rätsel ein.
+
+2
+00:00:05,120 --> 00:00:09,040
+Wenn man sich den Titel ansieht, wirkt die Frage fast wie ein Scherz: Hat die Kartoffel die Welt
+
+3
+00:00:09,040 --> 00:00:13,960
+wachsen lassen? Und doch werden wir gleich anhand von Daten und Fakten entdecken, wie eine ganz gewöhnliche Knolle
+
+4
+00:00:13,960 --> 00:00:18,359
+den Lauf der menschlichen Zivilisation buchstäblich auf den Kopf gestellt und soziale
+
+5
+00:00:18,359 --> 00:00:21,120
+und industrielle Veränderungen von globalem Ausmaß ausgelöst hat – nicht mehr und nicht weniger.
+
+6
+00:00:21,120 --> 00:00:26,839
+Okay, steigen wir direkt ein. Wenn wir die historischen Dynamiken über einen sehr langen Zeitraum analysieren,
+
+7
+00:00:26,839 --> 00:00:31,640
+fällt etwas Unglaubliches ins Auge: Es gibt einen klaren Bruch, fast eine vertikale Wand.
+
+8
+00:00:31,640 --> 00:00:36,960
+Die Weltbevölkerung und die Urbanisierungsrate schießen in die Höhe, und zwar genau
+
+9
+00:00:36,960 --> 00:00:40,799
+zur gleichen Zeit, beginnend um das Jahr 1700.
+
+10
+00:00:40,799 --> 00:00:45,600
+Nach Jahrhunderten der Stagnation: Boom! Eine demografische Explosion, wie man sie
+
+11
+00:00:45,600 --> 00:00:51,799
+zuvor buchstäblich noch nie gesehen hatte. Aber was hat dieses explosive Wachstum ausgelöst?
+
+12
+00:00:51,800 --> 00:00:56,440
+Ich meine, jahrhundertelang steckte die Menschheit in dem fest, was wir in der Wirtschaftswissenschaft
+
+13
+00:00:56,440 --> 00:01:01,640
+die malthusianische Falle nennen. Einfach ausgedrückt: Man bekommt mehr Kinder, schafft es aber nicht,
+
+14
+00:01:01,640 --> 00:01:05,920
+die Nahrungsmittelproduktion zu steigern, um sie zu ernähren, sodass das Wachstum tragischerweise stoppt.
+
+15
+00:01:05,920 --> 00:01:11,680
+Was hat also plötzlich als Katalysator gewirkt und es uns ermöglicht, diese historischen Ketten
+
+16
+00:01:11,680 --> 00:01:13,600
+unumkehrbar zu sprengen?
+
+17
+00:01:13,600 --> 00:01:19,159
+Um das herauszufinden, folgen wir der fantastischen Wirtschaftsstudie von Nathan Nunn und Nancy Qian. Unser
+
+18
+00:01:19,159 --> 00:01:25,359
+Ablauf heute sieht so aus: Erstens, ein unerklärliches Bevölkerungswachstum. Zweitens, das Superfood
+
+19
+00:01:25,359 --> 00:01:31,719
+der Vergangenheit. Drittens, das natürliche historische Experiment. Viertens, die Ergebnisse zu Bevölkerung
+
+20
+00:01:31,719 --> 00:01:35,439
+und Städten. Und zum Abschluss: Das Erbe der Knolle.
+
+21
+00:01:35,439 --> 00:01:40,439
+Beginnen wir mit Abschnitt 1: Ein unerklärliches Bevölkerungswachstum.
+
+22
+00:01:40,439 --> 00:01:45,039
+Wir müssen uns daran erinnern, dass die Landwirtschaft der Alten Welt vor dem 18. Jahrhundert
+
+23
+00:01:45,040 --> 00:01:51,600
+extrem mühsam war. Der Boden war wenig ertragreich, und es gab strenge Grenzen. Und doch
+
+24
+00:01:51,600 --> 00:01:56,920
+zeigen die Aufzeichnungen, dass sich die Weltbevölkerung zwischen dem Jahr 1000 und 1900 mehr als
+
+25
+00:01:56,920 --> 00:02:02,000
+verfünffacht hat – von unter 300 Millionen auf etwa 1,6 Milliarden
+
+26
+00:02:02,000 --> 00:02:03,000
+Menschen.
+
+27
+00:02:03,000 --> 00:02:08,360
+Doch der entscheidende Punkt ist, dass dieses enorme Wachstum keineswegs schrittweise verlief. Es konzentrierte sich
+
+28
+00:02:08,360 --> 00:02:12,879
+fast ausschließlich auf die allerletzten Jahrhunderte dieses historischen Zeitraums.
+
+29
+00:02:13,599 --> 00:02:18,359
+Was uns zu Abschnitt 2 bringt: Das Superfood der Vergangenheit.
+
+30
+00:02:18,359 --> 00:02:23,519
+Das wirklich Faszinierende an den damaligen Erntedaten ist die
+
+31
+00:02:23,519 --> 00:02:27,079
+enorme Kluft, die diese Pflanze aus Amerika geschaffen hat.
+
+32
+00:02:27,079 --> 00:02:34,000
+Stellen Sie sich vor: Ein mit Kartoffeln bestelltes Feld lieferte stolze 31.900 Megajoule. Wir sprechen hier von fast
+
+33
+00:02:34,000 --> 00:02:40,800
+der dreifachen Energie eines Weizenfeldes (das bei 8.900 lag) oder eines Haferfeldes (9.300).
+
+34
+00:02:40,800 --> 00:02:45,840
+Um das Ausmaß zu verdeutlichen: Für 42 Megajoule – was etwa der Energie entspricht,
+
+35
+00:02:45,840 --> 00:02:50,400
+um eine ganze Familie ein Jahr lang zu ernähren – benötigte man über 1,6 Acre Land, das mit
+
+36
+00:02:50,400 --> 00:02:51,920
+traditionellem Getreide bebaut war.
+
+37
+00:02:51,920 --> 00:02:58,040
+Bei Kartoffeln reichten gerade mal 0,50 Acre (ein halber Acre) – eine gigantische Menge an Kalorien,
+
+38
+00:02:58,040 --> 00:03:00,160
+konzentriert auf kleinstem Raum.
+
+39
+00:03:00,160 --> 00:03:05,120
+Und glauben Sie mir, eine solche Innovation entging den großen Denkern keineswegs.
+
+40
+00:03:05,120 --> 00:03:09,800
+Sogar Adam Smith schrieb in seinem berühmten Werk „Der Wohlstand der Nationen“ genau
+
+41
+00:03:09,800 --> 00:03:14,360
+darüber und stellte fest, dass die aus Kartoffeln gewonnene Nahrung der des Weizens
+
+42
+00:03:14,360 --> 00:03:15,360
+weit überlegen war.
+
+43
+00:03:15,360 --> 00:03:20,040
+Kurz gesagt, die Väter der klassischen Nationalökonomie erkannten in Echtzeit, dass die Knolle einen
+
+44
+00:03:20,040 --> 00:03:24,480
+außergewöhnlichen Ernährungsschub garantierte, der die menschliche Gesundheit und Arbeitskraft
+
+45
+00:03:24,480 --> 00:03:26,400
+auf ein bis dahin unvorstellbares Niveau heben konnte.
+
+46
+00:03:26,400 --> 00:03:30,320
+Kommen wir zu Abschnitt 3: Das natürliche historische Experiment.
+
+47
+00:03:30,320 --> 00:03:35,640
+Hier ergibt sich ein großes Problem für Ökonomen: die berüchtigte umgekehrte Kausalität.
+
+48
+00:03:35,640 --> 00:03:39,920
+Hat die Einführung der Kartoffel die Bevölkerung explodieren lassen, oder brauchte eine
+
+49
+00:03:39,920 --> 00:03:44,560
+bereits schnell wachsende Bevölkerung verzweifelt den Anbau von Kartoffeln?
+
+50
+00:04:17,399 --> 00:04:23,079
+Es ist das klassische Henne-Ei-Dilemma.
+
+51
+00:03:47,600 --> 00:03:52,000
+Um dieses wissenschaftlich zu lösen, nutzt die Forschung die Geografie und das Konzept der landwirtschaftlichen
+
+52
+00:03:52,000 --> 00:03:57,240
+Eignung. Basierend ausschließlich auf Klima- und Bodendaten, die natürlich unveränderlich
+
+53
+00:03:57,240 --> 00:04:01,560
+und vom Menschen unabhängig sind, erhalten die Forscher eine völlig unabhängige Variable
+
+54
+00:04:01,560 --> 00:04:02,880
+für einen sauberen Test.
+
+55
+00:04:02,879 --> 00:04:05,560
+Keine Verzerrung, keine menschlichen Entscheidungen im Weg.
+
+56
+00:04:05,560 --> 00:04:10,319
+So wird eine hochelegante Methode angewandt, die wir in der Ökonomie als Differenz-von-Differenzen-Ansatz
+
+57
+00:04:10,319 --> 00:04:11,319
+bezeichnen.
+
+58
+00:04:11,319 --> 00:04:16,079
+Kurz gesagt: Erstens identifiziert man die Regionen, die sich perfekt für den Kartoffelanbau eignen, und jene,
+
+59
+00:04:16,079 --> 00:04:17,399
+die völlig ungeeignet sind.
+
+60
+00:04:17,399 --> 00:04:23,079
+Zweitens betrachtet man die Daten vor dem Jahr 1700, und drittens vergleicht man sie mit denen nach
+
+61
+00:04:23,079 --> 00:04:24,319
+1700.
+
+62
+00:04:24,319 --> 00:04:30,519
+Auf diese geniale Weise gelingt es, die Wirkung der Kartoffel präzise zu isolieren – und zwar einzig und allein
+
+63
+00:04:30,519 --> 00:04:33,120
+an den Orten, an denen die Natur ihr Gedeihen zuließ.
+
+64
+00:04:33,120 --> 00:04:37,439
+Und hier sind die Ergebnisse, Abschnitt 4: Bevölkerung und Städte.
+
+65
+00:04:37,439 --> 00:04:41,159
+Und die Regressionsmodelle zeigen einen sehr deutlichen Bruch.
+
+66
+00:04:41,159 --> 00:04:47,079
+Nach Jahrhunderten der Stagnation ist ab dem Jahr 1700 ein unmissverständliches Wachstum zu erkennen.
+
+67
+00:04:47,079 --> 00:04:52,319
+Die Daten belegen, dass Bevölkerung und Urbanisierung proportional in die Höhe geschossen sind,
+
+68
+00:04:52,319 --> 00:04:57,639
+und zwar ganz gezielt nur in den Gebieten, die geografisch für die Kartoffel geeignet waren –
+
+69
+00:04:57,639 --> 00:05:00,079
+genau zeitgleich mit ihrer Massenverbreitung.
+
+70
+00:05:00,199 --> 00:05:04,159
+In den für den Anbau ungeeigneten Regionen hingegen geschah im selben Zeitraum
+
+71
+00:05:04,159 --> 00:05:05,959
+nichts Vergleichbares.
+
+72
+00:05:05,959 --> 00:05:10,240
+Und dies verdeutlicht eindrucksvoll die Belastbarkeit der Studie.
+
+73
+00:05:10,240 --> 00:05:13,399
+Es gibt eine perfekte und überprüfbare Übereinstimmung.
+
+74
+00:05:13,399 --> 00:05:18,360
+Länder mit einem hohen Anteil an Flächen, die klimatisch gesehen sozusagen von Natur aus
+
+75
+00:05:18,360 --> 00:05:23,399
+begünstigt waren, sind tatsächlich jene, die die weltweite Kartoffelproduktion
+
+76
+00:05:23,399 --> 00:05:26,479
+im dokumentierten Jahr 1900 dominierten.
+
+77
+00:05:26,480 --> 00:05:31,200
+Praktisch hat die Natur die perfekten Voraussetzungen geliefert, und die Wirtschaftsgeschichte
+
+78
+00:05:31,200 --> 00:05:32,800
+hat die Chance beim Schopfe gepackt.
+
+79
+00:05:32,800 --> 00:05:38,120
+Aber machen Sie sich bereit, denn der entscheidende Punkt der gesamten Untersuchung ist diese Zahl:
+
+80
+00:05:38,120 --> 00:05:41,879
+Nach Schätzungen, die auf wirklich strengen mathematischen Modellen basieren,
+
+81
+00:05:41,879 --> 00:05:46,520
+erklärt die Einführung der Kartoffel allein etwa 25 % –
+
+82
+00:05:46,520 --> 00:05:51,400
+genau, ein Viertel – des gesamten Wachstums der Bevölkerung und der Urbanisierungsrate,
+
+83
+00:05:51,400 --> 00:05:55,560
+das in der Alten Welt zwischen den Jahren 1700 und 1900 stattfand.
+
+84
+00:05:55,600 --> 00:05:59,120
+Ein ganzes Viertel der weltweiten demografischen Entwicklung über zwei Jahrhunderte
+
+85
+00:05:59,120 --> 00:06:03,759
+ist ausschließlich dieser einen, unglaublichen landwirtschaftlichen Innovation zu verdanken.
+
+86
+00:06:03,759 --> 00:06:08,120
+Schließen wir ab mit Abschnitt 5: Das Erbe der Knolle.
+
+87
+00:06:08,120 --> 00:06:12,439
+Die Auswirkungen dieses landwirtschaftlichen Schocks gingen weit über die reine Demografie hinaus,
+
+88
+00:06:12,439 --> 00:06:14,319
+es gab einen Kaskadeneffekt.
+
+89
+00:06:14,319 --> 00:06:19,000
+Da viel weniger Land benötigt wurde, um die zum Überleben notwendigen Kalorien zu produzieren,
+
+90
+00:06:19,000 --> 00:06:22,800
+wurde ein riesiger Teil der Arbeitskräfte von der harten Feldarbeit befreit
+
+91
+00:06:22,800 --> 00:06:25,279
+und zog in Scharen in die Städte,
+
+92
+00:06:25,320 --> 00:06:28,240
+was wiederum die aufstrebende verarbeitende Industrie befeuerte.
+
+93
+00:06:28,240 --> 00:06:33,120
+Aber das ist noch nicht alles: Diese überlegene Ernährung hat die menschliche Biologie buchstäblich verändert.
+
+94
+00:06:33,120 --> 00:06:36,000
+Wenn wir in historischen Militärregistern lesen, erfahren wir,
+
+95
+00:06:36,000 --> 00:06:40,080
+dass französische Soldaten, die in für Kartoffeln idealen Dörfern geboren wurden,
+
+96
+00:06:40,080 --> 00:06:41,640
+im Durchschnitt etwa einen halben Zoll
+
+97
+00:06:41,640 --> 00:06:46,240
+größer waren als ihre Kameraden aus Regionen, die sich nicht für den Anbau eigneten.
+
+98
+00:06:46,240 --> 00:06:48,600
+Ein regelrechter evolutionärer Sprung!
+
+99
+00:06:48,600 --> 00:06:51,520
+Kurzgesagt: Eine einzige, extrem bescheidene Knolle
+
+100
+00:06:51,519 --> 00:06:58,399
+hat das soziale, wirtschaftliche und sogar biologische Gefüge ganzer Nationen unumkehrbar verändert.
+
+101
+00:06:58,399 --> 00:07:01,639
+Das wirft eine tiefgründige Frage bezüglich unserer Gegenwart auf:
+
+102
+00:07:01,639 --> 00:07:05,599
+Wenn die Landwirtschaft der Vergangenheit über Jahrhunderte hinweg eine solche Wirkung hatte,
+
+103
+00:07:05,599 --> 00:07:09,560
+in welchem Maße werden dann die enormen landwirtschaftlichen und technologischen Entdeckungen von heute
+
+104
+00:07:09,560 --> 00:07:13,399
+das wirtschaftliche Schicksal kommender Generationen prägen?
+
+105
+00:07:13,399 --> 00:07:16,000
+Das ist eine Perspektive, die wirklich zum Nachdenken anregt.
+
+106
+00:07:16,000 --> 00:07:18,639
+Und damit schließen wir unsere heutige Analyse ab.
+
+107
+00:07:18,639 --> 00:07:23,120
+Vielen Dank, dass Sie uns auf dieser fantastischen Reise durch die Wirtschaftsgeschichte begleitet haben.

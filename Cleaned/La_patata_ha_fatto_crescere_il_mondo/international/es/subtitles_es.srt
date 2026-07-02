@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:05,120
+Bienvenidos a este nuevo análisis, hoy nos sumergimos en un misterio histórico increíble,
+
+2
+00:00:05,120 --> 00:00:09,040
+mirando el título la pregunta parece casi una broma: ¿la patata hizo crecer al
+
+3
+00:00:09,040 --> 00:00:13,960
+mundo? Y, sin embargo, estamos a punto de descubrir, con datos y economía en mano, cómo un tubérculo comunísimo
+
+4
+00:00:13,960 --> 00:00:18,359
+ha cambiado literalmente el rumbo de la civilización humana, desencadenando cambios sociales
+
+5
+00:00:18,359 --> 00:00:21,120
+e industriales a escala global, nada menos.
+
+6
+00:00:21,120 --> 00:00:26,839
+Muy bien, entremos de lleno en el tema. Si analizamos las dinámicas históricas a muy largo plazo,
+
+7
+00:00:26,839 --> 00:00:31,640
+salta a la vista algo increíble: hay una ruptura neta, casi una pared vertical,
+
+8
+00:00:31,640 --> 00:00:36,960
+la población mundial y la tasa de urbanización se disparan hacia arriba, y lo hacen exactamente
+
+9
+00:00:36,960 --> 00:00:40,799
+juntas, empezando justo alrededor del año 1700.
+
+10
+00:00:40,799 --> 00:00:45,600
+Tras siglos y siglos de calma plana, bum, una expansión demográfica literalmente
+
+11
+00:00:45,600 --> 00:00:51,799
+nunca antes vista. Pero entonces, ¿qué desencadenó este crecimiento explosivo?
+
+12
+00:00:51,800 --> 00:00:56,440
+Es decir, durante siglos la humanidad permaneció atrapada en lo que en economía llamamos
+
+13
+00:00:56,440 --> 00:01:01,640
+la trampa malthusiana: en pocas palabras, tienes más hijos, pero no logras aumentar
+
+14
+00:01:01,640 --> 00:01:05,920
+el alimento para alimentarlos, por lo que el crecimiento se detiene, trágicamente.
+
+15
+00:01:05,920 --> 00:01:11,680
+¿Qué actuó de repente como catalizador, permitiéndonos romper estas cadenas históricas
+
+16
+00:01:11,680 --> 00:01:13,600
+de manera irreversible?
+
+17
+00:01:13,600 --> 00:01:19,159
+Para resolverlo, seguiremos la fantástica investigación económica de Nathan Nunn y Nancy Qian.
+
+18
+00:01:19,159 --> 00:01:25,359
+Nuestro recorrido hoy será el siguiente: primero, un inexplicable crecimiento demográfico; segundo, el súper
+
+19
+00:01:25,359 --> 00:01:31,719
+alimento del pasado; tercero, el experimento histórico natural; cuarto, los resultados sobre población
+
+20
+00:01:31,719 --> 00:01:35,439
+y ciudades; y para terminar, el legado del tubérculo.
+
+21
+00:01:35,439 --> 00:01:40,439
+Comencemos con la sección 1: un inexplicable crecimiento demográfico.
+
+22
+00:01:40,439 --> 00:01:45,039
+Debemos recordar que, antes del siglo XVIII, la agricultura del Viejo Mundo
+
+23
+00:01:45,040 --> 00:01:51,600
+tenía muchísimas dificultades, la tierra rendía poco y había límites muy estrictos; y, sin embargo,
+
+24
+00:01:51,600 --> 00:01:56,920
+los registros indican que entre el año 1000 y el año 1900, la población mundial se
+
+25
+00:01:56,920 --> 00:02:02,000
+quintuplicó con creces, pasando de menos de 300 millones a unos mil seiscientos millones
+
+26
+00:02:02,000 --> 00:02:03,000
+de personas.
+
+27
+00:02:03,000 --> 00:02:08,360
+Pero el punto clave es que este crecimiento asombroso no fue para nada gradual: se concentró
+
+28
+00:02:08,360 --> 00:02:12,879
+casi exclusivamente en los últimos siglos de este intervalo histórico.
+
+29
+00:02:13,599 --> 00:02:18,359
+Lo que nos lleva a la sección 2: el superalimento del pasado.
+
+30
+00:02:18,359 --> 00:02:23,519
+Ahora, lo realmente fascinante que surge de los datos sobre los cultivos de la época es la
+
+31
+00:02:23,519 --> 00:02:27,079
+diferencia abismal creada por esta planta llegada de América.
+
+32
+00:02:27,079 --> 00:02:34,000
+Piénsenlo: un campo cultivado con patatas producía nada menos que 31.900 MJ. Estamos hablando de casi
+
+33
+00:02:34,000 --> 00:02:40,800
+tres veces la energía que ofrecía un campo de trigo, que se quedaba en 8.900, o de avena con 9.300.
+
+34
+00:02:40,800 --> 00:02:45,840
+Y para entender mejor la magnitud de todo esto: para obtener 42 MJ, que es más o menos la energía
+
+35
+00:02:45,840 --> 00:02:50,400
+para alimentar a una familia entera durante un año, se necesitaban más de 1,6 acres cultivados
+
+36
+00:02:50,400 --> 00:02:51,920
+con cereales tradicionales.
+
+37
+00:02:51,920 --> 00:02:58,040
+Con las patatas, bastaban apenas 0,50 acres, medio acre: una cantidad gigante de calorías
+
+38
+00:02:58,040 --> 00:03:00,160
+concentrada en uno espacio minúsculo.
+
+39
+00:03:00,160 --> 00:03:05,120
+Y créanme, una innovación así no pasó desapercibida para los grandes pensadores.
+
+40
+00:03:05,120 --> 00:03:09,800
+Incluso Adam Smith, en su célebre "La riqueza de las naciones", escribía precisamente
+
+41
+00:03:09,800 --> 00:03:14,360
+esto, señalando que el alimento producido por las patatas era muy superior al
+
+42
+00:03:14,360 --> 00:03:15,360
+del trigo.
+
+43
+00:03:15,360 --> 00:03:20,040
+En resumen, los padres de la economía clásica entendían en tiempo real que el tubérculo garantizaba
+
+44
+00:03:20,040 --> 00:03:24,480
+un impulso nutricional excepcional, capaz de sostener la salud y el trabajo humano
+
+45
+00:03:24,480 --> 00:03:26,400
+a niveles hasta entonces impensables.
+
+46
+00:03:26,400 --> 00:03:30,320
+Y pasamos a la sección 3: el experimento histórico natural.
+
+47
+00:03:30,320 --> 00:03:35,640
+Aquí surge un gran problema para los economistas: la famosa causalidad inversa.
+
+48
+00:03:35,640 --> 00:03:39,920
+En la práctica, ¿fue la introducción de la patata lo que hizo explotar la población, o fue
+
+49
+00:03:39,920 --> 00:03:44,560
+una población en rápido crecimiento la que necesitó desesperadamente plantar patatas?
+
+50
+00:03:44,560 --> 00:03:47,600
+Es un poco el clásico dilema del huevo y la gallina.
+
+51
+00:03:47,600 --> 00:03:52,000
+Para resolverlo de forma científica, la investigación utiliza la geografía y el concepto de idoneidad
+
+52
+00:03:52,000 --> 00:03:57,240
+agrícola, basándose exclusivamente en datos del clima y del suelo que, obviamente, son inmutables
+
+53
+00:03:57,240 --> 00:04:01,560
+y no dependen del hombre; así, los investigadores obtienen una variable totalmente independiente
+
+54
+00:04:01,560 --> 00:04:02,880
+para hacer una prueba limpia.
+
+55
+00:04:02,879 --> 00:04:05,560
+Sin sesgos, sin decisiones humanas de por medio.
+
+56
+00:04:05,560 --> 00:04:10,319
+Así se aplica un método superelegante que en economía llamamos diferencia en
+
+57
+00:04:10,319 --> 00:04:11,319
+diferencias.
+
+58
+00:04:11,319 --> 00:04:16,079
+En pocas palabras: primero se identifican las regiones perfectas para cultivar patatas y aquellas
+
+59
+00:04:16,079 --> 00:04:17,399
+totalmente inadecuadas.
+
+60
+00:04:17,399 --> 00:04:23,079
+Segundo, se analizan los datos antes del año 1700 y, tercero, se comparan con los posteriores
+
+61
+00:04:23,079 --> 00:04:24,319
+al 1700.
+
+62
+00:04:24,319 --> 00:04:30,519
+De esta forma ingeniosa se logra aislar quirúrgicamente el efecto de la patata única y exclusivamente
+
+63
+00:04:30,519 --> 00:04:33,120
+en los lugares donde la naturaleza permitía que prosperara.
+
+64
+00:04:33,120 --> 00:04:37,439
+Y aquí están los resultados de la sección 4: población y ciudades.
+
+65
+00:04:37,439 --> 00:04:41,159
+Los modelos de regresión muestran una discontinuidad clarísima.
+
+66
+00:04:41,159 --> 00:04:47,079
+Tras siglos de estancamiento, a partir del año 1700 en adelante se observa un crecimiento inequívoco.
+
+67
+00:04:47,079 --> 00:04:52,319
+Los datos certifican que la población y la urbanización se dispararon proporcionalmente
+
+68
+00:04:52,319 --> 00:04:57,639
+y de manera específica solo en aquellas áreas que eran geográficamente idóneas para la patata,
+
+69
+00:04:57,639 --> 00:05:00,079
+coincidiendo precisamente con su difusión masiva.
+
+70
+00:05:00,199 --> 00:05:04,159
+En cambio, en las regiones no aptas para su cultivo, en el mismo intervalo de tiempo no
+
+71
+00:05:04,159 --> 00:05:05,959
+ocurrió nada comparable.
+
+72
+00:05:05,959 --> 00:05:10,240
+Y esto ilustra brillantemente la solidez del estudio.
+
+73
+00:05:10,240 --> 00:05:13,399
+Hay una alineación perfecta y verificable.
+
+74
+00:05:13,399 --> 00:05:18,360
+Las naciones que tenían un alto porcentaje de tierras, digamos, naturalmente predispuestas
+
+75
+00:05:18,360 --> 00:05:23,399
+desde el punto de vista climático son efectivamente las que dominaron la producción global
+
+76
+00:05:23,399 --> 00:05:26,479
+de patatas documentada para el año 1900.
+
+77
+00:05:26,480 --> 00:05:31,200
+En la práctica, la naturaleza proporcionó las condiciones previas perfectas y la historia económica
+
+78
+00:05:31,200 --> 00:05:32,800
+aprovechó la oportunidad.
+
+79
+00:05:32,800 --> 00:05:38,120
+Pero prepárense, porque el punto crucial de toda la investigación es esta cifra.
+
+80
+00:05:38,120 --> 00:05:41,879
+Según estimaciones basadas en modelos matemáticos realmente rigurosos,
+
+81
+00:05:41,879 --> 00:05:46,520
+la introducción de la patata explica por sí sola cerca del 25%.
+
+82
+00:05:46,520 --> 00:05:51,400
+Exacto, una cuarta parte de todo el crecimiento de la población y de la tasa de urbanización
+
+83
+00:05:51,400 --> 00:05:55,560
+registrado en el Viejo Mundo entre el año 1700 y el año 1900.
+
+84
+00:05:55,600 --> 00:05:59,120
+Una cuarta parte entera del desarrollo demográfico global de dos siglos
+
+85
+00:05:59,120 --> 00:06:03,759
+se debe exclusivamente a esta única e increíble innovación agrícola.
+
+86
+00:06:03,759 --> 00:06:08,120
+Vamos a concluir con la sección 5: el legado del tubérculo.
+
+87
+00:06:08,120 --> 00:06:12,439
+El impacto de este choque agrícola fue mucho más allá de la simple demografía,
+
+88
+00:06:12,439 --> 00:06:14,319
+fue un efecto en cascada.
+
+89
+00:06:14,319 --> 00:06:19,000
+Como se necesitaba mucha menos tierra para producir las calorías necesarias para sobrevivir,
+
+90
+00:06:19,000 --> 00:06:22,800
+una enorme cantidad de mano de obra se liberó de las tareas del campo
+
+91
+00:06:22,800 --> 00:06:25,279
+y se trasladó masivamente a las ciudades,
+
+92
+00:06:25,320 --> 00:06:28,240
+alimentando precisamente la naciente industria manufacturera.
+
+93
+00:06:28,240 --> 00:06:33,120
+Pero hay más, esta nutrición superior cambió literalmente la biología humana.
+
+94
+00:06:33,120 --> 00:06:36,000
+Piensen que al leer los registros militares históricos,
+
+95
+00:06:36,000 --> 00:06:40,080
+descubrimos que los soldados franceses nacidos en pueblos idóneos para las patatas
+
+96
+00:06:40,080 --> 00:06:41,640
+eran más altos en promedio,
+
+97
+00:06:41,640 --> 00:06:46,240
+cerca de media pulgada más en comparación con sus compañeros nacidos en zonas no aptas para el cultivo.
+
+98
+00:06:46,240 --> 00:06:48,600
+Un auténtico salto evolutivo.
+
+99
+00:06:48,600 --> 00:06:51,520
+En resumen, un solo y humildísimo tubérculo
+
+100
+00:06:51,519 --> 00:06:58,399
+rediseñó el tejido social, económico e incluso biológico de naciones enteras de manera irreversible.
+
+101
+00:06:58,399 --> 00:07:01,639
+Lo que plantea una profunda interrogante sobre nuestro presente.
+
+102
+00:07:01,639 --> 00:07:05,599
+Si la agricultura del pasado tuvo semejante efecto a lo largo de los siglos,
+
+103
+00:07:05,599 --> 00:07:09,560
+¿en qué medida los enormes descubrimientos agrícolas y tecnológicos de hoy
+
+104
+00:07:09,560 --> 00:07:13,399
+darán forma al destino económico de las próximas generaciones?
+
+105
+00:07:13,399 --> 00:07:16,000
+Es una perspectiva que realmente invita a reflexionar.
+
+106
+00:07:16,000 --> 00:07:18,639
+Y con esto cerramos nuestro análisis de hoy.
+
+107
+00:07:18,639 --> 00:07:23,120
+Gracias por habernos acompañado en este fantástico viaje por la historia económica.
