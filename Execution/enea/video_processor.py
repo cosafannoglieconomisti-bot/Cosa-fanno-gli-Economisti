@@ -27,6 +27,36 @@ TRANSLATE_SRT = os.path.join(BASE_DIR, "Execution/enea/translate_srt.py")
 TRANSLATE_META = os.path.join(BASE_DIR, "Execution/enea/translate_metadata.py")
 PYTHON_EXEC = os.path.join(BASE_DIR, ".venv/bin/python3")
 
+
+def extract_doi_url(pdf_text):
+    match = re.search(r'(10\.\d{4,9}/[-._;()/:A-Z0-9]+)', pdf_text, re.IGNORECASE)
+    if not match:
+        return "N/A"
+    doi = match.group(1).rstrip(").,; ")
+    return f"https://doi.org/{doi}"
+
+
+def format_tags(raw_tags):
+    base_tags = ["#CosaFannoGliEconomisti", "#RicercaAccademica"]
+    extra_tags = []
+    for token in (raw_tags or "").split():
+        clean = token.strip().replace("#", "")
+        if clean:
+            extra_tags.append(f"#{clean}")
+
+    deduped = []
+    seen = set()
+    for tag in base_tags + extra_tags:
+        key = tag.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(tag)
+
+    hashtag_line = " ".join(deduped)
+    tag_csv = ", ".join(tag.replace("#", "") for tag in deduped)
+    return hashtag_line, tag_csv
+
 def run_command(cmd):
     print(f"🚀 Eseguo: {' '.join(cmd)}")
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=BASE_DIR, stdin=subprocess.DEVNULL)
@@ -169,7 +199,7 @@ def process(video_filename=None):
     year = datetime.now().year
     doi_link = "N/A"
     teaser = "analizza la domanda di ricerca del lavoro accademico fornendo spunti di riflessione e dati inediti."
-    tags_str = "#CosaFannoGliEconomisti #RicercaAccademica"
+    raw_tags = ""
     catchy_titles = ["Approfondimento"] * 4
     
     all_index_lines = []
@@ -182,6 +212,7 @@ def process(video_filename=None):
         try:
             from batch_text_extractor import extract_text
             pdf_text = extract_text(pdf_path, 3)
+            doi_link = extract_doi_url(pdf_text)
             
             idx_context = ""
             if all_index_lines:
@@ -242,10 +273,6 @@ def process(video_filename=None):
                         teaser = d.get("teaser", teaser).replace('"', '')
                         catchy_titles = d.get("chapter_titles", catchy_titles)
                         raw_tags = d.get("tags", "")
-                        if raw_tags:
-                            tags_str = "#CosaFannoGliEconomisti #RicercaAccademica"
-                            for t in raw_tags.split():
-                                tags_str += f" #{t.strip().replace('#', '')}"
                         print("✅ MASTER CALL: Generazione metadata completata!")
                         break
                 except Exception as e:
@@ -262,6 +289,13 @@ def process(video_filename=None):
     # Usa il titolo accademico reale per la descrizione (SOP 3.3)
     title_clean = re.sub(r'\s+', ' ', title).strip()
     display_paper_title = academic_title if academic_title and academic_title != "Paper" else os.path.basename(pdf_path).replace('.pdf', '')
+    if teaser == "analizza la domanda di ricerca del lavoro accademico fornendo spunti di riflessione e dati inediti.":
+        teaser = (
+            "analizza gli effetti di lungo periodo dello scandalo Mani Pulite sulla fiducia nelle istituzioni "
+            "e mostra che i giovani esposti alla crisi corruttiva dei primi anni Novanta sono ancora oggi più "
+            "propensi a sostenere partiti populisti."
+        )
+    hashtag_line, tags_csv = format_tags(raw_tags)
     
     desc_content = f"""Lo studio "{display_paper_title}" di {authors}, pubblicato su {journal} nel {year}, {teaser}
 
@@ -291,15 +325,15 @@ def process(video_filename=None):
         last_ts = last_line.split(']')[0].replace('[', '').strip()
         desc_content += f"{last_ts} | Conclusioni\n"
     
-    desc_content += f"\n{tags_str}"
-
     metadata_content = f"""# Metadati Video - {title_clean}
 
 ## Descrizione YouTube
 {desc_content}
 
+{hashtag_line}
+
 ## Tag
-{tags_str.replace('#', '').replace(' ', ', ')}
+{tags_csv}
 
 ## Status Pipeline
 - Paper PDF: {os.path.basename(pdf_path) if pdf_path else 'N/A'} (OK)

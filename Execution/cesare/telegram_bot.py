@@ -93,12 +93,34 @@ def load_commands():
 bot = telebot.TeleBot(TOKEN)
 client = genai.Client(api_key=GEMINI_API_KEY)
 
+TELEGRAM_COMMANDS = [
+    types.BotCommand("paper", "Seleziona paper e imposta la pipeline"),
+    types.BotCommand("copertina", "Genera o rigenera la copertina"),
+    types.BotCommand("produzione", "Avvia la produzione NotebookLM"),
+    types.BotCommand("pulizia", "Pulisce video e infografica scaricati"),
+    types.BotCommand("upload", "Carica il video su YouTube"),
+    types.BotCommand("playlist", "Assegna il video a una playlist"),
+    types.BotCommand("backup", "Esegue il backup GitHub"),
+    types.BotCommand("gmail", "Legge e sintetizza le email"),
+    types.BotCommand("report", "Genera il report del canale"),
+    types.BotCommand("articoli", "News hot e matching accademico"),
+    types.BotCommand("competitor", "Scouting competitor e commenti"),
+]
+
 def log_to_bridge(message_text, username, source="Telegram"):
     timestamp = datetime.now().strftime("%H:%M:%S")
     log_entry = f"[{timestamp}] {source} (@{username}): {message_text}\n"
     with open(BRIDGE_LOG, "a", encoding="utf-8") as f:
         f.write(log_entry)
     print(f"[{timestamp}] 🌉 Bridge: {source} (@{username}): {message_text[:50]}...")
+
+
+def register_telegram_commands():
+    try:
+        bot.set_my_commands(TELEGRAM_COMMANDS)
+        print("✅ Comandi Telegram registrati.")
+    except Exception as e:
+        print(f"⚠️ Impossibile registrare i comandi Telegram: {e}")
 
 def get_bundle_titles(pdf_paths):
     import fitz
@@ -1039,6 +1061,7 @@ def poll_hub():
         time.sleep(10)
 
 threading.Thread(target=poll_hub, daemon=True).start()
+register_telegram_commands()
 
 print("🤖 Cesare Online (Interactive Bridge)...")
 bot.infinity_polling()

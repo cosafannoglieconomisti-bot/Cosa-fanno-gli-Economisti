@@ -6,17 +6,18 @@ Responsabile della produzione video e della gestione della libreria dei paper. S
 
 ## 0. Workflow /paper (Selezione, Titolo e Copertina)
 
-La pipeline video inizia con la scelta del paper, la definizione del titolo e la creazione della copertina, tutto gestito interattivamente via Telegram.
+La pipeline video inizia con la scelta del paper, la definizione del titolo e la creazione della copertina. La control plane primaria e' Codex chat; Telegram/Cesare e' legacy.
 
 ### SOP: Selezione e Setup Iniziale
 
-1. **Comando**: `/paper` su Telegram.
-2. **Scelta Paper**: Il bot elenca i PDF in `Papers/Da fare/` (**ricorsivamente**). L'utente seleziona il paper.
-3. **Titoli Catchy**: Il bot estrae il testo (prime 3 pagine) con `batch_text_extractor.py` e propone 5 titoli catchy (max 5 parole, stile domanda).
-4. **Generazione Copertina**: Una volta scelto il titolo, il bot lancia immediatamente `generate_cover.py` per proporre una copertina (Comic Style, Orange/Black/White) con il titolo integrato.
+1. **Comando**: `/paper` in Codex chat oppure `./workflow paper`.
+2. **Scelta Paper**: Codex elenca i PDF in `Papers/Da fare/` (**ricorsivamente**) e propone i **titoli accademici reali** del paper, non i nomi file.
+3. **Titoli Catchy**: Codex estrae il testo (prime 3 pagine) con `batch_text_extractor.py` e propone 5 titoli catchy (max 5 parole, stile domanda).
+4. **Generazione Copertina**: Una volta scelto il titolo, Codex genera la copertina con il motore immagine nativo OpenAI/Codex seguendo la SOP visuale del canale. `generate_cover.py`/Gemini resta solo fallback legacy non raccomandato.
 5. **Approvazione e Archiviazione**:
-   - `✅ Approva`: Il bot recupera il **Titolo Accademico** reale del paper, crea la cartella `Cleaned/[Titolo_Scelto]`, sposta e rinomina il PDF in quella cartella, salva `copertina.png` e inizializza `video_metadata.md`.
-   - `🔄 Rigenera`: Il bot genera una nuova variante della copertina.
+   - `✅ Approva`: Solo dopo approvazione esplicita, Codex recupera il **Titolo Accademico** reale del paper, crea la cartella `Cleaned/[Titolo_Scelto]`, sposta e rinomina il PDF in `Cleaned/[Titolo_Scelto]/[Titolo_Accademico].pdf`, salva `copertina.png` e inizializza `video_metadata.md`.
+   - `🔄 Rigenera`: Codex genera una nuova variante della copertina.
+   - **Divieto**: non archiviare mai il PDF o i metadati prima dell'approvazione della copertina.
 6. **Titolo Forzato**: Il titolo approvato diventa l'identificativo univoco per tutto il processo NotebookLM.
 
 ---
@@ -108,7 +109,8 @@ python execution/video_cleaner.py ~/Downloads/video.mp4 L_ascesa_del_Male /path/
 
 1. `Execution/cesare/telegram_bot.py` (Interazione Bot e Stato)
 2. `Execution/enea/batch_text_extractor.py` (Estrae testo PDF)
-3. `Execution/enea/generate_cover.py` (Generazione Copertina AI)
+3. `image_gen` / motore immagine Codex (Generazione Copertina primaria)
+4. `Execution/enea/generate_cover.py` (Legacy fallback, non raccomandato)
 3. `Execution/enea/notebooklm_asset_downloader.py` (Download Video Nativo)
 4. `Execution/enea/video_cleaner.py` (Pulizia Video/Watermark FFmpeg)
 5. `Execution/enea/generate_index_whisper.py` (Generazione Indice)

@@ -24,6 +24,27 @@ Il sistema è coordinato da diversi "agenti" specializzati:
 ## 🛠️ Automazione e Sicurezza
 I commit e i push in questo repository sono generati automaticamente tramite il comando `/backup`. 
 
+## Codex Control Plane
+Da ora il punto di ingresso operativo principale non e' piu il bot Telegram Cesare ma la chat Codex, anche da mobile.
+
+- Per avviare i workflow basta scrivere in chat richieste come `avvia workflow paper`, `fai produzione`, `esegui pulizia`, `fai upload`, `genera report`, `controlla gmail`, `scouting competitor`, `fai backup`.
+- Codex esegue i workflow locali tramite il runner generale `./workflow` o invocando direttamente gli script di `Execution/` quando serve un controllo piu fine.
+- Cesare resta codice storico nel repository, ma non e' piu la control plane raccomandata per l'operativita' quotidiana.
+- **Copertine**: la superficie primaria da oggi e' il motore immagine nativo di Codex/OpenAI, non Gemini/Imagen. La copertina va sempre mostrata e approvata prima di qualunque archiviazione in `Cleaned/`.
+
+## Terminal Workflows
+I workflow principali del bot Telegram sono ora richiamabili anche direttamente dal terminale, senza dipendere da Cesare:
+
+```bash
+./workflow list
+./workflow paper
+./workflow produzione
+./workflow pulizia
+./workflow upload
+```
+
+Il runner generale vive in `Execution/workflows/general_workflows.py` e copre anche `backup`, `gmail`, `report`, `articoli`, `copertina`, `playlist` e `competitor`.
+
 ### 📁 Struttura del Backup
 Il backup include tutte le cartelle logiche del canale:
 - `Directives/`, `Execution/`, `.agents/`: Logica, istruzioni e script.

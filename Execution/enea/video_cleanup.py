@@ -44,6 +44,7 @@ def cleanup_project(project_name, dry_run=False):
         '*_cleaned.mp4', 
         'infografica_raw.png',
         'audio_raw.wav',
+        'copertina_upload.jpg',
         '*.log',
         '*_assets.json',
         '*.pdf'

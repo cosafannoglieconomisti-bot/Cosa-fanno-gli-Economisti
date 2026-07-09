@@ -1,0 +1,488 @@
+1
+00:00:00,000 --> 00:00:02,800
+Benvenuti a questo nuovo approfondimento.
+
+2
+00:00:02,800 --> 00:00:08,880
+Il titolo di oggi pone un quesito davvero forte, perdere il lavoro ti spinge al cribine,
+
+3
+00:00:08,880 --> 00:00:12,679
+ci si potrebbe chiedere se esista davvero un legame diretto e tangibile.
+
+4
+00:00:12,679 --> 00:00:18,559
+E bene, oggi non faremo supposizioni, ma esploreremo le risposte contenute in una fascinante
+
+5
+00:00:18,559 --> 00:00:23,320
+studio del 2022, pubblicato sulla celebre rivista econometrica.
+
+6
+00:00:23,320 --> 00:00:28,560
+Analizzeremo un'enorme mole di dati reali per scoprire le complesse dinamiche tra occupazione
+
+7
+00:00:28,560 --> 00:00:33,800
+e comportamento umano, focalizzandoci su un caso di studio bastissimo, il Brasile.
+
+8
+00:00:33,800 --> 00:00:39,000
+Nessuna teoria campata in area, solo le vinenze dei fatti, iniziamo subito.
+
+9
+00:00:39,000 --> 00:00:42,640
+Ok, entriamo subito nel vivo e diamo un occhiata a questo grafico.
+
+10
+00:00:42,640 --> 00:00:48,960
+Ci mostra il quadro generale del Brasile dal 1991 al 2017, e balsa subito all'occhio
+
+11
+00:00:48,960 --> 00:00:52,680
+una chiara fortissima correlazione a livello macroeconomico.
+
+12
+00:00:52,680 --> 00:00:57,280
+Guardando la linea arancione dell'occupazione, si nota che ogni volta che scende la linea
+
+13
+00:00:57,280 --> 00:01:01,200
+verde, che rappresenta il tasso di umicidi, fa un balsso verso l'alto.
+
+14
+00:01:01,200 --> 00:01:06,400
+Per capirci meglio, in questo periodo, affronte di un calo dell'occupazione del 16%,
+
+15
+00:01:06,400 --> 00:01:10,799
+ha corrisposto un'impressionante aumento degli umicidi del 62%.
+
+16
+00:01:10,799 --> 00:01:15,640
+È un punto di pertenza pazzesco, ma come sappiamo bene, una correlazione non significa
+
+17
+00:01:15,640 --> 00:01:19,359
+per forza a causalità, dobbiamo scavare molto più a fondo.
+
+18
+00:01:19,359 --> 00:01:24,079
+Esatto, proprio per separare una semplice coincidenza statistica da una vera e proprio
+
+19
+00:01:24,079 --> 00:01:28,560
+a relazione di causa effetto, i ricercatori hanno avuto un'idea geniale, hanno deciso
+
+20
+00:01:28,560 --> 00:01:32,560
+di isolare unicamente illicenziamenti di massa, perché è proprio quelli.
+
+21
+00:01:32,560 --> 00:01:37,799
+In economia, un licenziamento di massa rappresenta quello che viene definito uno shock esogeno.
+
+22
+00:01:37,799 --> 00:01:41,840
+Immaginiamo un'azienda che improvvisamente taglia più di un terzo della sua forza lavoro.
+
+23
+00:01:41,840 --> 00:01:45,519
+Possiamo essere praticamente certi che quei posti di lavoro sono saltati a causa di una
+
+24
+00:01:45,519 --> 00:01:49,879
+fluttazione di mercato o di una crisi aziendale, non perché il singolo dipendente è iniziato
+
+25
+00:01:49,879 --> 00:01:51,480
+a comportarsi male, giusto.
+
+26
+00:01:51,480 --> 00:01:54,680
+In questo modo, si elimina la radice, il dubbio che il licenziamento si ha causato
+
+27
+00:01:54,680 --> 00:01:58,880
+dall'inclinazione criminale pregresta di una persona, e possiamo isolare in modo chirurgico
+
+28
+00:01:58,880 --> 00:02:00,760
+l'impatto della disoccupazione.
+
+29
+00:02:00,760 --> 00:02:06,600
+Preparatevi perché i risultati di questo isolamento statistico sono a dir poco scioccanti.
+
+30
+00:02:06,600 --> 00:02:11,840
+I dati ci dicono che la probabilità di commettere un crimine aumenta in media del 23%
+
+31
+00:02:11,840 --> 00:02:14,319
+per i lavoratori che subiscono un licenziamento.
+
+32
+00:02:14,319 --> 00:02:19,159
+Un balso del 23% stiamo parlando di un aumento di quasi un quarto rispetto al comportamento
+
+33
+00:02:19,159 --> 00:02:22,599
+abituale, registrato nell'anno successivo alla perdita del lavoro.
+
+34
+00:02:22,599 --> 00:02:26,840
+E la cosa ancora più impressionante è che questo tasso si mantiene alto e stabile fino
+
+35
+00:02:26,840 --> 00:02:31,159
+a ben 4 anni dopo il licenziamento, non si tratta di un colpo di testa momentaneo,
+
+36
+00:02:31,159 --> 00:02:35,240
+è un cambiamento prolungato e radicato nel comportamento di chi si trova improvvisamente
+
+37
+00:02:35,240 --> 00:02:36,240
+disoccupato.
+
+38
+00:02:36,240 --> 00:02:41,240
+Ora, la cosa davvero interessante di questa slide è capire di che tico di crimini
+
+39
+00:02:41,240 --> 00:02:46,120
+stiamo parlando, scomponendo l'effetto totale vediamo che non tutti i reati aumentano
+
+40
+00:02:46,120 --> 00:02:47,120
+allo stesso modo.
+
+41
+00:02:47,120 --> 00:02:51,560
+Come forse era prevedibile, i crimini con una fortissima motivazione economica, come
+
+42
+00:02:51,560 --> 00:02:57,800
+furti, rapine o trafico di droga, schizzano alle stelle con un'incredibile più 43%, con
+
+43
+00:02:57,800 --> 00:03:03,560
+le sole rapine che registrano un folle più 91%, ma attenzione perché non è solo questione
+
+44
+00:03:03,560 --> 00:03:09,240
+di cercare disparatamente con tanti, anche i crimini violenti subiscono un realzo del 17%,
+
+45
+00:03:09,240 --> 00:03:15,400
+inclusi gli omicidi che segnano un inquietante più 32%, questa estensione degli effetti
+
+46
+00:03:15,400 --> 00:03:18,439
+ci obliga a guardare oltre la semplice necessita economica.
+
+47
+00:03:18,439 --> 00:03:24,120
+Infatti, c'è un dettaglio fondamentale che salta fuori dai dati, viene documentato un
+
+48
+00:03:24,120 --> 00:03:28,960
+aumento generalizzato anche in tutti quei reati che hanno letteralmente zero motivazioni
+
+49
+00:03:28,960 --> 00:03:34,520
+economiche, parliamo di vandalismo, danni alla proprietà privata, gravi violazioni del codice
+
+50
+00:03:34,520 --> 00:03:38,960
+della strada, oppresino risse, offese e diffamazioni.
+
+51
+00:03:38,960 --> 00:03:44,120
+Vedere in pennarsi queste specifiche categorie, ci regalo un primissimo e cruciale indizio,
+
+52
+00:03:44,120 --> 00:03:48,960
+un enorme stress psicologico e il trauma emotivo giocano un ruolo coloro sale, operando
+
+53
+00:03:48,960 --> 00:03:51,200
+in parallelo alla perdita del reddito.
+
+54
+00:03:51,200 --> 00:03:56,200
+La mente umana, suttopusta una pressione emotiva così feroce, reagisce in modi disparati
+
+55
+00:03:56,200 --> 00:03:58,240
+e autodistruttivi per la società.
+
+56
+00:03:58,240 --> 00:04:04,000
+E, purtroppo, le conseguenze di questa pressione non si fermano al diretto interessato, esiste
+
+57
+00:04:04,000 --> 00:04:09,000
+un tragico effetto di ricaduta, un vero e proprio effetto domino sul nucleo familiare.
+
+58
+00:04:09,000 --> 00:04:13,879
+I numerici svelamo che, la probabilità di una cusa penale, aumenta di un preoccupante
+
+59
+00:04:13,879 --> 00:04:20,959
+18% persino per i fili conviventi dei lavoratori licenziati, 18% è come se la tensione,
+
+60
+00:04:20,959 --> 00:04:26,839
+le difficoltà finanziarie e la paura vissute dal genitore si infiltrasserò tra le muradomestiche,
+
+61
+00:04:26,839 --> 00:04:32,480
+logorando l'ambiente al punto da spingere anche le generazioni più giovani verso l'illegalità.
+
+62
+00:04:32,480 --> 00:04:37,399
+Arrivati a questo punto, sfruttando algoritmi avanzatissimi, lo studio è riuscito a costruire
+
+63
+00:04:37,399 --> 00:04:41,480
+un identichit, precisissimo delle persone maggiormente a rischio.
+
+64
+00:04:41,480 --> 00:04:46,400
+I ricercatori seguidano attraverso i dati, mostrandoci che le pendenze più ripide e quindi
+
+65
+00:04:46,400 --> 00:04:52,000
+rischi più alti, in assoluto, si concentrano a torno a due variabili cardine, letà e l'ansianità
+
+66
+00:04:52,000 --> 00:04:57,400
+lavorativa. Questo ci permette di zoomare e vedere chi subisce l'impatto più devastante
+
+67
+00:04:57,400 --> 00:05:00,560
+del trauma, al di là delle semplici medie generali.
+
+68
+00:05:00,560 --> 00:05:05,120
+Insintasi, i giovani lavoratori che hanno allattivo solo una manciata di mesi di anzianità
+
+69
+00:05:05,120 --> 00:05:10,040
+in azienda sono statisticamente nella fascia colpita più duramente, ma sapete qual è la
+
+70
+00:05:10,040 --> 00:05:15,200
+parte davvero sorprendente. Questo picco si verifica in modo del tutto indipendente da livello
+
+71
+00:05:15,200 --> 00:05:19,760
+di struzione di base o dalla ricchezza della zona in cui si vive. In un paese vastissimo
+
+72
+00:05:19,760 --> 00:05:24,080
+ed isomogeneo come il Brasile, non fa molta differenza se il tasso di criminalità locale
+
+73
+00:05:24,080 --> 00:05:28,680
+e basso o se sia una buona estruzione. L'incrocio esplosivo rimane sempre quello tra
+
+74
+00:05:28,680 --> 00:05:32,280
+all'essere giovani e la vera una posizione lavorativa appena viata.
+
+75
+00:05:32,280 --> 00:05:37,879
+Ottimo, ma giunti a questa fase dell'analisi, abbiamo un mistero bello e buono da risolvere.
+
+76
+00:05:38,120 --> 00:05:43,639
+Qual è la scintilla originaria? Perché accade tutto questo? Laumento dei crimini si verifica
+
+77
+00:05:43,639 --> 00:05:48,959
+semplicemente perché ritrovandosi disoccupate le persone hanno improvvisamente giornati vuote
+
+78
+00:05:48,959 --> 00:05:54,279
+e troppo tempo libero per cacciarsi nei guai oppure la ragione è brutalmente materiale,
+
+79
+00:05:54,279 --> 00:05:58,800
+ovvero che le persone sono disposte a tutto perché non hanno il denaro contante necessario
+
+80
+00:05:58,800 --> 00:06:03,079
+per arrivare a fine mese. E questo illustra magnificamente il grande
+
+81
+00:06:03,079 --> 00:06:08,240
+dibattito teorico che affascina gli studiosi da decenni, contraponendo due visioni nette.
+
+82
+00:06:08,240 --> 00:06:14,120
+Da un lato, c'è l'ipotesi dell'abondanza di tempo libero, note anche come effetto di incapacitazione.
+
+83
+00:06:14,120 --> 00:06:19,439
+In parole povere, timbrare il cartellino per 8 ore ti tiene occupato e lontano dai pastici.
+
+84
+00:06:19,439 --> 00:06:24,599
+Dall'altra parte troviamo l'ipotesi del bincolo di liquidità, cioè la pure e cruda
+
+85
+00:06:24,599 --> 00:06:28,959
+di sperazione causata dal non avere sollintasca per far fronte ai bisogni primari.
+
+86
+00:06:29,640 --> 00:06:34,280
+Quale di queste due potenti forze spinge davvero un individuo oltre la linea della legalità?
+
+87
+00:06:34,280 --> 00:06:39,120
+Per scoprirlo in modo inequivocabile, i ricercatori hanno scovato un esperimento naturale
+
+88
+00:06:39,120 --> 00:06:44,240
+letteralmente perfetto. In Brasile esisto una regola estituzionale rigidissima.
+
+89
+00:06:44,240 --> 00:06:49,320
+Per avere diritto i sussidi di disoccupazione, devono essere passati esattamente 16 mesi
+
+90
+00:06:49,320 --> 00:06:55,360
+dal tuo licenziamento precedente. In summa, se perde il lavoro a 15 mesi, non ricevi un centesimo.
+
+91
+00:06:55,480 --> 00:07:00,319
+Mentre chi lo perde, appena scocca il 16-mo mese, può ricevere fino a 5 mesi di stipendio
+
+92
+00:07:00,319 --> 00:07:05,720
+assicurato. Questa soglia temporale millimetrica ci regala la rarra possibilità di confrontare
+
+93
+00:07:05,720 --> 00:07:11,040
+due gruppi di persone, statisticamente identiche, che si differenziano per un solo vitale
+
+94
+00:07:11,040 --> 00:07:13,879
+elemento, l'accesso estantania ai contanti.
+
+95
+00:07:13,879 --> 00:07:18,120
+Errollo di tamburi? I dati parlano chiarissimo.
+
+96
+00:07:18,120 --> 00:07:23,759
+I lavoratori fortunati che risultano i donne e a ricevere il sussidio registrano una drastica
+
+97
+00:07:23,759 --> 00:07:30,199
+riduzione dei tassi di criminalità nei primi 6 mesi. Un crollo del 21% se confrontati
+
+98
+00:07:30,199 --> 00:07:35,759
+con chi ha mancato i requisiti per un soffio di giorni. Questo numero è una pietra miliare.
+
+99
+00:07:35,759 --> 00:07:42,560
+21% significa che fornire una rete di sicurezza, un po' di respiro finanziario, spegni all'istante
+
+100
+00:07:42,560 --> 00:07:47,279
+una fetta enorme della criminalità inescatta dalla perdita del posto di lavoro.
+
+101
+00:07:47,279 --> 00:07:53,279
+Quindi il punto cruciale è racchiuso esattamente in questa deduzione formidabile dello studio.
+
+102
+00:07:53,280 --> 00:07:59,520
+L'idoneità ai sussidi di disoccupazione compensa quasi completamente il potenziale aumento
+
+103
+00:07:59,520 --> 00:08:05,120
+della criminalità, ed ecco svelato il nostro mistero, caso chiuso. I dati provano che
+
+104
+00:08:05,120 --> 00:08:09,640
+lavoratori sussidiateci mettono persino più tempo a trovare un nuovo impiego e quindi
+
+105
+00:08:09,640 --> 00:08:14,440
+paradossalmente godono di una valanga di tempo libero in più. Eppure commettono molti
+
+106
+00:08:14,440 --> 00:08:19,600
+meno crimini. Questo scardina del tutto l'idea che a generare i legalità sia l'eccesso
+
+107
+00:08:19,600 --> 00:08:25,360
+di ozio. La vera amica, senza ombra di dubbio, è l'assenza improvvisa di denaro.
+
+108
+00:08:25,360 --> 00:08:29,840
+Avviandoci alla conclusione della nostra indagine possiamo finalmente puntare il dito contro
+
+109
+00:08:29,840 --> 00:08:35,519
+i veri colpevoli. I motori reali del crimine posto licenziamento sono due. Il primo è
+
+110
+00:08:35,519 --> 00:08:39,800
+il severo e immediato vinculo di liquidità, qually in cubo angosciante di non potersi
+
+111
+00:08:39,800 --> 00:08:45,120
+permettere il minimo indispensabile per vivere. Il secondo, che agisce simultaneamente, è
+
+112
+00:08:45,120 --> 00:08:50,200
+l'impatto devastante dello stress psicologico e del senso di fallimento. Non è certo il
+
+113
+00:08:50,200 --> 00:08:55,399
+troppo tempo libero a fare danni, ma un cocktail esplosivo di disperazione economica unita
+
+114
+00:08:55,399 --> 00:09:00,879
+al crollo dell'identità personale. Ma c'è un'ultima provocatoria riflessione con cui
+
+115
+00:09:00,879 --> 00:09:05,720
+dobbiamo chiudere questa analisi. Cosa cade all'amente umana e altessuto delle nostre
+
+116
+00:09:05,720 --> 00:09:11,879
+città quando questo supporto vitale si interrompe all'improvviso? I ricercatori fanno notare
+
+117
+00:09:11,879 --> 00:09:16,799
+una realtà oggettiva che fa venire i brividi, l'effetto protettivo dei sussidi svanisce
+
+118
+00:09:16,799 --> 00:09:21,759
+nel momento esatto in cui pagamenti finiscono. Il crimine torna a salire violentemente
+
+119
+00:09:21,759 --> 00:09:26,600
+proprio in quel mese fatidico in cui si chiudono i rubinetti dell'assistenza. È un dato che
+
+120
+00:09:26,600 --> 00:09:30,759
+ci obbliga a riflettere a fondo sulle strama fragilità delle nostre reti di protezione
+
+121
+00:09:30,759 --> 00:09:35,799
+sociale, perché quando una società smette di sostenere chiccate in un barato improvviso,
+
+122
+00:09:35,799 --> 00:09:41,039
+le repercussioni finiscono inevitabilmente per colpire tutti quanti. Alla prossima analisi.
+

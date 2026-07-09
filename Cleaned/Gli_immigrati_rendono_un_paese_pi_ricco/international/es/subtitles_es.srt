@@ -1,0 +1,491 @@
+1
+00:00:00,000 --> 00:00:08,480
+Bienvenidos a este nuevo análisis económico, en el que exploraremos una cuestión realmente fascinante; el título de hoy es exactamente este.
+
+2
+00:00:08,480 --> 00:00:11,599
+¿Hacen los inmigrantes que un país sea más rico?
+
+3
+00:00:11,599 --> 00:00:19,320
+Es un gran misterio económico que nos lleva a preguntarnos si, históricamente, la migración ha impulsado realmente el crecimiento,
+
+4
+00:00:19,320 --> 00:00:24,080
+o si la gente simplemente se mudó a donde la riqueza ya estaba presente.
+
+5
+00:00:24,080 --> 00:00:31,240
+Para descubrirlo, nos sumergimos en el excepcional trabajo de investigación realizado por Sandra Sequeira, Nathan Nunn y Nancy Qian.
+
+6
+00:00:31,240 --> 00:00:32,840
+Bien, ¿comenzamos?
+
+7
+00:00:32,840 --> 00:00:41,680
+Para comprender a fondo esta dinámica, debemos dar un gran salto atrás, a lo que se conoce como la era de la migración de masas.
+
+8
+00:00:41,680 --> 00:00:52,079
+Imaginemos la América de aquel tiempo; como señaló brillantemente John F. Kennedy, en esas décadas Estados Unidos se convirtió en el coloso industrial y agrícola del planeta.
+
+9
+00:00:52,079 --> 00:01:02,079
+Y ojo, todo esto nunca habría sido posible sin el arduo trabajo, las habilidades y la intuición de los 23,5 millones de personas que desembarcaron en ese período.
+
+10
+00:01:02,079 --> 00:01:11,400
+23,5 millones, una ola humana sin precedentes que literalmente trastocó y moldeó la economía de una manera que aún hoy estamos midiendo.
+
+11
+00:01:11,400 --> 00:01:15,439
+Naturalmente, este fenómeno no ocurrió en un abrir y cerrar de ojos.
+
+12
+00:01:15,439 --> 00:01:23,280
+Mirando la línea del tiempo, vemos que el inicio de esta migración a gran escala se remonta a la década de 1850.
+
+13
+00:01:23,280 --> 00:01:30,359
+Pero el verdadero punto de inflexión, la gran sacudida, llega en la década de 1880, con un cambio demográfico masivo.
+
+14
+00:01:30,359 --> 00:01:34,439
+Ya no solo llegaban personas del norte o del oeste de Europa,
+
+15
+00:01:34,439 --> 00:01:42,920
+sino enormes flujos del sur y del este de Europa, una mezcla increíble de nuevas culturas, idiomas y habilidades que se derramaba sobre el país.
+
+16
+00:01:42,920 --> 00:01:51,320
+Una era que luego se cerró en la década de 1920, dejando como legado una nación con una demografía profundamente transformada.
+
+17
+00:01:51,320 --> 00:01:58,359
+Y aquí llegamos al meollo de la cuestión, al clásico y dificilísimo problema del huevo y la gallina.
+
+18
+00:01:58,359 --> 00:02:04,920
+¿Eligieron los inmigrantes establecerse en condados que ya eran ricos, o fueron ellos mismos quienes los hicieron ricos?
+
+19
+00:02:04,920 --> 00:02:08,400
+Estadísticamente, esto representa un verdadero desafío.
+
+20
+00:02:08,439 --> 00:02:14,159
+Si nos baseáramos únicamente en los datos brutos, veríamos condados llenos de inmigrantes que rebosan prosperidad.
+
+21
+00:02:14,159 --> 00:02:21,640
+Pero hay un truco: tal vez solo se mudaron allí porque se estaban construyendo nuevos ferrocarriles o porque las industrias ya estaban en pleno auge.
+
+22
+00:02:21,640 --> 00:02:27,439
+Aislar la verdadera causa es un gran rompecabezas, y es exactamente el núcleo del análisis de este estudio.
+
+23
+00:02:27,439 --> 00:02:32,280
+Por si fuera poco, existe un obstáculo adicional llamado selección negativa.
+
+24
+00:02:32,400 --> 00:02:43,120
+Prácticamente, debido a la fuerte discriminación o simplemente a la falta de recursos, los recién llegados a menudo no podían comprar las mejores tierras ni acceder a los trabajos mejor pagados.
+
+25
+00:02:43,120 --> 00:02:48,560
+Eran literalmente empujados a los márgenes, a zonas menos atractivas y con muchas menos perspectivas.
+
+26
+00:02:48,560 --> 00:02:59,840
+Esto significa que, si usáramos solo las métricas económicas básicas, podríamos terminar subestimando clamorosamente su impacto real, precisamente porque partían de una posición de gran desventaja.
+
+27
+00:02:59,960 --> 00:03:03,200
+Entonces, ¿cómo resolvieron el enigma los investigadores?
+
+28
+00:03:03,200 --> 00:03:09,840
+Con una idea que es un verdadero golpe de genio metodológico: construyeron un experimento natural basado en los trenes.
+
+29
+00:03:09,840 --> 00:03:14,439
+En aquella época, el ferrocarril era la vía principal para adentrarse en el interior del país.
+
+30
+00:03:14,439 --> 00:03:22,080
+Los investigadores compararon dos tipos de condados: aquellos que se conectaron a la red ferroviaria justo durante una década de auge migratorio
+
+31
+00:03:22,080 --> 00:03:27,759
+y aquellos conectados durante una década de calma total, cuando las llegadas nacionales estaban en mínimos históricos.
+
+32
+00:03:27,799 --> 00:03:33,519
+Entremos en los detalles de esta táctica, un proceso de tres pasos sumamente elegante.
+
+33
+00:03:33,519 --> 00:03:40,239
+Paso uno: medir exactamente el flujo total de inmigrantes hacia los Estados Unidos año por año.
+
+34
+00:03:40,239 --> 00:03:48,039
+Paso dos: rastrear meticulosamente la expansión de la red ferroviaria, década tras década.
+
+35
+00:03:48,039 --> 00:03:55,319
+Paso tres, y aquí está la magia: observar dónde se cruzan estos dos datos. El tiempo lo es todo.
+
+36
+00:03:55,439 --> 00:04:01,959
+Si el ferrocarril llegaba a su condado justo cuando había un auge de desembarcos a nivel nacional,
+
+37
+00:04:01,959 --> 00:04:06,519
+se encontraban con una ola de inmigrantes de manera totalmente accidental.
+
+38
+00:04:06,519 --> 00:04:14,000
+Esta increíble estratagema permite aislar el impacto real de la migración de cualquier otra variable económica.
+
+39
+00:04:14,000 --> 00:04:23,399
+Pasemos ahora a la revelación económica a largo plazo, midiendo la prosperidad al dar un salto adelante hasta el año 2000.
+
+40
+00:04:23,439 --> 00:04:29,439
+Redoble de tambores. Una vez que esta genial metodología despejó las dudas sobre las causas,
+
+41
+00:04:29,439 --> 00:04:34,560
+veamos cómo están esos condados en el año 2000, más de un siglo después.
+
+42
+00:04:34,560 --> 00:04:36,959
+El dato que surge es sorprendente.
+
+43
+00:04:36,959 --> 00:04:44,399
+Los condados que históricamente recibieron más inmigrantes registrano hoy un ingreso per cápita promedio un 13% más alto.
+
+44
+00:04:44,399 --> 00:04:45,879
+¿13%?
+
+45
+00:04:45,879 --> 00:04:54,079
+Pasar un condado de cero inmigración histórica al percentil cincuenta hace que la riqueza actual de sus habitantes se dispare un 13%.
+
+46
+00:04:54,079 --> 00:04:58,399
+Un dividendo económico prolongado, sólido y simplemente enorme.
+
+47
+00:04:58,399 --> 00:05:02,759
+Pero cuidado, la riqueza general no es el único parámetro positivo.
+
+48
+00:05:02,759 --> 00:05:08,439
+Al comparar otros indicadores clave del bienestar moderno, notamos mejoras increíbles.
+
+49
+00:05:08,439 --> 00:05:12,879
+En esos mismos condados, la tasa de pobreza ha disminuido en dos puntos porcentuales,
+
+50
+00:05:12,879 --> 00:05:17,560
+y, en paralelo, la tasa de desempleo también ha bajado dos puntos porcentuales.
+
+51
+00:05:17,560 --> 00:05:18,920
+Piénsenlo por un momento.
+
+52
+00:05:18,920 --> 00:05:23,759
+Cuando se aplican disminuciones de dos puntos porcentuales a toda la población de un condado moderno,
+
+53
+00:05:23,759 --> 00:05:27,759
+estamos hablando de un impacto masivo en la vida real de las personas.
+
+54
+00:05:27,759 --> 00:05:34,519
+Y la cascada de beneficios continúa: los datos también revelan un marcado aumento en la tasa de urbanización,
+
+55
+00:05:34,519 --> 00:05:40,120
+lo que llevó a la creación de centros económicos densos, vibrantes e hiperproductivos.
+
+56
+00:05:40,120 --> 00:05:42,439
+Pero hay algo aún más fascinante.
+
+57
+00:05:42,480 --> 00:05:48,519
+Se registra un salto significativo en los años promedio de educación completados por los habitantes actuales.
+
+58
+00:05:48,519 --> 00:05:53,120
+Está claro como el agua que ese impulso inicial aportado por los recién llegados
+
+59
+00:05:53,120 --> 00:05:55,759
+no se detuvo a las puertas de las primeras fábricas,
+
+60
+00:05:55,759 --> 00:05:59,920
+sino que se arraigó en el desarrollo estructural y cultural de esas zonas.
+
+61
+00:05:59,920 --> 00:06:02,560
+Llegados a este punto, la pregunta surge de forma natural:
+
+62
+00:06:02,560 --> 00:06:05,319
+¿cuáles son los mecanismos de este éxito?
+
+63
+00:06:05,319 --> 00:06:10,079
+En resumen, cómo lograron generar beneficios que duran 100 años.
+
+64
+00:06:10,199 --> 00:06:13,359
+A corto plazo, las palancas de este increíble crecimiento
+
+65
+00:06:13,359 --> 00:06:15,439
+operaron en tres frentes principales.
+
+66
+00:06:15,439 --> 00:06:20,479
+Por un lado, tuvimos una oferta masiva y providencial de mano de obra no cualificada,
+
+67
+00:06:20,479 --> 00:06:24,279
+un verdadero combustible para alimentar la naciente revolución industrial.
+
+68
+00:06:24,279 --> 00:06:28,319
+Por el otro, un grupo fundamental de artesanos altamente cualificados,
+
+69
+00:06:28,319 --> 00:06:31,000
+que trajeron oficios especializados de Europa,
+
+70
+00:06:31,000 --> 00:06:32,479
+y no olvidemos el campo.
+
+71
+00:06:32,479 --> 00:06:38,000
+El sector agrícola dio un salto adelante increíble gracias a innovaciones como la semilla de alfalfa
+
+72
+00:06:38,000 --> 00:06:41,279
+y técnicas muy avanzadas para la rotación de cultivos.
+
+73
+00:06:41,279 --> 00:06:43,399
+Pero, hablando de innovación,
+
+74
+00:06:43,399 --> 00:06:47,040
+el nivel de genialidad introducida es increíble:
+
+75
+00:06:47,040 --> 00:06:51,600
+muchos de los avances más icónicos de aquella época llevan la firma de inmigrantes.
+
+76
+00:06:51,600 --> 00:06:53,399
+Pensemos en John A. Roebling,
+
+77
+00:06:53,399 --> 00:06:55,480
+que fue pionero en los puentes colgantes,
+
+78
+00:06:55,480 --> 00:06:57,439
+como el legendario puente de Brooklyn,
+
+79
+00:06:57,439 --> 00:06:59,279
+o en Alexander Graham Bell,
+
+80
+00:06:59,279 --> 00:07:01,279
+a quien le debemos la invención del teléfono.
+
+81
+00:07:01,279 --> 00:07:03,000
+Y no es solo en ingeniería,
+
+82
+00:07:03,000 --> 00:07:05,680
+incluso la sociedad civil se vio revolucionada;
+
+83
+00:07:05,680 --> 00:07:08,160
+la idea del jardín de infancia, el Kindergarten,
+
+84
+00:07:08,160 --> 00:07:10,800
+fue importada por el inmigrante Friedrich Fröbel,
+
+85
+00:07:10,800 --> 00:07:13,360
+cambiando para siempre la educación infantil.
+
+86
+00:07:13,360 --> 00:07:18,480
+El aumento de patentes registradas en estas zonas fue literalmente exponencial.
+
+87
+00:07:18,480 --> 00:07:22,519
+Sin embargo, existe una paradoja fascinante en materia de educación.
+
+88
+00:07:22,519 --> 00:07:27,240
+Si miramos a corto plazo, en el siglo XIX, la llegada masiva de inmigrantes
+
+89
+00:07:27,240 --> 00:07:30,680
+redujo de hecho las tasas de escolarización
+
+90
+00:07:30,680 --> 00:07:32,800
+e hizo que el analfabetismo se disparara,
+
+91
+00:07:32,800 --> 00:07:35,480
+dado que muchos huían de la pobreza rural.
+
+92
+00:07:35,480 --> 00:07:39,400
+Sin embargo, a largo plazo, la tendencia se revirtió por completo.
+
+93
+00:07:39,400 --> 00:07:42,079
+Las comunidades que en su momento acogieron a los inmigrantes
+
+94
+00:07:42,079 --> 00:07:44,600
+terminaron produciendo generaciones posteriores
+
+95
+00:07:44,600 --> 00:07:48,680
+con un nivel educativo promedio muy superior a la media nacional,
+
+96
+00:07:48,680 --> 00:07:50,680
+una inversión en capital humano
+
+97
+00:07:50,680 --> 00:07:53,000
+que solo necesitó tiempo para florecer.
+
+98
+00:07:53,000 --> 00:07:56,600
+Por último, examinemos los costes sociales y las conclusiones
+
+99
+00:07:56,600 --> 00:07:59,480
+para tener realmente el panorama completo de la situación,
+
+100
+00:07:59,480 --> 00:08:00,960
+sin pasar nada por alto.
+
+101
+00:08:01,240 --> 00:08:03,840
+Es más que legítimo preguntarse: de acuerdo,
+
+102
+00:08:03,840 --> 00:08:05,920
+los beneficios económicos son enormes,
+
+103
+00:08:05,920 --> 00:08:10,080
+¿pero hemos pagado un precio en términos de tensiones sociales a largo plazo?
+
+104
+00:08:10,080 --> 00:08:12,280
+Al analizar los datos del año 2000,
+
+105
+00:08:12,280 --> 00:08:14,040
+el resultado es cristalino.
+
+106
+00:08:14,040 --> 00:08:16,040
+A pesar de las hostilidades documentadas
+
+107
+00:08:16,040 --> 00:08:19,280
+y las innegables fricciones políticas a corto plazo de esa época,
+
+108
+00:08:19,280 --> 00:08:22,600
+el impacto a largo plazo en aspectos como el capital social,
+
+109
+00:08:22,600 --> 00:08:26,440
+la participación electoral y las tasas de delincuencia es hoy de cero.
+
+110
+00:08:26,440 --> 00:08:28,360
+Ningún efecto significativo.
+
+111
+00:08:28,400 --> 00:08:31,759
+En resumen, los costes sociales literalmente se desvanecieron
+
+112
+00:08:31,759 --> 00:08:36,039
+con el paso del tiempo, mientras que las ventajas económicas se consolidaron.
+
+113
+00:08:36,039 --> 00:08:40,919
+Y esto nos deja con un interrogante final muy, muy potente.
+
+114
+00:08:40,919 --> 00:08:43,480
+Este análisis empírico demuestra que las tensiones
+
+115
+00:08:43,480 --> 00:08:45,440
+a corto plazo tienden a desvanecerse,
+
+116
+00:08:45,440 --> 00:08:47,560
+mientras que los dividendos económicos continúan
+
+117
+00:08:47,560 --> 00:08:49,960
+enriqueciendo a la sociedad durante más de un siglo.
+
+118
+00:08:49,960 --> 00:08:53,440
+Ante pruebas tan evidentes, la pregunta crucial es:
+
+119
+00:08:53,440 --> 00:08:56,720
+¿de qué manera el aprendizaje de esta rigurosa lección histórica
+
+120
+00:08:56,720 --> 00:09:00,160
+debería guiar y moldear nuestra comprensión de las dinámicas
+
+121
+00:09:00,160 --> 00:09:02,759
+y de los movimientos globales de la economía moderna?
+
+122
+00:09:02,759 --> 00:09:06,000
+Es una reflexión profunda que los datos nos invitan a no ignorar.
+
+123
+00:09:06,000 --> 00:09:09,279
+Y con esta pregunta los dejo. Hasta el próximo análisis.

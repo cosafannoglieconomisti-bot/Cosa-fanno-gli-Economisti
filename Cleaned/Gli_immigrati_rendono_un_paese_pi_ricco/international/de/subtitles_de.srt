@@ -1,0 +1,491 @@
+1
+00:00:00,000 --> 00:00:08,480
+Willkommen zu dieser neuen Wirtschaftsanalyse, in der wir eine wirklich faszinierende Frage untersuchen werden. Der heutige Titel lautet genau so:
+
+2
+00:00:08,480 --> 00:00:11,599
+Machen Einwanderer ein Land reicher?
+
+3
+00:00:11,599 --> 00:00:19,320
+Es ist ein großes wirtschaftliches Rätsel, das uns zu der Frage führt, ob die Einwanderung historisch gesehen tatsächlich das Wachstum angetrieben hat
+
+4
+00:00:19,320 --> 00:00:24,080
+oder ob die Menschen einfach dorthin gezogen sind, wo der Wohlstand bereits vorhanden war.
+
+5
+00:00:24,080 --> 00:00:31,240
+Um das herauszufinden, tauchen wir ein in die außergewöhnliche Forschungsarbeit von Sandra Sequeira, Nathan Nunn und Nancy Qian.
+
+6
+00:00:31,240 --> 00:00:32,840
+Nun, fangen wir an?
+
+7
+00:00:32,840 --> 00:00:41,680
+Um diese Dynamik vollends zu verstehen, müssen wir einen großen Sprung zurückmachen, in die sogenannte Ära der Massenmigration.
+
+8
+00:00:41,680 --> 00:00:52,079
+Stellen wir uns das Amerika jener Zeit vor, wie es John F. Kennedy so treffend formuliert hat: In jenen Jahrzehnten wurde Amerika zum industriellen und landwirtschaftlichen Koloss des Planeten.
+
+9
+00:00:52,079 --> 00:01:02,079
+Und wohlgemerkt, all dies wäre niemals möglich gewesen ohne die harte Arbeit, die Fähigkeiten und das Gespür der 23,5 Millionen Menschen, die in diesem Zeitraum anlandeten.
+
+10
+00:01:02,079 --> 00:01:11,400
+23,5 Millionen – eine beispiellose menschliche Welle, die die Wirtschaft buchstäblich umgewälzt und geprägt hat, in einer Weise, die wir heute noch messen.
+
+11
+00:01:11,400 --> 00:01:15,439
+Natürlich ist dieses Phänomen nicht von heute auf morgen geschehen.
+
+12
+00:01:15,439 --> 00:01:23,280
+Wenn wir uns den Zeitstrahl ansehen, erkennen wir, dass der Beginn dieser Migration im ganz großen Stil bis in die 1850er Jahre zurückreicht.
+
+13
+00:01:23,280 --> 00:01:30,359
+Doch die eigentliche Wende, der große Wendepunkt, kam in den 1880er Jahren mit einem massiven demografischen Wandel.
+
+14
+00:01:30,359 --> 00:01:34,439
+Es kamen nicht mehr nur Menschen aus Nord- oder Westeuropa,
+
+15
+00:01:34,439 --> 00:01:42,920
+sondern enorme Ströme aus Süd- und Osteuropa – eine unglaubliche Mischung aus neuen Kulturen, Sprachen und Fähigkeiten, die sich über das Land ergoss.
+
+16
+00:01:42,920 --> 00:01:51,320
+Eine Ära, die in den 1920er Jahren endete und eine Nation mit einer tiefgreifend veränderten Demografie hinterließ.
+
+17
+00:01:51,320 --> 00:01:58,359
+Und hier kommen wir zum Kern der Sache, zum klassischen, äußerst schwierigen Henne-Ei-Problem.
+
+18
+00:01:58,359 --> 00:02:04,920
+Haben sich die Einwanderer in Landkreisen niedergelassen, die bereits reich waren, oder waren sie es selbst, die diese reich gemacht haben?
+
+19
+00:02:04,920 --> 00:02:08,400
+Statistisch gesehen ist dies eine echte Herausforderung.
+
+20
+00:02:08,439 --> 00:02:14,159
+Wenn wir uns nur auf die Rohdaten verlassen, sehen wir Landkreise voller Einwanderer, die vor Wohlstand florieren.
+
+21
+00:02:14,159 --> 00:02:21,640
+Aber da gibt es einen Haken: Vielleicht sind sie nur dorthin gezogen, weil neue Eisenbahnen gebaut wurden oder weil die Industrien bereits boomten.
+
+22
+00:02:21,640 --> 00:02:27,439
+Die wahre Ursache zu isolieren, ist ein ziemliches Rätsel und bildet das Herzstück der Analyse dieser Studie.
+
+23
+00:02:27,439 --> 00:02:32,280
+Als ob das nicht genug wäre, gibt es ein weiteres Hindernis, die sogenannte "negative Selektion".
+
+24
+00:02:32,400 --> 00:02:43,120
+Praktisch ausgedrückt: Aufgrund starker Diskriminierung oder schlicht aus Geldmangel konnten die Neuankömmlinge oft nicht das beste Land kaufen oder die lukrativsten Jobs ergattern.
+
+25
+00:02:43,120 --> 00:02:48,560
+Sie wurden buchstäblich an den Rand gedrängt, in weniger attraktive Gebiete mit weit geringeren Aussichten.
+
+26
+00:02:48,560 --> 00:02:59,840
+Das bedeutet: Wenn wir nur grundlegende wirtschaftliche Kennzahlen heranziehen würden, könnten wir ihren tatsächlichen Einfluss desaströs unterschätzen, eben weil sie aus einer Position massiver Benachteiligung heraus starteten.
+
+27
+00:02:59,960 --> 00:03:03,200
+Wie also haben die Forscher dieses Rätsel gelöst?
+
+28
+00:03:03,200 --> 00:03:09,840
+Mit einer Idee, die ein echter methodischer Geniestreich ist: Sie haben ein natürliches Experiment aufgebaut, das auf der Eisenbahn basiert.
+
+29
+00:03:09,840 --> 00:03:14,439
+Damals war die Eisenbahn der wichtigste Weg, um ins Landesinnere vorzudringen.
+
+30
+00:03:14,439 --> 00:03:22,080
+Die Forscher verglichen zwei Arten von Landkreisen: solche, die genau während eines Jahrzehnts des Einwanderungsbooms an das Eisenbahnnetz angeschlossen wurden,
+
+31
+00:03:22,080 --> 00:03:27,759
+und solche, die in einem Jahrzehnt der Flaute angeschlossen wurden, als die Zuwanderungszahlen im Land auf einem historischen Tiefstand waren.
+
+32
+00:03:27,799 --> 00:03:33,519
+Gehen wir ins Detail dieses Ansatzes – es ist ein äußerst eleganter dreistufiger Prozess.
+
+33
+00:03:33,519 --> 00:03:40,239
+Schritt eins: den genauen Gesamtstrom der Einwanderer in die Vereinigten Staaten Jahr für Jahr zu messen.
+
+34
+00:03:40,239 --> 00:03:48,039
+Schritt zwei: den Ausbau des Eisenbahnnetzes Jahrzehnt für Jahrzehnt akribisch nachzuzeichnen.
+
+35
+00:03:48,039 --> 00:03:55,319
+Schritt drei – und hier liegt der Zauber – zu beobachten, wo sich diese beiden Datenpunkte schneiden: Das Timing ist alles.
+
+36
+00:03:55,439 --> 00:04:01,959
+Wenn die Eisenbahn genau dann Ihren Landkreis erreichte, als landesweit ein Einwanderungsboom herrschte,
+
+37
+00:04:01,959 --> 00:04:06,519
+bekamen Sie rein zufällig eine Welle von Einwanderern ab.
+
+38
+00:04:06,519 --> 00:04:14,000
+Dieses geniale Verfahren erlaubt es, den tatsächlichen Einfluss der Einwanderung von allen anderen wirtschaftlichen Variablen zu isolieren.
+
+39
+00:04:14,000 --> 00:04:23,399
+Kommen wir nun zur langfristigen wirtschaftlichen Erkenntnis und messen den Wohlstand mit einem Sprung nach vorn ins Jahr 2000.
+
+40
+00:04:23,439 --> 00:04:29,439
+Trommelwirbel: Nachdem diese geniale Methode alle Zweifel an den Ursachen beseitigt hat,
+
+41
+00:04:29,439 --> 00:04:34,560
+schauen wir uns an, wie es diesen Landkreisen im Jahr 2000 geht, also über ein Jahrhundert später.
+
+42
+00:04:34,560 --> 00:04:36,959
+Das Ergebnis ist verblüffend.
+
+43
+00:04:36,959 --> 00:04:44,399
+Landkreise, die historisch gesehen mehr Einwanderer aufgenommen haben, verzeichnen heute ein um 13 % höheres durchschnittliches Pro-Kopf-Einkommen.
+
+44
+00:04:44,399 --> 00:04:45,879
+13 %?
+
+45
+00:04:45,879 --> 00:04:54,079
+Die Verschiebung eines Landkreises von historisch null Einwanderung auf das 50. Perzentil lässt den heutigen Wohlstand seiner Bewohner um 13 % in die Höhe schnellen.
+
+46
+00:04:54,079 --> 00:04:58,399
+Eine lang anhaltende, solide und schlichtweg enorme wirtschaftliche Dividende.
+
+47
+00:04:58,399 --> 00:05:02,759
+Doch Vorsicht: Der allgemeine Wohlstand ist nicht der einzige positive Parameter.
+
+48
+00:05:02,759 --> 00:05:08,439
+Beim Vergleich anderer Schlüsselindikatoren des modernen Wohlstands stellen wir enorme Verbesserungen fest.
+
+49
+00:05:08,439 --> 00:05:12,879
+In genau diesen Landkreisen ist die Armutsquote um zwei Prozentpunkte gesunken,
+
+50
+00:05:12,879 --> 00:05:17,560
+und parallel dazu ist auch die Arbeitslosenquote um zwei Prozentpunkte zurückgegangen.
+
+51
+00:05:17,560 --> 00:05:18,920
+Denken Sie einmal kurz darüber nach.
+
+52
+00:05:18,920 --> 00:05:23,759
+Wenn man einen Rückgang von zwei Prozentpunkten auf die gesamte Bevölkerung eines modernen Landkreises anwendet,
+
+53
+00:05:23,759 --> 00:05:27,759
+sprechen wir von massiven Auswirkungen auf das reale Leben der Menschen.
+
+54
+00:05:27,759 --> 00:05:34,519
+Und die Kaskade der Vorteile setzt sich fort: Die Daten zeigen auch einen deutlichen Anstieg der Urbanisierungsrate,
+
+55
+00:05:34,519 --> 00:05:40,120
+was zur Entstehung dichter, lebendiger und hochproduktiver Wirtschaftszentren geführt hat.
+
+56
+00:05:40,120 --> 00:05:42,439
+Aber es gibt etwas noch Faszinierenderes.
+
+57
+00:05:42,480 --> 00:05:48,519
+Es zeigt sich ein deutlicher Sprung bei den durchschnittlichen Bildungsjahren, die die heutigen Einwohner absolviert haben.
+
+58
+00:05:48,519 --> 00:05:53,120
+Es ist sonnenklar, dass dieser erste Impuls der Neuankömmlinge
+
+59
+00:05:53,120 --> 00:05:55,759
+nicht an den Werkstoren der ersten Fabriken haltmachte,
+
+60
+00:05:55,759 --> 00:05:59,920
+sondern sich tief in der strukturellen und kulturellen Entwicklung dieser Regionen verankert hat.
+
+61
+00:05:59,920 --> 00:06:02,560
+An diesem Punkt drängt sich die Frage auf:
+
+62
+00:06:02,560 --> 00:06:05,319
+Was sind die Mechanismen hinter diesem Erfolg?
+
+63
+00:06:05,319 --> 00:06:10,079
+Wie haben sie es geschafft, Vorteile zu generieren, die 100 Jahre lang anhalten?
+
+64
+00:06:10,199 --> 00:06:13,359
+Kurzfristig wirkten die Hebel dieses unglaublichen Wachstums
+
+65
+00:06:13,359 --> 00:06:15,439
+an drei Hauptfronten.
+
+66
+00:06:15,439 --> 00:06:20,479
+Auf der einen Seite gab es ein massives und glückliches Angebot an ungelernter Arbeitskraft –
+
+67
+00:06:20,479 --> 00:06:24,279
+ein echter Treibstoff für die aufkommende industrielle Revolution.
+
+68
+00:06:24,279 --> 00:06:28,319
+Auf der anderen Seite stand eine unverzichtbare Gruppe hochqualifizierter Handwerker,
+
+69
+00:06:28,319 --> 00:06:31,000
+die spezialisierte Berufe aus Europa mitbrachten.
+
+70
+00:06:31,000 --> 00:06:32,479
+Und vergessen wir nicht das Land.
+
+71
+00:06:32,479 --> 00:06:38,000
+Der Agrarsektor machte einen enormen Sprung nach vorn dank Innovationen wie dem Luzernesamen
+
+72
+00:06:38,000 --> 00:06:41,279
+und fortschrittlichsten Techniken zur Fruchtfolge.
+
+73
+00:06:41,279 --> 00:06:43,399
+Doch wenn man von Innovation spricht,
+
+74
+00:06:43,399 --> 00:06:47,040
+ist der Grad der eingebrachten Genialität geradezu unglaublich.
+
+75
+00:06:47,040 --> 00:06:51,600
+Viele der kultigsten Fortschritte dieser Ära tragen die Handschrift von Einwanderern.
+
+76
+00:06:51,600 --> 00:06:53,399
+Denken Sie an John A. Roebling,
+
+77
+00:06:53,399 --> 00:06:55,480
+der Pionierarbeit bei Hängebrücken leistete,
+
+78
+00:06:55,480 --> 00:06:57,439
+wie der legendären Brooklyn Bridge,
+
+79
+00:06:57,439 --> 00:06:59,279
+oder an Alexander Graham Bell,
+
+80
+00:06:59,279 --> 00:07:01,279
+dem wir die Erfindung des Telefons verdanken.
+
+81
+00:07:01,279 --> 00:07:03,000
+Und das gilt nicht nur für die Ingenieurwissenschaften.
+
+82
+00:07:03,000 --> 00:07:05,680
+Sogar die Zivilgesellschaft wurde revolutioniert:
+
+83
+00:07:05,680 --> 00:07:08,160
+Die Idee der Kindertagesstätte, des "Kindergartens",
+
+84
+00:07:08,160 --> 00:07:10,800
+wurde von dem Einwanderer Friedrich Fröbel eingeführt
+
+85
+00:07:10,800 --> 00:07:13,360
+und veränderte die frühkindliche Bildung für immer.
+
+86
+00:07:13,360 --> 00:07:18,480
+Der Anstieg der registrierten Patente in diesen Gebieten verlief buchstäblich exponentiell.
+
+87
+00:07:18,480 --> 00:07:22,519
+Es gibt jedoch ein faszinierendes Paradoxon beim Thema Bildung.
+
+88
+00:07:22,519 --> 00:07:27,240
+Kurzfristig betrachtet, im 19. Jahrhundert, senkte die Massenankunft von Einwanderern
+
+89
+00:07:27,240 --> 00:07:30,680
+tatsächlich die Einschulungsraten
+
+90
+00:07:30,680 --> 00:07:32,800
+und ließ die Analphabetenrate in die Höhe schnellen,
+
+91
+00:07:32,800 --> 00:07:35,480
+da viele der ländlichen Armut entflohen waren.
+
+92
+00:07:35,480 --> 00:07:39,400
+Langfristig kehrte sich dieser Trend jedoch völlig um.
+
+93
+00:07:39,400 --> 00:07:42,079
+Die Gemeinden, die damals Einwanderer aufnahmen,
+
+94
+00:07:42,079 --> 00:07:44,600
+brachten letztendlich spätere Generationen hervor,
+
+95
+00:07:44,600 --> 00:07:48,680
+deren durchschnittliches Bildungsniveau deutlich über dem Landesdurchschnitt lag –
+
+96
+00:07:48,680 --> 00:07:50,680
+eine Investition in das Humankapital,
+
+97
+00:07:50,680 --> 00:07:53,000
+die einfach Zeit brauchte, um aufzublühen.
+
+98
+00:07:53,000 --> 00:07:56,600
+Lassen Sie uns abschließend die sozialen Kosten und Schlussfolgerungen betrachten,
+
+99
+00:07:56,600 --> 00:07:59,480
+um wirklich das Gesamtbild der Situation zu erfassen,
+
+100
+00:07:59,480 --> 00:08:00,960
+ohne etwas auszulassen.
+
+101
+00:08:01,240 --> 00:08:03,840
+Es ist völlig legitim, sich zu fragen: Gut,
+
+102
+00:08:03,840 --> 00:08:05,920
+die wirtschaftlichen Vorteile sind enorm,
+
+103
+00:08:05,920 --> 00:08:10,080
+aber haben wir dafür einen Preis in Form von langfristigen sozialen Spannungen bezahlt?
+
+104
+00:08:10,080 --> 00:08:12,280
+Bei der Analyse der Daten für das Jahr 2000
+
+105
+00:08:12,280 --> 00:08:14,040
+ist das Ergebnis glasklar.
+
+106
+00:08:14,040 --> 00:08:16,040
+Trotz der dokumentierten Feindseligkeiten
+
+107
+00:08:16,040 --> 00:08:19,280
+und der unbestreitbaren kurzfristigen politischen Reibungen jener Ära
+
+108
+00:08:19,280 --> 00:08:22,600
+ist der langfristige Einfluss auf Faktoren wie Sozialkapital,
+
+109
+00:08:22,600 --> 00:08:26,440
+Wahlbeteiligung oder Kriminalitätsraten heute gleich null.
+
+110
+00:08:26,440 --> 00:08:28,360
+Es gibt keinen signifikanten Effekt.
+
+111
+00:08:28,400 --> 00:08:31,759
+Kurz gesagt: Die sozialen Kosten haben sich im Laufe der Zeit
+
+112
+00:08:31,759 --> 00:08:36,039
+buchstäblich aufgelöst, während sich die wirtschaftlichen Vorteile gefestigt haben.
+
+113
+00:08:36,039 --> 00:08:40,919
+Und das hinterlässt eine sehr, sehr kraftvolle Schlussfrage.
+
+114
+00:08:40,919 --> 00:08:43,480
+Diese empirische Analyse zeigt, dass kurzfristige Spannungen
+
+115
+00:08:43,480 --> 00:08:45,440
+dazu neigen zu verblassen,
+
+116
+00:08:45,440 --> 00:08:47,560
+während die wirtschaftlichen Dividenden die Gesellschaft
+
+117
+00:08:47,560 --> 00:08:49,960
+seit mehr als einem Jahrhundert weiterhin bereichern.
+
+118
+00:08:49,960 --> 00:08:53,440
+Angesichts solch eindeutiger Beweise lautet die entscheidende Frage:
+
+119
+00:08:53,440 --> 00:08:56,720
+Wie sollte das Lernen aus dieser fundierten historischen Lektion
+
+120
+00:08:56,720 --> 00:09:00,160
+unser Verständnis der heutigen wirtschaftlichen Dynamiken
+
+121
+00:09:00,160 --> 00:09:02,759
+und globalen Bewegungen leiten und prägen?
+
+122
+00:09:02,759 --> 00:09:06,000
+Es ist eine tiefgründige Überlegung, die uns die Daten aufzwingen.
+
+123
+00:09:06,000 --> 00:09:09,279
+Mit dieser Frage entlasse ich Sie. Bis zur nächsten Analyse.

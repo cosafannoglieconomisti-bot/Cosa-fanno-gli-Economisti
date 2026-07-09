@@ -1,0 +1,487 @@
+1
+00:00:00,000 --> 00:00:02,800
+Willkommen zu dieser neuen Vertiefung.
+
+2
+00:00:02,800 --> 00:00:08,880
+Der heutige Titel wirft eine wirklich heikle Frage auf: Drängt Arbeitsplatzverlust zum Verbrechen?
+
+3
+00:00:08,880 --> 00:00:12,679
+Man könnte sich fragen, ob es wirklich einen direkten und spürbaren Zusammenhang gibt.
+
+4
+00:00:12,679 --> 00:00:18,559
+Nun, heute werden wir keine Vermutungen anstellen, sondern die Antworten einer faszinierenden
+
+5
+00:00:18,559 --> 00:00:23,320
+Studie aus dem Jahr 2022 untersuchen, die in der renommierten Zeitschrift Econometrica veröffentlicht wurde.
+
+6
+00:00:23,320 --> 00:00:28,560
+Wir werden eine enorme Menge realer Daten analysieren, um die komplexen Dynamiken zwischen Beschäftigung
+
+7
+00:00:28,560 --> 00:00:33,800
+und menschlichem Verhalten zu entschlüsseln, wobei wir uns auf einen riesigen Fall konzentrieren: Brasilien.
+
+8
+00:00:33,800 --> 00:00:39,000
+Keine aus der Luft gegriffenen Theorien, nur die Erkenntnisse der Fakten. Fangen wir gleich an.
+
+9
+00:00:39,000 --> 00:00:42,640
+Okay, steigen wir gleich ein und werfen wir einen Blick auf diese Grafik.
+
+10
+00:00:42,640 --> 00:00:48,960
+Sie zeigt uns das Gesamtbild Brasiliens von 1991 bis 2017, und es fällt sofort ins Auge,
+
+11
+00:00:48,960 --> 00:00:52,680
+eine klare, sehr starke Korrelation auf makroökonomischer Ebene.
+
+12
+00:00:52,680 --> 00:00:57,280
+Betrachtet man die orangefarbene Linie der Beschäftigung, so fällt auf, dass jedes Mal, wenn die grüne Linie,
+
+13
+00:00:57,280 --> 00:01:01,200
+die die Tötungsrate darstellt, nach unten geht, sie einen Sprung nach oben macht.
+
+14
+00:01:01,200 --> 00:01:06,400
+Um es besser zu verstehen: In diesem Zeitraum führte ein Rückgang der Beschäftigung um 16 %
+
+15
+00:01:06,400 --> 00:01:10,799
+zu einem beeindruckenden Anstieg der Tötungsdelikte um 62 %.
+
+16
+00:01:10,799 --> 00:01:15,640
+Das ist ein verrückter Ausgangspunkt, aber wie wir wissen, bedeutet eine Korrelation nicht
+
+17
+00:01:15,640 --> 00:01:19,359
+zwangsläufig Kausalität; wir müssen viel tiefer graben.
+
+18
+00:01:19,359 --> 00:01:24,079
+Genau, um einen einfachen statistischen Zufall von einer echten
+
+19
+00:01:24,079 --> 00:01:28,560
+Ursache-Wirkung-Beziehung zu trennen, hatten die Forscher eine geniale Idee: Sie beschlossen,
+
+20
+00:01:28,560 --> 00:01:32,560
+ausschließlich Massenentlassungen zu isolieren, denn das sind genau diejenigen.
+
+21
+00:01:32,560 --> 00:01:37,799
+In der Wirtschaft stellt eine Massenentlassung das dar, was als exogener Schock bezeichnet wird.
+
+22
+00:01:37,799 --> 00:01:41,840
+Stellen wir uns ein Unternehmen vor, das plötzlich mehr als ein Drittel seiner Belegschaft abbaut.
+
+23
+00:01:41,840 --> 00:01:45,519
+Wir können praktisch sicher sein, dass diese Arbeitsplätze aufgrund einer
+
+24
+00:01:45,519 --> 00:01:49,879
+Marktschwankung oder einer Unternehmenskrise wegfielen, nicht weil der einzelne Mitarbeiter anfing,
+
+25
+00:01:49,879 --> 00:01:51,480
+sich schlecht zu benehmen, richtig?
+
+26
+00:01:51,480 --> 00:01:54,680
+Auf diese Weise wird die Wurzel des Zweifels beseitigt, dass die Entlassung durch die
+
+27
+00:01:54,680 --> 00:01:58,880
+vorbestehende kriminelle Neigung einer Person verursacht wurde, und wir können die Auswirkungen der Arbeitslosigkeit
+
+28
+00:01:58,880 --> 00:02:00,760
+chirurgisch isolieren.
+
+29
+00:02:00,760 --> 00:02:06,600
+Machen Sie sich bereit, denn die Ergebnisse dieser statistischen Isolation sind gelinde gesagt schockierend.
+
+30
+00:02:06,600 --> 00:02:11,840
+Die Daten zeigen uns, dass die Wahrscheinlichkeit, ein Verbrechen zu begehen, bei entlassenen Arbeitnehmern
+
+31
+00:02:11,840 --> 00:02:14,319
+im Durchschnitt um 23 % steigt.
+
+32
+00:02:14,319 --> 00:02:19,159
+Ein Sprung von 23 % – wir sprechen von einem Anstieg um fast ein Viertel im Vergleich zum üblichen Verhalten,
+
+33
+00:02:19,159 --> 00:02:22,599
+das im Jahr nach dem Arbeitsplatzverlust registriert wurde.
+
+34
+00:02:22,599 --> 00:02:26,840
+Und das Beeindruckendste ist, dass diese Rate bis zu 4 Jahre nach der Entlassung hoch und stabil bleibt.
+
+35
+00:02:26,840 --> 00:02:31,159
+Es handelt sich nicht um eine momentane impulsive Handlung,
+
+36
+00:02:31,159 --> 00:02:35,240
+sondern um eine lang anhaltende und tief verwurzelte Verhaltensänderung bei denen, die sich plötzlich
+
+37
+00:02:35,240 --> 00:02:36,240
+arbeitslos wiederfinden.
+
+38
+00:02:36,240 --> 00:02:41,240
+Was an dieser Folie nun wirklich interessant ist, ist die Frage, um welche Art von Verbrechen
+
+39
+00:02:41,240 --> 00:02:46,120
+es sich handelt. Zerlegen wir den Gesamteffekt, sehen wir, dass nicht alle Straftaten gleichermaßen
+
+40
+00:02:46,120 --> 00:02:47,120
+zunehmen.
+
+41
+00:02:47,120 --> 00:02:51,560
+Wie vielleicht vorhersehbar, schnellen Verbrechen mit einer sehr starken wirtschaftlichen Motivation, wie
+
+42
+00:02:51,560 --> 00:02:57,800
+Diebstähle, Raubüberfälle oder Drogenhandel, um unglaubliche 43 % in die Höhe, wobei
+
+43
+00:02:57,800 --> 00:03:03,560
+allein Raubüberfälle einen wahnsinnigen Anstieg von 91 % verzeichnen. Aber Vorsicht, denn es geht nicht nur darum,
+
+44
+00:03:03,560 --> 00:03:09,240
+verzweifelt nach Geld zu suchen; auch Gewalttaten steigen um 17 % an,
+
+45
+00:03:09,240 --> 00:03:15,400
+und dazu gehören Tötungsdelikte, die einen beunruhigenden Anstieg von 32 % verzeichnen. Diese Ausweitung der Effekte
+
+46
+00:03:15,400 --> 00:03:18,439
+zwingt uns, über die reine wirtschaftliche Notwendigkeit hinauszuschauen.
+
+47
+00:03:18,439 --> 00:03:24,120
+Tatsächlich gibt es ein entscheidendes Detail, das aus den Daten hervorgeht: Es wird ein
+
+48
+00:03:24,120 --> 00:03:28,960
+verallgemeinerter Anstieg auch bei all jenen Straftaten dokumentiert, die buchstäblich null wirtschaftliche
+
+49
+00:03:28,960 --> 00:03:34,520
+Motivationen haben. Wir sprechen hier von Vandalismus, Sachbeschädigung, schweren Verkehrsverstößen,
+
+50
+00:03:34,520 --> 00:03:38,960
+Schlägereien, Beleidigungen und Verleumdungen.
+
+51
+00:03:38,960 --> 00:03:44,120
+Der Anstieg dieser spezifischen Kategorien liefert uns einen ersten und entscheidenden Hinweis:
+
+52
+00:03:44,120 --> 00:03:48,960
+enormer psychologischer Stress und emotionales Trauma spielen eine entscheidende Rolle, die parallel
+
+53
+00:03:48,960 --> 00:03:51,200
+zum Einkommensverlust wirkt.
+
+54
+00:03:51,200 --> 00:03:56,200
+Der menschliche Geist, einer solch heftigen emotionalen Belastung ausgesetzt, reagiert auf vielfältige
+
+55
+00:03:56,200 --> 00:03:58,240
+und gesellschaftlich selbstzerstörerische Weise.
+
+56
+00:03:58,240 --> 00:04:04,000
+Und leider bleiben die Folgen dieses Drucks nicht auf die direkt Betroffenen beschränkt, es gibt
+
+57
+00:04:04,000 --> 00:04:09,000
+einen tragischen Spillover-Effekt, einen regelrechten Dominoeffekt auf die Familie.
+
+58
+00:04:09,000 --> 00:04:13,879
+Die Zahlen enthüllen, dass die Wahrscheinlichkeit einer Strafanzeige um besorgniserregende
+
+59
+00:04:13,879 --> 00:04:20,959
+18 % ansteigt, sogar für die im Haushalt lebenden Kinder der entlassenen Arbeitnehmer. 18 % – es ist, als ob die Spannung,
+
+60
+00:04:20,959 --> 00:04:26,839
+die finanziellen Schwierigkeiten und die Angst, die der Elternteil erlebt, sich in die häuslichen Mauern einschleichen würden,
+
+61
+00:04:26,839 --> 00:04:32,480
+und die Atmosphäre so sehr zersetzen, dass selbst die jüngeren Generationen in die Illegalität getrieben werden.
+
+62
+00:04:32,480 --> 00:04:37,399
+An diesem Punkt gelang es der Studie, mithilfe hochmoderner Algorithmen ein
+
+63
+00:04:37,399 --> 00:04:41,480
+präzises Profil der am stärksten gefährdeten Personen zu erstellen.
+
+64
+00:04:41,480 --> 00:04:46,400
+Die Forscher führten uns durch die Daten und zeigten, dass die steilsten Anstiege und damit
+
+65
+00:04:46,400 --> 00:04:52,000
+die absolut höchsten Risiken sich um zwei zentrale Variablen konzentrieren: Alter und Betriebszugehörigkeit.
+
+66
+00:04:52,000 --> 00:04:57,400
+Dies erlaubt uns, hineinzuzoomen und zu sehen, wer die verheerendsten Auswirkungen des Traumas erlebt,
+
+67
+00:04:57,400 --> 00:05:00,560
+abseits der einfachen allgemeinen Durchschnittswerte.
+
+68
+00:05:00,560 --> 00:05:05,120
+Zusammenfassend lässt sich sagen, dass junge Arbeitnehmer, die nur wenige Monate Betriebszugehörigkeit
+
+69
+00:05:05,120 --> 00:05:10,040
+im Unternehmen aufweisen, statistisch am härtesten betroffen sind. Aber wissen Sie, was der
+
+70
+00:05:10,040 --> 00:05:15,200
+wirklich überraschende Teil ist? Dieser Höhepunkt tritt völlig unabhängig vom Bildungsniveau
+
+71
+00:05:15,200 --> 00:05:19,760
+oder dem Reichtum der Gegend auf, in der man lebt. In einem so riesigen
+
+72
+00:05:19,760 --> 00:05:24,080
+und heterogenen Land wie Brasilien macht es kaum einen Unterschied, ob die lokale Kriminalitätsrate
+
+73
+00:05:24,080 --> 00:05:28,680
+niedrig ist oder ob man eine gute Ausbildung hat. Die explosive Kombination bleibt immer die zwischen
+
+74
+00:05:28,680 --> 00:05:32,280
+jung zu sein und eine gerade erst begonnene Arbeitsstelle zu verlieren.
+
+75
+00:05:32,280 --> 00:05:37,879
+Ausgezeichnet, aber in dieser Phase der Analyse haben wir ein richtiges Rätsel zu lösen.
+
+76
+00:05:38,120 --> 00:05:43,639
+Was ist der ursprüngliche Funke? Warum passiert das alles? Der Anstieg der Kriminalität tritt auf,
+
+77
+00:05:43,639 --> 00:05:48,959
+einfach weil Menschen, die arbeitslos werden, plötzlich leere Tage
+
+78
+00:05:48,959 --> 00:05:54,279
+und zu viel Freizeit haben, um in Schwierigkeiten zu geraten, oder ist der Grund brutal materiell,
+
+79
+00:05:54,279 --> 00:05:58,800
+das heißt, dass Menschen zu allem bereit sind, weil sie nicht das nötige Bargeld haben,
+
+80
+00:05:58,800 --> 00:06:03,079
+um über die Runden zu kommen? Und das veranschaulicht wunderbar die große
+
+81
+00:06:03,079 --> 00:06:08,240
+theoretische Debatte, die Wissenschaftler seit Jahrzehnten fasziniert, indem sie zwei klare Ansichten gegenüberstellt.
+
+82
+00:06:08,240 --> 00:06:14,120
+Auf der einen Seite steht die Hypothese des Überflusses an Freizeit, auch bekannt als Entmündigungseffekt.
+
+83
+00:06:14,120 --> 00:06:19,439
+Vereinfacht ausgedrückt: Acht Stunden lang die Stechuhr zu betätigen, hält Sie beschäftigt und fern von Ärger.
+
+84
+00:06:19,439 --> 00:06:24,599
+Auf der anderen Seite finden wir die Hypothese der Liquiditätsbindung, d.h. die reine und rohe
+
+85
+00:06:24,599 --> 00:06:28,959
+Verzweiflung, die dadurch entsteht, dass man nicht genug Geld in der Tasche hat, um die Grundbedürfnisse zu decken.
+
+86
+00:06:29,640 --> 00:06:34,280
+Welche dieser beiden mächtigen Kräfte treibt ein Individuum wirklich über die Grenze der Legalität hinaus?
+
+87
+00:06:34,280 --> 00:06:39,120
+Um dies unmissverständlich herauszufinden, haben die Forscher ein buchstäblich perfektes
+
+88
+00:06:39,120 --> 00:06:44,240
+natürliches Experiment entdeckt. In Brasilien gibt es eine extrem strenge institutionelle Regel.
+
+89
+00:06:44,240 --> 00:06:49,320
+Um Anspruch auf Arbeitslosengeld zu haben, müssen genau 16 Monate
+
+90
+00:06:49,320 --> 00:06:55,360
+seit der vorherigen Entlassung vergangen sein. Kurz gesagt, wer nach 15 Monaten den Job verliert, bekommt keinen Cent.
+
+91
+00:06:55,480 --> 00:07:00,319
+Wer ihn jedoch verliert, sobald der 16. Monat erreicht ist, kann bis zu 5 Monatsgehälter
+
+92
+00:07:00,319 --> 00:07:05,720
+als Absicherung erhalten. Diese millimetergenaue zeitliche Schwelle bietet uns die seltene Möglichkeit, zwei
+
+93
+00:07:05,720 --> 00:07:11,040
+statistisch identische Personengruppen zu vergleichen, die sich nur in einem entscheidenden
+
+94
+00:07:11,040 --> 00:07:13,879
+Element unterscheiden: dem sofortigen Zugang zu Bargeld.
+
+95
+00:07:13,879 --> 00:07:18,120
+Trommelwirbel? Die Daten sprechen eine sehr deutliche Sprache.
+
+96
+00:07:18,120 --> 00:07:23,759
+Die glücklichen Arbeitnehmer, die berechtigt sind, die Leistung zu erhalten, verzeichnen eine drastische
+
+97
+00:07:23,759 --> 00:07:30,199
+Reduzierung der Kriminalitätsraten in den ersten 6 Monaten. Ein Rückgang von 21 % im Vergleich
+
+98
+00:07:30,199 --> 00:07:35,759
+zu denen, die die Voraussetzungen nur um wenige Tage verfehlten. Diese Zahl ist ein Meilenstein.
+
+99
+00:07:35,759 --> 00:07:42,560
+21 % bedeutet, dass die Bereitstellung eines Sicherheitsnetzes, ein wenig finanzielle Atempause, sofort
+
+100
+00:07:42,560 --> 00:07:47,279
+einen riesigen Teil der durch Arbeitsplatzverlust ausgelösten Kriminalität eindämmt.
+
+101
+00:07:47,279 --> 00:07:53,279
+Der entscheidende Punkt liegt also genau in dieser beeindruckenden Schlussfolgerung der Studie.
+
+102
+00:07:53,280 --> 00:07:59,520
+Die Berechtigung zum Arbeitslosengeld kompensiert fast vollständig den potenziellen Anstieg
+
+103
+00:07:59,520 --> 00:08:05,120
+der Kriminalität, und damit ist unser Rätsel gelöst, Fall abgeschlossen. Die Daten beweisen, dass
+
+104
+00:08:05,120 --> 00:08:09,640
+subventionierte Arbeitnehmer sogar länger brauchen, um eine neue Anstellung zu finden, und somit
+
+105
+00:08:09,640 --> 00:08:14,440
+paradoxerweise eine Lawine an zusätzlicher Freizeit genießen. Und doch begehen sie viel
+
+106
+00:08:14,440 --> 00:08:19,600
+weniger Verbrechen. Dies widerlegt vollständig die Vorstellung, dass Illegalität durch einen Überfluss
+
+107
+00:08:19,600 --> 00:08:25,360
+an Müßiggang entsteht. Der wahre Übeltäter ist zweifellos der plötzliche Mangel an Geld.
+
+108
+00:08:25,360 --> 00:08:29,840
+Auf dem Weg zum Abschluss unserer Untersuchung können wir endlich mit dem Finger auf die
+
+109
+00:08:29,840 --> 00:08:35,519
+wahren Schuldigen zeigen. Die eigentlichen Triebfedern der Kriminalität nach Entlassungen sind zwei. Die erste ist
+
+110
+00:08:35,519 --> 00:08:39,800
+die strenge und sofortige Liquiditätsbindung, diese beängstigende Unfähigkeit, sich das Nötigste zum Leben
+
+111
+00:08:39,800 --> 00:08:45,120
+leisten zu können. Die zweite, die gleichzeitig wirkt, ist
+
+112
+00:08:45,120 --> 00:08:50,200
+die verheerenden Auswirkungen von psychologischem Stress und dem Gefühl des Versagens. Es ist sicherlich nicht die
+
+113
+00:08:50,200 --> 00:08:55,399
+überschüssige Freizeit, die Schaden anrichtet, sondern ein explosiver Cocktail aus wirtschaftlicher Verzweiflung, gepaart
+
+114
+00:08:55,399 --> 00:09:00,879
+mit dem Zusammenbruch der persönlichen Identität. Aber es gibt noch eine letzte provokante Überlegung, mit der
+
+115
+00:09:00,879 --> 00:09:05,720
+wir diese Analyse abschließen müssen. Was passiert mit dem menschlichen Geist und dem Gefüge unserer
+
+116
+00:09:05,720 --> 00:09:11,879
+Städte, wenn diese lebenswichtige Unterstützung plötzlich endet? Die Forscher weisen auf eine
+
+117
+00:09:11,879 --> 00:09:16,799
+objektive Realität hin, die Gänsehaut verursacht: Die Schutzwirkung der Subventionen verschwindet
+
+118
+00:09:16,799 --> 00:09:21,759
+in genau dem Moment, in dem die Zahlungen enden. Die Kriminalität steigt wieder stark an,
+
+119
+00:09:21,759 --> 00:09:26,600
+gerade in jenem verhängnisvollen Monat, in dem die Hilfszahlungen eingestellt werden. Es ist eine Tatsache, die
+
+120
+00:09:26,600 --> 00:09:30,759
+uns zwingt, tief über die extreme Zerbrechlichkeit unserer sozialen Schutzsysteme nachzudenken,
+
+121
+00:09:30,759 --> 00:09:35,799
+denn wenn eine Gesellschaft aufhört, jemanden zu unterstützen, der plötzlich abstürzt,
+
+122
+00:09:35,799 --> 00:09:41,039
+treffen die Auswirkungen unweigerlich alle. Bis zur nächsten Analyse.

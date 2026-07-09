@@ -1,0 +1,491 @@
+1
+00:00:00,000 --> 00:00:08,480
+Bienvenue dans cette nouvelle analyse économique, dans laquelle nous allons explorer une question vraiment fascinante, le titre d'aujourd'hui est exactement celui-ci.
+
+2
+00:00:08,480 --> 00:00:11,599
+Les immigrés rendent-ils un pays plus riche ?
+
+3
+00:00:11,599 --> 00:00:19,320
+C'est un grand mystère économique qui nous pousse à nous demander si, historiquement, l'immigration a réellement entraîné la croissance,
+
+4
+00:00:19,320 --> 00:00:24,080
+ou si les gens se sont simplement déplacés là où la richesse était déjà présente.
+
+5
+00:00:24,080 --> 00:00:31,240
+Pour le découvrir, nous plongeons dans l'exceptionnel travail de recherche mené par Sandra Sequeira, Nathan Nunn et Nancy Qian.
+
+6
+00:00:31,240 --> 00:00:32,840
+Bien, on commence ?
+
+7
+00:00:32,840 --> 00:00:41,680
+Pour comprendre pleinement cette dynamique, nous devons faire un grand bond en arrière, dans ce que l'on appelle l'ère des migrations de masse.
+
+8
+00:00:41,680 --> 00:00:52,079
+Imaginons l'Amérique de cette époque, comme l'a brillamment souligné John F. Kennedy, durant ces décennies l'Amérique est devenue le colosse industriel et agricole de la planète.
+
+9
+00:00:52,079 --> 00:01:02,079
+Et attention, tout cela n'aurait jamais été possible sans le travail acharné, les compétences et l'intuition des 23,5 millions de personnes qui ont débarqué durant cette période.
+
+10
+00:01:02,079 --> 00:01:11,400
+23,5 millions, une vague humaine sans précédent qui a littéralement bouleversé et façonné l'économie, d'une manière que nous mesurons encore aujourd'hui.
+
+11
+00:01:11,400 --> 00:01:15,439
+Naturellement, ce phénomène ne s'est pas produit en un clin d'œil.
+
+12
+00:01:15,439 --> 00:01:23,280
+En regardant la frise chronologique, on voit que le début de cette migration à très grande échelle remonte aux années 1850.
+
+13
+00:01:23,280 --> 00:01:30,359
+Mais le véritable tournant, le grand bouleversement, arrive dans les années 1880, avec un changement démographique massif.
+
+14
+00:01:30,359 --> 00:01:34,439
+Il n'arrivait plus seulement des personnes d'Europe du Nord ou de l'Ouest,
+
+15
+00:01:34,439 --> 00:01:42,920
+mais d'immenses flux d'Europe du Sud et de l'Est, un mélange incroyable de nouvelles cultures, langues et compétences qui se déversait dans le pays.
+
+16
+00:01:42,920 --> 00:01:51,320
+Une ère qui se referme ensuite dans les années 1920, laissant en héritage une nation à la démographie profondément transformée.
+
+17
+00:01:51,320 --> 00:01:58,359
+Et nous voici au cœur du sujet, face au problème classique et très difficile de la poule et de l'œuf.
+
+18
+00:01:58,359 --> 00:02:04,920
+Les immigrés ont-ils choisi de s'installer dans des comtés qui étaient déjà riches, ou est-ce eux qui les ont rendus ainsi ?
+
+19
+00:02:04,920 --> 00:02:08,400
+Statistiquement, c'est un véritable défi.
+
+20
+00:02:08,439 --> 00:02:14,159
+Si nous nous basons uniquement sur les données brutes, nous voyons des comtés pleins d'immigrés qui débordent de prospérité.
+
+21
+00:02:14,159 --> 00:02:21,640
+Mais il y a un piège : peut-être s'y sont-ils simplement installés parce que de nouvelles voies ferrées y étaient construites ou parce que les industries étaient déjà en plein essor.
+
+22
+00:02:21,640 --> 00:02:27,439
+Isoler la véritable cause est un sacré casse-tête, et c'est exactement le cœur de l'analyse de cette étude.
+
+23
+00:02:27,439 --> 00:02:32,280
+Comme si cela ne suffisait pas, il y a un obstacle supplémentaire, appelé la sélection négative.
+
+24
+00:02:32,400 --> 00:02:43,120
+En pratique, en raison de lourdes discriminations ou simplement par manque de ressources, les nouveaux arrivants ne pouvaient souvent pas acheter les meilleures terres ni accéder aux emplois les plus rémunérateurs.
+
+25
+00:02:43,120 --> 00:02:48,560
+Ils étaient littéralement poussés vers la marge, dans des zones moins attrayantes et avec beaucoup moins de perspectives.
+
+26
+00:02:48,560 --> 00:02:59,840
+Cela signifie que, si nous n'utilisions que les indicateurs économiques de base, nous risquerions de sous-estimer de manière flagrante leur impact réel, précisément parce qu'ils partaient d'une position de très grand désavantage.
+
+27
+00:02:59,960 --> 00:03:03,200
+Alors, comment les chercheurs ont-ils résolu l'énigme ?
+
+28
+00:03:03,200 --> 00:03:09,840
+Avec une idée qui est un véritable coup de génie méthodologique : ils ont construit une expérience naturelle basée sur les trains.
+
+29
+00:03:09,840 --> 00:03:14,439
+À l'époque, le chemin de fer était la principale voie pour s'enfoncer vers l'intérieur du pays.
+
+30
+00:03:14,439 --> 00:03:22,080
+Les chercheurs ont comparé deux types de comtés : ceux qui ont été reliés au réseau ferroviaire précisément pendant une décennie de boom migratoire
+
+31
+00:03:22,080 --> 00:03:27,759
+et ceux reliés pendant une décennie de calme plat, lorsque les arrivées nationales étaient au plus bas historique.
+
+32
+00:03:27,799 --> 00:03:33,519
+Entrons dans les détails de cette tactique, c'est un processus en trois étapes extrêmement élégant.
+
+33
+00:03:33,519 --> 00:03:40,239
+Étape un, mesurer précisément le flux total d'immigrés vers les États-Unis, année par année.
+
+34
+00:03:40,239 --> 00:03:48,039
+Étape deux, retracer méticuleusement l'expansion du réseau ferroviaire, décennie par décennie.
+
+35
+00:03:48,039 --> 00:03:55,319
+Étape trois, et c'est là que réside la magie, observer où ces deux données se croisent : le timing est tout.
+
+36
+00:03:55,439 --> 00:04:01,959
+Si le chemin de fer arrivait dans votre comté précisément au moment où il y avait un boom des arrivées au niveau national,
+
+37
+00:04:01,959 --> 00:04:06,519
+vous vous retrouviez avec une vague d'immigrés de manière totalement accidentelle.
+
+38
+00:04:06,519 --> 00:04:14,000
+Ce stratagème incroyable permet d'isoler l'impact réel de l'immigration de toute autre variable économique.
+
+39
+00:04:14,000 --> 00:04:23,399
+Passons maintenant à la révélation économique à long terme, en mesurant la prospérité grâce à un bond en avant jusqu'en l'an 2000.
+
+40
+00:04:23,439 --> 00:04:29,439
+Roulement de tambour. Une fois que cette méthodologie géniale a balayé les doutes sur les causes,
+
+41
+00:04:29,439 --> 00:04:34,560
+allons voir où en sont ces comtés en l'an 2000, plus d'un siècle plus tard.
+
+42
+00:04:34,560 --> 00:04:36,959
+Le résultat qui en ressort est stupéfiant.
+
+43
+00:04:36,959 --> 00:04:44,399
+Les comtés qui ont historiquement accueilli le plus d'immigrés enregistrent aujourd'hui un revenu moyen par habitant supérieur de 13 %.
+
+44
+00:04:44,399 --> 00:04:45,879
+13 % ?
+
+45
+00:04:45,879 --> 00:04:54,079
+Passer d'un comté sans aucune immigration historique au cinquantième percentile fait grimper la richesse actuelle de ses habitants de 13 %.
+
+46
+00:04:54,079 --> 00:04:58,399
+Un dividende économique durable, solide et tout simplement énorme.
+
+47
+00:04:58,399 --> 00:05:02,759
+Mais attention, la richesse générale n'est pas le seul indicateur positif.
+
+48
+00:05:02,759 --> 00:05:08,439
+En comparant d'autres indicateurs fondamentaux du bien-être moderne, on constate des améliorations incroyables.
+
+49
+00:05:08,439 --> 00:05:12,879
+Dans ces mêmes comtés, le taux de pauvreté a diminué de deux points de pourcentage,
+
+50
+00:05:12,879 --> 00:05:17,560
+et en parallèle, le taux de chômage a également baissé de deux points de pourcentage.
+
+51
+00:05:17,560 --> 00:05:18,920
+Pensez-y un instant.
+
+52
+00:05:18,920 --> 00:05:23,759
+Lorsque l'on applique une baisse de deux points de pourcentage à l'ensemble de la population d'un comté moderne,
+
+53
+00:05:23,759 --> 00:05:27,759
+on parle d'un impact massif sur la vie réelle des gens.
+
+54
+00:05:27,759 --> 00:05:34,519
+Et la cascade de bénéfices continue, les données nous révèlent également une nette augmentation du taux d'urbanisation
+
+55
+00:05:34,519 --> 00:05:40,120
+qui a conduit à la création de centres économiques denses, dynamiques et hyperproductifs.
+
+56
+00:05:40,120 --> 00:05:42,439
+Mais il y a quelque chose d'encore plus fascinant.
+
+57
+00:05:42,480 --> 00:05:48,519
+On enregistre un bond significatif dans le nombre moyen d'années d'études complétées par les habitants actuels,
+
+58
+00:05:48,519 --> 00:05:53,120
+il est clair comme de l'eau de roche que cette impulsion initiale apportée par les nouveaux arrivants
+
+59
+00:05:53,120 --> 00:05:55,759
+ne s'est pas arrêtée aux portes des premières usines,
+
+60
+00:05:55,759 --> 00:05:59,920
+mais s'est enracinée dans le développement structurel et culturel de ces régions.
+
+61
+00:05:59,920 --> 00:06:02,560
+À ce stade, la question se pose tout naturellement :
+
+62
+00:06:02,560 --> 00:06:05,319
+quels sont les mécanismes de ce succès ?
+
+63
+00:06:05,319 --> 00:06:10,079
+En somme, comment ont-ils réussi à générer des bénéfices qui durent 100 ans ?
+
+64
+00:06:10,199 --> 00:06:13,359
+À court terme, les leviers de cette croissance incroyable
+
+65
+00:06:13,359 --> 00:06:15,439
+ont opéré sur trois fronts principaux.
+
+66
+00:06:15,439 --> 00:06:20,479
+D'un côté, nous avons eu un apport massif et providentiel de main-d'œuvre non qualifiée,
+
+67
+00:06:20,479 --> 00:06:24,279
+un véritable carburant pour alimenter la révolution industrielle naissante.
+
+68
+00:06:24,279 --> 00:06:28,319
+De l'autre, un groupe essentiel d'artisans hautement qualifiés,
+
+69
+00:06:28,319 --> 00:06:31,000
+qui ont apporté des métiers spécialisés d'Europe,
+
+70
+00:06:31,000 --> 00:06:32,479
+et n'oublions pas les champs.
+
+71
+00:06:32,479 --> 00:06:38,000
+Le secteur agricole a fait un bond en avant incroyable grâce à des innovations telles que la graine de luzerne
+
+72
+00:06:38,000 --> 00:06:41,279
+et des techniques très avancées de rotation des cultures.
+
+73
+00:06:41,279 --> 00:06:43,399
+Mais en parlant d'innovation,
+
+74
+00:06:43,399 --> 00:06:47,040
+le niveau de génie introduit est incroyable,
+
+75
+00:06:47,040 --> 00:06:51,600
+bon nombre des avancées les plus emblématiques de cette époque portent la signature d'immigrés,
+
+76
+00:06:51,600 --> 00:06:53,399
+pensez à John A. Roebling,
+
+77
+00:06:53,399 --> 00:06:55,480
+qui a été le pionnier des ponts suspendus,
+
+78
+00:06:55,480 --> 00:06:57,439
+comme le légendaire pont de Brooklyn,
+
+79
+00:06:57,439 --> 00:06:59,279
+ou encore à Alexander Graham Bell,
+
+80
+00:06:59,279 --> 00:07:01,279
+à qui l'on doit l'invention du téléphone.
+
+81
+00:07:01,279 --> 00:07:03,000
+Et cela ne concerne pas seulement l'ingénierie,
+
+82
+00:07:03,000 --> 00:07:05,680
+même la société civile a été révolutionnée,
+
+83
+00:07:05,680 --> 00:07:08,160
+l'idea du jardin d'enfants, le Kindergarten,
+
+84
+00:07:08,160 --> 00:07:10,800
+a été importée par l'immigré Friedrich Fröbel,
+
+85
+00:07:10,800 --> 00:07:13,360
+changeant à jamais l'éducation de la petite enfance.
+
+86
+00:07:13,360 --> 00:07:18,480
+L'augmentation des brevets déposés dans ces zones a été littéralement exponentielle.
+
+87
+00:07:18,480 --> 00:07:22,519
+Il y a cependant un paradoxe fascinant concernant l'éducation.
+
+88
+00:07:22,519 --> 00:07:27,240
+Si l'on regarde à court terme, au XIXe siècle, l'arrivée massive d'immigrés
+
+89
+00:07:27,240 --> 00:07:30,680
+a effectivement fait baisser les taux de scolarisation
+
+90
+00:07:30,680 --> 00:07:32,800
+et monter en flèche l'analphabétisme,
+
+91
+00:07:32,800 --> 00:07:35,480
+étant donné que beaucoup fuyaient la pauvreté rurale.
+
+92
+00:07:35,480 --> 00:07:39,400
+Cependant, sur le long terme, la tendance s'est totalement inversée.
+
+93
+00:07:39,400 --> 00:07:42,079
+Les communautés qui, à l'époque, ont accueilli des immigrés
+
+94
+00:07:42,079 --> 00:07:44,600
+ont fini par produire des générations suivantes
+
+95
+00:07:44,600 --> 00:07:48,680
+avec un niveau d'éducation moyen nettement supérieur à la moyenne nationale,
+
+96
+00:07:48,680 --> 00:07:50,680
+un investissement dans le capital humain
+
+97
+00:07:50,680 --> 00:07:53,000
+qui a simplement eu besoin de temps pour s'épanouir.
+
+98
+00:07:53,000 --> 00:07:56,600
+Enfin, examinons les coûts sociaux et les conclusions
+
+99
+00:07:56,600 --> 00:07:59,480
+pour avoir réellement une vue d'ensemble de la situation,
+
+100
+00:07:59,480 --> 00:08:00,960
+sans rien laisser de côté.
+
+101
+00:08:01,240 --> 00:08:03,840
+Il est tout à fait légitime de se demander : d'accord,
+
+102
+00:08:03,840 --> 00:08:05,920
+les bénéfices économiques sont énormes,
+
+103
+00:08:05,920 --> 00:08:10,080
+mais avons-nous payé le prix en termes de tensions sociales à long terme ?
+
+104
+00:08:10,080 --> 00:08:12,280
+En analysant les données de l'an 2000,
+
+105
+00:08:12,280 --> 00:08:14,040
+le résultat est limpide.
+
+106
+00:08:14,040 --> 00:08:16,040
+Malgré l'hostilité documentée
+
+107
+00:08:16,040 --> 00:08:19,280
+et les tensions politiques indéniables à court terme de cette époque,
+
+108
+00:08:19,280 --> 00:08:22,600
+l'impact à long terme sur des aspects comme le capital social,
+
+109
+00:08:22,600 --> 00:08:26,440
+la participation électorale, les taux de criminalité est aujourd'hui nul.
+
+110
+00:08:26,440 --> 00:08:28,360
+Aucun effet significatif.
+
+111
+00:08:28,400 --> 00:08:31,759
+En somme, les coûts sociaux se sont littéralement dissipés
+
+112
+00:08:31,759 --> 00:08:36,039
+avec le temps, tandis que les avantages économiques se sont consolidés.
+
+113
+00:08:36,039 --> 00:08:40,919
+Et cela nous laisse sur une question finale très, très puissante.
+
+114
+00:08:40,919 --> 00:08:43,480
+Cette analyse empirique montre que les tensions
+
+115
+00:08:43,480 --> 00:08:45,440
+à court terme ont tendance à s'estomper,
+
+116
+00:08:45,440 --> 00:08:47,560
+tandis que les dividendes économiques continuent
+
+117
+00:08:47,560 --> 00:08:49,960
+d'enrichir la société pendant plus d'un siècle.
+
+118
+00:08:49,960 --> 00:08:53,440
+Face à des preuves aussi évidentes, la question cruciale est :
+
+119
+00:08:53,440 --> 00:08:56,720
+comment la compréhension de cette rigoureuse leçon historique
+
+120
+00:08:56,720 --> 00:09:00,160
+devrait-elle guider et façonner notre compréhension des dynamiques
+
+121
+00:09:00,160 --> 00:09:02,759
+et des mouvements mondiaux de l'économie moderne ?
+
+122
+00:09:02,759 --> 00:09:06,000
+C'est une réflexion profonde que les données nous invitent à ne pas ignorer.
+
+123
+00:09:06,000 --> 00:09:09,279
+Et c'est sur cette question que je vous laisse. À la prochaine analyse.

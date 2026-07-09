@@ -1,0 +1,125 @@
+=== TRASCRITTO CON TIMESTAMP ===
+Video: Perdere_il_lavoro_ti_spinge_al_crimine_cleaned.mp4
+
+[00:00] Benvenuti a questo nuovo approfondimento.
+[00:02] Il titolo di oggi pone un quesito davvero forte, perdere il lavoro ti spinge al cribine,
+[00:08] ci si potrebbe chiedere se esista davvero un legame diretto e tangibile.
+[00:12] E bene, oggi non faremo supposizioni, ma esploreremo le risposte contenute in una fascinante
+[00:18] studio del 2022, pubblicato sulla celebre rivista econometrica.
+[00:23] Analizzeremo un'enorme mole di dati reali per scoprire le complesse dinamiche tra occupazione
+[00:28] e comportamento umano, focalizzandoci su un caso di studio bastissimo, il Brasile.
+[00:33] Nessuna teoria campata in area, solo le vinenze dei fatti, iniziamo subito.
+[00:39] Ok, entriamo subito nel vivo e diamo un occhiata a questo grafico.
+[00:42] Ci mostra il quadro generale del Brasile dal 1991 al 2017, e balsa subito all'occhio
+[00:48] una chiara fortissima correlazione a livello macroeconomico.
+[00:52] Guardando la linea arancione dell'occupazione, si nota che ogni volta che scende la linea
+[00:57] verde, che rappresenta il tasso di umicidi, fa un balsso verso l'alto.
+[01:01] Per capirci meglio, in questo periodo, affronte di un calo dell'occupazione del 16%,
+[01:06] ha corrisposto un'impressionante aumento degli umicidi del 62%.
+[01:10] È un punto di pertenza pazzesco, ma come sappiamo bene, una correlazione non significa
+[01:15] per forza a causalità, dobbiamo scavare molto più a fondo.
+[01:19] Esatto, proprio per separare una semplice coincidenza statistica da una vera e proprio
+[01:24] a relazione di causa effetto, i ricercatori hanno avuto un'idea geniale, hanno deciso
+[01:28] di isolare unicamente illicenziamenti di massa, perché è proprio quelli.
+[01:32] In economia, un licenziamento di massa rappresenta quello che viene definito uno shock esogeno.
+[01:37] Immaginiamo un'azienda che improvvisamente taglia più di un terzo della sua forza lavoro.
+[01:41] Possiamo essere praticamente certi che quei posti di lavoro sono saltati a causa di una
+[01:45] fluttazione di mercato o di una crisi aziendale, non perché il singolo dipendente è iniziato
+[01:49] a comportarsi male, giusto.
+[01:51] In questo modo, si elimina la radice, il dubbio che il licenziamento si ha causato
+[01:54] dall'inclinazione criminale pregresta di una persona, e possiamo isolare in modo chirurgico
+[01:58] l'impatto della disoccupazione.
+[02:00] Preparatevi perché i risultati di questo isolamento statistico sono a dir poco scioccanti.
+[02:06] I dati ci dicono che la probabilità di commettere un crimine aumenta in media del 23%
+[02:11] per i lavoratori che subiscono un licenziamento.
+[02:14] Un balso del 23% stiamo parlando di un aumento di quasi un quarto rispetto al comportamento
+[02:19] abituale, registrato nell'anno successivo alla perdita del lavoro.
+[02:22] E la cosa ancora più impressionante è che questo tasso si mantiene alto e stabile fino
+[02:26] a ben 4 anni dopo il licenziamento, non si tratta di un colpo di testa momentaneo,
+[02:31] è un cambiamento prolungato e radicato nel comportamento di chi si trova improvvisamente
+[02:35] disoccupato.
+[02:36] Ora, la cosa davvero interessante di questa slide è capire di che tico di crimini
+[02:41] stiamo parlando, scomponendo l'effetto totale vediamo che non tutti i reati aumentano
+[02:46] allo stesso modo.
+[02:47] Come forse era prevedibile, i crimini con una fortissima motivazione economica, come
+[02:51] furti, rapine o trafico di droga, schizzano alle stelle con un'incredibile più 43%, con
+[02:57] le sole rapine che registrano un folle più 91%, ma attenzione perché non è solo questione
+[03:03] di cercare disparatamente con tanti, anche i crimini violenti subiscono un realzo del 17%,
+[03:09] inclusi gli omicidi che segnano un inquietante più 32%, questa estensione degli effetti
+[03:15] ci obliga a guardare oltre la semplice necessita economica.
+[03:18] Infatti, c'è un dettaglio fondamentale che salta fuori dai dati, viene documentato un
+[03:24] aumento generalizzato anche in tutti quei reati che hanno letteralmente zero motivazioni
+[03:28] economiche, parliamo di vandalismo, danni alla proprietà privata, gravi violazioni del codice
+[03:34] della strada, oppresino risse, offese e diffamazioni.
+[03:38] Vedere in pennarsi queste specifiche categorie, ci regalo un primissimo e cruciale indizio,
+[03:44] un enorme stress psicologico e il trauma emotivo giocano un ruolo coloro sale, operando
+[03:48] in parallelo alla perdita del reddito.
+[03:51] La mente umana, suttopusta una pressione emotiva così feroce, reagisce in modi disparati
+[03:56] e autodistruttivi per la società.
+[03:58] E, purtroppo, le conseguenze di questa pressione non si fermano al diretto interessato, esiste
+[04:04] un tragico effetto di ricaduta, un vero e proprio effetto domino sul nucleo familiare.
+[04:09] I numerici svelamo che, la probabilità di una cusa penale, aumenta di un preoccupante
+[04:13] 18% persino per i fili conviventi dei lavoratori licenziati, 18% è come se la tensione,
+[04:20] le difficoltà finanziarie e la paura vissute dal genitore si infiltrasserò tra le muradomestiche,
+[04:26] logorando l'ambiente al punto da spingere anche le generazioni più giovani verso l'illegalità.
+[04:32] Arrivati a questo punto, sfruttando algoritmi avanzatissimi, lo studio è riuscito a costruire
+[04:37] un identichit, precisissimo delle persone maggiormente a rischio.
+[04:41] I ricercatori seguidano attraverso i dati, mostrandoci che le pendenze più ripide e quindi
+[04:46] rischi più alti, in assoluto, si concentrano a torno a due variabili cardine, letà e l'ansianità
+[04:52] lavorativa. Questo ci permette di zoomare e vedere chi subisce l'impatto più devastante
+[04:57] del trauma, al di là delle semplici medie generali.
+[05:00] Insintasi, i giovani lavoratori che hanno allattivo solo una manciata di mesi di anzianità
+[05:05] in azienda sono statisticamente nella fascia colpita più duramente, ma sapete qual è la
+[05:10] parte davvero sorprendente. Questo picco si verifica in modo del tutto indipendente da livello
+[05:15] di struzione di base o dalla ricchezza della zona in cui si vive. In un paese vastissimo
+[05:19] ed isomogeneo come il Brasile, non fa molta differenza se il tasso di criminalità locale
+[05:24] e basso o se sia una buona estruzione. L'incrocio esplosivo rimane sempre quello tra
+[05:28] all'essere giovani e la vera una posizione lavorativa appena viata.
+[05:32] Ottimo, ma giunti a questa fase dell'analisi, abbiamo un mistero bello e buono da risolvere.
+[05:38] Qual è la scintilla originaria? Perché accade tutto questo? Laumento dei crimini si verifica
+[05:43] semplicemente perché ritrovandosi disoccupate le persone hanno improvvisamente giornati vuote
+[05:48] e troppo tempo libero per cacciarsi nei guai oppure la ragione è brutalmente materiale,
+[05:54] ovvero che le persone sono disposte a tutto perché non hanno il denaro contante necessario
+[05:58] per arrivare a fine mese. E questo illustra magnificamente il grande
+[06:03] dibattito teorico che affascina gli studiosi da decenni, contraponendo due visioni nette.
+[06:08] Da un lato, c'è l'ipotesi dell'abondanza di tempo libero, note anche come effetto di incapacitazione.
+[06:14] In parole povere, timbrare il cartellino per 8 ore ti tiene occupato e lontano dai pastici.
+[06:19] Dall'altra parte troviamo l'ipotesi del bincolo di liquidità, cioè la pure e cruda
+[06:24] di sperazione causata dal non avere sollintasca per far fronte ai bisogni primari.
+[06:29] Quale di queste due potenti forze spinge davvero un individuo oltre la linea della legalità?
+[06:34] Per scoprirlo in modo inequivocabile, i ricercatori hanno scovato un esperimento naturale
+[06:39] letteralmente perfetto. In Brasile esisto una regola estituzionale rigidissima.
+[06:44] Per avere diritto i sussidi di disoccupazione, devono essere passati esattamente 16 mesi
+[06:49] dal tuo licenziamento precedente. In summa, se perde il lavoro a 15 mesi, non ricevi un centesimo.
+[06:55] Mentre chi lo perde, appena scocca il 16-mo mese, può ricevere fino a 5 mesi di stipendio
+[07:00] assicurato. Questa soglia temporale millimetrica ci regala la rarra possibilità di confrontare
+[07:05] due gruppi di persone, statisticamente identiche, che si differenziano per un solo vitale
+[07:11] elemento, l'accesso estantania ai contanti.
+[07:13] Errollo di tamburi? I dati parlano chiarissimo.
+[07:18] I lavoratori fortunati che risultano i donne e a ricevere il sussidio registrano una drastica
+[07:23] riduzione dei tassi di criminalità nei primi 6 mesi. Un crollo del 21% se confrontati
+[07:30] con chi ha mancato i requisiti per un soffio di giorni. Questo numero è una pietra miliare.
+[07:35] 21% significa che fornire una rete di sicurezza, un po' di respiro finanziario, spegni all'istante
+[07:42] una fetta enorme della criminalità inescatta dalla perdita del posto di lavoro.
+[07:47] Quindi il punto cruciale è racchiuso esattamente in questa deduzione formidabile dello studio.
+[07:53] L'idoneità ai sussidi di disoccupazione compensa quasi completamente il potenziale aumento
+[07:59] della criminalità, ed ecco svelato il nostro mistero, caso chiuso. I dati provano che
+[08:05] lavoratori sussidiateci mettono persino più tempo a trovare un nuovo impiego e quindi
+[08:09] paradossalmente godono di una valanga di tempo libero in più. Eppure commettono molti
+[08:14] meno crimini. Questo scardina del tutto l'idea che a generare i legalità sia l'eccesso
+[08:19] di ozio. La vera amica, senza ombra di dubbio, è l'assenza improvvisa di denaro.
+[08:25] Avviandoci alla conclusione della nostra indagine possiamo finalmente puntare il dito contro
+[08:29] i veri colpevoli. I motori reali del crimine posto licenziamento sono due. Il primo è
+[08:35] il severo e immediato vinculo di liquidità, qually in cubo angosciante di non potersi
+[08:39] permettere il minimo indispensabile per vivere. Il secondo, che agisce simultaneamente, è
+[08:45] l'impatto devastante dello stress psicologico e del senso di fallimento. Non è certo il
+[08:50] troppo tempo libero a fare danni, ma un cocktail esplosivo di disperazione economica unita
+[08:55] al crollo dell'identità personale. Ma c'è un'ultima provocatoria riflessione con cui
+[09:00] dobbiamo chiudere questa analisi. Cosa cade all'amente umana e altessuto delle nostre
+[09:05] città quando questo supporto vitale si interrompe all'improvviso? I ricercatori fanno notare
+[09:11] una realtà oggettiva che fa venire i brividi, l'effetto protettivo dei sussidi svanisce
+[09:16] nel momento esatto in cui pagamenti finiscono. Il crimine torna a salire violentemente
+[09:21] proprio in quel mese fatidico in cui si chiudono i rubinetti dell'assistenza. È un dato che
+[09:26] ci obbliga a riflettere a fondo sulle strama fragilità delle nostre reti di protezione
+[09:30] sociale, perché quando una società smette di sostenere chiccate in un barato improvviso,
+[09:35] le repercussioni finiscono inevitabilmente per colpire tutti quanti. Alla prossima analisi.

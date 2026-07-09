@@ -1,9 +1,9 @@
 # Metadati Video - Les persécutions laissent-elles des cicatrices ? (FR)
 
 ## Descrizione YouTube
-L'étude "The Long Run Effects of Religious Persecution: Evidence from the Spanish Inquisition" de Mauricio Drelichman, Jordi Vidal-Robert et Hans-Joachim Voth, working paper de 2021, analyse les effets de très long terme de la persécution religieuse en Espagne et montre que les zones les plus touchées par l'Inquisition enregistrent encore aujourd'hui moins de revenu, moins d'éducation et moins de confiance sociale. À partir d'une nouvelle base de données de plus de 67 000 procès entre 1480 et 1820, l'article reconstitue avec précision géographique les zones où la répression a été la plus forte et documente la manière dont ces blessures historiques se reflètent encore dans l'économie actuelle.
+L'étude "The Long Run Effects of Religious Persecution: Evidence from the Spanish Inquisition" de Mauricio Drelichman, Jordi Vidal-Robert et Hans-Joachim Voth, publiée dans Proceedings of the National Academy of Sciences (PNAS) en 2021, analyse les effets de très long terme de la persécution religieuse en Espagne et montre que les zones les plus touchées par l'Inquisition enregistrent encore aujourd'hui moins de revenu, moins d'éducation et moins de confiance sociale. À partir d'une nouvelle base de données de plus de 67 000 procès entre 1480 et 1820, l'article reconstitue avec précision géographique les zones où la répression a été la plus forte et documente la manière dont ces blessures historiques se reflètent encore dans l'économie actuelle.
 
-⏰ Source : ►► 
+⏰ Source : ►► https://doi.org/10.1073/pnas.2022881118
 
 ⏰ ABONNEZ-VOUS à la chaîne ►► https://www.youtube.com/@cosafannoglieconomisti26?sub_confirmation=1
 

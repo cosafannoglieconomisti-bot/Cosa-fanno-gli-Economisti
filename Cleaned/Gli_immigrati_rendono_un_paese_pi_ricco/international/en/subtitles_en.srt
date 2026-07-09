@@ -1,0 +1,491 @@
+1
+00:00:00,000 --> 00:00:08,480
+Welcome to this new economic analysis, in which we will explore a truly fascinating question; today's title is exactly this.
+
+2
+00:00:08,480 --> 00:00:11,599
+Do immigrants make a country richer?
+
+3
+00:00:11,599 --> 00:00:19,320
+It is a great economic mystery that leads us to wonder if, historically, immigration has actually driven growth,
+
+4
+00:00:19,320 --> 00:00:24,080
+or if people simply moved to where wealth was already present.
+
+5
+00:00:24,080 --> 00:00:31,240
+To find out, we dive into the exceptional research work conducted by Sandra Sequeira, Nathan Nunn, and Nancy Qian.
+
+6
+00:00:31,240 --> 00:00:32,840
+Well, shall we start?
+
+7
+00:00:32,840 --> 00:00:41,680
+To fully understand this dynamic, we need to take a big leap back, into what is called the era of mass migration.
+
+8
+00:00:41,680 --> 00:00:52,079
+Imagine America at that time; as John F. Kennedy brilliantly pointed out, in those decades America became the industrial and agricultural colossus of the planet.
+
+9
+00:00:52,079 --> 00:01:02,079
+And mind you, all this would never have been possible without the hard work, skills, and intuition of the 23.5 million people who landed during that period.
+
+10
+00:01:02,079 --> 00:01:11,400
+23.5 million, an unprecedented human wave that literally overturned and shaped the economy, in ways that we are still measuring.
+
+11
+00:01:11,400 --> 00:01:15,439
+Of course, this phenomenon did not happen overnight.
+
+12
+00:01:15,439 --> 00:01:23,280
+Looking at the timeline, we see that the beginning of this very large-scale migration dates back to the 1850s.
+
+13
+00:01:23,280 --> 00:01:30,359
+But the real turning point, the big shake-up, came in the 1880s, with a massive demographic shift.
+
+14
+00:01:30,359 --> 00:01:34,439
+It was no longer just people arriving from northern or western Europe,
+
+15
+00:01:34,439 --> 00:01:42,920
+but huge flows from southern and eastern Europe, an incredible mix of new cultures, languages, and skills pouring into the country.
+
+16
+00:01:42,920 --> 00:01:51,320
+An era that then closed in the 1920s, leaving behind a legacy of a nation with a deeply transformed demography.
+
+17
+00:01:51,320 --> 00:01:58,359
+And here we get to the heart of the matter, to the classic, very difficult chicken-and-egg problem.
+
+18
+00:01:58,359 --> 00:02:04,920
+Did immigrants choose to settle in counties that were already rich, or was it actually them who made them so?
+
+19
+00:02:04,920 --> 00:02:08,400
+Statistically, this is a real challenge.
+
+20
+00:02:08,439 --> 00:02:14,159
+If we only base it on raw data, we see counties full of immigrants booming with prosperity.
+
+21
+00:02:14,159 --> 00:02:21,640
+But there's a catch: maybe they just moved there because new railroads were being built or because industries were already in full boom.
+
+22
+00:02:21,640 --> 00:02:27,439
+Isolating the true cause is quite a puzzle, and that is exactly the heart of this study's analysis.
+
+23
+00:02:27,439 --> 00:02:32,280
+As if that weren't enough, there is a further obstacle, called negative selection.
+
+24
+00:02:32,400 --> 00:02:43,120
+Practically, due to heavy discrimination or simply a lack of resources, the new arrivals often could not buy the best land or access the most lucrative jobs.
+
+25
+00:02:43,120 --> 00:02:48,560
+They were literally pushed to the margins, into less attractive areas with far fewer prospects.
+
+26
+00:02:48,560 --> 00:02:59,840
+This means that, if we only used basic economic metrics, we could end up dramatically underestimating their real impact, precisely because they started from a position of massive disadvantage.
+
+27
+00:02:59,960 --> 00:03:03,200
+So, how did the researchers solve the puzzle?
+
+28
+00:03:03,200 --> 00:03:09,840
+With an idea that is a true stroke of methodological genius, they built a natural experiment based on trains.
+
+29
+00:03:09,840 --> 00:03:14,439
+At the time, the railroad was the main way to venture into the interior of the country.
+
+30
+00:03:14,439 --> 00:03:22,080
+The researchers compared two types of counties: those that were connected to the railway network right during a decade of a migration boom,
+
+31
+00:03:22,080 --> 00:03:27,759
+and those connected during a decade of flat calm, when national arrivals were at historic lows.
+
+32
+00:03:27,799 --> 00:03:33,519
+Let's get into the details of this tactic; it is an extremely elegant three-step process.
+
+33
+00:03:33,519 --> 00:03:40,239
+Step one, measure exactly the total flow of immigrants to the United States year by year.
+
+34
+00:03:40,239 --> 00:03:48,039
+Step two, meticulously track the expansion of the railway network, decade by decade.
+
+35
+00:03:48,039 --> 00:03:55,319
+Step three, and here is the magic, observe where these two pieces of data intersect; timing is everything.
+
+36
+00:03:55,439 --> 00:04:01,959
+If the railroad arrived in your county just as there was a boom in landings at a national level,
+
+37
+00:04:01,959 --> 00:04:06,519
+you found yourself with a wave of immigrants completely by accident.
+
+38
+00:04:06,519 --> 00:04:14,000
+This crazy stratagem allows us to isolate the real impact of immigration from any other economic variable.
+
+39
+00:04:14,000 --> 00:04:23,399
+Let's now move on to the long-term economic revelation, measuring prosperity by leaping forward to the year 2000.
+
+40
+00:04:23,439 --> 00:04:29,439
+Drumroll. Once this brilliant methodology swept away doubts about the causes,
+
+41
+00:04:29,439 --> 00:04:34,560
+let's see how those counties are doing in the year 2000, more than a century later.
+
+42
+00:04:34,560 --> 00:04:36,959
+The data that emerges is astounding.
+
+43
+00:04:36,959 --> 00:04:44,399
+The counties that historically received more immigrants today register an average per capita income that is 13% higher.
+
+44
+00:04:44,399 --> 00:04:45,879
+13%?
+
+45
+00:04:45,879 --> 00:04:54,079
+Moving a county from zero historical immigration to the 50th percentile makes the current wealth of its inhabitants shoot up by 13%.
+
+46
+00:04:54,079 --> 00:04:58,399
+A prolonged, solid, and simply huge economic dividend.
+
+47
+00:04:58,399 --> 00:05:02,759
+But beware, general wealth is not the only positive parameter.
+
+48
+00:05:02,759 --> 00:05:08,439
+Comparing other fundamental indicators of modern well-being, we notice crazy improvements.
+
+49
+00:05:08,439 --> 00:05:12,879
+In those same counties, the poverty rate dropped by two percentage points,
+
+50
+00:05:12,879 --> 00:05:17,560
+and in parallel, the unemployment rate also fell by two percentage points.
+
+51
+00:05:17,560 --> 00:05:18,920
+Think about it for a moment.
+
+52
+00:05:18,920 --> 00:05:23,759
+When you apply decreases of two percentage points to the entire population of a modern county,
+
+53
+00:05:23,759 --> 00:05:27,759
+we are talking about a massive impact on people's real lives.
+
+54
+00:05:27,759 --> 00:05:34,519
+And the cascade of benefits continues; the data also reveals a clear increase in the rate of urbanization
+
+55
+00:05:34,519 --> 00:05:40,120
+which led to the creation of dense, vibrant, and hyper-productive economic centers.
+
+56
+00:05:40,120 --> 00:05:42,439
+But there is something even more fascinating.
+
+57
+00:05:42,480 --> 00:05:48,519
+A significant leap is recorded in the average years of education completed by current residents,
+
+58
+00:05:48,519 --> 00:05:53,120
+it is as clear as day that that initial impulse brought by the newcomers
+
+59
+00:05:53,120 --> 00:05:55,759
+did not stop at the gates of the first factories,
+
+60
+00:05:55,759 --> 00:05:59,920
+but took root in the structural and cultural development of those areas.
+
+61
+00:05:59,920 --> 00:06:02,560
+At this point, the question arises naturally,
+
+62
+00:06:02,560 --> 00:06:05,319
+what are the mechanisms of this success?
+
+63
+00:06:05,319 --> 00:06:10,079
+In short, how did they manage to generate benefits that last 100 years?
+
+64
+00:06:10,199 --> 00:06:13,359
+In the short term, the levers of this incredible growth
+
+65
+00:06:13,359 --> 00:06:15,439
+operated on three main fronts.
+
+66
+00:06:15,439 --> 00:06:20,479
+On one hand, we had a massive and providential supply of unskilled labor,
+
+67
+00:06:20,479 --> 00:06:24,279
+a real fuel to power the nascent industrial revolution.
+
+68
+00:06:24,279 --> 00:06:28,319
+On the other hand, a key group of highly skilled artisans,
+
+69
+00:06:28,319 --> 00:06:31,000
+who brought specialized crafts from Europe,
+
+70
+00:06:31,000 --> 00:06:32,479
+and let's not forget the fields.
+
+71
+00:06:32,479 --> 00:06:38,000
+The agricultural sector took a crazy leap forward thanks to innovations like the Alfalfa Seed
+
+72
+00:06:38,000 --> 00:06:41,279
+and highly advanced techniques for crop rotation.
+
+73
+00:06:41,279 --> 00:06:43,399
+But, speaking of innovation,
+
+74
+00:06:43,399 --> 00:06:47,040
+the level of ingenuity introduced was incredible,
+
+75
+00:06:47,040 --> 00:06:51,600
+many of the most iconic advancements of that era bear the signature of immigrants,
+
+76
+00:06:51,600 --> 00:06:53,399
+think of John A. Roebling,
+
+77
+00:06:53,399 --> 00:06:55,480
+who pioneered suspension bridges,
+
+78
+00:06:55,480 --> 00:06:57,439
+like the legendary Brooklyn Bridge,
+
+79
+00:06:57,439 --> 00:06:59,279
+or Alexander Graham Bell,
+
+80
+00:06:59,279 --> 00:07:01,279
+to whom we owe the invention of the telephone.
+
+81
+00:07:01,279 --> 00:07:03,000
+And it's not just engineering,
+
+82
+00:07:03,000 --> 00:07:05,680
+even civil society was revolutionized,
+
+83
+00:07:05,680 --> 00:07:08,160
+the idea of preschool, the Kindergarten,
+
+84
+00:07:08,160 --> 00:07:10,800
+was imported by immigrant Friedrich Froebel,
+
+85
+00:07:10,800 --> 00:07:13,360
+changing early childhood education forever.
+
+86
+00:07:13,360 --> 00:07:18,480
+The increase in patents registered in these areas was literally exponential.
+
+87
+00:07:18,480 --> 00:07:22,519
+There is, however, a fascinating paradox regarding education.
+
+88
+00:07:22,519 --> 00:07:27,240
+If we look at the short term, in the 19th century the mass arrival of immigrants
+
+89
+00:07:27,240 --> 00:07:30,680
+actually lowered school enrollment rates
+
+90
+00:07:30,680 --> 00:07:32,800
+and caused illiteracy to shoot up,
+
+91
+00:07:32,800 --> 00:07:35,480
+given that many were escaping rural poverty.
+
+92
+00:07:35,480 --> 00:07:39,400
+However, in the long term, the trend completely reversed.
+
+93
+00:07:39,400 --> 00:07:42,079
+The communities that, at the time, welcomed immigrants,
+
+94
+00:07:42,079 --> 00:07:44,600
+ended up producing subsequent generations
+
+95
+00:07:44,600 --> 00:07:48,680
+with an average level of education clearly higher than the national average,
+
+96
+00:07:48,680 --> 00:07:50,680
+an investment in human capital
+
+97
+00:07:50,680 --> 00:07:53,000
+that just needed time to flourish.
+
+98
+00:07:53,000 --> 00:07:56,600
+Finally, let's examine the social costs and the conclusions
+
+99
+00:07:56,600 --> 00:07:59,480
+to really get the complete picture of the situation,
+
+100
+00:07:59,480 --> 00:08:00,960
+without leaving anything out.
+
+101
+00:08:01,240 --> 00:08:03,840
+It is more than legitimate to wonder, okay,
+
+102
+00:08:03,840 --> 00:08:05,920
+the economic benefits are huge,
+
+103
+00:08:05,920 --> 00:08:10,080
+but did we pay a price in terms of long-term social tensions?
+
+104
+00:08:10,080 --> 00:08:12,280
+Analyzing the data from the year 2000,
+
+105
+00:08:12,280 --> 00:08:14,040
+the result is crystal clear.
+
+106
+00:08:14,040 --> 00:08:16,040
+Despite the documented hostilities
+
+107
+00:08:16,040 --> 00:08:19,280
+and the undeniable short-term political friction of that era,
+
+108
+00:08:19,280 --> 00:08:22,600
+the long-term impact on things like social capital,
+
+109
+00:08:22,600 --> 00:08:26,440
+voter turnout, and crime rates is, today, zero.
+
+110
+00:08:26,440 --> 00:08:28,360
+No significant effect.
+
+111
+00:08:28,400 --> 00:08:31,759
+In short, the social costs literally melted away
+
+112
+00:08:31,759 --> 00:08:36,039
+over time, while the economic benefits consolidated.
+
+113
+00:08:36,039 --> 00:08:40,919
+And this leaves us with a very, very powerful final question.
+
+114
+00:08:40,919 --> 00:08:43,480
+This empirical analysis shows that short-term
+
+115
+00:08:43,480 --> 00:08:45,440
+tensions tend to fade,
+
+116
+00:08:45,440 --> 00:08:47,560
+while economic dividends continue
+
+117
+00:08:47,560 --> 00:08:49,960
+to enrich society for more than a century.
+
+118
+00:08:49,960 --> 00:08:53,440
+Faced with such clear evidence, the crucial question is,
+
+119
+00:08:53,440 --> 00:08:56,720
+how should learning this rigorous historical lesson
+
+120
+00:08:56,720 --> 00:09:00,160
+guide and shape our understanding of the dynamics
+
+121
+00:09:00,160 --> 00:09:02,759
+and global movements of the modern economy?
+
+122
+00:09:02,759 --> 00:09:06,000
+It is a profound reflection that the data invites us not to ignore.
+
+123
+00:09:06,000 --> 00:09:09,279
+And with this question, I leave you. Until the next analysis.

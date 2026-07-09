@@ -1,0 +1,487 @@
+1
+00:00:00,000 --> 00:00:02,800
+Welcome to this new in-depth analysis.
+
+2
+00:00:02,800 --> 00:00:08,880
+Today's title poses a very strong question: does losing your job push you to crime?
+
+3
+00:00:08,880 --> 00:00:12,679
+One might wonder if there's truly a direct and tangible link.
+
+4
+00:00:12,679 --> 00:00:18,559
+Well, today we won't make assumptions, but we'll explore the answers contained in a fascinating
+
+5
+00:00:18,559 --> 00:00:23,320
+2022 study, published in the renowned Econometrica journal.
+
+6
+00:00:23,320 --> 00:00:28,560
+We will analyze a huge amount of real data to uncover the complex dynamics between employment
+
+7
+00:00:28,560 --> 00:00:33,800
+and human behavior, focusing on a vast case study: Brazil.
+
+8
+00:00:33,800 --> 00:00:39,000
+No unfounded theories, just the findings of facts. Let's start right away.
+
+9
+00:00:39,000 --> 00:00:42,640
+Okay, let's dive right in and take a look at this graph.
+
+10
+00:00:42,640 --> 00:00:48,960
+It shows us the general overview of Brazil from 1991 to 2017, and a very clear, strong
+
+11
+00:00:48,960 --> 00:00:52,680
+macroeconomic correlation immediately stands out.
+
+12
+00:00:52,680 --> 00:00:57,280
+Looking at the orange line for employment, you'll notice that every time it drops, the green line,
+
+13
+00:00:57,280 --> 00:01:01,200
+which represents the homicide rate, takes a leap upwards.
+
+14
+00:01:01,200 --> 00:01:06,400
+To understand better, during this period, a 16% drop in employment corresponded to an impressive
+
+15
+00:01:06,400 --> 00:01:10,799
+62% increase in homicides.
+
+16
+00:01:10,799 --> 00:01:15,640
+It's an astounding starting point, but as we know well, correlation doesn't necessarily mean
+
+17
+00:01:15,640 --> 00:01:19,359
+causation. We need to dig much deeper.
+
+18
+00:01:19,359 --> 00:01:24,079
+Exactly. To distinguish a mere statistical coincidence from a genuine
+
+19
+00:01:24,079 --> 00:01:28,560
+cause-and-effect relationship, researchers had a brilliant idea: they decided
+
+20
+00:01:28,560 --> 00:01:32,560
+to isolate only mass layoffs, because those are precisely what's needed.
+
+21
+00:01:32,560 --> 00:01:37,799
+In economics, a mass layoff represents what is defined as an exogenous shock.
+
+22
+00:01:37,799 --> 00:01:41,840
+Imagine a company that suddenly cuts more than a third of its workforce.
+
+23
+00:01:41,840 --> 00:01:45,519
+We can be virtually certain that those jobs were lost due to a market fluctuation
+
+24
+00:01:45,519 --> 00:01:49,879
+or a corporate crisis, not because the individual employee started
+
+25
+00:01:49,879 --> 00:01:51,480
+behaving badly, right?
+
+26
+00:01:51,480 --> 00:01:54,680
+This way, we eliminate the root cause, the doubt that the layoff was caused
+
+27
+00:01:54,680 --> 00:01:58,880
+by a person's pre-existing criminal inclination, and we can surgically isolate
+
+28
+00:01:58,880 --> 00:02:00,760
+the impact of unemployment.
+
+29
+00:02:00,760 --> 00:02:06,600
+Prepare yourselves, because the results of this statistical isolation are nothing short of shocking.
+
+30
+00:02:06,600 --> 00:02:11,840
+The data tells us that the probability of committing a crime increases by an average of 23%
+
+31
+00:02:11,840 --> 00:02:14,319
+for workers who experience a layoff.
+
+32
+00:02:14,319 --> 00:02:19,159
+A 23% jump – we're talking about an increase of almost a quarter compared to typical behavior,
+
+33
+00:02:19,159 --> 00:02:22,599
+recorded in the year following job loss.
+
+34
+00:02:22,599 --> 00:02:26,840
+And what's even more impressive is that this rate remains high and stable for up to
+
+35
+00:02:26,840 --> 00:02:31,159
+4 years after the layoff. This isn't a momentary outburst;
+
+36
+00:02:31,159 --> 00:02:35,240
+it's a prolonged and deeply rooted change in the behavior of those who suddenly find themselves
+
+37
+00:02:35,240 --> 00:02:36,240
+unemployed.
+
+38
+00:02:36,240 --> 00:02:41,240
+Now, the truly interesting thing about this slide is understanding what types of crimes
+
+39
+00:02:41,240 --> 00:02:46,120
+we are talking about. By breaking down the total effect, we see that not all crimes increase
+
+40
+00:02:46,120 --> 00:02:47,120
+in the same way.
+
+41
+00:02:47,120 --> 00:02:51,560
+As was perhaps predictable, crimes with a very strong economic motivation, such as
+
+42
+00:02:51,560 --> 00:02:57,800
+thefts, robberies, or drug trafficking, skyrocket with an incredible 43% increase, with
+
+43
+00:02:57,800 --> 00:03:03,560
+robberies alone showing a staggering 91% increase. But be careful, because it's not just a matter
+
+44
+00:03:03,560 --> 00:03:09,240
+of desperately seeking money. Violent crimes also see a 17% rise,
+
+45
+00:03:09,240 --> 00:03:15,400
+including homicides, which show a disturbing 32% increase. This broad scope of effects
+
+46
+00:03:15,400 --> 00:03:18,439
+forces us to look beyond simple economic necessity.
+
+47
+00:03:18,439 --> 00:03:24,120
+In fact, there's a crucial detail that emerges from the data: a documented
+
+48
+00:03:24,120 --> 00:03:28,960
+generalized increase even in all those offenses that have literally zero economic motivation.
+
+49
+00:03:28,960 --> 00:03:34,520
+We're talking about vandalism, damage to private property, serious traffic violations,
+
+50
+00:03:34,520 --> 00:03:38,960
+public brawls, offenses, and defamation.
+
+51
+00:03:38,960 --> 00:03:44,120
+Seeing these specific categories soar gives us a very first and crucial clue:
+
+52
+00:03:44,120 --> 00:03:48,960
+enormous psychological stress and emotional trauma play a crucial role, operating
+
+53
+00:03:48,960 --> 00:03:51,200
+in parallel with the loss of income.
+
+54
+00:03:51,200 --> 00:03:56,200
+The human mind, subjected to such fierce emotional pressure, reacts in disparate and
+
+55
+00:03:56,200 --> 00:03:58,240
+self-destructive ways for society.
+
+56
+00:03:58,240 --> 00:04:04,000
+And, unfortunately, the consequences of this pressure don't stop with the individual directly affected; there's
+
+57
+00:04:04,000 --> 00:04:09,000
+a tragic spillover effect, a true domino effect on the family unit.
+
+58
+00:04:09,000 --> 00:04:13,879
+The numbers reveal that the probability of a criminal charge increases by a worrying
+
+59
+00:04:13,879 --> 00:04:20,959
+18% even for the cohabiting children of laid-off workers. 18% – it's as if the tension,
+
+60
+00:04:20,959 --> 00:04:26,839
+financial difficulties, and fear experienced by the parent infiltrate the home,
+
+61
+00:04:26,839 --> 00:04:32,480
+eroding the environment to the point of pushing even younger generations towards illegality.
+
+62
+00:04:32,480 --> 00:04:37,399
+At this point, utilizing highly advanced algorithms, the study succeeded in constructing
+
+63
+00:04:37,399 --> 00:04:41,480
+a very precise "identikit" of individuals most at risk.
+
+64
+00:04:41,480 --> 00:04:46,400
+The researchers followed through the data, showing us that the steepest slopes, and therefore
+
+65
+00:04:46,400 --> 00:04:52,000
+the absolute highest risks, are concentrated around two core variables: age and job tenure.
+
+66
+00:04:52,000 --> 00:04:57,400
+This allows us to zoom in and see who experiences the most devastating impact
+
+67
+00:04:57,400 --> 00:05:00,560
+of the trauma, beyond simple general averages.
+
+68
+00:05:00,560 --> 00:05:05,120
+In short, young workers with only a few months of tenure
+
+69
+00:05:05,120 --> 00:05:10,040
+in the company are statistically in the hardest-hit group. But do you know what the
+
+70
+00:05:10,040 --> 00:05:15,200
+truly surprising part is? This peak occurs completely independently of the basic education level
+
+71
+00:05:15,200 --> 00:05:19,760
+or the wealth of the area where one lives. In a vast and heterogeneous country
+
+72
+00:05:19,760 --> 00:05:24,080
+like Brazil, it doesn't make much difference if the local crime rate
+
+73
+00:05:24,080 --> 00:05:28,680
+is low or if one has a good education. The explosive combination always remains that between
+
+74
+00:05:28,680 --> 00:05:32,280
+being young and having just started a job.
+
+75
+00:05:32,280 --> 00:05:37,879
+Excellent, but having reached this stage of the analysis, we have a good old mystery to solve.
+
+76
+00:05:38,120 --> 00:05:43,639
+What is the original spark? Why does all this happen? Does the increase in crime occur
+
+77
+00:05:43,639 --> 00:05:48,959
+simply because, finding themselves unemployed, people suddenly have empty days
+
+78
+00:05:48,959 --> 00:05:54,279
+and too much free time to get into trouble? Or is the reason brutally material,
+
+79
+00:05:54,279 --> 00:05:58,800
+meaning that people are willing to do anything because they don't have the necessary cash
+
+80
+00:05:58,800 --> 00:06:03,079
+to make ends meet? And this magnificently illustrates the great
+
+81
+00:06:03,079 --> 00:06:08,240
+theoretical debate that has fascinated scholars for decades, contrasting two clear views.
+
+82
+00:06:08,240 --> 00:06:14,120
+On one hand, there's the free-time abundance hypothesis, also known as the incapacitation effect.
+
+83
+00:06:14,120 --> 00:06:19,439
+Simply put, clocking in for 8 hours keeps you occupied and out of trouble.
+
+84
+00:06:19,439 --> 00:06:24,599
+On the other hand, we find the liquidity constraint hypothesis, that is, the pure and raw
+
+85
+00:06:24,599 --> 00:06:28,959
+desperation caused by not having enough cash to meet basic needs.
+
+86
+00:06:29,640 --> 00:06:34,280
+Which of these two powerful forces truly pushes an individual beyond the line of legality?
+
+87
+00:06:34,280 --> 00:06:39,120
+To discover this unequivocally, researchers unearthed a natural experiment that was literally
+
+88
+00:06:39,120 --> 00:06:44,240
+perfect. In Brazil, there is an extremely rigid institutional rule.
+
+89
+00:06:44,240 --> 00:06:49,320
+To be eligible for unemployment benefits, exactly 16 months must have passed since your
+
+90
+00:06:49,320 --> 00:06:55,360
+previous layoff. In short, if you lose your job at 15 months, you don't receive a penny.
+
+91
+00:06:55,480 --> 00:07:00,319
+Whereas someone who loses it just as the 16th month strikes can receive up to 5 months of assured
+
+92
+00:07:00,319 --> 00:07:05,720
+salary. This pinpoint temporal threshold gives us the rare opportunity to compare
+
+93
+00:07:05,720 --> 00:07:11,040
+two statistically identical groups of people, differing by only one vital
+
+94
+00:07:11,040 --> 00:07:13,879
+element: immediate access to cash.
+
+95
+00:07:13,879 --> 00:07:18,120
+Drumroll, please? The data speaks volumes.
+
+96
+00:07:18,120 --> 00:07:23,759
+Fortunate workers who are eligible to receive benefits show a drastic
+
+97
+00:07:23,759 --> 00:07:30,199
+reduction in crime rates in the first 6 months. A 21% drop compared
+
+98
+00:07:30,199 --> 00:07:35,759
+to those who missed the requirements by just a few days. This number is a milestone.
+
+99
+00:07:35,759 --> 00:07:42,560
+21% means that providing a safety net, a bit of financial breathing room, instantly extinguishes
+
+100
+00:07:42,560 --> 00:07:47,279
+a huge portion of the crime triggered by job loss.
+
+101
+00:07:47,279 --> 00:07:53,279
+So the crucial point is encapsulated precisely in this formidable deduction from the study.
+
+102
+00:07:53,280 --> 00:07:59,520
+Eligibility for unemployment benefits almost completely offsets the potential increase
+
+103
+00:07:59,520 --> 00:08:05,120
+in crime. And there you have it, our mystery solved, case closed. The data proves that
+
+104
+00:08:05,120 --> 00:08:09,640
+subsidized workers even take longer to find new employment, and therefore,
+
+105
+00:08:09,640 --> 00:08:14,440
+paradoxically, they enjoy a flood of extra free time. Yet, they commit many
+
+106
+00:08:14,440 --> 00:08:19,600
+fewer crimes. This completely dismantles the idea that an excess of idleness generates illegality.
+
+107
+00:08:19,600 --> 00:08:25,360
+The real culprit, without a shadow of a doubt, is the sudden absence of money.
+
+108
+00:08:25,360 --> 00:08:29,840
+As we approach the conclusion of our investigation, we can finally point the finger at
+
+109
+00:08:29,840 --> 00:08:35,519
+the real culprits. The true drivers of post-layoff crime are two. The first is
+
+110
+00:08:35,519 --> 00:08:39,800
+the severe and immediate liquidity constraint, that agonizing inability to afford
+
+111
+00:08:39,800 --> 00:08:45,120
+the bare minimum to live. The second, acting simultaneously, is
+
+112
+00:08:45,120 --> 00:08:50,200
+the devastating impact of psychological stress and a sense of failure. It's certainly not
+
+113
+00:08:50,200 --> 00:08:55,399
+too much free time that causes damage, but an explosive cocktail of economic desperation combined
+
+114
+00:08:55,399 --> 00:09:00,879
+with a collapse of personal identity. But there's one last provocative thought with which
+
+115
+00:09:00,879 --> 00:09:05,720
+we must conclude this analysis. What happens to the human mind and the fabric of our
+
+116
+00:09:05,720 --> 00:09:11,879
+cities when this vital support suddenly stops? The researchers point out
+
+117
+00:09:11,879 --> 00:09:16,799
+an objective reality that sends shivers down one's spine: the protective effect of benefits vanishes
+
+118
+00:09:16,799 --> 00:09:21,759
+at the exact moment payments stop. Crime violently rises again
+
+119
+00:09:21,759 --> 00:09:26,600
+precisely in that fateful month when the taps of assistance are turned off. It's a fact that
+
+120
+00:09:26,600 --> 00:09:30,759
+forces us to deeply reflect on the extreme fragility of our social safety nets,
+
+121
+00:09:30,759 --> 00:09:35,799
+because when a society stops supporting those who fall into a sudden abyss,
+
+122
+00:09:35,799 --> 00:09:41,039
+the repercussions inevitably end up affecting everyone. Until the next analysis.
