@@ -2,9 +2,7 @@ import os
 import pickle
 import sys
 import argparse
-import datetime
 import subprocess
-from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
@@ -27,9 +25,16 @@ def get_authenticated_service():
                 with open(TOKEN_PATH, 'wb') as token:
                     pickle.dump(creds, token)
             except Exception as e:
-                raise Exception(f"Errore refresh token: {e}")
+                raise Exception(
+                    "Errore refresh token. Riautentica YouTube con "
+                    "`./workflow youtube-auth` o `python Execution/enea/youtube_auth.py --force`. "
+                    f"Dettaglio: {e}"
+                )
         else:
-            raise Exception("Credenziali YouTube mancanti o scadute. Riesegui l'autenticazione manualmente.")
+            raise Exception(
+                "Credenziali YouTube mancanti o scadute. "
+                "Riesegui l'autenticazione con `./workflow youtube-auth`."
+            )
     
     return build('youtube', 'v3', credentials=creds, static_discovery=False)
 

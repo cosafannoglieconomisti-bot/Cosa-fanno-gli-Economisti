@@ -52,7 +52,7 @@ BUFFER_GRAPHQL_URL  = "https://api.buffer.com/graphql"
 REPO_BASE_URL       = "https://raw.githubusercontent.com/cosafannoglieconomisti-bot/Cosa-fanno-gli-Economisti/main"
 HISTORY_DIR         = "/Users/<USER>/Desktop/canale/Temp/marcello"
 CLEANED_DIR         = "/Users/<USER>/Desktop/canale/Cleaned"
-TOKEN_FILE          = "/Users/<USER>/Desktop/canale/Execution/romolo/.tmp/tokens/token_youtube.pickle"
+TOKEN_FILE          = "/Users/<USER>/Desktop/canale/Execution/credentials/token.pickle"
 TRACKING_FILE       = "/Users/<USER>/Desktop/canale/Cleaned/video_tracking.json"
 # ─────────────────────────────────────────────────────────────────────────────
 

@@ -1,0 +1,883 @@
+1
+00:00:00,000 --> 00:00:06,100
+La segunda vuelta frena a los extremistas, bueno, es exactamente esta la pregunta fascinante
+
+2
+00:00:06,100 --> 00:00:09,460
+que sirve de motor para nuestro video resumen divulgativo de hoy.
+
+3
+00:00:09,460 --> 00:00:14,580
+Estamos a punto de sumergirnos en un artículo de economía política realmente increíble, que nos demuestra
+
+4
+00:00:14,580 --> 00:00:20,260
+cómo una regla electoral aparentemente técnica, casi aburrida, puede en realidad transformar por completo
+
+5
+00:00:20,260 --> 00:00:23,379
+la política local y nuestra vida de todos los días.
+
+6
+00:00:23,379 --> 00:00:28,740
+Con un tono que queremos mantener dinámico pero absolutamente riguroso, vamos a comparar
+
+7
+00:00:28,740 --> 00:00:33,859
+la vuelta única con la segunda vuelta, veremos cómo funciona ese famoso límite de los 15.000
+
+8
+00:00:33,859 --> 00:00:38,740
+habitantes en los municipios italianos y descubriremos por qué, paradójicamente, tener más candidatos
+
+9
+00:00:38,740 --> 00:00:43,980
+en liza significa tener menos poder en los extremos y, fíjense, también una menor volatilidad
+
+10
+00:00:43,980 --> 00:00:44,980
+fiscal.
+
+11
+00:00:44,980 --> 00:00:48,219
+En resumen, los detalles importan, entremos de lleno en materia.
+
+12
+00:00:48,219 --> 00:00:52,219
+Bien, empecemos por lo básico y comparemos ambos sistemas.
+
+13
+00:00:52,219 --> 00:00:57,420
+Por un lado, tenemos la vuelta única, una carrera directa: quien obtenga aunque sea un solo voto
+
+14
+00:00:57,420 --> 00:01:01,060
+más que sus rivales, gana, sin peros que valgan.
+
+15
+00:01:01,060 --> 00:01:03,100
+Por el otro lado, está la segunda vuelta.
+
+16
+00:01:03,100 --> 00:01:07,780
+Si en la primera ronda nadie obtiene la mayoría absoluta, los dos candidatos más votados pasan
+
+17
+00:01:07,780 --> 00:01:10,939
+a una segunda ronda, a un verdadero enfrentamiento directo.
+
+18
+00:01:10,939 --> 00:01:13,500
+Podría parecer solo un tecnicismo burocrático, ¿verdad?
+
+19
+00:01:13,500 --> 00:01:18,500
+Y sin embargo, como veremos, este pequeño detalle esconde un mecanismo capaz de alterar
+
+20
+00:01:18,500 --> 00:01:23,700
+de manera radical la forma en que los políticos se comportan y forman sus alianzas.
+
+21
+00:01:23,740 --> 00:01:28,299
+Todo esto nos lleva a un experimento natural literalmente servido en bandeja de plata,
+
+22
+00:01:28,299 --> 00:01:31,379
+que tomó forma en Italia a partir de principios de los años noventa.
+
+23
+00:01:31,379 --> 00:01:34,379
+La ley trazó una línea invisible pero clara.
+
+24
+00:01:34,379 --> 00:01:39,540
+Los municipios de menos de 15.000 habitantes votan con vuelta única, mientras que los de más de 15.000
+
+25
+00:01:39,540 --> 00:01:41,740
+habitantes utilizan la segunda vuelta.
+
+26
+00:01:41,740 --> 00:01:45,379
+Para los investigadores, esta división ha sido una verdadera mina de oro.
+
+27
+00:01:45,379 --> 00:01:50,219
+Pudieron comparar ciudades prácticamente idénticas en cuanto a economía, cultura y geografía,
+
+28
+00:01:50,219 --> 00:01:53,659
+separadas sin embargo por una única y crucial regla del juego.
+
+29
+00:01:53,659 --> 00:01:56,340
+Y aquí surge una paradoja fantástica.
+
+30
+00:01:56,340 --> 00:02:00,939
+La lógica sugeriría que un sistema de doble vuelta, al haber más espacio para probar suerte,
+
+31
+00:02:00,939 --> 00:02:06,340
+favorecería el caos, la dispersión y tal vez daría altavoces más grandes a las voces radicales.
+
+32
+00:02:06,340 --> 00:02:11,379
+Así que la pregunta surge de forma natural: ¿es realmente posible tener más candidatos a la alcaldía
+
+33
+00:02:11,379 --> 00:02:14,259
+y, al mismo tiempo, menos extremismo político?
+
+34
+00:02:14,259 --> 00:02:16,819
+La respuesta de los datos es un rotundo sí.
+
+35
+00:02:16,859 --> 00:02:20,259
+La segunda vuelta abarrota literalmente la escena política de candidatos,
+
+36
+00:02:20,259 --> 00:02:24,620
+pero, increíblemente, se traduce en una gestión de la ciudad mucho más moderada.
+
+37
+00:02:24,620 --> 00:02:30,780
+Y las cifras confirman esta anomalía de una manera que no deja lugar a dudas: un 29%.
+
+38
+00:02:30,780 --> 00:02:34,900
+Al pasar a los municipios que se encuentran apenas por encima del umbral de 15.000 habitantes,
+
+39
+00:02:34,900 --> 00:02:39,900
+se registra un salto del 29% en el número de candidatos a la alcaldía
+
+40
+00:02:39,900 --> 00:02:45,299
+en comparación con los que están justo por debajo del umbral; es un aumento enorme, lo que significa que la doble vuelta
+
+41
+00:02:45,300 --> 00:02:47,820
+anima de verdad a más personas a postularse.
+
+42
+00:02:47,820 --> 00:02:50,700
+Y sin embargo, a pesar de esta avalancha de candidatos,
+
+43
+00:02:50,700 --> 00:02:54,660
+la influencia de las facciones más extremas cae en picado.
+
+44
+00:02:54,660 --> 00:02:55,740
+¿Pero por qué?
+
+45
+00:02:55,740 --> 00:03:00,380
+Bien, echemos un vistazo a la teoría de juegos que hay detrás, que es fascinante.
+
+46
+00:03:00,380 --> 00:03:05,380
+En la primera vuelta de las elecciones, los partidos moderados saben que tienen los números de su lado,
+
+47
+00:03:05,380 --> 00:03:10,580
+pueden permitirse perfectamente presentarse en solitario sin firmar pactos con el diablo.
+
+48
+00:03:10,580 --> 00:03:13,020
+Saben muy bien que si pasan a la segunda vuelta,
+
+49
+00:03:13,020 --> 00:03:15,900
+los votantes de los partidos extremistas que quedaron excluidos
+
+50
+00:03:15,900 --> 00:03:18,900
+votarán por el candidato moderado más cercano a ellos,
+
+51
+00:03:18,900 --> 00:03:21,300
+con tal de no dejar ganar al bando contrario.
+
+52
+00:03:21,300 --> 00:03:25,140
+El resultado: los extremos quedan fuera de las mesas donde se decide,
+
+53
+00:03:25,140 --> 00:03:28,420
+y los moderados ganan sin someterse a chantajes políticos.
+
+54
+00:03:28,420 --> 00:03:31,939
+En la vuelta única, en cambio, la situación cambia radicalmente.
+
+55
+00:03:31,939 --> 00:03:36,420
+Dado que se gana a la primera y cada voto de preferencia pesa como una losa,
+
+56
+00:03:36,420 --> 00:03:40,939
+un candidato moderado no puede permitirse en absoluto dispersar votos.
+
+57
+00:03:40,979 --> 00:03:45,139
+Está obligado matemáticamente a forjar alianzas y a hacer concesiones
+
+58
+00:03:45,139 --> 00:03:47,939
+con las facciones más extremas incluso antes de la votación.
+
+59
+00:03:47,939 --> 00:03:51,020
+Si no lo hace, la facción radical se presenta sola,
+
+60
+00:03:51,020 --> 00:03:55,340
+resta esos pocos votos cruciales y regala la victoria a los rivales.
+
+61
+00:03:55,340 --> 00:03:57,740
+Por eso aquí, en este sistema,
+
+62
+00:03:57,740 --> 00:04:01,020
+los extremos tienen un poder de negociación enorme.
+
+63
+00:04:01,020 --> 00:04:03,819
+Para respaldar todo esto, el investigador aisló
+
+64
+00:04:03,819 --> 00:04:06,020
+una observación empírica muy clara.
+
+65
+00:04:06,020 --> 00:04:08,699
+Analizando los datos históricos del Partido Comunista Italiano,
+
+66
+00:04:08,700 --> 00:04:12,140
+estudiados de manera totalmente neutral para entender la dinámica
+
+67
+00:04:12,140 --> 00:04:14,220
+de las agrupaciones políticamente más marcadas,
+
+68
+00:04:14,220 --> 00:04:16,060
+notaron algo curioso.
+
+69
+00:04:16,060 --> 00:04:18,420
+En el sistema de segunda vuelta, este tipo de facciones
+
+70
+00:04:18,420 --> 00:04:22,180
+tienen el doble de probabilidades de presentarse a las elecciones en solitario.
+
+71
+00:04:22,180 --> 00:04:24,660
+Claro, de este modo miden su verdadera fuerza electoral,
+
+72
+00:04:24,660 --> 00:04:28,460
+pero pierden por completo la capacidad de dictar la agenda al futuro alcalde,
+
+73
+00:04:28,460 --> 00:04:31,259
+porque sus votos no son esenciales para ganar la primera ronda.
+
+74
+00:04:31,259 --> 00:04:32,740
+Así que, recapitulando,
+
+75
+00:04:32,740 --> 00:04:35,460
+la segunda vuelta produce dos efectos muy claros:
+
+76
+00:04:35,460 --> 00:04:37,259
+un aumento de los candidatos a la alcaldía
+
+77
+00:04:37,259 --> 00:04:39,860
+y una drástica caída del poder de los extremos;
+
+78
+00:04:39,860 --> 00:04:42,860
+prácticamente actúa como un filtro muy potente.
+
+79
+00:04:42,860 --> 00:04:44,860
+Quita el megáfono a las facciones radicales
+
+80
+00:04:44,860 --> 00:04:47,060
+durante la formación de alianzas.
+
+81
+00:04:47,060 --> 00:04:48,740
+Y lo más increíble de todo
+
+82
+00:04:48,740 --> 00:04:50,939
+es que esto ocurre incluso si las preferencias
+
+83
+00:04:50,939 --> 00:04:52,779
+de los votantes siguen siendo las mismas.
+
+84
+00:04:52,779 --> 00:04:54,379
+No es que la gente cambie de opinión,
+
+85
+00:04:54,379 --> 00:04:56,180
+es simplemente la regla del juego
+
+86
+00:04:56,180 --> 00:04:57,779
+la que desactiva el extremismo
+
+87
+00:04:57,779 --> 00:05:00,819
+y empuja inevitablemente la política hacia el centro.
+
+88
+00:05:00,819 --> 00:05:03,500
+Sección 1: la volatilidad fiscal
+
+89
+00:05:03,500 --> 00:05:05,259
+y el impacto en los ciudadanos.
+
+90
+00:05:05,259 --> 00:05:07,300
+Ahora se estarán preguntando: de acuerdo,
+
+91
+00:05:07,300 --> 00:05:09,980
+pero a mí, ¿qué me cambia en el día a día?
+
+92
+00:05:09,980 --> 00:05:11,300
+¡Y vaya si cambia!
+
+93
+00:05:11,300 --> 00:05:14,259
+Porque la verdadera consecuencia de esta teoría política
+
+94
+00:05:14,259 --> 00:05:16,699
+se mide directamente en el bolsillo de todos:
+
+95
+00:05:16,699 --> 00:05:17,699
+los impuestos.
+
+96
+00:05:17,699 --> 00:05:20,180
+En concreto, la investigación analiza el impuesto
+
+97
+00:05:20,180 --> 00:05:22,019
+municipal sobre bienes inmuebles para empresas
+
+98
+00:05:22,019 --> 00:05:23,659
+introducido en los años 90,
+
+99
+00:05:23,659 --> 00:05:26,420
+un tema candente en cualquier ayuntamiento.
+
+100
+00:05:26,420 --> 00:05:29,099
+Para analizar las fluctuaciones de los impuestos,
+
+101
+00:05:29,099 --> 00:05:31,339
+los investigadores observaron un dato empírico
+
+102
+00:05:31,339 --> 00:05:33,539
+puro y duro en los presupuestos municipales,
+
+103
+00:05:33,580 --> 00:05:35,460
+sin tomar partido por nadie;
+
+104
+00:05:35,460 --> 00:05:37,660
+la tendencia estadística es la siguiente.
+
+105
+00:05:37,660 --> 00:05:40,420
+Las administraciones di centro-sinistra tienden a imponer
+
+106
+00:05:40,420 --> 00:05:42,939
+tipos impositivos más altos sobre los inmuebles de las empresas
+
+107
+00:05:42,939 --> 00:05:44,860
+para financiar los servicios públicos,
+
+108
+00:05:44,860 --> 00:05:46,900
+mientras que las administraciones de centro-derecha
+
+109
+00:05:46,900 --> 00:05:48,180
+tienden a bajarlos.
+
+110
+00:05:48,180 --> 00:05:50,420
+Repeto, no es un juicio de valor,
+
+111
+00:05:50,420 --> 00:05:53,860
+es un dato matemático observado en los presupuestos de los municipios italianos.
+
+112
+00:05:53,860 --> 00:05:55,660
+Bien, imaginen qué pasa
+
+113
+00:05:55,660 --> 00:05:57,820
+cuando cambia el color político en la ciudad.
+
+114
+00:05:57,820 --> 00:05:59,100
+En los municipios con vuelta única,
+
+115
+00:05:59,100 --> 00:06:00,540
+un relevo en el poder provoca
+
+116
+00:06:00,540 --> 00:06:02,300
+una montaña rusa fiscal.
+
+117
+00:06:02,340 --> 00:06:03,939
+Los impuestos oscilan violentamente
+
+118
+00:06:03,939 --> 00:06:06,340
+porque el alcalde, rehén de las facciones extremas,
+
+119
+00:06:06,340 --> 00:06:09,379
+debe ceder a sus demandas de cambios drásticos.
+
+120
+00:06:09,379 --> 00:06:11,420
+Por el contrario, en los municipios con segunda vuelta,
+
+121
+00:06:11,420 --> 00:06:12,579
+donde el alcalde es moderado
+
+122
+00:06:12,579 --> 00:06:14,620
+y no tiene deudas de coalición con los extremistas,
+
+123
+00:06:14,620 --> 00:06:17,460
+los impuestos se mantienen increíblemente planos y estables,
+
+124
+00:06:17,460 --> 00:06:19,220
+aunque la ciudad pase de la derecha
+
+125
+00:06:19,220 --> 00:06:20,900
+a la izquierda o viceversa.
+
+126
+00:06:20,900 --> 00:06:23,019
+El impacto numérico de esta estabilidad
+
+127
+00:06:23,019 --> 00:06:24,819
+es, por decir lo menos, clamoroso:
+
+128
+00:06:24,819 --> 00:06:26,460
+un 61%.
+
+129
+00:06:26,460 --> 00:06:29,460
+El estudio nos dice que, en los municipios con segunda vuelta,
+
+130
+00:06:29,460 --> 00:06:30,860
+la volatilidad de los impuestos
+
+131
+00:06:30,860 --> 00:06:33,900
+a lo largo del tiempo cae un 61%.
+
+132
+00:06:33,900 --> 00:06:36,139
+Imaginen que son empresarios.
+
+133
+00:06:36,139 --> 00:06:38,139
+Pasan de no tener la menor idea
+
+134
+00:06:38,139 --> 00:06:40,139
+de cuántos impuestos pagarán el año que viene
+
+135
+00:06:40,139 --> 00:06:42,500
+a un entorno predecible y seguro.
+
+136
+00:06:42,500 --> 00:06:44,980
+Esta estabilidad es el fruto directo de gobiernos
+
+137
+00:06:44,980 --> 00:06:46,620
+que no están en jaque,
+
+138
+00:06:46,620 --> 00:06:50,379
+libres de las continuas presiones de aliados radicales.
+
+139
+00:06:50,379 --> 00:06:52,620
+Y ojo, que la cosa no termina aquí.
+
+140
+00:06:52,620 --> 00:06:55,819
+Los investigadores también midieron la volatilidad transversal,
+
+141
+00:06:55,819 --> 00:06:57,740
+es decir, la diferencia en el nivel de impuestos
+
+142
+00:06:57,740 --> 00:07:00,660
+entre municipios muy similares en el mismo año.
+
+143
+00:07:00,660 --> 00:07:03,060
+También aquí la caída es vertiginosa:
+
+144
+00:07:03,060 --> 00:07:05,060
+un 71% menos.
+
+145
+00:07:05,060 --> 00:07:06,939
+Esto significa que la segunda vuelta no se limita
+
+146
+00:07:06,939 --> 00:07:08,860
+a calmar las aguas en un solo municipio,
+
+147
+00:07:08,860 --> 00:07:12,060
+sino que unifica y da coherencia a las políticas económicas
+
+148
+00:07:12,060 --> 00:07:13,260
+entre distintas ciudades,
+
+149
+00:07:13,260 --> 00:07:16,260
+creando, en definitiva, un clima de gran equilibrio generalizado.
+
+150
+00:07:16,260 --> 00:07:17,460
+Llegados a este punto,
+
+151
+00:07:17,460 --> 00:07:19,900
+resulta natural hacer de abogado del diablo:
+
+152
+00:07:19,900 --> 00:07:21,620
+¿no será que los impuestos son más estables
+
+153
+00:07:21,620 --> 00:07:23,140
+simplemente porque con la segunda vuelta
+
+154
+00:07:23,140 --> 00:07:25,460
+los alcaldes duran más en su cargo?
+
+155
+00:07:25,460 --> 00:07:26,660
+Una excelente objeción
+
+156
+00:07:26,660 --> 00:07:28,460
+que el estudio puso a prueba de inmediato.
+
+157
+00:07:28,460 --> 00:07:29,860
+Pero los datos dicen que no.
+
+158
+00:07:29,860 --> 00:07:32,660
+El relevo político es prácticamente idéntico.
+
+159
+00:07:32,660 --> 00:07:35,259
+Los alcaldes en los municipios de más de quince mil habitantes
+
+160
+00:07:35,259 --> 00:07:36,860
+no permanecen más tiempo en el cargo.
+
+161
+00:07:36,860 --> 00:07:38,660
+Los gobiernos caen y se renuevan
+
+162
+00:07:38,660 --> 00:07:40,220
+con la misma frecuencia exacta
+
+163
+00:07:40,220 --> 00:07:41,460
+en ambos sistemas.
+
+164
+00:07:41,460 --> 00:07:43,420
+La estabilidad fiscal no depende de quién
+
+165
+00:07:43,420 --> 00:07:44,660
+esté aferrado al sillón,
+
+166
+00:07:44,660 --> 00:07:47,259
+sino precisamente del enfoque moderado de las políticas.
+
+167
+00:07:47,259 --> 00:07:48,860
+Si tuviéramos que tatuarnos
+
+168
+00:07:48,860 --> 00:07:52,060
+la conclusión de este estudio, sería esta cita:
+
+169
+00:07:52,060 --> 00:07:54,060
+"La segunda vuelta reduce la influencia
+
+170
+00:07:54,060 --> 00:07:56,259
+de los extremistas e induce a la moderación".
+
+171
+00:07:56,259 --> 00:07:58,660
+La relación de causalidad está demostrada.
+
+172
+00:07:58,860 --> 00:08:00,460
+Si quitas a las facciones extremas
+
+173
+00:08:00,460 --> 00:08:03,460
+el poder de chantajearte al formar alianzas,
+
+174
+00:08:03,460 --> 00:08:05,220
+obtienes de inmediato una economía local
+
+175
+00:08:05,220 --> 00:08:06,860
+más sólida y predecible.
+
+176
+00:08:06,860 --> 00:08:08,860
+No es una teoría sin fundamento,
+
+177
+00:08:08,860 --> 00:08:11,260
+es un mecanismo institucional potentísimo
+
+178
+00:08:11,260 --> 00:08:12,060
+que sirve de escudo
+
+179
+00:08:12,060 --> 00:08:14,860
+para nuestra economía frente a sacudidas innecesarias.
+
+180
+00:08:14,860 --> 00:08:15,860
+Sección 2.
+
+181
+00:08:15,860 --> 00:08:17,460
+Un freno a los extremismos.
+
+182
+00:08:17,460 --> 00:08:19,460
+Lecciones para las instituciones.
+
+183
+00:08:19,460 --> 00:08:20,860
+Demos un paso atrás
+
+184
+00:08:20,860 --> 00:08:23,660
+y miremos el bosque en lugar de un solo árbol.
+
+185
+00:08:23,660 --> 00:08:25,860
+Este gigantesco experimento natural italiano
+
+186
+00:08:25,860 --> 00:08:26,860
+es una lección de oro
+
+187
+00:08:26,860 --> 00:08:29,460
+para el diseño de las democracias de todo el mundo.
+
+188
+00:08:29,460 --> 00:08:30,660
+Comprender cómo basta con retocar
+
+189
+00:08:30,660 --> 00:08:33,060
+una regla de votación para apagar la polarización
+
+190
+00:08:33,060 --> 00:08:34,460
+es un descubrimiento crucial,
+
+191
+00:08:34,460 --> 00:08:35,860
+especialmente hoy en día,
+
+192
+00:08:35,860 --> 00:08:38,860
+cuando el extremismo político parece abrirse paso por doquier,
+
+193
+00:08:38,860 --> 00:08:41,860
+tanto en las naciones desarrolladas como en las emergentes.
+
+194
+00:08:41,860 --> 00:08:43,460
+Al fin y al cabo, todos sabemos muy bien
+
+195
+00:08:43,460 --> 00:08:45,659
+que un extremismo político sin frenos
+
+196
+00:08:45,659 --> 00:08:46,860
+causa daños enormes.
+
+197
+00:08:46,860 --> 00:08:49,259
+La investigación nos lo recuerda sin rodeos:
+
+198
+00:08:49,259 --> 00:08:51,060
+reduce el bienestar general,
+
+199
+00:08:51,060 --> 00:08:52,659
+sobre todo para quienes buscan estabilidad
+
+200
+00:08:52,659 --> 00:08:54,060
+para vivir y trabajar.
+
+201
+00:08:54,060 --> 00:08:55,659
+Genera un clima social tóxico,
+
+202
+00:08:55,659 --> 00:08:57,259
+lleno de desacuerdos constantes
+
+203
+00:08:57,259 --> 00:09:00,259
+y, lo que es peor, paraliza la toma de decisiones.
+
+204
+00:09:00,259 --> 00:09:02,459
+Un gobierno bloqueado por los vetos de las facciones extremas
+
+205
+00:09:02,459 --> 00:09:03,659
+simplemente no decide,
+
+206
+00:09:03,659 --> 00:09:05,459
+perjudicando a toda la comunidad.
+
+207
+00:09:05,459 --> 00:09:07,659
+Y esto nos deja con un interrogante final
+
+208
+00:09:07,659 --> 00:09:09,259
+que realmente invita a la reflexión.
+
+209
+00:09:09,259 --> 00:09:11,860
+Si un umbral burocrático de 15.000 habitantes,
+
+210
+00:09:11,860 --> 00:09:13,459
+un simple número en un papel,
+
+211
+00:09:13,459 --> 00:09:15,659
+tiene el poder de transformar tan profundamente
+
+212
+00:09:15,659 --> 00:09:17,860
+la economía y la política de una ciudad entera,
+
+213
+00:09:17,860 --> 00:09:19,360
+¿qué otras reglas invisibles
+
+214
+00:09:19,360 --> 00:09:21,659
+moldean en silencio nuestra sociedad?
+
+215
+00:09:21,659 --> 00:09:23,659
+¿Cuánto de lo que vivimos cada día
+
+216
+00:09:23,659 --> 00:09:26,059
+está dictado por engranajes institucionales ocultos
+
+217
+00:09:26,059 --> 00:09:28,059
+que damos completamente por sentados?
+
+218
+00:09:28,059 --> 00:09:29,659
+Es un pensamiento provocador
+
+219
+00:09:29,659 --> 00:09:31,159
+que nos invita a mirar los cimientos
+
+220
+00:09:31,159 --> 00:09:32,860
+mismos de nuestras democracias
+
+221
+00:09:32,860 --> 00:09:34,659
+con ojos completamente nuevos.

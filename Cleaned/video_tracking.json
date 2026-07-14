@@ -209,6 +209,25 @@
         "playlist": "Economia del Lavoro, Discriminazione e Disuguaglianze",
         "facebook_url": "Postato (Foto)"
     },
+    "Il_ballottaggio_frena_gli_estremisti": {
+        "youtube_id": "Jfk1Oyme_lo",
+        "youtube_url": "https://www.youtube.com/watch?v=Jfk1Oyme_lo",
+        "facebook_url": "Da fare",
+        "instagram_url": "Da fare",
+        "facebook_cover_status": "Mancante",
+        "playlist": "Da assegnare",
+        "last_updated": "2026-07-14T17:26:14.338477",
+        "title": "Il ballottaggio frena gli estremisti?",
+        "academic_title": "Moderating Political Extremism: Single Round versus Runoff Elections under Plurality Rule",
+        "status": "In Corso",
+        "workflow_step": "upload_bloccato_auth_youtube",
+        "paper_path": "/Users/<USER>/Desktop/canale/Cleaned/Il_ballottaggio_frena_gli_estremisti/Moderating Political Extremism Single Round versus Runoff Elections under Plurality Rule.pdf",
+        "notebook_id": "629bdf7c-3698-4abd-9977-0352dc436adb",
+        "video_artifact_id": "843414c3-2efd-4869-9451-abb04ef7c859",
+        "infographic_artifact_id": "0d373550-8101-453b-afbe-79c9e93e07a0",
+        "title_overlay_corrected": true,
+        "upload_blocker": "YouTube OAuth refresh token non valido (invalid_grant) e sessione browser YouTube Studio non autenticata; upload/social non programmati."
+    },
     "Il_comunismo_ti_cambia_la_mente": {
         "youtube_id": "62iBwcGX1TU",
         "youtube_url": "https://www.youtube.com/watch?v=62iBwcGX1TU",

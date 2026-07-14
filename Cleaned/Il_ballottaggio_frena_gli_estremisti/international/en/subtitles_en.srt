@@ -1,0 +1,883 @@
+1
+00:00:00,000 --> 00:00:06,100
+Does the runoff system hold back extremists? Well, this is exactly the fascinating question
+
+2
+00:00:06,100 --> 00:00:09,460
+that drives today's educational overview video.
+
+3
+00:00:09,460 --> 00:00:14,580
+We are about to dive into a truly incredible political economy paper, which shows us
+
+4
+00:00:14,580 --> 00:00:20,260
+how a seemingly technical, almost boring electoral rule can actually completely overturn
+
+5
+00:00:20,260 --> 00:00:23,379
+local politics and our everyday lives.
+
+6
+00:00:23,379 --> 00:00:28,740
+With a tone we want to keep energetic but absolutely accurate, we are going to compare
+
+7
+00:00:28,740 --> 00:00:33,859
+the single-round system with the runoff system, we will see how that famous 15,000-inhabitant threshold works
+
+8
+00:00:33,859 --> 00:00:38,740
+in Italian municipalities, and we will discover why, paradoxically, having more candidates
+
+9
+00:00:38,740 --> 00:00:43,980
+in the race means having less power at the extremes, and, believe it or not, even lower fiscal
+
+10
+00:00:43,980 --> 00:00:44,980
+volatility.
+
+11
+00:00:44,980 --> 00:00:48,219
+In short, details matter, let's get straight to the heart of it.
+
+12
+00:00:48,219 --> 00:00:52,219
+So, let's start with the basics and compare the two systems.
+
+13
+00:00:52,219 --> 00:00:57,420
+On one hand, we have the single-round system, a winner-take-all race: whoever gets even just a single vote
+
+14
+00:00:57,420 --> 00:01:01,060
+more than their opponents wins, no ifs, ands, or buts.
+
+15
+00:01:01,060 --> 00:01:03,100
+On the other hand, there is the runoff.
+
+16
+00:01:03,100 --> 00:01:07,780
+If in the first round no one obtains an absolute majority, the two most voted candidates go to
+
+17
+00:01:07,780 --> 00:01:10,939
+a second round, a true head-to-head clash.
+
+18
+00:01:10,939 --> 00:01:13,500
+It might seem like just a bureaucratic technicality, right?
+
+19
+00:01:13,500 --> 00:01:18,500
+Yet, as we will see, this small detail hides a mechanism capable of radically altering
+
+20
+00:01:18,500 --> 00:01:23,700
+the way politicians behave and form their alliances.
+
+21
+00:01:23,740 --> 00:01:28,299
+All of this brings us to a natural experiment literally served on a silver platter,
+
+22
+00:01:28,299 --> 00:01:31,379
+which took shape in Italy starting in the early nineties.
+
+23
+00:01:31,379 --> 00:01:34,379
+The law drew an invisible but sharp line.
+
+24
+00:01:34,379 --> 00:01:39,540
+Municipalities with under 15,000 inhabitants vote using the single-round system, while those over 15,000
+
+25
+00:01:39,540 --> 00:01:41,740
+inhabitants use the runoff system.
+
+26
+00:01:41,740 --> 00:01:45,379
+For researchers, this division has been a real goldmine.
+
+27
+00:01:45,379 --> 00:01:50,219
+They were able to compare towns that are practically identical in terms of economy, culture, and geography,
+
+28
+00:01:50,219 --> 00:01:53,659
+yet separated by a single, crucial rule of the game.
+
+29
+00:01:53,659 --> 00:01:56,340
+And here a fantastic paradox emerges.
+
+30
+00:01:56,340 --> 00:02:00,939
+Logic would suggest that a two-round system, since there is more room to try one's luck,
+
+31
+00:02:00,939 --> 00:02:06,340
+would favor chaos, dispersion, and perhaps give louder megaphones to radical voices.
+
+32
+00:02:06,340 --> 00:02:11,379
+So the question arises naturally: is it really possible to have more mayoral candidates
+
+33
+00:02:11,379 --> 00:02:14,259
+and at the same time less political extremism?
+
+34
+00:02:14,259 --> 00:02:16,819
+The data's answer is a resounding yes.
+
+35
+00:02:16,859 --> 00:02:20,259
+The runoff literally crowds the political scene with candidates,
+
+36
+00:02:20,259 --> 00:02:24,620
+but incredibly translates into much more moderate management of the city.
+
+37
+00:02:24,620 --> 00:02:30,780
+And the numbers confirm this anomaly in a way that leaves no room for doubt: 29%.
+
+38
+00:02:30,780 --> 00:02:34,900
+Moving to municipalities just a whisper above the 15,000-inhabitant threshold,
+
+39
+00:02:34,900 --> 00:02:39,900
+there is a 29% leap in the number of mayoral candidates,
+
+40
+00:02:39,900 --> 00:02:45,299
+compared to those just below the threshold. It is a huge increase; it means that the two-round system
+
+41
+00:02:45,300 --> 00:02:47,820
+really encourages more people to get involved.
+
+42
+00:02:47,820 --> 00:02:50,700
+And yet, despite this avalanche of candidates,
+
+43
+00:02:50,700 --> 00:02:54,660
+the influence of the most extreme factions plummets.
+
+44
+00:02:54,660 --> 00:02:55,740
+But why?
+
+45
+00:02:55,740 --> 00:03:00,380
+Okay, let's look at the game theory behind it: it is fascinating.
+
+46
+00:03:00,380 --> 00:03:05,380
+In the first round of the runoff, moderate parties know they have the numbers on their side;
+
+47
+00:03:05,380 --> 00:03:10,580
+they can easily afford to run alone without signing pacts with the devil.
+
+48
+00:03:10,580 --> 00:03:13,020
+They know very well that if they make it to the second round,
+
+49
+00:03:13,020 --> 00:03:15,900
+the voters of the excluded extremist parties
+
+50
+00:03:15,900 --> 00:03:18,900
+will vote for the moderate candidate closest to them,
+
+51
+00:03:18,900 --> 00:03:21,300
+just to prevent the opposing side from winning.
+
+52
+00:03:21,300 --> 00:03:25,140
+As a result, the extremes are cut out of the negotiations that matter,
+
+53
+00:03:25,140 --> 00:03:28,420
+and moderates win without being subjected to political blackmail.
+
+54
+00:03:28,420 --> 00:03:31,939
+In the single-round system, however, the tune changes brutally.
+
+55
+00:03:31,939 --> 00:03:36,420
+Since victory is achieved in one go and every single vote weighs heavily,
+
+56
+00:03:36,420 --> 00:03:40,939
+a moderate candidate absolutely cannot afford to split the vote.
+
+57
+00:03:40,979 --> 00:03:45,139
+They are mathematically forced to form alliances and make compromises
+
+58
+00:03:45,139 --> 00:03:47,939
+with the most extreme factions before the vote even takes place.
+
+59
+00:03:47,939 --> 00:03:51,020
+If they don't, the radical faction runs on its own,
+
+60
+00:03:51,020 --> 00:03:55,340
+steals those few crucial votes, and hands victory to the opponents.
+
+61
+00:03:55,340 --> 00:03:57,740
+That is why here, in this system,
+
+62
+00:03:57,740 --> 00:04:01,020
+the extreme wings have crazy bargaining power.
+
+63
+00:04:01,020 --> 00:04:03,819
+In support of all this, the researcher has isolated
+
+64
+00:04:03,819 --> 00:04:06,020
+a very clear empirical observation.
+
+65
+00:04:06,020 --> 00:04:08,699
+Looking at the historical data of the Italian Communist Party,
+
+66
+00:04:08,700 --> 00:04:12,140
+analyzed in a completely neutral way to understand the dynamics
+
+67
+00:04:12,140 --> 00:04:14,220
+of the most politically polarized factions,
+
+68
+00:04:14,220 --> 00:04:16,060
+they noticed a curious thing.
+
+69
+00:04:16,060 --> 00:04:18,420
+Under the runoff system, these types of factions
+
+70
+00:04:18,420 --> 00:04:22,180
+are twice as likely to run in elections on their own.
+
+71
+00:04:22,180 --> 00:04:24,660
+Sure, this way they measure their true electoral strength,
+
+72
+00:04:24,660 --> 00:04:28,460
+but they completely lose the ability to dictate the agenda to the future mayor,
+
+73
+00:04:28,460 --> 00:04:31,259
+because their votes are not essential to win the first round.
+
+74
+00:04:31,259 --> 00:04:32,740
+So, summing up,
+
+75
+00:04:32,740 --> 00:04:35,460
+the runoff produces two crystal-clear effects:
+
+76
+00:04:35,460 --> 00:04:37,259
+an increase in mayoral candidates,
+
+77
+00:04:37,259 --> 00:04:39,860
+and a drastic drop in power for the extremes;
+
+78
+00:04:39,860 --> 00:04:42,860
+it practically acts as a highly powerful filter.
+
+79
+00:04:42,860 --> 00:04:44,860
+It strips radical factions of their megaphone
+
+80
+00:04:44,860 --> 00:04:47,060
+during alliance building.
+
+81
+00:04:47,060 --> 00:04:48,740
+And the most amazing thing of all
+
+82
+00:04:48,740 --> 00:04:50,939
+is that this happens even if voters' preferences
+
+83
+00:04:50,939 --> 00:04:52,779
+remain identical.
+
+84
+00:04:52,779 --> 00:04:54,379
+It is not that people change their minds,
+
+85
+00:04:54,379 --> 00:04:56,180
+it is simply the rule of the game
+
+86
+00:04:56,180 --> 00:04:57,779
+that defuses extremism
+
+87
+00:04:57,779 --> 00:05:00,819
+and inevitably pushes politics toward the center.
+
+88
+00:05:00,819 --> 00:05:03,500
+Section 1: Fiscal Volatility
+
+89
+00:05:03,500 --> 00:05:05,259
+and the Impact on Citizens.
+
+90
+00:05:05,259 --> 00:05:07,300
+Now, you might be wondering, okay,
+
+91
+00:05:07,300 --> 00:05:09,980
+but what difference does this make to me in my everyday life?
+
+92
+00:05:09,980 --> 00:05:11,300
+And how!
+
+93
+00:05:11,300 --> 00:05:14,259
+Because the true consequence of this political theory
+
+94
+00:05:14,259 --> 00:05:16,699
+is felt directly in everyone's wallet:
+
+95
+00:05:16,699 --> 00:05:17,699
+taxes.
+
+96
+00:05:17,699 --> 00:05:20,180
+Specifically, the research analyzes the municipal property tax
+
+97
+00:05:20,180 --> 00:05:22,019
+on business properties
+
+98
+00:05:22,019 --> 00:05:23,659
+introduced in the 90s,
+
+99
+00:05:23,659 --> 00:05:26,420
+a hot topic in any city hall.
+
+100
+00:05:26,420 --> 00:05:29,099
+To analyze tax fluctuations,
+
+101
+00:05:29,099 --> 00:05:31,339
+researchers observed raw, hard empirical data
+
+102
+00:05:31,339 --> 00:05:33,539
+from municipal budgets;
+
+103
+00:05:33,580 --> 00:05:35,460
+without taking anybody's side,
+
+104
+00:05:35,460 --> 00:05:37,660
+the statistical trend is as follows.
+
+105
+00:05:37,660 --> 00:05:40,420
+Center-left administrations tend to levy
+
+106
+00:05:40,420 --> 00:05:42,939
+higher tax rates on business properties
+
+107
+00:05:42,939 --> 00:05:44,860
+to fund public services,
+
+108
+00:05:44,860 --> 00:05:46,900
+while center-right administrations
+
+109
+00:05:46,900 --> 00:05:48,180
+tend to lower them.
+
+110
+00:05:48,180 --> 00:05:50,420
+I repeat, this is not a value judgment;
+
+111
+00:05:50,420 --> 00:05:53,860
+it is a mathematical fact observed in the budgets of Italian municipalities.
+
+112
+00:05:53,860 --> 00:05:55,660
+Well, imagine what happens
+
+113
+00:05:55,660 --> 00:05:57,820
+when the political color in town changes.
+
+114
+00:05:57,820 --> 00:05:59,100
+In single-round municipalities,
+
+115
+00:05:59,100 --> 00:06:00,540
+a passing of the torch causes
+
+116
+00:06:00,540 --> 00:06:02,300
+a fiscal rollercoaster.
+
+117
+00:06:02,340 --> 00:06:03,939
+Taxes oscillate violently
+
+118
+00:06:03,939 --> 00:06:06,340
+because the mayor, held hostage by extreme factions,
+
+119
+00:06:06,340 --> 00:06:09,379
+must give in to their demands for drastic changes.
+
+120
+00:06:09,379 --> 00:06:11,420
+Conversely, in municipalities with runoffs,
+
+121
+00:06:11,420 --> 00:06:12,579
+where the mayor is moderate
+
+122
+00:06:12,579 --> 00:06:14,620
+and has no coalition debts to extremists,
+
+123
+00:06:14,620 --> 00:06:17,460
+taxes remain incredibly flat and stable,
+
+124
+00:06:17,460 --> 00:06:19,220
+even if the city switches from right
+
+125
+00:06:19,220 --> 00:06:20,900
+to left or vice versa.
+
+126
+00:06:20,900 --> 00:06:23,019
+The quantitative impact of this stability
+
+127
+00:06:23,019 --> 00:06:24,819
+is nothing short of sensational:
+
+128
+00:06:24,819 --> 00:06:26,460
+61%.
+
+129
+00:06:26,460 --> 00:06:29,460
+The study tells us that, in municipalities with runoffs,
+
+130
+00:06:29,460 --> 00:06:30,860
+tax volatility
+
+131
+00:06:30,860 --> 00:06:33,900
+over time plummets by 61%.
+
+132
+00:06:33,900 --> 00:06:36,139
+Imagine being a business owner.
+
+133
+00:06:36,139 --> 00:06:38,139
+You go from having absolutely no idea
+
+134
+00:06:38,139 --> 00:06:40,139
+how much tax you will pay next year
+
+135
+00:06:40,139 --> 00:06:42,500
+to a predictable and safe environment.
+
+136
+00:06:42,500 --> 00:06:44,980
+This stability is the direct result of governments
+
+137
+00:06:44,980 --> 00:06:46,620
+that are not held hostage,
+
+138
+00:06:46,620 --> 00:06:50,379
+free from the constant pressure of radical allies.
+
+139
+00:06:50,379 --> 00:06:52,620
+And watch out, it doesn't end there.
+
+140
+00:06:52,620 --> 00:06:55,819
+Researchers also measured cross-sectional volatility,
+
+141
+00:06:55,819 --> 00:06:57,740
+meaning the difference in tax levels
+
+142
+00:06:57,740 --> 00:07:00,660
+between very similar municipalities in the exact same year.
+
+143
+00:07:00,660 --> 00:07:03,060
+Here too, the drop is steep:
+
+144
+00:07:03,060 --> 00:07:05,060
+71% less.
+
+145
+00:07:05,060 --> 00:07:06,939
+This means that the runoff does not just
+
+146
+00:07:06,939 --> 00:07:08,860
+calm the waters in a single municipality,
+
+147
+00:07:08,860 --> 00:07:12,060
+but harmonizes and makes economic policies consistent
+
+148
+00:07:12,060 --> 00:07:13,260
+across different towns,
+
+149
+00:07:13,260 --> 00:07:16,260
+creating an atmosphere of widespread stability.
+
+150
+00:07:16,260 --> 00:07:17,460
+At this point,
+
+151
+00:07:17,460 --> 00:07:19,900
+it is only natural to play devil's advocate.
+
+152
+00:07:19,900 --> 00:07:21,620
+Could it be that taxes are more stable
+
+153
+00:07:21,620 --> 00:07:23,140
+simply because, under the runoff system,
+
+154
+00:07:23,140 --> 00:07:25,460
+mayors stay in office longer?
+
+155
+00:07:25,460 --> 00:07:26,660
+An excellent objection
+
+156
+00:07:26,660 --> 00:07:28,460
+that the study immediately tested.
+
+157
+00:07:28,460 --> 00:07:29,860
+But the data says no.
+
+158
+00:07:29,860 --> 00:07:32,660
+Political turnover is virtually identical.
+
+159
+00:07:32,660 --> 00:07:35,259
+Mayors in municipalities with over fifteen thousand inhabitants
+
+160
+00:07:35,259 --> 00:07:36,860
+do not stay in office any longer.
+
+161
+00:07:36,860 --> 00:07:38,660
+Governments fall and are renewed
+
+162
+00:07:38,660 --> 00:07:40,220
+with the exact same frequency
+
+163
+00:07:40,220 --> 00:07:41,460
+in both systems.
+
+164
+00:07:41,460 --> 00:07:43,420
+Fiscal stability is not determined by who
+
+165
+00:07:43,420 --> 00:07:44,660
+is glued to the seat,
+
+166
+00:07:44,660 --> 00:07:47,259
+but precisely by the moderate policy approach.
+
+167
+00:07:47,259 --> 00:07:48,860
+If we were to tattoo
+
+168
+00:07:48,860 --> 00:07:52,060
+the conclusion of this study on ourselves, it would be this quote:
+
+169
+00:07:52,060 --> 00:07:54,060
+"The runoff system reduces the influence
+
+170
+00:07:54,060 --> 00:07:56,259
+of extremists and induces moderation."
+
+171
+00:07:56,259 --> 00:07:58,660
+The causal link is proven.
+
+172
+00:07:58,860 --> 00:08:00,460
+If you strip extreme factions of
+
+173
+00:08:00,460 --> 00:08:03,460
+the power to blackmail you when building alliances,
+
+174
+00:08:03,460 --> 00:08:05,220
+you immediately get a local economy
+
+175
+00:08:05,220 --> 00:08:06,860
+that is more solid and predictable.
+
+176
+00:08:06,860 --> 00:08:08,860
+This is not far-fetched theory;
+
+177
+00:08:08,860 --> 00:08:11,260
+it is a highly powerful institutional mechanism
+
+178
+00:08:11,260 --> 00:08:12,060
+that shields
+
+179
+00:08:12,060 --> 00:08:14,860
+our economy from unnecessary shocks.
+
+180
+00:08:14,860 --> 00:08:15,860
+Section 2.
+
+181
+00:08:15,860 --> 00:08:17,460
+A curb on extremism:
+
+182
+00:08:17,460 --> 00:08:19,460
+Lessons for Institutions.
+
+183
+00:08:19,460 --> 00:08:20,860
+Let's take a step back
+
+184
+00:08:20,860 --> 00:08:23,660
+and look at the forest instead of the single tree.
+
+185
+00:08:23,660 --> 00:08:25,860
+This massive Italian natural experiment
+
+186
+00:08:25,860 --> 00:08:26,860
+is a golden lesson
+
+187
+00:08:26,860 --> 00:08:29,460
+for the design of democracies worldwide.
+
+188
+00:08:29,460 --> 00:08:30,660
+Understanding how simply tweaking
+
+189
+00:08:30,660 --> 00:08:33,060
+a voting rule can defuse polarization
+
+190
+00:08:33,060 --> 00:08:34,460
+is a crucial discovery,
+
+191
+00:08:34,460 --> 00:08:35,860
+especially nowadays,
+
+192
+00:08:35,860 --> 00:08:38,860
+where political extremism seems to be making headway almost everywhere,
+
+193
+00:08:38,860 --> 00:08:41,860
+in developed as well as emerging nations.
+
+194
+00:08:41,860 --> 00:08:43,460
+After all, we all know very well
+
+195
+00:08:43,460 --> 00:08:45,659
+that unchecked political extremism
+
+196
+00:08:45,659 --> 00:08:46,860
+causes huge damage.
+
+197
+00:08:46,860 --> 00:08:49,259
+The research reminds us of this in no uncertain terms:
+
+198
+00:08:49,259 --> 00:08:51,060
+it reduces overall well-being,
+
+199
+00:08:51,060 --> 00:08:52,659
+especially for those seeking stability
+
+200
+00:08:52,659 --> 00:08:54,060
+to live and work.
+
+201
+00:08:54,060 --> 00:08:55,659
+It generates a toxic social climate
+
+202
+00:08:55,659 --> 00:08:57,259
+full of constant disagreement,
+
+203
+00:08:57,259 --> 00:09:00,259
+and, worse yet, it paralyzes decision-making processes.
+
+204
+00:09:00,259 --> 00:09:02,459
+A government blocked by the vetoes of extreme factions
+
+205
+00:09:02,459 --> 00:09:03,659
+simply does not make decisions,
+
+206
+00:09:03,659 --> 00:09:05,459
+harming the entire community.
+
+207
+00:09:05,459 --> 00:09:07,659
+And this leaves us with a final question
+
+208
+00:09:07,659 --> 00:09:09,259
+that is truly food for thought.
+
+209
+00:09:09,259 --> 00:09:11,860
+If a bureaucratic threshold of 15,000 inhabitants,
+
+210
+00:09:11,860 --> 00:09:13,459
+a number on a piece of paper,
+
+211
+00:09:13,459 --> 00:09:15,659
+has the power to so profoundly disrupt
+
+212
+00:09:15,659 --> 00:09:17,860
+the economy and politics of an entire city,
+
+213
+00:09:17,860 --> 00:09:19,360
+what other invisible rules
+
+214
+00:09:19,360 --> 00:09:21,659
+are quietly shaping our society?
+
+215
+00:09:21,659 --> 00:09:23,659
+How much of what we experience every day
+
+216
+00:09:23,659 --> 00:09:26,059
+is dictated by the hidden institutional gears
+
+217
+00:09:26,059 --> 00:09:28,059
+that we take completely for granted?
+
+218
+00:09:28,059 --> 00:09:29,659
+It is a provocative thought
+
+219
+00:09:29,659 --> 00:09:31,159
+that invites us to look at the very foundations
+
+220
+00:09:31,159 --> 00:09:32,860
+of our democracies
+
+221
+00:09:32,860 --> 00:09:34,659
+with completely new eyes.

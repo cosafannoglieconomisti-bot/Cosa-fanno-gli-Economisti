@@ -1,0 +1,883 @@
+1
+00:00:00,000 --> 00:00:06,100
+Die Stichwahl bremst Extremisten aus – nun, genau das ist die faszinierende Frage,
+
+2
+00:00:06,100 --> 00:00:09,460
+die als Motor für unser heutiges Erklärvideo dient.
+
+3
+00:00:09,460 --> 00:00:14,580
+Wir tauchen gleich in ein wirklich unglaubliches politikökonomisches Paper ein, das uns zeigt,
+
+4
+00:00:14,580 --> 00:00:20,260
+wie eine scheinbar technische, fast schon langweilige Wahlregel in Wirklichkeit
+
+5
+00:00:20,260 --> 00:00:23,379
+die lokale Politik und unser tägliches Leben völlig auf den Kopf stellen kann.
+
+6
+00:00:23,379 --> 00:00:28,740
+In einem Ton, den wir dynamisch, aber absolut präzise halten wollen, vergleichen wir
+
+7
+00:00:28,740 --> 00:00:33,859
+den einzelnen Wahlgang mit der Stichwahl. Wir sehen uns an, wie diese berühmte Grenze von 15.000
+
+8
+00:00:33,859 --> 00:00:38,740
+Einwohnern in den italienischen Gemeinden funktioniert, und entdecken, warum paradoxerweise mehr Kandidaten
+
+9
+00:00:38,740 --> 00:00:43,980
+im Rennen weniger Macht für die Ränder bedeuten – und, man höre und staune, auch eine geringere
+
+10
+00:00:43,980 --> 00:00:44,980
+steuerliche Volatilität.
+
+11
+00:00:44,980 --> 00:00:48,219
+Kurz gesagt: Details zählen. Steigen wir direkt ins Thema ein.
+
+12
+00:00:48,219 --> 00:00:52,219
+Beginnen wir also mit den Grundlagen und vergleichen die beiden Systeme.
+
+13
+00:00:52,219 --> 00:00:57,420
+Auf der einen Seite haben wir den einzelnen Wahlgang, ein direktes Rennen: Wer auch nur eine einzige Stimme
+
+14
+00:00:57,420 --> 00:01:01,060
+mehr als die Gegner bekommt, gewinnt – ohne Wenn und Aber.
+
+15
+00:01:01,060 --> 00:01:03,100
+Auf der anderen Seite steht die Stichwahl.
+
+16
+00:01:03,100 --> 00:01:07,780
+Erreicht im ersten Wahlgang niemand die absolute Mehrheit, gehen die beiden Kandidaten mit den meisten Stimmen
+
+17
+00:01:07,780 --> 00:01:10,939
+in eine zweite Runde – in ein echtes Duell.
+
+18
+00:01:10,939 --> 00:01:13,500
+Das mag wie eine bloße bürokratische Formsache klingen, oder?
+
+19
+00:01:13,500 --> 00:01:18,500
+Doch wie wir sehen werden, verbirgt sich hinter diesem kleinen Detail ein Mechanismus, der in der Lage ist,
+
+20
+00:01:18,500 --> 00:01:23,700
+das Verhalten der Politiker und ihre Koalitionsbildung radikal zu verändern.
+
+21
+00:01:23,740 --> 00:01:28,299
+All das führt uns zu einem natürlichen Experiment, das uns buchstäblich auf dem Silbertablett serviert wurde
+
+22
+00:01:28,299 --> 00:01:31,379
+und in Italien seit den frühen 1990er Jahren Gestalt angenommen hat.
+
+23
+00:01:31,379 --> 00:01:34,379
+Das Gesetz hat eine unsichtbare, aber klare Linie gezogen.
+
+24
+00:01:34,379 --> 00:01:39,540
+Gemeinden unter 15.000 Einwohnern wählen im einfachen Wahlgang, während jene über 15.000
+
+25
+00:01:39,540 --> 00:01:41,740
+Einwohnern die Stichwahl nutzen.
+
+26
+00:01:41,740 --> 00:01:45,379
+Für die Forscher war diese Aufteilung eine wahre Goldgrube.
+
+27
+00:01:45,379 --> 00:01:50,219
+Sie konnten Städte vergleichen, die in Bezug auf Wirtschaft, Kultur und Geografie praktisch identisch sind,
+
+28
+00:01:50,219 --> 00:01:53,659
+sich aber durch eine einzige, entscheidende Spielregel unterscheiden.
+
+29
+00:01:53,659 --> 00:01:56,340
+Und hier zeigt sich ein fantastisches Paradoxon.
+
+30
+00:01:56,340 --> 00:02:00,939
+Logisch wäre eigentlich, dass ein System mit zwei Wahlgängen, da es mehr Raum für Experimente bietet,
+
+31
+00:02:00,939 --> 00:02:06,340
+das Chaos und die Zersplitterung fördert und radikalen Stimmen vielleicht ein lauteres Sprachrohr verschafft.
+
+32
+00:02:06,340 --> 00:02:11,379
+Da drängt sich die Frage auf: Ist es wirklich möglich, mehr Bürgermeisterkandidaten
+
+33
+00:02:11,379 --> 00:02:14,259
+und gleichzeitig weniger politischen Extremismus zu haben?
+
+34
+00:02:14,259 --> 00:02:16,819
+Die Antwort der Daten ist ein riesiges Ja.
+
+35
+00:02:16,859 --> 00:02:20,259
+Die Stichwahl füllt die politische Bühne zwar buchstäblich mit Kandidaten,
+
+36
+00:02:20,259 --> 00:02:24,620
+führt aber erstaunlicherweise zu einer viel moderateren Verwaltung der Stadt.
+
+37
+00:02:24,620 --> 00:02:30,780
+Und die Zahlen bestätigen diese Anomalie auf eine Weise, die keinen Raum für Zweifel lässt: 29 %.
+
+38
+00:02:30,780 --> 00:02:34,900
+In Gemeinden, die nur einen Hauch über der Schwelle von 15.000 Einwohnern liegen,
+
+39
+00:02:34,900 --> 00:02:39,900
+verzeichnet man einen Sprung von 29 % bei der Anzahl der Bürgermeisterkandidaten
+
+40
+00:02:39,900 --> 00:02:45,299
+im Vergleich zu jenen knapp darunter. Das ist ein enormer Anstieg und zeigt, dass die Stichwahl
+
+41
+00:02:45,300 --> 00:02:47,820
+wirklich mehr Menschen dazu ermutigt, ins Rennen zu gehen.
+
+42
+00:02:47,820 --> 00:02:50,700
+Und doch bricht trotz dieser Flut an Kandidaten
+
+43
+00:02:50,700 --> 00:02:54,660
+der Einfluss der extremsten Gruppierungen drastisch ein.
+
+44
+00:02:54,660 --> 00:02:55,740
+Aber warum?
+
+45
+00:02:55,740 --> 00:03:00,380
+Okay, werfen wir einen Blick auf die Spieltheorie dahinter – sie ist faszinierend.
+
+46
+00:03:00,380 --> 00:03:05,380
+Im ersten Durchgang der Stichwahl wissen die gemäßigten Parteien, dass sie die Zahlen auf ihrer Seite haben;
+
+47
+00:03:05,380 --> 00:03:10,580
+sie können es sich leisten, allein anzutreten, ohne einen Pakt mit dem Teufel zu schließen.
+
+48
+00:03:10,580 --> 00:03:13,020
+Sie wissen ganz genau: Wenn sie in die zweite Runde kommen,
+
+49
+00:03:13,020 --> 00:03:15,900
+werden die Wähler der ausgeschiedenen extremistischen Parteien
+
+50
+00:03:15,900 --> 00:03:18,900
+für den ihnen am nächsten stehenden gemäßigten Kandidaten stimmen,
+
+51
+00:03:18,900 --> 00:03:21,300
+nur um zu verhindern, dass das gegnerische Lager gewinnt.
+
+52
+00:03:21,300 --> 00:03:25,140
+Das Ergebnis: Die Ränder werden von den entscheidenden Tischen ferngehalten,
+
+53
+00:03:25,140 --> 00:03:28,420
+und die Gemäßigten gewinnen, ohne sich politisch erpressen lassen zu müssen.
+
+54
+00:03:28,420 --> 00:03:31,939
+Beim einzelnen Wahlgang hingegen ändert sich die Lage schlagartig.
+
+55
+00:03:31,939 --> 00:03:36,420
+Da man auf Anhieb gewinnt und jede einzelne Stimme tonnenschwer wiegt,
+
+56
+00:03:36,420 --> 00:03:40,939
+kann es sich ein gemäßigter Kandidat absolut nicht leisten, Stimmen zu verschenken.
+
+57
+00:03:40,979 --> 00:03:45,139
+Er ist mathematisch gezwungen, schon vor der Wahl Bündnisse zu schließen
+
+58
+00:03:45,139 --> 00:03:47,939
+und Kompromisse mit den extremsten Kräften einzugehen.
+
+59
+00:03:47,939 --> 00:03:51,020
+Tut er das nicht, tritt der radikale Flügel allein an,
+
+60
+00:03:51,020 --> 00:03:55,340
+raubt diese wenigen entscheidenden Stimmen und schenkt den Gegnern den Sieg.
+
+61
+00:03:55,340 --> 00:03:57,740
+Deshalb haben die extremen Flügel in diesem System
+
+62
+00:03:57,740 --> 00:04:01,020
+eine unglaubliche Verhandlungsmacht.
+
+63
+00:04:01,020 --> 00:04:03,819
+Um all dies zu untermauern, hat der Forscher
+
+64
+00:04:03,819 --> 00:04:06,020
+eine sehr klare empirische Beobachtung herausgearbeitet.
+
+65
+00:04:06,020 --> 00:04:08,699
+Beim Blick auf die historischen Daten der Kommunistischen Partei Italiens,
+
+66
+00:04:08,700 --> 00:04:12,140
+die völlig neutral analysiert wurden, um die Dynamik
+
+67
+00:04:12,140 --> 00:04:14,220
+der politisch am schärfsten profilierten Kräfte zu verstehen,
+
+68
+00:04:14,220 --> 00:04:16,060
+fiel ihnen etwas Kurioses auf.
+
+69
+00:04:16,060 --> 00:04:18,420
+Im Stichwahlsystem treten solche Fraktionen
+
+70
+00:04:18,420 --> 00:04:22,180
+mit doppelt so hoher Wahrscheinlichkeit allein zu den Wahlen an.
+
+71
+00:04:22,180 --> 00:04:24,660
+Sicher, so messen sie ihre tatsächliche Wählerstärke,
+
+72
+00:04:24,660 --> 00:04:28,460
+verlieren aber völlig die Möglichkeit, dem künftigen Bürgermeister die Agenda zu diktieren,
+
+73
+00:04:28,460 --> 00:04:31,259
+weil ihre Stimmen für den Sieg in der ersten Runde nicht zwingend nötig sind.
+
+74
+00:04:31,259 --> 00:04:32,740
+Zusammenfassend lässt sich sagen:
+
+75
+00:04:32,740 --> 00:04:35,460
+Die Stichwahl hat zwei glasklare Effekte.
+
+76
+00:04:35,460 --> 00:04:37,259
+Ein Anstieg der Bürgermeisterkandidaten
+
+77
+00:04:37,259 --> 00:04:39,860
+und ein drastischer Machtverlust für die Ränder.
+
+78
+00:04:39,860 --> 00:04:42,860
+Sie wirkt praktisch wie ein enorm starker Filter.
+
+79
+00:04:42,860 --> 00:04:44,860
+Sie nimmt den radikalen Gruppierungen das Megafon
+
+80
+00:04:44,860 --> 00:04:47,060
+bei der Bündnisbildung.
+
+81
+00:04:47,060 --> 00:04:48,740
+Und das Verrückteste daran ist,
+
+82
+00:04:48,740 --> 00:04:50,939
+dass dies geschieht, obwohl die Präferenzen
+
+83
+00:04:50,939 --> 00:04:52,779
+der Wähler völlig identisch bleiben.
+
+84
+00:04:52,779 --> 00:04:54,379
+Es sind nicht die Menschen, die ihre Meinung ändern,
+
+85
+00:04:54,379 --> 00:04:56,180
+es ist schlicht die Spielregel,
+
+86
+00:04:56,180 --> 00:04:57,779
+die den Extremismus entschärft
+
+87
+00:04:57,779 --> 00:05:00,819
+und die Politik unweigerlich in die Mitte drängt.
+
+88
+00:05:00,819 --> 00:05:03,500
+Abschnitt 1: Die steuerliche Volatilität
+
+89
+00:05:03,500 --> 00:05:05,259
+und die Auswirkungen auf die Bürger.
+
+90
+00:05:05,259 --> 00:05:07,300
+Jetzt werden Sie sich fragen: Okay,
+
+91
+00:05:07,300 --> 00:05:09,980
+aber was ändert das für mich im Alltag?
+
+92
+00:05:09,980 --> 00:05:11,300
+Es ändert sich eine ganze Menge!
+
+93
+00:05:11,300 --> 00:05:14,259
+Denn die reale Folge dieser politischen Theorie
+
+94
+00:05:14,259 --> 00:05:16,699
+lässt sich direkt in unser aller Geldbeutel messen:
+
+95
+00:05:16,699 --> 00:05:17,699
+bei den Steuern.
+
+96
+00:05:17,699 --> 00:05:20,180
+Konkret analysiert die Studie die in den 1990er
+
+97
+00:05:20,180 --> 00:05:22,019
+Jahren eingeführte kommunale Immobiliensteuer
+
+98
+00:05:22,019 --> 00:05:23,659
+für Unternehmen –
+
+99
+00:05:23,659 --> 00:05:26,420
+ein heißes Thema in jedem Rathaus.
+
+100
+00:05:26,420 --> 00:05:29,099
+Um die Steuerschwankungen zu untersuchen,
+
+101
+00:05:29,099 --> 00:05:31,339
+haben die Forscher eine nackte, empirische Tatsache
+
+102
+00:05:31,339 --> 00:05:33,539
+in den Gemeindehaushalten beobachtet,
+
+103
+00:05:33,580 --> 00:05:35,460
+ganz unparteiisch.
+
+104
+00:05:35,460 --> 00:05:37,660
+Der statistische Trend sieht so aus:
+
+105
+00:05:37,660 --> 00:05:40,420
+Mitte-Links-Regierungen neigen dazu, höhere Sätze
+
+106
+00:05:40,420 --> 00:05:42,939
+bei der Gewerbeimmobiliensteuer festzulegen,
+
+107
+00:05:42,939 --> 00:05:44,860
+um öffentliche Dienstleistungen zu finanzieren,
+
+108
+00:05:44,860 --> 00:05:46,900
+während Mitte-Rechts-Regierungen
+
+109
+00:05:46,900 --> 00:05:48,180
+diese eher senken.
+
+110
+00:05:48,180 --> 00:05:50,420
+Ich wiederhole: Das ist kein Werturteil,
+
+111
+00:05:50,420 --> 00:05:53,860
+sondern eine mathematische Tatsache in den Bilanzen italienischer Gemeinden.
+
+112
+00:05:53,860 --> 00:05:55,660
+Stellen Sie sich nun vor, was passiert,
+
+113
+00:05:55,660 --> 00:05:57,820
+wenn sich die politische Farbe in einer Stadt ändert.
+
+114
+00:05:57,820 --> 00:05:59,100
+In Gemeinden mit nur einem Wahlgang
+
+115
+00:05:59,100 --> 00:06:00,540
+sorgt ein Machtwechsel
+
+116
+00:06:00,540 --> 00:06:02,300
+für eine steuerliche Achterbahnfahrt.
+
+117
+00:06:02,340 --> 00:06:03,939
+Die Steuern schwanken extrem,
+
+118
+00:06:03,939 --> 00:06:06,340
+weil der Bürgermeister – als Geisel der extremen Flügel –
+
+119
+00:06:06,340 --> 00:06:09,379
+deren Forderungen nach drastischen Veränderungen nachgeben muss.
+
+120
+00:06:09,379 --> 00:06:11,420
+In Stichwahl-Gemeinden hingegen,
+
+121
+00:06:11,420 --> 00:06:12,579
+wo der Bürgermeister gemäßigt ist
+
+122
+00:06:12,579 --> 00:06:14,620
+und keine Koalitionsschulden bei Extremisten hat,
+
+123
+00:06:14,620 --> 00:06:17,460
+bleiben die Steuern erstaunlich flach und stabil –
+
+124
+00:06:17,460 --> 00:06:19,220
+selbst wenn die Stadt von rechts
+
+125
+00:06:19,220 --> 00:06:20,900
+nach links wechselt oder umgekehrt.
+
+126
+00:06:20,900 --> 00:06:23,019
+Die zahlenmäßige Auswirkung dieser Stabilität
+
+127
+00:06:23,019 --> 00:06:24,819
+ist schlichtweg spektakulär:
+
+128
+00:06:24,819 --> 00:06:26,460
+61 %.
+
+129
+00:06:26,460 --> 00:06:29,460
+Die Studie zeigt, dass in Gemeinden mit Stichwahl
+
+130
+00:06:29,460 --> 00:06:30,860
+die Steuervolatilität
+
+131
+00:06:30,860 --> 00:06:33,900
+im Laufe der Zeit um 61 % einbricht.
+
+132
+00:06:33,900 --> 00:06:36,139
+Stellen sich vor, Sie sind Unternehmer.
+
+133
+00:06:36,139 --> 00:06:38,139
+Statt keine Ahnung zu haben,
+
+134
+00:06:38,139 --> 00:06:40,139
+wie viel Steuern Sie nächstes Jahr zahlen müssen,
+
+135
+00:06:40,139 --> 00:06:42,500
+haben Sie ein planbares und sicheres Umfeld.
+
+136
+00:06:42,500 --> 00:06:44,980
+Diese Stabilität ist das direkte Ergebnis von Regierungen,
+
+137
+00:06:44,980 --> 00:06:46,620
+die nicht erpressbar sind,
+
+138
+00:06:46,620 --> 00:06:50,379
+frei vom ständigen Druck radikaler Partner.
+
+139
+00:06:50,379 --> 00:06:52,620
+Und aufgepasst, das ist noch nicht alles.
+
+140
+00:06:52,620 --> 00:06:55,819
+Die Forscher haben auch die transversale Volatilität gemessen,
+
+141
+00:06:55,819 --> 00:06:57,740
+sprich den Unterschied im Steuerniveau
+
+142
+00:06:57,740 --> 00:07:00,660
+zwischen sehr ähnlichen Gemeinden im exakt selben Jahr.
+
+143
+00:07:00,660 --> 00:07:03,060
+Auch hier ist der Rückgang schwindelerregend:
+
+144
+00:07:03,060 --> 00:07:05,060
+71 % weniger.
+
+145
+00:07:05,060 --> 00:07:06,939
+Das bedeutet, dass die Stichwahl nicht nur die Lage
+
+146
+00:07:06,939 --> 00:07:08,860
+in einer einzelnen Gemeinde beruhigt,
+
+147
+00:07:08,860 --> 00:07:12,060
+sondern die Wirtschaftspolitik verschiedener Städte
+
+148
+00:07:12,060 --> 00:07:13,260
+vereinheitlicht und kohärenter macht.
+
+149
+00:07:13,260 --> 00:07:16,260
+Es entsteht also ein Klima breiter Ausgewogenheit.
+
+150
+00:07:16,260 --> 00:07:17,460
+An diesem Punkt
+
+151
+00:07:17,460 --> 00:07:19,900
+möchte man natürlich des Teufels Advokat spielen:
+
+152
+00:07:19,900 --> 00:07:21,620
+Sind die Steuern vielleicht nur deshalb stabiler,
+
+153
+00:07:21,620 --> 00:07:23,140
+weil Bürgermeister bei einer Stichwahl
+
+154
+00:07:23,140 --> 00:07:25,460
+länger im Amt bleiben?
+
+155
+00:07:25,460 --> 00:07:26,660
+Ein hervorragender Einwand,
+
+156
+00:07:26,660 --> 00:07:28,460
+den die Studie sofort geprüft hat.
+
+157
+00:07:28,460 --> 00:07:29,860
+Doch die Daten sagen Nein.
+
+158
+00:07:29,860 --> 00:07:32,660
+Der politische Wechsel ist praktisch identisch.
+
+159
+00:07:32,660 --> 00:07:35,259
+Bürgermeister in Gemeinden über 15.000 Einwohnern
+
+160
+00:07:35,259 --> 00:07:36,860
+bleiben nicht länger im Amt.
+
+161
+00:07:36,860 --> 00:07:38,660
+Regierungen stürzen und erneuern sich
+
+162
+00:07:38,660 --> 00:07:40,220
+in beiden Systemen mit exakt
+
+163
+00:07:40,220 --> 00:07:41,460
+derselben Häufigkeit.
+
+164
+00:07:41,460 --> 00:07:43,420
+Die steuerliche Stabilität liegt nicht daran, wer
+
+165
+00:07:43,420 --> 00:07:44,660
+am Sessel klebt,
+
+166
+00:07:44,660 --> 00:07:47,259
+sondern entspringt dem moderaten Ansatz der Politik.
+
+167
+00:07:47,259 --> 00:07:48,860
+Müssten wir das Fazit
+
+168
+00:07:48,860 --> 00:07:52,060
+dieser Studie auf den Punkt bringen, wäre es dieses Zitat:
+
+169
+00:07:52,060 --> 00:07:54,060
+„Die Stichwahl verringert den Einfluss
+
+170
+00:07:54,060 --> 00:07:56,259
+von Extremisten und führt zu Mäßigung.“
+
+171
+00:07:56,259 --> 00:07:58,660
+Der kausale Zusammenhang ist bewiesen.
+
+172
+00:07:58,860 --> 00:08:00,460
+Entzieht man den extremen Kräften
+
+173
+00:08:00,460 --> 00:08:03,460
+bei der Bündnisbildung die Macht zur Erpressung,
+
+174
+00:08:03,460 --> 00:08:05,220
+erhält man sofort eine solidere und
+
+175
+00:08:05,220 --> 00:08:06,860
+planbarere lokale Wirtschaft.
+
+176
+00:08:06,860 --> 00:08:08,860
+Das ist keine graue Theorie,
+
+177
+00:08:08,860 --> 00:08:11,260
+sondern ein mächtiger institutioneller Hebel,
+
+178
+00:08:11,260 --> 00:08:12,060
+der unserer Wirtschaft als Schutzschild
+
+179
+00:08:12,060 --> 00:08:14,860
+gegen unnötige Erschütterungen dient.
+
+180
+00:08:14,860 --> 00:08:15,860
+Abschnitt 2:
+
+181
+00:08:15,860 --> 00:08:17,460
+Eine Bremse für Extremismen –
+
+182
+00:08:17,460 --> 00:08:19,460
+Lehren für die Institutionen.
+
+183
+00:08:19,460 --> 00:08:20,860
+Treten wir einen Schritt zurück
+
+184
+00:08:20,860 --> 00:08:23,660
+und betrachten den Wald statt des einzelnen Baumes.
+
+185
+00:08:23,660 --> 00:08:25,860
+Dieses gigantische natürliche Experiment in Italien
+
+186
+00:08:25,860 --> 00:08:26,860
+ist eine wertvolle Lektion
+
+187
+00:08:26,860 --> 00:08:29,460
+für die Gestaltung von Demokratien weltweit.
+
+188
+00:08:29,460 --> 00:08:30,660
+Zu verstehen, dass man nur eine Wahlregel
+
+189
+00:08:30,660 --> 00:08:33,060
+anpassen muss, um die Polarisierung zu dämpfen,
+
+190
+00:08:33,060 --> 00:08:34,460
+ist eine entscheidende Erkenntnis –
+
+191
+00:08:34,460 --> 00:08:35,860
+besonders in der heutigen Zeit,
+
+192
+00:08:35,860 --> 00:08:38,860
+in der sich politischer Extremismus fast überall breitzumachen scheint,
+
+193
+00:08:38,860 --> 00:08:41,860
+in entwickelten Ländern ebenso wie in Schwellenländern.
+
+194
+00:08:41,860 --> 00:08:43,460
+Schließlich wissen wir alle sehr genau,
+
+195
+00:08:43,460 --> 00:08:45,659
+dass ungebremster politischer Extremismus
+
+196
+00:08:45,659 --> 00:08:46,860
+enormen Schaden anrichtet.
+
+197
+00:08:46,860 --> 00:08:49,259
+Die Studie erinnert uns klipp und klar daran:
+
+198
+00:08:49,259 --> 00:08:51,060
+Er mindert den allgemeinen Wohlstand,
+
+199
+00:08:51,060 --> 00:08:52,659
+vor allem für diejenigen, die Stabilität suchen,
+
+200
+00:08:52,659 --> 00:08:54,060
+um zu leben und zu arbeiten.
+
+201
+00:08:54,060 --> 00:08:55,659
+Er erzeugt ein giftiges gesellschaftliches Klima
+
+202
+00:08:55,659 --> 00:08:57,259
+voller ständiger Konflikte
+
+203
+00:08:57,259 --> 00:09:00,259
+und, was noch schlimmer ist, er lähmt Entscheidungsprozesse.
+
+204
+00:09:00,259 --> 00:09:02,459
+Eine Regierung, die durch die Vetos extremer Fraktionen blockiert ist,
+
+205
+00:09:02,459 --> 00:09:03,659
+entscheidet schlichtweg nicht –
+
+206
+00:09:03,659 --> 00:09:05,459
+zum Schaden der gesamten Gemeinschaft.
+
+207
+00:09:05,459 --> 00:09:07,659
+Und das hinterlässt uns mit einer Schlussfrage,
+
+208
+00:09:07,659 --> 00:09:09,259
+die wirklich zum Nachdenken anregt:
+
+209
+00:09:09,259 --> 00:09:11,860
+Wenn eine bürokratische Schwelle von 15.000 Einwohnern –
+
+210
+00:09:11,860 --> 00:09:13,459
+eine bloße Zahl auf einem Blatt Papier –
+
+211
+00:09:13,459 --> 00:09:15,659
+die Macht hat, die Wirtschaft und Politik einer ganzen Stadt
+
+212
+00:09:15,659 --> 00:09:17,860
+so tiefgreifend zu verändern,
+
+213
+00:09:17,860 --> 00:09:19,360
+welche anderen unsichtbaren Regeln
+
+214
+00:09:19,360 --> 00:09:21,659
+prägen dann im Stillen unsere Gesellschaft?
+
+215
+00:09:21,659 --> 00:09:23,659
+Wie viel von dem, was wir täglich erleben,
+
+216
+00:09:23,659 --> 00:09:26,059
+wird von verborgenen institutionellen Zahnrädern bestimmt,
+
+217
+00:09:26,059 --> 00:09:28,059
+die wir völlig als selbstverständlich voraussetzen?
+
+218
+00:09:28,059 --> 00:09:29,659
+Das ist ein provokanter Gedanke,
+
+219
+00:09:29,659 --> 00:09:31,159
+der uns einlädt, das Fundament
+
+220
+00:09:31,159 --> 00:09:32,860
+unserer Demokratien selbst
+
+221
+00:09:32,860 --> 00:09:34,659
+mit völlig neuen Augen zu betrachten.

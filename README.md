@@ -45,6 +45,12 @@ I workflow principali del bot Telegram sono ora richiamabili anche direttamente 
 
 Il runner generale vive in `Execution/workflows/general_workflows.py` e copre anche `backup`, `gmail`, `report`, `articoli`, `copertina`, `playlist` e `competitor`.
 
+### Regola OAuth YouTube
+- Il token autorevole per YouTube upload e' `Execution/credentials/token.pickle`.
+- Prima di `/upload`, eseguire sempre il preflight `./workflow youtube-auth`.
+- Se Google rifiuta il refresh token (`invalid_grant`), usare `./workflow youtube-auth --force` per riaprire il login browser e rigenerare il token.
+- I file legacy `Execution/credentials/token_youtube.pickle` e `Execution/romolo/.tmp/tokens/token_youtube.pickle` non sono fonti di verita': vengono solo sincronizzati dal token principale per compatibilita' temporanea.
+
 ### 📁 Struttura del Backup
 Il backup include tutte le cartelle logiche del canale:
 - `Directives/`, `Execution/`, `.agents/`: Logica, istruzioni e script.

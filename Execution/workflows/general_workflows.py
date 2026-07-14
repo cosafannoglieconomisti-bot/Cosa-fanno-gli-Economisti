@@ -746,6 +746,17 @@ def workflow_upload(args):
     if not publish_at:
         tomorrow = datetime.now() + timedelta(days=1)
         publish_at = tomorrow.strftime("%Y-%m-%dT08:00:00+01:00")
+    auth_cmd = [PYTHON, ROOT / "Execution/enea/youtube_auth.py"]
+    if args.force_auth:
+        auth_cmd.append("--force")
+    auth_result = run_cmd(auth_cmd, cwd=ROOT, check=False)
+    print((auth_result.stdout or auth_result.stderr).strip())
+    if auth_result.returncode != 0:
+        raise WorkflowError(
+            auth_result.stderr
+            or auth_result.stdout
+            or "Autenticazione YouTube fallita. Esegui `./workflow youtube-auth`."
+        )
     cmd = [
         PYTHON,
         ROOT / "Execution/enea/youtube_uploader.py",
@@ -761,6 +772,17 @@ def workflow_upload(args):
     print((result.stdout or result.stderr).strip())
     if result.returncode != 0:
         raise WorkflowError(result.stderr or result.stdout or "Upload fallito.")
+    return 0
+
+
+def workflow_youtube_auth(args):
+    cmd = [PYTHON, ROOT / "Execution/enea/youtube_auth.py"]
+    if args.force:
+        cmd.append("--force")
+    result = run_cmd(cmd, cwd=ROOT, check=False)
+    print((result.stdout or result.stderr).strip())
+    if result.returncode != 0:
+        raise WorkflowError(result.stderr or result.stdout or "Autenticazione YouTube fallita.")
     return 0
 
 
@@ -827,6 +849,7 @@ def workflow_list(_args):
         "copertina",
         "produzione",
         "pulizia",
+        "youtube-auth",
         "upload",
         "instagram",
         "playlist",
@@ -871,9 +894,13 @@ def build_parser():
     pulizia = subparsers.add_parser("pulizia")
     pulizia.add_argument("--video")
 
+    youtube_auth = subparsers.add_parser("youtube-auth")
+    youtube_auth.add_argument("--force", action="store_true")
+
     upload = subparsers.add_parser("upload")
     upload.add_argument("--folder")
     upload.add_argument("--schedule")
+    upload.add_argument("--force-auth", action="store_true")
 
     instagram = subparsers.add_parser("instagram")
     instagram.add_argument("--video-id")
@@ -903,6 +930,7 @@ def main():
         "copertina": workflow_copertina,
         "produzione": workflow_produzione,
         "pulizia": workflow_pulizia,
+        "youtube-auth": workflow_youtube_auth,
         "upload": workflow_upload,
         "instagram": workflow_instagram,
         "playlist": workflow_playlist,

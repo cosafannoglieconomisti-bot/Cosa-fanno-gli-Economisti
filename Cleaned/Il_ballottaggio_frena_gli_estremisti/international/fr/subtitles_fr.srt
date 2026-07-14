@@ -1,0 +1,883 @@
+1
+00:00:00,000 --> 00:00:06,100
+Le ballottage freine-t-il les extrémistes ? Eh bien, c'est précisément cette question fascinante
+
+2
+00:00:06,100 --> 00:00:09,460
+qui est le moteur de notre vidéo de vulgarisation d'aujourd'hui.
+
+3
+00:00:09,460 --> 00:00:14,580
+Nous allons nous plonger dans un article d'économie politique vraiment incroyable, qui nous montre
+
+4
+00:00:14,580 --> 00:00:20,260
+comment une règle électorale en apparence technique, presque ennuyeuse, peut en réalité bouleverser
+
+5
+00:00:20,260 --> 00:00:23,379
+complètement la politique locale et notre vie de tous les jours.
+
+6
+00:00:23,379 --> 00:00:28,740
+Avec un ton que nous voulons énergique mais absolument rigoureux, nous allons comparer
+
+7
+00:00:28,740 --> 00:00:33,859
+le scrutin à un tour et le ballottage, nous verrons comment fonctionne ce fameux seuil des 15 000
+
+8
+00:00:33,859 --> 00:00:38,740
+habitants dans les communes italiennes et nous découvrirons pourquoi, paradoxalement, avoir plus de candidats
+
+9
+00:00:38,740 --> 00:00:43,980
+en lice signifie avoir moins de pouvoir aux extrêmes, et, figurez-vous, également une plus faible volatilité
+
+10
+00:00:43,980 --> 00:00:44,980
+fiscale.
+
+11
+00:00:44,980 --> 00:00:48,219
+En bref, les détails comptent, entrons tout de suite dans le vif du sujet.
+
+12
+00:00:48,219 --> 00:00:52,219
+Alors, partons des bases et comparons les deux systèmes.
+
+13
+00:00:52,219 --> 00:00:57,420
+D'un côté, nous avons le scrutin à un tour, une course directe : celui qui obtient ne serait-ce qu'une seule voix
+
+14
+00:00:57,420 --> 00:01:01,060
+de plus que ses adversaires l'emporte, sans aucun compromis.
+
+15
+00:01:01,060 --> 00:01:03,100
+De l'autre côté, il y a le ballottage.
+
+16
+00:01:03,100 --> 00:01:07,780
+Si, au premier tour, personne n'obtient la majorité absolue, les deux candidats arrivés en tête vont
+
+17
+00:01:07,780 --> 00:01:10,939
+à un second tour, pour un véritable duel direct.
+
+18
+00:01:10,939 --> 00:01:13,500
+Cela pourrait sembler n'être qu'un détail bureaucratique, n'est-ce pas ?
+
+19
+00:01:13,500 --> 00:01:18,500
+Pourtant, comme nous le verrons, ce petit détail cache un mécanisme capable de modifier
+
+20
+00:01:18,500 --> 00:01:23,700
+radicalement la manière dont les politiciens se comportent et forment leurs alliances.
+
+21
+00:01:23,740 --> 00:01:28,299
+Tout cela nous amène à une expérience naturelle littéralement servie sur un plateau d'argent,
+
+22
+00:01:28,299 --> 00:01:31,379
+qui a pris forme en Italie à partir du début des années quatre-vingt-dix.
+
+23
+00:01:31,379 --> 00:01:34,379
+La loi a tracé une ligne invisible mais nette.
+
+24
+00:01:34,379 --> 00:01:39,540
+Les communes de moins de 15 000 habitants votent au scrutin à un tour, tandis que celles de plus de 15 000
+
+25
+00:01:39,540 --> 00:01:41,740
+utilisent le ballottage.
+
+26
+00:01:41,740 --> 00:01:45,379
+Pour les chercheurs, cette division a été une véritable mine d'or.
+
+27
+00:01:45,379 --> 00:01:50,219
+Ils ont pu comparer des villes pratiquement identiques sur les plans économique, culturel et géographique,
+
+28
+00:01:50,219 --> 00:01:53,659
+séparées pourtant par une seule et cruciale règle du jeu.
+
+29
+00:01:53,659 --> 00:01:56,340
+Et c'est là qu'émerge un paradoxe fantastique.
+
+30
+00:01:56,340 --> 00:02:00,939
+La logique voudrait qu'un système à deux tours, offrant plus d'espace pour tenter sa chance,
+
+31
+00:02:00,939 --> 00:02:06,340
+favorise le chaos, la dispersion et donne peut-être des mégaphones plus grands aux voix radicales.
+
+32
+00:02:06,340 --> 00:02:11,379
+Une question se pose alors tout naturellement : est-il vraiment possible d'avoir plus de candidats à la mairie
+
+33
+00:02:11,379 --> 00:02:14,259
+et en même temps moins d'extrémisme politique ?
+
+34
+00:02:14,259 --> 00:02:16,819
+La réponse des données est un grand oui.
+
+35
+00:02:16,859 --> 00:02:20,259
+Le ballottage sature littéralement la scène politique de candidats,
+
+36
+00:02:20,259 --> 00:02:24,620
+mais, incroyablement, il se traduit par une gestion de la ville beaucoup plus modérée.
+
+37
+00:02:24,620 --> 00:02:30,780
+Et les chiffres confirment cette anomalie d'une manière qui ne laisse place à aucun doute : 29 %.
+
+38
+00:02:30,780 --> 00:02:34,900
+En passant aux communes qui se situent juste au-dessus du seuil des 15 000 habitants,
+
+39
+00:02:34,900 --> 00:02:39,900
+on enregistre un bond de 29 % du nombre de candidats à la mairie
+
+40
+00:02:39,900 --> 00:02:45,299
+par rapport à celles juste en dessous du seuil. C'est une hausse énorme, ce qui signifie que le second tour
+
+41
+00:02:45,300 --> 00:02:47,820
+encourage vraiment plus de personnes à se lancer.
+
+42
+00:02:47,820 --> 00:02:50,700
+Pourtant, malgré cette avalanche de candidats,
+
+43
+00:02:50,700 --> 00:02:54,660
+l'influence des franges les plus extrêmes s'effondre vertigineusement.
+
+44
+00:02:54,660 --> 00:02:55,740
+Mais pourquoi ?
+
+45
+00:02:55,740 --> 00:03:00,380
+Jetons un coup d'œil à la théorie des jeux sous-jacente, elle est fascinante.
+
+46
+00:03:00,380 --> 00:03:05,380
+Au premier tour du ballottage, les partis modérés savent qu'ils ont les chiffres pour eux,
+
+47
+00:03:05,380 --> 00:03:10,580
+ils peuvent tranquillement se permettre de courir seuls sans signer de pacte avec le diable.
+
+48
+00:03:10,580 --> 00:03:13,020
+Ils savent très bien que s'ils passent au second tour,
+
+49
+00:03:13,020 --> 00:03:15,900
+les électeurs des partis extrémistes exclus
+
+50
+00:03:15,900 --> 00:03:18,900
+voteront pour le candidat modéré le plus proche d'eux,
+
+51
+00:03:18,900 --> 00:03:21,300
+pour éviter de faire gagner le camp adverse.
+
+52
+00:03:21,300 --> 00:03:25,140
+Résultat : les extrêmes sont écartés des tables de négociation importantes,
+
+53
+00:03:25,140 --> 00:03:28,420
+et les modérés l'emportent sans subir de chantage politique.
+
+54
+00:03:28,420 --> 00:03:31,939
+Au scrutin à un tour, en revanche, la donne change brutalement.
+
+55
+00:03:31,939 --> 00:03:36,420
+Puisqu'on l'emporte dès le premier coup et que chaque voix pèse très lourd,
+
+56
+00:03:36,420 --> 00:03:40,939
+un candidat modéré ne peut absolument pas se permettre de disperser les voix.
+
+57
+00:03:40,979 --> 00:03:45,139
+Il est mathématiquement obligé de nouer des alliances et de faire des compromis
+
+58
+00:03:45,139 --> 00:03:47,939
+avec les factions les plus extrêmes dès avant le vote.
+
+59
+00:03:47,939 --> 00:03:51,020
+S'il ne le fait pas, la frange radicale se présente seule,
+
+60
+00:03:51,020 --> 00:03:55,340
+vole ces quelques voix cruciales et offre la victoire aux adversaires.
+
+61
+00:03:55,340 --> 00:03:57,740
+C'est pourquoi, dans ce système,
+
+62
+00:03:57,740 --> 00:04:01,020
+les ailes extrêmes disposent d'un pouvoir de négociation phénoménal.
+
+63
+00:04:01,020 --> 00:04:03,819
+À l'appui de tout cela, le chercheur a isolé
+
+64
+00:04:03,819 --> 00:04:06,020
+une observation empirique très claire.
+
+65
+00:04:06,020 --> 00:04:08,699
+En observant les données historiques du Parti communiste italien,
+
+66
+00:04:08,700 --> 00:04:12,140
+analysé de manière totalement neutre pour comprendre la dynamique
+
+67
+00:04:12,140 --> 00:04:14,220
+des formations politiquement les plus marquées,
+
+68
+00:04:14,220 --> 00:04:16,060
+ils ont remarqué une chose curieuse.
+
+69
+00:04:16,060 --> 00:04:18,420
+Dans le système de ballottage, ce type de factions
+
+70
+00:04:18,420 --> 00:04:22,180
+a deux fois plus de chances de se présenter seule aux élections.
+
+71
+00:04:22,180 --> 00:04:24,660
+Certes, cela leur permet de mesurer leur véritable force électorale,
+
+72
+00:04:24,660 --> 00:04:28,460
+mais elles perdent totalement la capacité de dicter l'agenda du futur maire,
+
+73
+00:04:28,460 --> 00:04:31,259
+car leurs voix ne sont pas essentielles pour remporter le premier tour.
+
+74
+00:04:31,259 --> 00:04:32,740
+Ainsi, pour résumer,
+
+75
+00:04:32,740 --> 00:04:35,460
+le ballottage produit deux effets limpides :
+
+76
+00:04:35,460 --> 00:04:37,259
+une augmentation des candidats à la mairie
+
+77
+00:04:37,259 --> 00:04:39,860
+et une baisse drastique du pouvoir des extrêmes.
+
+78
+00:04:39,860 --> 00:04:42,860
+En fait, il agit comme un filtre extrêmement puissant.
+
+79
+00:04:42,860 --> 00:04:44,860
+Il prive les franges radicales de leur mégaphone
+
+80
+00:04:44,860 --> 00:04:47,060
+lors de la formation des alliances.
+
+81
+00:04:47,060 --> 00:04:48,740
+Et le plus fou dans tout cela,
+
+82
+00:04:48,740 --> 00:04:50,939
+c'est que cela se produit même si les préférences
+
+83
+00:04:50,939 --> 00:04:52,779
+des électeurs restent identiques.
+
+84
+00:04:52,779 --> 00:04:54,379
+Ce ne sont pas les gens qui changent d'avis,
+
+85
+00:04:54,379 --> 00:04:56,180
+c'est simplement la règle du jeu
+
+86
+00:04:56,180 --> 00:04:57,779
+qui désamorce l'extrémisme
+
+87
+00:04:57,779 --> 00:05:00,819
+et pousse inévitablement la politique vers le centre.
+
+88
+00:05:00,819 --> 00:05:03,500
+Section 1 : La volatilité fiscale
+
+89
+00:05:03,500 --> 00:05:05,259
+et l'impact sur les citoyens.
+
+90
+00:05:05,259 --> 00:05:07,300
+Maintenant, vous vous demandez peut-être : d'accord,
+
+91
+00:05:07,300 --> 00:05:09,980
+mais qu'est-ce que cela change pour moi au quotidien ?
+
+92
+00:05:09,980 --> 00:05:11,300
+Cela change tout !
+
+93
+00:05:11,300 --> 00:05:14,259
+Car la véritable conséquence de cette théorie politique
+
+94
+00:05:14,259 --> 00:05:16,699
+se mesure directement dans le portefeuille de chacun :
+
+95
+00:05:16,699 --> 00:05:17,699
+les impôts.
+
+96
+00:05:17,699 --> 00:05:20,180
+Plus précisément, l'étude analyse l'impôt
+
+97
+00:05:20,180 --> 00:05:22,019
+foncier municipal sur les entreprises
+
+98
+00:05:22,019 --> 00:05:23,659
+introduit dans les années 90,
+
+99
+00:05:23,659 --> 00:05:26,420
+un sujet brûlant dans toutes les mairies.
+
+100
+00:05:26,420 --> 00:05:29,099
+Pour analyser les fluctuations des impôts,
+
+101
+00:05:29,099 --> 00:05:31,339
+les chercheurs ont observé une donnée empirique
+
+102
+00:05:31,339 --> 00:05:33,539
+brute et factuelle sur les budgets municipaux,
+
+103
+00:05:33,580 --> 00:05:35,460
+sans parti pris.
+
+104
+00:05:35,460 --> 00:05:37,660
+La tendance statistique est la suivante :
+
+105
+00:05:37,660 --> 00:05:40,420
+les administrations de centre-gauche ont tendance à imposer
+
+106
+00:05:40,420 --> 00:05:42,939
+des taux plus élevés sur l'immobilier des entreprises
+
+107
+00:05:42,939 --> 00:05:44,860
+afin de financer les services publics,
+
+108
+00:05:44,860 --> 00:05:46,900
+tandis que les administrations de centre-droit
+
+109
+00:05:46,900 --> 00:05:48,180
+ont tendance à les baisser.
+
+110
+00:05:48,180 --> 00:05:50,420
+Je répète, ce n'est pas un jugement de valeur,
+
+111
+00:05:50,420 --> 00:05:53,860
+c'est une donnée mathématique observée dans les budgets des communes italiennes.
+
+112
+00:05:53,860 --> 00:05:55,660
+Eh bien, imaginez ce qui se passe
+
+113
+00:05:55,660 --> 00:05:57,820
+lorsque la couleur politique de la ville change.
+
+114
+00:05:57,820 --> 00:05:59,100
+Dans les communes au scrutin à un tour,
+
+115
+00:05:59,100 --> 00:06:00,540
+une alternance politique provoque
+
+116
+00:06:00,540 --> 00:06:02,300
+de véritables montagnes russes fiscales.
+
+117
+00:06:02,340 --> 00:06:03,939
+Les impôts oscillent violemment
+
+118
+00:06:03,939 --> 00:06:06,340
+car le maire, otage des franges extrêmes,
+
+119
+00:06:06,340 --> 00:06:09,379
+doit céder à leurs exigences de changements drastiques.
+
+120
+00:06:09,379 --> 00:06:11,420
+Au contraire, dans les communes avec ballottage,
+
+121
+00:06:11,420 --> 00:06:12,579
+où le maire est modéré
+
+122
+00:06:12,579 --> 00:06:14,620
+et n'a pas de dette de coalition envers les extrémistes,
+
+123
+00:06:14,620 --> 00:06:17,460
+les impôts restent incroyablement stables et réguliers,
+
+124
+00:06:17,460 --> 00:06:19,220
+même si la ville passe de droite
+
+125
+00:06:19,220 --> 00:06:20,900
+à gauche ou vice-versa.
+
+126
+00:06:20,900 --> 00:06:23,019
+L'impact chiffré de cette stabilité
+
+127
+00:06:23,019 --> 00:06:24,819
+est pour le moins retentissant :
+
+128
+00:06:24,819 --> 00:06:26,460
+61 %.
+
+129
+00:06:26,460 --> 00:06:29,460
+L'étude nous indique que, dans les communes avec ballottage,
+
+130
+00:06:29,460 --> 00:06:30,860
+la volatilité des impôts
+
+131
+00:06:30,860 --> 00:06:33,900
+dans le temps chute de 61 %.
+
+132
+00:06:33,900 --> 00:06:36,139
+Imaginez que vous soyez un entrepreneur.
+
+133
+00:06:36,139 --> 00:06:38,139
+Vous passez de l'incertitude totale
+
+134
+00:06:38,139 --> 00:06:40,139
+quant aux impôts que vous paierez l'année prochaine
+
+135
+00:06:40,139 --> 00:06:42,500
+a un environnement prévisible et sûr.
+
+136
+00:06:42,500 --> 00:06:44,980
+Cette stabilité est le fruit direct de gouvernements
+
+137
+00:06:44,980 --> 00:06:46,620
+qui ne sont pas pris en otage,
+
+138
+00:06:46,620 --> 00:06:50,379
+libres des pressions constantes de leurs alliés radicaux.
+
+139
+00:06:50,379 --> 00:06:52,620
+Et attention, cela ne s'arrête pas là.
+
+140
+00:06:52,620 --> 00:06:55,819
+Les chercheurs ont également mesuré la volatilité transversale,
+
+141
+00:06:55,819 --> 00:06:57,740
+c'est-à-dire la différence de niveau fiscal
+
+142
+00:06:57,740 --> 00:07:00,660
+entre des communes très similaires au cours d'une même année.
+
+143
+00:07:00,660 --> 00:07:03,060
+Là encore, la chute est vertigineuse :
+
+144
+00:07:03,060 --> 00:07:05,060
+71 % de moins.
+
+145
+00:07:05,060 --> 00:07:06,939
+Cela signifie que le ballottage ne se limite pas
+
+146
+00:07:06,939 --> 00:07:08,860
+à calmer le jeu dans une seule commune,
+
+147
+00:07:08,860 --> 00:07:12,060
+mais qu'il harmonise et rend cohérentes les politiques économiques
+
+148
+00:07:12,060 --> 00:07:13,260
+entre différentes villes.
+
+149
+00:07:13,260 --> 00:07:16,260
+Créant ainsi un climat d'équilibre généralisé.
+
+150
+00:07:16,260 --> 00:07:17,460
+Arrivé à ce stade,
+
+151
+00:07:17,460 --> 00:07:19,900
+on a naturellement envie de se faire l'avocat du diable.
+
+152
+00:07:19,900 --> 00:07:21,620
+Les impôts ne sont-ils pas plus stables
+
+153
+00:07:21,620 --> 00:07:23,140
+simplement parce qu'avec le ballottage,
+
+154
+00:07:23,140 --> 00:07:25,460
+les maires restent plus longtemps au pouvoir ?
+
+155
+00:07:25,460 --> 00:07:26,660
+Une excellente objection
+
+156
+00:07:26,660 --> 00:07:28,460
+que l'étude a immédiatement testée.
+
+157
+00:07:28,460 --> 00:07:29,860
+Mais les données disent non.
+
+158
+00:07:29,860 --> 00:07:32,660
+Le renouvellement politique est virtuellement identique.
+
+159
+00:07:32,660 --> 00:07:35,259
+Les maires des communes de plus de 15 000 habitants
+
+160
+00:07:35,259 --> 00:07:36,860
+ne restent pas en fonction plus longtemps.
+
+161
+00:07:36,860 --> 00:07:38,660
+Les gouvernements tombent et se renouvellent
+
+162
+00:07:38,660 --> 00:07:40,220
+à la même fréquence exacte
+
+163
+00:07:40,220 --> 00:07:41,460
+dans les deux systèmes.
+
+164
+00:07:41,460 --> 00:07:43,420
+La stabilité fiscale n'est pas due à celui
+
+165
+00:07:43,420 --> 00:07:44,660
+qui s'accroche à son siège,
+
+166
+00:07:44,660 --> 00:07:47,259
+mais bien à la modération des politiques menées.
+
+167
+00:07:47,259 --> 00:07:48,860
+S'il fallait graver dans le marbre
+
+168
+00:07:48,860 --> 00:07:52,060
+la conclusion de cette étude, ce serait cette citation :
+
+169
+00:07:52,060 --> 00:07:54,060
+« Le ballottage réduit l'influence
+
+170
+00:07:54,060 --> 00:07:56,259
+des extrémistes et incite à la modération. »
+
+171
+00:07:56,259 --> 00:07:58,660
+Le lien de causalité est prouvé.
+
+172
+00:07:58,860 --> 00:08:00,460
+Si vous ôtez aux franges extrêmes
+
+173
+00:08:00,460 --> 00:08:03,460
+le pouvoir de vous faire chanter lors de la formation d'alliances,
+
+174
+00:08:03,460 --> 00:08:05,220
+vous obtenez immédiatement une économie locale
+
+175
+00:08:05,220 --> 00:08:06,860
+plus solide et prévisible.
+
+176
+00:08:06,860 --> 00:08:08,860
+Ce n'est pas une théorie en l'air,
+
+177
+00:08:08,860 --> 00:08:11,260
+c'est un mécanisme institutionnel extrêmement puissant
+
+178
+00:08:11,260 --> 00:08:12,060
+qui sert de bouclier
+
+179
+00:08:12,060 --> 00:08:14,860
+à notre économie contre les secousses inutiles.
+
+180
+00:08:14,860 --> 00:08:15,860
+Section 2.
+
+181
+00:08:15,860 --> 00:08:17,460
+Un frein aux extrémismes.
+
+182
+00:08:17,460 --> 00:08:19,460
+Des leçons pour les institutions.
+
+183
+00:08:19,460 --> 00:08:20,860
+Prenons un peu de recul
+
+184
+00:08:20,860 --> 00:08:23,660
+pour regarder la forêt plutôt que l'arbre.
+
+185
+00:08:23,660 --> 00:08:25,860
+Cette gigantesque expérience naturelle italienne
+
+186
+00:08:25,860 --> 00:08:26,860
+est une leçon d'or
+
+187
+00:08:26,860 --> 00:08:29,460
+pour la conception des démocraties à travers le monde.
+
+188
+00:08:29,460 --> 00:08:30,660
+Comprendre comment il suffit de modifier
+
+189
+00:08:30,660 --> 00:08:33,060
+une règle de vote pour désamorcer la polarisation
+
+190
+00:08:33,060 --> 00:08:34,460
+est une découverte cruciale,
+
+191
+00:08:34,460 --> 00:08:35,860
+surtout de nos jours,
+
+192
+00:08:35,860 --> 00:08:38,860
+où l'extrémisme politique semble gagner du terrain un peu partout,
+
+193
+00:08:38,860 --> 00:08:41,860
+dans les pays développés comme dans les pays émergents.
+
+194
+00:08:41,860 --> 00:08:43,460
+D'ailleurs, nous savons tous très bien
+
+195
+00:08:43,460 --> 00:08:45,659
+qu'un extrémisme politique sans frein
+
+196
+00:08:45,659 --> 00:08:46,860
+cause des dégâts énormes.
+
+197
+00:08:46,860 --> 00:08:49,259
+L'étude nous le rappelle sans détour :
+
+198
+00:08:49,259 --> 00:08:51,060
+il réduit le bien-être général,
+
+199
+00:08:51,060 --> 00:08:52,659
+en particulier pour ceux qui recherchent la stabilité
+
+200
+00:08:52,659 --> 00:08:54,060
+pour vivre et travailler.
+
+201
+00:08:54,060 --> 00:08:55,659
+Il génère un climat social toxique
+
+202
+00:08:55,659 --> 00:08:57,259
+plein de désaccords constants
+
+203
+00:08:57,259 --> 00:09:00,259
+et, pire encore, il paralyse les processus décisionnels.
+
+204
+00:09:00,259 --> 00:09:02,459
+Un gouvernement bloqué par les vetos des factions extrêmes
+
+205
+00:09:02,459 --> 00:09:03,659
+ne décide tout simplement pas,
+
+206
+00:09:03,659 --> 00:09:05,459
+ce qui nuit à l'ensemble de la communauté.
+
+207
+00:09:05,459 --> 00:09:07,659
+Et cela nous laisse sur une interrogation finale
+
+208
+00:09:07,659 --> 00:09:09,259
+qui donne vraiment à réfléchir.
+
+209
+00:09:09,259 --> 00:09:11,860
+Si un seuil bureaucratique de 15 000 habitants,
+
+210
+00:09:11,860 --> 00:09:13,459
+un simple chiffre sur une feuille de papier,
+
+211
+00:09:13,459 --> 00:09:15,659
+a le pouvoir de bouleverser si profondément
+
+212
+00:09:15,659 --> 00:09:17,860
+l'économie et la politique de toute une ville,
+
+213
+00:09:17,860 --> 00:09:19,360
+quelles autres règles invisibles
+
+214
+00:09:19,360 --> 00:09:21,659
+façonnent en silence notre société ?
+
+215
+00:09:21,659 --> 00:09:23,659
+Quelle part de notre quotidien
+
+216
+00:09:23,659 --> 00:09:26,059
+est dictée par des rouages institutionnels cachés
+
+217
+00:09:26,059 --> 00:09:28,059
+que nous tenons totalement pour acquis ?
+
+218
+00:09:28,059 --> 00:09:29,659
+C'est une pensée provocatrice
+
+219
+00:09:29,659 --> 00:09:31,159
+qui nous invite à regarder les fondations mêmes
+
+220
+00:09:31,159 --> 00:09:32,860
+de nos démocraties
+
+221
+00:09:32,860 --> 00:09:34,659
+sous un jour complètement nouveau.
