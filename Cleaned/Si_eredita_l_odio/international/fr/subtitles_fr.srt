@@ -1,0 +1,407 @@
+1
+00:00:00,000 --> 00:00:03,040
+Commençons tout de suite notre nouvelle analyse.
+
+2
+00:00:03,040 --> 00:00:08,660
+Aujourd'hui, nous explorerons une étude économique rigoureuse publiée dans la prestigieuse revue PNAS
+
+3
+00:00:08,660 --> 00:00:12,160
+par les chercheurs Nico Voigtländer et Hans-Joachim Voth.
+
+4
+00:00:12,160 --> 00:00:13,320
+L'objectif ?
+
+5
+00:00:13,320 --> 00:00:16,199
+Explorer un sujet vraiment profond et complexe.
+
+6
+00:00:16,199 --> 00:00:20,400
+Les croyances et les attitudes peuvent-elles être modifiées à grande échelle
+
+7
+00:00:20,400 --> 00:00:25,280
+et, surtout, un endoctrinement historique peut-il laisser une empreinte mesurable
+
+8
+00:00:25,280 --> 00:00:28,480
+dans l'esprit des gens des décennies plus tard ?
+
+9
+00:00:28,640 --> 00:00:33,200
+En somme, l'immersion dans ces données révélera des dynamiques sociales cachées,
+
+10
+00:00:33,200 --> 00:00:38,640
+sur la façon dont les politiques du passé continuent inexorablement à façonner notre présent.
+
+11
+00:00:38,640 --> 00:00:43,560
+La grande question qui guide cette recherche est aussi simple que mystérieuse.
+
+12
+00:00:43,560 --> 00:00:48,120
+Des convictions extrêmes et des jugements peuvent-ils vraiment être inculqués au point de résister
+
+13
+00:00:48,120 --> 00:00:49,840
+pendant plus d'un demi-siècle ?
+
+14
+00:00:49,840 --> 00:04:04,040
+Pour résoudre cette énigme, l'étude laisse de côté les conjectures et s'en remet à la science
+
+15
+00:04:04,040 --> 00:00:55,439
+des données pure et dure.
+
+16
+00:00:55,479 --> 00:00:59,719
+Elle croise en effet des sondages d'opinion modernes avec des registres historiques ultra-détaillés.
+
+17
+00:00:59,719 --> 00:01:04,439
+C'est une approche méthodologique rigoureuse, parfaite pour comprendre la persistance culturelle dans le temps
+
+18
+00:01:04,439 --> 00:01:08,799
+et l'efficacité réelle d'un système visant à modifier l'esprit de toute une génération.
+
+19
+00:01:08,799 --> 00:01:13,719
+Et cela nous amène droit aux données contemporaines, le véritable point de départ de l'enquête.
+
+20
+00:01:13,719 --> 00:01:18,120
+Les chercheurs ont examiné les réponses d'un important sondage général allemand,
+
+21
+00:01:18,120 --> 00:01:24,239
+l'ALLBUS, en se concentrant en particulier sur les données collectées en 1996 et 2006.
+
+22
+00:01:24,239 --> 00:01:30,759
+Nous parlons d'un échantillon énorme, plus de 5 000 personnes interrogées réparties dans pas moins de 264 villes différentes.
+
+23
+00:01:30,759 --> 00:01:36,560
+Un bassin d'informations absolument fondamental pour mesurer de manière objective ce que pense la population,
+
+24
+00:01:36,560 --> 00:01:40,039
+de très nombreuses années après la fin du régime des années 30 et 40.
+
+25
+00:01:40,039 --> 00:01:43,879
+Désormais, les données modernes offrent un tableau qui donne vraiment à réfléchir.
+
+26
+00:01:43,879 --> 00:01:50,239
+Elles soulignent qu'une part significative de la population actuelle conserve aujourd'hui encore des visions négatives.
+
+27
+00:01:50,240 --> 00:01:54,240
+Face à des questions spécifiques, les réponses ont été révélatrices.
+
+28
+00:01:54,240 --> 00:02:02,840
+Par exemple, 25,7 % des personnes interrogées se sont dites mal à l'aise à l'idée d'un mariage mixte au sein de leur propre famille.
+
+29
+00:02:02,840 --> 00:02:09,360
+Et ce n'est pas tout, 21,5 % ont même affirmé qu'il ne devrait pas y avoir d'égalité des droits.
+
+30
+00:02:09,360 --> 00:02:14,840
+Mais il y a un chiffre en particulier sur lequel il convient de s'attarder, les 25 %.
+
+31
+00:02:14,840 --> 00:02:20,759
+Un quart de la population analysée nourrissait encore des opinions allant de légèrement à fortement négatives.
+
+32
+00:02:20,759 --> 00:02:24,759
+Les chercheurs définissent cela comme une mesure de préjugé large.
+
+33
+00:02:24,759 --> 00:02:26,199
+C'est un chiffre incroyable, n'est-ce pas ?
+
+34
+00:02:26,199 --> 00:02:28,280
+Et cela épaissit énormément le mystère.
+
+35
+00:02:28,280 --> 00:02:34,039
+Surtout si l'on pense que ces données ont été collectées 50 ans après la chute de ce système de pouvoir.
+
+36
+00:02:34,039 --> 00:02:37,080
+D'où vient cette dispersion d'opinions si ancrée ?
+
+37
+00:02:37,080 --> 00:02:42,080
+L'analyse économique nous suggère de regarder en arrière, vers la période durant laquelle ces personnes se sont formées.
+
+38
+00:02:42,160 --> 00:02:45,960
+Pour trouver la racine du problème, faisons un bond dans le passé,
+
+39
+00:02:45,960 --> 00:02:49,640
+en braquant les projecteurs directement sur l'impact des années 30.
+
+40
+00:02:49,640 --> 00:02:55,960
+L'attention de l'étude se concentre précisément sur ces cohortes démographiques spécifiques nées à cette époque.
+
+41
+00:02:55,960 --> 00:03:04,400
+Nous parlons de personnes qui ont vécu leurs années de formation sous un appareil d'État qui faisait de l'endoctrinement racial son pilier absolu.
+
+42
+00:03:04,400 --> 00:03:11,400
+La théorie de base est claire : quiconque a grandi durant cette décennie a été exposé à un conditionnement idéologique extrême.
+
+43
+00:03:11,439 --> 00:03:16,879
+À un âge où, comme nous le savons, l'esprit est extrêmement sensible aux influences extérieures.
+
+44
+00:03:16,879 --> 00:03:20,879
+En regardant ce graphique extrait directement du document original,
+
+45
+00:03:20,879 --> 00:03:23,960
+le résultat de cette exposition saute immédiatement aux yeux.
+
+46
+00:03:23,960 --> 00:03:26,120
+Il y a une donnée anormale impressionnante.
+
+47
+00:03:26,120 --> 00:03:31,640
+La cohorte née dans les années 30 présente près de 10 % d'extrémistes convaincus.
+
+48
+00:03:31,640 --> 00:03:38,240
+C'est une proportion qui s'avère deux à trois fois supérieure à celle des générations nées après 1950.
+
+49
+00:03:38,360 --> 00:03:44,240
+Les chercheurs font remarquer que, même en tenant compte de facteurs tels que le niveau d'éducation ou la situation économique,
+
+50
+00:03:44,240 --> 00:03:49,159
+ceux qui sont nés durant ces années ont exactement deux fois plus de chances d'avoir des opinions extrêmes.
+
+51
+00:03:49,159 --> 00:03:53,080
+Mais derrière les statistiques, il y a évidemment des vies humaines.
+
+52
+00:03:53,080 --> 00:03:56,840
+Les mémoires historiques nous aident à donner un visage à ces concepts.
+
+53
+00:03:56,840 --> 00:04:03,120
+Pensons à cet extrait du livre d'Alfons Heck, qui faisait partie des organisations de jeunesse de l'époque lorsqu'il était enfant.
+
+54
+00:04:03,120 --> 00:04:09,879
+Il écrit : « nous avalions notre dose quotidienne d'instruction nationaliste aussi naturellement que le lait du matin. »
+
+55
+00:04:09,879 --> 00:04:13,439
+L'endoctrinement commençait très tôt, à 5 ou 6 ans.
+
+56
+00:04:13,439 --> 00:04:20,680
+Il suffit de penser que le manuel officiel pour l'instruction de la jeunesse consacrait pas moins de 45 de ses 105 pages à la seule idéologie raciale.
+
+57
+00:04:20,680 --> 00:04:24,360
+C'était une pratique quotidienne omniprésente et incontournable.
+
+58
+00:04:24,360 --> 00:04:29,480
+À ce stade, nous pourrions nous demander quel média a eu le plus d'impact.
+
+59
+00:04:29,600 --> 00:04:33,480
+En comparant les différentes formes de propagande de l'époque, un écart net apparaît.
+
+60
+00:04:33,480 --> 00:04:39,280
+D'un côté, il y avait la radio et le cinéma, considérés comme étant à l'avant-garde, de l'autre, les méthodes traditionnelles,
+
+61
+00:04:39,280 --> 00:04:42,280
+à savoir l'instruction obligatoire et les groupes de jeunesse.
+
+62
+00:04:42,280 --> 00:04:46,720
+Eh bien, en croisant les données sur les abonnés à la radio et les billets de cinéma par habitant,
+
+63
+00:04:46,720 --> 00:04:51,720
+l'étude démontre que l'accès local aux médias avait, incroyablement, un faible pouvoir prédictif.
+
+64
+00:04:51,720 --> 00:04:59,439
+Au contraire, ce sont les écoles et les organisations de jeunesse qui se sont révélées extraordinairement efficaces pour façonner de manière permanente la mentalité d'une génération.
+
+65
+00:04:59,920 --> 00:05:07,000
+Et nous arrivons ici à la pièce finale, peut-être la plus surprenante de cette enquête : le poids des préjugés préexistants.
+
+66
+00:05:07,000 --> 00:05:12,279
+Les économistes ont en effet découvert l'ingrédient secret qui a démesurément amplifié cet effet.
+
+67
+00:05:12,279 --> 00:05:18,439
+En pratique, ils se sont demandé pourquoi, dans certaines villes, l'éducation du régime a fonctionné à la perfection,
+
+68
+00:05:18,439 --> 00:05:21,720
+alors que dans d'autres, l'impact a été beaucoup plus limité.
+
+69
+00:05:21,720 --> 00:05:28,279
+La réponse ne réside pas seulement dans le message transmis, ma dans le terreau historique sur lequel ces graines étaient semées.
+
+70
+00:05:28,400 --> 00:05:37,360
+Pour prouver cette théorie, l'enquête creuse encore plus loin dans le passé, en analysant les registres de vote historiques bien avant la montée du régime.
+
+71
+00:05:37,360 --> 00:05:43,840
+Nous parlons d'années où, déjà après 1870, des pétitions discriminatoires commencèrent à circuler,
+
+72
+00:05:43,840 --> 00:05:48,640
+comme celle présentée à Bismarck, qui a recueilli pas moins de 265 000 signatures.
+
+73
+00:05:48,640 --> 00:05:57,120
+Puis, entre 1890 et 1912, des élections ont commencé à voir des partis radicaux obtenir un fort soutien dans des zones spécifiques,
+
+74
+00:05:57,120 --> 00:06:00,920
+allant jusqu'à dépasser 40 % des voix dans certains districts.
+
+75
+00:06:00,920 --> 00:06:05,879
+Et regardez ce qui se passe lorsque l'on met en relation les votes de la fin du XIXe siècle avec les sondages des années 90,
+
+76
+00:06:05,879 --> 00:06:08,000
+une nette corrélation apparaît.
+
+77
+00:06:08,000 --> 00:06:12,399
+Le niveau d'intolérance dans le monde contemporain est infiniment plus élevé dans les zones qui,
+
+78
+00:06:12,399 --> 00:06:16,759
+historiquement, avaient soutenu des partis discriminatoires plus d'un siècle auparavant.
+
+79
+00:06:16,759 --> 00:06:21,000
+Dans les localités qui se situaient dans le tiers supérieur en termes de soutien électoral radical,
+
+80
+00:06:21,000 --> 00:06:23,639
+les extrémistes modernes frôlent les 8 %.
+
+81
+00:06:23,639 --> 00:06:29,680
+Nous parlons d'une augmentation de pas moins de 4 fois par rapport aux zones où ce soutien historique dépassait à peine les 2 %.
+
+82
+00:06:29,680 --> 00:06:34,919
+Les auteurs du document analysent ce phénomène en le qualifiant d'effet d'amplification.
+
+83
+00:06:34,919 --> 00:06:39,719
+En résumé, les institutions et les écoles ont agi comme un multiplicateur géant,
+
+84
+00:06:39,719 --> 00:06:44,399
+là même où le préjugé était déjà présent au sein des familles et des communautés.
+
+85
+00:06:44,399 --> 00:06:46,519
+D'un point de vue économique et psychologique,
+
+86
+00:06:46,519 --> 00:06:49,879
+c'est une preuve sans équivoque de la puissance du biais de confirmation.
+
+87
+00:06:49,879 --> 00:06:54,399
+La propagande n'agit pas dans le vide : elle s'accroche et s'appuie sur des croyances préexistantes,
+
+88
+00:06:54,399 --> 00:06:59,240
+déclenchant une transmission culturelle durable qui se transmet de génération en génération.
+
+89
+00:06:59,240 --> 00:07:05,360
+En fin de compte, la recherche confirme que ces anciennes politiques scolaires ne se sont pas du tout volatilisées,
+
+90
+00:07:05,360 --> 00:07:08,879
+mais qu'elles ont généré un véritable écho dans notre société moderne.
+
+91
+00:07:08,879 --> 00:07:13,680
+Un écho que l'on peut mesurer mathématiquement même chez les générations nées des décennies plus tard,
+
+92
+00:07:13,680 --> 00:07:17,560
+comme en 1965 ou en 1975.
+
+93
+00:07:17,560 --> 00:07:22,040
+Ces enfants des années 30, une fois adultes, ont fondé des familles et des communautés,
+
+94
+00:07:22,040 --> 00:07:26,839
+transmettant à leur tour des préjugés puissamment amplifiés par le biais de confirmation.
+
+95
+00:07:26,839 --> 00:07:30,519
+Et cela ferme le cercle de notre explication,
+
+96
+00:07:30,519 --> 00:07:35,519
+en nous laissant toutefois sur une réflexion très profonde, tirée des données qui en ressortent.
+
+97
+00:07:35,519 --> 00:07:42,360
+À la lumière de ces chiffres, à quel point la société d'aujourd'hui s'avère-t-elle vulnérable à la transmission culturelle des convictions,
+
+98
+00:07:42,360 --> 00:07:45,319
+l'ombre portée de l'histoire et le pouvoir de l'éducation,
+
+99
+00:07:45,319 --> 00:07:49,639
+nous prouvent que les idées ancrées dans le tissu social exigent des décennies,
+
+100
+00:07:49,639 --> 00:07:52,639
+voire des siècles, pour être comprises et déconstruites.
+
+101
+00:07:52,639 --> 00:07:54,680
+Les convictions s'héritent, c'est vrai,
+
+102
+00:07:54,680 --> 00:07:59,879
+mais la conscience objective des données peut être le premier grand pas pour briser cette chaîne.

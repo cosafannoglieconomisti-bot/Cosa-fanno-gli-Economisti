@@ -1,0 +1,407 @@
+1
+00:00:00,000 --> 00:00:03,040
+Let's start our new analysis right away.
+
+2
+00:00:03,040 --> 00:00:08,660
+Today we will explore a rigorous economic study published in the prestigious journal PNAS
+
+3
+00:00:08,660 --> 00:00:12,160
+by researchers Niko Voidglender and Anzio Akinvott.
+
+4
+00:00:12,160 --> 00:00:13,320
+The goal?
+
+5
+00:00:13,320 --> 00:00:16,199
+To explore a truly profound and complex topic.
+
+6
+00:00:16,199 --> 00:00:20,400
+Can beliefs and attitudes be modified on a large scale
+
+7
+00:00:20,400 --> 00:00:25,280
+and, above all, can historical indoctrination leave a measurable imprint
+
+8
+00:00:25,280 --> 00:00:28,480
+in the minds of people decades later?
+
+9
+00:00:28,640 --> 00:00:33,200
+In short, diving into this data will reveal hidden social dynamics,
+
+10
+00:00:33,200 --> 00:00:38,640
+of how past policies inexorably continue to shape our present.
+
+11
+00:00:38,640 --> 00:00:43,560
+The big question driving this research is as simple as it is mysterious.
+
+12
+00:00:43,560 --> 00:00:48,120
+Can extreme prejudices and beliefs really be inculcated to the point of enduring
+
+13
+00:00:48,120 --> 00:00:49,840
+for over half a century?
+
+14
+00:00:49,840 --> 00:00:54,040
+To solve this puzzle, the study sets aside guesswork and relies on the science
+
+15
+00:00:54,040 --> 00:00:55,439
+of pure and raw data.
+
+16
+00:00:55,479 --> 00:00:59,719
+Indeed, it cross-references modern opinion surveys with highly detailed historical records.
+
+17
+00:00:59,719 --> 00:01:04,439
+It is a rigorous methodological approach, perfect for understanding cultural persistence over time
+
+18
+00:01:04,439 --> 00:01:08,799
+and the actual effectiveness of a system aimed at modifying the mind of an entire generation.
+
+19
+00:01:08,799 --> 00:01:13,719
+And this brings us straight to the contemporary data, the true starting point of the investigation.
+
+20
+00:01:13,719 --> 00:01:18,120
+The researchers examined responses from an important German general social survey,
+
+21
+00:01:18,120 --> 00:01:24,239
+ALLBUS, focusing in particular on data collected in 1996 and 2006.
+
+22
+00:01:24,239 --> 00:01:30,759
+We are talking about a huge sample, over 5,000 respondents spread across 264 different cities.
+
+23
+00:01:30,759 --> 00:01:36,560
+An absolutely fundamental pool of information to objectively measure what the population thinks,
+
+24
+00:01:36,560 --> 00:01:40,039
+many years after the end of the regime of the 1930s and '40s.
+
+25
+00:01:40,039 --> 00:01:43,879
+Now, modern data offers a truly thought-provoking picture.
+
+26
+00:01:43,879 --> 00:01:50,239
+They highlight that a significant portion of today's population still holds negative views today.
+
+27
+00:01:50,240 --> 00:01:54,240
+When faced with specific questions, the answers were revealing.
+
+28
+00:01:54,240 --> 00:02:02,840
+For example, 25.7% of respondents said they would feel uncomfortable with the idea of an intermarriage within their own family.
+
+29
+00:02:02,840 --> 00:02:09,360
+And not only that, 21.5% even stated that there should not be equal rights.
+
+30
+00:02:09,360 --> 00:02:14,840
+But there is one number in particular worth dwelling on: 25%.
+
+31
+00:02:14,840 --> 00:02:20,759
+A quarter of the analyzed population still harbored mildly to strongly negative opinions.
+
+32
+00:02:20,759 --> 00:02:24,759
+The researchers define this as a broad measure of prejudice.
+
+33
+00:02:24,759 --> 00:02:26,199
+That is an incredible figure, isn't it?
+
+34
+00:02:26,199 --> 00:02:28,280
+And it deepens the mystery enormously.
+
+35
+00:02:28,280 --> 00:02:34,039
+Especially when we consider that this data was collected 50 years after the fall of this power system.
+
+36
+00:02:34,039 --> 00:02:37,080
+Where does this deep-rooted dispersion of opinions come from?
+
+37
+00:02:37,080 --> 00:02:42,080
+Economic analysis suggests we look back to the period when those people were formed.
+
+38
+00:02:42,160 --> 00:02:45,960
+To find the root of the problem, let's take a leap back in time,
+
+39
+00:02:45,960 --> 00:02:49,640
+shining the spotlight directly on the impact of the 1930s.
+
+40
+00:02:49,640 --> 00:02:55,960
+The study's focus is on those specific demographic cohorts born during that era.
+
+41
+00:02:55,960 --> 00:03:04,400
+We are talking about people who lived their formative years under a state apparatus that made racial indoctrination its absolute pillar.
+
+42
+00:03:04,400 --> 00:03:11,400
+The basic theory is clear: those who grew up in that decade were exposed to extreme ideological conditioning.
+
+43
+00:03:11,439 --> 00:03:16,879
+At an age when, as we know, the mind is extremely susceptible to external influences.
+
+44
+00:03:16,879 --> 00:03:20,879
+Looking at this graph extracted directly from the original document,
+
+45
+00:03:20,879 --> 00:03:23,960
+the result of that exposure immediately catches the eye.
+
+46
+00:03:23,960 --> 00:03:26,120
+There is an impressive anomaly in the data.
+
+47
+00:03:26,120 --> 00:03:31,640
+The cohort born in the 1930s has nearly 10% committed extremists.
+
+48
+00:03:31,640 --> 00:03:38,240
+This share is two to three times higher than generations born after 1950.
+
+49
+00:03:38,360 --> 00:03:44,240
+The researchers point out that even when accounting for factors such as education level or economic situation,
+
+50
+00:03:44,240 --> 00:03:49,159
+those born in those years are exactly twice as likely to hold extreme views.
+
+51
+00:03:49,159 --> 00:03:53,080
+But behind the statistics, of course, there are human lives.
+
+52
+00:03:53,080 --> 00:03:56,840
+Historical memoirs help us put a face to these concepts.
+
+53
+00:03:56,840 --> 00:04:03,120
+Consider this excerpt from the book by Alfons Heck, who as a young boy was part of the youth organizations of the time.
+
+54
+00:04:03,120 --> 00:04:09,879
+He writes: "we swallowed our daily dose of nationalist instruction as naturally as our morning milk."
+
+55
+00:04:09,879 --> 00:04:13,439
+Indoctrination began very early, at 5 or 6 years old.
+
+56
+00:04:13,439 --> 00:04:20,680
+Just consider that the official youth training manual dedicated 45 of its 105 pages solely to racial ideology.
+
+57
+00:04:20,680 --> 00:04:24,360
+It was a pervasive and inescapable daily practice.
+
+58
+00:04:24,360 --> 00:04:29,480
+At this point we might ask ourselves which medium was more impactful.
+
+59
+00:04:29,600 --> 00:04:33,480
+Comparing the various forms of propaganda at the time, a clear gap emerges.
+
+60
+00:04:33,480 --> 00:04:39,280
+On one hand, there were radio and cinema, considered state-of-the-art, and on the other, traditional methods,
+
+61
+00:04:39,280 --> 00:04:42,280
+namely compulsory education and youth groups.
+
+62
+00:04:42,280 --> 00:04:46,720
+Well, by cross-referencing data on radio subscribers and cinema tickets per capita,
+
+63
+00:04:46,720 --> 00:04:51,720
+the study shows that local access to media, incredibly, had poor predictive power.
+
+64
+00:04:51,720 --> 00:04:59,439
+On the contrary, it was schools and youth organizations that proved extraordinarily effective in permanently shaping the mindset of a generation.
+
+65
+00:04:59,920 --> 00:05:07,000
+And here we come to the final, perhaps most surprising piece of this investigation: the weight of pre-existing prejudices.
+
+66
+00:05:07,000 --> 00:05:12,279
+Economists have indeed discovered the secret ingredient that greatly amplified this effect.
+
+67
+00:05:12,279 --> 00:05:18,439
+In practice, they wondered why regime education worked perfectly in some cities,
+
+68
+00:05:18,439 --> 00:05:21,720
+while in others the impact was much more limited.
+
+69
+00:05:21,720 --> 00:05:28,279
+The answer lies not only in the message transmitted, but in the historical soil in which those seeds were sown.
+
+70
+00:05:28,400 --> 00:05:37,360
+To prove this theory, the investigation digs even deeper into the past, analyzing historical voting records long before the rise of the regime.
+
+71
+00:05:37,360 --> 00:05:43,840
+We are talking about years in which, as early as after 1870, discriminatory petitions began to circulate,
+
+72
+00:05:43,840 --> 00:05:48,640
+such as the one presented to Bismarck, which gathered as many as 265,000 signatures.
+
+73
+00:05:48,640 --> 00:05:57,120
+Then, between 1890 and 1912, elections began to appear where radical parties gained strong support in specific areas,
+
+74
+00:05:57,120 --> 00:06:00,920
+in some districts exceeding 40% of the vote.
+
+75
+00:06:00,920 --> 00:06:05,879
+And look what happens when we correlate the votes from the late 19th century with the surveys of the 1990s,
+
+76
+00:06:05,879 --> 00:06:08,000
+a clear correlation emerges.
+
+77
+00:06:08,000 --> 00:06:12,399
+The level of intolerance in the contemporary world is enormously higher in those areas that,
+
+78
+00:06:12,399 --> 00:06:16,759
+historically, had supported discriminatory parties over a century earlier.
+
+79
+00:06:16,759 --> 00:06:21,000
+In localities that fell into the top third for radical electoral support,
+
+80
+00:06:21,000 --> 00:06:23,639
+modern extremists are close to 8%.
+
+81
+00:06:23,639 --> 00:06:29,680
+This represents a fourfold increase compared to areas where that historical support was just over 2%.
+
+82
+00:06:29,680 --> 00:06:34,919
+The authors of the paper analyze this phenomenon, defining it as the amplification effect.
+
+83
+00:06:34,919 --> 00:06:39,719
+In short, institutions and schools acted as a giant multiplier,
+
+84
+00:06:39,719 --> 00:06:44,399
+precisely where prejudice was already present in families and communities.
+
+85
+00:06:44,399 --> 00:06:46,519
+From an economic and psychological point of view,
+
+86
+00:06:46,519 --> 00:06:49,879
+this is unequivocal proof of the power of confirmation bias.
+
+87
+00:06:49,879 --> 00:06:54,399
+Propaganda does not act in a vacuum; it clings to and leverages pre-existing beliefs,
+
+88
+00:06:54,399 --> 00:06:59,240
+triggering a lasting cultural transmission passed down from generation to generation.
+
+89
+00:06:59,240 --> 00:07:05,360
+To sum up, the research confirms that those old school policies have by no means vanished into thin air,
+
+90
+00:07:05,360 --> 00:07:08,879
+but have generated a true echo in our modern society.
+
+91
+00:07:08,879 --> 00:07:13,680
+An echo that we can mathematically measure even in generations born decades later,
+
+92
+00:07:13,680 --> 00:07:17,560
+such as in 1965 or 1975.
+
+93
+00:07:17,560 --> 00:07:22,040
+Those children of the 1930s, once grown, formed families and communities,
+
+94
+00:07:22,040 --> 00:07:26,839
+transmitting in turn prejudices powerfully amplified by confirmation bias.
+
+95
+00:07:26,839 --> 00:07:30,519
+And this closes the circle of our explanation,
+
+96
+00:07:30,519 --> 00:07:35,519
+leaving us, however, with a very profound reflection drawn from the emerging data.
+
+97
+00:07:35,519 --> 00:07:42,360
+In light of these numbers, how vulnerable is society today to the cultural transmission of beliefs?
+
+98
+00:07:42,360 --> 00:07:45,319
+The long shadow of history and the power of education
+
+99
+00:07:45,319 --> 00:07:49,639
+show us that deeply rooted ideas in the social fabric require decades,
+
+100
+00:07:49,639 --> 00:07:52,639
+if not centuries, to be understood and deconstructed.
+
+101
+00:07:52,639 --> 00:07:54,680
+Beliefs are inherited, it is true,
+
+102
+00:07:54,680 --> 00:07:59,879
+but an objective awareness of the data can be the first great step toward breaking this chain.
