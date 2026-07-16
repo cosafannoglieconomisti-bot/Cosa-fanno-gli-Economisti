@@ -2,11 +2,11 @@ import os
 import sys
 import json
 import pickle
+import re
 from dotenv import load_dotenv
 from googleapiclient.discovery import build
 from google.auth.transport.requests import Request
 from google_auth_oauthlib.flow import InstalledAppFlow
-from google import genai
 
 # Root path for absolute references
 ROOT_PATH = "/Users/<USER>/Desktop/canale"
@@ -27,6 +27,16 @@ def load_playlist_config():
 
 PLAYLISTS_CONFIG = load_playlist_config()
 PLAYLISTS_TITLES = list(PLAYLISTS_CONFIG["playlists"].keys())
+PLAYLIST_KEYWORDS = {
+    "Economia del Crimine e Mafie": {"mafia", "mafie", "crimine", "criminalita", "corruzione", "narcos", "carcere", "violenza", "omicidi", "immigrati"},
+    "Economia Politica e Istituzioni": {"istituzioni", "democrazia", "politica", "stato", "governo", "fascismo", "comunismo", "corruption", "populismo", "partiti"},
+    "Storia Economica e Sviluppo": {"storia", "storico", "sviluppo", "industrialization", "enlightenment", "secoli", "guerre", "bronzo", "terremoto"},
+    "Economia della Cultura, Società e Religione": {"chiesa", "religione", "cultura", "patriarcato", "folklore", "integrazione", "fede"},
+    "Economia del Lavoro, Discriminazione e Disuguaglianze": {"lavoro", "discriminazione", "genere", "talento", "robot", "razzismo", "salari", "occupazione"},
+    "Economia Pubblica, Welfare e Demografia": {"fertility", "natalita", "figli", "pensione", "welfare", "demografia", "standard of living", "benessere"},
+    "Economia dei Media e dello Sport": {"tv", "giornali", "media", "sport", "calcio", "tifosi"},
+    "I Migliori Video di Cosa Fanno Gli Economisti": set(),
+}
 
 def get_authenticated_service():
     creds = None
@@ -200,56 +210,31 @@ def add_video_to_playlist(youtube, playlist_id, video_id):
         print(f"Errore nell'aggiunta del video {video_id}: {e}")
         return False
 
-def categorize_video_with_gemini(video_title, video_description=""):
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        print("GEMINI_API_KEY non trovata.")
-        return PLAYLISTS_TITLES[0] # Fallback
-        
-    client = genai.Client(api_key=api_key)
-    playlists_with_desc = []
-    for p, data in PLAYLISTS_CONFIG["playlists"].items():
-        desc = data.get("description", "")
-        playlists_with_desc.append(f"- {p}: {desc}")
-    playlists_str = "\n".join(playlists_with_desc)
-    
-    prompt = f"""
-Sei un assistente editoriale per il canale YouTube "Cosa fanno gli economisti".
-Il tuo compito è categorizzare un nuovo video in una delle playlist tematiche esistenti.
+def normalize_tokens(text):
+    cleaned = re.sub(r"[^a-zA-Z0-9àèéìòùÀÈÉÌÒÙ ]+", " ", text.lower())
+    replacements = {
+        "criminalità": "criminalita",
+        "società": "societa",
+        "più": "piu",
+        "natalità": "natalita",
+    }
+    for source, target in replacements.items():
+        cleaned = cleaned.replace(source, target)
+    return set(token for token in cleaned.split() if len(token) > 2)
 
-Titolo del video: "{video_title}"
-Descrizione/Contenuto: "{video_description}"
 
-Le playlist predefinite e le loro descrizioni sono:
-{playlists_str}
-
-Rispondi con il nome della playlist più adatta tra quelle elencate. 
-IMPORTANTE: Se nessuna delle playlist esistenti è adatta all'argomento (es. è un tema totalmente nuovo), puoi proporre un NUOVO nome per una playlist (max 4-5 parole, stile accademico ma divulgativo).
-
-Rispondi SOLO ed ESCLUSIVAMENTE con il nome della playlist (quello esatto se esistente), senza virgolette e senza testo aggiuntivo.
-"""
-    try:
-        response = client.models.generate_content(
-            model='gemini-flash-latest',
-            contents=prompt
-        )
-        chosen = response.text.strip()
-        return chosen
-    except Exception as e:
-        error_str = str(e).lower()
-        if "429" in error_str or "quota" in error_str or "503" in error_str:
-            print("⚠️ Modello primario sovraccarico (429/503). Provo fall-back su gemini-2.5-flash...")
-            try:
-                response = client.models.generate_content(
-                    model='gemini-2.5-flash',
-                    contents=prompt
-                )
-                return response.text.strip()
-            except Exception as e2:
-                print(f"Errore Gemini (fall-back): {e2}")
-                return PLAYLISTS_TITLES[1]
-        print(f"Errore Gemini: {e}")
-        return PLAYLISTS_TITLES[1] # fallback
+def categorize_video(video_title, video_description=""):
+    tokens = normalize_tokens(f"{video_title} {video_description}")
+    best_playlist = PLAYLISTS_TITLES[0]
+    best_score = -1
+    for playlist_title in PLAYLISTS_TITLES:
+        keywords = set(PLAYLIST_KEYWORDS.get(playlist_title, set()))
+        keywords.update(normalize_tokens(PLAYLISTS_CONFIG["playlists"].get(playlist_title, {}).get("description", "")))
+        score = len(tokens & keywords)
+        if score > best_score:
+            best_score = score
+            best_playlist = playlist_title
+    return best_playlist
 
 def main():
     if len(sys.argv) < 2:
@@ -291,7 +276,7 @@ def main():
             
     print(f"Video identificato: {video_key} (ID: {youtube_id})")
     
-    # Recupera metadati per dare a Gemini info migliori
+    # Recupera metadati per migliorare il matching locale
     video_title = video_key.replace("_", " ")
     video_desc = ""
     metadata_path = os.path.join(ROOT_PATH, f"Cleaned/{video_key}/video_metadata.md")
@@ -304,8 +289,8 @@ def main():
         chosen_playlist = sys.argv[2]
         print(f"Uso playlist fornita da argomento: {chosen_playlist}")
     else:
-        chosen_playlist = categorize_video_with_gemini(video_title, video_desc)
-        print(f"Playlist scelta via Gemini: {chosen_playlist}")
+        chosen_playlist = categorize_video(video_title, video_desc)
+        print(f"Playlist scelta via regole locali: {chosen_playlist}")
     
     # Trova l'ID della playlist su YouTube
     existing_playlists = get_channel_playlists(youtube)

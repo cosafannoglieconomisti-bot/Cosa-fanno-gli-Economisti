@@ -1,0 +1,392 @@
+1
+00:00:00,000 --> 00:00:05,360
+Welcome to this new study, today we face a real economic mystery
+
+2
+00:00:05,360 --> 00:00:10,720
+which comes directly from the past. The goal, to understand what really comes out of it
+
+3
+00:00:10,720 --> 00:00:15,400
+industrial growth. In short, for a very long time it was believed that teaching was enough
+
+4
+00:00:15,400 --> 00:00:19,719
+to read and write to the majority of the population to boost the economy.
+
+5
+00:00:19,719 --> 00:00:24,480
+It seems totally logical, right, but the historical data, well, it tells a very, very story.
+
+6
+00:00:24,480 --> 00:00:28,760
+much more complex. We won't get lost in abstract concepts, but we will analyze together
+
+7
+00:00:28,760 --> 00:00:33,679
+empirical evidence that will completely overturn our conventions on education and development
+
+8
+00:00:33,679 --> 00:00:39,679
+technological. Let's get started. Ok, let's get to the heart of this matter by exploring a paradox
+
+9
+00:00:39,679 --> 00:00:45,120
+truly fascinating historian. Let's think about it for a moment, in the 18th century Britain has
+
+10
+00:00:45,120 --> 00:00:50,560
+literally kicked off the industrial revolution. Yet, surprisingly, its alphabetization
+
+11
+00:00:50,560 --> 00:00:55,560
+baseline was surprisingly low. In contrast, let's look at scandinavia, one
+
+12
+00:00:55,560 --> 00:00:59,840
+region that in the exact same period boasted an almost entirely capable population
+
+13
+00:00:59,840 --> 00:01:04,400
+to read and write, but which incredibly remained poor and economically backward
+
+14
+00:01:04,400 --> 00:01:08,879
+for a long time. How is it possible that the nation has educated people, has
+
+15
+00:01:08,879 --> 00:01:12,200
+built the world's first gigantic factories.
+
+16
+00:01:12,200 --> 00:01:19,719
+Section 1. The human capital paradox. Subtitle, alphabetisation against the knowledge elite.
+
+17
+00:01:19,719 --> 00:01:24,560
+A fantastic economic and squicharini research and you will unravel the mystery
+
+18
+00:01:24,560 --> 00:01:29,799
+clander, which solves the mystery by clearly separating the average skills of workers
+
+19
+00:01:29,799 --> 00:01:32,960
+from so-called high-end knowledge.
+
+20
+00:01:32,960 --> 00:01:38,320
+Let's try to understand this difference well, which is vital. On the one hand, on the left, we have
+
+21
+00:01:38,320 --> 00:01:44,000
+average literacy, very useful and essential for carrying out standard tasks
+
+22
+00:01:44,000 --> 00:01:48,920
+and move the economy along an already existing production curve. But on the right,
+
+23
+00:01:48,920 --> 00:01:54,799
+we find high-end knowledge, we talk about engineers, entrepreneurs, scientists,
+
+24
+00:01:54,799 --> 00:01:59,599
+in short, the real blackest ones. It was precisely the ingenuity of this highly minority
+
+25
+00:01:59,599 --> 00:02:04,439
+qualified to physically move the technological frontier forward, bringing the real
+
+26
+00:02:04,439 --> 00:02:05,439
+innovation.
+
+27
+00:02:05,439 --> 00:02:13,120
+Section 2. Measuring knowledge elite. Subtitle, clopedi enzymes as an indicator. And here
+
+28
+00:02:13,120 --> 00:02:17,840
+the researchers had a real stroke of genius, finding a perfect historical indicator
+
+29
+00:02:17,840 --> 00:02:22,599
+to measure this elite of knowledge in mid-eighteenth century France.
+
+30
+00:02:22,599 --> 00:02:29,080
+And this incredible indicator is summed up in a very precise number, 811. This is it
+
+31
+00:02:29,080 --> 00:02:33,000
+the exact number of subscriptions sold in French territory for the famous edition
+
+32
+00:02:33,000 --> 00:02:38,680
+quarter of clopedi enzymes. But why exactly this edition? Well, because compared to
+
+33
+00:02:38,680 --> 00:02:44,000
+previous molds, the quarto version was much cheaper. In practice, the very advance surrendered
+
+34
+00:02:44,000 --> 00:02:49,719
+mechanical and scientific knowledge, suddenly accessible to the progressive burguesia.
+
+35
+00:02:49,719 --> 00:02:54,439
+Whoever was looking for this volume, wasn't just looking for good reading, he was truly hungry
+
+36
+00:02:54,439 --> 00:02:58,240
+of applied science. To fully immerse ourselves in the mindset
+
+37
+00:02:58,240 --> 00:03:04,199
+of the time, let's listen to the words of Jean-Antoine Chaptal, an illustrious chemist and entrepreneur,
+
+38
+00:03:04,199 --> 00:03:10,520
+in 1819 he wrote. The genre of modern industrial production requires extensive knowledge
+
+39
+00:03:10,520 --> 00:03:16,400
+of mechanics. This combination of skills was only achieved in this period,
+
+40
+00:03:16,400 --> 00:03:22,160
+where the study of science is widely spread, accompanied by an intimate transcendent relationship
+
+41
+00:03:22,160 --> 00:03:28,120
+artisans. In short, the revolution required a crucial and constant dialogue between those who thought
+
+42
+00:03:28,120 --> 00:03:32,160
+the theoretical principles and those who physically built the machines.
+
+43
+00:03:32,639 --> 00:03:38,699
+Section 3. Data on urban growth. Subtitle, cities with subscribers versus cities without
+
+44
+00:03:38,699 --> 00:03:46,680
+subscribers 1750-1850. Let us now move from theory to raw empirical data, observing how the
+
+45
+00:03:46,680 --> 00:03:50,840
+subscriber density directly corresponded to the urban expansion at its very beginning
+
+46
+00:03:50,840 --> 00:03:56,479
+of French industrialization. And this brilliantly illustrates the extraordinary impact
+
+47
+00:03:56,479 --> 00:04:00,680
+of this elite. Analyzing the records, we see that the cities without any subscription
+
+48
+00:04:00,680 --> 00:04:05,060
+at the ensicyclopedi they recorded growth, which at the time was the best indicator of prosperity
+
+49
+00:04:05,060 --> 00:04:10,879
+economic, equal to 0.26 logarithmic points in an entire century. But let's look at the urban centers that
+
+50
+00:04:10,879 --> 00:04:16,480
+boasted subscribers, growth there dropped by 0.51 logarithmic points. In practice, the cities that
+
+51
+00:04:16,480 --> 00:04:20,840
+hosted these battles of knowledge expanded at approximately double the rate. Crazy.
+
+52
+00:04:20,840 --> 00:04:27,680
+Taking a look at the timeline, an absolutely crucial detail emerges. Before 1750,
+
+53
+00:04:27,680 --> 00:04:33,120
+growth was very slow, having rudiments in the city changed practically nothing, it didn't generate
+
+54
+00:04:33,120 --> 00:04:38,160
+material wealth, as long as the economy still ran on old technologies. The knowledge elite
+
+55
+00:04:38,160 --> 00:04:44,879
+it triggered massive growth only afterwards. When, after 1750, the global technological frontier
+
+56
+00:04:44,879 --> 00:04:50,460
+began to expand. Only then, suddenly, did the ansycloped read those advanced notions to him
+
+57
+00:04:50,460 --> 00:04:56,759
+they have become incredibly profitable. Of course, in any rigorous study one must ask not
+
+58
+00:04:56,759 --> 00:05:01,959
+is that there are other intervening factors that alter the data. The researchers verified everything,
+
+59
+00:05:01,959 --> 00:05:07,120
+they checked whether this growth was perhaps linked to a generic propensity for reading,
+
+60
+00:05:07,120 --> 00:05:11,759
+but no, sales of ordinary books or novels did not lead to more growth at all
+
+61
+00:05:11,759 --> 00:05:16,879
+industrial, only science did it. And what's even more incredible, not even the huge ones
+
+62
+00:05:16,879 --> 00:05:22,279
+institutional upheavals brought about by the French Revolution managed to undermine this very strong one
+
+63
+00:05:22,280 --> 00:05:29,360
+correlation between subscribers and development. Session 4. The impact on modern industry. Subtitle,
+
+64
+00:05:29,360 --> 00:05:37,000
+innovation and productivity. Now let's see exactly how to read in practice
+
+65
+00:05:37,000 --> 00:05:43,160
+an encyclopedia translates into industrial productivity. So the crucial point is how did a
+
+66
+00:05:43,160 --> 00:05:48,040
+large printed tome to transform into efficient blacksmiths and tangible productivity.
+
+67
+00:05:48,040 --> 00:05:53,819
+Simple, the scientific debate has directly generated colossal innovations. Let's think about
+
+68
+00:05:53,819 --> 00:05:58,560
+Antoine Lavoisier, who applied his chemical discoveries to the production of iron, changing for
+
+69
+00:05:58,560 --> 00:06:03,600
+always metallurgy, or to Claude Louis Bertole, who invented new methods from scratch
+
+70
+00:06:03,600 --> 00:06:09,040
+bleaching for the textile sector. And in agriculture, Camil Buove hires scientists for
+
+71
+00:06:09,040 --> 00:06:14,439
+apply a rigorous method to silkworm breeding. Insintesi, the scientific dialogue
+
+72
+00:06:14,439 --> 00:06:19,680
+created enormous entrepreneurial success. The definitive proof comes from a corporate gut feeling
+
+73
+00:06:19,680 --> 00:06:25,719
+conducted in 1839 on thousands of businesses. The data clearly shows that in highly
+
+74
+00:06:25,719 --> 00:06:30,839
+innovative, such as textiles or transport, the presence of those who studied the encyclopedias increased
+
+75
+00:06:30,839 --> 00:06:36,759
+productivity drastically, pushing wages through the roof. However, in traditional sectors, very low
+
+76
+00:06:36,759 --> 00:06:41,639
+innovation, such as leather processing, ceramics, the presence of scholars we did at the
+
+77
+00:06:41,639 --> 00:06:46,599
+worth the difference. In short, these fights served exclusively to govern and push
+
+78
+00:06:46,599 --> 00:06:51,759
+new technological frontiers. At this point an objection arises spontaneously. It's just these
+
+79
+00:06:51,759 --> 00:06:56,719
+subscribers were trivially the richest and could simply buy better equipment,
+
+80
+00:06:56,719 --> 00:07:01,639
+the study also clarifies this. Of course, owning physical capital was essential,
+
+81
+00:07:01,639 --> 00:07:06,519
+especially in heavy sectors, such as metallurgy, and it was complementary. But be careful, i
+
+82
+00:07:06,519 --> 00:07:11,680
+capital alone was not enough. Without human capital it's fun, without scientific know-how
+
+83
+00:07:11,680 --> 00:07:16,719
+to adopt and calibrate new technologies, bloated wallets were of no use, and
+
+84
+00:07:16,719 --> 00:07:21,839
+It was the union between resources and how scientific that made the real difference. Section 5.
+
+85
+00:07:21,839 --> 00:07:28,599
+Beyond basic literacy. Subtitle, the role of general education. All this
+
+86
+00:07:28,599 --> 00:07:34,560
+brings us back wonderfully to our initial paradox about literacy. Let's pull them
+
+87
+00:07:34,560 --> 00:07:39,519
+sums up this historical enigma. Middle literacy is absolutely fantastic for
+
+88
+00:07:39,519 --> 00:07:44,519
+raise basic productivity and increase everyone's income across the board, on this
+
+89
+00:07:44,519 --> 00:07:49,680
+there is no more where. But, on its own, it did not trigger industrial take-off. It took an elite
+
+90
+00:07:49,680 --> 00:07:54,319
+luminata, a small diverting minority who mastered the science of technology
+
+91
+00:07:54,319 --> 00:07:59,480
+to adopt the ideas of the front, trigger the true industrial revolution and lead
+
+92
+00:07:59,480 --> 00:08:04,400
+that accelerated growth rate. And this leaves us with a final reflection indeed
+
+93
+00:08:04,400 --> 00:08:10,640
+provocative. If in the 18th century divertice human capital was the essential spark
+
+94
+00:08:10,640 --> 00:08:15,400
+to ignite such a colossal change, we can deduce that the exact same thing applies
+
+95
+00:08:15,400 --> 00:08:20,680
+dynamics for today's world. In our current economic transitions between innate intelligence
+
+96
+00:08:20,680 --> 00:08:25,400
+artificial and digital, we could discover that the true driving force of development
+
+97
+00:08:25,400 --> 00:08:30,800
+contemporary, exactly as then, it is always the excellence of knowledge, a thank you
+
+98
+00:08:30,800 --> 00:08:33,639
+for having followed this in-depth study and until the next analysis.
+

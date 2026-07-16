@@ -1,0 +1,392 @@
+1
+00:00:00,000 --> 00:00:05,360
+Bienvenue dans cette nouvelle étude, nous sommes aujourd’hui confrontés à un véritable mystère économique
+
+2
+00:00:05,360 --> 00:00:10,720
+qui vient directement du passé. Le but, comprendre ce qui en ressort réellement
+
+3
+00:00:10,720 --> 00:00:15,400
+croissance industrielle. Bref, on a longtemps cru qu'enseigner suffisait
+
+4
+00:00:15,400 --> 00:00:19,719
+lire et écrire à la majorité de la population pour relancer l’économie.
+
+5
+00:00:19,719 --> 00:00:24,480
+Cela semble tout à fait logique, n’est-ce pas, mais les données historiques, eh bien, racontent une très, très histoire.
+
+6
+00:00:24,480 --> 00:00:28,760
+beaucoup plus complexe. Nous ne nous perdrons pas dans des concepts abstraits, mais nous analyserons ensemble
+
+7
+00:00:28,760 --> 00:00:33,679
+des preuves empiriques qui bouleverseront complètement nos conventions sur l’éducation et le développement
+
+8
+00:00:33,679 --> 00:00:39,679
+technologique. Commençons. Ok, entrons dans le vif du sujet en explorant un paradoxe
+
+9
+00:00:39,679 --> 00:00:45,120
+historien vraiment fascinant. Pensons-y un instant : au XVIIIe siècle, la Grande-Bretagne a
+
+10
+00:00:45,120 --> 00:00:50,560
+a littéralement déclenché la révolution industrielle. Pourtant, étonnamment, son alphabétisation
+
+11
+00:00:50,560 --> 00:00:55,560
+le niveau de référence était étonnamment bas. En revanche, regardons la Scandinavie, une
+
+12
+00:00:55,560 --> 00:00:59,840
+région qui, à la même période, comptait une population presque entièrement capable
+
+13
+00:00:59,840 --> 00:01:04,400
+savoir lire et écrire, mais qui restait incroyablement pauvre et économiquement arriéré
+
+14
+00:01:04,400 --> 00:01:08,879
+pendant longtemps. Comment est-il possible que la nation ait éduqué son peuple, qu'elle ait
+
+15
+00:01:08,879 --> 00:01:12,200
+construit les premières usines gigantesques du monde.
+
+16
+00:01:12,200 --> 00:01:19,719
+Section 1. Le paradoxe du capital humain. Sous-titre, alphabétisation contre l'élite du savoir.
+
+17
+00:01:19,719 --> 00:01:24,560
+Une fantastique recherche économique et squicharini et vous percerez le mystère
+
+18
+00:01:24,560 --> 00:01:29,799
+clander, qui résout le mystère en séparant clairement les compétences moyennes des travailleurs
+
+19
+00:01:29,799 --> 00:01:32,960
+à partir de connaissances dites haut de gamme.
+
+20
+00:01:32,960 --> 00:01:38,320
+Essayons de bien comprendre cette différence, qui est vitale. D'une part, à gauche, nous avons
+
+21
+00:01:38,320 --> 00:01:44,000
+alphabétisation moyenne, très utile et indispensable pour réaliser des tâches standards
+
+22
+00:01:44,000 --> 00:01:48,920
+et déplacer l’économie le long d’une courbe de production déjà existante. Mais à droite,
+
+23
+00:01:48,920 --> 00:01:54,799
+on retrouve des connaissances haut de gamme, on parle d'ingénieurs, d'entrepreneurs, de scientifiques,
+
+24
+00:01:54,799 --> 00:01:59,599
+bref, les vrais plus noirs. C'est précisément l'ingéniosité de ce groupe hautement minoritaire
+
+25
+00:01:59,599 --> 00:02:04,439
+qualifié pour faire avancer physiquement la frontière technologique, apportant le réel
+
+26
+00:02:04,439 --> 00:02:05,439
+innovation.
+
+27
+00:02:05,439 --> 00:02:13,120
+Section 2. Mesurer l’élite du savoir. Sous-titre, enzymes clopédes comme indicateur. Et ici
+
+28
+00:02:13,120 --> 00:02:17,840
+les chercheurs ont eu un véritable coup de génie en trouvant un parfait indicateur historique
+
+29
+00:02:17,840 --> 00:02:22,599
+pour mesurer cette élite du savoir dans la France du milieu du XVIIIe siècle.
+
+30
+00:02:22,599 --> 00:02:29,080
+Et cet incroyable indicateur se résume dans un nombre bien précis, 811. Ça y est
+
+31
+00:02:29,080 --> 00:02:33,000
+le nombre exact d'abonnements vendus sur le territoire français pour la célèbre édition
+
+32
+00:02:33,000 --> 00:02:38,680
+quart des enzymes clopédes. Mais pourquoi exactement cette édition ? Eh bien, parce que comparé à
+
+33
+00:02:38,680 --> 00:02:44,000
+moules précédents, la version quarto était beaucoup moins chère. En pratique, l’avancée même a cédé
+
+34
+00:02:44,000 --> 00:02:49,719
+connaissances mécaniques et scientifiques, soudainement accessibles à la burguesia progressiste.
+
+35
+00:02:49,719 --> 00:02:54,439
+Celui qui cherchait ce volume ne cherchait pas seulement une bonne lecture, il avait vraiment faim
+
+36
+00:02:54,439 --> 00:02:58,240
+des sciences appliquées. Pour s’immerger pleinement dans l’état d’esprit
+
+37
+00:02:58,240 --> 00:03:04,199
+de l'époque, écoutons les paroles de Jean-Antoine Chaptal, illustre chimiste et entrepreneur,
+
+38
+00:03:04,199 --> 00:03:10,520
+en 1819, écrit-il. Le genre de production industrielle moderne nécessite des connaissances approfondies
+
+39
+00:03:10,520 --> 00:03:16,400
+de la mécanique. Cette combinaison de compétences n'a été réalisée qu'au cours de cette période,
+
+40
+00:03:16,400 --> 00:03:22,160
+où l'étude des sciences est largement répandue, accompagnée d'une relation transcendante intime
+
+41
+00:03:22,160 --> 00:03:28,120
+artisans. Bref, la révolution a nécessité un dialogue crucial et constant entre ceux qui pensaient
+
+42
+00:03:28,120 --> 00:03:32,160
+les principes théoriques et ceux qui ont physiquement construit les machines.
+
+43
+00:03:32,639 --> 00:03:38,699
+Section 3. Données sur la croissance urbaine. Sous-titres, villes avec abonnés versus villes sans
+
+44
+00:03:38,699 --> 00:03:46,680
+abonnés 1750-1850. Passons maintenant de la théorie aux données empiriques brutes, en observant comment
+
+45
+00:03:46,680 --> 00:03:50,840
+la densité d'abonnés correspondait directement à l'expansion urbaine à ses tout débuts
+
+46
+00:03:50,840 --> 00:03:56,479
+de l’industrialisation française. Et cela illustre brillamment l’impact extraordinaire
+
+47
+00:03:56,479 --> 00:04:00,680
+of this elite. En analysant les registres, on constate que les villes sans abonnement
+
+48
+00:04:00,680 --> 00:04:05,060
+à l'ensicyclopédie, ils enregistrèrent une croissance qui était à l'époque le meilleur indicateur de prospérité
+
+49
+00:04:05,060 --> 00:04:10,879
+économique, égal à 0,26 point logarithmique sur un siècle entier. Mais regardons les centres urbains qui
+
+50
+00:04:10,879 --> 00:04:16,480
+se vantent les abonnés, la croissance y a chuté de 0,51 point logarithmique. En pratique, les villes qui
+
+51
+00:04:16,480 --> 00:04:20,840
+ont accueilli ces batailles de connaissances développées à un rythme environ deux fois plus rapide. Fou.
+
+52
+00:04:20,840 --> 00:04:27,680
+En jetant un coup d’œil à la chronologie, un détail absolument crucial apparaît. Avant 1750,
+
+53
+00:04:27,680 --> 00:04:33,120
+la croissance a été très lente, le fait d'avoir des rudiments dans la ville n'a pratiquement rien changé, cela n'a pas généré
+
+54
+00:04:33,120 --> 00:04:38,160
+richesse matérielle, tant que l’économie fonctionnerait encore sur de vieilles technologies. L'élite du savoir
+
+55
+00:04:38,160 --> 00:04:44,879
+ce n’est qu’après qu’elle a déclenché une croissance massive. Quand, après 1750, la frontière technologique mondiale
+
+56
+00:04:44,879 --> 00:04:50,460
+a commencé à s'étendre. C'est alors seulement que, tout à coup, l'ansyclopé lui lut ces notions avancées.
+
+57
+00:04:50,460 --> 00:04:56,759
+ils sont devenus incroyablement rentables. Bien entendu, dans toute étude rigoureuse, il ne faut pas se demander
+
+58
+00:04:56,759 --> 00:05:01,959
+est qu'il existe d'autres facteurs intermédiaires qui modifient les données. Les chercheurs ont tout vérifié,
+
+59
+00:05:01,959 --> 00:05:07,120
+ils ont vérifié si cette croissance était peut-être liée à une propension générique à la lecture,
+
+60
+00:05:07,120 --> 00:05:11,759
+mais non, les ventes de livres ou de romans ordinaires n’ont pas du tout entraîné une croissance plus importante
+
+61
+00:05:11,759 --> 00:05:16,879
+industriel, seule la science l'a fait. Et ce qui est encore plus incroyable, même pas les plus énormes
+
+62
+00:05:16,879 --> 00:05:22,279
+les bouleversements institutionnels provoqués par la Révolution française sont parvenus à mettre à mal ce très fort
+
+63
+00:05:22,280 --> 00:05:29,360
+corrélation entre les abonnés et le développement. Session 4. L'impact sur l'industrie moderne. Sous-titre,
+
+64
+00:05:29,360 --> 00:05:37,000
+innovation et productivité. Voyons maintenant exactement comment lire en pratique
+
+65
+00:05:37,000 --> 00:05:43,160
+une encyclopédie se traduit par productivité industrielle. Le point crucial est donc de savoir comment un
+
+66
+00:05:43,160 --> 00:05:48,040
+grand tome imprimé à transformer en forgerons efficaces et en productivité tangible.
+
+67
+00:05:48,040 --> 00:05:53,819
+Simple, le débat scientifique a directement généré des innovations colossales. Pensons à
+
+68
+00:05:53,819 --> 00:05:58,560
+Antoine Lavoisier, qui appliqua ses découvertes chimiques à la production du fer, changeant pour
+
+69
+00:05:58,560 --> 00:06:03,600
+toujours la métallurgie, ou à Claude Louis Bertole, qui inventa de toutes pièces de nouvelles méthodes
+
+70
+00:06:03,600 --> 00:06:09,040
+blanchiment pour le secteur textile. Et dans l'agriculture, Camil Buove engage des scientifiques pour
+
+71
+00:06:09,040 --> 00:06:14,439
+appliquer une méthode rigoureuse à l’élevage du ver à soie. Insintesi, le dialogue scientifique
+
+72
+00:06:14,439 --> 00:06:19,680
+créé un énorme succès entrepreneurial. La preuve définitive vient d’un instinct d’entreprise
+
+73
+00:06:19,680 --> 00:06:25,719
+menée en 1839 sur des milliers d'entreprises. Les données montrent clairement que dans des conditions hautement
+
+74
+00:06:25,719 --> 00:06:30,839
+innovants, comme le textile ou les transports, la présence de ceux qui étudiaient les encyclopédies s'est accrue
+
+75
+00:06:30,839 --> 00:06:36,759
+considérablement la productivité, faisant grimper les salaires à des niveaux astronomiques. Toutefois, dans les secteurs traditionnels, de très faibles
+
+76
+00:06:36,759 --> 00:06:41,639
+l'innovation, comme le traitement du cuir, la céramique, la présence d'universitaires que nous avons eue au
+
+77
+00:06:41,639 --> 00:06:46,599
+ça vaut la différence. Bref, ces combats servaient exclusivement à gouverner et à pousser
+
+78
+00:06:46,599 --> 00:06:51,759
+nouvelles frontières technologiques. C’est alors qu’une objection surgit spontanément. C'est juste ceux-là
+
+79
+00:06:51,759 --> 00:06:56,719
+les abonnés étaient trivialement les plus riches et pouvaient simplement acheter un meilleur équipement,
+
+80
+00:06:56,719 --> 00:07:01,639
+l’étude clarifie également cela. Bien entendu, posséder du capital physique était essentiel,
+
+81
+00:07:01,639 --> 00:07:06,519
+surtout dans les secteurs lourds, comme la métallurgie, et c'était complémentaire. Mais fais attention, je
+
+82
+00:07:06,519 --> 00:07:11,680
+Le capital seul ne suffit pas. Sans capital humain c'est amusant, sans savoir-faire scientifique
+
+83
+00:07:11,680 --> 00:07:16,719
+pour adopter et calibrer les nouvelles technologies, les portefeuilles gonflés n'étaient d'aucune utilité, et
+
+84
+00:07:16,719 --> 00:07:21,839
+C'est l'union entre les ressources et leur caractère scientifique qui a fait la véritable différence. Article 5.
+
+85
+00:07:21,839 --> 00:07:28,599
+Au-delà de l'alphabétisation de base. Sous-titre, le rôle de l'enseignement général. Tout ça
+
+86
+00:07:28,599 --> 00:07:34,560
+nous ramène à merveille à notre paradoxe initial concernant l’alphabétisation. Tirons-les
+
+87
+00:07:34,560 --> 00:07:39,519
+résume bien cette énigme historique. L'alphabétisation moyenne est absolument fantastique pour
+
+88
+00:07:39,519 --> 00:07:44,519
+accroître la productivité de base et augmenter le revenu de chacun à tous les niveaux, sur ce point
+
+89
+00:07:44,519 --> 00:07:49,680
+il n'y en a plus nulle part. Mais à lui seul, il n’a pas déclenché le décollage industriel. Il a fallu une élite
+
+90
+00:07:49,680 --> 00:07:54,319
+luminata, une petite minorité divertissante qui maîtrisait la science de la technologie
+
+91
+00:07:54,319 --> 00:07:59,480
+adopter les idées du front, déclencher la véritable révolution industrielle et diriger
+
+92
+00:07:59,480 --> 00:08:04,400
+ce taux de croissance accéléré. Et cela nous laisse effectivement avec une dernière réflexion
+
+93
+00:08:04,400 --> 00:08:10,640
+provocant. Si au XVIIIe siècle le capital humain était l’étincelle essentielle du divertissement
+
+94
+00:08:10,640 --> 00:08:15,400
+pour déclencher un changement aussi colossal, nous pouvons en déduire que la même chose s'applique exactement
+
+95
+00:08:15,400 --> 00:08:20,680
+dynamique du monde d'aujourd'hui. Dans nos transitions économiques actuelles entre intelligence innée
+
+96
+00:08:20,680 --> 00:08:25,400
+artificiel et numérique, nous pourrions découvrir que le véritable moteur du développement
+
+97
+00:08:25,400 --> 00:08:30,800
+contemporain, exactement comme alors, c'est toujours l'excellence du savoir, un merci
+
+98
+00:08:30,800 --> 00:08:33,639
+d'avoir suivi cette étude approfondie et jusqu'à la prochaine analyse.
+

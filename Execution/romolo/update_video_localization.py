@@ -167,12 +167,17 @@ def upload_captions(youtube, video_id, intl_root):
                 # Cerca il file subtitles_it.srt nella root del progetto o quello generato da Whisper
                 srt_file = os.path.join(project_root, "subtitles_it.srt")
                 if not os.path.exists(srt_file):
+                    intl_it = os.path.join(intl_root, "subtitles_it.srt")
+                    if os.path.exists(intl_it):
+                        srt_file = intl_it
+                    else:
                     # Fallback al nome file lungo se non rinominato
-                    possible_its = glob.glob(os.path.join(project_root, "*cleaned.it.srt"))
-                    if possible_its: srt_file = possible_its[0]
-                    else: 
-                        print(f"⚠️ Sottotitoli IT non trovati, salto.")
-                        continue
+                        possible_its = glob.glob(os.path.join(project_root, "*cleaned.it.srt"))
+                        if possible_its:
+                            srt_file = possible_its[0]
+                        else:
+                            print(f"⚠️ Sottotitoli IT non trovati, salto.")
+                            continue
             else:
                 srt_file = os.path.join(intl_root, lang, f"subtitles_{lang}.srt")
                 
