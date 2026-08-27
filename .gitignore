@@ -11,6 +11,8 @@ ENV/
 # Secrets and Tokens
 token*.pickle
 client_secrets.json
+**/cookies.txt
+cookies.txt
 
 # Local files
 .DS_Store
