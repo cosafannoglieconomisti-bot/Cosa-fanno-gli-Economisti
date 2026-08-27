@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import sys
 import requests
@@ -28,7 +31,7 @@ JOURNAL_MAP = {
 }
 
 # Cartella Database
-DB_DIR = "/Users/<USER>/Desktop/canale/Execution/ulisse/papers_database/"
+DB_DIR = str(REPO_ROOT / 'Execution' / 'ulisse' / 'papers_database' / '')
 
 def reconstruct_abstract(inverted_index):
     if not inverted_index:

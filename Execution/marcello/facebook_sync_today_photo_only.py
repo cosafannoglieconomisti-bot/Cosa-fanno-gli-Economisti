@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import asyncio
 import os
 from playwright.async_api import async_playwright
@@ -60,7 +63,7 @@ async def run():
 
 Link al video: https://www.youtube.com/watch?v=7SeVerAABeg"""
 
-        image_path = "/Users/<USER>/Desktop/canale/Cleaned/I_ricchi_di_oggi_sono_gli_stessi_del_1400_restud_2021/thumbnail_definitiva.png"
+        image_path = str(REPO_ROOT / 'Cleaned' / 'I_ricchi_di_oggi_sono_gli_stessi_del_1400_restud_2021' / 'thumbnail_definitiva.png')
 
         print("\n--- INIZIO CARICAMENTO FOTO ---")
         # Click Foto/video button

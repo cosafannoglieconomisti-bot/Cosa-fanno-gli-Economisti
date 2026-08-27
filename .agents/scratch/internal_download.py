@@ -1,3 +1,6 @@
+from pathlib import Path
+HOME = Path.home()
+
 import asyncio
 import os
 import json
@@ -29,7 +32,7 @@ async def main():
     
     # Video
     video_id = "a1012550-432a-436c-80bb-7b696545c884"
-    video_path = "/Users/<USER>/Downloads/Poveri_in_Pensione_raw.mp4"
+    video_path = str(HOME / 'Downloads' / 'Poveri_in_Pensione_raw.mp4')
     
     print(f"Downloading video {video_id}...")
     try:
@@ -46,7 +49,7 @@ async def main():
         
     # Infographic
     info_id = "7256ce5e-4d20-491e-8458-163bd95570e2"
-    info_path = "/Users/<USER>/Downloads/infografica_raw.png"
+    info_path = str(HOME / 'Downloads' / 'infografica_raw.png')
     
     print(f"Downloading infographic {info_id}...")
     try:

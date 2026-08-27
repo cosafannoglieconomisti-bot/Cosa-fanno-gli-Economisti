@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import asyncio
 import os
 from playwright.async_api import async_playwright
@@ -41,15 +44,15 @@ async def run():
         # Batch 1 Items
         items = [
             {
-                "path": "/Users/<USER>/Desktop/canale/Cleaned/Mafia_Inc_restat_2021/thumbnail.png",
+                "path": str(REPO_ROOT / 'Cleaned' / 'Mafia_Inc_restat_2021' / 'thumbnail.png'),
                 "link": "https://www.youtube.com/watch?v=hSj0RytzsJQ"
             },
             {
-                "path": "/Users/<USER>/Desktop/canale/Cleaned/Togliere_i_sussidi_ai_giovani_li_spinge_a_lavorare_di_più_aer_2016/thumbnail.png",
+                "path": str(REPO_ROOT / 'Cleaned' / 'Togliere_i_sussidi_ai_giovani_li_spinge_a_lavorare_di_più_aer_2016' / 'thumbnail.png'),
                 "link": "https://www.youtube.com/watch?v=Rcjwqblw9aI"
             },
             {
-                "path": "/Users/<USER>/Desktop/canale/Cleaned/La_Cicala_e_la_Formica_qje_2024/thumbnail.png",
+                "path": str(REPO_ROOT / 'Cleaned' / 'La_Cicala_e_la_Formica_qje_2024' / 'thumbnail.png'),
                 "link": "https://www.youtube.com/watch?v=06TeI4ehwBw"
             }
         ]

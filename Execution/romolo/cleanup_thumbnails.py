@@ -1,11 +1,15 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 import os
 import glob
 import shutil
 
 def cleanup():
     # 1. Mafia Inc
-    mafia_dir = "/Users/<USER>/Desktop/canale/Cleaned/Mafia_Inc_restat_2021"
-    mafia_v5 = "/Users/<USER>/.gemini/antigravity/brain/5bc8acda-cbd4-4b83-920f-32154964403a/mafia_inc_inpainted_1774101976444.png"
+    mafia_dir = str(REPO_ROOT / 'Cleaned' / 'Mafia_Inc_restat_2021')
+    mafia_v5 = str(HOME / '.gemini' / 'antigravity' / 'brain' / '5bc8acda-cbd4-4b83-920f-32154964403a' / 'mafia_inc_inpainted_1774101976444.png')
     
     # Rimuovi vecchie
     for f in glob.glob(os.path.join(mafia_dir, "thumbnail*")):
@@ -17,8 +21,8 @@ def cleanup():
     print("Pulizia Mafia completata")
     
     # 2. Archeologia
-    arch_dir = "/Users/<USER>/Desktop/canale/Cleaned/Le_città_perdute_dell_età_del_bronzo_qje_2019"
-    arch_v5 = "/Users/<USER>/.gemini/antigravity/brain/5bc8acda-cbd4-4b83-920f-32154964403a/archeologia_inpainted_1774101993115.png"
+    arch_dir = str(REPO_ROOT / 'Cleaned' / 'Le_città_perdute_dell_età_del_bronzo_qje_2019')
+    arch_v5 = str(HOME / '.gemini' / 'antigravity' / 'brain' / '5bc8acda-cbd4-4b83-920f-32154964403a' / 'archeologia_inpainted_1774101993115.png')
     
     # Rimuovi vecchie
     for f in glob.glob(os.path.join(arch_dir, "thumbnail*")):

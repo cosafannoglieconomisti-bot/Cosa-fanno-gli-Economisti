@@ -1,10 +1,13 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import json
 import os
 import random
 import re
 from collections import defaultdict
 
-REPO_ROOT = "/Users/<USER>/Desktop/canale"
+REPO_ROOT = str(REPO_ROOT)
 SCOUT_FILE = os.path.join(REPO_ROOT, "Temp/romolo/competitor_engagement.md")
 TRACKING_FILE = os.path.join(REPO_ROOT, "Cleaned/video_tracking.json")
 HISTORY_FILE = os.path.join(REPO_ROOT, "Temp/romolo/competitor_comment_history.json")

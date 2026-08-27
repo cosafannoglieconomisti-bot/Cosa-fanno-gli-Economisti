@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import asyncio
 import os
 from playwright.async_api import async_playwright
@@ -51,7 +54,7 @@ async def run():
 
 Link al video: https://www.youtube.com/watch?v=7SeVerAABeg"""
 
-        image_path = "/Users/<USER>/Desktop/canale/Cleaned/I_ricchi_di_oggi_sono_gli_stessi_del_1400_restud_2021/thumbnail_definitiva.png"
+        image_path = str(REPO_ROOT / 'Cleaned' / 'I_ricchi_di_oggi_sono_gli_stessi_del_1400_restud_2021' / 'thumbnail_definitiva.png')
 
         print("\n--- INIZIO POST 1 (LINK) ---")
         # Click Creator Box
@@ -91,7 +94,7 @@ Link al video: https://www.youtube.com/watch?v=7SeVerAABeg"""
             await page.wait_for_selector("input[type='file']", timeout=10000)
         except Exception as e:
             print(f"ERRORE: Timeout nell'attesa dell'input file. {e}")
-            await page.screenshot(path='/Users/<USER>/Desktop/canale/Execution/marcello/facebook_debug_photo.png')
+            await page.screenshot(path=str(REPO_ROOT / 'Execution' / 'marcello' / 'facebook_debug_photo.png'))
             print("Screenshot diagnostico salvato.")
 
         # Set input file

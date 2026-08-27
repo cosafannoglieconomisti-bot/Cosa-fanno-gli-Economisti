@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import cv2
 import numpy as np
 from collections import Counter
@@ -29,4 +32,4 @@ def get_dominant_color(image_path):
     # Convert to Hex
     return '#{:02x}{:02x}{:02x}'.format(dominant[0], dominant[1], dominant[2])
 
-print("Dominant Orange Hex:", get_dominant_color('/Users/<USER>/Desktop/canale/Execution/romolo/logo_canale.jpeg'))
+print("Dominant Orange Hex:", get_dominant_color(str(REPO_ROOT / 'Execution' / 'romolo' / 'logo_canale.jpeg')))

@@ -1,12 +1,15 @@
+from pathlib import Path
+HOME = Path.home()
+
 import os
 import re
 
 def find_paths():
     search_dir = 'Execution'
     # Pattern to find absolute paths or old folder structures
-    # Examples: /Users/... or [Romolo] ...
+    # Examples: /Users/<USER> or [Romolo] ...
     patterns = [
-        r'/Users/<USER>/',
+        rstr(HOME),
         r'\[Augusto\]',
         r'\[Romolo\]',
         r'\[Enea\]',

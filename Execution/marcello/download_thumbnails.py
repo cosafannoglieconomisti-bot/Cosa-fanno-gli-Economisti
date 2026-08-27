@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import json
 import os
 import urllib.request
@@ -10,7 +13,7 @@ def sanitize_filename(name):
     return re.sub(r'[\\/*?:"<>|]', "", name).replace(" ", "_")
 
 #Paths
-base_dir = "/Users/<USER>/Desktop/canale"
+base_dir = str(REPO_ROOT)
 videos_list_path = os.path.join(base_dir, "Temp/romolo/videos_list_updated.json")
 output_dir = os.path.join(base_dir, "Execution/marcello/Copertine")
 

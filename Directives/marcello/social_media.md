@@ -61,7 +61,7 @@ Un post programmato su Buffer per la pagina Facebook "Cosa fanno gli Economisti"
    ✓ **Riga 1**: Deve iniziare con "Lo studio \"TITOLO ACCADEMICO\"..."
    ✓ **Senza Header**: Non devono esserci titoli o autori sopra la descrizione.
    ✓ Il titolo accademico nella descrizione = titolo REALE del paper (non del video)
-   ✓ tags: hashtag reali del video (non generici)
+   ✓ tags: hashtag reali del video, specifici rispetto al contenuto del paper (non generici, non istituzionali)
    ✓ Link: https://www.youtube.com/watch?v=[ID] (non youtu.be)
    ✓ Scheduled: domani 09:00 Europe/Rome (o ora specificata)
 
@@ -82,6 +82,11 @@ Un post programmato su Buffer per la pagina Facebook "Cosa fanno gli Economisti"
 
 [Tag estratti da video_metadata.md — mai generati dall'IA]
 ```
+
+Vincolo editoriale aggiuntivo:
+- gli hashtag devono essere centrati su risultato, meccanismo, tema, istituzione o contesto empirico del paper;
+- evitare tag generici tipo `#RicercaAccademica` o tag istituzionali tipo universita', journal o brand personali, salvo siano davvero parte sostanziale del contenuto;
+- mantenere sempre `#CosaFannoGliEconomisti` come tag di brand del canale.
 
 **Esempio validato (Folklore):**
 ```
@@ -133,7 +138,7 @@ La riga 1 della caption deve essere estratta dal campo `description` del metadat
 - **Un video alla volta**: la procedura deve essere ripetuta per ogni video. MAI batch automatico senza approvazione esplicita dell'utente
 - **Shorts esclusi**: video con `#shorts` nel titolo vengono ignorati automaticamente
 - **No allucinazioni**: la didascalia viene estratta meccanicamente da `video_metadata.md`. MAI generarla da zero
-- **Tag reali**: usare sempre quelli presenti in `video_metadata.md`, non generici
+- **Tag reali**: usare sempre quelli presenti in `video_metadata.md`, specifici rispetto al paper e non generici
 
 ---
 

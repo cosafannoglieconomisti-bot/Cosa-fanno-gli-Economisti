@@ -50,10 +50,10 @@ Caricare un video (Lungo) su YouTube con privacy `scheduled` (programmata).
 python execution/youtube_uploader.py Cleaned/Paper1/video.mp4 "Mio Titolo" .tmp/metadata.md
 ```
 
-## SOP: Report Canale (Analytics + Consigli AI)
+## SOP: Report Canale (Analytics + Consigli Operativi)
 
 ### Obiettivo
-Generare un report con i dati degli ultimi 30 giorni e consigli strategici di crescita avanzati forniti da un LLM che simula un Social Media Manager esperto.
+Generare un report con i dati degli ultimi 30 giorni e consigli strategici di crescita derivati da metriche e commenti recenti del canale.
 
 ### Esecuzione
 - **Script**: `Execution/romolo/romolo_manage_channel.py`
@@ -100,7 +100,7 @@ Organizzare i video lunghi del canale in 8 playlist tematiche predefinite per ma
 ### Esecuzione Automatica (Nuovi Video)
 - **Workflow**: `/playlist` via Telegram
 - **Script**: `Execution/romolo/catalog_video.py`
-- **Logica**: Utilizza Gemini per categorizzare il video basandosi sul titolo e sui metadati, poi lo aggiunge alla playlist YouTube appropriata e aggiorna il file `video_tracking.json`.
+- **Logica**: Utilizza regole locali di keyword matching basate su titolo, descrizione e tassonomia playlist, poi aggiunge il video alla playlist YouTube appropriata e aggiorna `video_tracking.json`.
 
 ---
 

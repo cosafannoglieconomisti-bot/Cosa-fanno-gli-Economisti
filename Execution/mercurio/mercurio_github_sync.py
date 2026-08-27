@@ -6,6 +6,11 @@ import re
 import tempfile
 from datetime import datetime
 
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+from canale_paths import redact_local_paths
+
+# Configurazione Cartelle e File da includere nel backup
+
 # Configurazione Cartelle e File da includere nel backup
 ALLOWED_PATHS = [
     ".agents",
@@ -37,7 +42,7 @@ def run_command(command, cwd=None):
 
 def sanitize_file(file_path):
     """Applica l'offuscamento dei dati sensibili al contenuto del file."""
-    if not file_path.endswith(('.md', '.py', '.txt', '.json')):
+    if not file_path.endswith(('.md', '.py', '.txt', '.json', '.sh', '.yml', '.yaml')):
         return
 
     try:
@@ -47,11 +52,11 @@ def sanitize_file(file_path):
         original_content = content
         for pattern, replacement in SENSITIVE_PATTERNS:
             content = re.sub(pattern, replacement, content, flags=re.IGNORECASE)
+        content = redact_local_paths(content)
 
         if content != original_content:
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write(content)
-            # print(f"Sanificato: {os.path.basename(file_path)}")
     except Exception as e:
         print(f"Errore durante la sanificazione di {file_path}: {e}")
 
@@ -85,8 +90,12 @@ def sync_to_github(custom_msg=None):
             else:
                 shutil.copy2(src, dst)
 
+    hook_installer = os.path.join(root_dir, "Execution", "mercurio", "sanitize_local_paths.py")
+    if os.path.exists(hook_installer):
+        run_command([sys.executable, hook_installer, "--install-hook"], cwd=root_dir)
+
     # 3. Offuscamento (Sanificazione)
-    print("Offuscamento dati sensibili in corso...")
+    print("Offuscamento dati sensibili e path macchina in corso...")
     for root, dirs, files in os.walk(staging_dir):
         # Escludi cartelle git se presenti (anche se non dovrebbero esserci qui)
         if '.git' in dirs:

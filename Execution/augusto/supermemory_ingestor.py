@@ -2,6 +2,8 @@ import os
 import json
 import logging
 from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 from supermemory import Supermemory
 from dotenv import load_dotenv
 
@@ -10,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Caricamento credenziali
-load_dotenv("/Users/<USER>/Desktop/canale/Execution/credentials/.env")
+load_dotenv(str(REPO_ROOT / 'Execution' / 'credentials' / '.env'))
 api_key = os.getenv("SUPERMEMORY_API_KEY")
 project_id = os.getenv("SUPERMEMORY_PROJECT_ID")
 
@@ -58,7 +60,7 @@ def ingest_styles():
 
 def ingest_archive():
     logger.info("Ingestione Archivio (Cleaned/)...")
-    base_path = Path("/Users/<USER>/Desktop/canale/Cleaned")
+    base_path = Path(str(REPO_ROOT / 'Cleaned'))
     if not base_path.exists():
         logger.warning(f"Percorso {base_path} non trovato.")
         return
@@ -83,7 +85,7 @@ def ingest_archive():
 
 def ingest_pipeline():
     logger.info("Ingestione Stato Pipeline (video_tracking.json)...")
-    tracking_file = Path("/Users/<USER>/Desktop/canale/Cleaned/video_tracking.json")
+    tracking_file = Path(str(REPO_ROOT / 'Cleaned' / 'video_tracking.json'))
     if tracking_file.exists():
         with open(tracking_file, 'r') as f:
             data = json.load(f)
@@ -96,7 +98,7 @@ def ingest_pipeline():
 
 def ingest_playlists():
     logger.info("Ingestione Configurazione Playlist...")
-    config_file = Path("/Users/<USER>/Desktop/canale/Execution/romolo/playlist_config.json")
+    config_file = Path(str(REPO_ROOT / 'Execution' / 'romolo' / 'playlist_config.json'))
     if config_file.exists():
         with open(config_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -109,7 +111,7 @@ def ingest_playlists():
 
 def ingest_upcoming():
     logger.info("Ingestione Paper Future (Papers/Da fare Portfoli)...")
-    todo_path = Path("/Users/<USER>/Desktop/canale/Papers/Da fare")
+    todo_path = Path(str(REPO_ROOT / 'Papers' / 'Da fare'))
     if todo_path.exists():
         for item in todo_path.rglob("*.pdf"):
             sm.add(

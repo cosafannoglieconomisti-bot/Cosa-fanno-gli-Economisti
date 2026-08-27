@@ -18,10 +18,10 @@ Lo studio "Moderating Political Extremism Single Round versus Runoff Elections u
 09:32 | Conclusioni
 
 
-#CosaFannoGliEconomisti #RicercaAccademica #Italia #ComuniItaliani #UniversitàBocconi #ElezioniAmministrative #AmericanEconomicReview
+#CosaFannoGliEconomisti #Ballottaggio #EstremismoPolitico #SistemaElettorale #ElezioniComunali #PoliticaModerata #PartitiRadicali #TurnoUnico #ScienzaPolitica #EconomiaPolitica
 
 ## Tag
-CosaFannoGliEconomisti, RicercaAccademica, Italia, ComuniItaliani, UniversitàBocconi, ElezioniAmministrative, AmericanEconomicReview
+CosaFannoGliEconomisti, Ballottaggio, EstremismoPolitico, SistemaElettorale, ElezioniComunali, PoliticaModerata, PartitiRadicali, TurnoUnico, ScienzaPolitica, EconomiaPolitica
 
 ## Status Pipeline
 - Paper PDF: Moderating Political Extremism Single Round versus Runoff Elections under Plurality Rule.pdf (OK)

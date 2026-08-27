@@ -2,10 +2,34 @@ import json
 import os
 import shutil
 from datetime import datetime
+from pathlib import Path
 
-# Percorso Univoco del Registro
-TRACKING_FILE = "/Users/<USER>/Desktop/canale/Cleaned/video_tracking.json"
-BACKUP_DIR = "/Users/<USER>/Desktop/canale/Temp/backups"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+TRACKING_FILE = str(REPO_ROOT / "Cleaned" / "video_tracking.json")
+BACKUP_DIR = str(REPO_ROOT / "Temp" / "backups")
+PLACEHOLDER_PREFIX = "/Users/<USER>"
+
+
+def _redact_obj(value):
+    if isinstance(value, str):
+        home = Path.home().as_posix()
+        value = value.replace(home, PLACEHOLDER_PREFIX)
+        return value
+    if isinstance(value, dict):
+        return {k: _redact_obj(v) for k, v in value.items()}
+    if isinstance(value, list):
+        return [_redact_obj(v) for v in value]
+    return value
+
+
+def _expand_obj(value):
+    if isinstance(value, str):
+        return value.replace(PLACEHOLDER_PREFIX, Path.home().as_posix())
+    if isinstance(value, dict):
+        return {k: _expand_obj(v) for k, v in value.items()}
+    if isinstance(value, list):
+        return [_expand_obj(v) for v in value]
+    return value
 
 def ensure_backup():
     if not os.path.exists(BACKUP_DIR):
@@ -25,14 +49,14 @@ def load_data():
         return {}
     with open(TRACKING_FILE, "r", encoding="utf-8") as f:
         try:
-            return json.load(f)
+            return _expand_obj(json.load(f))
         except json.JSONDecodeError:
             return {}
 
 def save_data(data):
     ensure_backup()
     with open(TRACKING_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+        json.dump(_redact_obj(data), f, indent=4, ensure_ascii=False)
 
 def update_entry(project_name, key=None, value=None, full_entry=None):
     """

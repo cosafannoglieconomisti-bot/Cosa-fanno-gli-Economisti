@@ -1,7 +1,10 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import json
 import os
 
-base_dir = "/Users/<USER>/Desktop/canale"
+base_dir = str(REPO_ROOT)
 videos_updated_path = os.path.join(base_dir, "Temp/romolo/videos_list_updated.json")
 output_path = os.path.join(base_dir, "Execution/marcello/lista_video_link.txt")
 

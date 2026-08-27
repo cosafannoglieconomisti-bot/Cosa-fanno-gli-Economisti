@@ -3,9 +3,10 @@ import sys
 import glob
 import shutil
 from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
 
 # Configurazione Percorsi
-BASE_DIR = "/Users/<USER>/Desktop/canale"
+BASE_DIR = str(REPO_ROOT)
 CLEANED_DIR = os.path.join(BASE_DIR, "Cleaned")
 EXEC_DIR = os.path.join(BASE_DIR, "Execution")
 PYTHON_BIN = os.path.join(BASE_DIR, ".venv/bin/python3")

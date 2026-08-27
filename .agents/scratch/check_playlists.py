@@ -1,9 +1,12 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import pickle
 from googleapiclient.discovery import build
 from google.auth.transport.requests import Request
 
-TOKEN_PATH = "/Users/<USER>/Desktop/canale/Execution/credentials/token.pickle"
+TOKEN_PATH = str(REPO_ROOT / 'Execution' / 'credentials' / 'token.pickle')
 
 def get_authenticated_service():
     creds = None

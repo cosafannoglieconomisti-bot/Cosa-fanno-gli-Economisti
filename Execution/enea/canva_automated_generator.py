@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import asyncio
 import os
 import sys
@@ -23,7 +26,7 @@ async def run(csv_path):
         print("Apertura browser con PROFILO PERSISTENTE per salvare i cookie (headless=False)...")
         
         # Cartella dedicata per salvare la sessione evitare loop Cloudflare
-        user_data_dir = "/Users/<USER>/Desktop/canale/.tmp/canva_profile"
+        user_data_dir = str(REPO_ROOT / '.tmp' / 'canva_profile')
         os.makedirs(user_data_dir, exist_ok=True)
 
         context = await p.chromium.launch_persistent_context(

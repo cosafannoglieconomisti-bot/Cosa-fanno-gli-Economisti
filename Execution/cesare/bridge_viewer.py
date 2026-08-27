@@ -1,8 +1,11 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import time
 import sys
 
-BRIDGE_LOG = "/Users/<USER>/Desktop/canale/Temp/cesare/telegram_bridge.log"
+BRIDGE_LOG = str(REPO_ROOT / 'Temp' / 'cesare' / 'telegram_bridge.log')
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')

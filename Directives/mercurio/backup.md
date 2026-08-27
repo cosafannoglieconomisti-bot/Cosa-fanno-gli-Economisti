@@ -28,7 +28,7 @@ Oppure usa il comando rapido:
 ### Comportamento
 1.  **Staging Selettivo**: Crea una copia temporanea includendo le cartelle core (`.agents`, `Directives`, `Execution`) e la cartella `Cleaned/`.
 2.  **Filtro Video**: Esclude automaticamente tutti i file `.mp4` per evitare di appesantire il repository GitHub.
-3.  **Sanificazione**: Esegue l'offuscamento di dati sensibili (Token, API Key) nei file sorgente.
+3.  **Sanificazione**: Esegue l'offuscamento di dati sensibili (Token, API Key) **e** dei path macchina (`/Users/<account>/` → `/Users/<USER>/`) nei file sorgente.
 4.  **Push Deterministico**: Inizializza un nuovo repository in staging e lo pusha forzatamente su `origin main`.
 
 > [!WARNING]

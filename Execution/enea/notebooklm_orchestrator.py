@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 import json
 import os
 import subprocess
@@ -7,8 +11,8 @@ import sys
 import re
 
 # Percorsi Mandatori
-ACTIVE_PIPE = "/Users/<USER>/Desktop/canale/Temp/enea/active_pipeline.json"
-DOWNLOADS_DEFAULT = "/Users/<USER>/Downloads"
+ACTIVE_PIPE = str(REPO_ROOT / 'Temp' / 'enea' / 'active_pipeline.json')
+DOWNLOADS_DEFAULT = str(HOME / 'Downloads')
 
 def log(msg):
     print(f"[ORCHESTRATOR] {msg}")
@@ -112,7 +116,7 @@ def main():
     if not res or "Error" in res:
         log("Caricamento locale fallito. Provo copia in Google Drive SYNC folder...")
         import shutil
-        drive_sync_dir = "/Users/<USER>/Google Drive/Papers"
+        drive_sync_dir = str(HOME / 'Google Drive' / 'Papers')
         try:
             os.makedirs(drive_sync_dir, exist_ok=True)
             drive_dest = os.path.join(drive_sync_dir, os.path.basename(pdf_path))

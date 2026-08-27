@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import json
 import pickle
@@ -6,7 +9,7 @@ from googleapiclient.discovery import build
 from dotenv import load_dotenv
 
 # Configurazione percorsi
-BASE_DIR = '/Users/<USER>/Desktop/canale'
+BASE_DIR = str(REPO_ROOT)
 CRED_DIR = os.path.join(BASE_DIR, 'Execution/credentials')
 load_dotenv(dotenv_path=os.path.join(CRED_DIR, '.env'))
 

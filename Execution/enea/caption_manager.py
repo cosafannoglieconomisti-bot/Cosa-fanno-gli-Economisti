@@ -4,9 +4,10 @@ import subprocess
 import json
 import glob
 from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
 
 # Configurazione Percorsi
-BASE_DIR = "/Users/<USER>/Desktop/canale"
+BASE_DIR = str(REPO_ROOT)
 EXEC_DIR = os.path.join(BASE_DIR, "Execution")
 CLEANED_DIR = os.path.join(BASE_DIR, "Cleaned")
 PYTHON_BIN = os.path.join(BASE_DIR, ".venv/bin/python3")

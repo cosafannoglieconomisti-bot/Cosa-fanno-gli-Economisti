@@ -1,8 +1,11 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import requests
 from dotenv import load_dotenv
 
-load_dotenv("/Users/<USER>/Desktop/canale/Execution/credentials/.env")
+load_dotenv(str(REPO_ROOT / 'Execution' / 'credentials' / '.env'))
 api_key = os.getenv("SUPERMEMORY_API_KEY")
 project_id = os.getenv("SUPERMEMORY_PROJECT_ID")
 

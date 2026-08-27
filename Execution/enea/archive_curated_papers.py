@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import json
 import os
 import subprocess
@@ -6,7 +9,7 @@ import requests
 
 # Config
 JSON_INPUT = "/tmp/papers_to_download_60.json"
-BASE_DIR = "/Users/<USER>/Desktop/canale/Papers/Da fare/"
+BASE_DIR = str(REPO_ROOT / 'Papers' / 'Da fare' / '')
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 def clean_title(title):

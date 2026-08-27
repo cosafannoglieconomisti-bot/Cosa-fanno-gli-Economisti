@@ -22,6 +22,8 @@ USAGE:
   python3 buffer_post_single.py --video-id XYZ   # forza un video specifico
   python3 buffer_post_single.py --hour 10        # programma alle 10:00 (default 09:00)
 """
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
 
 import os
 import re
@@ -50,10 +52,10 @@ BUFFER_ORG_ID       = os.getenv("BUFFER_ORG_ID")
 
 BUFFER_GRAPHQL_URL  = "https://api.buffer.com/graphql"
 REPO_BASE_URL       = "https://raw.githubusercontent.com/cosafannoglieconomisti-bot/Cosa-fanno-gli-Economisti/main"
-HISTORY_DIR         = "/Users/<USER>/Desktop/canale/Temp/marcello"
-CLEANED_DIR         = "/Users/<USER>/Desktop/canale/Cleaned"
-TOKEN_FILE          = "/Users/<USER>/Desktop/canale/Execution/credentials/token.pickle"
-TRACKING_FILE       = "/Users/<USER>/Desktop/canale/Cleaned/video_tracking.json"
+HISTORY_DIR         = str(REPO_ROOT / 'Temp' / 'marcello')
+CLEANED_DIR         = str(REPO_ROOT / 'Cleaned')
+TOKEN_FILE          = str(REPO_ROOT / 'Execution' / 'credentials' / 'token.pickle')
+TRACKING_FILE       = str(REPO_ROOT / 'Cleaned' / 'video_tracking.json')
 # ─────────────────────────────────────────────────────────────────────────────
 
 

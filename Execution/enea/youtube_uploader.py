@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import pickle
 import sys
@@ -7,10 +10,10 @@ from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
-CREDENTIALS_DIR = "/Users/<USER>/Desktop/canale/Execution/credentials"
+CREDENTIALS_DIR = str(REPO_ROOT / 'Execution' / 'credentials')
 TOKEN_PATH = os.path.join(CREDENTIALS_DIR, "token.pickle")
-PYTHON_BIN = "/Users/<USER>/Desktop/canale/.venv/bin/python3"
-LOCALIZER_SCRIPT = "/Users/<USER>/Desktop/canale/Execution/romolo/update_video_localization.py"
+PYTHON_BIN = str(REPO_ROOT / '.venv' / 'bin' / 'python3')
+LOCALIZER_SCRIPT = str(REPO_ROOT / 'Execution' / 'romolo' / 'update_video_localization.py')
 
 def get_authenticated_service():
     creds = None
@@ -232,7 +235,7 @@ if __name__ == '__main__':
             print(f"Aggiornamento tracking per {folder_name} con youtube_id: {video_id}")
             subprocess.run([
                 PYTHON_BIN, 
-                "/Users/<USER>/Desktop/canale/Execution/enea/tracking_manager.py", 
+                str(REPO_ROOT / 'Execution' / 'enea' / 'tracking_manager.py'), 
                 folder_name, 
                 "youtube_id", 
                 video_id
@@ -240,7 +243,7 @@ if __name__ == '__main__':
             print("Avvio catalogazione automatica playlist...")
             cat_res = subprocess.run([
                 PYTHON_BIN,
-                "/Users/<USER>/Desktop/canale/Execution/romolo/catalog_video.py",
+                str(REPO_ROOT / 'Execution' / 'romolo' / 'catalog_video.py'),
                 folder_name
             ])
             if cat_res.returncode != 0:

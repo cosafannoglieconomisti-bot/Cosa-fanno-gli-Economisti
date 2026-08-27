@@ -1,3 +1,7 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[3]
+HOME = Path.home()
+
 import os
 import telebot
 
@@ -11,7 +15,7 @@ def load_env_manual(path):
                 os.environ[k.strip()] = v.strip().strip('"').strip("'")
 
 # Carica il file .env
-env_path = "/Users/<USER>/Desktop/canale/.env"
+env_path = str(REPO_ROOT / '.env')
 load_env_manual(env_path)
 
 TOKEN = os.environ.get("TELEGRAM_TOKEN")
@@ -22,7 +26,7 @@ if not TOKEN or not ALLOWED_ID:
     exit(1)
 
 bot = telebot.TeleBot(TOKEN)
-img_path = "/Users/<USER>/.gemini/antigravity/brain/0af43b21-861e-4e08-b0e0-47fcc2fd4d30/cover_v3_grouped_title_retry_1774393779129.png"
+img_path = str(HOME / '.gemini' / 'antigravity' / 'brain' / '0af43b21-861e-4e08-b0e0-47fcc2fd4d30' / 'cover_v3_grouped_title_retry_1774393779129.png')
 
 if os.path.exists(img_path):
     with open(img_path, 'rb') as f:

@@ -1,3 +1,7 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 import json
 import os
 
@@ -19,4 +23,4 @@ def json_to_netscape(json_path, netscape_path):
             f.write(f"{domain}\tTRUE\t/\tTRUE\t2147483647\t{name}\t{value}\n")
 
 if __name__ == "__main__":
-    json_to_netscape("/Users/<USER>/.notebooklm-mcp/auth.json", "/Users/<USER>/Desktop/canale/Temp/cookies.txt")
+    json_to_netscape(str(HOME / '.notebooklm-mcp' / 'auth.json'), str(REPO_ROOT / 'Temp' / 'cookies.txt'))

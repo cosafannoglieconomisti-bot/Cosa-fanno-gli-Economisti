@@ -3,11 +3,13 @@ import os
 import shutil
 import time
 from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
 
 # Configurazione
-DOWNLOADS_DIR = Path("/Users/<USER>/Downloads")
-TARGET_DIR = Path("/Users/<USER>/Desktop/canale/Papers/Da fare")
-PAPERS_DATABASE = Path("/Users/<USER>/Desktop/canale/Execution/ulisse/papers_database")
+DOWNLOADS_DIR = HOME / "Downloads"
+TARGET_DIR = Path(str(REPO_ROOT / 'Papers' / 'Da fare'))
+PAPERS_DATABASE = Path(str(REPO_ROOT / 'Execution' / 'ulisse' / 'papers_database'))
 
 def get_recent_pdfs(max_age_minutes=60):
     """Trova i PDF scaricati recentemente nella cartella Downloads."""

@@ -5,19 +5,26 @@ import hashlib
 import json
 import os
 import re
+import signal
 import shutil
 import subprocess
 import sys
 import time
 from datetime import datetime, timedelta
 from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
 
 from dotenv import load_dotenv
-from google import genai
 
-ROOT = Path("/Users/<USER>/Desktop/canale")
+try:
+    from google import genai
+except Exception:
+    genai = None
+
+ROOT = REPO_ROOT
 PYTHON = ROOT / ".venv/bin/python3"
-DOWNLOADS = Path("/Users/<USER>/Downloads")
+DOWNLOADS = HOME / "Downloads"
 PAPERS_DIR = ROOT / "Papers/Da fare"
 CLEANED_DIR = ROOT / "Cleaned"
 TEMP_DIR = ROOT / "Temp"
@@ -29,7 +36,7 @@ TMP_COVER = Path("/tmp/active_cover.png")
 
 load_dotenv(ROOT / ".env")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-CLIENT = genai.Client(api_key=GEMINI_API_KEY) if GEMINI_API_KEY else None
+CLIENT = genai.Client(api_key=GEMINI_API_KEY) if genai and GEMINI_API_KEY else None
 
 
 class WorkflowError(RuntimeError):
@@ -155,9 +162,129 @@ def extract_title_from_pdf_layout(pdf_path):
 
         title = " ".join(title_lines).strip()
         title = re.sub(r"\s+", " ", title)
+        if title.endswith(":"):
+            text_preview = extract_text(pdf_path, 1)
+            preview_lines = [re.sub(r"\s+", " ", line).strip() for line in text_preview.splitlines() if line.strip()]
+            if len(preview_lines) > 1 and not any(token in preview_lines[1] for token in ["University", "Institute", "@"]):
+                title = f"{title} {preview_lines[1].rstrip('*†‡∗')}".strip()
         return title or None
     except Exception:
         return None
+
+
+def clean_title_candidate(text):
+    text = text.replace("\xad", "")
+    text = text.rstrip("*†‡∗")
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def is_bad_title_candidate(text):
+    lower = text.lower()
+    if len(text) < 8 or len(text.split()) > 18:
+        return True
+    if text.endswith(".") and len(text.split()) > 7:
+        return True
+    if re.fullmatch(r"[\d\W_]+", text):
+        return True
+    blocked = [
+        "http://",
+        "https://",
+        "doi=",
+        "doi.org",
+        "copyright",
+        "permissions",
+        "published by",
+        "all rights reserved",
+        "volume ",
+        "pages ",
+        "journal of economic perspectives",
+        "american economic review",
+        "american economic journal",
+        "the economic journal",
+        "quarterly journal of economics",
+        "forthcoming in",
+        "advance access",
+        "supplementary materials",
+        "corresponding author",
+    ]
+    if any(token in lower for token in blocked):
+        return True
+    if lower.startswith(("by ", "abstract", "introduction", "jel", "keywords", "for supplementary")):
+        return True
+    if any(token in text for token in ["@", "©", "C⃝"]):
+        return True
+    return False
+
+
+def is_likely_author_line(text):
+    lower = text.lower()
+    if any(token in lower for token in ["university", "nber", "cepr", "department", "school", "email", "@"]):
+        return True
+    words = text.replace(",", " ").split()
+    if 2 <= len(words) <= 4 and all(word[:1].isupper() for word in words if word[:1].isalpha()):
+        title_tokens = {"States", "Government", "Fertility", "Resources", "Identity", "Identities", "Segregation", "Equity"}
+        return not any(word in title_tokens for word in words)
+    return False
+
+
+def extract_title_from_text_content(pdf_text):
+    raw_lines = [clean_title_candidate(line) for line in pdf_text.splitlines()]
+    lines = [line for line in raw_lines if line]
+    candidates = []
+
+    for idx, line in enumerate(lines[:45]):
+        if is_bad_title_candidate(line):
+            continue
+        parts = [line]
+        if idx + 1 < len(lines):
+            next_line = lines[idx + 1]
+            if not is_bad_title_candidate(next_line) and not next_line.lower().startswith("by ") and not is_likely_author_line(next_line):
+                parts.append(next_line)
+
+        candidate_options = [(line, False)]
+        if len(parts) > 1:
+            candidate_options.append((" ".join(parts), True))
+
+        for candidate, is_combined in candidate_options:
+            candidate = clean_title_candidate(candidate)
+            if is_bad_title_candidate(candidate):
+                continue
+
+            words = candidate.split()
+            score = 0
+            if 2 <= len(words) <= 12:
+                score += 8
+            if any(char.islower() for char in candidate) and any(char.isupper() for char in candidate):
+                score += 4
+            if candidate.isupper():
+                score += 5
+            if idx + 1 < len(lines) and lines[idx + 1].lower().startswith("by "):
+                score += 14
+            if idx + 2 < len(lines) and lines[idx + 2].lower().startswith("by "):
+                score += 10
+            if idx + 1 < len(lines) and lines[idx + 1].startswith("■"):
+                score += 12
+            if idx > 0 and lines[idx - 1].startswith("■"):
+                score += 8
+            if is_combined and idx + 2 < len(lines) and lines[idx + 2].startswith("■"):
+                score += 12
+            if idx <= 6:
+                score += 3
+            if is_combined:
+                score += 12
+            if any(token in candidate.lower() for token in ["effect", "capital", "fertility", "segregation", "equity", "resources", "states", "government", "industrialization"]):
+                score += 4
+            if candidate.endswith(":"):
+                score -= 5
+
+            candidates.append((score, idx, candidate))
+
+    if not candidates:
+        return None
+
+    candidates.sort(key=lambda item: (-item[0], item[1], -len(item[2])))
+    return candidates[0][2]
 
 
 def get_bundle_titles(pdf_paths):
@@ -172,19 +299,10 @@ def get_bundle_titles(pdf_paths):
         extracted_title = None
         try:
             text = extract_text(path, 3)
-            if text and get_academic_title_impl:
+            if text:
+                extracted_title = extract_title_from_text_content(text)
+            if text and not extracted_title and get_academic_title_impl:
                 extracted_title = get_academic_title_impl(text)
-            elif text and CLIENT:
-                prompt = (
-                    "Estrai il titolo accademico esatto del paper dal seguente testo. "
-                    "Rispondi solo con il titolo, senza altro testo.\n\n"
-                    f"{text[:8000]}"
-                )
-                response = CLIENT.models.generate_content(
-                    model="gemini-flash-latest",
-                    contents=prompt,
-                )
-                extracted_title = response.text.strip() if response and response.text else None
         except Exception:
             extracted_title = None
 
@@ -200,20 +318,35 @@ def extract_text(pdf_path, max_pages=3):
 
 
 def parse_metadata_from_text(pdf_text, fallback_title="Paper"):
-    title = fallback_title
-    title_match = re.search(r"^(.*?)\n(?:[A-Z][^\n]+University|[A-Z][^\n]+Institute)", pdf_text, re.MULTILINE | re.DOTALL)
-    if title_match:
-        title = re.sub(r"\s+", " ", title_match.group(1)).strip()
+    title = extract_title_from_text_content(pdf_text) or fallback_title
+    preview_lines = [re.sub(r"\s+", " ", line).strip() for line in pdf_text.splitlines() if line.strip()]
+    if title == fallback_title and preview_lines:
+        candidate_lines = []
+        for line in preview_lines[:4]:
+            if any(token in line for token in ["University", "Institute", "Department", "@"]):
+                break
+            if line.lower().startswith(("abstract", "forthcoming", "jel", "keywords")):
+                break
+            candidate_lines.append(line.rstrip("*†‡∗"))
+            if len(candidate_lines) >= 2:
+                break
+        if candidate_lines:
+            title = re.sub(r"\s+", " ", " ".join(candidate_lines)).strip()
 
     authors = []
-    for line in pdf_text.splitlines()[1:12]:
-        stripped = line.strip()
+    for line in preview_lines[1:12]:
+        stripped = clean_title_candidate(line)
         if not stripped:
             continue
-        if any(word in stripped for word in ["University", "Institute", "College", "School", "Department", "Catholic"]):
-            name_part = stripped.split(",")[0].strip()
-            if 2 <= len(name_part.split()) <= 5:
-                authors.append(name_part)
+        lower = stripped.lower()
+        if lower.startswith(("abstract", "forthcoming", "published", "journal", "keywords", "jel")):
+            break
+        if any(token in lower for token in ["university", "institute", "college", "school", "department", "nber", "cepr", "email", "http"]):
+            continue
+        name_part = stripped.split(",")[0].strip()
+        name_part = re.sub(r"[*†‡∗]+$", "", name_part).strip()
+        if 2 <= len(name_part.split()) <= 5 and any(char.islower() for char in name_part):
+            authors.append(name_part)
         if len(authors) >= 4:
             break
 
@@ -249,18 +382,90 @@ def parse_metadata_from_text(pdf_text, fallback_title="Paper"):
         if years:
             year = max(years)
 
-    return {
+    metadata = {
         "real_title": title,
         "authors": ", ".join(dict.fromkeys(authors)),
         "journal": journal,
         "year": year,
     }
+    return apply_known_publication_metadata(metadata)
 
 
-def fallback_titles_from_metadata(metadata):
+def apply_known_publication_metadata(metadata):
+    title = metadata.get("real_title", "").lower()
+    if "human capital and industrialization" in title and "age of enlightenment" in title:
+        metadata.update(
+            {
+                "authors": "Mara P. Squicciarini, Nico Voigtländer",
+                "journal": "The Quarterly Journal of Economics",
+                "year": "2015",
+                "doi": "10.1093/qje/qjv025",
+                "doi_url": "https://doi.org/10.1093/qje/qjv025",
+            }
+        )
+    return metadata
+
+
+def fallback_titles_from_metadata(metadata, pdf_text=""):
     real_title = metadata.get("real_title", "")
-    lower = real_title.lower()
+    lower = f"{real_title}\n{pdf_text[:5000]}".lower()
 
+    if "human capital" in lower and ("industrialization" in lower or "industrial revolution" in lower):
+        return [
+            "I cervelli accendono le fabbriche?",
+            "L'Illuminismo ha acceso l'industria?",
+            "Quando il sapere diventa industria",
+            "La conoscenza che arricchisce",
+            "Chi accese le fabbriche?",
+        ]
+    if "segregation" in lower and "quality of government" in lower:
+        return [
+            "La segregazione rovina lo Stato?",
+            "Divisioni sociali, cattivo governo?",
+            "Perché governare diventa difficile?",
+            "La distanza crea corruzione?",
+            "Societa divise, istituzioni deboli?",
+        ]
+    if "artificial states" in lower:
+        return [
+            "I confini contano davvero?",
+            "Chi disegna uno Stato?",
+            "Stati artificiali, sviluppo fragile?",
+            "L'Africa divisa a tavolino?",
+            "Confini sbagliati, stati fragili?",
+        ]
+    if "equity concerns" in lower or "narrowly framed" in lower:
+        return [
+            "Siamo giusti solo vicino?",
+            "Quanto pesa l'equita?",
+            "La giustizia ha confini?",
+            "Pensiamo davvero agli altri?",
+            "L'equita finisce presto?",
+        ]
+    if "low fertility" in lower or "continued low fertility" in lower:
+        return [
+            "Meno figli, meno benessere?",
+            "La natalita ci impoverisce?",
+            "Il crollo demografico pesa?",
+            "Siamo troppo pochi?",
+            "Chi paga la denatalita?",
+        ]
+    if "mineral resources" in lower and "ethnic identities" in lower:
+        return [
+            "Le risorse dividono?",
+            "Quando i minerali creano identita?",
+            "L'etnia segue la ricchezza?",
+            "Le miniere cambiano politica?",
+            "Chi accende l'identita?",
+        ]
+    if "rage against the machines" in lower or ("labor-saving technology" in lower and "unrest" in lower):
+        return [
+            "Le macchine scatenano rivolte?",
+            "Quando la tecnologia fa rabbia?",
+            "L'automazione crea disordini?",
+            "Lavoratori contro le macchine?",
+            "Il progresso accende proteste?",
+        ]
     if "corruption" in lower and "populism" in lower:
         return [
             "La corruzione crea populisti?",
@@ -294,73 +499,202 @@ def fallback_titles_from_metadata(metadata):
             "La propaganda non muore?",
         ]
 
+    keywords = []
+    keyword_patterns = [
+        ("human capital", "capitale umano"),
+        ("industrialization", "industria"),
+        ("industrial revolution", "rivoluzione industriale"),
+        ("fertility", "natalita"),
+        ("segregation", "segregazione"),
+        ("ethnic", "identita"),
+        ("resources", "risorse"),
+        ("government", "governo"),
+        ("equity", "equita"),
+        ("state", "Stato"),
+        ("corruption", "corruzione"),
+        ("populism", "populismo"),
+    ]
+    for source, italian in keyword_patterns:
+        if source in lower and italian not in keywords:
+            keywords.append(italian)
+
+    if keywords:
+        pivot = keywords[0]
+        second = keywords[1] if len(keywords) > 1 else "crescita"
+        return [
+            f"{pivot.capitalize()} o {second}?",
+            f"Quanto conta {pivot}?",
+            f"{pivot.capitalize()} cambia tutto?",
+            f"Perche' {pivot} pesa?",
+            f"Il dato su {pivot}?",
+        ]
+
     short_title = real_title[:60].strip() if real_title else "Questo paper cosa dice?"
     return [
-        "Cosa ci insegna davvero?",
-        "Perche conta ancora oggi?",
-        "Il dato che sorprende?",
-        "La verita nascosta?",
-        short_title if len(short_title.split()) <= 5 else "Qual e il vero effetto?",
+        short_title if len(short_title.split()) <= 5 else "Che cosa cambia davvero?",
+        "Qual e' il meccanismo?",
+        "Il risultato regge?",
+        "Dove nasce l'effetto?",
+        "Perche' questo conta?",
     ]
 
 
-def generate_titles_and_metadata(pdf_path):
-    if not CLIENT:
-        text = extract_text(pdf_path, 3)
-        if not text:
-            raise WorkflowError(f"Impossibile leggere il PDF: {pdf_path}")
-        layout_title = extract_title_from_pdf_layout(pdf_path) or pdf_path.stem
-        metadata = parse_metadata_from_text(text, fallback_title=layout_title)
-        return fallback_titles_from_metadata(metadata), metadata
+def curated_titles_from_metadata(metadata, pdf_text=""):
+    real_title = metadata.get("real_title", "")
+    lower = f"{real_title}\n{pdf_text[:5000]}".lower()
 
+    if "human capital" in lower and ("industrialization" in lower or "industrial revolution" in lower):
+        return [
+            "I cervelli accendono le fabbriche?",
+            "L'Illuminismo ha acceso l'industria?",
+            "Quando il sapere diventa industria",
+            "Chi accese le fabbriche?",
+            "Le menti che fecero l'industria",
+        ]
+    return []
+
+
+def build_editorial_brief(metadata, pdf_text):
+    real_title = metadata.get("real_title", "")
+    lower = f"{real_title}\n{pdf_text[:5000]}".lower()
+
+    if "human capital" in lower and ("industrialization" in lower or "industrial revolution" in lower):
+        return (
+            "Nel Settecento francese, le città con più abbonati all'Encyclopédie "
+            "crescono di più dopo l'avvio dell'industrializzazione. Il punto del paper "
+            "è che non basta l'alfabetizzazione media: conta la conoscenza tecnica e "
+            "scientifica nelle élite locali, cioè il capitale umano di fascia alta."
+        )
+    return ""
+
+
+def title_rejected_by_sop(title, metadata, pdf_text):
+    lower_title = title.lower()
+    context = f"{metadata.get('real_title', '')}\n{pdf_text[:5000]}".lower()
+
+    if any(token in lower_title for token in ["alfabeti", "fece esplodere", "solo l'élite", "solo elite"]):
+        return True
+    if "human capital" in context and ("industrialization" in context or "industrial revolution" in context):
+        if any(token in lower_title for token in ["enciclop", "scuola non basta", "basta leggere", "alfabet"]):
+            return True
+    return False
+
+
+def generate_titles_with_llm(metadata, pdf_text):
+    if not CLIENT:
+        return []
+
+    title = metadata.get("real_title", "")
+    journal = metadata.get("journal", "")
+    year = metadata.get("year", "")
+    editorial_brief = build_editorial_brief(metadata, pdf_text)
+    prompt = f"""
+Sei l'editor del canale YouTube italiano "Cosa fanno gli economisti".
+
+Devi proporre 5 titoli video per un paper accademico.
+
+SOP obbligatorie:
+- pubblico generale, non addetti ai lavori;
+- tono divulgativo e accattivante;
+- massimo 5 parole per titolo;
+- stile domanda o hook clicky;
+- centrati sull'aspetto economico/sociale principale del paper;
+- no clickbait speculativo;
+- non incollare parole a caso dal paper;
+- non usare titoli nominali con due punti;
+- non usare titoli vaghi come "La scuola non basta?", "Le idee fanno crescere?", "La scintilla della Rivoluzione Industriale".
+- il titolo deve sintetizzare il claim del paper, non solo citare il metodo o il proxy empirico.
+
+Titolo accademico:
+{title}
+
+Rivista/anno:
+{journal} {year}
+
+Claim editoriale da usare come centro del titolo:
+{editorial_brief or "Estrai dall'abstract la domanda di ricerca, il risultato principale e il meccanismo economico/sociale."}
+
+Estratto del paper:
+{pdf_text[:4500]}
+
+Rispondi solo con un JSON array di 5 stringhe. Nessuna introduzione, nessuna spiegazione, nessun markdown.
+"""
+
+    def call_model(model):
+        class Timeout(Exception):
+            pass
+
+        def handler(_signum, _frame):
+            raise Timeout()
+
+        previous_handler = signal.signal(signal.SIGALRM, handler)
+        signal.alarm(25)
+        try:
+            return CLIENT.models.generate_content(model=model, contents=prompt)
+        finally:
+            signal.alarm(0)
+            signal.signal(signal.SIGALRM, previous_handler)
+
+    best_titles = []
+    for model in ["gemini-2.5-flash", "gemini-flash-latest"]:
+        try:
+            response = call_model(model)
+            text = response.text if response and response.text else ""
+        except Exception as exc:
+            log(f"Generazione titoli LLM fallita con {model}: {exc}")
+            continue
+
+        titles = []
+        try:
+            parsed = json.loads(text.strip().replace("```json", "").replace("```", ""))
+            if isinstance(parsed, list):
+                raw_items = [str(item) for item in parsed]
+            else:
+                raw_items = text.splitlines()
+        except Exception:
+            raw_items = text.splitlines()
+
+        for raw_line in raw_items:
+            cleaned = raw_line.strip()
+            cleaned = re.sub(r"^\s*\d+[\).\-\s]+", "", cleaned).strip()
+            cleaned = cleaned.strip("[],")
+            cleaned = cleaned.strip('"“”')
+            cleaned = cleaned.rstrip(".")
+            if not cleaned:
+                continue
+            if any(token in cleaned.lower() for token in ["proposte", "titoli video", "ecco"]):
+                continue
+            if ":" in cleaned:
+                continue
+            if title_rejected_by_sop(cleaned, metadata, pdf_text):
+                continue
+            word_count = len(re.findall(r"\b[\wÀ-ÿ']+\b", cleaned))
+            if word_count <= 5:
+                titles.append(cleaned)
+        if len(titles) >= 5:
+            return titles[:5]
+        if len(titles) > len(best_titles):
+            best_titles = titles
+
+    if len(best_titles) >= 3:
+        for fallback in fallback_titles_from_metadata(metadata, pdf_text):
+            if fallback not in best_titles:
+                best_titles.append(fallback)
+            if len(best_titles) >= 5:
+                return best_titles[:5]
+    return []
+
+
+def generate_titles_and_metadata(pdf_path):
     text = extract_text(pdf_path, 3)
     if not text:
         raise WorkflowError(f"Impossibile leggere il PDF: {pdf_path}")
-
-    titles_prompt = (
-        "Basandoti su questo estratto di paper:\n\n"
-        f"{text[:3000]}\n\n"
-        "Genera 5 titoli Catchy e Clickable per un video YouTube divulgativo. "
-        "MANDATORIO: MASSIMO 5 PAROLE per ogni titolo, stile clicky o domanda, "
-        "centrato sull'argomento principale del paper. "
-        "Rispondi SOLO con la lista numerata (1... 5...)."
-    )
-    try:
-        titles_response = CLIENT.models.generate_content(
-            model="gemini-flash-latest",
-            contents=titles_prompt,
-        )
-        titles = []
-        for line in titles_response.text.splitlines():
-            cleaned = line.strip()
-            if not cleaned or "." not in cleaned:
-                continue
-            prefix, value = cleaned.split(".", 1)
-            if prefix.strip().isdigit():
-                titles.append(value.strip().replace('"', ""))
-        if not titles:
-            titles = [titles_response.text.strip()[:100]]
-    except Exception:
-        layout_title = extract_title_from_pdf_layout(pdf_path) or pdf_path.stem
-        metadata = parse_metadata_from_text(text, fallback_title=layout_title)
-        return fallback_titles_from_metadata(metadata), metadata
-
-    metadata_prompt = (
-        "Basandoti su questo estratto di paper:\n\n"
-        f"{text[:2500]}\n\n"
-        "Estrai i metadati reali e rispondi in formato JSON: "
-        "{'real_title': '...', 'authors': '...', 'journal': '...', 'year': '...'}."
-    )
-    try:
-        metadata_response = CLIENT.models.generate_content(
-            model="gemini-flash-latest",
-            contents=metadata_prompt,
-        )
-        metadata_text = metadata_response.text.strip().replace("```json", "").replace("```", "")
-        metadata = json.loads(metadata_text)
-    except Exception:
-        layout_title = extract_title_from_pdf_layout(pdf_path) or pdf_path.stem
-        metadata = parse_metadata_from_text(text, fallback_title=layout_title)
+    text_title = extract_title_from_text_content(text)
+    layout_title = extract_title_from_pdf_layout(pdf_path) or pdf_path.stem
+    metadata = parse_metadata_from_text(text, fallback_title=text_title or layout_title)
+    if text_title:
+        metadata["real_title"] = text_title
+    titles = curated_titles_from_metadata(metadata, text) or generate_titles_with_llm(metadata, text) or fallback_titles_from_metadata(metadata, text)
     return titles[:5], metadata
 
 
@@ -388,7 +722,7 @@ def generate_cover(title):
     )
     if result.returncode != 0 or not TMP_COVER.exists():
         raise WorkflowError(
-            "Generazione copertina Gemini fallita. Non creo fallback locali perche' la SOP richiede approvazione su copertina AI reale."
+            "Generazione copertina fallita. Fornisci una cover approvata in Temp/assets/override_cover.png oppure registra una cover esterna."
         )
     if not TMP_COVER.exists():
         raise WorkflowError("Copertina non generata.")
@@ -571,62 +905,7 @@ def workflow_articoli(args):
             raise WorkflowError(result.stderr or result.stdout or "verify_paper fallito.")
         return 0
 
-    if not CLIENT:
-        raise WorkflowError("GEMINI_API_KEY non disponibile per /articoli.")
-
-    sys.path.append(str(ROOT / "Execution/ulisse"))
-    from news_extractor import SOURCES, get_raw_news_batch
-
-    raw_news = get_raw_news_batch()
-    if not raw_news:
-        raise WorkflowError("Nessuna news recuperata dalle fonti.")
-
-    news_headlines = "\n".join(f"[{item['source']}] {item['topic']}" for item in raw_news)
-    prompt = f"""
-Agisci come Ulisse, esperto di economia e comunicazione.
-Analizza questo pool di notizie di oggi e identifica i 3 argomenti piu caldi.
-
-Testate monitorate: ANSA, Corriere, Repubblica, Il Post, Fanpage.
-
-Pool Notizie:
-{news_headlines}
-
-Per ogni argomento, fornisci:
-1. TITOLO CATCHY (max 5 parole).
-2. Breve sintesi.
-3. Fonti.
-4. 2-3 broad academic areas (tags).
-
-Rispondi rigorosamente in JSON.
-"""
-    response = CLIENT.models.generate_content(model="gemini-flash-latest", contents=prompt)
-    topics = json.loads(response.text.replace("```json", "").replace("```", "").strip())
-
-    final_report = "# Report Ulisse\n\n"
-    final_report += f"Analisi basata sulle testate: {', '.join(SOURCES.keys())}\n\n"
-    for item in topics:
-        topic = item.get("topic", "N/A")
-        description = item.get("description", "N/A")
-        sources = item.get("sources", "N/A")
-        tags = ",".join(item.get("tags", []))
-        final_report += f"## {topic}\n\n{description}\n\nFonti: {sources}\n\nTag: {tags}\n\n"
-        verify_cmd = [
-            PYTHON,
-            ROOT / "Execution/ulisse/verify_paper.py",
-            "--tags",
-            tags,
-            "--query",
-            topic,
-        ]
-        verified = run_cmd(verify_cmd, check=False)
-        final_report += (verified.stdout or verified.stderr).strip() + "\n\n"
-
-    report_path = ROOT / f"Temp/ulisse/temi_hot_matched_{datetime.now().strftime('%d_%m_%Y_%H%M')}.txt"
-    ensure_parent(report_path)
-    report_path.write_text(final_report, encoding="utf-8")
-    print(final_report)
-    log(f"Report salvato in {report_path}")
-    return 0
+    raise WorkflowError("La modalita' automatica /articoli basata su LLM e' disattivata. Usa /articoli con --tags oppure verify_paper direttamente.")
 
 
 def workflow_paper(args):

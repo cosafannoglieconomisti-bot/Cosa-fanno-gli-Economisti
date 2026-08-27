@@ -3,12 +3,13 @@ import argparse
 import pickle
 import subprocess
 from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
 
 from google.auth.transport.requests import Request
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
-ROOT = Path("/Users/<USER>/Desktop/canale")
+ROOT = REPO_ROOT
 CREDENTIALS_DIR = ROOT / "Execution/credentials"
 PRIMARY_TOKEN = CREDENTIALS_DIR / "token.pickle"
 LEGACY_YT_TOKEN = CREDENTIALS_DIR / "token_youtube.pickle"

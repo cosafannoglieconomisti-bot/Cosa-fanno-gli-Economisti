@@ -1,10 +1,13 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import glob
 from PIL import Image
 
 def resize_thumbnail():
     # Usa glob per evitare problemi di normalizzazione caratteri su Mac
-    search_path = "/Users/<USER>/Desktop/canale/Cleaned/*citt*perdute*bronzo*2019"
+    search_path = str(REPO_ROOT / 'Cleaned' / '*citt*perdute*bronzo*2019')
     folders = glob.glob(search_path)
     
     if not folders:

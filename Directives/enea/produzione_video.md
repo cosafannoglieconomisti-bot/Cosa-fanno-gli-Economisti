@@ -13,7 +13,7 @@ La pipeline video inizia con la scelta del paper, la definizione del titolo e la
 1. **Comando**: `/paper` in Codex chat oppure `./workflow paper`.
 2. **Scelta Paper**: Codex elenca i PDF in `Papers/Da fare/` (**ricorsivamente**) e propone i **titoli accademici reali** del paper, non i nomi file.
 3. **Titoli Catchy**: Codex estrae il testo (prime 3 pagine) con `batch_text_extractor.py` e propone 5 titoli catchy (max 5 parole, stile domanda).
-4. **Generazione Copertina**: Una volta scelto il titolo, Codex genera la copertina con il motore immagine nativo OpenAI/Codex seguendo la SOP visuale del canale. `generate_cover.py`/Gemini resta solo fallback legacy non raccomandato.
+4. **Generazione Copertina**: Una volta scelto il titolo, la cover operativa deve essere fornita come asset approvato in `Temp/assets/override_cover.png` oppure registrata esplicitamente da Codex. `generate_cover.py` copia solo questo override locale.
 5. **Approvazione e Archiviazione**:
    - `✅ Approva`: Solo dopo approvazione esplicita, Codex recupera il **Titolo Accademico** reale del paper, crea la cartella `Cleaned/[Titolo_Scelto]`, sposta e rinomina il PDF in `Cleaned/[Titolo_Scelto]/[Titolo_Accademico].pdf`, salva `copertina.png` e inizializza `video_metadata.md`.
    - `🔄 Rigenera`: Codex genera una nuova variante della copertina.
@@ -124,7 +124,7 @@ python execution/video_cleaner.py ~/Downloads/video.mp4 L_ascesa_del_Male /path/
 
 ## SOP: Generazione Copertina (Thumbnail)
 
-Quando è richiesta la creazione di una miniatura per YouTube, utilizzare le seguenti linee guida strutturali per il prompt Text-to-Image (es. Midjourney / Imagen 3):
+Quando è richiesta la creazione di una miniatura per YouTube, utilizzare le seguenti linee guida strutturali per il prompt Text-to-Image del tool immagine approvato:
 
 - **Formato**: Quadrato 1:1 (es. 1024x1024 o 640x640 per retrocompatibilità).
 - **Stile Visivo**: Graphic novel comic book style (stile fumetto), palette colori vibrante arancione, nero e bianco. Altissimo contrasto, stile vettoriale.

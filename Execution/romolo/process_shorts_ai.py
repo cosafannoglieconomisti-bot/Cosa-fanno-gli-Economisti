@@ -1,76 +1,67 @@
-import os
-import json
-import pickle
-import time
-import re
-from googleapiclient.discovery import build
-from google import genai
-from dotenv import load_dotenv
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
 
-load_dotenv(dotenv_path='/Users/<USER>/Desktop/canale/Execution/credentials/.env')
+import json
+import os
+import pickle
+import re
+import sys
+import time
+
+from dotenv import load_dotenv
+from googleapiclient.discovery import build
+
+load_dotenv(dotenv_path=str(REPO_ROOT / 'Execution' / 'credentials' / '.env'))
+
 
 def get_youtube_service():
-    token_path = '/Users/<USER>/Desktop/canale/Execution/credentials/token_youtube.pickle'
-    with open(token_path, 'rb') as token:
+    token_path = str(REPO_ROOT / 'Execution' / 'credentials' / 'token_youtube.pickle')
+    with open(token_path, "rb") as token:
         creds = pickle.load(token)
-    return build('youtube', 'v3', credentials=creds)
+    return build("youtube", "v3", credentials=creds)
 
-def get_gemini_client():
-    api_key = os.getenv("GEMINI_API_KEY")
-    return genai.Client(api_key=api_key)
 
 def is_date_title(title):
-    """Detects if a title is a date (Italian or English format)."""
-    # Italian: 11 aprile 2026, 11 apr 2026
-    # English: Apr 11, 2024
     date_patterns = [
-        r'^\d{1,2}\s+(gennaio|febbraio|marzo|aprile|maggio|giugno|luglio|agosto|settembre|ottobre|novembre|dicembre)\s+\d{4}$',
-        r'^\d{1,2}\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+\d{4}$',
-        r'^[A-Za-z]{3}\s\d{1,2},\s\d{4}$'
+        r"^\d{1,2}\s+(gennaio|febbraio|marzo|aprile|maggio|giugno|luglio|agosto|settembre|ottobre|novembre|dicembre)\s+\d{4}$",
+        r"^\d{1,2}\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+\d{4}$",
+        r"^[A-Za-z]{3}\s\d{1,2},\s\d{4}$",
     ]
-    for pattern in date_patterns:
-        if re.match(pattern, title, re.IGNORECASE):
-            return True
-    return False
+    return any(re.match(pattern, title, re.IGNORECASE) for pattern in date_patterns)
 
-def generate_metadata(client, original_title, parent_title, parent_context, transcript=""):
-    prompt = f"""Sei un esperto Social Media Manager per YouTube.
-Devi ottimizzare il titolo e il gancio (hook) di uno YouTube Short per attirare traffico verso un video lungo.
 
-Dati dello Short attuale:
-- Titolo attuale: {original_title}
-- Trascrizione (se disponibile): {transcript}
+def normalize_tokens(text):
+    text = re.sub(r"[^a-zA-Z0-9àèéìòù ]+", " ", text.lower())
+    stopwords = {"il", "lo", "la", "i", "gli", "le", "un", "una", "uno", "di", "del", "della", "dei", "e", "in", "con", "per", "su", "che"}
+    return [token for token in text.split() if len(token) > 3 and token not in stopwords]
 
-Dati del Video Lungo (Padre):
-- Titolo video padre: {parent_title}
-- Contesto/Metadati: {parent_context}
 
-REGOLE MANDATORIE:
-1. TITOLO: Catchy, massimo 60 caratteri, usa emoji. Deve essere SPECIFICO per il contenuto dello short, non generico. Evita titoli tipo "La verità su..." o "Ecco perché..." se sono troppo vaghi.
-2. HOOK: Una singola frase potente che faccia venire voglia di vedere il video completo.
-3. TAGS: Restituisci una stringa di tag che includa SEMPRE #shorts #economia e 1-2 tag specifici legati all'argomento.
+def build_specific_tags(parent_title, transcript):
+    base = ["#shorts", "#economia"]
+    tokens = normalize_tokens(f"{parent_title} {transcript}")
+    extras = []
+    for token in tokens:
+        candidate = "#" + re.sub(r"[^A-Za-z0-9]", "", token.title())
+        if candidate not in base and candidate not in extras:
+            extras.append(candidate)
+        if len(extras) == 2:
+            break
+    return " ".join(base + extras)
 
-Restituisci ESCLUSIVAMENTE un JSON nel formato:
-{{
-  "title": "Nuovo Titolo",
-  "hook": "Frase ad effetto",
-  "tags": "#shorts #economia #tag1 #tag2"
-}}
-"""
-    response = client.models.generate_content(
-        model='gemini-flash-latest',
-        contents=prompt,
-        config={
-            "response_mime_type": "application/json"
-        }
-    )
-    return json.loads(response.text)
+
+def generate_metadata(original_title, parent_title, parent_context, transcript=""):
+    parent_clean = parent_title.replace("_", " ")
+    title_tokens = normalize_tokens(f"{original_title} {transcript}")[:5]
+    if title_tokens:
+        title = " ".join(token.capitalize() for token in title_tokens[:4])
+    else:
+        title = parent_clean[:60]
+    hook = f"Un estratto dal paper su {parent_clean.lower()}."
+    tags = build_specific_tags(parent_clean, transcript or parent_context)
+    return {"title": title[:60], "hook": hook, "tags": tags}
+
 
 def find_parent_video(video_id, title, tracking):
-    """
-    Attempts to find the parent video in tracking using keyword matching.
-    """
-    # Manual overrides for cases identified via research
     overrides = {
         "RWOMLttjSGw": "Dalle_Guerre_ai_Capolavori",
         "M_4e4I_ql8U": "Quando_la_Chiesa_fermo_l_Italia",
@@ -81,173 +72,101 @@ def find_parent_video(video_id, title, tracking):
         "TkBdxKizXBw": "I_prof_sono_razzisti",
         "U3GRvQR612Q": "Il_comunismo_ti_cambia_la_mente",
         "DSucrUBXJws": "Laratro_ha_creato_il_patriarcato",
-        "TE2601I7Y1c": "Dio_blocca_la_democrazia"
+        "TE2601I7Y1c": "Dio_blocca_la_democrazia",
     }
     if video_id in overrides:
         return overrides[video_id]
 
-    # Clean the title for matching
-    clean_title = re.sub(r'[^\w\s]', '', title.lower())
-    title_words = set(clean_title.split())
-    # Exclude common stop words for better matching
-    stop_words = {'il', 'lo', 'la', 'i', 'gli', 'le', 'un', 'una', 'uno', 'di', 'del', 'della', 'dei', 'degli', 'delle', 'e', 'è', 'in', 'per', 'con', 'su', 'a', 'da', 'tra', 'fra', 'che', 'chi', 'come', 'perché', 'cosa', 'fanno', 'storia', 'verità', 'studio', 'shock'}
-    keywords = title_words - stop_words
-
-    if not keywords:
-        return None
-
+    keywords = set(normalize_tokens(title))
     best_match = None
     max_overlap = 0
-
     for key in tracking.keys():
-        clean_key = key.replace('_', ' ').lower()
-        key_words = set(re.sub(r'[^\w\s]', '', clean_key).split())
-        overlap = len(keywords.intersection(key_words))
-        
+        key_words = set(normalize_tokens(key.replace("_", " ")))
+        overlap = len(keywords & key_words)
         if overlap > max_overlap:
             max_overlap = overlap
             best_match = key
+    return best_match if max_overlap >= 1 else None
 
-    # Require at least 2 matching keywords or a single very specific word to avoid false positives
-    if max_overlap >= 1:
-        return best_match
-
-    return None
 
 def main(dry_run=True):
     youtube = get_youtube_service()
-    client = get_gemini_client()
-    tracking_path = '/Users/<USER>/Desktop/canale/Cleaned/video_tracking.json'
-    full_list_path = '/Users/<USER>/Desktop/canale/Temp/romolo/videos_list_updated.json'
-    shorts_list_path = '/Users/<USER>/Desktop/canale/Temp/romolo/shorts_list.json'
-    
-    with open(tracking_path, 'r', encoding='utf-8') as f:
-        tracking = json.load(f)
+    tracking_path = str(REPO_ROOT / 'Cleaned' / 'video_tracking.json')
+    full_list_path = str(REPO_ROOT / 'Temp' / 'romolo' / 'videos_list_updated.json')
+    shorts_list_path = str(REPO_ROOT / 'Temp' / 'romolo' / 'shorts_list.json')
 
-    to_update = []
-    
-    # 1. Load verified shorts metadata into a lookup dictionary
+    with open(tracking_path, "r", encoding="utf-8") as handle:
+        tracking = json.load(handle)
+
     verified_shorts = {}
     if os.path.exists(shorts_list_path):
-        with open(shorts_list_path, 'r', encoding='utf-8') as f:
-            for s in json.load(f):
-                verified_shorts[s['id']] = s
+        with open(shorts_list_path, "r", encoding="utf-8") as handle:
+            for short in json.load(handle):
+                verified_shorts[short["id"]] = short
 
-    # 2. Collect all candidates for update
-    priority_ids = []
-    candidates = set(priority_ids)
+    candidates = set()
+    for short_id, short in verified_shorts.items():
+        desc = short.get("description", "")
+        title = short.get("title", "")
+        if "https://youtu.be/" not in desc or is_date_title(title):
+            candidates.add(short_id)
 
-    # Candidates from shorts list (missing links, date titles or priority)
-    for v_id, s in verified_shorts.items():
-        desc = s.get('description', '')
-        title = s.get('title', '')
-        if "https://youtu.be/" not in desc or is_date_title(title) or v_id in priority_ids:
-            candidates.add(v_id)
-
-    # 3. Build the final to_update list with the best available data
-    for v_id in candidates:
-        # Get title from verified list if possible, else we'll find it
-        s = verified_shorts.get(v_id, {})
-        title = s.get('title')
-        
-        # If not in verified_shorts, we need to find it in full_list to get current title
+    to_update = []
+    for short_id in candidates:
+        short = verified_shorts.get(short_id, {})
+        title = short.get("title")
         if not title and os.path.exists(full_list_path):
-            with open(full_list_path, 'r', encoding='utf-8') as f:
-                for v in json.load(f):
-                    if v['id'] == v_id:
-                        title = v['title']
+            with open(full_list_path, "r", encoding="utf-8") as handle:
+                for item in json.load(handle):
+                    if item["id"] == short_id:
+                        title = item["title"]
                         break
-        
-        if not title: title = "Short" # Fallback
-
-        # Parent mapping
-        static_parents = {
-            "quTv_FGu7Ro": "Perche_ignoriamo_le_disuguaglianze",
-            "d5_ef1mTxH4": "I_Presidenti_mentono_sulle_tasse",
-            "9LH3nPh3DXc": "Meno_competizione_piu_merito",
-            "JGaktG1y-Q0": "Network_criminali_quanto_rendono_davvero",
-            "4fqnA4eaOuk": "Perche_l_invecchiamento_rallenta_il_PIL",
-            "nU1DbhwdKfY": "Cervelli_in_fuga_un_danno",
-            "DSucrUBXJws": "Laratro_ha_creato_il_patriarcato",
-            "TE2601I7Y1c": "Dio_blocca_la_democrazia",
-            "D-j41dR110M": "Regolarizzare_gli_immigrati_riduce_il_crimine"
-        }
-        
-        parent_key = static_parents.get(v_id) or find_parent_video(v_id, title, tracking)
-        
+        if not title:
+            title = "Short"
+        parent_key = find_parent_video(short_id, title, tracking)
         if parent_key:
-            update_item = {"id": v_id, "title": title, "parent_key": parent_key}
-            
-            # Add verified description if it's already "good" (has link and not date title)
-            # OR if it's a priority ID and we have a description in the cache
-            desc = s.get('description', '')
-            if ("https://youtu.be/" in desc and not is_date_title(title)) or (v_id in priority_ids and desc):
-                update_item["description"] = desc
-                
-            to_update.append(update_item)
-            print(f"Targeting Update: {v_id} ({title}) [Verified Data: {'description' in update_item}]")
+            to_update.append({"id": short_id, "title": title, "parent_key": parent_key, "description": short.get("description", "")})
 
     for item in to_update:
         print(f"\nProcessing {item['id']} ({item['title']})...")
-        parent_key = item['parent_key']
+        parent_key = item["parent_key"]
         parent_data = tracking.get(parent_key, {})
-        parent_id = parent_data.get('youtube_id')
-        
+        parent_id = parent_data.get("youtube_id")
         if not parent_id:
             print(f"Skipping {item['id']}: Parent video ID not found.")
             continue
 
-        # Load transcript if available
         transcript = ""
-        transcript_path = f'/Users/<USER>/Desktop/canale/Temp/romolo/transcript_{item["id"]}.srt'
+        transcript_path = f"/Users/<USER>/Desktop/canale/Temp/romolo/transcript_{item['id']}.srt"
         if os.path.exists(transcript_path):
-            with open(transcript_path, 'r', encoding='utf-8') as f:
-                transcript = f.read()
-            print("Transcript loaded for better AI context.")
+            with open(transcript_path, "r", encoding="utf-8") as handle:
+                transcript = handle.read()
 
-        # If we already have a manually verified description, use it!
-        if "description" in item:
-            new_title = item['title']
-            final_description = item['description']
-            print("Using pre-defined metadata from shorts_list.json")
+        if item["description"] and "https://youtu.be/" in item["description"] and not is_date_title(item["title"]):
+            new_title = item["title"]
+            final_description = item["description"]
         else:
-            try:
-                new_meta = generate_metadata(client, item['title'], parent_key.replace('_', ' '), str(parent_data), transcript)
-                new_title = new_meta['title']
-                # SOP: Link must be clickable and in isolated line
-                final_description = f"{new_meta['hook']}\n\nVideo completo qui: https://youtu.be/{parent_id}\n\n{new_meta['tags']}"
-            except Exception as e:
-                if "429" in str(e):
-                    print("Rate limit hit, waiting 30s...")
-                    time.sleep(30)
-                    new_meta = generate_metadata(client, item['title'], parent_key.replace('_', ' '), str(parent_data), transcript)
-                    new_title = new_meta['title']
-                    final_description = f"{new_meta['hook']}\n\nVideo completo qui: https://youtu.be/{parent_id}\n\n{new_meta['tags']}"
-                else:
-                    raise e
-        
+            new_meta = generate_metadata(item["title"], parent_key, str(parent_data), transcript)
+            new_title = new_meta["title"]
+            final_description = f"{new_meta['hook']}\n\nVideo completo qui: https://youtu.be/{parent_id}\n\n{new_meta['tags']}"
+
         print(f"NEW TITLE: {new_title}")
         print(f"NEW DESC: {final_description}")
-        
+
         if not dry_run:
             try:
-                video_response = youtube.videos().list(part="snippet", id=item['id']).execute()
-                snippet = video_response['items'][0]['snippet']
-                snippet['title'] = new_title[:100]
-                snippet['description'] = final_description
-                
-                youtube.videos().update(
-                    part="snippet",
-                    body={"id": item['id'], "snippet": snippet}
-                ).execute()
+                video_response = youtube.videos().list(part="snippet", id=item["id"]).execute()
+                snippet = video_response["items"][0]["snippet"]
+                snippet["title"] = new_title[:100]
+                snippet["description"] = final_description
+                youtube.videos().update(part="snippet", body={"id": item["id"], "snippet": snippet}).execute()
                 print(f"✅ Updated {item['id']}")
-            except Exception as e:
-                print(f"❌ Error updating {item['id']}: {e}")
-        
-        print("Waiting 15s for rate limits...")
-        time.sleep(15)
+            except Exception as exc:
+                print(f"❌ Error updating {item['id']}: {exc}")
+
+        time.sleep(2)
+
 
 if __name__ == "__main__":
-    import sys
     dry_run = "--real" not in sys.argv
     main(dry_run=dry_run)

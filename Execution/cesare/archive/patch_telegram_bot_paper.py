@@ -1,7 +1,10 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[3]
+
 # patch_telegram_bot_paper.py
 import os
 
-bot_path = "/Users/<USER>/Desktop/canale/Execution/cesare/telegram_bot.py"
+bot_path = str(REPO_ROOT / 'Execution' / 'cesare' / 'telegram_bot.py')
 
 with open(bot_path, 'r', encoding='utf-8') as f:
     content = f.read()
@@ -12,7 +15,7 @@ if "from datetime import datetime" not in content:
 
 # 2. Inserisci Stato Globale (se non presente)
 if "user_sessions = {}" not in content:
-    old_state = 'BACKLOG_PATH = "/Users/<USER>/Desktop/canale/Temp/cesare/backlog.txt"'
+    old_state = "BACKLOG_PATH = str(REPO_ROOT / 'Temp' / 'cesare' / 'backlog.txt')"
     new_state = old_state + '\nuser_sessions = {}  # {chat_id: {"paper": "...", "titles": []}}'
     content = content.replace(old_state, new_state)
 
@@ -33,8 +36,8 @@ callback_payload = """    action_data = call.data
         
         # Estrai testo
         subprocess.run([
-            "/Users/<USER>/Desktop/canale/.venv/bin/python3",
-            "/Users/<USER>/Desktop/canale/Execution/enea/batch_text_extractor.py",
+            str(REPO_ROOT / '.venv' / 'bin' / 'python3'),
+            str(REPO_ROOT / 'Execution' / 'enea' / 'batch_text_extractor.py'),
             file_name
         ])
         
@@ -79,7 +82,7 @@ callback_payload = """    action_data = call.data
         
         # Crea cartella Cleaned/[Titolo]
         clean_title = "".join([c if c.isalnum() or c in (' ', '_', '-') else '' for c in selected]).replace(' ', '_')
-        dir_path = f"/Users/<USER>/Desktop/canale/Cleaned/{clean_title}"
+        dir_path = fstr(REPO_ROOT / 'Cleaned' / '{clean_title}')
         os.makedirs(dir_path, exist_ok=True)
         
         # Salva metadati
@@ -88,9 +91,9 @@ callback_payload = """    action_data = call.data
                 f_meta.write(metadata_content)
                 
         # Crea Temp/enea per evitare errori di cartella
-        os.makedirs("/Users/<USER>/Desktop/canale/Temp/enea", exist_ok=True)
+        os.makedirs(str(REPO_ROOT / 'Temp' / 'enea'), exist_ok=True)
         active_pipe = {"paper": paper, "title": selected, "clean_title": clean_title, "dir": dir_path}
-        with open("/Users/<USER>/Desktop/canale/Temp/enea/active_pipeline.json", 'w', encoding='utf-8') as f_pipe:
+        with open(str(REPO_ROOT / 'Temp' / 'enea' / 'active_pipeline.json'), 'w', encoding='utf-8') as f_pipe:
                 import json
                 json.dump(active_pipe, f_pipe)
                 
@@ -103,7 +106,7 @@ if "paper_select:" not in content:
 # 4. Inserisci comando /paper e /copertina in handle_message
 command_marker = "    elif user_msg_stripped == '/report':"
 command_payload = """    elif user_msg_stripped == '/paper':
-        paper_dir = "/Users/<USER>/Desktop/canale/Papers/Da fare"
+        paper_dir = str(REPO_ROOT / 'Papers' / 'Da fare')
         try:
             pdfs = [f for f in os.listdir(paper_dir) if f.endswith(".pdf")]
             if not pdfs:

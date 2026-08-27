@@ -3,20 +3,24 @@
 Download deterministico usando direttamente il modulo notebooklm_tools.
 Estrae l'URL fresco via _list_raw() poi scarica con _download_url().
 """
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 import asyncio
 import sys
 import json
 import os
 
-PROFILE_DIR = "/Users/<USER>/.notebooklm-mcp-cli/profiles/default"
+PROFILE_DIR = str(HOME / '.notebooklm-mcp-cli' / 'profiles' / 'default')
 COOKIES_PATH = f"{PROFILE_DIR}/cookies.json"
 META_PATH = f"{PROFILE_DIR}/metadata.json"
 
 NOTEBOOK_ID = "a03e52a7-2725-4e35-9fe0-7e6f32ff7145"
 INFOGRAPHIC_ID = "6124c3c8-ae20-42d2-899b-771a3c7ca88e"
 VIDEO_ID = "87c04d5c-a14b-4ac8-8715-95c7be26cb97"
-OUTPUT_INFOGRAPHIC = "/Users/<USER>/Desktop/canale/Temp/enea/infografica_raw.png"
-OUTPUT_VIDEO = "/Users/<USER>/Desktop/canale/Temp/enea/Poveri_in_Pensione_raw.mp4"
+OUTPUT_INFOGRAPHIC = str(REPO_ROOT / 'Temp' / 'enea' / 'infografica_raw.png')
+OUTPUT_VIDEO = str(REPO_ROOT / 'Temp' / 'enea' / 'Poveri_in_Pensione_raw.mp4')
 
 
 def load_credentials():

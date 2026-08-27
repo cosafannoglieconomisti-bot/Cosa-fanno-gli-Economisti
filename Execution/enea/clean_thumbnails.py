@@ -1,9 +1,13 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 from PIL import Image, ImageDraw
 
 def clean_mafia():
     # Mafia Inc image
-    img_path = "/Users/<USER>/.gemini/antigravity/brain/5bc8acda-cbd4-4b83-920f-32154964403a/mafia_inc_final_1774101368577.png"
-    out_path = "/Users/<USER>/Desktop/canale/Cleaned/Mafia_Inc_restat_2021/thumbnail_v4.png"
+    img_path = str(HOME / '.gemini' / 'antigravity' / 'brain' / '5bc8acda-cbd4-4b83-920f-32154964403a' / 'mafia_inc_final_1774101368577.png')
+    out_path = str(REPO_ROOT / 'Cleaned' / 'Mafia_Inc_restat_2021' / 'thumbnail_v4.png')
     img = Image.open(img_path).convert("RGBA")
     draw = ImageDraw.Draw(img)
     w, h = img.size
@@ -24,8 +28,8 @@ def clean_mafia():
 
 def clean_archeo():
     # Archeologia image
-    img_path = "/Users/<USER>/.gemini/antigravity/brain/5bc8acda-cbd4-4b83-920f-32154964403a/archeologia_final_1774101386637.png"
-    out_path = "/Users/<USER>/Desktop/canale/Cleaned/Le_città_perdute_dell_età_del_bronzo_qje_2019/thumbnail_v4.png"
+    img_path = str(HOME / '.gemini' / 'antigravity' / 'brain' / '5bc8acda-cbd4-4b83-920f-32154964403a' / 'archeologia_final_1774101386637.png')
+    out_path = str(REPO_ROOT / 'Cleaned' / 'Le_città_perdute_dell_età_del_bronzo_qje_2019' / 'thumbnail_v4.png')
     img = Image.open(img_path).convert("RGBA")
     draw = ImageDraw.Draw(img)
     w, h = img.size

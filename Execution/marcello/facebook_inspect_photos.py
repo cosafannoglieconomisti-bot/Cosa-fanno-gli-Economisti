@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import asyncio
 from playwright.async_api import async_playwright
 
@@ -31,7 +34,7 @@ async def run():
             src = await img.get_attribute("src")
             print(f"[{i}] Alt: {alt} | Src (short): {src[:40] if src else 'None'}...")
 
-        await page.screenshot(path='/Users/<USER>/Desktop/canale/Execution/marcello/facebook_inspect_photos.png')
+        await page.screenshot(path=str(REPO_ROOT / 'Execution' / 'marcello' / 'facebook_inspect_photos.png'))
         print("Screenshot salvato.")
 
         await browser.close()

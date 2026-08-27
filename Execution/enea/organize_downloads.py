@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import json
 import shutil
@@ -6,7 +9,7 @@ import re
 # Config
 JSON_INPUT = "/tmp/papers_to_review_italy_v4.json"
 SOURCE_DIR = os.path.expanduser("~/Downloads")
-TARGET_BASE = "/Users/<USER>/Desktop/canale/Papers/Da fare/"
+TARGET_BASE = str(REPO_ROOT / 'Papers' / 'Da fare' / '')
 
 ACRONYMS = {
     "American Economic Review": "AER",

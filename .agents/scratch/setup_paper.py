@@ -1,10 +1,13 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import shutil
 import json
 from datetime import datetime
 
 # Config
-BASE_DIR = "/Users/<USER>/Desktop/canale"
+BASE_DIR = str(REPO_ROOT)
 CLEANED_DIR = os.path.join(BASE_DIR, "Cleaned")
 PAPERS_DIR = os.path.join(BASE_DIR, "Papers/Da fare")
 TRACKING_FILE = os.path.join(CLEANED_DIR, "video_tracking.json")

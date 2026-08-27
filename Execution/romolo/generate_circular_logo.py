@@ -1,10 +1,13 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 from PIL import Image, ImageDraw
 
 def process_logo_tight():
-    input_path = "/Users/<USER>/Desktop/canale/Execution/romolo/Logo_canale_transparente.png"
-    output_transparent = "/Users/<USER>/Desktop/canale/Execution/romolo/Logo_canale_tondo_trasparente.png"
-    output = "/Users/<USER>/Desktop/canale/Execution/romolo/Logo_canale_tondo_nero.png"
+    input_path = str(REPO_ROOT / 'Execution' / 'romolo' / 'Logo_canale_transparente.png')
+    output_transparent = str(REPO_ROOT / 'Execution' / 'romolo' / 'Logo_canale_tondo_trasparente.png')
+    output = str(REPO_ROOT / 'Execution' / 'romolo' / 'Logo_canale_tondo_nero.png')
 
     if not os.path.exists(input_path):
         print(f"ERRORE: File non trovato a {input_path}")

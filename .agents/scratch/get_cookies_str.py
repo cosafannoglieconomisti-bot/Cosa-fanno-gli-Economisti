@@ -1,3 +1,6 @@
+from pathlib import Path
+HOME = Path.home()
+
 import json
 
 def cookies_to_string(cookies_json_path):
@@ -7,5 +10,5 @@ def cookies_to_string(cookies_json_path):
     return "; ".join([f"{c['name']}={c['value']}" for c in cookies])
 
 if __name__ == "__main__":
-    cookies_str = cookies_to_string("/Users/<USER>/.notebooklm-mcp-cli/profiles/default/cookies.json")
+    cookies_str = cookies_to_string(str(HOME / '.notebooklm-mcp-cli' / 'profiles' / 'default' / 'cookies.json'))
     print(cookies_str)

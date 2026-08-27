@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import json
 import requests
@@ -14,7 +17,7 @@ load_dotenv(env_path)
 BUFFER_TOKEN = os.getenv("BUFFER_ACCESS_TOKEN")
 IG_PROFILE_ID = os.getenv("IG_PROFILE_ID")
 REPO_BASE_URL = "https://raw.githubusercontent.com/cosafannoglieconomisti-bot/Cosa-fanno-gli-Economisti/main"
-CLEANED_DIR = "/Users/<USER>/Desktop/canale/Cleaned"
+CLEANED_DIR = str(REPO_ROOT / 'Cleaned')
 
 # Mapping of Paper Folders to Infographics and YT Links
 PAPERS = [

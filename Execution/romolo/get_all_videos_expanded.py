@@ -1,10 +1,13 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import pickle
 from googleapiclient.discovery import build
 
 def get_authenticated_service():
     # Absolute path to the token file in Romolo folder
-    token_path = '/Users/<USER>/Desktop/canale/Execution/credentials/token_youtube.pickle'
+    token_path = str(REPO_ROOT / 'Execution' / 'credentials' / 'token_youtube.pickle')
     with open(token_path, 'rb') as token:
         creds = pickle.load(token)
     return build('youtube', 'v3', credentials=creds)

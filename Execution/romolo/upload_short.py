@@ -1,10 +1,13 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import pickle
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
 def get_authenticated_service():
-    token_path = '/Users/<USER>/Desktop/canale/Execution/credentials/token_youtube.pickle'
+    token_path = str(REPO_ROOT / 'Execution' / 'credentials' / 'token_youtube.pickle')
     with open(token_path, 'rb') as token:
         creds = pickle.load(token)
     return build('youtube', 'v3', credentials=creds)
@@ -12,7 +15,7 @@ def get_authenticated_service():
 def upload_short():
     youtube = get_authenticated_service()
     
-    video_path = '/Users/<USER>/Desktop/canale/Cleaned/L_ascesa_del_Male/short_intro_20s.mp4'
+    video_path = str(REPO_ROOT / 'Cleaned' / 'L_ascesa_del_Male' / 'short_intro_20s.mp4')
     title = "L'ascesa del Male - Intro #shorts"
     description = "La borsa di Berlino e Hitler. #shorts #hitler #economia"
     schedule_time_iso = '2026-03-19T08:00:00Z' # 9:00 AM CET

@@ -1,10 +1,13 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import pickle
 import json
 from googleapiclient.discovery import build
 
 def get_authenticated_service():
-    token_path = '/Users/<USER>/Desktop/canale/Execution/credentials/token_youtube.pickle'
+    token_path = str(REPO_ROOT / 'Execution' / 'credentials' / 'token_youtube.pickle')
     with open(token_path, 'rb') as token:
         creds = pickle.load(token)
     return build('youtube', 'v3', credentials=creds)
@@ -20,7 +23,7 @@ def parse_duration(duration):
     return int(h or 0) * 3600 + int(m or 0) * 60 + int(s or 0)
 
 def main():
-    json_path = '/Users/<USER>/Desktop/canale/Temp/romolo/videos_list_updated.json'
+    json_path = str(REPO_ROOT / 'Temp' / 'romolo' / 'videos_list_updated.json')
     if not os.path.exists(json_path):
         print("Error: JSON file not found.")
         return
@@ -52,7 +55,7 @@ def main():
                     "duration": duration_seconds
                 })
 
-    output_path = '/Users/<USER>/Desktop/canale/Temp/romolo/shorts_list.json'
+    output_path = str(REPO_ROOT / 'Temp' / 'romolo' / 'shorts_list.json')
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(shorts, f, ensure_ascii=False, indent=4)
     print(f"Found {len(shorts)} shorts. Saved to {output_path}")

@@ -3,20 +3,21 @@ import shutil
 import time
 import re
 from pathlib import Path
-from google import genai
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 from dotenv import load_dotenv
 import fitz  # PyMuPDF
 
 # Configuration
-BASE_DIR = Path("/Users/<USER>/Desktop/canale")
-DOWNLOADS_DIR = Path("/Users/<USER>/Downloads")
+BASE_DIR = REPO_ROOT
+DOWNLOADS_DIR = HOME / "Downloads"
 TARGET_DIR = BASE_DIR / "Papers/Da fare"
 CLEANED_DIR = BASE_DIR / "Cleaned"
 ENV_PATH = BASE_DIR / ".env"
 
 # Load environment variables
 load_dotenv(ENV_PATH)
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 def extract_text(pdf_path, max_pages=3):
     """Extracts first few pages of text from PDF."""
@@ -31,26 +32,41 @@ def extract_text(pdf_path, max_pages=3):
         return ""
 
 def get_academic_title(pdf_text):
-    """Uses Gemini to extract the real academic title from text."""
-    if not GEMINI_API_KEY:
-        print("⚠️ Warning: GEMINI_API_KEY not found. Using filename as title.")
+    """Estrae il titolo accademico con regole locali dal testo del PDF."""
+    cleaned_lines = []
+    for raw_line in pdf_text.splitlines():
+        line = re.sub(r"\s+", " ", raw_line).strip()
+        if not line or len(line) < 8:
+            continue
+        if line.lower().startswith(("abstract", "introduction", "jel", "keywords", "contents")):
+            continue
+        if re.fullmatch(r"[\d\W_]+", line):
+            continue
+        cleaned_lines.append(line)
+
+    if not cleaned_lines:
         return None
 
-    client = genai.Client(api_key=GEMINI_API_KEY)
-    prompt = f"""Extract the exact academic title of the paper from the following text (first 3 pages).
-    Output ONLY the title, nothing else. No punctuation at the end.
-    
-    TEXT:
-    {pdf_text[:10000]}
-    """
-    
-    try:
-        response = client.models.generate_content(model='gemini-flash-latest', contents=prompt)
-        if response and response.text:
-            return response.text.strip()
-    except Exception as e:
-        print(f"⚠️ Gemini API Error: {e}")
-    return None
+    title_lines = []
+    for line in cleaned_lines[:12]:
+        lower = line.lower()
+        if any(token in lower for token in ["university", "department", "institute", "@", "http://", "https://"]):
+            if title_lines:
+                break
+            continue
+        if len(line.split()) > 20:
+            if title_lines:
+                break
+            continue
+        title_lines.append(line)
+        if len(" ".join(title_lines)) >= 40 and len(title_lines) >= 2:
+            break
+
+    title = " ".join(title_lines).strip()
+    if title.endswith(":") and len(cleaned_lines) > len(title_lines):
+        title = f"{title} {cleaned_lines[len(title_lines)].rstrip('*†‡∗')}".strip()
+    title = re.sub(r"\s+", " ", title)
+    return title or None
 
 def sanitize_filename(name):
     """Sanitizes the filename for Unix/Mac systems."""

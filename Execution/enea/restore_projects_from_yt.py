@@ -1,3 +1,5 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
 
 import os
 import pickle
@@ -6,8 +8,8 @@ import requests
 from googleapiclient.discovery import build
 from google.auth.transport.requests import Request
 
-TOKEN_FILE = "/Users/<USER>/Desktop/canale/Execution/romolo/.tmp/tokens/token_youtube.pickle"
-CLEANED_DIR = "/Users/<USER>/Desktop/canale/Cleaned"
+TOKEN_FILE = str(REPO_ROOT / 'Execution' / 'romolo' / '.tmp' / 'tokens' / 'token_youtube.pickle')
+CLEANED_DIR = str(REPO_ROOT / 'Cleaned')
 
 def get_youtube_service():
     with open(TOKEN_FILE, "rb") as f:

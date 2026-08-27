@@ -1,5 +1,8 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
-base_dir = "/Users/<USER>/Desktop/canale/Cleaned"
+base_dir = str(REPO_ROOT / 'Cleaned')
 print(f"Checking path: {base_dir}")
 count = 0
 for root, dirs, files in os.walk(base_dir):

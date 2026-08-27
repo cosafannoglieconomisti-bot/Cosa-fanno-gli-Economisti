@@ -1,5 +1,7 @@
 # Istruzioni Generali e Regole del Canale ("Cosa fanno gli economisti")
 
+> Nota operativa 2026-07-15: questo file resta come archivio storico del setup Gemini. Il workflow attivo del repository e' ora locale/deterministico; quando questo file confligge con `README.md`, `Directives/` o gli script correnti, prevalgono gli script correnti e le direttive aggiornate.
+
 Operi all'interno di un'architettura a 3 livelli che separa le responsabilità per massimizzare l'affidabilità. Gli LLM sono probabilistici, mentre la logica di business è deterministica.
 
 ---
@@ -24,7 +26,7 @@ Operi all'interno di un'architettura a 3 livelli che separa le responsabilità p
 4.  **Tracciabilità File nelle SOP**: Ogni SOP deve riportare alla fine l'elenco dei file Python utilizzati nell'ultima esecuzione riuscita, nell'ordine esatto di esecuzione. Questa lista deve essere aggiornata automaticamente ogni volta che i file vengono modificati, aggiornati, eliminati o aggiunti per garantire la massima deterministicità.
 5.  **Ambiente Virtuale (MANDATORIO)**: Tutti gli script devono essere eseguiti utilizzando il Python dell'ambiente virtuale dedicato: `/Users/<USER>/Desktop/canale/.venv/bin/python3`. L'uso del Python di sistema è vietato per evitare `ModuleNotFoundError`.
 6.  **Logging Non-Bufferizzato**: I processi in background (come le task di Cesare) devono essere lanciati con la variabile d'ambiente `PYTHONUNBUFFERED=1` per garantire la visibilità immediata dei log.
-7.  **Supporto Modello Gemini**: Per garantire la stabilità della quota Free Tier e la compatibilità SDK, utilizzare esclusivamente il modello `gemini-flash-latest` per le interazioni testuali e l'auto-responder.
+7.  **Modello operativo corrente**: i workflow attivi non devono dipendere da Gemini. Dove serve generazione testuale si usano regole locali o tool esterni esplicitamente approvati caso per caso.
 8.  **Separazione Stretta (SOP/IA)**: Ogni messaggio che inizia con `/` è considerato un **Comando Deterministico** e non deve mai sfociare in una risposta creativa dell'IA. Se un comando è sconosciuto, il sistema deve rispondere con un errore deterministico e la lista dei comandi validi.
 9.  **Lettura Direttive MANDATORIA**: All'inizio di OGNI task, l'assistente DEVE leggere le SOP e le direttive pertinenti in `GEMINI.md` e `Directives/` prima di proporre qualsiasi azione o scrivere codice. Ignorare questa regola è considerato un fallimento critico del workflow.
 10. **Protocollo Anti-Deadlock (MANDATORIO)**: Per evitare che i comandi rimangano bloccati in stato "Running", ogni sessione terminale deve essere configurata con:
@@ -94,7 +96,7 @@ Agente responsabile di **tutta la pipeline video**, dalla lettura del PDF fino a
 1. **Trigger**: Comando `/download` via Telegram o terminale.
 2. **Scansione**: Ricerca di file `.pdf` in `~/Downloads` modificati nelle ultime **24 ore**.
 3. **Filtro Duplicati**: Esclusione di file già presenti in `Papers/Da fare/` o archiviati in `Cleaned/`.
-4. **Pulizia Titolo (AI)**: Estrazione del testo (prime 3 pagine) e identificazione del **Titolo Accademico Reale** tramite Gemini Flash.
+4. **Pulizia Titolo**: Estrazione del testo (prime 3 pagine) e identificazione del **Titolo Accademico Reale** tramite parsing locale del PDF.
 5. **Ingestione**: Ridenominazione del file e spostamento in `Papers/Da fare/[Titolo_Accademico].pdf`.
 
 ### SOP 1: Selezione Paper, Titolo e Copertina (Step 1)
@@ -134,7 +136,7 @@ Agente responsabile di **tutta la pipeline video**, dalla lettura del PDF fino a
     - **Archiviazione Cleaned**: Sposta il video pulito in `{Titolo}_cleaned.mp4` e l'infografica pulita.
 3. **Generazione Indice & Metadati**:
     - **Video Metadata**: Generazione file `.md` finale. **MANDATORIO**: Le informazioni su Autori, Rivista, Anno e DOI **DEVONO** essere estratte direttamente dalle prime pagine del PDF del paper per evitare allucinazioni dell'IA. Il sistema deve supportare la ricerca flessibile dei metadati anche se nominati diversamente (es. `video_metadata_*.md`).
-    - **Indice**: Generato con Whisper (`generate_index_whisper.py`). **Massimo 6 capitoli totali** (inclusi Intro e Conclusioni). I titoli devono essere **rappresentativi e catchy** (generati via LLM).
+    - **Indice**: Generato con Whisper (`generate_index_whisper.py`). **Massimo 6 capitoli totali** (inclusi Intro e Conclusioni). I titoli devono essere **rappresentativi e catchy**, derivati localmente dal contenuto del paper e della trascrizione.
     - **Conclusioni (Timestamp)**: Il minutaggio delle Conclusioni **DEVE** essere dinamico, corrispondente all'inizio dell'ultimo segmento trascritto (no `XX:XX`).
     - **Upload Multi-Piattaforma (YouTube, FB, IG)**: Utilizzare `/upload` su Telegram.
     - **YouTube**: 
@@ -231,7 +233,7 @@ Competente per il monitoraggio, analytics, commenti, salute del canale e scoutin
    - Rimuovere video già commentati attingendo a `Temp/romolo/competitor_comment_history.json`.
 
 2. **Generazione e Revisione**:
-   - Gemini Flash associa i video competitor ai nostri paper e genera proposte di commento scientifiche, garbate e di valore.
+   - Lo script locale associa i video competitor ai nostri paper con matching per keyword e genera proposte di commento scientifiche, garbate e di valore.
    - Le proposte sono salvate in `Temp/romolo/competitor_engagement.md`. L'utente deve approvarle o modificarle.
 
 3. **Pubblicazione ed Archiviazione**:
@@ -330,7 +332,7 @@ Ricerca i temi "hot" dalle news quotidiane e i rispettivi paper accademici di ri
 ### PROCEDURA DI MATCHING ACCADEMICO (per Ulisse /articoli)
 
 1. **Notizie (BATCH DETERMINISTICO)**: Cesare/Ulisse raccoglie il pool di news dalle 5 fonti SOP: **ANSA, Corriere, Repubblica, Il Post, Fanpage**. Non usa più il grounding diretto per evitare quote instabili.
-2. **Consensus Discovery**: Tramite Gemini (`gemini-flash-latest`), il sistema identifica i **3 argomenti più caldi (Consensus)**. **MANDATORIO**: Titoli estremamente "catchy", massimo **5 parole**, stile clicky o domanda, centrati sull'argomento economico del paper.
+2. **Consensus Discovery**: La modalita' automatica `/articoli` basata su LLM e' sospesa. Restano attivi i percorsi deterministici con `verify_paper.py` e input esplicito di tag/query.
 3. **Matching Semantico (TAG-BASED)**: Per ogni argomento di consenso, estrarre **Broad Academic Areas** (es. 'Labor Economics', 'Public Policy') invece di tag troppo specifici. I tag devono essere **strettamente coerenti** con l'area economica del tema per evitare allucinazioni. Interpellare OpenAlex (via `verify_paper.py`) con logica **OR** tra i tag per massimizzare il matching.
     - **Journal**: Solo Top Journals (AER, QJE, JPE, Econometrica, REStud, JEP, AEJ, REStat, JEEA, Nature, Science, PNAS, etc.).
     - **Anno**: Dal **2000 in poi**.
@@ -403,7 +405,7 @@ Per consentire una collaborazione fluida tra l'assistente AI (Antigravity) e l'u
 
 1. **Incoming (Telegram -> Antigravity)**: Ogni messaggio inviato dall'utente autorizzato viene loggato in tempo reale in `Temp/cesare/telegram_bridge.log`. Antigravity monitora questo file per leggere i comandi o le risposte dell'utente.
 2. **Outgoing (Antigravity -> Telegram)**: Antigravity risponde all'utente usando lo script `Execution/cesare/bridge_send.py "messaggio"`. Questo script logga automaticamente la risposta in `telegram_bridge.log`. **Tutti i comandi di sistema (slash commands) loggano deterministicamente il proprio output nel bridge.**
-3. **Auto-Responder**: Cesare utilizza il modello `gemini-flash-latest` per rispondere in modo proattivo ai messaggi non-comando, mantenendo la sincronia con il log del bridge.
+3. **Auto-Responder**: Cesare e' legacy. La control plane raccomandata e' Codex chat con `./workflow`.
 
 ### 📋 File Python Utilizzati
 - `Execution/cesare/bridge_send.py` (Invio messaggi a Telegram)

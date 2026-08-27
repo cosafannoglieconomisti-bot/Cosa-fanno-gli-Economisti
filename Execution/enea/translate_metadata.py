@@ -1,108 +1,90 @@
 import os
+import re
 import sys
-import time
-from google import genai
-from dotenv import load_dotenv
 
-load_dotenv("/Users/<USER>/Desktop/canale/.env")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+from deep_translator import GoogleTranslator
+
+
+LANGUAGE_NAMES = {
+    "en": "english",
+    "es": "spanish",
+    "fr": "french",
+    "de": "german",
+}
+
+
+def translate_preserving_markdown(text, target_lang):
+    translator = GoogleTranslator(source="it", target=target_lang)
+    output = []
+
+    def safe_translate(value):
+        translated = translator.translate(value)
+        return translated if translated is not None else value
+
+    for line in text.splitlines():
+        stripped = line.strip()
+        if not stripped:
+            output.append("")
+            continue
+        if stripped.startswith("#") or stripped.startswith("http"):
+            output.append(line)
+            continue
+        if re.match(r"^\d{2}:\d{2}", stripped):
+            parts = line.split("|", 1)
+            if len(parts) == 2:
+                left, right = parts
+                translated = safe_translate(right.strip())
+                output.append(f"{left.strip()} | {translated}")
+                continue
+        if "https://doi.org/" in line or "youtube.com/" in line or "youtu.be/" in line:
+            output.append(line)
+            continue
+        translated = safe_translate(stripped)
+        output.append(translated)
+    return "\n".join(output)
+
 
 def translate_metadata(input_path, output_dir, target_langs):
-    if not GEMINI_API_KEY:
-        print("❌ API Key non trovata.")
-        return False
-
-    with open(input_path, 'r', encoding='utf-8') as f:
-        it_content = f.read()
-
-    # Estrazione Titolo e Descrizione originali (IT)
-    it_title = it_content.split('\n')[0].split('-', 1)[1].strip()
-    it_desc = it_content.split("## Descrizione YouTube")[1].split("##")[0].strip()
-
-    client = genai.Client(api_key=GEMINI_API_KEY)
+    with open(input_path, "r", encoding="utf-8") as handle:
+        it_content = handle.read()
 
     overall_success = True
     for lang in target_langs:
-        print(f"🌍 Traduzione Metadati in {lang}...")
-        success = False
-        
-        prompt = f"""You are a professional translator and YouTube expert.
-        Translate the following YouTube Title and Description from Italian to {lang.upper()}.
-        
-        MANDATORY RULES:
-        1. Keep the same meaning and professional-academic yet catchy tone.
-        2. DO NOT translate the names of the authors, journals, or DOI links.
-        3. Keep the same structure (Description, then the info section).
-        4. TRANSLATE the catchy chapter titles in the Index section too.
-        5. Output ONLY a valid Markdown content in the following format:
-        
-        # Metadati Video - [Translated Title] ({lang.upper()})
-        
-        ## Descrizione YouTube
-        [Translated Description]
-        
-        TITLE TO TRANSLATE:
-        {it_title}
-        
-        DESCRIPTION TO TRANSLATE:
-        {it_desc}
-        """
-
-        delay = 15
-        for attempt in range(7): # Increased to 7 attempts
-            try:
-                # Tenta prima con il modello di default, in caso di 503 fall-back su gemini-2.5-flash
-                model_to_use = 'gemini-flash-latest'
-                try:
-                    response = client.models.generate_content(
-                        model=model_to_use,
-                        contents=prompt
-                    )
-                except Exception as e_inner:
-                    if "503" in str(e_inner) or "experience high demand" in str(e_inner).lower() or "429" in str(e_inner) or "quota" in str(e_inner).lower():
-                        print("⚠️ Modello primario sovraccarico (503). Provo fall-back su gemini-2.5-flash...")
-                        model_to_use = 'gemini-2.5-flash'
-                        response = client.models.generate_content(
-                            model=model_to_use,
-                            contents=prompt
-                        )
-                    else:
-                        raise e_inner
-                
-                if response and response.text:
-                    translated_content = response.text.strip().replace('```markdown', '').replace('```', '')
-                    
-                    lang_dir = os.path.join(output_dir, lang)
-                    os.makedirs(lang_dir, exist_ok=True)
-                    out_path = os.path.join(lang_dir, f"metadata_{lang}.md")
-                    
-                    with open(out_path, 'w', encoding='utf-8') as f_out:
-                        f_out.write(translated_content)
-                    
-                    print(f"✅ Metadati {lang} salvati in {out_path}")
-                    success = True
-                    break
-                else:
-                    print(f"⚠️ Risposta vuota per {lang}, riprovo in {delay}s...")
-                    time.sleep(delay)
-                    delay *= 2
-            except Exception as e:
-                if "429" in str(e) or "503" in str(e) or "quota" in str(e).lower():
-                    print(f"⚠️ API LOAD ERROR (429/503) per {lang}. Sleeping {delay}s...")
-                    time.sleep(delay)
-                    delay *= 2
-                else:
-                    print(f"❌ Errore durante traduzione {lang}: {e}. Riprovo in 10s...")
-                    time.sleep(10)
-        
-        if not success:
-            print(f"⛔ Fallita traduzione definitiva per {lang}")
+        print(f"🌍 Traduzione metadati in {lang}...")
+        try:
+            translated = translate_preserving_markdown(it_content, lang)
+            translated = translated.replace(
+                "# Metadati Video -", f"# Video Metadata -"
+            )
+            if lang != "en":
+                translated = re.sub(
+                    r"^# Video Metadata - (.+)$",
+                    lambda match: f"# Video Metadata - {match.group(1)} ({lang.upper()})",
+                    translated,
+                    count=1,
+                    flags=re.MULTILINE,
+                )
+            else:
+                translated = re.sub(
+                    r"^# Video Metadata - (.+)$",
+                    lambda match: f"# Video Metadata - {match.group(1)} (EN)",
+                    translated,
+                    count=1,
+                    flags=re.MULTILINE,
+                )
+            lang_dir = os.path.join(output_dir, lang)
+            os.makedirs(lang_dir, exist_ok=True)
+            out_path = os.path.join(lang_dir, f"metadata_{lang}.md")
+            with open(out_path, "w", encoding="utf-8") as handle:
+                handle.write(translated)
+            print(f"✅ Metadati {lang} salvati in {out_path}")
+        except Exception as exc:
             overall_success = False
-
+            print(f"❌ Errore traduzione {lang}: {exc}")
     return overall_success
 
+
 if __name__ == "__main__":
-    # Esempio: python translate_metadata.py video_metadata.md international/
     input_file = sys.argv[1]
     out_root = sys.argv[2]
     langs = ["en", "es", "fr", "de"]

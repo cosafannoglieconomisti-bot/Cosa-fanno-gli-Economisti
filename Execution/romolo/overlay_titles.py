@@ -1,11 +1,15 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 import os
 from PIL import Image, ImageDraw, ImageFont
 
-mafia_bg = "/Users/<USER>/.gemini/antigravity/brain/5bc8acda-cbd4-4b83-920f-32154964403a/mafia_inc_bg_retry_1774089277005.png"
-mafia_out = "/Users/<USER>/Desktop/canale/Cleaned/Mafia_Inc_restat_2021/thumbnail_v3.png"
+mafia_bg = str(HOME / '.gemini' / 'antigravity' / 'brain' / '5bc8acda-cbd4-4b83-920f-32154964403a' / 'mafia_inc_bg_retry_1774089277005.png')
+mafia_out = str(REPO_ROOT / 'Cleaned' / 'Mafia_Inc_restat_2021' / 'thumbnail_v3.png')
 
-arch_bg = "/Users/<USER>/Desktop/canale/Cleaned/Le_città_perdute_dell_età_del_bronzo_qje_2019/thumbnail.png"
-arch_out = "/Users/<USER>/Desktop/canale/Cleaned/Le_città_perdute_dell_età_del_bronzo_qje_2019/thumbnail_v3.png"
+arch_bg = str(REPO_ROOT / 'Cleaned' / 'Le_città_perdute_dell_età_del_bronzo_qje_2019' / 'thumbnail.png')
+arch_out = str(REPO_ROOT / 'Cleaned' / 'Le_città_perdute_dell_età_del_bronzo_qje_2019' / 'thumbnail_v3.png')
 
 font_path = "/System/Library/Fonts/Supplemental/Impact.ttf"
 

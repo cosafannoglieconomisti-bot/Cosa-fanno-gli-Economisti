@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[3]
+
 import os
 
 filepath = 'Execution/cesare/telegram_bot.py'
@@ -97,7 +100,7 @@ new_logic = """elif user_msg_stripped == '/articoli':
                                  break
                        if not journal_ok: continue
                        
-                       script_path = "/Users/<USER>/Desktop/canale/Execution/ulisse/verify_paper.py"
+                       script_path = str(REPO_ROOT / 'Execution' / 'ulisse' / 'verify_paper.py')
                        res_verify = subprocess.run(
                            ["python3", script_path, "--title", title, "--authors", authors],
                            capture_output=True, text=True
@@ -124,7 +127,7 @@ new_logic = """elif user_msg_stripped == '/articoli':
 
              report_text = '\\n'.join(report_lines)
              
-             folder_path = "/Users/<USER>/Desktop/canale/Temp/ulisse/selezione argomenti"
+             folder_path = str(REPO_ROOT / 'Temp' / 'ulisse' / 'selezione argomenti')
              os.makedirs(folder_path, exist_ok=True)
              filename = f"temi_hot_matched_verificati_{time.strftime('%d_%m_%Y')}.txt"
              filepath = os.path.join(folder_path, filename)

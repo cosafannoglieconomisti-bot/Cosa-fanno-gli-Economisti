@@ -1,3 +1,6 @@
+from pathlib import Path
+HOME = Path.home()
+
 import requests
 import os
 
@@ -35,4 +38,4 @@ if __name__ == "__main__":
     info_lh3 = "https://lh3.googleusercontent.com/notebooklm/AKXwDQEMHTYAuTsdQ90l9VEh17CU9nXCLoHGf5oB9XRew2mmgD7vv2Q-nbuBoocsWPa3coqOI1jfb8tzy1TI4iObB06eVeGNv95JnRE2sgAEp69I46p5LAR5mAPCPTMFqW4cKfcVFOKgdbQJ4gYsZcGHOtwT5FV-OdA=w2048-d-h2048-mp2"
     
     print("--- Attempting Infographic Download ---")
-    download_asset(info_lh3, "/Users/<USER>/Downloads/Poveri_in_Pensione_infografica_raw.png")
+    download_asset(info_lh3, str(HOME / 'Downloads' / 'Poveri_in_Pensione_infografica_raw.png'))

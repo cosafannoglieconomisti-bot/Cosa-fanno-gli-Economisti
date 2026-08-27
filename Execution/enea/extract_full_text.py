@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import fitz
 import sys
 import os
@@ -10,8 +13,8 @@ pdf_files = [
     "The Economic Journal - 2015 - Pinotti - The Economic Costs of Organised Crime  Evidence from Southern Italy.pdf"
 ]
 
-folder = "/Users/<USER>/Desktop/canale/Papers/Da fare"
-out_folder = "/Users/<USER>/Desktop/canale/Papers/Da_fare_txt"
+folder = str(REPO_ROOT / 'Papers' / 'Da fare')
+out_folder = str(REPO_ROOT / 'Papers' / 'Da_fare_txt')
 
 os.makedirs(out_folder, exist_ok=True)
 

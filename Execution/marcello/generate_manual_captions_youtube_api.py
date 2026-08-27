@@ -1,10 +1,14 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 import os
 import pickle
 import json
 from googleapiclient.discovery import build
 
 def get_authenticated_service():
-    token_path = '/Users/<USER>/Desktop/canale/Execution/credentials/token_youtube.pickle'
+    token_path = str(REPO_ROOT / 'Execution' / 'credentials' / 'token_youtube.pickle')
     with open(token_path, 'rb') as token:
         creds = pickle.load(token)
     return build('youtube', 'v3', credentials=creds)
@@ -87,7 +91,7 @@ def run():
         output_lines.append("---------------------------------------------------------------------------------\n\n")
         count += 1
 
-    out_path = "/Users/<USER>/Desktop/TESTI_FACEBOOK_DA_COPIARE.txt"
+    out_path = str(HOME / 'Desktop' / 'TESTI_FACEBOOK_DA_COPIARE.txt')
     with open(out_path, "w", encoding='utf-8') as f:
         f.writelines(output_lines)
         

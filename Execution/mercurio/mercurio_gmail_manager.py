@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import pickle
 from datetime import datetime
@@ -11,7 +14,7 @@ SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
 def get_authenticated_service():
     creds = None
-    mercurio_dir = "/Users/<USER>/Desktop/canale/Execution/mercurio"
+    mercurio_dir = str(REPO_ROOT / 'Execution' / 'mercurio')
     token_file = os.path.join(mercurio_dir, 'token_gmail.pickle')
     if os.path.exists(token_file):
         with open(token_file, 'rb') as token:
@@ -20,7 +23,7 @@ def get_authenticated_service():
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            client_secrets_path = "/Users/<USER>/Desktop/canale/Execution/credentials/client_secrets.json"
+            client_secrets_path = str(REPO_ROOT / 'Execution' / 'credentials' / 'client_secrets.json')
             flow = InstalledAppFlow.from_client_secrets_file(client_secrets_path, SCOPES)
             creds = flow.run_local_server(port=0)
         with open(token_file, 'wb') as token:
@@ -50,7 +53,7 @@ def get_unread_emails(service):
     return email_data
 
 def generate_gmail_report(emails):
-    report_path = "/Users/<USER>/Desktop/canale/Temp/mercurio/gmail_report.txt"
+    report_path = str(REPO_ROOT / 'Temp' / 'mercurio' / 'gmail_report.txt')
     os.makedirs(os.path.dirname(report_path), exist_ok=True)
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(f"--- REPORT GIORNALIERO GMAIL - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ---\n")

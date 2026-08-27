@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import pickle
 import sys
@@ -109,7 +112,7 @@ if __name__ == '__main__':
     m_file = sys.argv[3]
     s_time = sys.argv[4] # e.g. 2026-03-15T08:00:00Z
     
-    creds_dir = "/Users/<USER>/Desktop/canale/Execution/credentials"
+    creds_dir = str(REPO_ROOT / 'Execution' / 'credentials')
     
     try:
         title, desc, tags = parse_metadata_v2(m_file)

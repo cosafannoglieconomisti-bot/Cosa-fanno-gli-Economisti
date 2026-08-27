@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import asyncio
 import os
 import sys
@@ -7,7 +10,7 @@ import json
 from datetime import datetime, timezone, timedelta
 from playwright.async_api import async_playwright
 
-TRACKING_FILE = "/Users/<USER>/Desktop/canale/Cleaned/video_tracking.json"
+TRACKING_FILE = str(REPO_ROOT / 'Cleaned' / 'video_tracking.json')
 
 def parse_metadata(path: str) -> dict:
     """Estrae i metadati seguendo la SOP Marcello di buffer_post_single.py."""
@@ -98,7 +101,7 @@ def build_caption(meta: dict, video_id: str, video_title: str = "") -> str:
 
 def load_video_data(target_folder=None):
     mappings = []
-    base_dir = "/Users/<USER>/Desktop/canale/Cleaned"
+    base_dir = str(REPO_ROOT / 'Cleaned')
     
     folders = [target_folder] if target_folder else sorted(os.listdir(base_dir))
     

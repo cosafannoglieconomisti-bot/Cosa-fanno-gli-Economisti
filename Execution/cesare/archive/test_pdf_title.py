@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[3]
+
 import fitz
 import os
 
@@ -17,7 +20,7 @@ def get_pdf_title(path):
         pass
     return os.path.basename(path)
 
-full_path = "/Users/<USER>/Desktop/canale/Papers/Da fare"
+full_path = str(REPO_ROOT / 'Papers' / 'Da fare')
 for f in os.listdir(full_path):
     if f.endswith(".pdf"):
         print(f"[{f}] -> {get_pdf_title(os.path.join(full_path, f))}")

@@ -16,6 +16,11 @@ client_secrets.json
 .DS_Store
 .tmp.drivedownload/
 .tmp.driveupload/
+.playwright-mcp/
+.vscode/
+
+# Local memory dump — never publish
+MEMORY.md
 
 # Agent intermediate files
 **/.tmp/

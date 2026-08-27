@@ -1,10 +1,13 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 from PIL import Image
 import os
 from collections import deque
 
 # Paths
-INPUT_PATH = "/Users/<USER>/Desktop/canale/Temp/assets/Logo_canale_transparente.png"
-OUTPUT_DIR = "/Users/<USER>/Desktop/canale/Temp/assets/trials"
+INPUT_PATH = str(REPO_ROOT / 'Temp' / 'assets' / 'Logo_canale_transparente.png')
+OUTPUT_DIR = str(REPO_ROOT / 'Temp' / 'assets' / 'trials')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Load the original logo
@@ -76,7 +79,7 @@ paste_pos = ((target_size - resized_logo.width) // 2, (target_size - resized_log
 canvas.paste(resized_logo, paste_pos, resized_logo)
 
 # Save
-output_path = os.path.join("/Users/<USER>/Desktop/canale/Temp/assets", "Logo_canale_quadrato.png")
+output_path = os.path.join(str(REPO_ROOT / 'Temp' / 'assets'), "Logo_canale_quadrato.png")
 canvas.save(output_path)
 print(f"Logo saved to: {output_path}")
 print(f"Num internal components: {len(internal_components)}")

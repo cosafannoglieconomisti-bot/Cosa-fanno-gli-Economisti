@@ -1,3 +1,6 @@
+from pathlib import Path
+HOME = Path.home()
+
 import asyncio
 import sys
 from playwright.async_api import async_playwright
@@ -8,7 +11,7 @@ async def main():
     output_path = sys.argv[2]
     
     # Usa il profilo Chrome in cui l'utente è loggato, per avere i cookie giusti!
-    user_data_dir = "/Users/<USER>/.gemini/antigravity-browser-profile"
+    user_data_dir = str(HOME / '.gemini' / 'antigravity-browser-profile')
     
     print(f"[*] Avvio download Playwright per: {url}")
     print(f"[*] Destinazione: {output_path}")

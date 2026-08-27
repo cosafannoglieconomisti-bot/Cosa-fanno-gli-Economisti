@@ -3,6 +3,7 @@ import subprocess
 import sys
 import shutil
 from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
 
 def process_video_and_archive(input_video_path, paper_name, base_cleaned_dir, paper_pdf_path=None, trim_seconds=2.5):
     """
@@ -113,6 +114,6 @@ if __name__ == "__main__":
              except ValueError:
                  pass # Not a number, keep default
 
-        base_dir = "/Users/<USER>/Desktop/canale/Cleaned"
+        base_dir = str(REPO_ROOT / 'Cleaned')
         # Since process_video_and_archive takes trim_seconds as optional kwarg
         process_video_and_archive(in_video, p_name, base_dir, pdf_path, trim_seconds=trim)

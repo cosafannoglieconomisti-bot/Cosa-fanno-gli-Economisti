@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import pickle
 import json
@@ -6,7 +9,7 @@ import argparse
 from googleapiclient.discovery import build
 
 def get_authenticated_service():
-    token_path = '/Users/<USER>/Desktop/canale/Execution/credentials/token_youtube.pickle'
+    token_path = str(REPO_ROOT / 'Execution' / 'credentials' / 'token_youtube.pickle')
     with open(token_path, 'rb') as token:
         creds = pickle.load(token)
     return build('youtube', 'v3', credentials=creds)
@@ -54,7 +57,7 @@ def download_caption(video_id, format='srt', output_path=None):
         text = content.decode('utf-8')
         
         if not output_path:
-            output_path = f'/Users/<USER>/Desktop/canale/Temp/romolo/transcript_{video_id}.{format}'
+            output_path = fstr(REPO_ROOT / 'Temp' / 'romolo' / 'transcript_{video_id}.{format}')
         
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         with open(output_path, 'w', encoding='utf-8') as f:

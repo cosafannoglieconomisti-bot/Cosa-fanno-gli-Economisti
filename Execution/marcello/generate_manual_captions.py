@@ -1,8 +1,12 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 import os
 
 def load_video_data():
     mappings = {}
-    base_dir = "/Users/<USER>/Desktop/canale/Cleaned"
+    base_dir = str(REPO_ROOT / 'Cleaned')
     
     meta_files = []
     for root, dirs, files in os.walk(base_dir):
@@ -91,7 +95,7 @@ def run():
         output_lines.append(full_text)
         output_lines.append("---------------------------------------------------------------------------------\n\n")
 
-    out_path = "/Users/<USER>/Desktop/TESTI_FACEBOOK_DA_COPIARE.txt"
+    out_path = str(HOME / 'Desktop' / 'TESTI_FACEBOOK_DA_COPIARE.txt')
     with open(out_path, "w", encoding='utf-8') as f:
         f.writelines(output_lines)
         

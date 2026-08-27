@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import sys
 import telebot
@@ -5,7 +8,7 @@ from datetime import datetime
 from dotenv import load_dotenv
 
 # Configurazione
-BASE_DIR = "/Users/<USER>/Desktop/canale"
+BASE_DIR = str(REPO_ROOT)
 load_dotenv(os.path.join(BASE_DIR, ".env"))
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 ALLOWED_ID = os.getenv("ALLOWED_CHAT_ID")

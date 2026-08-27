@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import json
 import os
 
@@ -8,7 +11,7 @@ with open(mcp_auth_path) as f:
 
 # Netscape cookie format:
 # domain  domain_specified  path  secure  expires  name  value
-with open('/Users/<USER>/Desktop/canale/.agents/scratch/cookies.txt', 'w') as f:
+with open(str(REPO_ROOT / '.agents' / 'scratch' / 'cookies.txt'), 'w') as f:
     f.write("# Netscape HTTP Cookie File\n")
     for name, value in mcp_auth['cookies'].items():
         # Using a long expiration and common flags

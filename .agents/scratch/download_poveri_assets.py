@@ -1,3 +1,7 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 import os
 import requests
 import json
@@ -6,8 +10,8 @@ import json
 notebook_id = "693591f6-e2b0-45e2-b235-113d42a1af64"
 video_url = "https://lh3.googleusercontent.com/notebooklm/AKXwDQGq7d8b8dSyF2nZNgMBpFah8TnyUT8WbanpsaXn8bCwJdEj460w8-7lzis5gJ6yJkMGGLcpiv5G1XjgP88gpcl8v2gxFv_BWm5hiclX4gnA5Occnwo_CcIEWAEDSh64HtYsrgqCZdwypjBI97kgEhAHAbagzp8=m22-dv"
 infographic_url = "https://lh3.googleusercontent.com/notebooklm/AKXwDQGxgV25x_zismcaQjSFAXPX4pK1MWIev9q7edjixarwRX74ul_VASvhTEDmHjQTO0LY7MjiZ68wJ3VXxGotnfOXRl_jb_J_9mu3omawIc9E0Q_o3Vo4V8Kt2FKfAnQEA2PzTnDmSiS9EHEzm2wjne9EnynmheE=w2048-d-h2048-mp2"
-target_dir = "/Users/<USER>/Desktop/canale/Cleaned/Poveri_in_Pensione"
-auth_path = "/Users/<USER>/.notebooklm-mcp/auth.json"
+target_dir = str(REPO_ROOT / 'Cleaned' / 'Poveri_in_Pensione')
+auth_path = str(HOME / '.notebooklm-mcp' / 'auth.json')
 
 # Load cookies
 with open(auth_path, 'r') as f:

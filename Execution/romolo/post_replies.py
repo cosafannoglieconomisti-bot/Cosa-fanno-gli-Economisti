@@ -1,3 +1,5 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
 
 import os
 from dotenv import load_dotenv
@@ -15,7 +17,7 @@ SCOPES = [
 
 def get_authenticated_service():
     creds = None
-    romolo_dir = "/Users/<USER>/Desktop/canale/Execution/romolo"
+    romolo_dir = str(REPO_ROOT / 'Execution' / 'romolo')
     token_file = os.path.join(romolo_dir, ".tmp", "tokens", 'token_youtube.pickle')
     
     if os.path.exists(token_file):
@@ -25,7 +27,7 @@ def get_authenticated_service():
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            client_secrets_path = "/Users/<USER>/Desktop/canale/Execution/credentials/client_secrets.json"
+            client_secrets_path = str(REPO_ROOT / 'Execution' / 'credentials' / 'client_secrets.json')
             flow = InstalledAppFlow.from_client_secrets_file(client_secrets_path, scopes)
             creds = flow.run_local_server(port=0)
         with open(token_file, 'wb') as token:

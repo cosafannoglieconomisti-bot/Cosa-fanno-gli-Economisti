@@ -1,3 +1,7 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 import subprocess
 import os
 import json
@@ -11,13 +15,13 @@ with open(auth_path) as f:
     auth = json.load(f)
 cookies_str = '; '.join([f"{k}={v}" for k, v in auth['cookies'].items()])
 
-downloader_path = "/Users/<USER>/Desktop/canale/Execution/enea/notebooklm_asset_downloader.py"
+downloader_path = str(REPO_ROOT / 'Execution' / 'enea' / 'notebooklm_asset_downloader.py')
 
 print("[*] Scaricando Video...")
 v_res = subprocess.run([
     "python3", downloader_path,
     "--url", video_url,
-    "--output", "/Users/<USER>/Downloads/Poveri_in_Pensione_raw.mp4",
+    "--output", str(HOME / 'Downloads' / 'Poveri_in_Pensione_raw.mp4'),
     "--cookies", cookies_str
 ])
 
@@ -25,7 +29,7 @@ print("\n[*] Scaricando Infografica...")
 i_res = subprocess.run([
     "python3", downloader_path,
     "--url", info_url,
-    "--output", "/Users/<USER>/Downloads/infografica_raw.png",
+    "--output", str(HOME / 'Downloads' / 'infografica_raw.png'),
     "--cookies", cookies_str
 ])
 

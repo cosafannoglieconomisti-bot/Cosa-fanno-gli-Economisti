@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[3]
+
 import os
 import telebot
 
@@ -11,7 +14,7 @@ def load_env_manual(path):
                 os.environ[k.strip()] = v.strip().strip('"').strip("'")
 
 # Carica il file .env
-env_path = "/Users/<USER>/Desktop/canale/.env"
+env_path = str(REPO_ROOT / '.env')
 load_env_manual(env_path)
 
 TOKEN = os.environ.get("TELEGRAM_TOKEN")

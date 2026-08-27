@@ -1,10 +1,13 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import pickle
 import json
 from googleapiclient.discovery import build
 
 def get_authenticated_service():
-    token_path = '/Users/<USER>/Desktop/canale/Execution/credentials/token_youtube.pickle'
+    token_path = str(REPO_ROOT / 'Execution' / 'credentials' / 'token_youtube.pickle')
     with open(token_path, 'rb') as token:
         creds = pickle.load(token)
     return build('youtube', 'v3', credentials=creds)
@@ -44,7 +47,7 @@ def list_videos():
         if not next_page_token:
             break
             
-    output_path = '/Users/<USER>/Desktop/canale/Temp/romolo/videos_list_updated.json'
+    output_path = str(REPO_ROOT / 'Temp' / 'romolo' / 'videos_list_updated.json')
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(videos, f, ensure_ascii=False, indent=4)
     print(f"Aggiornato file: {output_path} (Totale: {len(videos)} video)")

@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[3]
+
 import os
 
 def load_env_manual(path):
@@ -7,7 +10,7 @@ def load_env_manual(path):
                 k, v = line.split('=', 1)
                 os.environ[k.strip()] = v.strip().strip('"').strip("'")
 
-load_env_manual("/Users/<USER>/Desktop/canale/.env")
+load_env_manual(str(REPO_ROOT / '.env'))
 print("Chiavi trovate in .env:")
 for k in os.environ:
     if "TELEGRAM" in k or "ID" in k:

@@ -1,3 +1,7 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+HOME = Path.home()
+
 import os
 import json
 import subprocess
@@ -7,16 +11,14 @@ import shutil
 import re
 import time
 from datetime import datetime
-from google import genai
 from dotenv import load_dotenv
 
 # Carica variabili ambiente
-load_dotenv("/Users/<USER>/Desktop/canale/.env")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+load_dotenv(str(REPO_ROOT / '.env'))
 
 # Configurazione Percorsi
-BASE_DIR = "/Users/<USER>/Desktop/canale"
-DOWNLOADS_DIR = "/Users/<USER>/Downloads"
+BASE_DIR = str(REPO_ROOT)
+DOWNLOADS_DIR = str(HOME / 'Downloads')
 PIPELINE_PATH = os.path.join(BASE_DIR, "Temp/enea/active_pipeline.json")
 CLEANED_BASE = os.path.join(BASE_DIR, "Cleaned")
 VIDEO_CLEANER = os.path.join(BASE_DIR, "Execution/enea/video_cleaner.py")
@@ -56,6 +58,116 @@ def format_tags(raw_tags):
     hashtag_line = " ".join(deduped)
     tag_csv = ", ".join(tag.replace("#", "") for tag in deduped)
     return hashtag_line, tag_csv
+
+
+def normalize_whitespace(text):
+    return re.sub(r"\s+", " ", (text or "")).strip()
+
+
+def extract_title_from_text(pdf_text, fallback):
+    lines = [normalize_whitespace(line) for line in pdf_text.splitlines()]
+    lines = [line for line in lines if line and len(line) >= 8]
+    title_lines = []
+    for line in lines[:12]:
+        lower = line.lower()
+        if any(token in lower for token in ["university", "department", "institute", "abstract", "keywords", "jel", "@"]):
+            if title_lines:
+                break
+            continue
+        if len(line.split()) > 20:
+            if title_lines:
+                break
+            continue
+        title_lines.append(line)
+        if len(title_lines) >= 2 and len(" ".join(title_lines)) >= 40:
+            break
+    return normalize_whitespace(" ".join(title_lines)) or fallback
+
+
+def extract_authors(pdf_text):
+    authors = []
+    for line in pdf_text.splitlines()[1:18]:
+        line = normalize_whitespace(line)
+        if not line:
+            continue
+        if any(word in line for word in ["University", "Institute", "School", "Department", "College"]):
+            candidate = normalize_whitespace(line.split(",")[0])
+            if 2 <= len(candidate.split()) <= 5 and candidate not in authors:
+                authors.append(candidate)
+    return ", ".join(authors[:4]) or "Autori non rilevati"
+
+
+def extract_journal_and_year(pdf_text):
+    journal = "Cosa fanno gli economisti"
+    for candidate in [
+        "American Economic Review",
+        "Quarterly Journal of Economics",
+        "Journal of Political Economy",
+        "Econometrica",
+        "Review of Economic Studies",
+        "Review of Economics and Statistics",
+        "Journal of the European Economic Association",
+        "The Journal of Politics",
+    ]:
+        if re.search(re.escape(candidate), pdf_text, re.IGNORECASE):
+            journal = candidate
+            break
+
+    years = re.findall(r"\b((?:19|20)\d{2})\b", pdf_text)
+    year = max(years) if years else str(datetime.now().year)
+    return journal, year
+
+
+def extract_keywords(text, limit=5):
+    tokens = re.findall(r"[A-Za-zÀ-ÿ']+", text.lower())
+    stopwords = {
+        "the", "and", "for", "with", "that", "this", "from", "into", "their", "have", "has", "had", "not",
+        "gli", "delle", "della", "dello", "dalla", "dalla", "dati", "studio", "paper", "economia", "degli",
+        "della", "nelle", "sulle", "sulla", "sono", "anche", "dopo", "prima", "come", "perche", "italia",
+    }
+    counts = {}
+    for token in tokens:
+        if len(token) < 4 or token in stopwords:
+            continue
+        counts[token] = counts.get(token, 0) + 1
+    return [token for token, _ in sorted(counts.items(), key=lambda item: (-item[1], item[0]))[:limit]]
+
+
+def build_teaser(title, journal, year, keywords):
+    bits = []
+    if keywords:
+        bits.append(", ".join(keywords[:3]))
+    if journal and journal != "Cosa fanno gli economisti":
+        bits.append(f"pubblicato su {journal}")
+    if year:
+        bits.append(f"nel {year}")
+    core = "; ".join(bits)
+    if core:
+        return f"ricostruisce il nodo centrale di '{title}' e mostra perche' conta ancora oggi: {core}."
+    return f"ricostruisce il nodo centrale di '{title}' e mostra perche' conta ancora oggi."
+
+
+def build_hashtags(title, pdf_text):
+    tags = extract_keywords(f"{title} {pdf_text}", limit=6)
+    formatted = []
+    for token in tags:
+        safe = re.sub(r"[^A-Za-z0-9]", "", token.title())
+        if safe:
+            formatted.append(f"#{safe}")
+    return " ".join(formatted[:5])
+
+
+def build_chapter_titles(title, keywords):
+    fallback = ["La domanda", "I dati", "Il risultato", "Perche conta"]
+    if not keywords:
+        return fallback
+    crafted = [
+        f"Il nodo {keywords[0][:10]}",
+        f"I dati {keywords[1][:10]}" if len(keywords) > 1 else "I dati",
+        f"L'effetto {keywords[2][:10]}" if len(keywords) > 2 else "Il risultato",
+        f"Perche' {keywords[0][:10]}",
+    ]
+    return [normalize_whitespace(item)[:28] for item in crafted]
 
 def run_command(cmd):
     print(f"🚀 Eseguo: {' '.join(cmd)}")
@@ -191,8 +303,8 @@ def process(video_filename=None):
     # Aggiorna il percorso dell'indice per la lettura dei metadati
     index_path = os.path.join(intl_dir, "video_index_raw.txt")
 
-    # 5. Creazione Descrizione YouTube (ONE-SHOT GEMINI)
-    print("📝 Generazione Metadati AI (Premium) con Gemini...")
+    # 5. Creazione Descrizione YouTube locale
+    print("📝 Generazione metadati locali...")
     
     authors = "Autori Ignoti"
     journal = "Cosa fanno gli economisti"
@@ -207,83 +319,22 @@ def process(video_filename=None):
         with open(index_path, 'r', encoding='utf-8') as f_idx:
             all_index_lines = [l.strip() for l in f_idx.readlines() if '[' in l and ']' in l]
 
-    if GEMINI_API_KEY and pdf_path and os.path.exists(pdf_path):
-        print("🧬 MASTER CALL: Consolidamento Paper-Meta + Teaser + Tags + Capitoli...")
+    if pdf_path and os.path.exists(pdf_path):
         try:
             from batch_text_extractor import extract_text
             pdf_text = extract_text(pdf_path, 3)
             doi_link = extract_doi_url(pdf_text)
-            
-            idx_context = ""
-            if all_index_lines:
-                total_lines = len(all_index_lines)
-                step = max(1, total_lines // 4)
-                sel_idx = [i * step for i in range(4)]
-                sel_lines = [all_index_lines[i] for i in sel_idx if i < total_lines]
-                idx_context = f"\nCAPITOLI WHISPER (Timestamp e contenuto parziale):\n" + "\n".join(sel_lines)
-
-            prompt_master = f"""Sei un esperto di comunicazione per il canale YouTube 'Cosa fanno gli economisti'.
-            Basandoti SU QUESTO TESTO di un paper accademico:
-            {pdf_text[:5000]}
-            {idx_context}
-
-            Estrai e genera le seguenti informazioni in formato JSON:
-            {{
-                "authors": "Cognomi autori",
-                "journal": "Nome rivisita (Journal)",
-                "year": "Anno pubblicazione",
-                "doi": "DOI o URL",
-                "teaser": "Un teaser di 2-3 frasi accattivante e divulgativo in ITALIANO che spieghi lo studio",
-                "tags": "5 hashtag specifici e impattanti basati su BRAND citati, LUOGHI o EVENTI (es: #Volkswagen, #Grecia, #Nazismo) separati da spazio",
-                "chapter_titles": ["Titolo 1", "Titolo 2", "Titolo 3", "Titolo 4"]
-            }}
-            I 'chapter_titles' devono essere catchy e basati sul contesto del paper (ITALIANO, max 5 parole l'uno).
-            Rispondi esclusivamente con il JSON puro, senza blocchi di markdown o altro testo."""
-
-            client = genai.Client(api_key=GEMINI_API_KEY)
-            
-            # Cooldown per pulire quota
-            print("⏳ Cooldown 60s per stabilizzare la quota API...")
-            time.sleep(60)
-            
-            for attempt in range(3):
-                try:
-                    model_to_use = 'gemini-flash-latest'
-                    try:
-                        res = client.models.generate_content(model=model_to_use, contents=prompt_master)
-                    except Exception as e_inner:
-                        if "503" in str(e_inner) or "experience high demand" in str(e_inner).lower() or "429" in str(e_inner) or "quota" in str(e_inner).lower():
-                            print("⚠️ Modello primario sovraccarico (503/429). Provo fall-back su gemini-2.5-flash...")
-                            model_to_use = 'gemini-2.5-flash'
-                            res = client.models.generate_content(model=model_to_use, contents=prompt_master)
-                        else:
-                            raise e_inner
-                    
-                    if res and res.text:
-                        raw_res = res.text.strip().replace('```json', '').replace('```', '')
-                        # Pulizia manuale se presente testo extra
-                        if '{' in raw_res and '}' in raw_res:
-                            raw_res = raw_res[raw_res.find('{'):raw_res.rfind('}')+1]
-                        
-                        d = json.loads(raw_res)
-                        authors = d.get("authors", authors)
-                        journal = d.get("journal", journal)
-                        year = d.get("year", year)
-                        doi_link = d.get("doi", doi_link)
-                        teaser = d.get("teaser", teaser).replace('"', '')
-                        catchy_titles = d.get("chapter_titles", catchy_titles)
-                        raw_tags = d.get("tags", "")
-                        print("✅ MASTER CALL: Generazione metadata completata!")
-                        break
-                except Exception as e:
-                    if "429" in str(e) and attempt < 2:
-                        print(f"⏳ Quota limitata, attendo 60s (Tentativo {attempt+1})...")
-                        time.sleep(60)
-                    else:
-                        print(f"⚠️ Errore chiamata master Gemini: {e}")
-                        break
+            display_title = os.path.basename(pdf_path).replace(".pdf", "")
+            paper_title = extract_title_from_text(pdf_text, display_title)
+            authors = extract_authors(pdf_text)
+            journal, year = extract_journal_and_year(pdf_text)
+            keywords = extract_keywords(pdf_text, limit=5)
+            teaser = build_teaser(paper_title, journal, year, keywords)
+            catchy_titles = build_chapter_titles(paper_title, keywords)
+            raw_tags = build_hashtags(paper_title, pdf_text)
+            print("✅ Metadati locali consolidati.")
         except Exception as e:
-            print(f"⚠️ Errore logico MASTER CALL: {e}")
+            print(f"⚠️ Errore estrazione metadati locali: {e}")
 
     # Costruzione finale Descrizione
     # Usa il titolo accademico reale per la descrizione (SOP 3.3)

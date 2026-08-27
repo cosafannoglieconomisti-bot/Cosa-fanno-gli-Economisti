@@ -8,7 +8,7 @@ Il nostro obiettivo è rendere la ricerca economica di alto livello (AER, QJE, E
 ## 🏗️ Architettura a 3 Livelli
 Operiamo su un'architettura progettata per massimizzare l'affidabilità:
 1.  **Direttive (Livello 1)**: SOP in Markdown che definiscono *cosa* fare (obiettivi, input, output).
-2.  **Orchestrazione (Livello 2)**: Routing intelligente gestito da agenti AI che decidono *come* eseguire le direttive.
+2.  **Orchestrazione (Livello 2)**: Routing operativo gestito da Codex/chat e dai workflow locali, che decidono *come* eseguire le direttive.
 3.  **Esecuzione (Livello 3)**: Script Python deterministici che svolgono il lavoro pesante (API, editing video, calcoli).
 
 ## 🤖 La Squadra degli Agenti
@@ -30,6 +30,7 @@ Da ora il punto di ingresso operativo principale non e' piu il bot Telegram Cesa
 - Per avviare i workflow basta scrivere in chat richieste come `avvia workflow paper`, `fai produzione`, `esegui pulizia`, `fai upload`, `genera report`, `controlla gmail`, `scouting competitor`, `fai backup`.
 - Codex esegue i workflow locali tramite il runner generale `./workflow` o invocando direttamente gli script di `Execution/` quando serve un controllo piu fine.
 - Cesare resta codice storico nel repository, ma non e' piu la control plane raccomandata per l'operativita' quotidiana.
+- I workflow attivi sono stati riportati a una logica locale e deterministica: niente dipendenza operativa da Gemini per `/paper`, `/pulizia`, playlist, report e traduzioni.
 - **Copertine**: la superficie primaria da oggi e' il motore immagine nativo di Codex/OpenAI, non Gemini/Imagen. La copertina va sempre mostrata e approvata prima di qualunque archiviazione in `Cleaned/`.
 
 ## Terminal Workflows

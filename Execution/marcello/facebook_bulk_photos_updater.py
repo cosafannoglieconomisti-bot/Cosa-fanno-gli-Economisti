@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import asyncio
 import os
 import glob
@@ -5,7 +8,7 @@ from playwright.async_api import async_playwright
 
 def load_video_data():
     mappings = {}
-    base_dir = "/Users/<USER>/Desktop/canale/Cleaned"
+    base_dir = str(REPO_ROOT / 'Cleaned')
     
     # Locate all video_metadata.md files using os.walk (robust against square brackets)
     meta_files = []

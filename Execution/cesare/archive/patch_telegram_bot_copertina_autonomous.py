@@ -1,7 +1,11 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[3]
+HOME = Path.home()
+
 # patch_telegram_bot_copertina_autonomous.py
 import os
 
-bot_path = "/Users/<USER>/Desktop/canale/Execution/cesare/telegram_bot.py"
+bot_path = str(REPO_ROOT / 'Execution' / 'cesare' / 'telegram_bot.py')
 
 with open(bot_path, 'r', encoding='utf-8') as f:
     content = f.read()
@@ -10,7 +14,7 @@ with open(bot_path, 'r', encoding='utf-8') as f:
 helper_code = """
 def generate_cover_native(title):
     # Forza l'uso del file già generato con successo (v3) per superare i blocchi temporanei del Free Tier
-    v3 = "/Users/<USER>/.gemini/antigravity/brain/0af43b21-861e-4e08-b0e0-47fcc2fd4d30/cover_v3_grouped_title_retry_1774393779129.png"
+    v3 = str(HOME / '.gemini' / 'antigravity' / 'brain' / '0af43b21-861e-4e08-b0e0-47fcc2fd4d30' / 'cover_v3_grouped_title_retry_1774393779129.png')
     tmp_path = "/tmp/active_cover.png"
     import shutil
     if os.path.exists(v3):
@@ -33,7 +37,7 @@ old_copertina_cmd = """    elif user_msg_stripped == '/copertina':
         return"""
 
 new_copertina_cmd = """    elif user_msg_stripped == '/copertina':
-        pipeline_path = "/Users/<USER>/Desktop/canale/Temp/enea/active_pipeline.json"
+        pipeline_path = str(REPO_ROOT / 'Temp' / 'enea' / 'active_pipeline.json')
         if not os.path.exists(pipeline_path):
              bot.reply_to(message, "❌ Nessun paper attivo di cui creare copertina. Lancia prima `/paper`!")
              return
@@ -67,7 +71,7 @@ if "status_msg = bot.reply_to(message, f\"🎨 **Enea**:" not in content:
 callback_approve_code = """    elif action_data == "cover_approve":
         chat_id = call.message.chat.id
         import shutil
-        pipeline_path = "/Users/<USER>/Desktop/canale/Temp/enea/active_pipeline.json"
+        pipeline_path = str(REPO_ROOT / 'Temp' / 'enea' / 'active_pipeline.json')
         if not os.path.exists(pipeline_path):
              bot.send_message(chat_id, "❌ Errore sessione.")
              return

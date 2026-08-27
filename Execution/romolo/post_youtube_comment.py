@@ -1,13 +1,16 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import sys
 import json
 from googleapiclient.discovery import build
 from dotenv import load_dotenv
 
-sys.path.append("/Users/<USER>/Desktop/canale/Execution/romolo")
+sys.path.append(str(REPO_ROOT / 'Execution' / 'romolo'))
 from romolo_manage_channel import get_authenticated_service, SCOPES
 
-HISTORY_FILE = "/Users/<USER>/Desktop/canale/Temp/romolo/competitor_comment_history.json"
+HISTORY_FILE = str(REPO_ROOT / 'Temp' / 'romolo' / 'competitor_comment_history.json')
 
 def record_comment_history(video_id):
     history = []

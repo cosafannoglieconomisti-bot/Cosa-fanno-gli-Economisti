@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import json
 import subprocess
@@ -11,9 +14,9 @@ from datetime import datetime, timedelta
 # Configuration
 BUFFER_ACCESS_TOKEN = [REDACTED]
 FB_PROFILE_ID = "69baada37be9f8b1716baa0d"
-HISTORY_FILE = "/Users/<USER>/Desktop/canale/Temp/marcello/facebook_history.json"
-CLEANED_DIR = "/Users/<USER>/Desktop/canale/Cleaned"
-TOKEN_FILE = "/Users/<USER>/Desktop/canale/Execution/romolo/.tmp/tokens/token_youtube.pickle"
+HISTORY_FILE = str(REPO_ROOT / 'Temp' / 'marcello' / 'facebook_history.json')
+CLEANED_DIR = str(REPO_ROOT / 'Cleaned')
+TOKEN_FILE = str(REPO_ROOT / 'Execution' / 'romolo' / '.tmp' / 'tokens' / 'token_youtube.pickle')
 
 def get_youtube_service():
     creds = None

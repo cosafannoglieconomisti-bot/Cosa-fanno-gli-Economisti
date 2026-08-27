@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import pickle
 import argparse
@@ -15,7 +18,7 @@ Ci vediamo anche qui:
 """
 
 def get_authenticated_service():
-    token_file = '/Users/<USER>/Desktop/canale/Execution/credentials/token_youtube.pickle'
+    token_file = str(REPO_ROOT / 'Execution' / 'credentials' / 'token_youtube.pickle')
     if not os.path.exists(token_file):
         raise FileNotFoundError(f"Token file not found at {token_file}")
     

@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[3]
+
 import fitz
 import os
 from google import genai
@@ -38,7 +41,7 @@ def get_bundle_titles(pdf_paths):
          print(f"Errore Gemini: {e}")
          return {}
 
-full_path = "/Users/<USER>/Desktop/canale/Papers/Da fare"
+full_path = str(REPO_ROOT / 'Papers' / 'Da fare')
 pdfs = [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".pdf")]
 
 map_titles = get_bundle_titles(pdfs)

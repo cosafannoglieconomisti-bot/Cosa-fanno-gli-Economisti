@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import fitz
 import sys
 import os
@@ -14,7 +17,7 @@ def extract_text(pdf_path, max_pages=3):
         return ""
 
 if __name__ == "__main__":
-    folder = "/Users/<USER>/Desktop/canale/Papers/Da fare"
+    folder = str(REPO_ROOT / 'Papers' / 'Da fare')
     
     # Supporto per file singolo come argomento
     if len(sys.argv) > 1:

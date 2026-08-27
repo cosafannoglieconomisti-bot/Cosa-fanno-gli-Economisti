@@ -11,7 +11,8 @@ Questo workflow esegue il backup automatico del workspace su GitHub, garantendo 
 2. **Sicurezza e Staging**:
    - Lo script crea una copia temporanea del workspace (**Staging Area**), includendo le cartelle core e `Cleaned/`.
    - **Filtro Video**: Tutti i file `.mp4` vengono filtrati e rimossi dallo staging prima del push.
-   - Esegue l'**offuscamento automatico** (REDACTION) di token, API key e ID sensibili nei file `.md`, `.py`, `.txt` e `.json`.
+   - Esegue l'**offuscamento automatico** di token, API key **e path macchina** (`/Users/<account>/` → `/Users/<USER>/`) nei file `.md`, `.py`, `.txt`, `.json` e `.sh`.
+   - Ogni `git push` normale e' anche bloccato dall'hook pre-push se restano path reali.
    - I file locali sul Mac **NON vengono modificati**; la versione originale rimane intatta e funzionante.
 
 3. **Sincronizzazione (Git)**:

@@ -1,7 +1,10 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[3]
+
 # patch_telegram_bot_paper_title.py
 import os
 
-bot_path = "/Users/<USER>/Desktop/canale/Execution/cesare/telegram_bot.py"
+bot_path = str(REPO_ROOT / 'Execution' / 'cesare' / 'telegram_bot.py')
 
 with open(bot_path, 'r', encoding='utf-8') as f:
     content = f.read()
@@ -39,7 +42,7 @@ if "def get_bundle_titles" not in content:
 
 # 2. Aggiorna il comando /paper per usare i titoli
 old_paper_cmd = """    elif user_msg_stripped == '/paper':
-        paper_dir = "/Users/<USER>/Desktop/canale/Papers/Da fare"
+        paper_dir = str(REPO_ROOT / 'Papers' / 'Da fare')
         try:
             pdfs = [f for f in os.listdir(paper_dir) if f.endswith(".pdf")]
             if not pdfs:
@@ -56,7 +59,7 @@ old_paper_cmd = """    elif user_msg_stripped == '/paper':
         return"""
 
 new_paper_cmd = """    elif user_msg_stripped == '/paper':
-        paper_dir = "/Users/<USER>/Desktop/canale/Papers/Da fare"
+        paper_dir = str(REPO_ROOT / 'Papers' / 'Da fare')
         try:
             pdfs = [f for f in os.listdir(paper_dir) if f.endswith(".pdf")]
             if not pdfs:

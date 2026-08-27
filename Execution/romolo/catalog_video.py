@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import sys
 import json
@@ -9,7 +12,7 @@ from google.auth.transport.requests import Request
 from google_auth_oauthlib.flow import InstalledAppFlow
 
 # Root path for absolute references
-ROOT_PATH = "/Users/<USER>/Desktop/canale"
+ROOT_PATH = str(REPO_ROOT)
 load_dotenv(os.path.join(ROOT_PATH, '.env'))
 
 SCOPES = [

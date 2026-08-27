@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import sys
 import pickle
@@ -11,7 +14,7 @@ SCOPES = [
 
 def get_authenticated_service():
     # Use ABSOLUTE PATH for token
-    token_path = '/Users/<USER>/Desktop/canale/Execution/credentials/token_youtube.pickle'
+    token_path = str(REPO_ROOT / 'Execution' / 'credentials' / 'token_youtube.pickle')
     if not os.path.exists(token_path):
         print(f"Error: Token not found at {token_path}")
         sys.exit(1)

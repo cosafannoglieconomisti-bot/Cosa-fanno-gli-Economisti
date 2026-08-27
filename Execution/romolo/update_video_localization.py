@@ -1,3 +1,6 @@
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
 import os
 import pickle
 import sys
@@ -9,7 +12,7 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
 # Configurazione Percorsi
-CREDENTIALS_DIR = "/Users/<USER>/Desktop/canale/Execution/credentials"
+CREDENTIALS_DIR = str(REPO_ROOT / 'Execution' / 'credentials')
 TOKEN_PATH = os.path.join(CREDENTIALS_DIR, "token.pickle")
 
 def get_authenticated_service():
