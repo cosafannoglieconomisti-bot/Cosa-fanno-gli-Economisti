@@ -70,9 +70,9 @@ def update_entry(project_name, key=None, value=None, full_entry=None):
         data[project_name] = {
             "youtube_id": "",
             "youtube_url": "Da pubblicare",
-            "facebook_url": "Da fare",
+            "facebook_url": "Sospeso",
             "instagram_url": "Da fare",
-            "facebook_cover_status": "Mancante",
+            "facebook_cover_status": "Sospeso",
             "playlist": "Da assegnare",
             "last_updated": now
         }

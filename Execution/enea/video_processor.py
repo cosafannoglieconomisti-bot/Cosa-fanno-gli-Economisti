@@ -85,8 +85,19 @@ def extract_title_from_text(pdf_text, fallback):
 
 
 def extract_authors(pdf_text):
+    lines = [normalize_whitespace(line) for line in pdf_text.splitlines()]
+    for line in lines[:24]:
+        match = re.match(r"By\s+(.+)$", line, re.IGNORECASE)
+        if match:
+            byline = re.sub(r"[*†‡∗]+$", "", match.group(1)).strip()
+            byline = re.sub(r"\s+", " ", byline)
+            names = re.split(r"\s+and\s+|,\s*", byline, flags=re.IGNORECASE)
+            names = [name.strip(" ,") for name in names if name.strip(" ,")]
+            if names:
+                return ", ".join(names[:4])
+
     authors = []
-    for line in pdf_text.splitlines()[1:18]:
+    for line in lines[1:18]:
         line = normalize_whitespace(line)
         if not line:
             continue
@@ -206,6 +217,16 @@ def process(video_filename=None):
             print("❌ Errore: Nessun video .mp4 trovato in Downloads.")
             sys.exit(1)
         input_video = possible_videos[0]
+        modified = datetime.fromtimestamp(os.path.getmtime(input_video))
+        print(
+            f"📹 Video più recente in Downloads: {os.path.basename(input_video)} "
+            f"({modified.strftime('%Y-%m-%d %H:%M')})"
+        )
+        if os.environ.get("WORKFLOW_ASSUME_YES") != "1":
+            confirm = input("Usare questo file? [S/n] ").strip().lower()
+            if confirm in {"n", "no"}:
+                print("Annullato. Passa il nome file come argomento a ./workflow pulizia.")
+                sys.exit(1)
     
     if not os.path.exists(input_video):
         print(f"❌ Errore: Video '{input_video}' non trovato.")
@@ -419,7 +440,7 @@ def process(video_filename=None):
             out_srt = os.path.join(intl_dir, l_code, f"subtitles_{l_code}.srt")
             if not os.path.exists(out_srt):
                 print(f"🌍 Traduzione SRT in {l_name}...")
-                success, res = run_command([PYTHON_EXEC, TRANSLATE_SRT, it_srt_intl, out_srt, l_name])
+                success, res = run_command([PYTHON_EXEC, TRANSLATE_SRT, it_srt_intl, out_srt, l_code])
                 if not success:
                     print(f"❌ Fallimento Traduzione SRT {l_name}: {res}")
                     sys.exit(1)

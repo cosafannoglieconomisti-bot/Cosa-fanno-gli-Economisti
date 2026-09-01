@@ -1,0 +1,17 @@
+name: Guard local paths
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+
+jobs:
+  no-machine-paths:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fail if real /Users/<account> paths are present
+        run: python3 Execution/mercurio/sanitize_local_paths.py --check

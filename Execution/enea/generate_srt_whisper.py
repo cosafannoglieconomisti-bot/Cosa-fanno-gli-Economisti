@@ -11,6 +11,10 @@ def format_timestamp(seconds):
     return f"{td_h:02d}:{td_m:02d}:{td_s:02d},{td_ms:03d}"
 
 def generate_srt(video_path, output_srt):
+    print(
+        "Primo avvio: faster-whisper scaricherà il modello 'base' (~150 MB). "
+        "Può richiedere alcuni minuti."
+    )
     print(f"Caricamento modello Whisper ('base') per {video_path}...")
     model = WhisperModel("base", device="cpu", compute_type="float32")
 

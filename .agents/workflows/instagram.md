@@ -2,7 +2,7 @@
 description: Programma un post su Instagram via Buffer API
 ---
 
-Questo workflow gestisce la programmazione di post su Instagram utilizzando l'infografica del paper come asset visivo.
+Questo workflow gestisce la programmazione di post su Instagram utilizzando l'infografica del paper come asset visivo. Dal 2026-08-31 Instagram e' l'unico social Buffer nel closeout di `/upload`; Facebook e' sospeso.
 
 1.  **Identificazione Contenuto**: Lo script seleziona automaticamente l'ultimo video pubblicato su YouTube che non è ancora stato programmato su Instagram (escludendo gli Shorts).
 2.  **Asset Discovery**: Il sistema cerca un'infografica (`.png`) nella cartella `Cleaned/` corrispondente.

@@ -1,13 +1,15 @@
 ---
-description: Workflow /upload per pubblicazione Multi-Piattaforma e Cleanup Root
+description: Workflow /upload per pubblicazione YouTube + Instagram e Cleanup Root
 ---
 
-Il workflow `/upload` gestisce la pubblicazione automatizzata su YouTube, Facebook e Instagram, seguita dalla pulizia della root del canale.
+Il workflow `/upload` gestisce la pubblicazione automatizzata su **YouTube e Instagram**, seguita dalla pulizia della root del canale.
+
+**Facebook e' sospeso** (decisione 2026-08-31). Non programmare post FB via Buffer. Closeout completo = YouTube + Instagram + cleanup + tracking `Pulito`.
 
 ### Procedura Operativa
 
 1.  **Preparazione**: Assicurati che la cartella `Cleaned/[Titolo]` contenga il video pulito, `copertina.png`, `infografica_cleaned.png` e i metadati.
-2.  **Lancio**: Digita `/upload` su Telegram.
+2.  **Lancio**: Digita `/upload` in chat (o `./workflow upload`).
 
 ### Procedura Deterministica
 
@@ -22,16 +24,16 @@ Il workflow `/upload` gestisce la pubblicazione automatizzata su YouTube, Facebo
     - Assegnazione a una delle 8 playlist tematiche (es: "Economia del Crimine", "Storia Economica").
     - Aggiornamento della descrizione della playlist con il nuovo titolo.
 4.  **Programmazione Social (Automatico)**:
-    - **Facebook**: Programmazione post via Buffer con `copertina.png` e link YT.
     - **Instagram**: Programmazione post via Buffer con `infografica_cleaned.png`.
+    - **Facebook**: **sospeso**. Non lanciare Buffer FB. Segnare `facebook_url` / `facebook_cover_status` come `Sospeso` se ancora pendenti.
 5.  **Mandatory Root Cleanup**:
     - Lo script `video_cleanup.py` viene eseguito automaticamente alla fine.
     - **Rimozione**: Cancella file `.mp4` residui dalla root e dalle cartelle progetto.
     - **Archiviazione**: Sposta asset testuali in `international/`.
-6.  **Aggiornamento Registro**: Aggiorna `video_tracking.json` con lo status `Pulito` e tutti i link/ID.
+6.  **Aggiornamento Registro**: Aggiorna `video_tracking.json` con lo status `Pulito` e i link/ID YouTube + Instagram.
 
 ### Requisiti
-- Credenziali Buffer e YouTube attive.
+- Credenziali Buffer (Instagram) e YouTube attive.
 - Asset multilingua pronti in `international/`.
 
 ## 📋 File Python Utilizzati
@@ -39,5 +41,5 @@ Il workflow `/upload` gestisce la pubblicazione automatizzata su YouTube, Facebo
 2. `Execution/enea/youtube_uploader.py` (Upload YouTube)
 3. `Execution/romolo/update_video_localization.py` (Localizzazione)
 4. `Execution/romolo/catalog_video.py` (Playlist)
-5. `Execution/marcello/buffer_post_single.py` (FB/IG)
+5. `Execution/marcello/buffer_post_single.py --platform instagram`
 6. `Execution/enea/video_cleanup.py` (Cleanup Finale)

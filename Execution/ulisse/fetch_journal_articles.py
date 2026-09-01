@@ -42,7 +42,7 @@ def reconstruct_abstract(inverted_index):
             for pos in positions:
                 word_index[pos] = word
         return " ".join([word_index[i] for i in sorted(word_index.keys())])
-    except:
+    except Exception:
         return "N/A"
 
 def fetch_journal_papers(journal_name, issns, start_year=2010):

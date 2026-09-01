@@ -33,7 +33,8 @@ JOURNAL_WHITELIST = list(set(JOURNAL_ISSNS.values()))
 def strip_accents(text):
     if not text: return ""
     try: text = str(text)
-    except: return text
+    except Exception:
+        return text
     nfkd_form = unicodedata.normalize('NFKD', text)
     return "".join([c for c in nfkd_form if not unicodedata.combining(c)])
 

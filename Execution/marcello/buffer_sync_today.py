@@ -14,8 +14,8 @@ def get_pending_count():
         res = requests.get(url)
         if res.status_code == 200:
             return res.json().get('total', 0)
-    except:
-        pass
+    except Exception as err:
+        print(f"⚠️ Buffer pending count fallito: {err}")
     return 0
 
 def schedule_post(text, video_url, thumbnail_url=None, scheduled_at=None):

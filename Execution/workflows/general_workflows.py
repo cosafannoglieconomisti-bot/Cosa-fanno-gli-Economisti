@@ -17,6 +17,10 @@ HOME = Path.home()
 
 from dotenv import load_dotenv
 
+sys.path.insert(0, str(REPO_ROOT / "Execution"))
+from canale_paths import expand_local_paths
+from enea import pipeline_store
+
 try:
     from google import genai
 except Exception:
@@ -32,11 +36,25 @@ ACTIVE_PIPE = ROOT / "Temp/enea/active_pipeline.json"
 TRACKING_PATH = ROOT / "Cleaned/video_tracking.json"
 COMMAND_MAP = ROOT / "Execution/cesare/command_map.json"
 BRIDGE_LOG = ROOT / "Temp/cesare/telegram_bridge.log"
-TMP_COVER = Path("/tmp/active_cover.png")
 
 load_dotenv(ROOT / ".env")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
 CLIENT = genai.Client(api_key=GEMINI_API_KEY) if genai and GEMINI_API_KEY else None
+
+
+def tmp_cover_path():
+    cover_dir = TEMP_DIR / "enea"
+    cover_dir.mkdir(parents=True, exist_ok=True)
+    name = "active"
+    if ACTIVE_PIPE.exists():
+        try:
+            with open(ACTIVE_PIPE, "r", encoding="utf-8") as handle:
+                pipe = json.load(handle)
+            name = pipe.get("clean_title") or "active"
+        except Exception:
+            pass
+    return cover_dir / f"{name}_cover.png"
 
 
 class WorkflowError(RuntimeError):
@@ -74,7 +92,8 @@ def run_cmd(cmd, cwd=ROOT, check=True, env=None):
 
 def load_command_map():
     with open(COMMAND_MAP, "r", encoding="utf-8") as handle:
-        return json.load(handle)
+        raw = handle.read()
+    return json.loads(expand_local_paths(raw))
 
 
 def append_bridge_log(message, source="Workflow"):
@@ -334,10 +353,37 @@ def parse_metadata_from_text(pdf_text, fallback_title="Paper"):
             title = re.sub(r"\s+", " ", " ".join(candidate_lines)).strip()
 
     authors = []
-    for line in preview_lines[1:12]:
+    # Many working papers list several authors on one marked line without a
+    # "By" prefix. Detect that line before the permissive fallback below.
+    for line in preview_lines[:20]:
+        if not re.search(r"[*†‡∗]", line) or "," not in line:
+            continue
+        stripped = clean_title_candidate(line)
+        if any(token in stripped.lower() for token in ["university", "institute", "college", "school", "department", "email"]):
+            continue
+        author_text = re.sub(r"[*†‡∗]+", "", stripped).strip()
+        author_parts = [part.strip() for part in author_text.split(",") if part.strip()]
+        if len(author_parts) >= 2 and all(2 <= len(part.split()) <= 5 for part in author_parts):
+            authors = author_parts[:6]
+            break
+
+    if authors:
+        author_lines_done = True
+    else:
+        author_lines_done = False
+
+    for line in preview_lines[:20]:
+        if author_lines_done:
+            break
         stripped = clean_title_candidate(line)
         if not stripped:
             continue
+        byline = re.match(r"^by\s+(.+)$", stripped, flags=re.IGNORECASE)
+        if byline:
+            author_text = re.sub(r"[*†‡∗]+$", "", byline.group(1)).strip()
+            author_parts = re.split(r"\s+and\s+|,\s*", author_text, flags=re.IGNORECASE)
+            authors = [part.strip() for part in author_parts if part.strip()]
+            break
         lower = stripped.lower()
         if lower.startswith(("abstract", "forthcoming", "published", "journal", "keywords", "jel")):
             break
@@ -543,6 +589,15 @@ def curated_titles_from_metadata(metadata, pdf_text=""):
     real_title = metadata.get("real_title", "")
     lower = f"{real_title}\n{pdf_text[:5000]}".lower()
 
+    if "empowering adolescents to transform schools" in lower:
+        return [
+            "Quando gli studenti diventano insegnanti: meno violenza, piu opportunita",
+            "Dare responsabilita ai ragazzi puo cambiare una scuola?",
+            "La scuola cambia dal basso: il potere degli studenti piu influenti",
+            "Piu status, meno comportamenti antisociali",
+            "Educare i leader della classe per spezzare lo svantaggio",
+        ]
+
     if "human capital" in lower and ("industrialization" in lower or "industrial revolution" in lower):
         return [
             "I cervelli accendono le fabbriche?",
@@ -582,7 +637,7 @@ def title_rejected_by_sop(title, metadata, pdf_text):
 
 def generate_titles_with_llm(metadata, pdf_text):
     if not CLIENT:
-        return []
+        return [], True, "GEMINI_API_KEY mancante o client non disponibile"
 
     title = metadata.get("real_title", "")
     journal = metadata.get("journal", "")
@@ -636,11 +691,16 @@ Rispondi solo con un JSON array di 5 stringhe. Nessuna introduzione, nessuna spi
             signal.signal(signal.SIGALRM, previous_handler)
 
     best_titles = []
-    for model in ["gemini-2.5-flash", "gemini-flash-latest"]:
+    last_error = None
+    models = [GEMINI_MODEL]
+    if GEMINI_MODEL != "gemini-flash-latest":
+        models.append("gemini-flash-latest")
+    for model in models:
         try:
             response = call_model(model)
             text = response.text if response and response.text else ""
         except Exception as exc:
+            last_error = str(exc)
             log(f"Generazione titoli LLM fallita con {model}: {exc}")
             continue
 
@@ -672,7 +732,7 @@ Rispondi solo con un JSON array di 5 stringhe. Nessuna introduzione, nessuna spi
             if word_count <= 5:
                 titles.append(cleaned)
         if len(titles) >= 5:
-            return titles[:5]
+            return titles[:5], False, None
         if len(titles) > len(best_titles):
             best_titles = titles
 
@@ -681,8 +741,8 @@ Rispondi solo con un JSON array di 5 stringhe. Nessuna introduzione, nessuna spi
             if fallback not in best_titles:
                 best_titles.append(fallback)
             if len(best_titles) >= 5:
-                return best_titles[:5]
-    return []
+                return best_titles[:5], True, last_error
+    return [], True, last_error
 
 
 def generate_titles_and_metadata(pdf_path):
@@ -694,8 +754,16 @@ def generate_titles_and_metadata(pdf_path):
     metadata = parse_metadata_from_text(text, fallback_title=text_title or layout_title)
     if text_title:
         metadata["real_title"] = text_title
-    titles = curated_titles_from_metadata(metadata, text) or generate_titles_with_llm(metadata, text) or fallback_titles_from_metadata(metadata, text)
-    return titles[:5], metadata
+
+    curated = curated_titles_from_metadata(metadata, text)
+    if curated:
+        return curated[:5], metadata, False, None
+
+    llm_titles, llm_fallback, llm_error = generate_titles_with_llm(metadata, text)
+    if llm_titles:
+        return llm_titles[:5], metadata, llm_fallback, llm_error
+
+    return fallback_titles_from_metadata(metadata, text)[:5], metadata, True, llm_error or "LLM non disponibile"
 
 
 def slugify_title(title):
@@ -703,44 +771,45 @@ def slugify_title(title):
 
 
 def write_active_pipeline(data):
-    ensure_parent(ACTIVE_PIPE)
-    with open(ACTIVE_PIPE, "w", encoding="utf-8") as handle:
-        json.dump(data, handle, indent=2, ensure_ascii=False)
+    pipeline_store.write_pipeline(data)
 
 
 def read_active_pipeline():
-    if not ACTIVE_PIPE.exists():
-        raise WorkflowError("active_pipeline.json non trovato.")
-    with open(ACTIVE_PIPE, "r", encoding="utf-8") as handle:
-        return json.load(handle)
+    try:
+        return pipeline_store.read_pipeline()
+    except FileNotFoundError as exc:
+        raise WorkflowError(str(exc)) from exc
 
 
 def generate_cover(title):
+    cover_path = tmp_cover_path()
     result = run_cmd(
-        [PYTHON, ROOT / "Execution/enea/generate_cover.py", title, TMP_COVER],
+        [PYTHON, ROOT / "Execution/enea/generate_cover.py", title, cover_path],
         check=False,
     )
-    if result.returncode != 0 or not TMP_COVER.exists():
+    if result.returncode != 0 or not cover_path.exists():
         raise WorkflowError(
-            "Generazione copertina fallita. Fornisci una cover approvata in Temp/assets/override_cover.png oppure registra una cover esterna."
+            "Generazione copertina fallita. Genera la cover in Codex/GPT e salvala in Temp/assets/override_cover.png."
         )
-    if not TMP_COVER.exists():
+    if not cover_path.exists():
         raise WorkflowError("Copertina non generata.")
-    return TMP_COVER
+    return cover_path
 
 
 def register_external_cover(source_path):
     source = Path(source_path)
     if not source.exists():
         raise WorkflowError(f"Copertina esterna non trovata: {source}")
-    shutil.copy(source, TMP_COVER)
-    return TMP_COVER
+    cover_path = tmp_cover_path()
+    shutil.copy(source, cover_path)
+    return cover_path
 
 
 def choose_cover_action(auto_approve=False):
+    cover_path = tmp_cover_path()
     if auto_approve:
         return "approve"
-    print(f"\nCopertina generata: {TMP_COVER}")
+    print(f"\nCopertina generata: {cover_path}")
     print("Azioni: [a]pprove  [r]egenerate  [x] reject")
     while True:
         choice = input("> ").strip().lower()
@@ -767,9 +836,10 @@ def approve_cover_from_pipeline(move_pdf=True):
     pipeline["target_dir"] = str(target_dir)
     write_active_pipeline(pipeline)
 
-    if not TMP_COVER.exists():
+    cover_path = tmp_cover_path()
+    if not cover_path.exists():
         raise WorkflowError("Copertina temporanea non trovata.")
-    shutil.copy(TMP_COVER, target_dir / "copertina.png")
+    shutil.copy(cover_path, target_dir / "copertina.png")
 
     metadata = pipeline.get("metadata", {})
     paper_name = pipeline.get("paper")
@@ -839,8 +909,24 @@ def choose_cleaned_folder(predicate):
 def setup_pipeline_for_cleaned_folder(folder_name):
     folder_path = CLEANED_DIR / folder_name
     pdfs = sorted(folder_path.glob("*.pdf"))
+
+    if ACTIVE_PIPE.exists():
+        try:
+            pipe = json.loads(ACTIVE_PIPE.read_text(encoding="utf-8"))
+        except Exception:
+            pipe = {}
+        paper_path = pipe.get("paper_path")
+        if (
+            pipe.get("clean_title") == folder_name
+            and paper_path
+            and Path(paper_path).exists()
+        ):
+            pipe["target_dir"] = str(folder_path)
+            write_active_pipeline(pipe)
+            return pipe
+
     if not pdfs:
-        raise WorkflowError(f"Nessun PDF in {folder_path}")
+        raise WorkflowError(f"Nessun PDF in {folder_path} e nessun paper_path valido in active_pipeline.json")
 
     title = folder_name.replace("_", " ")
     metadata_files = [path for path in folder_path.glob("*.md") if "metadata" in path.name.lower()]
@@ -919,9 +1005,15 @@ def workflow_paper(args):
     selected_idx = options.index(selected_label)
     selected_pdf = pdf_paths[selected_idx]
 
-    titles, metadata = generate_titles_and_metadata(selected_pdf)
+    titles, metadata, titles_fallback, titles_error = generate_titles_and_metadata(selected_pdf)
     print("\nMetadati rilevati:")
     print(json.dumps(metadata, indent=2, ensure_ascii=False))
+    if titles_fallback:
+        reason = titles_error or "modello AI non disponibile"
+        print(f"\n⚠️ TITOLI DI RIPIEGO — l'AI non ha risposto (motivo: {reason}).")
+        confirm = input("Continuo con titoli di ripiego? [s/N] ").strip().lower()
+        if confirm not in {"s", "si", "y", "yes"}:
+            raise WorkflowError("Selezione titolo annullata.")
     selected_title = prompt_choice(titles, "Seleziona titolo catchy", preselected_index=args.title_index)
 
     clean_title = slugify_title(selected_title)
@@ -943,7 +1035,7 @@ def workflow_paper(args):
         approve_cover_from_pipeline(move_pdf=True)
         return 0
 
-    print(f"\nCopertina generata in: {TMP_COVER}")
+    print(f"\nCopertina generata in: {tmp_cover_path()}")
     print("Approvala esplicitamente prima di archiviare il paper.")
     return 0
 
@@ -959,7 +1051,7 @@ def workflow_copertina(args):
         generate_cover(title)
         action = choose_cover_action(auto_approve=args.approve_cover)
         if action == "approve":
-            approve_cover_from_pipeline(move_pdf=False)
+            approve_cover_from_pipeline(move_pdf=True)
             break
         if action == "reject":
             log("Copertina rifiutata.")
@@ -967,17 +1059,66 @@ def workflow_copertina(args):
     return 0
 
 
+def produzione_ready(folder):
+    if any(folder.glob("*.mp4")):
+        return False
+    if any(folder.glob("*.pdf")):
+        return True
+    if ACTIVE_PIPE.exists():
+        try:
+            pipe = json.loads(ACTIVE_PIPE.read_text(encoding="utf-8"))
+        except Exception:
+            return False
+        paper_path = pipe.get("paper_path")
+        return (
+            pipe.get("clean_title") == folder.name
+            and paper_path
+            and Path(paper_path).exists()
+        )
+    return False
+
+
 def workflow_produzione(args):
     folder = args.folder
     if not folder:
-        folder = choose_cleaned_folder(
-            lambda path: any(path.glob("*.pdf")) and not any(path.glob("*.mp4"))
-        )
+        folder = choose_cleaned_folder(produzione_ready)
     setup_pipeline_for_cleaned_folder(folder)
     result = run_cmd([PYTHON, ROOT / "Execution/enea/notebooklm_orchestrator.py"], check=False)
     print((result.stdout or result.stderr).strip())
     if result.returncode != 0:
         raise WorkflowError(result.stderr or result.stdout or "Produzione fallita.")
+    return 0
+
+
+def workflow_infografica(args):
+    pipeline = read_active_pipeline()
+    target_dir = Path(pipeline.get("target_dir") or CLEANED_DIR / pipeline.get("clean_title", ""))
+    if not target_dir.exists():
+        raise WorkflowError(f"Cartella di lavorazione non trovata: {target_dir}")
+
+    input_path = args.input
+    if not input_path:
+        downloads = sorted(
+            DOWNLOADS.glob("*_infografica.png"),
+            key=lambda path: path.stat().st_mtime,
+            reverse=True,
+        )
+        if not downloads:
+            raise WorkflowError("Nessuna infografica *_infografica.png in Downloads.")
+        input_path = str(downloads[0])
+
+    raw_dest = target_dir / "infografica_raw.png"
+    cleaned_dest = target_dir / "infografica_cleaned.png"
+    shutil.copy2(input_path, raw_dest)
+
+    result = run_cmd(
+        [PYTHON, ROOT / "Execution/enea/clean_infographic.py", str(raw_dest), str(cleaned_dest)],
+        check=False,
+    )
+    print((result.stdout or result.stderr).strip())
+    if result.returncode != 0 or not cleaned_dest.exists():
+        raise WorkflowError("Pulizia infografica fallita.")
+    log(f"Infografica pronta: {cleaned_dest}")
     return 0
 
 
@@ -1009,11 +1150,25 @@ def ready_upload_folders():
     return folders
 
 
+def mark_facebook_suspended(folder: str) -> None:
+    """Set Facebook tracking to Sospeso unless a real post already exists."""
+    tracking = {}
+    if TRACKING_PATH.exists():
+        tracking = json.loads(TRACKING_PATH.read_text(encoding="utf-8"))
+    entry = tracking.get(folder, {})
+    pending = {"Da fare", "Mancante", "", None}
+    for key in ("facebook_url", "facebook_cover_status"):
+        if entry.get(key) in pending:
+            run_cmd([PYTHON, ROOT / "Execution/enea/tracking_manager.py", folder, key, "Sospeso"])
+
+
 def workflow_upload(args):
     folder = args.folder or prompt_choice(ready_upload_folders(), "Seleziona video da caricare")
     folder_path = CLEANED_DIR / folder
     meta_path = folder_path / "video_metadata.md"
-    thumb_path = folder_path / "copertina.png"
+    thumb_path = folder_path / "copertina.jpg"
+    if not thumb_path.exists():
+        thumb_path = folder_path / "copertina.png"
     videos = sorted(folder_path.glob("*_cleaned.mp4"))
     if not videos:
         raise WorkflowError(f"Nessun video pulito in {folder_path}")
@@ -1051,6 +1206,20 @@ def workflow_upload(args):
     print((result.stdout or result.stderr).strip())
     if result.returncode != 0:
         raise WorkflowError(result.stderr or result.stdout or "Upload fallito.")
+    print("Facebook sospeso: salto Buffer Facebook. Programmo solo Instagram.")
+    mark_facebook_suspended(folder)
+    ig_cmd = [
+        PYTHON,
+        ROOT / "Execution/marcello/buffer_post_single.py",
+        "--platform",
+        "instagram",
+        "--folder-name",
+        folder,
+    ]
+    ig_result = run_cmd(ig_cmd, check=False)
+    print((ig_result.stdout or ig_result.stderr).strip())
+    if ig_result.returncode != 0:
+        raise WorkflowError(ig_result.stderr or ig_result.stdout or "Instagram Buffer fallito.")
     return 0
 
 
@@ -1074,6 +1243,8 @@ def workflow_instagram(args):
     ]
     if args.video_id:
         cmd.extend(["--video-id", args.video_id])
+    if getattr(args, "folder_name", None):
+        cmd.extend(["--folder-name", args.folder_name])
     if args.hour is not None:
         cmd.extend(["--hour", str(args.hour)])
     if args.dry_run:
@@ -1127,6 +1298,7 @@ def workflow_list(_args):
         "paper",
         "copertina",
         "produzione",
+        "infografica",
         "pulizia",
         "youtube-auth",
         "upload",
@@ -1170,6 +1342,9 @@ def build_parser():
     produzione = subparsers.add_parser("produzione")
     produzione.add_argument("--folder")
 
+    infografica = subparsers.add_parser("infografica")
+    infografica.add_argument("--input", help="Percorso infografica raw (default: più recente in Downloads)")
+
     pulizia = subparsers.add_parser("pulizia")
     pulizia.add_argument("--video")
 
@@ -1183,6 +1358,7 @@ def build_parser():
 
     instagram = subparsers.add_parser("instagram")
     instagram.add_argument("--video-id")
+    instagram.add_argument("--folder-name")
     instagram.add_argument("--hour", type=int)
     instagram.add_argument("--dry-run", action="store_true")
 
@@ -1208,6 +1384,7 @@ def main():
         "paper": workflow_paper,
         "copertina": workflow_copertina,
         "produzione": workflow_produzione,
+        "infografica": workflow_infografica,
         "pulizia": workflow_pulizia,
         "youtube-auth": workflow_youtube_auth,
         "upload": workflow_upload,

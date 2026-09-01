@@ -87,6 +87,8 @@ def main():
     pdf_path = sanitize_filename(pdf_path)
     log(f"Usando PDF: {pdf_path}")
 
+    clean_title = pipe.get('clean_title', title.replace(' ', '_'))
+
     # 1. Creazione Notebook (Positional TITLE)
     log("Creazione Notebook...")
     res = run_cmd_with_retry(["nlm", "create", "notebook", title])
@@ -154,6 +156,7 @@ def main():
     log("In attesa del completamento asset...")
     video_ready = False
     info_ready = False
+    info_requested = bool(res_info)
     
     for _ in range(60): # ~30 minuti per paper lunghi o server lenti
         status_res = run_cmd_with_retry(["nlm", "status", "artifacts", nb_id, "-j"])
@@ -166,17 +169,18 @@ def main():
                         if art.get('status') == 'completed': video_ready = True
                     if art.get('type') == 'infographic' and art.get('status') == 'completed':
                         info_ready = True
-            except:
+            except Exception as poll_err:
+                log(f"Parsing stato artifact fallito: {poll_err}")
                 if "video" in status_res.lower() and "completed" in status_res.lower(): video_ready = True
                 if "infographic" in status_res.lower() and "completed" in status_res.lower(): info_ready = True
         
-        if video_ready: break # Usciamo se almeno il video è pronto per non far aspettare troppo
+        if video_ready and (info_ready or not info_requested):
+            break
         time.sleep(30)
 
     # 6. Download Video
     if video_ready:
         log("Video pronto. Inizio download in Downloads...")
-        clean_title = pipe.get('clean_title', title.replace(' ', '_'))
         output_file = f"{clean_title}_raw.mp4"
         # Download in ~/Downloads per compatibilità SOP (Step 3)
         output_path = os.path.join(os.path.expanduser("~/Downloads"), output_file)

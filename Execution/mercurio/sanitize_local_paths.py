@@ -46,6 +46,18 @@ TEXT_SUFFIXES = {
 }
 TEXT_NAMES = {"workflow", "Dockerfile", ".gitattributes", ".gitignore"}
 SKIP_DIR_PARTS = {".git", ".venv", "node_modules", "Temp", ".playwright-mcp"}
+SECRET_LINE_RE = re.compile(
+    r"(access_token[`'\"\\s:=]+[`'\"]?)([A-Za-z0-9_\\-]{20,})|"
+    r"(AIza[0-9A-Za-z\\-_]{35})|"
+    r"(sk-[A-Za-z0-9]{20,})"
+)
+SECRET_ALLOWLIST = (
+    "letto da .env",
+    "BUFFER_ACCESS_TOKEN",
+    "GEMINI_API_KEY",
+    "<USER>",
+    "[REDACTED]",
+)
 
 
 def _is_text_target(path: Path) -> bool:
@@ -235,15 +247,41 @@ def rewrite_tree() -> list[Path]:
     return changed
 
 
+def scan_secret_leaks(paths: list[Path] | None = None) -> list[tuple[Path, int, str]]:
+    hits = []
+    for path in paths or _iter_git_files():
+        if not _is_text_target(path):
+            continue
+        if path.name == ".env.example":
+            continue
+        try:
+            text = path.read_text(encoding="utf-8")
+        except (UnicodeDecodeError, OSError):
+            continue
+        for i, line in enumerate(text.splitlines(), 1):
+            if any(token in line for token in SECRET_ALLOWLIST):
+                continue
+            if SECRET_LINE_RE.search(line):
+                hits.append((path, i, line.strip()[:200]))
+    return hits
+
+
 def check_or_fail() -> int:
-    hits = scan_leaks()
-    if not hits:
-        print("OK: nessun path /Users/<account> reale nei file tracciati.")
+    path_hits = scan_leaks()
+    secret_hits = scan_secret_leaks()
+    if not path_hits and not secret_hits:
+        print("OK: nessun path /Users/<account> reale né segreto sospetto nei file tracciati.")
         return 0
-    print("Trovati path macchina in chiaro:")
-    for path, line, preview in hits:
-        rel = path.relative_to(REPO_ROOT)
-        print(f"  {rel}:{line}: {preview}")
+    if path_hits:
+        print("Trovati path macchina in chiaro:")
+        for path, line, preview in path_hits:
+            rel = path.relative_to(REPO_ROOT)
+            print(f"  {rel}:{line}: {preview}")
+    if secret_hits:
+        print("Trovati possibili segreti API:")
+        for path, line, preview in secret_hits:
+            rel = path.relative_to(REPO_ROOT)
+            print(f"  {rel}:{line}: {preview}")
     return 1
 
 

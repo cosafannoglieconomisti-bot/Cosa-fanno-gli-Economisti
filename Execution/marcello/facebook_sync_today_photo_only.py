@@ -23,7 +23,7 @@ async def run():
                 if (acceptBtn) acceptBtn.click();
             }""")
             await asyncio.sleep(2)
-        except:
+        except Exception:
             pass
 
         # ROBUST LOGIN (Matches standard form OR modal overlay)
@@ -46,7 +46,7 @@ async def run():
                 const closeBtn = document.querySelector('div[aria-label="Chiudi"], div[role="button"] i');
                 if (closeBtn) closeBtn.click();
             }""")
-        except:
+        except Exception:
             pass
 
         print("\n=== ATTENZIONE UTENTE ===")

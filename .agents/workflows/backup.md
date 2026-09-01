@@ -16,7 +16,8 @@ Questo workflow esegue il backup automatico del workspace su GitHub, garantendo 
    - I file locali sul Mac **NON vengono modificati**; la versione originale rimane intatta e funzionante.
 
 3. **Sincronizzazione (Git)**:
-   - Lo script sincronizza la versione pulita su GitHub con un force push su `origin main`.
+   - Lo script sincronizza la versione pulita su GitHub con un **force push** su `origin main`.
+   - Il comando si chiama `backup` ma **sovrascrive la storia remota** — usare solo per ripubblicare una copia ripulita.
    - Include automaticamente il file `README.md` informativo.
 
 ## 📋 File Python Utilizzati (In Ordine di Esecuzione)

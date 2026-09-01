@@ -49,7 +49,7 @@ def fetch_google_news(query, hl='it', gl='IT', ceid='IT:it'):
             try:
                 dt = datetime.strptime(pub_date, '%a, %d %b %Y %H:%M:%S %Z')
                 pub_date_iso = dt.isoformat()
-            except:
+            except Exception:
                 pub_date_iso = pub_date
 
             results.append({

@@ -66,7 +66,7 @@ Il canale si organizza in 4 cartelle principali e 2 folder di supporto a root:
 - **Romolo**: **Gestione Canale YouTube** (Analytics, Monitoring commenti, Channel management).
 - **Ulisse**: Monitoraggio News e ricerca matching accademico.
 - **Mercurio**: Comunicazione, GitHub e Monitoraggio Gmail.
-- **Marcello**: Gestione Social Media (Facebook, Instagram, TikTok).
+- **Marcello**: Gestione Social Media (Instagram attivo; Facebook sospeso dal 2026-08-31; TikTok).
 - **Cesare**: Notifiche Telegram Hub (`notifications_hub.json`).
 
 ### 2. Identità e Tono di Voce (Target)
@@ -138,19 +138,19 @@ Agente responsabile di **tutta la pipeline video**, dalla lettura del PDF fino a
     - **Video Metadata**: Generazione file `.md` finale. **MANDATORIO**: Le informazioni su Autori, Rivista, Anno e DOI **DEVONO** essere estratte direttamente dalle prime pagine del PDF del paper per evitare allucinazioni dell'IA. Il sistema deve supportare la ricerca flessibile dei metadati anche se nominati diversamente (es. `video_metadata_*.md`).
     - **Indice**: Generato con Whisper (`generate_index_whisper.py`). **Massimo 6 capitoli totali** (inclusi Intro e Conclusioni). I titoli devono essere **rappresentativi e catchy**, derivati localmente dal contenuto del paper e della trascrizione.
     - **Conclusioni (Timestamp)**: Il minutaggio delle Conclusioni **DEVE** essere dinamico, corrispondente all'inizio dell'ultimo segmento trascritto (no `XX:XX`).
-    - **Upload Multi-Piattaforma (YouTube, FB, IG)**: Utilizzare `/upload` su Telegram.
+    - **Upload Multi-Piattaforma (YouTube + Instagram)**: Utilizzare `/upload`. **Facebook e' sospeso** (2026-08-31): non programmare Buffer FB.
     - **YouTube**: 
         - Filtro IA per escludere video già pubblicati.
         - Caricamento Sottotitoli (IT, EN, ES, FR, DE).
         - **Catalogazione Playlist (MANDATORIO)**: Ogni video deve essere assegnato a una delle 8 playlist tematiche tramite `catalog_video.py`.
-    - **Facebook & Instagram (Buffer)**: 
-        - Programmazione automatica via `buffer_post_single.py`.
-        - Facebook: Caricamento `copertina.png` come foto + link YT in didascalia.
-        - Instagram: Caricamento `infografica_cleaned.png` + didascalia SOP.
+    - **Instagram (Buffer)**: 
+        - Programmazione automatica via `buffer_post_single.py --platform instagram`.
+        - Asset: `infografica_cleaned.png` + didascalia SOP.
+        - Facebook: **non** fa parte del closeout. Tracking `facebook_url` / `facebook_cover_status` → `Sospeso` se ancora pendenti.
     - **Validazione Multi-lingua**: L'operazione viene bloccata se mancano gli asset in `international/`.
     - **Threading**: Esecuzione in background per reattività totale del bot.
 
-- **Post-Upload Cleanup (MANDATORIO)**: Una volta confermati gli upload su tutte le piattaforme, **DEVE** essere eseguita la pulizia deterministica (`video_cleanup.py`):
+- **Post-Upload Cleanup (MANDATORIO)**: Una volta confermati YouTube e Instagram, **DEVE** essere eseguita la pulizia deterministica (`video_cleanup.py`). Non attendere Facebook:
     - **Archiviazione**: Sposta file Whisper/SRT in `international/`.
     - **Eliminazione**: Rimuove definitivamente i file `.mp4` (raw e cleaned) dalla cartella progetto E dalla root del canale, `infografica_raw.png` e il **PDF del paper**.
     - **Persistenza**: Mantiene solo `copertina.png`, `infografica_cleaned.png`, `video_metadata.md` e la cartella `international/`.
@@ -179,7 +179,7 @@ Agente responsabile di **tutta la pipeline video**, dalla lettura del PDF fino a
 4. `Execution/enea/youtube_uploader.py` (Upload YouTube)
 5. `Execution/romolo/update_video_localization.py` (Sottotitoli Multilingua)
 6. `Execution/romolo/catalog_video.py` (Catalogazione Playlist)
-7. `Execution/marcello/buffer_post_single.py` (Facebook & Instagram)
+7. `Execution/marcello/buffer_post_single.py --platform instagram` (Instagram; Facebook sospeso)
 8. `Execution/enea/video_cleanup.py` (Pulizia Root e Asset)
 
 ## SOP: Enea — Template Descrizione Video
@@ -262,9 +262,11 @@ Organizzare i video in 8 playlist tematiche predefinite per massimizzare la disc
 - `Execution/romolo/catalog_video.py` (Catalogazione e Refresh Descrizione)
 ## PARTE 6: Marcello — Gestione Social Media
 
-Agente dedicato al cross-posting su Facebook via Buffer API. **Un video alla volta. Nessuna automazione batch senza approvazione esplicita.**
+Agente dedicato al cross-posting social via Buffer API. **Un video alla volta. Nessuna automazione batch senza approvazione esplicita.**
 
-### SOP: Pubblicazione Video YouTube su Facebook (Buffer API v1)
+> **SOSPENSIONE FACEBOOK (2026-08-31)**: `/upload` pubblica solo YouTube + Instagram. Non lanciare `buffer_post_single.py --platform facebook` salvo `--force-facebook` dopo deroga esplicita dell'utente. La SOP Facebook sotto resta documentata per quando la sospensione verra' tolta.
+
+### SOP: Pubblicazione Video YouTube su Facebook (Buffer API v1) — SOSPESA
 
 #### Regola 0 — Workflow Instagram (MANDATORIO)
 Prima di ogni azione di programmazione su Instagram, l'agente DEVE sempre mostrare all'utente la lista delle infografiche attualmente presenti nel registro `video_tracking.json` con stato `instagram_url == "Da fare"`. Non procedere senza aver prima validato la coda di pubblicazione.
@@ -321,7 +323,7 @@ Marcello segue batch (1-2/giorno) di account rilevanti, salvando report in `Temp
 ---
 
 ## 📋 File Python Utilizzati (Marcello)
-- `Execution/marcello/buffer_post_single.py` (unico script autorizzato per posting Buffer)
+- `Execution/marcello/buffer_post_single.py` (unico script Buffer; default Instagram; Facebook gated da `--force-facebook`)
 
 ## PARTE 7: Ulisse — Monitoraggio News e Ricerca Accademica
 
@@ -422,7 +424,7 @@ Il file `Cleaned/video_tracking.json` è la **Fonte di Verità (Source of Truth)
 
 ### 1. Regole Mandatorie di Aggiornamento (100% Deterministico)
 1.  **Inizializzazione**: Ogni nuovo progetto processato via `/pulizia` deve essere immediatamente registrato nel JSON con i campi di base (YouTube ID vuoto, status "Da fare").
-2.  **Sincronizzazione Pubblicazione**: Dopo ogni operazione di upload o programmazione (`/upload`, `/facebook`, `/instagram`), il registro **DEVE** essere aggiornato con l'URL o la data di programmazione specifica.
+2.  **Sincronizzazione Pubblicazione**: Dopo ogni operazione di upload o programmazione (`/upload`, `/instagram`), il registro **DEVE** essere aggiornato con l'URL o la data di programmazione specifica. Facebook e' sospeso: non attendere `facebook_url` per chiudere a `Pulito`.
 3.  **Persistenza**: Nessuna modifica manuale al file è autorizzata senza aver prima creato un backup automatico (gestito da `tracking_manager.py`).
 4.  **Esclusione Short**: I video in formato **Shorts** (durata < 60s) **NON** devono essere inclusi in questo registro per mantenere la distinzione netta tra i flussi di lavoro.
 

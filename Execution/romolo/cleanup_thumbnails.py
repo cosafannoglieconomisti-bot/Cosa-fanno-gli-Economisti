@@ -14,7 +14,8 @@ def cleanup():
     # Rimuovi vecchie
     for f in glob.glob(os.path.join(mafia_dir, "thumbnail*")):
         try: os.remove(f)
-        except: pass
+        except Exception:
+            pass
     
     # Copia nuova
     shutil.copy(mafia_v5, os.path.join(mafia_dir, "thumbnail.png"))
@@ -27,7 +28,8 @@ def cleanup():
     # Rimuovi vecchie
     for f in glob.glob(os.path.join(arch_dir, "thumbnail*")):
         try: os.remove(f)
-        except: pass
+        except Exception:
+            pass
         
     # Copia nuova
     shutil.copy(arch_v5, os.path.join(arch_dir, "thumbnail.png"))

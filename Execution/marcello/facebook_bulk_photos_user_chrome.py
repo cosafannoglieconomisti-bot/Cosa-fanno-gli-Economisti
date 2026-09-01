@@ -162,7 +162,8 @@ async def run():
                 except Exception as e:
                     print(f"Errore foto indice {i}: {e}")
                     try: await page.keyboard.press("Escape") 
-                    except: pass
+                    except Exception:
+                        pass
 
             await browser.close()
             print("\n--- Aggiornamento copertine completato! ---")

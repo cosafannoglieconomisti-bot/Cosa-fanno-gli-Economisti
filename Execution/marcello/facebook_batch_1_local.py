@@ -23,7 +23,7 @@ async def run():
                 if (acceptBtn) acceptBtn.click();
             }""")
             await asyncio.sleep(2)
-        except:
+        except Exception:
             pass
 
         # Check for login fields

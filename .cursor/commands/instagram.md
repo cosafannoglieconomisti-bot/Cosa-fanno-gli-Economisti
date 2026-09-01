@@ -1,6 +1,6 @@
 # /instagram — Programmazione post Instagram via Buffer
 
-Agente Marcello: programma post IG con infografica del paper.
+Agente Marcello: programma post IG con infografica del paper. Dal 2026-08-31 Instagram e' l'unico social Buffer nel closeout di `/upload`; Facebook e' sospeso.
 
 ## Prima di iniziare — MANDATORIO
 - Leggi `Cleaned/video_tracking.json`

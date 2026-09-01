@@ -95,7 +95,7 @@ async def run():
                 const closeBtn = document.querySelector('div[aria-label="Chiudi"], div[role="button"] i');
                 if (closeBtn) closeBtn.click();
             }""")
-        except:
+        except Exception:
             pass
 
         print("\n=== ATTENZIONE UTENTE ===")
@@ -176,7 +176,8 @@ async def run():
             except Exception as e:
                 print(f"Errore su foto index {i}: {e}")
                 try: await page.keyboard.press("Escape") 
-                except: pass
+                except Exception:
+                    pass
 
         await browser.close()
         print("\n--- Backlog aggiornato! ---")

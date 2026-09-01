@@ -5,20 +5,31 @@ import os
 import shutil
 import sys
 
-ASSETS_DIR = str(REPO_ROOT / 'Temp' / 'assets')
-OVERRIDE_PATH = os.path.join(ASSETS_DIR, "override_cover.png")
+ASSETS_DIR = REPO_ROOT / "Temp" / "assets"
+OVERRIDE_PATH = ASSETS_DIR / "override_cover.png"
+
 
 def generate_cover(title, output_path="/tmp/active_cover.png"):
-    if os.path.exists(OVERRIDE_PATH):
+    """Copia la copertina approvata generata in Codex/GPT.
+
+    Il motore immagine è quello interno di GPT/Codex, non Imagen/Gemini.
+    Salva l'asset approvato in Temp/assets/override_cover.png prima di
+    lanciare ./workflow copertina o ./workflow paper.
+    """
+    os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
+
+    if OVERRIDE_PATH.exists():
         shutil.copy(OVERRIDE_PATH, output_path)
         print(f"✅ Copertina copiata da override locale: {output_path}")
         return output_path
+
     raise FileNotFoundError(
-        f"Copertina override non trovata: {OVERRIDE_PATH}. "
-        f"Genera o salva manualmente una cover approvata con titolo '{title}' in quel path."
+        f"Copertina non trovata in {OVERRIDE_PATH}. "
+        f"Genera la cover con GPT/Codex, salvala lì e riprova. Titolo: '{title}'"
     )
 
+
 if __name__ == "__main__":
-    t = sys.argv[1] if len(sys.argv) > 1 else "TEST TITOLO"
-    o = sys.argv[2] if len(sys.argv) > 2 else "/tmp/active_cover.png"
-    generate_cover(t, o)
+    cover_title = sys.argv[1] if len(sys.argv) > 1 else "TEST TITOLO"
+    cover_output = sys.argv[2] if len(sys.argv) > 2 else "/tmp/active_cover.png"
+    generate_cover(cover_title, cover_output)

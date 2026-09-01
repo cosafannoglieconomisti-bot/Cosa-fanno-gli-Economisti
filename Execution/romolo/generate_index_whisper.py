@@ -8,6 +8,10 @@ except ImportError:
     sys.exit(1)
 
 def generate_index(video_path, output_log):
+    print(
+        "Primo avvio: faster-whisper scaricherà il modello 'base' (~150 MB). "
+        "Può richiedere alcuni minuti."
+    )
     print(f"Loading Whisper model ('base') for {video_path}...")
     # 'base' size is good for speed/accuracy balance.
     model = WhisperModel("base", device="cpu", compute_type="float32")

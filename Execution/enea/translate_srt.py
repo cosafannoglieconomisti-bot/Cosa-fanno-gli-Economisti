@@ -5,6 +5,14 @@ import sys
 from deep_translator import GoogleTranslator
 
 
+LANGUAGE_CODES = {
+    "english": "en",
+    "spanish": "es",
+    "french": "fr",
+    "german": "de",
+}
+
+
 def translate_text_line(translator, line):
     if not line.strip():
         return line
@@ -20,6 +28,7 @@ def translate_srt(input_path, output_path, target_lang):
         print(f"❌ Error: File not found {input_path}")
         return False
 
+    target_lang = LANGUAGE_CODES.get(target_lang.lower(), target_lang.lower())
     print(f"🌍 Translating {input_path} to {target_lang}...")
     translator = GoogleTranslator(source="it", target=target_lang)
     with open(input_path, "r", encoding="utf-8") as handle:

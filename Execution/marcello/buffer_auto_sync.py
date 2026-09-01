@@ -11,9 +11,13 @@ from googleapiclient.discovery import build
 from google.auth.transport.requests import Request
 from datetime import datetime, timedelta
 
+from dotenv import load_dotenv
+
+load_dotenv(str(REPO_ROOT / ".env"))
+
 # Configuration
-BUFFER_ACCESS_TOKEN = [REDACTED]
-FB_PROFILE_ID = "69baada37be9f8b1716baa0d"
+BUFFER_ACCESS_TOKEN = os.getenv("BUFFER_ACCESS_TOKEN")
+FB_PROFILE_ID = os.getenv("FB_PROFILE_ID")
 HISTORY_FILE = str(REPO_ROOT / 'Temp' / 'marcello' / 'facebook_history.json')
 CLEANED_DIR = str(REPO_ROOT / 'Cleaned')
 TOKEN_FILE = str(REPO_ROOT / 'Execution' / 'romolo' / '.tmp' / 'tokens' / 'token_youtube.pickle')
@@ -105,7 +109,8 @@ def run_sync():
                         sop_caption = normalize_title(match.group(1).split('\n\n')[0].replace('**', '').strip())
                     else:
                         sop_caption = [p.strip() for p in content.split("## Descrizione YouTube")[1].split("⏰ Fonte")[0].split('\n\n') if p.strip()][0]
-                except:
+                except Exception as caption_err:
+                    print(f"⚠️ Caption fallback: {caption_err}")
                     sop_caption = f"Approfondimento: {title}"
 
                 full_text = f"{sop_caption}\n\nVideo completo qui: https://www.youtube.com/watch?v={video_id}\n\n#CosaFannoGliEconomisti #Economia #Ricerca"

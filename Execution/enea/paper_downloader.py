@@ -2,6 +2,7 @@ import os
 import shutil
 import time
 import re
+import argparse
 from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[2]
 HOME = Path.home()
@@ -92,6 +93,15 @@ def is_duplicate(title, target_dir):
     return False
 
 def main():
+    parser = argparse.ArgumentParser(description="Scarica PDF recenti da Downloads in Papers/Da fare")
+    parser.add_argument(
+        "--days",
+        type=int,
+        default=1,
+        help="Finestra in giorni per PDF in Downloads (default: 1)",
+    )
+    args = parser.parse_args()
+
     print("🚀 Running /download workflow...")
     
     if not DOWNLOADS_DIR.exists():
@@ -101,16 +111,22 @@ def main():
     TARGET_DIR.mkdir(parents=True, exist_ok=True)
     
     now = time.time()
-    one_day_sec = 24 * 60 * 60
+    window_sec = max(1, args.days) * 24 * 60 * 60
     
     pdfs_in_downloads = list(DOWNLOADS_DIR.glob("*.pdf"))
-    recent_pdfs = [f for f in pdfs_in_downloads if (now - f.stat().st_mtime) <= one_day_sec]
+    recent_pdfs = [f for f in pdfs_in_downloads if (now - f.stat().st_mtime) <= window_sec]
+    skipped_old = len(pdfs_in_downloads) - len(recent_pdfs)
     
     if not recent_pdfs:
-        print("✅ No recent PDFs found in Downloads (last 24h).")
+        msg = f"✅ No recent PDFs found in Downloads (last {args.days} day(s))."
+        if skipped_old:
+            msg += f" {skipped_old} PDF più vecchi ignorati."
+        print(msg)
         return
 
-    print(f"🔍 Found {len(recent_pdfs)} PDFs in Downloads from the last 24h.")
+    print(f"🔍 Found {len(recent_pdfs)} PDFs in Downloads from the last {args.days} day(s).")
+    if skipped_old:
+        print(f"ℹ️ {skipped_old} PDF scartati perché più vecchi di {args.days} giorno/i.")
     
     moved_count = 0
     

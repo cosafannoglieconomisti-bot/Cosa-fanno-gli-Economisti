@@ -240,6 +240,13 @@ if __name__ == '__main__':
                 "youtube_id", 
                 video_id
             ])
+            subprocess.run([
+                PYTHON_BIN,
+                str(REPO_ROOT / 'Execution' / 'enea' / 'tracking_manager.py'),
+                folder_name,
+                "youtube_url",
+                f"https://www.youtube.com/watch?v={video_id}",
+            ])
             print("Avvio catalogazione automatica playlist...")
             cat_res = subprocess.run([
                 PYTHON_BIN,

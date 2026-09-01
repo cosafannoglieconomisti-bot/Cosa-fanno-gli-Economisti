@@ -117,7 +117,7 @@ python execution/video_cleaner.py ~/Downloads/video.mp4 L_ascesa_del_Male /path/
 6. `Execution/enea/clean_infographic.py` (Pulizia Watermark Infografica PIL) [Dopo Download Manuale]
 7. `Execution/enea/youtube_uploader.py` (Upload YouTube)
 8. `Execution/romolo/catalog_video.py` (Collocazione Playlist)
-9. `Execution/marcello/buffer_post_single.py` (Upload Facebook & Instagram)
+9. `Execution/marcello/buffer_post_single.py --platform instagram` (Instagram; Facebook sospeso)
 10. `Execution/enea/video_cleanup.py` (Pulizia Root e Asset)
 
 ---

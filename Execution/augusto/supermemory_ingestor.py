@@ -74,8 +74,8 @@ def ingest_archive():
                 try:
                     with open(metadata_file[0], 'r') as f:
                         content += f"\nMetadata Summary:\n{f.read()[:500]}..." # Taglia per risparmiare token
-                except:
-                    pass
+                except Exception as meta_err:
+                    print(f"⚠️ Metadata non letto per {item.name}: {meta_err}")
             
             sm.add(
                 content=f"Completed Paper Archive Entry: {content}",

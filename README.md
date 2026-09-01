@@ -15,7 +15,7 @@ Operiamo su un'architettura progettata per massimizzare l'affidabilità:
 Il sistema è coordinato da diversi "agenti" specializzati:
 - **Enea**: Produzione video completa, gestione paper e upload YouTube.
 - **Romolo**: Analytics, gestione commenti e ottimizzazione Shorts.
-- **Marcello**: Social Media manager (Facebook, Instagram, TikTok).
+- **Marcello**: Social Media manager (Instagram attivo; Facebook sospeso dal 2026-08-31; TikTok).
 - **Ulisse**: Monitoraggio news e matching con la letteratura accademica.
 - **Cesare**: Interfaccia Telegram Hub e notifiche.
 - **Mercurio**: Backup GitHub, Gmail e comunicazioni.
@@ -50,6 +50,7 @@ Il runner generale vive in `Execution/workflows/general_workflows.py` e copre an
 - Il token autorevole per YouTube upload e' `Execution/credentials/token.pickle`.
 - Prima di `/upload`, eseguire sempre il preflight `./workflow youtube-auth`.
 - Se Google rifiuta il refresh token (`invalid_grant`), usare `./workflow youtube-auth --force` per riaprire il login browser e rigenerare il token.
+- **App Google in modalità Test:** i permessi OAuth scadono dopo ~7 giorni; se vedi `invalid_grant`, rifare `./workflow youtube-auth --force`.
 - I file legacy `Execution/credentials/token_youtube.pickle` e `Execution/romolo/.tmp/tokens/token_youtube.pickle` non sono fonti di verita': vengono solo sincronizzati dal token principale per compatibilita' temporanea.
 
 ### 📁 Struttura del Backup
@@ -59,7 +60,29 @@ Il backup include tutte le cartelle logiche del canale:
 - **Esclusione Video**: I file `.mp4` sono sempre esclusi dal backup per massimizzare la velocità e il risparmio di spazio.
 
 > [!IMPORTANT]
-> **Sicurezza dei Dati**: Per proteggere l'integrità del canale, tutti i token API, le chiavi private e gli ID sensibili vengono **automaticamente offuscati** durante la fase di backup. Il codice che vedi qui è pronto per l'ispezione, ma i dati di produzione rimangono protetti in locale.
+> **Sicurezza dei Dati**: token e chiavi API vanno solo in `.env` (mai nel repository). L'hook pre-push blocca percorsi macOS reali e pattern di segreti nei file tracciati; non sostituisce la revoca di token esposti in commit precedenti.
+
+## Installazione
+
+Per chi clona il repository da zero:
+
+1. **Python 3.11** — vedi `.python-version` (`pyenv install` se usi pyenv).
+2. **Virtualenv** — `python3 -m venv .venv && source .venv/bin/activate`
+3. **Dipendenze** — `pip install -r requirements.txt`
+4. **Programmi esterni**
+   - `ffmpeg` — es. `brew install ffmpeg` (Mac) o pacchetto di sistema
+   - `nlm` — CLI NotebookLM: `pip install notebooklm-mcp-cli` (poi `nlm login`)
+5. **Configurazione** — `cp .env.example .env` e compila le variabili (vedi commenti nel file)
+6. **Cartelle locali** — create automaticamente da `./setup.sh`, oppure manualmente:
+   `Papers/Da fare`, `Temp/enea`, `Temp/assets`, `Temp/cesare`, `Execution/credentials`
+7. **YouTube** — credenziali Google OAuth in `Execution/credentials/`; verifica con `./workflow youtube-auth`
+8. **Verifica** — `./workflow list` deve elencare i comandi disponibili
+
+Setup rapido: `./setup.sh`
+
+### Modelli Whisper (primo uso)
+
+I comandi di trascrizione (`pulizia`) scaricano automaticamente il modello `base` di faster-whisper (~150 MB) al primo avvio. L'operazione può richiedere alcuni minuti e sembra un blocco — è normale.
 
 ---
 *Creato con ❤️ per la divulgazione economica.*

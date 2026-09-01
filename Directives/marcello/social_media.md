@@ -2,17 +2,22 @@
 # Marcello — Directive: Pubblicazione Facebook via Buffer API
 
 > [!NOTE]
-> **INTEGRAZIONE WORKFLOW**: Questo workflow è stato integrato nel comando `/upload` multi-piattaforma. La programmazione su Facebook e Instagram avviene ora automaticamente dopo l'upload su YouTube.
+> **SOSPENSIONE FACEBOOK (2026-08-31)**: `/upload` pubblica solo YouTube + Instagram. Non programmare Facebook via Buffer. Lo script resta disponibile con `--force-facebook` solo su deroga esplicita dell'utente. Instagram resta obbligatorio.
 
-**Versione**: 3.0 — Integrata  
+> [!NOTE]
+> **INTEGRAZIONE WORKFLOW**: Instagram e' integrato in `/upload` dopo YouTube. Facebook non fa parte del closeout finche' la sospensione resta attiva.
+
+**Versione**: 3.1 — Facebook sospeso  
 **Agente**: Marcello  
-**Script principale**: `Execution/marcello/buffer_post_single.py`
+**Script principale**: `Execution/marcello/buffer_post_single.py --platform instagram`
 
 ---
 
 ## OBIETTIVO
 
-Pubblicare i video del canale YouTube su Facebook in modo automatico, deterministico e conforme alle SOP. Un video alla volta. Nessuna improvvisazione dell'IA sulla didascalia.
+**Stato 2026-08-31**: per `/upload` l'obiettivo operativo e' programmare **Instagram** (infografica) via Buffer. Facebook e' sospeso.
+
+La SOP Facebook sotto resta valida solo se l'utente chiede esplicitamente di riattivarla (`--force-facebook`). Un video alla volta. Nessuna improvvisazione dell'IA sulla didascalia.
 
 ---
 
@@ -109,7 +114,7 @@ La riga 1 della caption deve essere estratta dal campo `description` del metadat
 |-----------|--------|------|
 | Endpoint | `https://api.bufferapp.com/1/updates/create.json` | API v1 |
 | Metodo | POST | |
-| `access_token` | `MUSsM5Rne1WFTFKRR8wHjP7u8aKOMY08lNZoeNZxChB` | Token Marcello |
+| `access_token` | letto da `.env` (`BUFFER_ACCESS_TOKEN`) | Token Marcello |
 | `profile_ids[]` | `69baada37be9f8b1716baa0d` | Pagina Facebook |
 | `text` | Caption completa (multilinea) | Encoding automatico via `requests` |
 | `media[link]` | URL YouTube completo | Genera anteprima video su Facebook |

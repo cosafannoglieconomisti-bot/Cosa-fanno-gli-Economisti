@@ -1,5 +1,5 @@
 """
-buffer_post_single.py — Posta UN singolo video su Buffer/Facebook.
+buffer_post_single.py — Posta UN singolo video su Buffer (Instagram; Facebook sospeso).
 
 Formato didascalia (SOP Marcello — CONTRATTO IMMUTABILE):
   [Titolo del VIDEO YouTube — esattamente come su YouTube]
@@ -17,16 +17,18 @@ Rego SOP: il campo "Lo studio\"...\"" nel video_metadata.md DEVE contenere
 il titolo ACCADEMICO REALE del paper, non il titolo del video.
 
 USAGE:
-  python3 buffer_post_single.py                  # usa il primo video non ancora postato
-  python3 buffer_post_single.py --dry-run        # stampa senza inviare
-  python3 buffer_post_single.py --video-id XYZ   # forza un video specifico
-  python3 buffer_post_single.py --hour 10        # programma alle 10:00 (default 09:00)
+  python3 buffer_post_single.py --platform instagram   # default dal 2026-08-31
+  python3 buffer_post_single.py --dry-run
+  python3 buffer_post_single.py --video-id XYZ
+  python3 buffer_post_single.py --hour 10
+  python3 buffer_post_single.py --platform facebook --force-facebook  # solo deroga esplicita
 """
 from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[2]
 
 import os
 import re
+import sys
 import json
 import time
 import pickle
@@ -56,7 +58,20 @@ HISTORY_DIR         = str(REPO_ROOT / 'Temp' / 'marcello')
 CLEANED_DIR         = str(REPO_ROOT / 'Cleaned')
 TOKEN_FILE          = str(REPO_ROOT / 'Execution' / 'credentials' / 'token.pickle')
 TRACKING_FILE       = str(REPO_ROOT / 'Cleaned' / 'video_tracking.json')
+# Decisione 2026-08-31: /upload pubblica YouTube + Instagram; Facebook e' sospeso.
+FACEBOOK_PUBLICATION_SUSPENDED = True
 # ─────────────────────────────────────────────────────────────────────────────
+
+
+def refuse_suspended_facebook(force_facebook: bool = False) -> None:
+    if not FACEBOOK_PUBLICATION_SUSPENDED:
+        return
+    if force_facebook:
+        print("⚠️ Deroga --force-facebook: pubblicazione Facebook comunque eseguita.")
+        return
+    print("❌ Facebook e' sospeso (decisione 2026-08-31). /upload pubblica solo YouTube + Instagram.")
+    print("   Per un post FB eccezionale: --platform facebook --force-facebook")
+    sys.exit(1)
 
 
 def get_youtube_service():
@@ -390,7 +405,9 @@ def post_to_buffer(caption: str, video_id: str, platform: str = "facebook", dry_
         return False
 
 
-def run(video_id_override=None, dry_run=False, scheduled_hour=9, platform="facebook", days_ahead=1, folder_name_override=None):
+def run(video_id_override=None, dry_run=False, scheduled_hour=9, platform="instagram", days_ahead=1, folder_name_override=None, force_facebook=False):
+    if platform == "facebook":
+        refuse_suspended_facebook(force_facebook=force_facebook)
     history = load_history(platform=platform)
 
     # Modalità locale: bypassa YouTube API completamente se viene fornito l'ID o se lo troviamo nel tracking
@@ -454,8 +471,9 @@ def run(video_id_override=None, dry_run=False, scheduled_hour=9, platform="faceb
             with open(TRACKING_FILE, 'r', encoding='utf-8') as f:
                 tracking = json.load(f)
             if folder_name in tracking:
+                yt_id = tracking[folder_name].get("youtube_id") or ""
                 yt_status = tracking[folder_name].get("youtube_url", "")
-                if yt_status == "Da pubblicare" or not yt_status:
+                if not yt_id and (yt_status == "Da pubblicare" or not yt_status):
                     print(f"\n❌ BLOCCO SICUREZZA: Il video '{folder_name}' non è ancora pubblicato su YouTube.")
                     print(f"SOP: Non è possibile programmare social prima della pubblicazione YT.")
                     return
@@ -519,7 +537,12 @@ if __name__ == "__main__":
     parser.add_argument("--dry-run",  action="store_true")
     parser.add_argument("--hour",     type=int, default=10)
     parser.add_argument("--days-ahead", type=int, default=1)
-    parser.add_argument("--platform", choices=["facebook", "instagram"], default="facebook")
+    parser.add_argument("--platform", choices=["facebook", "instagram"], default="instagram")
+    parser.add_argument(
+        "--force-facebook",
+        action="store_true",
+        help="Deroga esplicita: pubblica su Facebook nonostante la sospensione 2026-08-31",
+    )
     args = parser.parse_args()
 
     run(
@@ -529,4 +552,5 @@ if __name__ == "__main__":
         platform=args.platform,
         days_ahead=args.days_ahead,
         folder_name_override=args.folder_name,
+        force_facebook=args.force_facebook,
     )

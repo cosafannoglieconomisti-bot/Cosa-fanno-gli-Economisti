@@ -23,7 +23,10 @@ def process_video_and_archive(input_video_path, paper_name, base_cleaned_dir, pa
     output_video_path = os.path.join(target_dir, f"{paper_name}_cleaned.mp4")
     
     # 1. Ottieni la durata e risoluzione totale del video usando ffprobe
-    ffprobe_path = '/opt/homebrew/bin/ffprobe'
+    ffprobe_path = shutil.which("ffprobe")
+    if not ffprobe_path:
+        print("Errore: ffprobe non trovato. Installalo con: brew install ffmpeg")
+        return False
     probe_cmd = [
         ffprobe_path, '-v', 'error', '-select_streams', 'v:0', 
         '-show_entries', 'format=duration:stream=width,height', 
@@ -60,7 +63,10 @@ def process_video_and_archive(input_video_path, paper_name, base_cleaned_dir, pa
     
     # FFMPEG: Usa un box di sfuocatura in basso a destra con coordinate assolute
     delogo_filter = f"delogo=x={delogo_x}:y={delogo_y}:w={box_w}:h={box_h}" 
-    ffmpeg_path = '/opt/homebrew/bin/ffmpeg'
+    ffmpeg_path = shutil.which("ffmpeg")
+    if not ffmpeg_path:
+        print("Errore: ffmpeg non trovato. Installalo con: brew install ffmpeg")
+        return False
     ffmpeg_cmd = [
         ffmpeg_path, '-y', '-loglevel', 'error',
         '-i', input_video_path,
