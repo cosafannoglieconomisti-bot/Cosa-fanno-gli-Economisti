@@ -760,11 +760,12 @@
         "youtube_id": "xLx0Vd_zDjM",
         "youtube_url": "https://www.youtube.com/watch?v=xLx0Vd_zDjM",
         "facebook_url": "Sospeso",
-        "instagram_url": "Da fare",
+        "instagram_url": "Programmato su Buffer per 2026-09-04 11:00 Europe/Rome",
         "facebook_cover_status": "Sospeso",
         "playlist": "Economia Politica e Istituzioni",
-        "last_updated": "2026-09-02T11:44:25.170062",
-        "status": "Pulito"
+        "last_updated": "2026-09-02T11:47:03.700645",
+        "status": "Pulito",
+        "workflow_step": "upload_completato"
     },
     "Poveri_in_Pensione": {
         "youtube_id": "4NW5LTBAqIg",
