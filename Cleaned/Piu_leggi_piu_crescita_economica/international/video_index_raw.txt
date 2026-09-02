@@ -1,0 +1,125 @@
+=== TRASCRITTO CON TIMESTAMP ===
+Video: Piu_leggi_piu_crescita_economica_cleaned.mp4
+
+[00:00] Iniziamo subito questo approfondimento, tu fannoci a capofitto in un vero e proprio paradosso.
+[00:05] Più leggi e regolamentazioni sono una palla al piede per l'economia,
+[00:09] frenando l'iniziativa, oppure creano un bel terreno fertile per lo sviluppo.
+[00:13] Beh, è un dibattito vecchio come il mondo,
+[00:15] e la risposta assorprendentemente si trova analizzando decenni di dati
+[00:19] attraverso la lente della linguistica computazionale.
+[00:22] Niente opinioni politiche, solo numeri e fatti.
+[00:25] Il titolo dell'analisi di oggi è proprio questo.
+[00:27] Più leggi, più crescita economica,
+[00:30] ecco la mappa del nostro viaggio, uno, il dilema della crescita,
+[00:34] due, misurare le leggi, tre, causalità e prestiti normativi,
+[00:39] quattro, l'impatto sull'economia,
+[00:41] e, in fine cinque, il problema dell'incertezza.
+[00:45] Insomma, un percorso molto metodico che ci porterà dritti dalla pura teoria economica
+[00:50] alla analisi avanzata dei testi.
+[00:52] Partiamo dal primo punto, il dilema della crescita
+[00:56] si tratta di una semplice correlazione o c'è un rapporto di causa effetto.
+[01:00] Guardando i dati in nudie crudi, c'è una cosa che salta subito all'occhio.
+[01:04] Le giuridizioni con l'economie più grandi ricche e produttive tendono ad avere, esatto,
+[01:10] sistemi, legali, enormi e super complessi.
+[01:13] Questo spacca il dibattito in due visioni.
+[01:15] Da una parte, le leggi viste come un motore,
+[01:18] regole chiare che proteggono i diritti di proprietà e danno sicurezza gli investimenti.
+[01:22] Dall'altra, le leggi viste come un freno,
+[01:25] l'idea che troppe regole creano inevitabilmente una burocrazia asfissante
+[01:29] e costi pazzeschi paralizzandoli in prese,
+[01:32] entrambe sono prospettive supervalide.
+[01:35] E questo ci porta al vero nocciolo della questione affrontata dai ricercatori.
+[01:40] È il classico dilema dell'uovo e della gallina.
+[01:44] Un'economia che cresce genera meccanicamente una montagna di nuove leggi solo perché ci sono più settori da gestire,
+[01:51] oppure è proprio l'introduzione di nuove normative e ben strutturate a spingere l'economia in alto.
+[01:56] Capire cosa causa cosa è esattamente l'obiettivo ambizioso di questo studio.
+[02:01] Passiamo al capitolo 2, misurare le leggi.
+[02:05] Ma come si fa quantificare qualcosa di così vasto,
+[02:08] come la giurisprudenza in modo oggettivo?
+[02:11] Per capirlo è stato fatto un lavoro titanico,
+[02:14] analizzando testi legali di tutti i cinquanta stati americani,
+[02:17] in un periodo vastissimo che va dal 1965 al 2012.
+[02:22] E' attenzione, i ricercatori non si sono messi a contare banalmente il numero delle pagine, sarebbe stato inutile,
+[02:28] hanno invece usato le lavorazioni dell'inguaggio naturale per scovare le vere propria disposizione.
+[02:34] Hannociò è strato solo quelle singole frasi che contengono un obbligo, un divieto o una regola concreta.
+[02:39] Così si ottiene la vera essenza della legge, tagliandovi a tutta la burocrazia di contorno.
+[02:45] Per non perdersi in questo occeano di documenti,
+[02:48] il processo è stato diviso in tre fasi chirurgiche.
+[02:51] Fase 1, il conteggio algoritmicopuro è semplice di queste disposizioni legali.
+[02:56] Fase 2, l'uso di modelli matematici per smistare questa ammarea di regole in 18 categorie tematiche,
+[03:02] come tribunali, pensioni o trasporti.
+[03:05] Infine, la fase 3, le conometria shift share.
+[03:08] Un termine decisamente tecnico, ma il qui concetto alla base è affascinante e lo vedremo tra un attimo.
+[03:15] Ed accocci al capitolo 3, causalità e prestiti normativi.
+[03:19] Scopriamo qual è il trucco geniale per isolare il vero effetto delle legge sull'economia.
+[03:25] Negli stati uniti, i singoli stati funzionano come dei veri a propri laboratori politici.
+[03:31] Se una legge funziona bene da una parte, gli altri stati tendono a fare una sorta di copia in colla dei testi normativi di successo.
+[03:39] Questo fenomeno di prestito legislativo è la chiave di volta.
+[03:43] Se uno stato copio una legge, solo per contaggio da un altro stato,
+[03:46] lo fa prescindere da come sta andando la sua economia interna in quel preciso istante.
+[03:51] Misurando questi scambi di testi si riesce magicamente a isolare l'arrivo di nuove leggi dal semplice boom economico locale.
+[03:59] Osservando i dati agrigati, c'è una tendenza chiarissima, che va dritta verso l'alto.
+[04:04] C'è stata una spinta inarrestabile ad aggiungere regole, decegno dopo decegno,
+[04:09] e ora che il metodo ha permesso di separare quali di queste leggi,
+[04:13] se hanno state introdotte in modo indipendente dall'economia interna, possiamo finalmente tirare le somme.
+[04:19] Arriviamo quindi al capitolo 4, l'impatto sull'economia.
+[04:23] Cosa ci dicomo i risultati finali dell'indagine?
+[04:26] Il risultato principale del paper è sorprendente.
+[04:30] I dati certificano che un aumento indipendente della produzione legislativa causa davvero,
+[04:36] in modo diretto, una maggiore crescita economica locale.
+[04:40] Nello specifico il modello mostra che un aumento del 10% nel flosso di leggi prese impressito
+[04:45] fa salire il tasso di crescita del prodotto interno l'ordoprocapite di 0,15 punti percentuali.
+[04:52] Potrebbe sembrare poco, ma all'interno della macroeconomia 1,015% aggiuntivo è un impatto solidissimo.
+[05:00] Per rendere l'idea della potenza di questo risultato,
+[05:02] potremmo fare un paragone estremamente pragmatico.
+[05:05] Per ottenere la stessa identica spinta, ovvero un aumento della crescita di 0,15 punti usando un ostimolo fiscale tradizionale,
+[05:13] si dovrebbe aumentare la spesa pubblica di circa lo 0,1% al netto delle tasse,
+[05:18] una mossa struttura alle enorme e costusissima.
+[05:21] In parallel povere, scrivere leggi più chiare e dettagliate,
+[05:24] fornisce una spinta all'economia paragonabile a una gigantesca iniezione di investimenti statali diretti.
+[05:30] Passiamo ora al capitolo conclusivo.
+[05:32] Il numero 5.
+[05:34] Il problema dell'incertezza.
+[05:36] Perché mai lavere più leggi dovrebbe aiutare concretamente l'economia?
+[05:40] La spiegazione risiede in quello che in economia si chiama problema dell'old-up o rinegozzazione opportunistica.
+[05:47] Immaginiamo che il panorama legale di uno stato si avago o pieno di buchi.
+[05:51] L'ambiente diventa ambiguo,
+[05:53] e la conseguenza naturale è che le aziende sono terrorizzate dall'idea di fare grossi investimenti a lungo termine,
+[05:59] temono giustamente che, a soldi già spesi,
+[06:02] i partner commerciali possano sfruttare questi vuoti normativi
+[06:05] per cambiare le regole del gioco a proprio vantaggio,
+[06:08] risultato nessuno rischia, ci si ferma e l'intero mercato ristagna.
+[06:12] Ed esattamente qui che interviene la legge.
+[06:15] Una legislazione fitta e molto dettagliata
+[06:18] agisce creando un contratto sociale e, mensamente più solido,
+[06:22] copre le spell, prevedendo in anticipo o in previsti scenari di conflitto,
+[06:26] estabilendo punizioni perché non rispetta i patti.
+[06:29] Praticamente polverizza il livello di incertezza legale,
+[06:32] e quando le imprese si sentono finalmente protette dall'infrastruttura del sistema,
+[06:36] aprono i rubinetti del capitale e rimettono in circolo gli investimenti strutturali.
+[06:41] Non è un caso, infatti, che scavando tra le tipologie di regole,
+[06:45] la crescita esploda esattamente dove serve di più.
+[06:48] Gli effetti benefici massimi si vedono con le normative puramente economiche
+[06:53] in settori molto complessi.
+[06:55] Ma la cosa fascinante è il ruolo delle clausole contingenti.
+[06:58] Si tratta di quelle disposizioni legali,
+[07:01] nate specificamente per dire,
+[07:03] ecco cosa fare se succede un imprevisto.
+[07:05] Sono come delle polizie assicurative incorporate nei contratti,
+[07:09] e offrono la spinta maggiore,
+[07:11] proprio nei periodi storici di grande incertezza locale.
+[07:14] Quando tutto sembra instabile, una legge scritta in maniera meticolosa
+[07:18] diventa un vero e proprio bene rifugio per l'attività produttiva.
+[07:22] Tirando le somme, inserire regole precise,
+[07:25] doveregnava l'ambiguità, costruisce fiducia,
+[07:27] e la fiducia sblocca gli affari.
+[07:29] Ma c'è una riflessione che non possiamo ignorare.
+[07:32] Sè dimostrato che aggiungere un impalcatura normativa denza,
+[07:35] difende dall'incertezza, ci sarà pur sempre un tetto massimo di tolleranza, no?
+[07:40] Qual è l'esatto confine oltre il quale una legge in più?
+[07:42] Non genera maggiore chiarezza,
+[07:44] ma fa collassare il motore economico sotto il peso dell'aburocrazzia e del chaos.
+[07:48] Trovare questo prezioso punto di equilibrio
+[07:50] e indubbiamente una delle sfide più stimolanti per il futuro.
+[07:53] E con questo dilemmo apertissimo,
+[07:55] chiudiamo questo profondimento e diamo appuntamento alla prossima analisi.

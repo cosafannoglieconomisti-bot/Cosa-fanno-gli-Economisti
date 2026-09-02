@@ -1,0 +1,488 @@
+1
+00:00:00,000 --> 00:00:05,620
+Iniziamo subito questo approfondimento, tu fannoci a capofitto in un vero e proprio paradosso.
+
+2
+00:00:05,620 --> 00:00:09,000
+Più leggi e regolamentazioni sono una palla al piede per l'economia,
+
+3
+00:00:09,000 --> 00:00:13,320
+frenando l'iniziativa, oppure creano un bel terreno fertile per lo sviluppo.
+
+4
+00:00:13,320 --> 00:00:15,519
+Beh, è un dibattito vecchio come il mondo,
+
+5
+00:00:15,519 --> 00:00:19,620
+e la risposta assorprendentemente si trova analizzando decenni di dati
+
+6
+00:00:19,620 --> 00:00:22,460
+attraverso la lente della linguistica computazionale.
+
+7
+00:00:22,460 --> 00:00:25,379
+Niente opinioni politiche, solo numeri e fatti.
+
+8
+00:00:25,379 --> 00:00:27,980
+Il titolo dell'analisi di oggi è proprio questo.
+
+9
+00:00:27,980 --> 00:00:30,460
+Più leggi, più crescita economica,
+
+10
+00:00:30,460 --> 00:00:34,560
+ecco la mappa del nostro viaggio, uno, il dilema della crescita,
+
+11
+00:00:34,560 --> 00:00:39,359
+due, misurare le leggi, tre, causalità e prestiti normativi,
+
+12
+00:00:39,359 --> 00:00:41,899
+quattro, l'impatto sull'economia,
+
+13
+00:00:41,899 --> 00:00:45,060
+e, in fine cinque, il problema dell'incertezza.
+
+14
+00:00:45,060 --> 00:00:50,280
+Insomma, un percorso molto metodico che ci porterà dritti dalla pura teoria economica
+
+15
+00:00:50,280 --> 00:00:52,560
+alla analisi avanzata dei testi.
+
+16
+00:00:52,560 --> 00:00:56,420
+Partiamo dal primo punto, il dilema della crescita
+
+17
+00:00:56,420 --> 00:01:00,800
+si tratta di una semplice correlazione o c'è un rapporto di causa effetto.
+
+18
+00:01:00,800 --> 00:01:04,960
+Guardando i dati in nudie crudi, c'è una cosa che salta subito all'occhio.
+
+19
+00:01:04,960 --> 00:01:10,040
+Le giuridizioni con l'economie più grandi ricche e produttive tendono ad avere, esatto,
+
+20
+00:01:10,040 --> 00:01:13,379
+sistemi, legali, enormi e super complessi.
+
+21
+00:01:13,379 --> 00:01:15,900
+Questo spacca il dibattito in due visioni.
+
+22
+00:01:15,900 --> 00:01:18,540
+Da una parte, le leggi viste come un motore,
+
+23
+00:01:18,540 --> 00:01:22,820
+regole chiare che proteggono i diritti di proprietà e danno sicurezza gli investimenti.
+
+24
+00:01:22,820 --> 00:01:25,180
+Dall'altra, le leggi viste come un freno,
+
+25
+00:01:25,180 --> 00:01:29,980
+l'idea che troppe regole creano inevitabilmente una burocrazia asfissante
+
+26
+00:01:29,980 --> 00:01:32,860
+e costi pazzeschi paralizzandoli in prese,
+
+27
+00:01:32,860 --> 00:01:35,580
+entrambe sono prospettive supervalide.
+
+28
+00:01:35,580 --> 00:01:40,820
+E questo ci porta al vero nocciolo della questione affrontata dai ricercatori.
+
+29
+00:01:40,820 --> 00:01:44,060
+È il classico dilema dell'uovo e della gallina.
+
+30
+00:01:44,060 --> 00:01:51,020
+Un'economia che cresce genera meccanicamente una montagna di nuove leggi solo perché ci sono più settori da gestire,
+
+31
+00:01:51,060 --> 00:01:56,979
+oppure è proprio l'introduzione di nuove normative e ben strutturate a spingere l'economia in alto.
+
+32
+00:01:56,979 --> 00:02:01,780
+Capire cosa causa cosa è esattamente l'obiettivo ambizioso di questo studio.
+
+33
+00:02:01,780 --> 00:02:05,459
+Passiamo al capitolo 2, misurare le leggi.
+
+34
+00:02:05,459 --> 00:02:08,939
+Ma come si fa quantificare qualcosa di così vasto,
+
+35
+00:02:08,939 --> 00:02:11,819
+come la giurisprudenza in modo oggettivo?
+
+36
+00:02:11,819 --> 00:02:14,300
+Per capirlo è stato fatto un lavoro titanico,
+
+37
+00:02:14,300 --> 00:02:17,819
+analizzando testi legali di tutti i cinquanta stati americani,
+
+38
+00:02:17,859 --> 00:02:22,419
+in un periodo vastissimo che va dal 1965 al 2012.
+
+39
+00:02:22,419 --> 00:02:28,259
+E' attenzione, i ricercatori non si sono messi a contare banalmente il numero delle pagine, sarebbe stato inutile,
+
+40
+00:02:28,259 --> 00:02:34,219
+hanno invece usato le lavorazioni dell'inguaggio naturale per scovare le vere propria disposizione.
+
+41
+00:02:34,219 --> 00:02:39,979
+Hannociò è strato solo quelle singole frasi che contengono un obbligo, un divieto o una regola concreta.
+
+42
+00:02:39,979 --> 00:02:45,139
+Così si ottiene la vera essenza della legge, tagliandovi a tutta la burocrazia di contorno.
+
+43
+00:02:45,260 --> 00:02:48,180
+Per non perdersi in questo occeano di documenti,
+
+44
+00:02:48,180 --> 00:02:51,180
+il processo è stato diviso in tre fasi chirurgiche.
+
+45
+00:02:51,180 --> 00:02:56,660
+Fase 1, il conteggio algoritmicopuro è semplice di queste disposizioni legali.
+
+46
+00:02:56,660 --> 00:03:02,740
+Fase 2, l'uso di modelli matematici per smistare questa ammarea di regole in 18 categorie tematiche,
+
+47
+00:03:02,740 --> 00:03:05,460
+come tribunali, pensioni o trasporti.
+
+48
+00:03:05,460 --> 00:03:08,980
+Infine, la fase 3, le conometria shift share.
+
+49
+00:03:08,980 --> 00:03:14,940
+Un termine decisamente tecnico, ma il qui concetto alla base è affascinante e lo vedremo tra un attimo.
+
+50
+00:03:15,139 --> 00:03:19,859
+Ed accocci al capitolo 3, causalità e prestiti normativi.
+
+51
+00:03:19,859 --> 00:03:25,979
+Scopriamo qual è il trucco geniale per isolare il vero effetto delle legge sull'economia.
+
+52
+00:03:25,979 --> 00:03:31,740
+Negli stati uniti, i singoli stati funzionano come dei veri a propri laboratori politici.
+
+53
+00:03:31,740 --> 00:03:39,139
+Se una legge funziona bene da una parte, gli altri stati tendono a fare una sorta di copia in colla dei testi normativi di successo.
+
+54
+00:03:39,139 --> 00:03:43,180
+Questo fenomeno di prestito legislativo è la chiave di volta.
+
+55
+00:03:43,460 --> 00:03:46,980
+Se uno stato copio una legge, solo per contaggio da un altro stato,
+
+56
+00:03:46,980 --> 00:03:51,780
+lo fa prescindere da come sta andando la sua economia interna in quel preciso istante.
+
+57
+00:03:51,780 --> 00:03:59,260
+Misurando questi scambi di testi si riesce magicamente a isolare l'arrivo di nuove leggi dal semplice boom economico locale.
+
+58
+00:03:59,260 --> 00:04:04,540
+Osservando i dati agrigati, c'è una tendenza chiarissima, che va dritta verso l'alto.
+
+59
+00:04:04,540 --> 00:04:09,740
+C'è stata una spinta inarrestabile ad aggiungere regole, decegno dopo decegno,
+
+60
+00:04:09,780 --> 00:04:13,460
+e ora che il metodo ha permesso di separare quali di queste leggi,
+
+61
+00:04:13,460 --> 00:04:19,460
+se hanno state introdotte in modo indipendente dall'economia interna, possiamo finalmente tirare le somme.
+
+62
+00:04:19,460 --> 00:04:23,740
+Arriviamo quindi al capitolo 4, l'impatto sull'economia.
+
+63
+00:04:23,740 --> 00:04:26,980
+Cosa ci dicomo i risultati finali dell'indagine?
+
+64
+00:04:26,980 --> 00:04:30,500
+Il risultato principale del paper è sorprendente.
+
+65
+00:04:30,500 --> 00:04:36,500
+I dati certificano che un aumento indipendente della produzione legislativa causa davvero,
+
+66
+00:04:36,500 --> 00:04:40,060
+in modo diretto, una maggiore crescita economica locale.
+
+67
+00:04:40,060 --> 00:04:45,740
+Nello specifico il modello mostra che un aumento del 10% nel flosso di leggi prese impressito
+
+68
+00:04:45,740 --> 00:04:52,180
+fa salire il tasso di crescita del prodotto interno l'ordoprocapite di 0,15 punti percentuali.
+
+69
+00:04:52,180 --> 00:05:00,060
+Potrebbe sembrare poco, ma all'interno della macroeconomia 1,015% aggiuntivo è un impatto solidissimo.
+
+70
+00:05:00,060 --> 00:05:02,939
+Per rendere l'idea della potenza di questo risultato,
+
+71
+00:05:02,939 --> 00:05:05,860
+potremmo fare un paragone estremamente pragmatico.
+
+72
+00:05:05,900 --> 00:05:13,580
+Per ottenere la stessa identica spinta, ovvero un aumento della crescita di 0,15 punti usando un ostimolo fiscale tradizionale,
+
+73
+00:05:13,580 --> 00:05:18,860
+si dovrebbe aumentare la spesa pubblica di circa lo 0,1% al netto delle tasse,
+
+74
+00:05:18,860 --> 00:05:21,819
+una mossa struttura alle enorme e costusissima.
+
+75
+00:05:21,819 --> 00:05:24,939
+In parallel povere, scrivere leggi più chiare e dettagliate,
+
+76
+00:05:24,939 --> 00:05:30,780
+fornisce una spinta all'economia paragonabile a una gigantesca iniezione di investimenti statali diretti.
+
+77
+00:05:30,780 --> 00:05:32,900
+Passiamo ora al capitolo conclusivo.
+
+78
+00:05:32,900 --> 00:05:34,100
+Il numero 5.
+
+79
+00:05:34,140 --> 00:05:36,379
+Il problema dell'incertezza.
+
+80
+00:05:36,379 --> 00:05:40,660
+Perché mai lavere più leggi dovrebbe aiutare concretamente l'economia?
+
+81
+00:05:40,660 --> 00:05:47,820
+La spiegazione risiede in quello che in economia si chiama problema dell'old-up o rinegozzazione opportunistica.
+
+82
+00:05:47,820 --> 00:05:51,620
+Immaginiamo che il panorama legale di uno stato si avago o pieno di buchi.
+
+83
+00:05:51,620 --> 00:05:53,460
+L'ambiente diventa ambiguo,
+
+84
+00:05:53,460 --> 00:05:59,300
+e la conseguenza naturale è che le aziende sono terrorizzate dall'idea di fare grossi investimenti a lungo termine,
+
+85
+00:05:59,340 --> 00:06:02,180
+temono giustamente che, a soldi già spesi,
+
+86
+00:06:02,180 --> 00:06:05,540
+i partner commerciali possano sfruttare questi vuoti normativi
+
+87
+00:06:05,540 --> 00:06:08,020
+per cambiare le regole del gioco a proprio vantaggio,
+
+88
+00:06:08,020 --> 00:06:12,660
+risultato nessuno rischia, ci si ferma e l'intero mercato ristagna.
+
+89
+00:06:12,660 --> 00:06:15,139
+Ed esattamente qui che interviene la legge.
+
+90
+00:06:15,139 --> 00:06:18,379
+Una legislazione fitta e molto dettagliata
+
+91
+00:06:18,379 --> 00:06:22,420
+agisce creando un contratto sociale e, mensamente più solido,
+
+92
+00:06:22,420 --> 00:06:26,540
+copre le spell, prevedendo in anticipo o in previsti scenari di conflitto,
+
+93
+00:06:26,580 --> 00:06:29,260
+estabilendo punizioni perché non rispetta i patti.
+
+94
+00:06:29,260 --> 00:06:32,140
+Praticamente polverizza il livello di incertezza legale,
+
+95
+00:06:32,140 --> 00:06:36,460
+e quando le imprese si sentono finalmente protette dall'infrastruttura del sistema,
+
+96
+00:06:36,460 --> 00:06:41,100
+aprono i rubinetti del capitale e rimettono in circolo gli investimenti strutturali.
+
+97
+00:06:41,100 --> 00:06:45,140
+Non è un caso, infatti, che scavando tra le tipologie di regole,
+
+98
+00:06:45,140 --> 00:06:48,700
+la crescita esploda esattamente dove serve di più.
+
+99
+00:06:48,700 --> 00:06:53,020
+Gli effetti benefici massimi si vedono con le normative puramente economiche
+
+100
+00:06:53,020 --> 00:06:55,020
+in settori molto complessi.
+
+101
+00:06:55,099 --> 00:06:58,819
+Ma la cosa fascinante è il ruolo delle clausole contingenti.
+
+102
+00:06:58,819 --> 00:07:01,259
+Si tratta di quelle disposizioni legali,
+
+103
+00:07:01,259 --> 00:07:03,139
+nate specificamente per dire,
+
+104
+00:07:03,139 --> 00:07:05,659
+ecco cosa fare se succede un imprevisto.
+
+105
+00:07:05,659 --> 00:07:09,579
+Sono come delle polizie assicurative incorporate nei contratti,
+
+106
+00:07:09,579 --> 00:07:11,379
+e offrono la spinta maggiore,
+
+107
+00:07:11,379 --> 00:07:14,779
+proprio nei periodi storici di grande incertezza locale.
+
+108
+00:07:14,779 --> 00:07:18,659
+Quando tutto sembra instabile, una legge scritta in maniera meticolosa
+
+109
+00:07:18,659 --> 00:07:22,419
+diventa un vero e proprio bene rifugio per l'attività produttiva.
+
+110
+00:07:22,540 --> 00:07:25,020
+Tirando le somme, inserire regole precise,
+
+111
+00:07:25,020 --> 00:07:27,780
+doveregnava l'ambiguità, costruisce fiducia,
+
+112
+00:07:27,780 --> 00:07:29,939
+e la fiducia sblocca gli affari.
+
+113
+00:07:29,939 --> 00:07:32,259
+Ma c'è una riflessione che non possiamo ignorare.
+
+114
+00:07:32,259 --> 00:07:35,500
+Sè dimostrato che aggiungere un impalcatura normativa denza,
+
+115
+00:07:35,500 --> 00:07:40,220
+difende dall'incertezza, ci sarà pur sempre un tetto massimo di tolleranza, no?
+
+116
+00:07:40,220 --> 00:07:42,740
+Qual è l'esatto confine oltre il quale una legge in più?
+
+117
+00:07:42,740 --> 00:07:44,220
+Non genera maggiore chiarezza,
+
+118
+00:07:44,220 --> 00:07:48,580
+ma fa collassare il motore economico sotto il peso dell'aburocrazzia e del chaos.
+
+119
+00:07:48,580 --> 00:07:50,500
+Trovare questo prezioso punto di equilibrio
+
+120
+00:07:50,500 --> 00:07:53,379
+e indubbiamente una delle sfide più stimolanti per il futuro.
+
+121
+00:07:53,379 --> 00:07:55,220
+E con questo dilemmo apertissimo,
+
+122
+00:07:55,220 --> 00:07:58,420
+chiudiamo questo profondimento e diamo appuntamento alla prossima analisi.
+

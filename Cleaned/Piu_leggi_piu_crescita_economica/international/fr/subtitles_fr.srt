@@ -1,0 +1,488 @@
+1
+00:00:00,000 --> 00:00:05,620
+Iniziamo subito questo approfondimento, tu fannoci a capofitto in un vero e proprio paradosso.
+
+2
+00:00:05,620 --> 00:00:09,000
+Più leggi e regolamentazioni sono una palla al piede per l'economia,
+
+3
+00:00:09,000 --> 00:00:13,320
+frenando l'iniziativa, oppure creano un bel terreno fertile per lo sviluppo.
+
+4
+00:00:13,320 --> 00:00:15,519
+Beh, è un dibattito vecchio come il mondo,
+
+5
+00:00:15,519 --> 00:00:19,620
+e la risposta assorprendentemente si trova analizzando decenni di dati
+
+6
+00:00:19,620 --> 00:00:22,460
+attraverso la lente della linguistica computazionale.
+
+7
+00:00:22,460 --> 00:00:25,379
+Niente opinioni politiche, solo numeri e fatti.
+
+8
+00:00:25,379 --> 00:00:27,980
+Il titolo dell'analisi di oggi è proprio questo.
+
+9
+00:00:27,980 --> 00:00:30,460
+Più leggi, più crescita economica,
+
+10
+00:00:30,460 --> 00:00:34,560
+ecco la mappa del nostro viaggio, uno, il dilema della crescita,
+
+11
+00:00:34,560 --> 00:00:39,359
+due, misurare le leggi, tre, causalità e prestiti normativi,
+
+12
+00:00:39,359 --> 00:00:41,899
+quattro, l'impatto sull'economia,
+
+13
+00:00:41,899 --> 00:00:45,060
+e, in fine cinque, il problema dell'incertezza.
+
+14
+00:00:45,060 --> 00:00:50,280
+Insomma, un percorso molto metodico che ci porterà dritti dalla pura teoria economica
+
+15
+00:00:50,280 --> 00:00:52,560
+alla analisi avanzata dei testi.
+
+16
+00:00:52,560 --> 00:00:56,420
+Commençons par le premier point, le dilemme de la croissance
+
+17
+00:00:56,420 --> 00:01:00,800
+est-ce une simple corrélation ou y a-t-il une relation de cause à effet.
+
+18
+00:01:00,800 --> 00:01:04,960
+Guardando i dati in nudie crudi, c'è una cosa che salta subito all'occhio.
+
+19
+00:01:04,960 --> 00:01:10,040
+Le giuridizioni con l'economie più grandi ricche e produttive tendono ad avere, esatto,
+
+20
+00:01:10,040 --> 00:01:13,379
+sistemi, legali, enormi e super complessi.
+
+21
+00:01:13,379 --> 00:01:15,900
+Questo spacca il dibattito in due visioni.
+
+22
+00:01:15,900 --> 00:01:18,540
+Da una parte, le leggi viste come un motore,
+
+23
+00:01:18,540 --> 00:01:22,820
+regole chiare che proteggono i diritti di proprietà e danno sicurezza gli investimenti.
+
+24
+00:01:22,820 --> 00:01:25,180
+Dall'altra, le leggi viste come un freno,
+
+25
+00:01:25,180 --> 00:01:29,980
+l'idea che troppe regole creano inevitabilmente una burocrazia asfissante
+
+26
+00:01:29,980 --> 00:01:32,860
+e costi pazzeschi paralizzandoli in prese,
+
+27
+00:01:32,860 --> 00:01:35,580
+entrambe sono prospettive supervalide.
+
+28
+00:01:35,580 --> 00:01:40,820
+E questo ci porta al vero nocciolo della questione affrontata dai ricercatori.
+
+29
+00:01:40,820 --> 00:01:44,060
+È il classico dilema dell'uovo e della gallina.
+
+30
+00:01:44,060 --> 00:01:51,020
+Un'economia che cresce genera meccanicamente una montagna di nuove leggi solo perché ci sono più settori da gestire,
+
+31
+00:01:51,060 --> 00:01:56,979
+oppure è proprio l'introduzione di nuove normative e ben strutturate a spingere l'economia in alto.
+
+32
+00:01:56,979 --> 00:02:01,780
+Capire cosa causa cosa è esattamente l'obiettivo ambizioso di questo studio.
+
+33
+00:02:01,780 --> 00:02:05,459
+Passiamo al capitolo 2, misurare le leggi.
+
+34
+00:02:05,459 --> 00:02:08,939
+Ma come si fa quantificare qualcosa di così vasto,
+
+35
+00:02:08,939 --> 00:02:11,819
+come la giurisprudenza in modo oggettivo?
+
+36
+00:02:11,819 --> 00:02:14,300
+Per capirlo è stato fatto un lavoro titanico,
+
+37
+00:02:14,300 --> 00:02:17,819
+analizzando testi legali di tutti i cinquanta stati americani,
+
+38
+00:02:17,859 --> 00:02:22,419
+in un periodo vastissimo che va dal 1965 al 2012.
+
+39
+00:02:22,419 --> 00:02:28,259
+E' attenzione, i ricercatori non si sono messi a contare banalmente il numero delle pagine, sarebbe stato inutile,
+
+40
+00:02:28,259 --> 00:02:34,219
+hanno invece usato le lavorazioni dell'inguaggio naturale per scovare le vere propria disposizione.
+
+41
+00:02:34,219 --> 00:02:39,979
+Hannociò è strato solo quelle singole frasi che contengono un obbligo, un divieto o una regola concreta.
+
+42
+00:02:39,979 --> 00:02:45,139
+Così si ottiene la vera essenza della legge, tagliandovi a tutta la burocrazia di contorno.
+
+43
+00:02:45,260 --> 00:02:48,180
+Per non perdersi in questo occeano di documenti,
+
+44
+00:02:48,180 --> 00:02:51,180
+il processo è stato diviso in tre fasi chirurgiche.
+
+45
+00:02:51,180 --> 00:02:56,660
+Fase 1, il conteggio algoritmicopuro è semplice di queste disposizioni legali.
+
+46
+00:02:56,660 --> 00:03:02,740
+Fase 2, l'uso di modelli matematici per smistare questa ammarea di regole in 18 categorie tematiche,
+
+47
+00:03:02,740 --> 00:03:05,460
+come tribunali, pensioni o trasporti.
+
+48
+00:03:05,460 --> 00:03:08,980
+Infine, la fase 3, le conometria shift share.
+
+49
+00:03:08,980 --> 00:03:14,940
+Un terme résolument technique, mais le concept sous-jacent est fascinant et nous le verrons dans un instant.
+
+50
+00:03:15,139 --> 00:03:19,859
+Et maintenant nous arrivons au chapitre 3, causalité et emprunts normatifs.
+
+51
+00:03:19,859 --> 00:03:25,979
+Scopriamo qual è il trucco geniale per isolare il vero effetto delle legge sull'economia.
+
+52
+00:03:25,979 --> 00:03:31,740
+Aux États-Unis, chaque État fonctionne comme son propre laboratoire politique.
+
+53
+00:03:31,740 --> 00:03:39,139
+Se una legge funziona bene da una parte, gli altri stati tendono a fare una sorta di copia in colla dei testi normativi di successo.
+
+54
+00:03:39,139 --> 00:03:43,180
+Ce phénomène d’emprunt législatif en est la clé de voûte.
+
+55
+00:03:43,460 --> 00:03:46,980
+Si un État copie une loi, uniquement par contagion d'un autre État,
+
+56
+00:03:46,980 --> 00:03:51,780
+lo fa prescindere da come sta andando la sua economia interna in quel preciso istante.
+
+57
+00:03:51,780 --> 00:03:59,260
+Misurando questi scambi di testi si riesce magicamente a isolare l'arrivo di nuove leggi dal semplice boom economico locale.
+
+58
+00:03:59,260 --> 00:04:04,540
+Osservando i dati agrigati, c'è una tendenza chiarissima, che va dritta verso l'alto.
+
+59
+00:04:04,540 --> 00:04:09,740
+C'è stata una spinta inarrestabile ad aggiungere regole, decegno dopo decegno,
+
+60
+00:04:09,780 --> 00:04:13,460
+e ora che il metodo ha permesso di separare quali di queste leggi,
+
+61
+00:04:13,460 --> 00:04:19,460
+se hanno state introdotte in modo indipendente dall'economia interna, possiamo finalmente tirare le somme.
+
+62
+00:04:19,460 --> 00:04:23,740
+Arriviamo quindi al capitolo 4, l'impatto sull'economia.
+
+63
+00:04:23,740 --> 00:04:26,980
+Cosa ci dicomo i risultati finali dell'indagine?
+
+64
+00:04:26,980 --> 00:04:30,500
+Le principal résultat de cet article est surprenant.
+
+65
+00:04:30,500 --> 00:04:36,500
+Les données certifient qu'une augmentation indépendante de la production législative provoque réellement,
+
+66
+00:04:36,500 --> 00:04:40,060
+directement, une plus grande croissance économique locale.
+
+67
+00:04:40,060 --> 00:04:45,740
+Plus précisément, le modèle montre qu'une augmentation de 10 % du flux de lois est entrée en vigueur
+
+68
+00:04:45,740 --> 00:04:52,180
+cela augmente le taux de croissance du produit intérieur par habitant de 0,15 point de pourcentage.
+
+69
+00:04:52,180 --> 00:05:00,060
+Cela peut sembler peu, mais au sein de la macroéconomie, les 1,015 % supplémentaires ont un impact très solide.
+
+70
+00:05:00,060 --> 00:05:02,939
+Pour donner une idée de la puissance de ce résultat,
+
+71
+00:05:02,939 --> 00:05:05,860
+on pourrait faire une comparaison extrêmement pragmatique.
+
+72
+00:05:05,900 --> 00:05:13,580
+Pour obtenir exactement le même coup de pouce, c'est-à-dire une augmentation de 0,15 point de la croissance grâce à une relance budgétaire traditionnelle,
+
+73
+00:05:13,580 --> 00:05:18,860
+les dépenses publiques devraient augmenter d'environ 0,1% après impôts,
+
+74
+00:05:18,860 --> 00:05:21,819
+una mossa struttura alle enorme e costusissima.
+
+75
+00:05:21,819 --> 00:05:24,939
+En parallèle, rédiger des lois plus claires et plus détaillées,
+
+76
+00:05:24,939 --> 00:05:30,780
+donne une impulsion à l’économie comparable à une injection géante d’investissements directs de l’État.
+
+77
+00:05:30,780 --> 00:05:32,900
+Passons maintenant au dernier chapitre.
+
+78
+00:05:32,900 --> 00:05:34,100
+Le chiffre 5.
+
+79
+00:05:34,140 --> 00:05:36,379
+Le problème de l'incertitude.
+
+80
+00:05:36,379 --> 00:05:40,660
+Pourquoi avoir plus de lois aiderait-il concrètement l’économie ?
+
+81
+00:05:40,660 --> 00:05:47,820
+L’explication réside dans ce qu’on appelle en économie le vieux problème ou la renégociation opportuniste.
+
+82
+00:05:47,820 --> 00:05:51,620
+Imaginez que le paysage juridique d'un État devienne vacant ou rempli de trous.
+
+83
+00:05:51,620 --> 00:05:53,460
+L'environnement devient ambigu,
+
+84
+00:05:53,460 --> 00:05:59,300
+et la conséquence naturelle est que les entreprises sont terrifiées à l'idée de réaliser de gros investissements à long terme,
+
+85
+00:05:59,340 --> 00:06:02,180
+ils craignent à juste titre qu'avec l'argent déjà dépensé,
+
+86
+00:06:02,180 --> 00:06:05,540
+les partenaires commerciaux peuvent exploiter ces lacunes réglementaires
+
+87
+00:06:05,540 --> 00:06:08,020
+pour changer les règles du jeu à votre avantage,
+
+88
+00:06:08,020 --> 00:06:12,660
+résultat personne ne risque, on s'arrête et tout le marché stagne.
+
+89
+00:06:12,660 --> 00:06:15,139
+C'est exactement là qu'intervient la loi.
+
+90
+00:06:15,139 --> 00:06:18,379
+Une législation dense et très détaillée
+
+91
+00:06:18,379 --> 00:06:22,420
+agit en créant un contrat social et, mentalement plus solide,
+
+92
+00:06:22,420 --> 00:06:26,540
+couvre les périodes, prédisant à l'avance ou les scénarios de conflit anticipés,
+
+93
+00:06:26,580 --> 00:06:29,260
+instaurer des sanctions parce qu'il ne respecte pas les accords.
+
+94
+00:06:29,260 --> 00:06:32,140
+Cela pulvérise pratiquement le niveau d’insécurité juridique,
+
+95
+00:06:32,140 --> 00:06:36,460
+et quand les entreprises se sentiront enfin protégées par l'infrastructure du système,
+
+96
+00:06:36,460 --> 00:06:41,100
+ils ouvrent les robinets des capitaux et remettent en circulation les investissements structurels.
+
+97
+00:06:41,100 --> 00:06:45,140
+Ce n'est en effet pas un hasard si, en approfondissant les types de règles,
+
+98
+00:06:45,140 --> 00:06:48,700
+la croissance explose là où elle est le plus nécessaire.
+
+99
+00:06:48,700 --> 00:06:53,020
+Les effets bénéfiques maximaux sont constatés avec des réglementations purement économiques
+
+100
+00:06:53,020 --> 00:06:55,020
+dans des secteurs très complexes.
+
+101
+00:06:55,099 --> 00:06:58,819
+Mais ce qui est fascinant, c’est le rôle des clauses conditionnelles.
+
+102
+00:06:58,819 --> 00:07:01,259
+Ce sont ces dispositions légales,
+
+103
+00:07:01,259 --> 00:07:03,139
+né spécifiquement pour dire,
+
+104
+00:07:03,139 --> 00:07:05,659
+Voici quoi faire si un imprévu se produit.
+
+105
+00:07:05,659 --> 00:07:09,579
+Ils sont comme des polices d'assurance incorporées dans des contrats,
+
+106
+00:07:09,579 --> 00:07:11,379
+et offre la plus grande poussée,
+
+107
+00:07:11,379 --> 00:07:14,779
+précisément dans des périodes historiques de grande incertitude locale.
+
+108
+00:07:14,779 --> 00:07:18,659
+Quand tout semble instable, une loi minutieusement écrite
+
+109
+00:07:18,659 --> 00:07:22,419
+il devient un véritable refuge pour l'activité de production.
+
+110
+00:07:22,540 --> 00:07:25,020
+Résumer, insérer des règles précises,
+
+111
+00:07:25,020 --> 00:07:27,780
+l'ambiguïté doit régner, bâtit la confiance,
+
+112
+00:07:27,780 --> 00:07:29,939
+et la confiance débloque les affaires.
+
+113
+00:07:29,939 --> 00:07:32,259
+Mais il y a une réflexion que nous ne pouvons ignorer.
+
+114
+00:07:32,259 --> 00:07:35,500
+Il a été démontré que l'ajout d'un échafaudage réglementaire,
+
+115
+00:07:35,500 --> 00:07:40,220
+se défend contre l’incertitude, il y aura toujours une limite maximale de tolérance, non ?
+
+116
+00:07:40,220 --> 00:07:42,740
+Quelle est la limite exacte au-delà de laquelle une loi supplémentaire ?
+
+117
+00:07:42,740 --> 00:07:44,220
+Cela ne génère pas une plus grande clarté,
+
+118
+00:07:44,220 --> 00:07:48,580
+mais cela provoque l’effondrement du moteur économique sous le poids de la bureaucratie et du chaos.
+
+119
+00:07:48,580 --> 00:07:50,500
+Trouver ce précieux point d'équilibre
+
+120
+00:07:50,500 --> 00:07:53,379
+et sans doute l’un des défis les plus stimulants pour l’avenir.
+
+121
+00:07:53,379 --> 00:07:55,220
+Et avec ce dilemme très ouvert,
+
+122
+00:07:55,220 --> 00:07:58,420
+Terminons cette analyse approfondie et attendons avec impatience la prochaine analyse.
+
