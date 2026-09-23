@@ -1,4 +1,24 @@
 {
+    "Ambiente_o_consenso": {
+        "youtube_id": "ooZglsvQJXg",
+        "youtube_url": "https://www.youtube.com/watch?v=ooZglsvQJXg",
+        "facebook_url": "Sospeso",
+        "instagram_url": "Da fare",
+        "facebook_cover_status": "Sospeso",
+        "playlist": "I Migliori Video di Cosa Fanno Gli Economisti",
+        "shorts": [
+            {
+                "id": "hl4NkGq-VNs",
+                "youtube_url": "https://youtube.com/shorts/hl4NkGq-VNs",
+                "angle": "1",
+                "status": "Uploaded",
+                "ig_reel_url": "Da fare",
+                "local_path": "/Users/<USER>/Desktop/canale/Cleaned/Ambiente_o_consenso/Ambiente_o_consenso_short1_cleaned.mp4",
+                "updated": "2026-09-23T22:47:08.801368"
+            }
+        ],
+        "last_updated": "2026-09-23T22:47:08.801376"
+    },
     "Amiamo_le_tasse_Questione_culturale": {
         "youtube_id": "7cHt_oLI4_k",
         "youtube_url": "https://www.youtube.com/watch?v=7cHt_oLI4_k",

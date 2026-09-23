@@ -1,0 +1,596 @@
+1
+00:00:00,000 --> 00:00:02,000
+Benvenuti a questa nuova analisi.
+
+2
+00:00:02,000 --> 00:00:06,000
+Oggi ci mergiamo in un tema che è, direi, assolutamente cruciale,
+
+3
+00:00:06,000 --> 00:00:09,000
+ma anche incredibilmente dibattuto nella ricerca economica.
+
+4
+00:00:09,000 --> 00:00:13,000
+Parleremo di come le politiche ambientali, che tutti sappiamo essere vitali,
+
+5
+00:00:13,000 --> 00:00:17,000
+possano a volte inescare delle conseguenze politiche del tutto inaspettate.
+
+6
+00:00:17,000 --> 00:00:21,000
+Il titolo della nostra esplorazione di oggi, infatti, coglie proprio il punto.
+
+7
+00:00:21,000 --> 00:00:24,000
+Ambiente o consenso.
+
+8
+00:00:24,000 --> 00:00:26,000
+Bene, addentriamoci subito nidati.
+
+9
+00:00:26,000 --> 00:00:28,000
+Ecco la nostra mappa per oggi.
+
+10
+00:00:28,000 --> 00:00:31,000
+Passeremo rapidamente attraverso 5 tappe.
+
+11
+00:00:31,000 --> 00:00:33,000
+1. Il costo delle politiche ambientali.
+
+12
+00:00:33,000 --> 00:00:36,000
+2. Il divietto in Area B.
+
+13
+00:00:36,000 --> 00:00:39,000
+3. Come misurare il cambiamento elettorale.
+
+14
+00:00:39,000 --> 00:00:42,000
+4. Lo scontro trapporta foglio e ideologia.
+
+15
+00:00:42,000 --> 00:00:46,000
+E infine, 5. La cruciale importanza delle compensazioni.
+
+16
+00:00:46,000 --> 00:00:49,000
+Punto primo. Il costo delle politiche ambientali.
+
+17
+00:00:49,000 --> 00:00:52,000
+E l'impatto economico delle buone intenzioni.
+
+18
+00:00:52,000 --> 00:00:54,000
+Mettiamo le cose in chiaro fin dall'inizio.
+
+19
+00:00:54,000 --> 00:00:57,000
+Le politiche verdi sono indiscutibilmente essenziali.
+
+20
+00:00:57,000 --> 00:01:00,000
+Dobbiamo combattere il cambiamento climatico non c'è dubbio.
+
+21
+00:01:00,000 --> 00:01:01,000
+Ma c'è un però.
+
+22
+00:01:01,000 --> 00:01:06,000
+La transizione ecologica porta con sede i costi di adattamento che purtroppo finiscono
+
+23
+00:01:06,000 --> 00:01:09,000
+spesso per pesare in modo profondamente disuguale.
+
+24
+00:01:09,000 --> 00:01:11,000
+Pensiamo ai eventi internazionali molto noti,
+
+25
+00:01:11,000 --> 00:01:14,000
+come i gili gialli in Francia o le grandi protesti in Chile.
+
+26
+00:01:14,000 --> 00:01:17,000
+Sono fatti che ci dimostrano una cosa chiara.
+
+27
+00:01:17,000 --> 00:01:20,000
+Quando si chiede ai cittadini di farsi carico di oneri economici improvvisi
+
+28
+00:01:20,000 --> 00:01:24,000
+per salvare l'ambiente, la reazione politica può essere dirompente.
+
+29
+00:01:24,000 --> 00:01:29,000
+Insomma, le buone intenzioni si scontrano duramente con la realtà economica quotidiana.
+
+30
+00:01:29,000 --> 00:01:31,000
+Passiamo al secondo punto.
+
+31
+00:01:31,000 --> 00:01:35,000
+Il divieto in area B, il nostro caso studio in centrato su Milano.
+
+32
+00:01:35,000 --> 00:01:39,000
+Facciamo un salto indietro all'uglio del 2018.
+
+33
+00:01:39,000 --> 00:01:41,000
+A Milano viene introdotto all'area B.
+
+34
+00:01:41,000 --> 00:01:44,000
+Parliamo di una vastissima zona trafico limitato pensata proprio
+
+35
+00:01:44,000 --> 00:01:46,000
+per abattere l'inquinamento atmosferico.
+
+36
+00:01:46,000 --> 00:01:49,000
+Ma chi è stato colpito da questa misura?
+
+37
+00:01:49,000 --> 00:01:50,000
+Analizzando i dettagli,
+
+38
+00:01:50,000 --> 00:01:53,000
+emerge che il divieto ha preso di mira in modo molto specifico
+
+39
+00:01:53,000 --> 00:01:55,000
+i veicoli disele benzina più vecchi,
+
+40
+00:01:55,000 --> 00:01:58,000
+bloccando l'accesso in base ai loro standard di emissione euro.
+
+41
+00:01:58,000 --> 00:02:03,000
+Si trattava di un colpo di spugna burocratico che teneva fuori dalla città migliaia di auto.
+
+42
+00:02:03,000 --> 00:02:08,000
+In questo scenario, la dinamica politica è diventata subito caldissima e molto netta.
+
+43
+00:02:08,000 --> 00:02:10,000
+Da un lato c'era il partito democratico,
+
+44
+00:02:10,000 --> 00:02:12,000
+alla guida dell'amministrazione locale,
+
+45
+00:02:12,000 --> 00:02:16,000
+che ha fortemente spinto e difeso questa politica in nome dell'azione climatica.
+
+46
+00:02:16,000 --> 00:02:20,000
+Dall'altro lato, la lega sia posta in totale opposizione,
+
+47
+00:02:20,000 --> 00:02:22,000
+argomentando che una manovra come l'aria B
+
+48
+00:02:22,000 --> 00:02:26,000
+andava a penalizzare economicamente proprio le fasce sociali più deboli,
+
+49
+00:02:26,000 --> 00:02:30,000
+quelle che magari non potevano permettersi di cambiare macchina da un giorno all'altro.
+
+50
+00:02:30,000 --> 00:02:32,000
+E questo ci porta al terzo punto,
+
+51
+00:02:32,000 --> 00:02:34,000
+misurare il cambiamento elettorale.
+
+52
+00:02:34,000 --> 00:02:38,000
+Come possiamo isolare l'effetto causale di questa scelta?
+
+53
+00:02:38,000 --> 00:02:42,000
+Come facciamo essere matematicamente certi che questo specifico divieto
+
+54
+00:02:42,000 --> 00:02:44,000
+abbia effettivamente spostato dei voti?
+
+55
+00:02:44,000 --> 00:02:47,000
+Magari si trattava solo di una tendenza politica generale, no?
+
+56
+00:02:47,000 --> 00:02:51,000
+Ecco, la risposta dei ricercatori si basa su un metodo elegantissimo,
+
+57
+00:02:51,000 --> 00:02:53,000
+chiamato Difference in Differences.
+
+58
+00:02:53,000 --> 00:02:56,000
+In pratica hanno preso i proprietari dei veicoli banditi,
+
+59
+00:02:56,000 --> 00:02:58,000
+per esempio chi guidava i diesel Euro 4,
+
+60
+00:02:58,000 --> 00:03:01,000
+e gli hanno confrontati con chi possedeva veicoli del tutto simili,
+
+61
+00:03:01,000 --> 00:03:04,000
+ma a cui era permesso circolare, come gli Euro 5.
+
+62
+00:03:04,000 --> 00:03:06,000
+Il genio di questo approccio empirico
+
+63
+00:03:06,000 --> 00:03:09,000
+è che isola l'effetto causale puro della politica.
+
+64
+00:03:09,000 --> 00:03:13,000
+Mettendo a confronto gruppi di guidatori con abitudini quasi identiche,
+
+65
+00:03:13,000 --> 00:03:17,000
+si tolgono letteralmente dall'equazione tutti quei fastidiosi fattori di disturbo,
+
+66
+00:03:17,000 --> 00:03:20,000
+come le preferenze personali per un certo carburante
+
+67
+00:03:20,000 --> 00:03:22,000
+o le naturali differenze demografiche.
+
+68
+00:03:22,000 --> 00:03:24,000
+Quello che ci resta in mano alla fine
+
+69
+00:03:24,000 --> 00:03:27,000
+è esclusivamente l'impatto del divieto.
+
+70
+00:03:27,000 --> 00:03:30,000
+Quarto punto porta foglio contro ideologia,
+
+71
+00:03:30,000 --> 00:03:33,000
+perché alla fine le persone decidono di cambiare voto.
+
+72
+00:03:33,000 --> 00:03:35,000
+Ed eccoci ai risultati dello studio,
+
+73
+00:03:35,000 --> 00:03:39,000
+che si focalizzano sulle elezioni del Parlamento europeo del 2019.
+
+74
+00:03:39,000 --> 00:03:42,000
+I numeri sono inequivocabili.
+
+75
+00:03:42,000 --> 00:03:44,000
+I proprietari delle autocolpite dal divieto
+
+76
+00:03:44,000 --> 00:03:49,000
+avevano i 13,5% di probabilità in più di votare per la lega.
+
+77
+00:03:49,000 --> 00:03:53,000
+E la cosa più sorprendente è che questo spostamento è stato fortissimo tra chi, in passato,
+
+78
+00:03:53,000 --> 00:03:57,000
+non andava a votare oppure sceglieva partiti completamente diversi.
+
+79
+00:03:57,000 --> 00:03:59,000
+Ma fermiamoci un attimo.
+
+80
+00:03:59,000 --> 00:04:02,000
+Questa è un'informazione che solleva immediatamente una domanda cruciale.
+
+81
+00:04:02,000 --> 00:04:05,000
+Dobbiamo interpretarlo come un voto contro l'ambiente.
+
+82
+00:04:05,000 --> 00:04:07,000
+Questi cittadini colpiti dalle restrizioni
+
+83
+00:04:07,000 --> 00:04:09,000
+si sono forse svegliati una mattina
+
+84
+00:04:09,000 --> 00:04:11,000
+adottando un'ideologiantia ambientalista,
+
+85
+00:04:11,000 --> 00:04:13,000
+magari solo per ripicca.
+
+86
+00:04:13,000 --> 00:04:15,000
+I dati ci danno un secondo.
+
+87
+00:04:15,000 --> 00:04:16,000
+Assolutamente no.
+
+88
+00:04:16,000 --> 00:04:18,000
+La ricerca di mostre modo schiacciante
+
+89
+00:04:18,000 --> 00:04:20,000
+che le opinioni ecologiste di queste persone
+
+90
+00:04:20,000 --> 00:04:22,000
+non sono cambiate di una virgola.
+
+91
+00:04:22,000 --> 00:04:24,000
+Erano a favore della tutela dell'ambiente prima.
+
+92
+00:04:24,000 --> 00:04:25,000
+E lo sono rimasti dopo.
+
+93
+00:04:25,000 --> 00:04:27,000
+Il loro cambio di rotta alle urne
+
+94
+00:04:27,000 --> 00:04:29,000
+è stata una reazione puramente punitiva
+
+95
+00:04:29,000 --> 00:04:31,000
+per un grave danno finanziario personale.
+
+96
+00:04:31,000 --> 00:04:34,000
+Non c'entrava nulla rifiuto ideologico dell'iniziative Green.
+
+97
+00:04:34,000 --> 00:04:36,000
+E il motivo di tanta frustrazione
+
+98
+00:04:36,000 --> 00:04:38,000
+diventa palese in non appena osserviamo
+
+99
+00:04:38,000 --> 00:04:40,000
+la reale distribuzione dei costi.
+
+100
+00:04:40,000 --> 00:04:43,000
+Una grandissima percentuale di queste persone
+
+101
+00:04:43,000 --> 00:04:45,000
+si è ritrovata da un giorno all'altro
+
+102
+00:04:45,000 --> 00:04:46,000
+ad affrontare spese altissime,
+
+103
+00:04:46,000 --> 00:04:48,000
+legate alla svalutazione improvvisa
+
+104
+00:04:48,000 --> 00:04:49,000
+della propria auto
+
+105
+00:04:49,000 --> 00:04:52,000
+o all'urgenza assoluta di doverne comprare un'altra.
+
+106
+00:04:52,000 --> 00:04:54,000
+È stato un colpo economico durissimo,
+
+107
+00:04:54,000 --> 00:04:56,000
+in flitto in modo tutt'altro che uniforme.
+
+108
+00:04:56,000 --> 00:04:59,000
+Per dare una dimensione precisa di questo shock,
+
+109
+00:04:59,000 --> 00:05:01,000
+lo studio ha calcolato una perdita mediana
+
+110
+00:05:01,000 --> 00:05:04,000
+di chierata di ben 3.750 euro.
+
+111
+00:05:04,000 --> 00:05:06,000
+3.750 euro,
+
+112
+00:05:06,000 --> 00:05:08,000
+stiamo parlando di una cifra enorme.
+
+113
+00:05:08,000 --> 00:05:10,000
+Pari a circa il 17%
+
+114
+00:05:10,000 --> 00:05:13,000
+del reddito l'ordo anno o mediano di questi residenti.
+
+115
+00:05:13,000 --> 00:05:15,000
+Insomma, una mazzata finanziaria
+
+116
+00:05:15,000 --> 00:05:18,000
+che basta è avanza per far spostare i voti verso l'opposizione.
+
+117
+00:05:18,000 --> 00:05:21,000
+E arriviamo così all'ultimo capitolo.
+
+118
+00:05:21,000 --> 00:05:24,000
+Punto quinto, l'importanza delle compensazioni.
+
+119
+00:05:24,000 --> 00:05:26,000
+Ovvero, una vera e propria lezione
+
+120
+00:05:26,000 --> 00:05:28,000
+su come fare buone leggi.
+
+121
+00:05:28,000 --> 00:05:30,000
+La vera domanda per chi ci governa
+
+122
+00:05:30,000 --> 00:05:32,000
+è come evitiamo questo pericoloso
+
+123
+00:05:32,000 --> 00:05:34,000
+contro colpo democratico.
+
+124
+00:05:34,000 --> 00:05:36,000
+Il risultato più brillante della ricerca
+
+125
+00:05:36,000 --> 00:05:38,000
+ci serve la soluzione su un piatto d'argento.
+
+126
+00:05:38,000 --> 00:05:40,000
+I cittadini che sono riusciti a richiedere
+
+127
+00:05:40,000 --> 00:05:42,000
+e ottenere un rinborsso finanziario dal comune
+
+128
+00:05:42,000 --> 00:05:44,000
+per sostituire la loro auto
+
+129
+00:05:44,000 --> 00:05:46,000
+non hanno cambiato voto.
+
+130
+00:05:46,000 --> 00:05:47,000
+L'incentivo economico ha neutralizzato
+
+131
+00:05:47,000 --> 00:05:48,000
+del tutto la rabbia.
+
+132
+00:05:48,000 --> 00:05:49,000
+Azzerando di fatto,
+
+133
+00:05:49,000 --> 00:05:51,000
+la ricaduta politica negativa.
+
+134
+00:05:51,000 --> 00:05:53,000
+E questo ci lascia con una riflessione vitale,
+
+135
+00:05:53,000 --> 00:05:56,000
+con cui chiudiamo questa nostra esplorazione odierna.
+
+136
+00:05:56,000 --> 00:05:58,000
+Come possiamo proteggere il pianeta
+
+137
+00:05:58,000 --> 00:06:01,000
+senza penalizzare proprio i cittadini più vulnerabili?
+
+138
+00:06:01,000 --> 00:06:03,000
+Il successo, e oserere dire,
+
+139
+00:06:03,000 --> 00:06:05,000
+la cittazione stessa della transizione verde,
+
+140
+00:06:05,000 --> 00:06:07,000
+dipendono fortemente dalla nostra capacità
+
+141
+00:06:07,000 --> 00:06:09,000
+di progettare politiche che distribuiscano
+
+142
+00:06:09,000 --> 00:06:10,000
+i costi in modo equo,
+
+143
+00:06:10,000 --> 00:06:12,000
+offrendo rinborsi tempestivi.
+
+144
+00:06:12,000 --> 00:06:14,000
+Perché, senza equità economica,
+
+145
+00:06:14,000 --> 00:06:16,000
+la più nobile vitale delle battaglie ambientali
+
+146
+00:06:16,000 --> 00:06:18,000
+rischia di schiantarsi,
+
+147
+00:06:18,000 --> 00:06:21,000
+inesorabilmente contro il dissensso nelle urne.
+
+148
+00:06:21,000 --> 00:06:23,000
+Una lezione essenziale che i numeri di oggi
+
+149
+00:06:23,000 --> 00:06:26,000
+hanno dimostrato in modo semplicemente cristalino.
+
