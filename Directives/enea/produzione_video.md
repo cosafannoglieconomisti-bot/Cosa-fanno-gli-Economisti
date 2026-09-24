@@ -137,11 +137,12 @@ python execution/video_cleaner.py ~/Downloads/video.mp4 L_ascesa_del_Male /path/
 
 Quando è richiesta la creazione di una miniatura per YouTube, utilizzare le seguenti linee guida strutturali per il prompt Text-to-Image del tool immagine approvato:
 
-- **Formato**: Quadrato 1:1 (es. 1024x1024 o 640x640 per retrocompatibilità).
+- **Formato**: **16:9 only** (es. 1280×720). Vietato 1:1 come formato primario delle copertine/thumbnail. (Le **infografiche** restano quadrati 1:1.)
+- **Motore**: ChatGPT/Codex native `image_gen` → salvare in `Temp/assets/override_cover.png` → `generate_cover.py` **copia solo** l'override. **NON** usare Gemini/Imagen né API keys da `.env` per le copertine.
 - **Stile Visivo**: Graphic novel comic book style (stile fumetto), palette colori vibrante arancione, nero e bianco. Altissimo contrasto, stile vettoriale.
 - **Soggetto**: Un'illustrazione a tema con il paper.
 - **Testo Integrato (MANDATORIO)**: Il titolo ESATTO del video deve essere richiesto come **testo nativo integrato** nel prompt dell'AI (senza aggiungere fasce nere o font standard in post-produzione). Il testo deve essere preferibilmente bianco o arancione con contorni neri per risaltare, fondendosi in modo naturale con l'illustrazione.
-- **Esempio di Prompt Base**: *"Comic book style cover, orange and black monochrome color palette. High contrast. [Descrizione Scena]. Include the exact large text integrated inside the image as part of the comic cover: '[TITOLO ESATTO]'. The text must be in orange or black, fully integrated in the composition."*
+- **Esempio di Prompt Base**: *"Comic book style YouTube thumbnail cover, 16:9 widescreen, orange and black monochrome color palette. High contrast. [Descrizione Scena]. Include the exact large text integrated inside the image as part of the comic cover: '[TITOLO ESATTO]'. The text must be in orange or black, fully integrated in the composition."*
 - **Inpainting (Correzione)**: Qualora l'AI generi testi "spazzatura" (watermark o diciture casuali ai bordi), questi vanno rimossi tramite inpainting intelligente (Generative Fill) ripristinando il background sottostante, in modo che l'immagine rimanga pulita, identica e senza "toppe" coprenti di colore solido.
 
 ## SOP: Rimozione Watermark (NotebookLM) dalle Infografiche Quadrati Nativa

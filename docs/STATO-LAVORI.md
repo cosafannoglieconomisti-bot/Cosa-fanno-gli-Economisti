@@ -18,7 +18,7 @@ Sessione Brain di consolidamento **conclusa e pubblicata**.
 
 ## Decisioni prese
 
-- Copertine: motore GPT/Codex → `Temp/assets/override_cover.png`
+- Copertine: **16:9 only** (2026-09-24); motore ChatGPT/Codex `image_gen` → `Temp/assets/override_cover.png` (generate_cover.py copia solo; non Gemini/Imagen). Infografiche restano 1:1.
 - `nlm`: `notebooklm-mcp-cli` (pubblico)
 - Credenziali: unico `.env` in radice
 - Buffer: token aggiornato in locale, vecchio revocato

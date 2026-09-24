@@ -11,7 +11,7 @@ Esegui il workflow **Step 1** del canale "Cosa fanno gli economisti".
 1. Scansiona **ricorsivamente** i PDF in `Papers/Da fare/` e proponi i titoli accademici reali.
 2. Estrai il testo con `Execution/enea/batch_text_extractor.py`.
 3. Proponi 5 titoli catchy (max 5 parole, stile domanda).
-4. Dopo scelta titolo, genera copertina con `Execution/enea/generate_cover.py` (stile comic arancio/nero/bianco).
+4. Dopo scelta titolo, genera copertina **16:9 only** (es. 1280×720) con ChatGPT/Codex native `image_gen` → `Temp/assets/override_cover.png`; poi `Execution/enea/generate_cover.py` **copia solo** (stile comic arancio/nero/bianco + testo nativo). Non Gemini/Imagen/.env. Infografiche restano 1:1.
 5. All'approvazione:
    - Crea `Cleaned/[Titolo_Scelto]/`
    - Sposta/rinomina PDF → `Cleaned/[Titolo_Scelto]/[Titolo_Accademico].pdf`
@@ -20,6 +20,7 @@ Esegui il workflow **Step 1** del canale "Cosa fanno gli economisti".
 
 ## Script (ordine)
 1. `Execution/enea/batch_text_extractor.py`
-2. `Execution/enea/generate_cover.py`
+2. ChatGPT/Codex `image_gen` → `Temp/assets/override_cover.png`
+3. `Execution/enea/generate_cover.py` (copy-only dell'override)
 
 Non inventare paper o metadati. Chiedi conferma su titolo e copertina prima di procedere.

@@ -14,7 +14,8 @@ Questo workflow gestisce l'intero setup iniziale: scelta del paper, generazione 
    - Propone 5 opzioni di titoli "catchy" (massimo 5 parole, stile domanda).
 
 3. **Generazione e Approvazione Copertina**:
-   - Una volta scelto il titolo, Codex genera una copertina in stile Comic (Arancio/Nero/Bianco) con il motore immagine nativo OpenAI/Codex.
+   - Una volta scelto il titolo, Codex genera una copertina **16:9 only** (es. 1280×720) in stile Comic (Arancio/Nero/Bianco) con ChatGPT/Codex native `image_gen` → `Temp/assets/override_cover.png` → `generate_cover.py` copia solo (non Gemini/Imagen/.env keys).
+   - Le **infografiche** restano quadrati 1:1; solo le **copertine/thumbnail** sono 16:9.
    - La copertina viene mostrata all'utente per approvazione esplicita.
    - L'utente può dire `approva` o `rigenera`.
 
