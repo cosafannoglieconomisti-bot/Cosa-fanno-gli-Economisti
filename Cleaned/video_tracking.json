@@ -1,9 +1,19 @@
 {
+    "--help": {
+        "youtube_id": "",
+        "youtube_url": "Da pubblicare",
+        "facebook_url": "Sospeso",
+        "instagram_url": "Da fare",
+        "facebook_cover_status": "Sospeso",
+        "playlist": "Da assegnare",
+        "shorts": [],
+        "last_updated": "2026-09-24T14:59:26.329336"
+    },
     "Ambiente_o_consenso": {
         "youtube_id": "ooZglsvQJXg",
         "youtube_url": "https://www.youtube.com/watch?v=ooZglsvQJXg",
         "facebook_url": "Sospeso",
-        "instagram_url": "Postato (Foto)",
+        "instagram_url": "Postato (Foto) Buffer 6ab43d684fec6b6b1d7d610f @ 2026-09-24 10:00 CEST",
         "facebook_cover_status": "Sospeso",
         "playlist": "I Migliori Video di Cosa Fanno Gli Economisti",
         "shorts": [
@@ -11,13 +21,20 @@
                 "id": "hl4NkGq-VNs",
                 "youtube_url": "https://youtube.com/shorts/hl4NkGq-VNs",
                 "angle": "1",
-                "status": "Uploaded",
-                "ig_reel_url": "Programmato (Reel)",
-                "local_path": "/Users/<USER>/Desktop/canale/Cleaned/Ambiente_o_consenso/Ambiente_o_consenso_short1_cleaned.mp4",
-                "updated": "2026-09-23T22:59:02.067400"
+                "status": "Pulito",
+                "ig_reel_url": "Programmato (Reel) Buffer 6ab43d950316fca1a94df065 @ 2026-09-24 12:00 CEST",
+                "updated": "2026-09-24T14:59:45.675673"
             }
         ],
-        "last_updated": "2026-09-23T22:59:02.067409"
+        "last_updated": "2026-09-24T14:59:45.675683",
+        "status": "Pulito",
+        "title": "Ambiente o consenso?",
+        "publish_schedule": {
+            "youtube_long": "2026-09-24T09:00:00+02:00",
+            "instagram_post": "2026-09-24T10:00:00+02:00",
+            "youtube_short": "2026-09-24T12:00:00+02:00",
+            "instagram_reel": "2026-09-24T12:00:00+02:00"
+        }
     },
     "Amiamo_le_tasse_Questione_culturale": {
         "youtube_id": "7cHt_oLI4_k",
