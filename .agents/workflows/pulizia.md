@@ -1,41 +1,36 @@
 ---
-description: Workflow /pulizia per processamento video e metadati
+description: Workflow /pulizia — watermark cover solido, trim RMS ~3.5–4s, short, metadata
 ---
 
-Il workflow `/pulizia` automatizza la fase di post-processing del video e dell'infografica scaricati da NotebookLM.
+Post-processing di video + infografica NotebookLM. **Non** fa upload né cleanup finale (quello è `/upload`).
 
-### Procedura Operativa
+## Checklist long
 
-1.  **Assicurati che la pipeline sia attiva**: Lancia prima `/paper` per selezionare il paper e il titolo.
-2.  **Verifica Asset**: I file scaricati da NotebookLM (`*_raw.mp4` e l'infografica `.png`) devono trovarsi nella cartella `Downloads` dell'utente Mac.
+1. Pipeline attiva (`/paper` + copertina approvata).
+2. Input in `~/Downloads`: `*_raw.mp4` + infografica.
+3. `./workflow pulizia` / `video_processor.py`:
+   - **Watermark**: cover/fill **solido** con colore campionato dallo sfondo (NO delogo soft → macchie).
+   - **Trim outro**: ~**3.5–4s**, guidato da **RMS audio**; **non** usare 2.5s aggressivo che taglia la voce di chiusura.
+   - Infografica: `clean_infographic.py` → `infografica_cleaned.png`.
+   - Whisper IT + traduzioni EN/ES/FR/DE in `international/`.
+   - `video_metadata.md` con **tag specifici di contenuto** (es. AreaB, Milano, Lega). Vietati: `#CosaFannoGliEconomisti`, `#APSR`, journal-name-as-hashtag.
+4. Gate: se rigeneri l’infografica, fai approvare a Marco prima di procedere.
 
-### Procedura Deterministica
+## Checklist short (default 1/paper)
 
-1.  **Lancio**: Digita `/pulizia` su Telegram.
-2.  **Selezione Video**: Il bot mostra un elenco dei file `*_raw.mp4` trovati in `Downloads` nelle ultime **24 ore**, ordinati dal più recente. Scegli quello corretto dal menu inline.
-3.  **Esecuzione Automatica (`video_processor.py`)**:
-    -   **Cleaning Video**: Rimuove watermark e trimmaggio (2.5s).
-    -   **Cleaning Infografica**: Rimozione automatica watermark NotebookLM dall'immagine (`clean_infographic.py`).
-    -   **Sottotitoli & Indice**: Generazione automatica di `video_index_raw.txt`, `subtitles_it.srt` e `subtitles_it.vtt` tramite Whisper.
-    -   **Archiviazione RAW**: Sposta il file originale (rinominato in `*_raw.mp4`) nella cartella di riferimento `Cleaned/[Titolo]/`.
-    -   **Archiviazione Cleaned**: Sposta il video pulito (`*_cleaned.mp4`) e l'infografica pulita nella stessa cartella.
-    -   **Archiviazione Internazionale**: Sposta tutti i file di testo (`.txt`, `.srt`, `.vtt`) nella sottocartella `international/`.
-    -   **Traduzione Multilingua (MANDATORIO)**: Generazione automatica di metadati e sottotitoli in EN, ES, FR, DE nelle sottocartelle di `international/`. **Il processo si blocca se una traduzione fallisce.**
-4.  **Metadati**: Genera `video_metadata.md` con la descrizione YouTube completa.
-    -   **Indice**: Massimo 6 capitoli (Intro, 4 intermedi, Conclusioni).
-    -   **Conclusioni (Timestamp)**: Il minutaggio delle Conclusioni **DEVE** essere dinamico, corrispondente all'inizio dell'ultimo segmento trascritto (no `XX:XX`).
-    -   **Titoli**: Generati via Gemini per essere tematici e rappresentativi (non semplici frammenti).
-5.  **Notifica Finale**: Il bot invia un messaggio di conferma su Telegram al termine di tutte le operazioni.
-6.  **Aggiornamento Registro**: La pipeline aggiorna automaticamente `Cleaned/video_tracking.json` tramite `tracking_manager.py`.
-7.  **Archiviazione Internazionale**: Durante la pulizia, i file di trascrizione e sottotitoli (SRT, VTT, TXT) vengono spostati in `international/` per preservarli dal cleanup finale del repository.
+1. Input: `{clean_title}_short1_raw.mp4` in Downloads (da `/produzione --with-short`, nlm≥0.11.7).
+2. `./workflow pulizia --video …_short1_raw.mp4` oppure `--also-short` dopo il long.
+3. Output: `{clean_title}_short1_cleaned.mp4` + `Cleaned/[Titolo]/shorts/international/`.
+4. Stessi default watermark (cover solido portrait-aware) e trim RMS.
+5. Tracking nested: `shorts[{angle, status: Cleaned, …}]` sotto la riga long.
 
-### Requisiti
-- File `active_pipeline.json` in `Temp/enea/`.
-- Video `.mp4` e Infografica `.png` presenti in `Downloads`.
+```bash
+./workflow pulizia --video Titolo_short1_raw.mp4
+./workflow pulizia --also-short
+```
 
-## 📋 File Python Utilizzati
+## File Python
 1. `Execution/enea/video_processor.py`
-2. `Execution/enea/generate_index_whisper.py`
-3. `Execution/enea/video_cleaner.py`
+2. `Execution/enea/video_cleaner.py` (cover solido + trim RMS)
+3. `Execution/enea/short_assets.py`
 4. `Execution/enea/clean_infographic.py`
-5. `Execution/enea/video_cleanup.py` (Archiviazione Asset)

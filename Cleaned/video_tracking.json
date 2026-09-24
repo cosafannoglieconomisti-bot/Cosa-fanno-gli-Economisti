@@ -23,10 +23,10 @@
                 "angle": "1",
                 "status": "Pulito",
                 "ig_reel_url": "Programmato (Reel) Buffer 6ab43d950316fca1a94df065 @ 2026-09-24 12:00 CEST",
-                "updated": "2026-09-24T14:59:45.675673"
+                "updated": "2026-09-24T15:00:28.610267"
             }
         ],
-        "last_updated": "2026-09-24T14:59:45.675683",
+        "last_updated": "2026-09-24T15:00:28.610277",
         "status": "Pulito",
         "title": "Ambiente o consenso?",
         "publish_schedule": {
@@ -34,7 +34,10 @@
             "instagram_post": "2026-09-24T10:00:00+02:00",
             "youtube_short": "2026-09-24T12:00:00+02:00",
             "instagram_reel": "2026-09-24T12:00:00+02:00"
-        }
+        },
+        "academic_title": "The Political Consequences of Green Policies: Evidence from Italy",
+        "workflow_step": "upload_completato",
+        "paper_path": "/Users/<USER>/Desktop/canale/Cleaned/Ambiente_o_consenso/The Political Consequences of Green Policies Evidence from Italy.pdf"
     },
     "Amiamo_le_tasse_Questione_culturale": {
         "youtube_id": "7cHt_oLI4_k",

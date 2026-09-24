@@ -74,6 +74,7 @@ def update_entry(project_name, key=None, value=None, full_entry=None):
             "instagram_url": "Da fare",
             "facebook_cover_status": "Sospeso",
             "playlist": "Da assegnare",
+            "shorts": [],
             "last_updated": now
         }
     
@@ -82,6 +83,10 @@ def update_entry(project_name, key=None, value=None, full_entry=None):
     elif key and value is not None:
         data[project_name][key] = value
         
+    # Backward-compatible: non rompere entry legacy senza campo shorts
+    if not isinstance(data[project_name].get("shorts"), list):
+        data[project_name]["shorts"] = []
+
     data[project_name]["last_updated"] = now
     
     # Rendi deterministico l'ordine alfabetico delle chiavi primarie

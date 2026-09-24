@@ -97,5 +97,77 @@ class PipelineJunctionTests(unittest.TestCase):
         self.assertEqual(missing, [], f"Chiavi mancanti in .env: {missing}")
 
 
+
+    def test_short_naming_convention(self):
+        """Convenzione short1 estensibile a N."""
+        import sys
+        sys.path.insert(0, str(EXECUTION / "enea"))
+        import short_assets as sa
+        self.assertEqual(sa.short_raw_name("Titolo_Test", 1), "Titolo_Test_short1_raw.mp4")
+        self.assertEqual(sa.short_cleaned_name("Titolo_Test", 1), "Titolo_Test_short1_cleaned.mp4")
+        self.assertEqual(sa.short_raw_name("Titolo_Test", 2), "Titolo_Test_short2_raw.mp4")
+        self.assertTrue(sa.is_short_raw_filename("Titolo_Test_short1_raw.mp4"))
+        self.assertFalse(sa.is_short_raw_filename("Titolo_Test_raw.mp4"))
+        self.assertEqual(sa.parse_short_index_from_filename("X_short3_raw.mp4"), 3)
+
+    def test_short_tracking_nested_schema(self):
+        """shorts[] nested sotto long-form, campi richiesti."""
+        entry = {
+            "youtube_id": "LONG123",
+            "youtube_url": "https://www.youtube.com/watch?v=LONG123",
+            "shorts": [
+                {
+                    "id": "",
+                    "youtube_url": "",
+                    "angle": "1",
+                    "status": "Da fare",
+                    "ig_reel_url": "Da fare",
+                }
+            ],
+        }
+        self.assertIn("shorts", entry)
+        self.assertIsInstance(entry["shorts"], list)
+        short = entry["shorts"][0]
+        for key in ("id", "youtube_url", "angle", "status", "ig_reel_url"):
+            self.assertIn(key, short)
+
+    def test_short_description_contains_long_link(self):
+        import sys
+        sys.path.insert(0, str(EXECUTION / "enea"))
+        import short_assets as sa
+        desc = sa.build_short_description("AbCdEfGhIjK")
+        self.assertIn("Video completo qui: https://youtu.be/AbCdEfGhIjK", desc)
+
+    def test_delogo_portrait_box(self):
+        import sys
+        sys.path.insert(0, str(EXECUTION / "enea"))
+        import short_assets as sa
+        x, y, w, h = sa.delogo_box_for_resolution(1080, 1920)
+        self.assertTrue(h < w or w <= 1080)
+        self.assertLess(x + w, 1080 + 1)
+        self.assertLess(y + h, 1920 + 1)
+        # landscape still returns a sensible box (solid-cover, not old 230x80 hardcode)
+        x2, y2, w2, h2 = sa.delogo_box_for_resolution(1920, 1080)
+        self.assertGreater(w2, 200)
+        self.assertGreater(h2, 15)
+        self.assertLess(x2 + w2, 1920 + 1)
+        self.assertLess(y2 + h2, 1080 + 1)
+
+    def test_produzione_short_output_name(self):
+        clean_title = "Esempio_Video"
+        self.assertEqual(f"{clean_title}_short1_raw.mp4", "Esempio_Video_short1_raw.mp4")
+
+
+
+    def test_format_tags_forbids_generic(self):
+        import sys
+        sys.path.insert(0, str(EXECUTION / "enea"))
+        import video_processor as vp
+        line, csv = vp.format_tags("#AreaB #Milano #CosaFannoGliEconomisti #APSR")
+        self.assertIn("#AreaB", line)
+        self.assertIn("#Milano", line)
+        self.assertNotIn("CosaFannoGliEconomisti", line)
+        self.assertNotIn("APSR", line)
+
 if __name__ == "__main__":
     unittest.main()

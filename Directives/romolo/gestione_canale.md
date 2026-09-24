@@ -110,3 +110,21 @@ Organizzare i video lunghi del canale in 8 playlist tematiche predefinite per ma
 3. `Execution/romolo/batch_update_shorts.py` (Update metadati via API)
 4. `Execution/romolo/create_playlists_batch.py` (Inizializzazione Playlist)
 5. `Execution/romolo/catalog_video.py` (Catalogazione nuovi video)
+
+
+## SOP: Upload YouTube Short (nuovo contenuto, non solo SEO)
+
+- Script generico: `Execution/enea/upload_short.py --folder [Titolo] --long-id [LONG_ID]`
+- Va eseguito **dopo** l'upload del long (serve `youtube_id` per il link in descrizione).
+- Descrizione obbligatoria: `Video completo qui: https://youtu.be/[LONG_ID]`
+- `./workflow shorts` resta il workflow **SEO-only** su Short già online (`batch_update_shorts.py`).
+
+## Registro pubblicazioni
+
+Fonte di verità: `Cleaned/video_tracking.json`.
+Per ogni video closeout completo (`status: Pulito`) assicurarsi di:
+- `title`, `academic_title`, `youtube_id` / `youtube_url`, playlist
+- `instagram_url`, `facebook_* = Sospeso`
+- `publish_schedule` (YT long, IG post, Short, Reel) se noti
+- `shorts[]` nested: `id`, `youtube_url`, `status: Pulito`, `ig_reel_url`, **senza** `local_path` dopo cleanup
+- `workflow_step: upload_completato`

@@ -1,4 +1,21 @@
 ---
+description: Distingue SEO Shorts legacy vs produzione Short NotebookLM
+---
+
+## Due percorsi distinti
+
+### A) Produzione Short NLM (nuovo contenuto, 1/paper default)
+Pipeline principale: `/produzione --with-short` → `/pulizia --short` → dentro `/upload` (dopo YT long).
+- Script: `notebooklm_orchestrator.py`, `short_assets.py`, `upload_short.py`, Buffer Reel via litter.catbox.
+- Descrizione: `Video completo qui: https://youtu.be/[LONG_ID]`.
+- Tracking: `shorts[]` **nested** sotto la riga long (mai top-level).
+
+### B) `/shorts` SEO-only (legacy)
+Ottimizza titoli/descrizioni di Short **già online** con titoli generici/data.
+- Script: `Execution/romolo/batch_update_shorts.py`.
+- Non genera né carica nuovi Short NLM.
+
+---
 description: Workflow /shorts per l'assegnazione automatica di titoli e descrizioni "hook"
 ---
 

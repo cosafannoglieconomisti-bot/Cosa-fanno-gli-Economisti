@@ -49,6 +49,17 @@ Per scaricare il VIDEO e l'INFOGRAFICA in modo affidabile, seguire la [SOP Downl
 
 Questa procedura utilizza lo script `Execution/enea/notebooklm_asset_downloader.py` e garantisce la massima qualità originale. 
 
+
+
+## SOP: NotebookLM Short (verticale, TEST 1/paper)
+
+1. CLI (preferita, `notebooklm-mcp-cli>=0.11.7`): `nlm create video <nb> --format short --language it -y` via `notebooklm_orchestrator.py --with-short`.
+2. Output raw: `{clean_title}_short1_raw.mp4` in `~/Downloads` (+ copia in `Cleaned/[Titolo]/` e `shorts/`).
+3. Fallback UI: se la CLI fallisce, genera Short verticale in NotebookLM Studio, scarica e rinomina esattamente `{clean_title}_short1_raw.mp4`.
+4. Pulizia: `./workflow pulizia --video {clean_title}_short1_raw.mp4` (delogo portrait-aware).
+5. Upload Short **solo dopo** che il long ha `youtube_id`, descrizione con `Video completo qui: https://youtu.be/[LONG_ID]`.
+6. Tracking nested sotto la riga long-form: `shorts: [{id, youtube_url, angle, status, ig_reel_url}]` — **non** creare voci top-level Short (conflitto GEMINI Part 12).
+
 > [!IMPORTANT]
 > **FINE WORKFLOW /PRODUZIONE**: Una volta che il video (`*_raw.mp4`) e l'infografica sono stati scaricati nella cartella `Downloads` dell'utente, il workflow `/produzione` è considerato **CONCLUSO**. Non procedere con la pulizia o l'archiviazione automatica in questa fase. Tutta la logica di post-processing (rimozione watermark, trimmaggio, ecc.) appartiene al workflow `/pulizia`.
 
@@ -138,3 +149,10 @@ Quando è richiesta la creazione di una miniatura per YouTube, utilizzare le seg
 1. **Scelta dell'URL**: Estrarre l'URL diretto `lh3.googleusercontent.com` con `shadow_dom` dall'overlay dell'infografica (indici card row 0).
 2. **Download Diretto**: Intercettare il download nativo bypassando sandboxes tramite tasti CMD+S nel file macro.
 3. **Rimozione Tight Mask**: Eseguire il clean spec con un offset ridotto (W-130, H-45) per cancellare solo il pixel badge watermark.
+
+## SOP: Pulizia video (default approvati post-Ambiente_o_consenso)
+
+- **Watermark**: cover/fill solido, colore campionato dallo sfondo accanto al badge. Vietato delogo soft (macchie).
+- **Trim outro**: ~3.5–4s guidato da RMS audio; tenere la voce di chiusura; non usare 2.5s aggressivo.
+- Implementazione: `video_cleaner.py` + `short_assets.delogo_box_for_resolution` (box per drawbox fill).
+- Cleanup finale post-upload: `video_cleanup.py` cancella anche `shorts/**/*.mp4` e `*.pdf`.

@@ -173,3 +173,17 @@ La riga 1 della caption deve essere estratta dal campo `description` del metadat
 
 ## 📋 File Python Utilizzati (ordine di esecuzione)
 1. `Execution/marcello/buffer_post_single.py` (unico script autorizzato per posting su Buffer)
+
+## SOP: Instagram Reel (Buffer)
+
+Ordine nel closeout `/upload`:
+1. YT long ok → push GitHub assets → Buffer IG post
+2. YT Short upload
+3. Host `*_short*_cleaned.mp4` su **litter.catbox.moe** (HTTPS `video/mp4` diretto; `files.catbox.moe` ha fallito una volta)
+4. `buffer_post_single.py --platform instagram --content-type reel --video-url <litter-url>`
+5. **NON** usare `youtube.com/shorts` come media URL (Buffer rifiuta)
+6. Tag: solo quelli specifici da `video_metadata.md` (vietati generici canale/journal)
+7. Facebook resta sospeso
+8. Tracking: `shorts[].ig_reel_url` nested
+
+Helper: `upload_short_mp4_public()` / `--upload-local PATH` in `buffer_post_single.py`.

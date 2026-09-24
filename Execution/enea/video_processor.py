@@ -38,17 +38,39 @@ def extract_doi_url(pdf_text):
     return f"https://doi.org/{doi}"
 
 
+# Hashtag generici vietati (canale / journal name). Solo tag di contenuto (AreaB, Milano, Lega…).
+FORBIDDEN_HASHTAGS = {
+    "cosafannoglieconomisti",
+    "apsr",
+    "ricercaaccademica",
+    "americaneconomicreview",
+    "americanpoliticalsciencereview",
+    "quarterlyjournalofeconomics",
+    "journalofpoliticaleconomy",
+    "econometrica",
+    "reviewofeconomicstudies",
+    "economia",
+    "ricerca",
+}
+
+
 def format_tags(raw_tags):
-    base_tags = ["#CosaFannoGliEconomisti", "#RicercaAccademica"]
+    """Solo tag specifici di contenuto. Vietati #CosaFannoGliEconomisti, #APSR, journal-as-hashtag."""
     extra_tags = []
     for token in (raw_tags or "").split():
         clean = token.strip().replace("#", "")
-        if clean:
-            extra_tags.append(f"#{clean}")
+        if not clean:
+            continue
+        key = clean.lower()
+        if key in FORBIDDEN_HASHTAGS:
+            continue
+        if len(key) > 28 and not any(ch.isdigit() for ch in key):
+            continue  # probabilmente journal name
+        extra_tags.append(f"#{clean}")
 
     deduped = []
     seen = set()
-    for tag in base_tags + extra_tags:
+    for tag in extra_tags:
         key = tag.lower()
         if key in seen:
             continue
@@ -187,6 +209,130 @@ def run_command(cmd):
         print(f"❌ Errore code {result.returncode}: {result.stderr}")
         return False, result.stderr
     return True, result.stdout
+
+
+def process_short(video_filename=None, angle=None):
+    """Pulizia short verticale: trim/watermark portrait-aware + Whisper IT/EN/ES/FR/DE."""
+    import short_assets as sa
+
+    if not os.path.exists(PIPELINE_PATH):
+        print("❌ Errore: Nessuna pipeline attiva trovata in Temp/enea/.")
+        sys.exit(1)
+
+    with open(PIPELINE_PATH, "r", encoding="utf-8") as f:
+        pipeline = json.load(f)
+
+    title = pipeline.get("title", "Titolo Ignoto")
+    clean_title = pipeline.get("clean_title") or re.sub(r"[^a-zA-Z0-9]+", "_", title).strip("_")
+    target_dir = pipeline.get("target_dir") or os.path.join(CLEANED_BASE, clean_title)
+    os.makedirs(target_dir, exist_ok=True)
+
+    if video_filename:
+        input_video = os.path.join(DOWNLOADS_DIR, video_filename) if not os.path.isabs(video_filename) else video_filename
+        if not os.path.exists(input_video):
+            # forse già in Cleaned
+            alt = os.path.join(target_dir, os.path.basename(video_filename))
+            input_video = alt if os.path.exists(alt) else input_video
+    else:
+        found = sa.find_short_raw_in_downloads(clean_title, angle)
+        if not found:
+            print("❌ Nessun *_shortN_raw.mp4 trovato in Downloads.")
+            print(sa.acquire_short_fallback_message(clean_title, angle or 1))
+            sys.exit(1)
+        input_video = str(found)
+
+    if not os.path.exists(input_video):
+        print(f"❌ Short raw non trovato: {input_video}")
+        sys.exit(1)
+
+    idx = angle or sa.parse_short_index_from_filename(os.path.basename(input_video))
+    print(f"✅ Short da processare (#{idx}): {input_video}")
+
+    cleaned_name = sa.short_cleaned_name(clean_title, idx)
+    clean_args = [PYTHON_EXEC, VIDEO_CLEANER, input_video, clean_title, "--short"]
+    success, res = run_command(clean_args)
+    if not success:
+        print(f"❌ Fallimento Video Cleaner short: {res}")
+        sys.exit(1)
+
+    cleaned_video = os.path.join(target_dir, cleaned_name)
+    if not os.path.exists(cleaned_video):
+        # video_cleaner potrebbe aver usato naming diverso
+        candidates = sorted(Path(target_dir).glob(f"{clean_title}_short*_cleaned.mp4"))
+        if candidates:
+            cleaned_video = str(candidates[-1])
+        else:
+            print(f"❌ Video short pulito non trovato: {cleaned_name}")
+            sys.exit(1)
+
+    dirs = sa.ensure_shorts_dirs(Path(target_dir))
+    raw_dest = dirs["shorts"] / sa.short_raw_name(clean_title, idx)
+    try:
+        if os.path.abspath(input_video) != os.path.abspath(raw_dest):
+            shutil.move(input_video, raw_dest)
+        print(f"📦 Short RAW archiviato: {raw_dest}")
+    except Exception as e:
+        print(f"⚠️ Archiviazione short RAW: {e}")
+
+    # Copia cleaned anche in shorts/
+    shorts_cleaned = dirs["shorts"] / os.path.basename(cleaned_video)
+    try:
+        shutil.copy2(cleaned_video, shorts_cleaned)
+    except Exception:
+        pass
+
+    intl_dir = str(dirs["international"])
+    index_path = os.path.join(intl_dir, f"short{idx}_index_raw.txt")
+    srt_path = os.path.join(intl_dir, f"short{idx}_subtitles_it.srt")
+    vtt_path = os.path.join(intl_dir, f"short{idx}_subtitles_it.vtt")
+
+    print("🎙️ Whisper short (indice + SRT + VTT)...")
+    for script, outp in [
+        (WHISPER_SCRIPT, index_path),
+        (SRT_SCRIPT, srt_path),
+        (VTT_SCRIPT, vtt_path),
+    ]:
+        success, res = run_command([PYTHON_EXEC, script, cleaned_video, outp])
+        if not success:
+            print(f"❌ Fallimento asset short: {res}")
+            sys.exit(1)
+
+    # Metadati short locali (hook + placeholder long link)
+    meta_path = os.path.join(intl_dir, f"short{idx}_metadata.md")
+    with open(meta_path, "w", encoding="utf-8") as handle:
+        handle.write(f"# Metadati Short #{idx} - {title}\n\n")
+        handle.write("## Descrizione YouTube Short\n")
+        handle.write(f"{title} — in 60 secondi.\n\n")
+        handle.write("Video completo qui: https://youtu.be/[LONG_ID]\n\n")
+        handle.write("#shorts\n")  # tag contenuto specifici vanno in metadata long; no generici canale/journal
+    print(f"📄 Metadati short: {meta_path}")
+
+    print("🌍 Traduzione SRT short (EN, ES, FR, DE)...")
+    langs = {"en": "English", "es": "Spanish", "fr": "French", "de": "German"}
+    if os.path.exists(srt_path):
+        for code, name in langs.items():
+            lang_dir = os.path.join(intl_dir, code)
+            os.makedirs(lang_dir, exist_ok=True)
+            out_srt = os.path.join(lang_dir, f"short{idx}_subtitles_{code}.srt")
+            success, res = run_command([PYTHON_EXEC, TRANSLATE_SRT, srt_path, out_srt, code])
+            if not success:
+                print(f"❌ Traduzione short {name} fallita: {res}")
+                sys.exit(1)
+            time.sleep(10)
+
+    try:
+        sa.upsert_short_tracking(
+            clean_title,
+            angle=idx,
+            status="Cleaned",
+            local_path=cleaned_video,
+        )
+    except Exception as exc:
+        print(f"⚠️ Tracking short: {exc}")
+
+    print(f"✅ Short #{idx} pronto: {cleaned_video}")
+    return cleaned_video
+
 
 def process(video_filename=None):
     if not os.path.exists(PIPELINE_PATH):
@@ -475,5 +621,15 @@ def process(video_filename=None):
     run_command([PYTHON_EXEC, TRACKING_SCRIPT, clean_title])
 
 if __name__ == "__main__":
-    v_file = sys.argv[1] if len(sys.argv) > 1 else None
-    process(v_file)
+    import argparse
+    parser = argparse.ArgumentParser(description="Pulizia video long o short")
+    parser.add_argument("video", nargs="?", help="Nome file in Downloads o path")
+    parser.add_argument("--short", action="store_true", help="Forza path short")
+    parser.add_argument("--angle", default=None, help="Indice short (default: da filename)")
+    args = parser.parse_args()
+    v_file = args.video
+    is_short = args.short or (v_file and ("_short" in os.path.basename(v_file).lower()))
+    if is_short:
+        process_short(v_file, angle=args.angle)
+    else:
+        process(v_file)

@@ -1,29 +1,25 @@
 ---
-description: Programma un post su Instagram via Buffer API
+description: Buffer Instagram — post infografica e Reel (FB sospeso)
 ---
 
-Questo workflow gestisce la programmazione di post su Instagram utilizzando l'infografica del paper come asset visivo. Dal 2026-08-31 Instagram e' l'unico social Buffer nel closeout di `/upload`; Facebook e' sospeso.
+Instagram è l’unico social Buffer nel closeout `/upload`. Facebook sospeso.
 
-1.  **Identificazione Contenuto**: Lo script seleziona automaticamente l'ultimo video pubblicato su YouTube che non è ancora stato programmato su Instagram (escludendo gli Shorts).
-2.  **Asset Discovery**: Il sistema cerca un'infografica (`.png`) nella cartella `Cleaned/` corrispondente.
-3.  **Generazione Didascalia**: La didascalia viene formattata seguendo la SOP (Header Title Case, Divider, Descrizione "Lo studio...", Link, Tag).
-4.  **Programmazione**: Il post viene inviato a Buffer per la pubblicazione (default domani ore 10:00).
-5.  **Aggiornamento Registro**: Lo script aggiorna automaticamente `instagram_url` in `Cleaned/video_tracking.json` con lo stato "Post Programmato (Buffer)". In caso di fallimento, eseguire manualmente via `tracking_manager.py`.
+## Post (infografica)
 
-### Esecuzione
+1. **Prima**: asset pubblici su `origin/main` (`Cleaned/{folder}/*.png` via push Buffer assets).
+2. `buffer_post_single.py --platform instagram --folder-name X`
+3. Caption SOP Marcello; tag **solo specifici** dal metadata.
+4. Tracking: `instagram_url`.
 
-// turbo
-1. Esegui il comando di programmazione (Instagram):
-   ```bash
-   /Users/<USER>/Desktop/canale/.venv/bin/python3 /Users/<USER>/Desktop/canale/Execution/marcello/buffer_post_single.py --platform instagram --hour 10
-   ```
+## Reel
 
-2. Verifica l'anteprima (Dry-Run opzionale):
-   ```bash
-   /Users/<USER>/Desktop/canale/.venv/bin/python3 /Users/<USER>/Desktop/canale/Execution/marcello/buffer_post_single.py --platform instagram --dry-run
-   ```
+1. Serve short cleaned locale + YT long già pubblicato.
+2. Hosta mp4 su **litter.catbox.moe** (HTTPS diretto). **Non** passare `youtube.com/shorts` come media.
+3. `buffer_post_single.py --platform instagram --content-type reel --folder-name X --video-url https://litter.catbox.moe/...`  
+   oppure `--upload-local path/to/short_cleaned.mp4`
+4. Tracking nested: `shorts[].ig_reel_url`.
 
-### SOP Regole Mandatorie
-- **Titolo (Header)**: Sempre in **Title Case** (es: "Narcos e Petrolio", non "NARCOS E PETROLIO").
-- **Asset**: Deve essere un'immagine diretta via URL GitHub Raw (gestito automaticamente dallo script).
-- **History**: Lo script registra il video in `instagram_history.json` per evitare duplicati.
+```bash
+./workflow instagram --folder-name Titolo --hour 10
+./workflow instagram --folder-name Titolo --content-type reel --video-url URL
+```

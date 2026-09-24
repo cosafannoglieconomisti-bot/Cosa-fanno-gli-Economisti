@@ -1083,7 +1083,11 @@ def workflow_produzione(args):
     if not folder:
         folder = choose_cleaned_folder(produzione_ready)
     setup_pipeline_for_cleaned_folder(folder)
-    result = run_cmd([PYTHON, ROOT / "Execution/enea/notebooklm_orchestrator.py"], check=False)
+    cmd = [PYTHON, ROOT / "Execution/enea/notebooklm_orchestrator.py"]
+    if getattr(args, "with_short", False) or getattr(args, "short", False):
+        cmd.append("--with-short")
+        cmd.extend(["--short-count", str(getattr(args, "short_count", 1) or 1)])
+    result = run_cmd(cmd, check=False)
     print((result.stdout or result.stderr).strip())
     if result.returncode != 0:
         raise WorkflowError(result.stderr or result.stdout or "Produzione fallita.")
@@ -1127,15 +1131,26 @@ def workflow_pulizia(args):
     if not video:
         recent = []
         now = time.time()
-        for path in DOWNLOADS.glob("*_raw.mp4"):
+        pattern = "*_short*_raw.mp4" if getattr(args, "short", False) else "*_raw.mp4"
+        for path in DOWNLOADS.glob(pattern):
             if now - path.stat().st_mtime < 86400:
                 recent.append(path.name)
         recent.sort(key=lambda name: (DOWNLOADS / name).stat().st_mtime, reverse=True)
         video = prompt_choice(recent, "Seleziona video raw")
-    result = run_cmd([PYTHON, ROOT / "Execution/enea/video_processor.py", video], check=False)
+    cmd = [PYTHON, ROOT / "Execution/enea/video_processor.py", video]
+    if getattr(args, "short", False) or "_short" in str(video).lower():
+        cmd.append("--short")
+    result = run_cmd(cmd, check=False)
     print((result.stdout or result.stderr).strip())
     if result.returncode != 0:
         raise WorkflowError(result.stderr or result.stdout or "Pulizia fallita.")
+    # Opzionale: processa anche short1 se presente in Downloads dopo il long
+    if getattr(args, "also_short", False):
+        short_cmd = [PYTHON, ROOT / "Execution/enea/video_processor.py", "--short"]
+        short_res = run_cmd(short_cmd, check=False)
+        print((short_res.stdout or short_res.stderr).strip())
+        if short_res.returncode != 0:
+            raise WorkflowError(short_res.stderr or short_res.stdout or "Pulizia short fallita.")
     return 0
 
 
@@ -1148,6 +1163,69 @@ def ready_upload_folders():
         if any(name.endswith("_cleaned.mp4") for name in files) and "video_metadata.md" in files:
             folders.append(path.name)
     return folders
+
+
+
+def push_buffer_assets(folder: str) -> None:
+    """Commit+push solo Cleaned/{folder} (no mp4, gitignore) + video_tracking.json.
+
+    Necessario PRIMA del post Buffer IG: raw.githubusercontent deve servire PNG/md/srt.
+    No force-push. Non tocca git config. Non stagea il resto del working tree.
+    """
+    folder_path = CLEANED_DIR / folder
+    if not folder_path.is_dir():
+        raise WorkflowError(f"Cartella asset Buffer assente: {folder_path}")
+
+    paths = [f"Cleaned/{folder}", "Cleaned/video_tracking.json"]
+    # Verifica che ci sia qualcosa di tracciabile (png/md/…)
+    add = run_cmd(["git", "add", "--", *paths], check=False)
+    print((add.stdout or add.stderr or "").strip())
+    staged = run_cmd(["git", "diff", "--cached", "--name-only", "--", *paths], check=False)
+    staged_files = [line.strip() for line in (staged.stdout or "").splitlines() if line.strip()]
+    if not staged_files:
+        log(f"Buffer assets già allineati su git per {folder} (niente da commitare).")
+        return
+    log(f"Commit Buffer assets ({len(staged_files)} file): {folder}")
+    commit = run_cmd(
+        ["git", "commit", "-m", f"Buffer assets: {folder}", "--", *paths],
+        check=False,
+    )
+    print((commit.stdout or commit.stderr or "").strip())
+    combined = ((commit.stdout or "") + (commit.stderr or "")).lower()
+    if commit.returncode != 0 and "nothing to commit" not in combined and "no changes" not in combined:
+        raise WorkflowError(commit.stderr or commit.stdout or "Commit Buffer assets fallito.")
+    push = run_cmd(["git", "push", "origin", "HEAD:main"], check=False)
+    print((push.stdout or push.stderr or "").strip())
+    if push.returncode != 0:
+        raise WorkflowError(push.stderr or push.stdout or "Push Buffer assets fallito (no force).")
+    log(f"Push Buffer assets ok: Cleaned/{folder} su origin/main")
+
+
+def host_short_mp4_public(mp4_path: Path) -> str:
+    """Hosta lo short cleaned su litter.catbox.moe (HTTPS video/mp4 diretto)."""
+    import importlib.util
+
+    spec = importlib.util.spec_from_file_location(
+        "buffer_post_single",
+        ROOT / "Execution/marcello/buffer_post_single.py",
+    )
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod.upload_short_mp4_public(str(mp4_path))
+
+
+def run_video_cleanup(folder: str) -> None:
+    """Cleanup mp4/pdf (+shorts) e tracking Pulito — sempre dopo YT long riuscito."""
+    result = run_cmd(
+        [PYTHON, ROOT / "Execution/enea/video_cleanup.py", folder],
+        check=False,
+    )
+    print((result.stdout or result.stderr).strip())
+    if result.returncode != 0:
+        log(f"⚠️ video_cleanup fallito per {folder}: verificare mp4/pdf residui.")
+    else:
+        log(f"Cleanup completato → tracking Pulito: {folder}")
+
 
 
 def mark_facebook_suspended(folder: str) -> None:
@@ -1163,15 +1241,27 @@ def mark_facebook_suspended(folder: str) -> None:
 
 
 def workflow_upload(args):
+    """Ordine deterministico post-Ambiente_o_consenso:
+    a) YT long
+    b) push Buffer assets (PNG/md/srt — no mp4) su origin/main
+    c) Buffer IG infografica
+    d) YT Short(s) + LONG_ID in descrizione
+    e) host short mp4 pubblico (litter.catbox) → Buffer Reel
+    f) video_cleanup → tracking Pulito
+    Facebook sospeso. Cleanup solo se YT long è riuscito (anche se IG fallisce).
+    """
     folder = args.folder or prompt_choice(ready_upload_folders(), "Seleziona video da caricare")
     folder_path = CLEANED_DIR / folder
     meta_path = folder_path / "video_metadata.md"
     thumb_path = folder_path / "copertina.jpg"
     if not thumb_path.exists():
         thumb_path = folder_path / "copertina.png"
-    videos = sorted(folder_path.glob("*_cleaned.mp4"))
+    videos = sorted(
+        p for p in folder_path.glob("*_cleaned.mp4")
+        if "_short" not in p.name.lower()
+    )
     if not videos:
-        raise WorkflowError(f"Nessun video pulito in {folder_path}")
+        raise WorkflowError(f"Nessun video long cleaned in {folder_path}")
     title = folder.replace("_", " ")
     first_line = meta_path.read_text(encoding="utf-8").splitlines()[0]
     if "Metadati Video - " in first_line:
@@ -1191,6 +1281,8 @@ def workflow_upload(args):
             or auth_result.stdout
             or "Autenticazione YouTube fallita. Esegui `./workflow youtube-auth`."
         )
+
+    # --- a) YT long ---
     cmd = [
         PYTHON,
         ROOT / "Execution/enea/youtube_uploader.py",
@@ -1205,22 +1297,108 @@ def workflow_upload(args):
     result = run_cmd(cmd, cwd=ROOT / "Execution/credentials", check=False)
     print((result.stdout or result.stderr).strip())
     if result.returncode != 0:
-        raise WorkflowError(result.stderr or result.stdout or "Upload fallito.")
-    print("Facebook sospeso: salto Buffer Facebook. Programmo solo Instagram.")
-    mark_facebook_suspended(folder)
-    ig_cmd = [
-        PYTHON,
-        ROOT / "Execution/marcello/buffer_post_single.py",
-        "--platform",
-        "instagram",
-        "--folder-name",
-        folder,
-    ]
-    ig_result = run_cmd(ig_cmd, check=False)
-    print((ig_result.stdout or ig_result.stderr).strip())
-    if ig_result.returncode != 0:
-        raise WorkflowError(ig_result.stderr or ig_result.stdout or "Instagram Buffer fallito.")
+        raise WorkflowError(result.stderr or result.stdout or "Upload YouTube long fallito.")
+
+    yt_ok = True
+    upload_error = None
+    try:
+        print("Facebook sospeso: salto Buffer Facebook. Programmo solo Instagram (infografica).")
+        mark_facebook_suspended(folder)
+
+        # --- b) push Buffer assets PRIMA di IG (raw.githubusercontent) ---
+        try:
+            push_buffer_assets(folder)
+        except WorkflowError as exc:
+            log(f"⚠️ Push Buffer assets fallito: {exc}. Proseguo (IG potrebbe fallire senza PNG pubblici).")
+
+        # --- c) Buffer IG infografica (best-effort se fallisce: short/reel/cleanup comunque) ---
+        ig_cmd = [
+            PYTHON,
+            ROOT / "Execution/marcello/buffer_post_single.py",
+            "--platform",
+            "instagram",
+            "--folder-name",
+            folder,
+        ]
+        ig_result = run_cmd(ig_cmd, check=False)
+        print((ig_result.stdout or ig_result.stderr).strip())
+        if ig_result.returncode != 0:
+            log("⚠️ Instagram Buffer (infografica) fallito — continuo Short/Reel/cleanup (YT long ok).")
+
+        # --- d) YT Short(s) ---
+        skip_short = getattr(args, "skip_short", False)
+        short_videos = sorted(folder_path.glob("*_short*_cleaned.mp4"))
+        if short_videos and not skip_short:
+            tracking = {}
+            if TRACKING_PATH.exists():
+                tracking = json.loads(TRACKING_PATH.read_text(encoding="utf-8"))
+            long_id = tracking.get(folder, {}).get("youtube_id") or ""
+            if not long_id:
+                raise WorkflowError(
+                    "Short cleaned presente ma youtube_id long-form assente: "
+                    "impossibile costruire 'Video completo qui: https://youtu.be/[LONG_ID]'."
+                )
+            for short_path in short_videos:
+                short_cmd = [
+                    PYTHON,
+                    ROOT / "Execution/enea/upload_short.py",
+                    "--folder", folder,
+                    "--video", str(short_path),
+                    "--long-id", long_id,
+                ]
+                short_res = run_cmd(short_cmd, check=False)
+                print((short_res.stdout or short_res.stderr).strip())
+                if short_res.returncode != 0:
+                    raise WorkflowError(short_res.stderr or short_res.stdout or "Upload Short fallito.")
+
+            # Aggiorna placeholder LONG_ID in short metadata se presente
+            for meta in (folder_path / "shorts" / "international").glob("short*_metadata.md"):
+                try:
+                    content = meta.read_text(encoding="utf-8")
+                    if "[LONG_ID]" in content:
+                        meta.write_text(content.replace("[LONG_ID]", long_id), encoding="utf-8")
+                        log(f"Aggiornato placeholder LONG_ID in {meta.name}")
+                except Exception as exc:
+                    log(f"⚠️ Update short metadata: {exc}")
+
+            # --- e) host mp4 pubblico → Buffer Reel ---
+            for short_path in short_videos:
+                video_url = None
+                try:
+                    video_url = host_short_mp4_public(short_path)
+                except Exception as exc:
+                    log(f"⚠️ Host litter.catbox fallito ({exc}): Reel saltato o dry-run.")
+                reel_cmd = [
+                    PYTHON,
+                    ROOT / "Execution/marcello/buffer_post_single.py",
+                    "--platform", "instagram",
+                    "--content-type", "reel",
+                    "--folder-name", folder,
+                ]
+                if video_url:
+                    reel_cmd.extend(["--video-url", video_url])
+                if getattr(args, "reel_dry_run", False) or not video_url:
+                    if not video_url:
+                        log("⚠️ Nessun URL pubblico Reel — dry-run forzato.")
+                    reel_cmd.append("--dry-run")
+                reel_res = run_cmd(reel_cmd, check=False)
+                print((reel_res.stdout or reel_res.stderr).strip())
+                if reel_res.returncode != 0:
+                    log("⚠️ Buffer Reel fallito o incerto — verifica manualmente. Long+Short YT + IG post ok.")
+        elif not skip_short:
+            log("Nessun *_short*_cleaned.mp4: salto upload Short/Reel.")
+    except WorkflowError as exc:
+        upload_error = exc
+        log(f"Errore post-YT (cleanup verrà comunque eseguito): {exc}")
+    finally:
+        # --- f) cleanup SEMPRE dopo YT long riuscito ---
+        if yt_ok:
+            run_video_cleanup(folder)
+
+    if upload_error:
+        raise upload_error
     return 0
+
 
 
 def workflow_youtube_auth(args):
@@ -1247,6 +1425,10 @@ def workflow_instagram(args):
         cmd.extend(["--folder-name", args.folder_name])
     if args.hour is not None:
         cmd.extend(["--hour", str(args.hour)])
+    if getattr(args, "content_type", None):
+        cmd.extend(["--content-type", args.content_type])
+    if getattr(args, "video_url", None):
+        cmd.extend(["--video-url", args.video_url])
     if args.dry_run:
         cmd.append("--dry-run")
     result = run_cmd(cmd, check=False)
@@ -1341,12 +1523,18 @@ def build_parser():
 
     produzione = subparsers.add_parser("produzione")
     produzione.add_argument("--folder")
+    produzione.add_argument("--with-short", "--short", dest="with_short", action="store_true",
+                            help="Genera anche NotebookLM Short (format short, TEST: 1)")
+    produzione.add_argument("--short-count", type=int, default=1)
 
     infografica = subparsers.add_parser("infografica")
     infografica.add_argument("--input", help="Percorso infografica raw (default: più recente in Downloads)")
 
     pulizia = subparsers.add_parser("pulizia")
     pulizia.add_argument("--video")
+    pulizia.add_argument("--short", action="store_true", help="Processa short verticale")
+    pulizia.add_argument("--also-short", action="store_true",
+                         help="Dopo il long, processa anche short1 se presente in Downloads")
 
     youtube_auth = subparsers.add_parser("youtube-auth")
     youtube_auth.add_argument("--force", action="store_true")
@@ -1355,12 +1543,18 @@ def build_parser():
     upload.add_argument("--folder")
     upload.add_argument("--schedule")
     upload.add_argument("--force-auth", action="store_true")
+    upload.add_argument("--skip-short", action="store_true",
+                        help="Non caricare Short/Reel anche se *_short*_cleaned.mp4 esiste")
+    upload.add_argument("--reel-dry-run", action="store_true",
+                        help="Buffer Reel in dry-run (YouTube Short upload comunque reale)")
 
     instagram = subparsers.add_parser("instagram")
     instagram.add_argument("--video-id")
     instagram.add_argument("--folder-name")
     instagram.add_argument("--hour", type=int)
     instagram.add_argument("--dry-run", action="store_true")
+    instagram.add_argument("--content-type", choices=["post", "reel"], default="post")
+    instagram.add_argument("--video-url", help="URL HTTPS diretto video/mp4 Reel (litter.catbox; NON youtube shorts)")
 
     playlist = subparsers.add_parser("playlist")
     playlist.add_argument("--folder")

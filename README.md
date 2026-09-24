@@ -46,6 +46,14 @@ I workflow principali del bot Telegram sono ora richiamabili anche direttamente 
 
 Il runner generale vive in `Execution/workflows/general_workflows.py` e copre anche `backup`, `gmail`, `report`, `articoli`, `copertina`, `playlist` e `competitor`.
 
+### NotebookLM Short + Instagram Reel (TEST: 1 short/paper)
+- Richiede `notebooklm-mcp-cli>=0.11.7` (`nlm create video --format short`).
+- Produzione: `./workflow produzione --folder … --with-short` → `{title}_short1_raw.mp4`.
+- Pulizia: `./workflow pulizia --video {title}_short1_raw.mp4` → `{title}_short1_cleaned.mp4` + `shorts/international/`.
+- Upload: dopo il long YouTube, `./workflow upload --folder …` carica lo Short (link al long) e tenta Reel Buffer via URL YouTube Short (non raw GitHub mp4).
+- Tracking nested: `Cleaned/video_tracking.json` → `shorts: [{id, youtube_url, angle, status, ig_reel_url}]` sotto la riga long-form.
+- `./workflow shorts` resta **solo SEO** (`batch_update_shorts`), non genera asset.
+
 ### Regola OAuth YouTube
 - Il token autorevole per YouTube upload e' `Execution/credentials/token.pickle`.
 - Prima di `/upload`, eseguire sempre il preflight `./workflow youtube-auth`.

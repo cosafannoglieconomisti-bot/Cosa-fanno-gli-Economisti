@@ -17,11 +17,18 @@ Rego SOP: il campo "Lo studio\"...\"" nel video_metadata.md DEVE contenere
 il titolo ACCADEMICO REALE del paper, non il titolo del video.
 
 USAGE:
-  python3 buffer_post_single.py --platform instagram   # default dal 2026-08-31
+  python3 buffer_post_single.py --platform instagram   # default: infografica
+  python3 buffer_post_single.py --platform instagram --content-type reel --folder-name X
   python3 buffer_post_single.py --dry-run
   python3 buffer_post_single.py --video-id XYZ
   python3 buffer_post_single.py --hour 10
   python3 buffer_post_single.py --platform facebook --force-facebook  # solo deroga esplicita
+
+REEL: i .mp4 sono esclusi da GitHub. Buffer rifiuta youtube.com/shorts come media.
+Hosta il file locale su litter.catbox.moe (HTTPS video/mp4 diretto) e passa --video-url.
+Helper: upload_short_mp4_public() / --upload-local PATH.
+Tag: usa SOLO quelli specifici da metadata (no generici di canale/journal).
+GraphQL reel e' best-effort / dry-run friendly.
 """
 from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[2]
@@ -113,6 +120,141 @@ def find_infographic_asset(folder_path: str) -> str | None:
         if f.endswith(".png") and "thumb" not in f.lower() and "cover" not in f.lower() and "copertina" not in f.lower():
             return f
     return None
+
+
+
+# Tag generici vietati in caption Reel/post (policy contenuti-specifici).
+FORBIDDEN_HASHTAGS = {
+    "cosafannoglieconomisti",
+    "apsr",
+    "ricercaaccademica",
+    "americaneconomicreview",
+    "quarterlyjournalofeconomics",
+    "journalofpoliticaleconomy",
+    "econometrica",
+    "reviewofeconomicstudies",
+}
+
+
+def filter_content_tags(tags: str) -> str:
+    """Tieni solo hashtag specifici; rimuovi canale/journal generici."""
+    kept = []
+    seen = set()
+    for token in (tags or "").split():
+        raw = token.strip()
+        if not raw:
+            continue
+        if not raw.startswith("#"):
+            raw = f"#{raw}"
+        key = raw.lstrip("#").lower()
+        if key in FORBIDDEN_HASHTAGS or key in seen:
+            continue
+        # journal-name-as-hashtag grezzo: stringhe lunghe senza cifre spesso sono journal
+        if len(key) > 28 and not any(ch.isdigit() for ch in key):
+            continue
+        seen.add(key)
+        kept.append(raw)
+    return " ".join(kept)
+
+
+def upload_short_mp4_public(local_path: str, expire: str = "72h") -> str:
+    """Carica un mp4 locale su litter.catbox.moe e restituisce URL HTTPS diretto.
+
+    Preferire litter.catbox.moe (funziona con Buffer). files.catbox.moe ha fallito in test.
+    NON usare youtube.com/shorts come media URL: Buffer lo rifiuta.
+    """
+    path = Path(local_path)
+    if not path.exists():
+        raise FileNotFoundError(f"MP4 assente per host pubblico: {local_path}")
+    if expire not in {"1h", "12h", "24h", "72h"}:
+        expire = "72h"
+    print(f"☁️ Upload litter.catbox ({expire}): {path.name} ({path.stat().st_size // (1024*1024)} MB)...")
+    with open(path, "rb") as handle:
+        response = requests.post(
+            "https://litterbox.catbox.moe/resources/internals/api.php",
+            data={"reqtype": "fileupload", "time": expire},
+            files={"fileToUpload": (path.name, handle, "video/mp4")},
+            timeout=600,
+        )
+    response.raise_for_status()
+    url = (response.text or "").strip()
+    if not url.startswith("https://"):
+        raise RuntimeError(f"Upload litter.catbox fallito: {url[:200]}")
+    print(f"✅ URL pubblico Reel: {url}")
+    return url
+
+
+def find_local_short_mp4(folder_path: str, angle: str = "1") -> str | None:
+    """Trova *_short*_cleaned.mp4 nella cartella progetto (root o shorts/)."""
+    folder = Path(folder_path)
+    if not folder.is_dir():
+        return None
+    patterns = [
+        f"*short{angle}_cleaned.mp4",
+        f"*short{angle}*_cleaned.mp4",
+        "*_short*_cleaned.mp4",
+    ]
+    for base in (folder, folder / "shorts"):
+        if not base.is_dir():
+            continue
+        for pattern in patterns:
+            matches = sorted(base.glob(pattern))
+            if matches:
+                return str(matches[0])
+    return None
+
+
+def find_reel_video_url(
+    folder_name: str,
+    tracking: dict | None = None,
+    *,
+    local_mp4: str | None = None,
+    prefer_host: bool = True,
+) -> str | None:
+    """URL pubblico Reel: preferisci HTTPS diretto (litter.catbox), NON youtube shorts page.
+
+    Ordine:
+      1) local_mp4 / file locale → upload litter.catbox
+      2) tracking shorts[].public_mp4_url se già hostato
+      3) None (chiamante deve passare --video-url)
+    """
+    if prefer_host and local_mp4 and Path(local_mp4).exists():
+        try:
+            return upload_short_mp4_public(local_mp4)
+        except Exception as exc:
+            print(f"⚠️ Host litter.catbox fallito: {exc}")
+
+    tracking = tracking or {}
+    entry = tracking.get(folder_name, {}) if folder_name else {}
+    shorts = entry.get("shorts") if isinstance(entry.get("shorts"), list) else []
+    for item in shorts:
+        if not isinstance(item, dict):
+            continue
+        hosted = item.get("public_mp4_url") or ""
+        if hosted.startswith("https://") and "youtube.com" not in hosted:
+            return hosted
+        local = item.get("local_path") or ""
+        if prefer_host and local and Path(local).exists():
+            try:
+                return upload_short_mp4_public(local)
+            except Exception as exc:
+                print(f"⚠️ Host litter.catbox (tracking path) fallito: {exc}")
+    # NON fare fallback a youtube.com/shorts — Buffer lo rifiuta come media video.
+    return None
+
+
+def build_reel_caption(meta: dict, long_video_id: str, short_url: str = "") -> str:
+    description = meta.get("description", "")
+    hook = (description.split(".")[0].strip() + ".") if description else "Il paper in 60 secondi."
+    parts = [hook, ""]
+    if long_video_id:
+        parts.append(f"Video completo: https://youtu.be/{long_video_id}")
+        parts.append("")
+    # short_url qui è solo link editoriale YT se passato; non usare come media Buffer
+    tags = filter_content_tags(meta.get("tags", ""))
+    if tags:
+        parts.append(tags)
+    return "\n".join(parts).strip()
 
 
 def find_metadata_path(video_title: str) -> str | None:
@@ -230,7 +372,7 @@ def parse_metadata(path: str) -> dict:
         hashtag_match = re.search(r'(#[A-Za-zÀ-ÿ0-9]+(?:\s+#[A-Za-zÀ-ÿ0-9]+){2,})', content)
         if hashtag_match:
             tag_line = hashtag_match.group(1).strip()
-    result["tags"] = tag_line if tag_line else "#CosaFannoGliEconomisti #Economia #Ricerca"
+    result["tags"] = filter_content_tags(tag_line) if tag_line else ""
 
     return result
 
@@ -264,7 +406,7 @@ def get_schedule_ts(hour: int = 9, days: int = 1) -> int:
     return int(target_date.timestamp())
 
 
-def post_to_buffer(caption: str, video_id: str, platform: str = "facebook", dry_run: bool = False, scheduled_ts: int = None, image_url: str = None) -> bool:
+def post_to_buffer(caption: str, video_id: str, platform: str = "facebook", dry_run: bool = False, scheduled_ts: int = None, image_url: str = None, content_type: str = "post", media_video_url: str = None) -> bool:
     """Invia il post a Buffer via GraphQL API (nuovo endpoint Beta)."""
     video_url = f"https://www.youtube.com/watch?v={video_id}&t=1s"
     channel_id = IG_PROFILE_ID if platform == "instagram" else FB_PROFILE_ID
@@ -278,13 +420,17 @@ def post_to_buffer(caption: str, video_id: str, platform: str = "facebook", dry_
 
     if dry_run:
         print("\n" + "="*60)
-        print(f"DRY RUN — {platform.upper()} Post:")
+        print(f"DRY RUN — {platform.upper()} {content_type.upper()}:")
         print("="*60)
         print(caption)
         print("="*60)
         if image_url: print(f"Asset Image : {image_url}")
+        if media_video_url: print(f"Asset Video : {media_video_url}")
         print(f"Link video  : {video_url}")
+        print(f"Content type: {content_type}")
         print(f"Programmato : {scheduled_human}")
+        if content_type == "reel" and not media_video_url:
+            print("⚠️ REEL senza media_video_url HTTPS diretto (litter.catbox). Buffer rifiuta youtube.com/shorts.")
         return True
 
     # ── Tenta prima con GraphQL API Beta ────────────────────────────────────
@@ -337,9 +483,10 @@ def post_to_buffer(caption: str, video_id: str, platform: str = "facebook", dry_
 
     # Metadata specifico per piattaforma
     if platform == "instagram":
+        ig_type = "reel" if content_type == "reel" else "post"
         variables["input"]["metadata"] = {
             "instagram": {
-                "type": "post",
+                "type": ig_type,
                 "shouldShareToFeed": True,
             }
         }
@@ -351,16 +498,21 @@ def post_to_buffer(caption: str, video_id: str, platform: str = "facebook", dry_
         }
 
 
-    # Asset immagine (MANDATORIO per FB/IG secondo nuova policy)
-    if image_url:
+    # Reel: video URL pubblico (YouTube Short). Post: immagine (infografica su GitHub).
+    if content_type == "reel" and media_video_url:
+        variables["input"]["assets"] = [
+            {"video": {"url": media_video_url}}
+        ]
+    elif image_url:
         variables["input"]["assets"] = [
             {"image": {"url": image_url}}
         ]
     elif platform == "facebook":
-        # Fallback se non c'è immagine? Per ora manteniamo link, ma la SOP dice di avere sempre copertina
         variables["input"]["assets"] = [
             {"link": {"url": video_url}}
         ]
+    elif content_type == "reel":
+        print("⚠️ Reel senza video URL pubblico — GraphQL probabilmente fallirà.")
 
 
     print(f"Invio a Buffer GraphQL ({platform})...")
@@ -405,7 +557,7 @@ def post_to_buffer(caption: str, video_id: str, platform: str = "facebook", dry_
         return False
 
 
-def run(video_id_override=None, dry_run=False, scheduled_hour=9, platform="instagram", days_ahead=1, folder_name_override=None, force_facebook=False):
+def run(video_id_override=None, dry_run=False, scheduled_hour=9, platform="instagram", days_ahead=1, folder_name_override=None, force_facebook=False, content_type="post", media_video_url=None, short_angle="1"):
     if platform == "facebook":
         refuse_suspended_facebook(force_facebook=force_facebook)
     history = load_history(platform=platform)
@@ -480,34 +632,55 @@ def run(video_id_override=None, dry_run=False, scheduled_hour=9, platform="insta
         except Exception as e:
             print(f"⚠️ Errore controllo YouTube-First: {e}")
 
-    caption = build_caption(meta, video_id, platform=platform, video_title=video_title)
+    folder = os.path.dirname(metadata_path)
+    tracking_data = {}
+    if os.path.exists(TRACKING_FILE):
+        try:
+            with open(TRACKING_FILE, "r", encoding="utf-8") as f:
+                tracking_data = json.load(f)
+        except Exception:
+            tracking_data = {}
 
     image_url = None
-    # Cerca asset immagine (Copertina per FB, Infografica per IG)
-    folder = os.path.dirname(metadata_path)
-    if platform == "instagram":
-        asset = find_infographic_asset(folder)
+    resolved_media_video = media_video_url
+    asset = None
+    if content_type == "reel":
+        if not resolved_media_video:
+            local_mp4 = find_local_short_mp4(folder, angle=short_angle)
+            resolved_media_video = find_reel_video_url(
+                folder_name, tracking_data, local_mp4=local_mp4, prefer_host=True,
+            )
+        if resolved_media_video and ("youtube.com/shorts" in resolved_media_video or "youtu.be/" in resolved_media_video):
+            print("❌ Buffer rifiuta URL YouTube Short come media. Serve HTTPS diretto (litter.catbox).")
+            print("   Rilancia con --video-url https://litter.catbox.moe/... oppure lascia hostare il mp4 locale.")
+            return
+        caption = build_reel_caption(meta, video_id)
+        print(f"Reel mode — media URL: {resolved_media_video or '(mancante)'}")
     else:
-        # Per FB cerchiamo la copertina
-        all_files = os.listdir(folder)
-        image_files = [f for f in all_files if f.lower().endswith((".png", ".jpg", ".jpeg"))]
-        asset = None
-        # Priorità nomi file Standard
-        for c_name in ["copertina.png", "copertina.jpg", "thumbnail.png", "cover.png", "thumbnail_definitiva.png", "cover_cleaned.png"]:
-            if c_name in image_files:
-                asset = c_name
-                break
-        if not asset and image_files: asset = image_files[0]
+        caption = build_caption(meta, video_id, platform=platform, video_title=video_title)
+        if platform == "instagram":
+            asset = find_infographic_asset(folder)
+        else:
+            all_files = os.listdir(folder)
+            image_files = [f for f in all_files if f.lower().endswith((".png", ".jpg", ".jpeg"))]
+            for c_name in ["copertina.png", "copertina.jpg", "thumbnail.png", "cover.png", "thumbnail_definitiva.png", "cover_cleaned.png"]:
+                if c_name in image_files:
+                    asset = c_name
+                    break
+            if not asset and image_files:
+                asset = image_files[0]
 
-    if asset:
-        # Per FB/IG l'immagine della copertina è mandatoria (SOP Marcello v2)
+    if asset and content_type != "reel":
         folder_name = os.path.basename(folder)
         image_url = f"{REPO_BASE_URL}/Cleaned/{urllib.parse.quote(folder_name)}/{urllib.parse.quote(asset)}?v=2"
-    else:
+    elif content_type != "reel":
         print(f"⚠️ Nessun asset trovato per {platform}.")
 
-    success = post_to_buffer(caption, video_id, platform=platform, dry_run=dry_run, 
-                            scheduled_ts=get_schedule_ts(hour=scheduled_hour, days=days_ahead), image_url=image_url)
+    success = post_to_buffer(
+        caption, video_id, platform=platform, dry_run=dry_run,
+        scheduled_ts=get_schedule_ts(hour=scheduled_hour, days=days_ahead),
+        image_url=image_url, content_type=content_type, media_video_url=resolved_media_video if content_type == "reel" else None,
+    )
 
     if success and not dry_run:
         history["posted_videos"].append(video_id)
@@ -520,12 +693,31 @@ def run(video_id_override=None, dry_run=False, scheduled_hour=9, platform="insta
                  with open(TRACKING_FILE, 'r', encoding='utf-8') as f:
                      tracking = json.load(f)
                  if folder_name in tracking:
-                     key = "facebook_cover_status" if platform == "facebook" else "instagram_url"
-                     tracking[folder_name][key] = "Postato (Foto)" if not dry_run else "In Programma"
-                     tracking[folder_name]["last_updated"] = datetime.now().isoformat()
-                     with open(TRACKING_FILE, 'w', encoding='utf-8') as f:
-                         json.dump(tracking, f, indent=4, ensure_ascii=False)
-                     print(f"📊 Tracking {platform.upper()} aggiornato per: {folder_name}")
+                     if content_type == "reel":
+                         # Nested shorts[] — non creare riga top-level
+                         try:
+                             import sys as _sys
+                             from pathlib import Path as _Path
+                             _sys.path.insert(0, str(_Path(__file__).resolve().parents[1] / "enea"))
+                             from short_assets import upsert_short_tracking
+                             upsert_short_tracking(
+                                 folder_name,
+                                 angle=short_angle,
+                                 ig_reel_url="Programmato (Reel)" if not dry_run else "Dry-run Reel",
+                                 status=tracking[folder_name].get("shorts", [{}])[0].get("status", "Uploaded") if tracking[folder_name].get("shorts") else "Uploaded",
+                             )
+                         except Exception as reel_exc:
+                             print(f"⚠️ Tracking reel nested fallito: {reel_exc}")
+                             tracking[folder_name]["instagram_url"] = "Reel programmato"
+                             with open(TRACKING_FILE, 'w', encoding='utf-8') as f:
+                                 json.dump(tracking, f, indent=4, ensure_ascii=False)
+                     else:
+                         key = "facebook_cover_status" if platform == "facebook" else "instagram_url"
+                         tracking[folder_name][key] = "Postato (Foto)" if not dry_run else "In Programma"
+                         tracking[folder_name]["last_updated"] = datetime.now().isoformat()
+                         with open(TRACKING_FILE, 'w', encoding='utf-8') as f:
+                             json.dump(tracking, f, indent=4, ensure_ascii=False)
+                     print(f"📊 Tracking {platform.upper()} ({content_type}) aggiornato per: {folder_name}")
              except Exception as e:
                  print(f"⚠️ Errore aggiornamento tracking: {e}")
 
@@ -543,7 +735,28 @@ if __name__ == "__main__":
         action="store_true",
         help="Deroga esplicita: pubblica su Facebook nonostante la sospensione 2026-08-31",
     )
+    parser.add_argument(
+        "--content-type",
+        choices=["post", "reel"],
+        default="post",
+        help="post=infografica (default); reel=Instagram Reel via video URL pubblico",
+    )
+    parser.add_argument(
+        "--video-url",
+        default=None,
+        help="URL HTTPS diretto video/mp4 per Reel (es. litter.catbox). NON youtube.com/shorts.",
+    )
+    parser.add_argument(
+        "--upload-local",
+        default=None,
+        help="MP4 locale da hostare su litter.catbox e usare come --video-url Reel",
+    )
+    parser.add_argument("--short-angle", default="1", help="Indice short nel tracking nested")
     args = parser.parse_args()
+
+    media_url = args.video_url
+    if args.upload_local:
+        media_url = upload_short_mp4_public(args.upload_local)
 
     run(
         video_id_override=args.video_id,
@@ -553,4 +766,7 @@ if __name__ == "__main__":
         days_ahead=args.days_ahead,
         folder_name_override=args.folder_name,
         force_facebook=args.force_facebook,
+        content_type=args.content_type,
+        media_video_url=media_url,
+        short_angle=args.short_angle,
     )

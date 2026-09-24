@@ -1,23 +1,25 @@
 ---
-description: Produzione Video e Infografica su NotebookLM
+description: Workflow /produzione — NotebookLM long + infografica + short opzionale
 ---
 
-# /produzione Workflow (Enea)
+Genera e scarica asset grezzi. **Non** pulisce né carica.
 
-## Descrizione
-Questo workflow gestisce esclusivamente la generazione e l'acquisizione degli asset grezzi da NotebookLM.
+## Checklist
 
-## Procedura Deterministica
-1. **Lancio**: Digita `/produzione` su Telegram.
-2. **Selezione**: Scegli un paper dalla lista proposta (solo quelli con metadati e copertina ma senza video).
-3. **Automazione NotebookLM (Browser)**:
-   - Apri [NotebookLM](https://notebooklm.google.com/).
-   - Crea/Apri Notebook e carica il PDF del paper.
-   - Genera **Video Overview** (Prompt: *"MANDATORIO: Il TITOLO in sovrimpressione... [Titolo Scelto]"*).
-   - Genera **Infografica Quadrata Dettagliata**.
-4. **Download**: Scarica il Video Overview (.mp4) e l'Infografica (.png) in `~/Downloads`. 
-5. **Fine Workflow**: Una volta scaricati i file grezzi (`*_raw.mp4` e l'immagine), il workflow `/produzione` è **TERMINATO**. Ogni operazione successiva (pulizia, trimmaggio, ecc.) appartiene al workflow `/pulizia`.
+1. Copertina **già approvata** da Marco; cartella `Cleaned/[Titolo]` pronta.
+2. NotebookLM: Video Overview long + Infografica quadrata (sketch_note).
+3. Download in `~/Downloads`: `*_raw.mp4`, `*_infografica.png`.
+4. **Short (default 1/paper, salvo richiesta Marco di più)**:  
+   `./workflow produzione --folder X --with-short` → richiede **notebooklm-mcp-cli ≥ 0.11.7** (`nlm create video --format short`).  
+   Output: `{clean_title}_short1_raw.mp4`. Fallback UI se CLI fallisce.
+5. Fine `/produzione` → passa a `/pulizia` (long+short).
 
-## 📋 File Python Utilizzati
-- `Execution/cesare/telegram_bot.py` (Lancio workflow)
-- `Execution/enea/notebooklm_asset_downloader.py` (Download Asset)
+```bash
+./workflow produzione --folder Titolo_Cartella
+./workflow produzione --folder Titolo_Cartella --with-short
+./workflow produzione --folder Titolo_Cartella --with-short --short-count 1
+```
+
+## File Python
+- `Execution/enea/notebooklm_orchestrator.py`
+- `Execution/enea/short_assets.py`

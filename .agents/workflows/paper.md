@@ -35,3 +35,8 @@ Questo workflow gestisce l'intero setup iniziale: scelta del paper, generazione 
 2. `Execution/enea/batch_text_extractor.py` (Estrazione testo PDF)
 3. `image_gen` / motore immagine Codex (Generazione Immagine primaria)
 4. `Execution/enea/generate_cover.py` (Legacy fallback, non raccomandato)
+
+## Gate approvazione (obbligatori)
+- **Titolo + copertina**: nessuna archiviazione in `Cleaned/` prima dell'approvazione esplicita di Marco.
+- **Infografica**: se rigenerata in `/pulizia` o dopo, richiedere di nuovo approvazione prima di upload/Buffer.
+- Dopo approvazione copertina: PDF rinominato, `copertina.png`, stub `video_metadata.md` (tag specifici verranno in `/pulizia`).

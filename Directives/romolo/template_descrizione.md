@@ -27,3 +27,7 @@ Lo studio "TITOLO DEL PAPER" di COGNOMI AUTORI DEL PAPER, pubblicato su NOME DEL
 
 ## 📋 File Python Utilizzati
 - `Execution/romolo/romolo_manage_channel.py` (Analytics e Monitoraggio)
+
+## Tag policy
+- Usare **solo** hashtag specifici di contenuto (luoghi, policy, meccanismi: es. `#AreaB #Milano #Lega`).
+- **Vietati**: `#CosaFannoGliEconomisti`, `#APSR`, nomi di journal come hashtag, tag generici `#Economia` / `#Ricerca`.
