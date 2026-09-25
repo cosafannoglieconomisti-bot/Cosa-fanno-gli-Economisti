@@ -4,21 +4,28 @@ Responsabile della produzione video e della gestione della libreria dei paper. S
 
 ---
 
-## 0. Workflow /paper (Selezione, Titolo e Copertina)
+## 0. Workflow /paper (Selezione, Titolo, Copertina, Metadata)
 
-La pipeline video inizia con la scelta del paper, la definizione del titolo e la creazione della copertina. La control plane primaria e' Codex chat; Telegram/Cesare e' legacy.
+La pipeline video inizia con la scelta del paper, il titolo catchy, la copertina 16:9 e l'approvazione metadata. La control plane primaria e' Codex chat; Telegram/Cesare e' legacy.
 
-### SOP: Selezione e Setup Iniziale
+### SOP: Selezione e Setup Iniziale (gate order obbligatorio)
 
-1. **Comando**: `/paper` in Codex chat oppure `./workflow paper`.
-2. **Scelta Paper**: Codex elenca i PDF in `Papers/Da fare/` (**ricorsivamente**) e propone i **titoli accademici reali** del paper, non i nomi file.
-3. **Titoli Catchy**: Codex estrae il testo (prime 3 pagine) con `batch_text_extractor.py` e propone 5 titoli catchy (max 5 parole, stile domanda).
-4. **Generazione Copertina**: Una volta scelto il titolo, la cover operativa deve essere fornita come asset approvato in `Temp/assets/override_cover.png` oppure registrata esplicitamente da Codex. `generate_cover.py` copia solo questo override locale.
-5. **Approvazione e Archiviazione**:
-   - `✅ Approva`: Solo dopo approvazione esplicita, Codex recupera il **Titolo Accademico** reale del paper, crea la cartella `Cleaned/[Titolo_Scelto]`, sposta e rinomina il PDF in `Cleaned/[Titolo_Scelto]/[Titolo_Accademico].pdf`, salva `copertina.png` e inizializza `video_metadata.md`.
-   - `🔄 Rigenera`: Codex genera una nuova variante della copertina.
-   - **Divieto**: non archiviare mai il PDF o i metadati prima dell'approvazione della copertina.
-6. **Titolo Forzato**: Il titolo approvato diventa l'identificativo univoco per tutto il processo NotebookLM.
+1. **Select paper**: `/paper` in Codex chat oppure `./workflow paper`. Codex elenca i PDF in `Papers/Da fare/` (**ricorsivamente**) e propone i **titoli accademici reali** del paper, non i nomi file. Marco seleziona il paper.
+2. **Choose catchy title (approval)**: Codex estrae il testo (prime 3 pagine) con `batch_text_extractor.py` e propone 5 titoli catchy (max 5 parole, stile domanda). Marco approva (o modifica) il titolo.
+3. **Generate + approve 16:9 cover**: Una volta scelto il titolo, Codex genera la copertina **16:9** (ChatGPT/Codex native `image_gen` → `Temp/assets/override_cover.png` → `generate_cover.py` copia solo; SOP comic arancio/nero/bianco + testo nativo). Marco approva o dice `rigenera`. **Non** archiviare ancora in `Cleaned/`.
+4. **Draft + APPROVE METADATA (gate duro)**: Prima di qualsiasi archiviazione, Codex redige un **draft** `video_metadata.md` dal PDF e lo mostra a Marco. Il draft DEVE contenere:
+   - **Titolo accademico reale** (dal PDF, non inventato)
+   - **ALL authors** dal PDF (**vietato** auto-hallucinare / omettere / abbreviare elenchi)
+   - **Journal**, **year**, **DOI** (dal PDF / fonti reali)
+   - **YT description draft** che inizia con **«Lo studio…»**
+   - **Content-specific tags only** (niente tag generici canale/journal-as-hashtag)
+   - Marco deve dare **approvazione esplicita metadata** (o edit + re-approve). **Vietato** creare `Cleaned/`, spostare il PDF, scrivere il `video_metadata.md` finale, o avviare `/produzione` / attiva produzione **prima** di questa approvazione.
+5. **Archive only after metadata approved**: Solo dopo metadata OK: crea `Cleaned/[Titolo_Scelto]`, sposta/rinomina PDF in `Cleaned/[Titolo_Scelto]/[Titolo_Accademico].pdf`, salva `copertina.png`, scrive il **final** `video_metadata.md`, aggiorna `active_pipeline.json`. Poi si può avviare produzione.
+
+> [!IMPORTANT]
+> **GATE METADATA**: `/paper` / Dom-Mer automation richiede che Marco **APPROVE METADATA** (draft `video_metadata.md`) **BEFORE** archiving to Cleaned e **BEFORE** starting produzione. Ordine: paper → titolo → cover → **metadata approve** → Cleaned archive → produzione.
+
+6. **Titolo Forzato**: Il titolo catchy approvato diventa l'identificativo univoco per tutto il processo NotebookLM.
 
 ---
 
@@ -71,18 +78,20 @@ Questa procedura utilizza lo script `Execution/enea/notebooklm_asset_downloader.
 - **Livello di Dettaglio**: Selezionare **Dettagliato** (Dettagliato).
 - **Prompt (Box "Descrivi uno stile, un colore o un punto focale")**:
   ```text
-  Lingua: Italiano. Stile: Infografica moderna, pulita e minimale (tipo Dashboard o Post LinkedIn/Instagram). Tono: Divulgativo ed energetico. Colori: Vivaci ma professionali, ad alto contrasto per facilitare la lettura. 
+  Lingua: Italiano perfetto. Tono: Semplice, divulgativo ma scientificamente chiaro.
+  Stile grafico: Estremamente accattivante, ricco di disegni ed emoji (molto visivo, ad esempio in stile sketch_note o simile, evitando griglie, tabelle o blocchi grigi noiosi).
+  Varia il linguaggio visivo da un video all'altro (non ripetere sempre lo stesso layout/palette); resta sempre accattivante e ricco di disegni.
 
-  FOCUS DEL CONTENUTO:
-  1. IL DILEMMA: Qual è il problema che il paper vuole risolvere? (Usa un linguaggio semplice).
-  2. LA SCOPERTA: I dati più sorprendenti. Esprimi i numeri in modo visivo (es. "1 su 3" invece di "33%").
-  3. LA MORALE: Perché questa ricerca è importante per noi tutti nella vita reale?
+  REGOLE DI CONTENUTO:
+  Spiega in modo conciso ma logicamente completo lo studio:
+  1. IL DILEMMA: Qual è il problema che il paper vuole risolvere? (Usa un linguaggio semplice, es. "Gli amici cambiano il voto?").
+  2. LA SCOPERTA: I dati e le scoperte principali in modo logico e consequenziale (es. "L'effetto del gruppo di amici è forte e misurabile").
+  3. LA MORALE: Perché questa ricerca è importante per la vita reale (es. "Le opinioni nascono nel gruppo, non da soli").
 
   REGOLE VISIVE:
-  - Niente muri di testo densi.
-  - Usa il piu possibile immagini, sennò che infografica è?
-  - Usa SOLO elenchi puntati brevi ed emoji per ogni sezione.
-  - Enfatizza i titoli e i numeri chiave.
+  - Niente muri di testo densi o frasi lunghe e complesse.
+  - Ricco di elementi grafici (disegni, icone, emoji).
+  - Usa SOLO elenchi puntati brevissimi (pochi punti chiari) ed emoji pertinenti.
   - **Formato**: Quadrata.
   ```
 - **Salvataggio**: Generare l'infografica ma **NON scaricarla**. L'utente provvederà al download manuale in `~/Downloads`. Solo dopo il download manuale sarà possibile procedere con la pulizia watermark tramite `clean_infographic.py`.
