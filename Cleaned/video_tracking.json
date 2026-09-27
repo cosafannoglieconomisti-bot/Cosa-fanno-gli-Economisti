@@ -133,22 +133,23 @@
         "youtube_id": "bDLz2R0mVjY",
         "youtube_url": "https://www.youtube.com/watch?v=bDLz2R0mVjY",
         "facebook_url": "Sospeso",
-        "instagram_url": "Da fare",
+        "instagram_url": "Postato (Foto)",
         "facebook_cover_status": "Sospeso",
         "playlist": "Economia della Cultura, Societ\u00e0 e Religione",
         "shorts": [
             {
-                "id": "",
-                "youtube_url": "",
+                "id": "Jb7LROYvc50",
+                "youtube_url": "https://youtube.com/shorts/Jb7LROYvc50",
                 "angle": "1",
-                "status": "Cleaned",
-                "ig_reel_url": "Da fare",
+                "status": "Uploaded",
+                "ig_reel_url": "Programmato (Reel) Buffer 6ab63fb0607bee5b032eacab @ 2026-09-26 12:00 CEST",
                 "local_path": "/Users/<USER>/Desktop/canale/Cleaned/Denunciare_aiuta_l_integrazione/Denunciare_aiuta_l_integrazione_short1_cleaned.mp4",
-                "updated": "2026-09-25T10:22:01.844878"
+                "updated": "2026-09-25T11:33:02.962875",
+                "public_mp4_url": "https://litter.catbox.moe/iw7bh1.mp4"
             }
         ],
-        "last_updated": "2026-09-25T11:26:41.154820",
-        "status": "Cleaned"
+        "last_updated": "2026-09-25T11:33:02.962877",
+        "status": "Pulito"
     },
     "Dio_blocca_la_democrazia": {
         "youtube_id": "BFW6hmE5WiQ",
@@ -327,6 +328,26 @@
         "last_updated": "2026-05-12T22:50:37.199146",
         "status": "Pulito",
         "playlist": "Storia Economica e Sviluppo"
+    },
+    "Il_populismo_rovina_i_conti": {
+        "youtube_id": "9BMxB8yDSo8",
+        "youtube_url": "https://www.youtube.com/watch?v=9BMxB8yDSo8",
+        "facebook_url": "Sospeso",
+        "instagram_url": "Da fare",
+        "facebook_cover_status": "Sospeso",
+        "playlist": "Economia Politica e Istituzioni",
+        "shorts": [
+            {
+                "id": "",
+                "youtube_url": "",
+                "angle": "1",
+                "status": "Cleaned",
+                "ig_reel_url": "Da fare",
+                "local_path": "/Users/<USER>/Desktop/canale/Cleaned/Il_populismo_rovina_i_conti/Il_populismo_rovina_i_conti_short1_cleaned.mp4",
+                "updated": "2026-09-27T14:21:03.699126"
+            }
+        ],
+        "last_updated": "2026-09-27T15:06:46.458750"
     },
     "Istituzioni_e_Sviluppo_qje_2014": {
         "youtube_id": "zAwp-Sswzdw",

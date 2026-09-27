@@ -1,0 +1,528 @@
+1
+00:00:00,000 --> 00:00:02,240
+Welcome to this new insight.
+
+2
+00:00:02,240 --> 00:00:06,400
+Today we face one of those questions that seem simple but that hide a world
+
+3
+00:00:06,400 --> 00:00:07,400
+entire 
+
+4
+00:00:07,400 --> 00:00:10,160
+Does populism really ruin accounts?
+
+5
+00:00:10,160 --> 00:00:14,000
+In short, what happens to the state machine and the economy when the rhetoric
+
+6
+00:00:14,000 --> 00:00:17,719
+literally clashes with the reality of everyday life?
+
+7
+00:00:17,719 --> 00:00:22,080
+Thanks to the data of a rigorous economic study, we will explore the measurable effects
+
+8
+00:00:22,080 --> 00:00:25,960
+of the election of mayors with, so to speak, unconditional agendas.
+
+9
+00:00:25,960 --> 00:00:30,800
+No political opinion here, just data at hand to understand the real economic repercussions
+
+10
+00:00:30,800 --> 00:00:31,800
+and bureaucratic procedures.
+
+11
+00:00:31,800 --> 00:00:32,799
+We set off right away.
+
+12
+00:00:32,799 --> 00:00:37,439
+To frame the immediate of what we are talking about, let's start with a concrete example.
+
+13
+00:00:37,439 --> 00:00:43,799
+In 2018 Matteo Salvini wrote, after stopping the landings, my greatest commitment
+
+14
+00:00:43,799 --> 00:00:46,799
+is for the expulsion of those who claim, claim, claim.
+
+15
+00:00:46,799 --> 00:00:47,799
+But I’m not giving up.
+
+16
+00:00:47,799 --> 00:00:49,799
+Ashtag stopp invasion.
+
+17
+00:00:49,799 --> 00:00:55,520
+Now, whether you agree or not, this is the textbook example of a categorical promise,
+
+18
+00:00:55,520 --> 00:00:58,480
+a clear commitment, without ifs and buts.
+
+19
+00:00:58,480 --> 00:01:03,200
+The big question is what happens to budgets and public offices when such a pact
+
+20
+00:01:03,200 --> 00:01:07,000
+must then be transformed into daily administration.
+
+21
+00:01:07,000 --> 00:01:11,159
+To find out, we need to take a small step back and look at the theoretical scaffolding
+
+22
+00:01:11,159 --> 00:01:12,159
+of the research.
+
+23
+00:01:12,159 --> 00:01:18,079
+We will do it in a totally neutral way, focusing exclusively on mechanics, that is, on
+
+24
+00:01:18,079 --> 00:01:20,600
+how election promises become practical notions.
+
+25
+00:01:21,320 --> 00:01:23,800
+And here's an absolutely crucial point.
+
+26
+00:01:23,800 --> 00:01:27,800
+In this analysis populism is not treated as a right-wing ideology or
+
+27
+00:01:27,800 --> 00:01:28,800
+the left.
+
+28
+00:01:28,800 --> 00:01:32,760
+Rather, it is framed as a precise political strategy.
+
+29
+00:01:32,760 --> 00:01:37,280
+In practice, it is the offer of simple and unconditional political commitments, very easy to
+
+30
+00:01:37,280 --> 00:01:40,800
+monitor for those who vote, especially in those historical moments when trust
+
+31
+00:01:40,800 --> 00:01:43,760
+peak collapses in traditional institutions.
+
+32
+00:01:43,760 --> 00:01:49,320
+I reiterate no moral judgment here, we are only disassembling the gear of a promise.
+
+33
+00:01:49,320 --> 00:01:53,200
+In this scheme it is really enlightening because it compares two opposing worlds.
+
+34
+00:01:53,200 --> 00:01:55,840
+On the one hand, the traditional fiduciary model.
+
+35
+00:01:55,840 --> 00:01:59,880
+Here we reward technical competence and those who govern on the sidelines to adapt to the
+
+36
+00:01:59,880 --> 00:02:00,880
+preventing unplanned downtimes.
+
+37
+00:02:00,880 --> 00:02:04,960
+On the other hand, the model of the committed delegate, typical of populism.
+
+38
+00:02:04,960 --> 00:02:09,200
+Here the top priority is to erect inflexibly to the original plan.
+
+39
+00:02:09,200 --> 00:02:14,360
+And history teaches us that when trust collapses people don't look for adaptability.
+
+40
+00:02:14,360 --> 00:02:18,840
+They really want the busy delegate, someone to give you back whatever it takes.
+
+41
+00:02:19,719 --> 00:02:22,719
+Okay, but how do we measure all of this objectively?
+
+42
+00:02:22,719 --> 00:02:27,479
+Researchers have found a fantastic natural laboratory, far from the chaos of elections
+
+43
+00:02:27,479 --> 00:02:28,479
+borders.
+
+44
+00:02:28,479 --> 00:02:31,479
+Perfect for testing this theory, local governments.
+
+45
+00:02:31,479 --> 00:02:34,639
+And pay attention to the numbers, because they are impressive.
+
+46
+00:02:34,639 --> 00:02:40,159
+The data covers as many as 8,000 Italian municipalities, following their administrative and economic history
+
+47
+00:02:40,159 --> 00:02:44,000
+for over twentyyears, a gigantic amount of information.
+
+48
+00:02:44,000 --> 00:02:48,479
+It is precisely this huge scale that guarantees us that the trends we are about to discover are
+
+49
+00:02:48,479 --> 00:02:50,079
+solid and undeniable.
+
+50
+00:02:50,079 --> 00:02:54,919
+The mathematical trick used here is called discontinuity regression sign.
+
+51
+00:02:54,919 --> 00:03:00,439
+Agniente panic, tanning is simple, it serves to isolate the real impact of the populist leader.
+
+52
+00:03:00,439 --> 00:03:04,599
+You take the municipalities where this candidate won by a handful of votes and compare them
+
+53
+00:03:04,599 --> 00:03:06,839
+with the ones where he blew open.
+
+54
+00:03:06,839 --> 00:03:12,479
+Comparing victories and defeats decided literally by photofinish, we obtain cities statistically
+
+55
+00:03:12,479 --> 00:03:13,479
+almost twins.
+
+56
+00:03:13,479 --> 00:03:17,479
+The only real difference, the type of joint just installed.
+
+57
+00:03:17,640 --> 00:03:21,640
+And now let's get to the heart of it with the first set of concrete results.
+
+58
+00:03:21,640 --> 00:03:26,000
+Let's talk about the real engine of every administration, accounts and budgets.
+
+59
+00:03:26,000 --> 00:03:31,080
+What happens when the intransigence of the promise slams into the real accounting?
+
+60
+00:03:31,080 --> 00:03:35,160
+Giving these cheap charts a heads-up, there's one detail that immediately catches the eye.
+
+61
+00:03:35,160 --> 00:03:37,760
+Do you see that vertical line dashed at 0?
+
+62
+00:03:37,760 --> 00:03:41,560
+That's the exact moment of victory, the 0 margin.
+
+63
+00:03:41,560 --> 00:03:46,120
+Look at how the lines and data literally jump right over that threshold.
+
+64
+00:03:46,120 --> 00:03:51,280
+That clear and unequivocal visual leap is the direct transformation caused by the new
+
+65
+00:03:51,280 --> 00:03:52,280
+administration tasks.
+
+66
+00:03:52,280 --> 00:03:57,439
+By translating those jumps into numbers, the financial consequences leave no room for doubt.
+
+67
+00:03:57,439 --> 00:04:01,120
+First of all, there is a lower repayment of past debts.
+
+68
+00:04:01,120 --> 00:04:06,240
+Even more surprising, is a 5.3 percentage point increase in public procurement
+
+69
+00:04:06,240 --> 00:04:08,520
+that end up exceeding the expected costs.
+
+70
+00:04:08,520 --> 00:04:11,840
+And finally, you accumulate more citizen debt in general.
+
+71
+00:04:11,840 --> 00:04:13,240
+And this is the point.
+
+72
+00:04:13,240 --> 00:04:18,120
+If you try to carry out a commitment, ignoring the normal financial stakes, it creates inefficiencies
+
+73
+00:04:18,120 --> 00:04:19,120
+heavy in the balance sheet.
+
+74
+00:04:19,120 --> 00:04:20,120
+It's mathematical.
+
+75
+00:04:20,120 --> 00:04:24,480
+But we know the financial statements well, they are not written by themselves.
+
+76
+00:04:24,480 --> 00:04:27,960
+There is a whole organizational machine behind it made up of people.
+
+77
+00:04:27,960 --> 00:04:31,280
+So let's move on to the second big chapter of this study.
+
+78
+00:04:31,280 --> 00:04:33,079
+The impact on the abrupt craze.
+
+79
+00:04:33,079 --> 00:04:37,720
+Returning to our charts, exposing ourselves to the last two boxes, those on capital
+
+80
+00:04:37,720 --> 00:04:41,800
+human, jumps near line 0 are just as dizzying.
+
+81
+00:04:42,319 --> 00:04:46,920
+Here we see the clash between the unconditional agenda of the new guide materialize
+
+82
+00:04:46,920 --> 00:04:49,720
+policy and the apparatus of expert technicians.
+
+83
+00:04:49,720 --> 00:04:52,720
+And the internal dynamics are astounding.
+
+84
+00:04:52,720 --> 00:04:58,680
+Turnover, or the turnover of entertaining executives, spikes by 50%.
+
+85
+00:04:58,680 --> 00:05:03,720
+Meanwhile, there is a dry decline of 5.0 percentage points of managers with a title of
+
+86
+00:05:03,720 --> 00:05:04,720
+postgraduate study.
+
+87
+00:05:04,720 --> 00:05:08,920
+Simply put, skills are literally dismantled.
+
+88
+00:05:08,920 --> 00:05:13,160
+Experienced officials, those who perhaps raise their hand saying, look at this
+
+89
+00:05:13,160 --> 00:05:17,920
+policy is not feasible, they are replaced by less trained personnel, but probably
+
+90
+00:05:17,920 --> 00:05:19,920
+deemed more obedient.
+
+91
+00:05:19,920 --> 00:05:24,040
+At this point, go spontaneously and ask yourself the real investigative question.
+
+92
+00:05:24,040 --> 00:05:28,480
+All these super-experts leave spontaneously at will, perhaps because they refuse
+
+93
+00:05:28,480 --> 00:05:34,879
+the new political line, or are they just escorted, lost, to the door?
+
+94
+00:05:34,879 --> 00:05:38,680
+This chart answers the question by offering perhaps the most fascinating proof of all
+
+95
+00:05:38,680 --> 00:05:39,680
+THE LAW FIRM
+
+96
+00:05:39,680 --> 00:05:44,079
+The pole that represents voluntary resignation is if you stand still, flat on the line
+
+97
+00:05:44,079 --> 00:05:45,079
+of OZero.
+
+98
+00:05:45,079 --> 00:05:50,319
+Instead, the forced departure indicator makes an impressive leap to the right,
+
+99
+00:05:50,319 --> 00:05:53,079
+a net and undeniable increase in stromissions.
+
+100
+00:05:53,079 --> 00:05:56,840
+The conclusion is strong, indeed very strong.
+
+101
+00:05:56,840 --> 00:06:02,800
+No voluntary exodus, no crisis of mass consciousness, the data tell us clearly
+
+102
+00:06:02,800 --> 00:06:07,480
+that the exit of the most qualified public managers is actively provoked, so
+
+103
+00:06:07,480 --> 00:06:09,640
+forced, by the newly-elected mayors.
+
+104
+00:06:09,640 --> 00:06:14,800
+It is a strategy calculated to curb the so-called technical resistance and pull straight
+
+105
+00:06:14,800 --> 00:06:15,800
+with their own plans.
+
+106
+00:06:15,800 --> 00:06:18,920
+And here the puzzle takes shape.
+
+107
+00:06:18,920 --> 00:06:23,240
+We combine the worsening of local finances with this real bureaucratic purge
+
+108
+00:06:23,240 --> 00:06:25,560
+cratic, and we're going to sum it up.
+
+109
+00:06:25,560 --> 00:06:27,480
+That's the bottom line of all this.
+
+110
+00:06:27,480 --> 00:06:30,960
+The heart of the conflict is summed up perfectly here.
+
+111
+00:06:30,960 --> 00:06:36,120
+On the one hand, experienced bureaucrats who raise sensible doubts and highlight regulatory limits
+
+112
+00:06:36,120 --> 00:06:37,120
+Lack of funding
+
+113
+00:06:37,519 --> 00:06:42,040
+On the other hand, inexperienced bureaucrats, often inserted later, who perform with their heads down the
+
+114
+00:06:42,040 --> 00:06:44,639
+promises made without raising the slightest objection.
+
+115
+00:06:44,639 --> 00:06:49,439
+It is precisely this split that scatters administrative talent or imports straight to the holes
+
+116
+00:06:49,439 --> 00:06:50,439
+budgetary
+
+117
+00:06:50,439 --> 00:06:55,399
+At the end of the fair are the two sides of the same metal, the collapse of performance
+
+118
+00:06:55,399 --> 00:07:00,160
+on the one hand and the destruction of sound technical administration on the other
+
+119
+00:07:00,160 --> 00:07:02,120
+they travel together, hand in hand.
+
+120
+00:07:02,680 --> 00:07:03,680
+‘That’s it? 
+
+121
+00:07:03,680 --> 00:07:08,199
+Numbers at hand, the real tangible price to pay for having promised implemented in pawns
+
+122
+00:07:08,199 --> 00:07:12,000
+unconditionally, there are those who begin with any form of compromise.
+
+123
+00:07:12,000 --> 00:07:17,399
+In light of these unequivocal data, a reflection emerges that I believe touches all of us
+
+124
+00:07:17,399 --> 00:07:18,399
+NEAR
+
+125
+00:07:18,399 --> 00:07:20,199
+How do you keep your balance?
+
+126
+00:07:20,199 --> 00:07:25,040
+How can we respond democratically to a deeply distrustful electorate,
+
+127
+00:07:25,040 --> 00:07:27,840
+that you demand decisive actions without nuances?
+
+128
+00:07:27,840 --> 00:07:32,720
+However, being able to protect those fundamental technical skills to prevent the scaffolding
+
+129
+00:07:32,720 --> 00:07:34,120
+of the cichrolli state on you.
+
+130
+00:07:34,120 --> 00:07:37,520
+It is a very open spy, on the art of governing.
+
+131
+00:07:37,520 --> 00:07:39,040
+And I'll leave it here.
+
+132
+00:07:39,040 --> 00:07:40,520
+As a starting point, keep on succeeding.
+

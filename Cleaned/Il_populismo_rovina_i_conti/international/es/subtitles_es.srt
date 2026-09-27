@@ -1,0 +1,527 @@
+1
+00:00:00,000 --> 00:00:02,240
+Bienvenidos a este nuevo análisis.
+
+2
+00:00:02,240 --> 00:00:06,400
+Hoy afrontamos una de esas preguntas que parecen simples pero que esconden un mundo
+
+3
+00:00:06,400 --> 00:00:07,400
+entero.
+
+4
+00:00:07,400 --> 00:00:10,160
+¿El populismo realmente arruina las cuentas?
+
+5
+00:00:10,160 --> 00:00:14,000
+En definitiva, ¿qué le ocurre a la máquina del Estado y a la economía cuando la retórica
+
+6
+00:00:14,000 --> 00:00:17,719
+electoral choca literalmente con la realidad de todos los días?
+
+7
+00:00:17,719 --> 00:00:22,080
+Gracias a los datos de un riguroso estudio económico, exploraremos los efectos medibles
+
+8
+00:00:22,080 --> 00:00:25,960
+de la elección de alcaldes con agendas, digamos, incondicionales.
+
+9
+00:00:25,960 --> 00:00:30,800
+Ninguna opinión política aquí, solo datos en la mano para entender las verdaderas repercusiones económicas
+
+10
+00:00:30,800 --> 00:00:31,800
+y burocráticas.
+
+11
+00:00:31,800 --> 00:00:32,799
+Empezamos ya.
+
+12
+00:00:32,799 --> 00:00:37,439
+Para enmarcar de inmediato de qué estamos hablando, partimos de un ejemplo concreto.
+
+13
+00:00:37,439 --> 00:00:43,799
+En 2018 Matteo Salvini escribía, tras haber frenado los desembarcos, mi mayor compromiso
+
+14
+00:00:43,799 --> 00:00:46,799
+es la expulsión de quien exige, exige, exige.
+
+15
+00:00:46,799 --> 00:00:47,799
+No me rindo.
+
+16
+00:00:47,799 --> 00:00:49,799
+Hashtag stop invasión.
+
+17
+00:00:49,799 --> 00:00:55,520
+Ahora bien, se esté de acuerdo o no, este es el ejemplo de manual de una promesa categórica,
+
+18
+00:00:55,520 --> 00:00:58,480
+un compromiso neto, sin peros ni matices.
+
+19
+00:00:58,480 --> 00:01:03,200
+La gran pregunta es qué ocurre con los presupuestos y las oficinas públicas cuando un pacto tan
+
+20
+00:01:03,200 --> 00:01:07,000
+férreo debe convertirse después en administración cotidiana.
+
+21
+00:01:07,000 --> 00:01:11,159
+Para descubrirlo, debemos dar un pequeño paso atrás y mirar el andamiaje teórico
+
+22
+00:01:11,159 --> 00:01:12,159
+de la investigación.
+
+23
+00:01:12,159 --> 00:01:18,079
+Lo haremos de forma totalmente neutral, concentrándonos exclusivamente en la mecánica, es decir en
+
+24
+00:01:18,079 --> 00:01:20,600
+cómo las promesas electorales se convierten en nociones prácticas.
+
+25
+00:01:21,320 --> 00:01:23,800
+Y aquí hay un punto absolutamente crucial.
+
+26
+00:01:23,800 --> 00:01:27,800
+En este análisis el populismo no se trata como una ideología de derecha o de
+
+27
+00:01:27,800 --> 00:01:28,800
+izquierda.
+
+28
+00:01:28,800 --> 00:01:32,760
+Más bien, se encuadra como una precisa estrategia política.
+
+29
+00:01:32,760 --> 00:01:37,280
+En la práctica es la oferta de compromisos políticos simples e incondicionales, facilísimos de
+
+30
+00:01:37,280 --> 00:01:40,800
+monitorear para quien vota, especialmente en esos momentos históricos en que la confianza
+
+31
+00:01:40,800 --> 00:01:43,760
+en las instituciones tradicionales se derrumba en picado.
+
+32
+00:01:43,760 --> 00:01:49,320
+Insisto: ningún juicio moral aquí, solo estamos desmontando el engranaje de una promesa.
+
+33
+00:01:49,320 --> 00:01:53,200
+En este esquema es realmente iluminador porque contrapone dos mundos opuestos.
+
+34
+00:01:53,200 --> 00:01:55,840
+Por un lado, el modelo fiduciario tradicional.
+
+35
+00:01:55,840 --> 00:01:59,880
+Aquí se premia la competencia técnica y quien gobierna tiene margen para adaptarse a los
+
+36
+00:01:59,880 --> 00:02:00,880
+imprevistos.
+
+37
+00:02:00,880 --> 00:02:04,960
+Por el otro, el modelo del delegado comprometido, típico del populismo.
+
+38
+00:02:04,960 --> 00:02:09,200
+Aquí la prioridad absoluta es adherirse de modo inflexible al plan original.
+
+39
+00:02:09,200 --> 00:02:14,360
+Y la historia nos enseña que cuando la confianza se derrumba la gente no busca adaptabilidad.
+
+40
+00:02:14,360 --> 00:02:18,840
+Quieren precisamente al delegado comprometido, alguien que va directo cueste lo que cueste.
+
+41
+00:02:19,719 --> 00:02:22,719
+Vale, pero ¿cómo medimos todo esto de forma objetiva?
+
+42
+00:02:22,719 --> 00:02:27,479
+Los investigadores encontraron un fantástico laboratorio natural, lejos del caos de las elecciones
+
+43
+00:02:27,479 --> 00:02:28,479
+nacionales.
+
+44
+00:02:28,479 --> 00:02:31,479
+Perfecto para testar esta teoría: los gobiernos locales.
+
+45
+00:02:31,479 --> 00:02:34,639
+Y atención a los números, porque son impresionantes.
+
+46
+00:02:34,639 --> 00:02:40,159
+Los datos cubren nada menos que 8.000 municipios italianos, siguiendo su historia administrativa y económica
+
+47
+00:02:40,159 --> 00:02:44,000
+durante más de veinte años: una mole de información gigantesca.
+
+48
+00:02:44,000 --> 00:02:48,479
+Es precisamente esta escala enorme la que nos garantiza que las tendencias que vamos a descubrir son
+
+49
+00:02:48,479 --> 00:02:50,079
+sólidas e innegables.
+
+50
+00:02:50,079 --> 00:02:54,919
+El truco matemático usado aquí se llama diseño de regresión discontinua.
+
+51
+00:02:54,919 --> 00:03:00,439
+Sin pánico: el concepto es simple, sirve para aislar el impacto real del líder populista.
+
+52
+00:03:00,439 --> 00:03:04,599
+Se toman los municipios donde este candidato ganó por un puñado de votos y se comparan
+
+53
+00:03:04,599 --> 00:03:06,839
+con aquellos donde perdió por un suspiro.
+
+54
+00:03:06,839 --> 00:03:12,479
+Comparando victorias y derrotas decididas literalmente en el fotofinish, obtenemos ciudades estadísticamente
+
+55
+00:03:12,479 --> 00:03:13,479
+casi gemelas.
+
+56
+00:03:13,479 --> 00:03:17,479
+La única verdadera diferencia: el tipo de junta recién instalada.
+
+57
+00:03:17,640 --> 00:03:21,640
+Y ahora entramos en lo vivo con la primera serie de resultados concretos.
+
+58
+00:03:21,640 --> 00:03:26,000
+Hablemos del verdadero motor de toda administración: las cuentas y los presupuestos.
+
+59
+00:03:26,000 --> 00:03:31,080
+¿Qué ocurre cuando la intransigencia de la promesa choca contra la contabilidad real?
+
+60
+00:03:31,080 --> 00:03:35,160
+Echando un vistazo a estos gráficos económicos, hay un detalle que salta a la vista de inmediato.
+
+61
+00:03:35,160 --> 00:03:37,760
+¿Ven esa línea vertical discontinua en el 0?
+
+62
+00:03:37,760 --> 00:03:41,560
+Ese es el momento exacto de la victoria, el margen 0.
+
+63
+00:03:41,560 --> 00:03:46,120
+Miren cómo las líneas de los datos dan literalmente un salto justo en ese umbral.
+
+64
+00:03:46,120 --> 00:03:51,280
+Ese salto visual, neto e inequívoco, es la transformación directa causada por la nueva
+
+65
+00:03:51,280 --> 00:03:52,280
+administración.
+
+66
+00:03:52,280 --> 00:03:57,439
+Traduciendo esos saltos en números, las consecuencias financieras no dejan lugar a dudas.
+
+67
+00:03:57,439 --> 00:04:01,120
+Ante todo, se observa un menor reembolso de las deudas pasadas.
+
+68
+00:04:01,120 --> 00:04:06,240
+Aún más sorprendente, un aumento de 5,3 puntos porcentuales de los contratos públicos
+
+69
+00:04:06,240 --> 00:04:08,520
+que terminan sobrepasando los costes previstos.
+
+70
+00:04:08,520 --> 00:04:11,840
+Y para terminar, se acumula más deuda ciudadana en general.
+
+71
+00:04:11,840 --> 00:04:13,240
+El punto es este.
+
+72
+00:04:13,240 --> 00:04:18,120
+Si intentas sacar adelante un compromiso ignorando los límites financieros normales, creas ineficiencias
+
+73
+00:04:18,120 --> 00:04:19,120
+pesadas en el presupuesto.
+
+74
+00:04:19,120 --> 00:04:20,120
+Es matemático.
+
+75
+00:04:20,120 --> 00:04:24,480
+Pero los presupuestos, lo sabemos bien, no se escriben solos.
+
+76
+00:04:24,480 --> 00:04:27,960
+Hay toda una máquina organizativa detrás hecha de personas.
+
+77
+00:04:27,960 --> 00:04:31,280
+Pasemos entonces al segundo gran capítulo de este estudio.
+
+78
+00:04:31,280 --> 00:04:33,079
+El impacto sobre la burocracia.
+
+79
+00:04:33,079 --> 00:04:37,720
+Volviendo a nuestros gráficos, centrándonos en los dos últimos paneles, los del capital
+
+80
+00:04:37,720 --> 00:04:41,800
+humano, los saltos cerca de la línea 0 son igual de vertiginosos.
+
+81
+00:04:42,319 --> 00:04:46,920
+Aquí vemos materializarse el choque titánico entre la agenda incondicional de la nueva dirección
+
+82
+00:04:46,920 --> 00:04:49,720
+política y el aparato de los técnicos expertos.
+
+83
+00:04:49,720 --> 00:04:52,720
+Y las dinámicas internas son asombrosas.
+
+84
+00:04:52,720 --> 00:04:58,680
+El turnover, es decir el recambio de los altos cargos, se dispara un 50%.
+
+85
+00:04:58,680 --> 00:05:03,720
+Mientras tanto, hay una caída seca de 5,0 puntos porcentuales de managers con un título de
+
+86
+00:05:03,720 --> 00:05:04,720
+estudios de posgrado.
+
+87
+00:05:04,720 --> 00:05:08,920
+En pocas palabras, las competencias se desmantelan literalmente.
+
+88
+00:05:08,920 --> 00:05:13,160
+Los funcionarios expertos, aquellos que quizá levantan la mano diciendo: miren que esta
+
+89
+00:05:13,160 --> 00:05:17,920
+política no es viable, son reemplazados por personal menos formado, pero probablemente
+
+90
+00:05:17,920 --> 00:05:19,920
+considerado más obediente.
+
+91
+00:05:19,920 --> 00:05:24,040
+Llegados a este punto surge espontánea la verdadera pregunta investigativa.
+
+92
+00:05:24,040 --> 00:05:28,480
+¿Todos estos super-expertos se van por voluntad propia, quizá porque rechazan
+
+93
+00:05:28,480 --> 00:05:34,879
+la nueva línea política, o son acompañados, digamos, hasta la puerta?
+
+94
+00:05:34,879 --> 00:05:38,680
+Este gráfico responde a la pregunta ofreciendo la prueba quizá más fascinante de todo
+
+95
+00:05:38,680 --> 00:05:39,680
+el estudio.
+
+96
+00:05:39,680 --> 00:05:44,079
+La barra que representa las dimisiones voluntarias se queda inmóvil, plana sobre la línea
+
+97
+00:05:44,079 --> 00:05:45,079
+del cero.
+
+98
+00:05:45,079 --> 00:05:50,319
+En cambio, el indicador de las salidas forzadas da un salto impresionante hacia la derecha,
+
+99
+00:05:50,319 --> 00:05:53,079
+un aumento neto e innegable de las destituciones.
+
+100
+00:05:53,079 --> 00:05:56,840
+La conclusión es fuerte, incluso fortísima.
+
+101
+00:05:56,840 --> 00:06:02,800
+Ningún éxodo voluntario, ninguna crisis de conciencia masiva: los datos nos dicen claramente
+
+102
+00:06:02,800 --> 00:06:07,480
+que la salida de escena de los managers públicos más cualificados es provocada activamente, de modo
+
+103
+00:06:07,480 --> 00:06:09,640
+forzado, por los alcaldes recién elegidos.
+
+104
+00:06:09,640 --> 00:06:14,800
+Es una estrategia calculada para frenar la llamada resistencia técnica y tirar derecho
+
+105
+00:06:14,800 --> 00:06:15,800
+con sus propios planes.
+
+106
+00:06:15,800 --> 00:06:18,920
+Y aquí el puzzle toma forma.
+
+107
+00:06:18,920 --> 00:06:23,240
+Unimos el empeoramiento de las finanzas locales con esta verdadera epuración burocrática
+
+108
+00:06:23,240 --> 00:06:25,560
+y vamos a sacar las cuentas.
+
+109
+00:06:25,560 --> 00:06:27,480
+Ese es el balance final de todo esto.
+
+110
+00:06:27,480 --> 00:06:30,960
+El corazón del conflicto se resume perfectamente aquí.
+
+111
+00:06:30,960 --> 00:06:36,120
+Por un lado, los burócratas expertos que plantean dudas sensatas y destacan límites normativos
+
+112
+00:06:36,120 --> 00:06:37,120
+o falta de fondos.
+
+113
+00:06:37,519 --> 00:06:42,040
+Por el otro, los burócratas no expertos, a menudo insertados después, que ejecutan a cabeza baja las
+
+114
+00:06:42,040 --> 00:06:44,639
+promesas hechas sin plantear la mínima objeción.
+
+115
+00:06:44,639 --> 00:06:49,439
+Es precisamente esta fractura la que dispersa el talento administrativo y lleva derecho a los agujeros
+
+116
+00:06:49,439 --> 00:06:50,439
+de presupuesto.
+
+117
+00:06:50,439 --> 00:06:55,399
+Al final del día son las dos caras de la misma moneda: el colapso del rendimiento
+
+118
+00:06:55,399 --> 00:07:00,160
+económico por un lado y la destrucción de una sólida administración técnica por el otro
+
+119
+00:07:00,160 --> 00:07:02,120
+viajan juntos, de la mano.
+
+120
+00:07:02,680 --> 00:07:03,680
+Eso es.
+
+121
+00:07:03,680 --> 00:07:08,199
+Números en la mano, el verdadero precio tangible a pagar por haber prometido y aplicado compromisos
+
+122
+00:07:08,199 --> 00:07:12,000
+incondicionales, hay quien se niega a cualquier forma de compromiso.
+
+123
+00:07:12,000 --> 00:07:17,399
+A la luz de estos datos inequívocos emerge una reflexión que creo que nos toca a todos
+
+124
+00:07:17,399 --> 00:07:18,399
+de cerca.
+
+125
+00:07:18,399 --> 00:07:20,199
+¿Cómo se mantiene el equilibrio?
+
+126
+00:07:20,199 --> 00:07:25,040
+¿Cómo podemos responder de modo democrático a un electorado profundamente desconfiado,
+
+127
+00:07:25,040 --> 00:07:27,840
+que exige acciones decididas y sin matices?
+
+128
+00:07:27,840 --> 00:07:32,720
+Logrando, sin embargo, proteger esas competencias técnicas fundamentales para evitar que el andamiaje
+
+129
+00:07:32,720 --> 00:07:34,120
+del Estado se nos venga encima.
+
+130
+00:07:34,120 --> 00:07:37,520
+Es un desafío completamente abierto, sobre el arte de gobernar.
+
+131
+00:07:37,520 --> 00:07:39,040
+Y lo dejo aquí.
+
+132
+00:07:39,040 --> 00:07:40,520
+Como punto de partida sobre el que seguir reflexionando.
