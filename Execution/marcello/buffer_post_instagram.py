@@ -16,7 +16,7 @@ load_dotenv(env_path)
 
 BUFFER_TOKEN = os.getenv("BUFFER_ACCESS_TOKEN")
 IG_PROFILE_ID = os.getenv("IG_PROFILE_ID")
-REPO_BASE_URL = "https://raw.githubusercontent.com/cosafannoglieconomisti-bot/Cosa-fanno-gli-Economisti/main"
+REPO_BASE_URL = "https://raw.githubusercontent.com/MarcoLeMoglie/canale-buffer-assets/main"
 CLEANED_DIR = str(REPO_ROOT / 'Cleaned')
 
 # Mapping of Paper Folders to Infographics and YT Links

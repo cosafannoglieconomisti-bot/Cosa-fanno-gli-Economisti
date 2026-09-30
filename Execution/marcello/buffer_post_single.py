@@ -60,7 +60,7 @@ IG_PROFILE_ID       = os.getenv("IG_PROFILE_ID")
 BUFFER_ORG_ID       = os.getenv("BUFFER_ORG_ID")
 
 BUFFER_GRAPHQL_URL  = "https://api.buffer.com/graphql"
-REPO_BASE_URL       = "https://raw.githubusercontent.com/cosafannoglieconomisti-bot/Cosa-fanno-gli-Economisti/main"
+REPO_BASE_URL       = "https://raw.githubusercontent.com/MarcoLeMoglie/canale-buffer-assets/main"
 HISTORY_DIR         = str(REPO_ROOT / 'Temp' / 'marcello')
 CLEANED_DIR         = str(REPO_ROOT / 'Cleaned')
 TOKEN_FILE          = str(REPO_ROOT / 'Execution' / 'credentials' / 'token.pickle')
@@ -557,7 +557,7 @@ def post_to_buffer(caption: str, video_id: str, platform: str = "facebook", dry_
         return False
 
 
-def run(video_id_override=None, dry_run=False, scheduled_hour=9, platform="instagram", days_ahead=1, folder_name_override=None, force_facebook=False, content_type="post", media_video_url=None, short_angle="1"):
+def run(video_id_override=None, dry_run=False, scheduled_hour=9, platform="instagram", days_ahead=1, folder_name_override=None, force_facebook=False, content_type="post", media_video_url=None, short_angle="1", image_url_override=None):
     if platform == "facebook":
         refuse_suspended_facebook(force_facebook=force_facebook)
     history = load_history(platform=platform)
@@ -673,6 +673,9 @@ def run(video_id_override=None, dry_run=False, scheduled_hour=9, platform="insta
     if asset and content_type != "reel":
         folder_name = os.path.basename(folder)
         image_url = f"{REPO_BASE_URL}/Cleaned/{urllib.parse.quote(folder_name)}/{urllib.parse.quote(asset)}?v=2"
+    if image_url_override and content_type != "reel":
+        image_url = image_url_override
+        print(f"🖼️ Image URL override: {image_url}")
     elif content_type != "reel":
         print(f"⚠️ Nessun asset trovato per {platform}.")
 
@@ -728,6 +731,7 @@ if __name__ == "__main__":
     parser.add_argument("--folder-name", default=None, help="Nome cartella in Cleaned/ (bypassa YouTube API)")
     parser.add_argument("--dry-run",  action="store_true")
     parser.add_argument("--hour",     type=int, default=10)
+    parser.add_argument("--image-url", help="Override public HTTPS image URL (e.g. litter.catbox PNG when GitHub push unavailable)")
     parser.add_argument("--days-ahead", type=int, default=1)
     parser.add_argument("--platform", choices=["facebook", "instagram"], default="instagram")
     parser.add_argument(
@@ -763,6 +767,7 @@ if __name__ == "__main__":
         dry_run=args.dry_run,
         scheduled_hour=args.hour,
         platform=args.platform,
+        image_url_override=getattr(args, "image_url", None),
         days_ahead=args.days_ahead,
         folder_name_override=args.folder_name,
         force_facebook=args.force_facebook,

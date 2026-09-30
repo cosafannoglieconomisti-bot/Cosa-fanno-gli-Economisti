@@ -32,6 +32,10 @@ DOWNLOADS = HOME / "Downloads"
 PAPERS_DIR = ROOT / "Papers/Da fare"
 CLEANED_DIR = ROOT / "Cleaned"
 TEMP_DIR = ROOT / "Temp"
+# Buffer IG media: dedicated public repo (Marco has write). Code origin stays bot repo.
+BUFFER_ASSETS_REMOTE = "https://github.com/MarcoLeMoglie/canale-buffer-assets.git"
+BUFFER_ASSETS_RAW = "https://raw.githubusercontent.com/MarcoLeMoglie/canale-buffer-assets/main"
+BUFFER_ASSETS_DIR = TEMP_DIR / "mercurio" / "canale-buffer-assets"
 ACTIVE_PIPE = ROOT / "Temp/enea/active_pipeline.json"
 TRACKING_PATH = ROOT / "Cleaned/video_tracking.json"
 COMMAND_MAP = ROOT / "Execution/cesare/command_map.json"
@@ -1166,39 +1170,106 @@ def ready_upload_folders():
 
 
 
-def push_buffer_assets(folder: str) -> None:
-    """Commit+push solo Cleaned/{folder} (no mp4, gitignore) + video_tracking.json.
+def ensure_buffer_assets_repo() -> Path:
+    """Clone or update local checkout of MarcoLeMoglie/canale-buffer-assets under Temp/."""
+    BUFFER_ASSETS_DIR.parent.mkdir(parents=True, exist_ok=True)
+    if (BUFFER_ASSETS_DIR / ".git").is_dir():
+        fetch = run_cmd(["git", "-C", str(BUFFER_ASSETS_DIR), "fetch", "origin"], check=False)
+        print((fetch.stdout or fetch.stderr or "").strip())
+        checkout = run_cmd(
+            ["git", "-C", str(BUFFER_ASSETS_DIR), "checkout", "main"],
+            check=False,
+        )
+        print((checkout.stdout or checkout.stderr or "").strip())
+        pull = run_cmd(
+            ["git", "-C", str(BUFFER_ASSETS_DIR), "pull", "--ff-only", "origin", "main"],
+            check=False,
+        )
+        print((pull.stdout or pull.stderr or "").strip())
+        return BUFFER_ASSETS_DIR
+    clone = run_cmd(
+        ["git", "clone", "--branch", "main", BUFFER_ASSETS_REMOTE, str(BUFFER_ASSETS_DIR)],
+        check=False,
+    )
+    print((clone.stdout or clone.stderr or "").strip())
+    if clone.returncode != 0 or not (BUFFER_ASSETS_DIR / ".git").is_dir():
+        raise WorkflowError(
+            clone.stderr or clone.stdout or f"Clone buffer-assets fallito: {BUFFER_ASSETS_REMOTE}"
+        )
+    return BUFFER_ASSETS_DIR
 
-    Necessario PRIMA del post Buffer IG: raw.githubusercontent deve servire PNG/md/srt.
-    No force-push. Non tocca git config. Non stagea il resto del working tree.
+
+def push_buffer_assets(folder: str) -> None:
+    """Sync Cleaned/{folder} (no mp4) into MarcoLeMoglie/canale-buffer-assets and push.
+
+    Necessario PRIMA del post Buffer IG: raw.githubusercontent (canale-buffer-assets)
+    deve servire PNG/md/srt. Non tocca origin del repo canale (bot). No force-push.
     """
     folder_path = CLEANED_DIR / folder
     if not folder_path.is_dir():
         raise WorkflowError(f"Cartella asset Buffer assente: {folder_path}")
 
-    paths = [f"Cleaned/{folder}", "Cleaned/video_tracking.json"]
-    # Verifica che ci sia qualcosa di tracciabile (png/md/…)
-    add = run_cmd(["git", "add", "--", *paths], check=False)
+    assets_repo = ensure_buffer_assets_repo()
+    dest_root = assets_repo / "Cleaned" / folder
+    dest_root.mkdir(parents=True, exist_ok=True)
+
+    skip_suffixes = {".mp4", ".mov", ".mkv", ".avi", ".webm"}
+    copied = []
+    for src in folder_path.rglob("*"):
+        if not src.is_file():
+            continue
+        if src.suffix.lower() in skip_suffixes:
+            continue
+        rel = src.relative_to(folder_path)
+        dest = dest_root / rel
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(src, dest)
+        copied.append(f"Cleaned/{folder}/{rel.as_posix()}")
+
+    tracking_src = CLEANED_DIR / "video_tracking.json"
+    if tracking_src.is_file():
+        tracking_dest_dir = assets_repo / "Cleaned"
+        tracking_dest_dir.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(tracking_src, tracking_dest_dir / "video_tracking.json")
+        copied.append("Cleaned/video_tracking.json")
+
+    if not copied:
+        log(f"Nessun file Buffer (non-mp4) da syncare per {folder}.")
+        return
+
+    add = run_cmd(
+        ["git", "-C", str(assets_repo), "add", "--", f"Cleaned/{folder}", "Cleaned/video_tracking.json"],
+        check=False,
+    )
     print((add.stdout or add.stderr or "").strip())
-    staged = run_cmd(["git", "diff", "--cached", "--name-only", "--", *paths], check=False)
+    staged = run_cmd(
+        ["git", "-C", str(assets_repo), "diff", "--cached", "--name-only"],
+        check=False,
+    )
     staged_files = [line.strip() for line in (staged.stdout or "").splitlines() if line.strip()]
     if not staged_files:
-        log(f"Buffer assets già allineati su git per {folder} (niente da commitare).")
+        log(f"Buffer assets già allineati su canale-buffer-assets per {folder}.")
         return
-    log(f"Commit Buffer assets ({len(staged_files)} file): {folder}")
+
+    log(f"Commit Buffer assets ({len(staged_files)} file) → canale-buffer-assets: {folder}")
     commit = run_cmd(
-        ["git", "commit", "-m", f"Buffer assets: {folder}", "--", *paths],
+        ["git", "-C", str(assets_repo), "commit", "-m", f"Buffer assets: {folder}"],
         check=False,
     )
     print((commit.stdout or commit.stderr or "").strip())
     combined = ((commit.stdout or "") + (commit.stderr or "")).lower()
     if commit.returncode != 0 and "nothing to commit" not in combined and "no changes" not in combined:
         raise WorkflowError(commit.stderr or commit.stdout or "Commit Buffer assets fallito.")
-    push = run_cmd(["git", "push", "origin", "HEAD:main"], check=False)
+
+    push = run_cmd(
+        ["git", "-C", str(assets_repo), "push", "origin", "HEAD:main"],
+        check=False,
+    )
     print((push.stdout or push.stderr or "").strip())
     if push.returncode != 0:
         raise WorkflowError(push.stderr or push.stdout or "Push Buffer assets fallito (no force).")
-    log(f"Push Buffer assets ok: Cleaned/{folder} su origin/main")
+    log(f"Push Buffer assets ok: Cleaned/{folder} su MarcoLeMoglie/canale-buffer-assets main")
+    log(f"Raw base: {BUFFER_ASSETS_RAW}/Cleaned/{folder}/")
 
 
 def host_short_mp4_public(mp4_path: Path) -> str:
@@ -1243,7 +1314,7 @@ def mark_facebook_suspended(folder: str) -> None:
 def workflow_upload(args):
     """Ordine deterministico post-Ambiente_o_consenso:
     a) YT long
-    b) push Buffer assets (PNG/md/srt — no mp4) su origin/main
+    b) push Buffer assets (PNG/md/srt — no mp4) su MarcoLeMoglie/canale-buffer-assets
     c) Buffer IG infografica
     d) YT Short(s) + LONG_ID in descrizione
     e) host short mp4 pubblico (litter.catbox) → Buffer Reel
@@ -1374,6 +1445,7 @@ def workflow_upload(args):
                     "--platform", "instagram",
                     "--content-type", "reel",
                     "--folder-name", folder,
+                    "--hour", "12",
                 ]
                 if video_url:
                     reel_cmd.extend(["--video-url", video_url])
