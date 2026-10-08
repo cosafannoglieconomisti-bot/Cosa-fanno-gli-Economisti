@@ -231,8 +231,16 @@ def build_our_catalog():
 
     catalog = []
     for our_title, meta in tracking.items():
-        youtube_url = meta.get("youtube_url")
-        if not youtube_url or youtube_url == "Da fare":
+        if not isinstance(meta, dict) or our_title.startswith("-"):
+            continue
+        youtube_url = meta.get("youtube_url") or ""
+        youtube_id = meta.get("youtube_id") or ""
+        # Solo video davvero online: URL YouTube reale + id; mai video rimossi/sostituiti
+        # (es. Denunciare_aiuta_l_integrazione, cancellato 2026-10-08) né non pubblicati.
+        if not youtube_id or not youtube_url.startswith("http") or youtube_id not in youtube_url:
+            continue
+        status = str(meta.get("status", "")).strip().lower()
+        if meta.get("removed") or meta.get("replaced_by") or status in {"rimosso", "removed", "cancellato", "non_pubblicato"}:
             continue
         metadata_path = os.path.join(REPO_ROOT, "Cleaned", our_title, "video_metadata.md")
         if not os.path.exists(metadata_path):
