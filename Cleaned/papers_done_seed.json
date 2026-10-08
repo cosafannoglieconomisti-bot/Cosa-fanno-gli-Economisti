@@ -1,0 +1,1132 @@
+{
+ "note": "Seed curato per Execution/enea/papers_done.py: autori/titoli/DOI dalla coda outreach (box /workspace/canale/author_outreach_queue.csv, 2026-10-08) + voci manuali. Aggiungi qui i paper trattati che non hanno una cartella in Cleaned/.",
+ "papers": [
+  {
+   "slug": "L_Italia_e_diventata_Kafkiana",
+   "source": "outreach_queue",
+   "title_it": "L'Italia è diventata Kafkiana?",
+   "academic_titles": [
+    "From Weber to Kafka: Political Instability and the Overproduction of Laws"
+   ],
+   "authors": "Gabriele Gratton; Luigi Guiso; Claudio Michelacci; Massimo Morelli",
+   "dois": [
+    "10.1257/aer.20190672"
+   ]
+  },
+  {
+   "slug": "La_politica_e_piu_rischiosa",
+   "source": "outreach_queue",
+   "title_it": "La politica è più rischiosa per le donne?",
+   "academic_titles": [
+    "Attacking Women or their Policies? Understanding Violence against Women in Politics"
+   ],
+   "authors": "Gianmarco Daniele; Gemma Dipoppa; Massimo Pulejo",
+   "dois": [
+    "10.1086/743456"
+   ]
+  },
+  {
+   "slug": "Il_populismo_rovina_i_conti",
+   "source": "outreach_queue",
+   "title_it": "Il populismo rovina i conti?",
+   "academic_titles": [
+    "A Costly Commitment: Populism, Economic Performance, and the Quality of Bureaucracy"
+   ],
+   "authors": "Luca Bellodi; Massimo Morelli; Matia Vannoni",
+   "dois": [
+    "10.1111/ajps.12782"
+   ]
+  },
+  {
+   "slug": "Denunciare_aiuta_l_integrazione",
+   "source": "outreach_queue",
+   "title_it": "Denunciare aiuta l'integrazione?",
+   "academic_titles": [
+    "When Migrants Mobilize against Labor Exploitation: Evidence from the Italian Farmlands"
+   ],
+   "authors": "Gemma Dipoppa",
+   "dois": [
+    "10.1017/S0003055424001138"
+   ]
+  },
+  {
+   "slug": "Ambiente_o_consenso",
+   "source": "outreach_queue",
+   "title_it": "Ambiente o consenso?",
+   "academic_titles": [
+    "The Political Consequences of Green Policies: Evidence from Italy"
+   ],
+   "authors": "Colantone; Di Lonardo; Margalit; Percoco",
+   "dois": [
+    "10.1017/S0003055423000308"
+   ]
+  },
+  {
+   "slug": "Il_sindacato_spezza_il_caporalato",
+   "source": "outreach_queue",
+   "title_it": "Il sindacato spezza il caporalato?",
+   "academic_titles": [
+    "When Migrants Mobilize against Labor Exploitation: Evidence from the Italian Farmlands"
+   ],
+   "authors": "Gemma Dipoppa",
+   "dois": [
+    "10.1017/S0003055424001138"
+   ]
+  },
+  {
+   "slug": "Si_eredita_l_odio",
+   "source": "outreach_queue",
+   "title_it": "Si eredita l'odio?",
+   "academic_titles": [
+    "Nazi indoctrination and anti-Semitic beliefs in Germany"
+   ],
+   "authors": "Voigtländer; Voth",
+   "dois": []
+  },
+  {
+   "slug": "Il_ballottaggio_frena_gli_estremisti",
+   "source": "outreach_queue",
+   "title_it": "Il ballottaggio frena gli estremisti?",
+   "academic_titles": [
+    "Moderating Political Extremism Single Round versus Runoff Elections under Plurality Rule"
+   ],
+   "authors": "Bordignon; Nannicini; Tabellini",
+   "dois": []
+  },
+  {
+   "slug": "Amiamo_le_tasse_Questione_culturale",
+   "source": "outreach_queue",
+   "title_it": "Amiamo le tasse? Questione culturale",
+   "academic_titles": [
+    "Culture, Context, and the Taste for Redistribution"
+   ],
+   "authors": "Luttmer; Singhal",
+   "dois": []
+  },
+  {
+   "slug": "Amore_o_documenti_La_verita",
+   "source": "outreach_queue",
+   "title_it": "Amore o documenti?",
+   "academic_titles": [
+    "There’s More to Marriage Than Love"
+   ],
+   "authors": "Adda; Pinotti; Tura",
+   "dois": [
+    "10.1086/734093"
+   ]
+  },
+  {
+   "slug": "Basta_un_Coinquilino_per_Cambiare_il_Tuo_Futuro",
+   "source": "outreach_queue",
+   "title_it": "Basta un Coinquilino per Cambiare il Tuo Futuro",
+   "academic_titles": [
+    "Interaction, Stereotypes, and Performance: Evidence from South Africa"
+   ],
+   "authors": "Corno; La Ferrara; Burns",
+   "dois": [
+    "10.1257/aer.20181805"
+   ]
+  },
+  {
+   "slug": "Carceri_piene_o_strade_sicure",
+   "source": "outreach_queue",
+   "title_it": "Carceri piene o strade sicure?",
+   "academic_titles": [
+    "Incarceration and Incapacitation: Evidence from the 2006 Italian Collective Pardon"
+   ],
+   "authors": "Buonanno; Raphael",
+   "dois": []
+  },
+  {
+   "slug": "Cervelli_in_fuga_un_danno",
+   "source": "outreach_queue",
+   "title_it": "Cervelli in fuga: un danno?",
+   "academic_titles": [
+    "The Collapse of the Soviet Union and the Productivity of American Mathematicians"
+   ],
+   "authors": "Borjas; Doran",
+   "dois": []
+  },
+  {
+   "slug": "Dalle_Guerre_ai_Capolavori",
+   "source": "outreach_queue",
+   "title_it": "Dalle Guerre ai Capolavori",
+   "academic_titles": [
+    "Copyrights and Creativity: Evidence from Italian Opera in the Napoleonic Age"
+   ],
+   "authors": "Michela Giorcelli; Petra Moser",
+   "dois": []
+  },
+  {
+   "slug": "Dio_blocca_la_democrazia",
+   "source": "outreach_queue",
+   "title_it": "Dio blocca la democrazia?",
+   "academic_titles": [
+    "Earthquakes, Religion, and Transition to Self-Government in Italian Cities"
+   ],
+   "authors": "Belloc; Drago; Galbiati",
+   "dois": []
+  },
+  {
+   "slug": "Figli_o_Pensione_La_Scelta",
+   "source": "outreach_queue",
+   "title_it": "Figli o Pensione: La Scelta",
+   "academic_titles": [
+    "Pensions and Fertility: Microeconomic Evidence"
+   ],
+   "authors": "Danzer; Zyska",
+   "dois": [
+    "10.1257/pol.20200440"
+   ]
+  },
+  {
+   "slug": "I_Presidenti_mentono_sulle_tasse",
+   "source": "outreach_queue",
+   "title_it": "I Presidenti mentono sulle tasse?",
+   "academic_titles": [
+    "Min(d)ing the President: A Text Analytic Approach to Measuring Tax News"
+   ],
+   "authors": "Lieb; Jassem; Almeida; Baştürk; Smeekes",
+   "dois": [
+    "10.1257/mac.20210226"
+   ]
+  },
+  {
+   "slug": "I_costi_dell_aborto_negato",
+   "source": "outreach_queue",
+   "title_it": "I Costi dell'Aborto Negato",
+   "academic_titles": [
+    "The Impact of Being Denied a Wanted Abortion on Women and Their Children"
+   ],
+   "authors": "Londoño-Vélez; Saravia",
+   "dois": [
+    "10.1093/qje/qjaf006"
+   ]
+  },
+  {
+   "slug": "I_prof_sono_razzisti",
+   "source": "outreach_queue",
+   "title_it": "I prof sono razzisti?",
+   "academic_titles": [
+    "Revealing Stereotypes: Evidence from Immigrants in Schools"
+   ],
+   "authors": "Alesina; Carlana; La Ferrara; Pinotti",
+   "dois": [
+    "10.1257/aer.20191184"
+   ]
+  },
+  {
+   "slug": "I_robot_ci_rubano_davvero_il_lavoro_AER_2020",
+   "source": "outreach_queue",
+   "title_it": "I robot ci rubano davvero il lavoro?",
+   "academic_titles": [
+    "Robots and Jobs: Evidence from US Labor Markets"
+   ],
+   "authors": "Acemoglu; Restrepo",
+   "dois": []
+  },
+  {
+   "slug": "Il_Pallone_Unisce_le_Nazioni",
+   "source": "outreach_queue",
+   "title_it": "Il Pallone Unisce le Nazioni",
+   "academic_titles": [
+    "Building Nations through Shared Experiences: Evidence from African Football"
+   ],
+   "authors": "Emilio Depetris-Chauvin; Ruben Durante; Filipe Campante",
+   "dois": [
+    "10.1257/aer.20180805"
+   ]
+  },
+  {
+   "slug": "Il_Talento_Non_Ha_Genere",
+   "source": "outreach_queue",
+   "title_it": "Il Talento Non Ha Genere",
+   "academic_titles": [
+    "Orchestrating Impartiality: The Impact of “Blind” Auditions on Female Musicians"
+   ],
+   "authors": "Claudia Goldin; Cecilia Rouse",
+   "dois": [
+    "10.1257/aer.90.4.715"
+   ]
+  },
+  {
+   "slug": "Il_comunismo_ti_cambia_la_mente",
+   "source": "outreach_queue",
+   "title_it": "Il comunismo ti cambia la mente?",
+   "academic_titles": [
+    "Good-Bye Lenin (or Not?): The Effect of Communism on People's Preferences"
+   ],
+   "authors": "Alesina; Fuchs-Schündeln",
+   "dois": [
+    "10.1257/aer.97.4.1507"
+   ]
+  },
+  {
+   "slug": "Il_lato_oscuro_della_TV_aer_2019",
+   "source": "outreach_queue",
+   "title_it": "Il lato oscuro della TV: come l'intrattenimento ha cambiato la politica italiana",
+   "academic_titles": [
+    "The Political Legacy of Entertainment TV"
+   ],
+   "authors": "Ruben Durante; Paolo Pinotti; Andrea Tesei",
+   "dois": [
+    "10.1257/aer.20150958"
+   ]
+  },
+  {
+   "slug": "Il_petrolio_causa_le_guerre",
+   "source": "outreach_queue",
+   "title_it": "Il petrolio causa le guerre?",
+   "academic_titles": [
+    "Oil and Conflict: What Does the Cross Country Evidence Really Show?"
+   ],
+   "authors": "Cotet; Tsui",
+   "dois": []
+  },
+  {
+   "slug": "Istituzioni_e_Sviluppo_qje_2014",
+   "source": "outreach_queue",
+   "title_it": "Istituzioni nazionali e sviluppo economico locale: Il paradosso del confine",
+   "academic_titles": [
+    "National Institutions and Subnational Development in Africa"
+   ],
+   "authors": "Stelios Michalopoulos ed Elias Papaioannou",
+   "dois": [
+    "10.1093/qje/qjt043"
+   ]
+  },
+  {
+   "slug": "L_ascesa_del_Male",
+   "source": "outreach_queue",
+   "title_it": "L'ascesa del Male: Come le grandi aziende fecero affari con Hitler",
+   "academic_titles": [
+    "Betting on Hitler: The Value of Political Connections in Nazi Germany"
+   ],
+   "authors": "Thomas Ferguson; Hans-Joachim Voth",
+   "dois": []
+  },
+  {
+   "slug": "L_eco_di_un_terremoto_aer_2007",
+   "source": "outreach_queue",
+   "title_it": "L'eco di un terremoto: il ruolo dei pari nelle decisioni scolastiche",
+   "academic_titles": [
+    "Social Interactions in High School: Lessons from an Earthquake"
+   ],
+   "authors": "Cipollone; Rosolia",
+   "dois": []
+  },
+  {
+   "slug": "La_Chiesa_frena_l_integrazione",
+   "source": "outreach_queue",
+   "title_it": "La Chiesa frena l'integrazione?",
+   "academic_titles": [
+    "Faith and Assimilation: Italian Immigrants in the United States"
+   ],
+   "authors": "Gagliarducci; Tabellini",
+   "dois": [
+    "10.1093/ej/ueaf010"
+   ]
+  },
+  {
+   "slug": "La_Cicala_e_la_Formica_qje_2024_video",
+   "source": "outreach_queue",
+   "title_it": "La cicala, la formica e l'origine dell'agricoltura",
+   "academic_titles": [
+    "The Ant and the Grasshopper: Seasonality and the Invention of Agriculture"
+   ],
+   "authors": "Andrea Matranga",
+   "dois": []
+  },
+  {
+   "slug": "La_Mafia_e_nata_in_miniera",
+   "source": "outreach_queue",
+   "title_it": "La Mafia è nata in miniera?",
+   "academic_titles": [
+    "Poor Institutions, Rich Mines: Resource Curse in the Origins of the Sicilian Mafia"
+   ],
+   "authors": "Buonanno; Durante; Prarolo; Vanin",
+   "dois": []
+  },
+  {
+   "slug": "La_Maledizione_delle_Risorse_Statali",
+   "source": "outreach_queue",
+   "title_it": "La Maledizione delle Risorse Statali",
+   "academic_titles": [
+    "The Political Resource Curse"
+   ],
+   "authors": "Brollo; Nannicini; Perotti; Tabellini",
+   "dois": []
+  },
+  {
+   "slug": "La_TV_riduce_la_natalita",
+   "source": "outreach_queue",
+   "title_it": "La TV riduce la natalità?",
+   "academic_titles": [
+    "Soap Operas and Fertility: Evidence from Brazil"
+   ],
+   "authors": "La Ferrara; Chong; Duryea",
+   "dois": []
+  },
+  {
+   "slug": "La_corruzione_ci_rende_tutti_più_ladri_aejapp_2023",
+   "source": "outreach_queue",
+   "title_it": "La corruzione ci rende tutti più ladri?",
+   "academic_titles": [
+    "Contagious Dishonesty: Corruption Scandals and Supermarket Theft"
+   ],
+   "authors": "Giorgio Gulino; Federico Masera",
+   "dois": [
+    "10.1257/app.20210446"
+   ]
+  },
+  {
+   "slug": "Laratro_ha_creato_il_patriarcato",
+   "source": "outreach_queue",
+   "title_it": "L'aratro ha creato il patriarcato?",
+   "academic_titles": [
+    "On the Origins of Gender Roles: Women and the Plough"
+   ],
+   "authors": "Alesina; Giuliano; Nunn",
+   "dois": [
+    "10.1093/qje/qjt005"
+   ]
+  },
+  {
+   "slug": "Le_città_perdute_dell_età_del_bronzo_qje_2019",
+   "source": "outreach_queue",
+   "title_it": "Archeologia Economica: Le Città Perdute dell'Età del Bronzo",
+   "academic_titles": [
+    "Trade, Merchants, and the Lost Cities of the Bronze Age"
+   ],
+   "authors": "Barjamovic et al",
+   "dois": [
+    "10.1093/qje/qjy031"
+   ]
+  },
+  {
+   "slug": "Lo_Stato_ed_il_Crimine_Organizzato_jpe_2020",
+   "source": "outreach_queue",
+   "title_it": "Lo Stato ed il Crimine Organizzato: Una storia di due banditi stazionari",
+   "academic_titles": [
+    "On the Origins of the State: Stationary Bandits and Taxation inEastern Congo"
+   ],
+   "authors": "Sánchez de la Sierra",
+   "dois": []
+  },
+  {
+   "slug": "Mafia_Inc_restat_2021",
+   "source": "outreach_queue",
+   "title_it": "Mafia Inc.: come la criminalità organizzata investe nell'economia legale",
+   "academic_titles": [
+    "Revealing “Mafia Inc.”? Financial Crisis, Organized Crime, and the Birth of New Enterprises"
+   ],
+   "authors": "Marco Le Moglie; Giuseppe Sorrenti",
+   "dois": [
+    "10.1162/rest_a_00942"
+   ]
+  },
+  {
+   "slug": "Mafia_e_Sviluppo_Pinotti_2015",
+   "source": "outreach_queue",
+   "title_it": "Mafia e Sviluppo: Il conto salato della criminalità organizzata",
+   "academic_titles": [
+    "The Economic Costs of Organised Crime: Evidence from Southern Italy"
+   ],
+   "authors": "Paolo Pinotti",
+   "dois": [
+    "10.1111/ecoj.12235"
+   ]
+  },
+  {
+   "slug": "Mafia_in_azienda_quanto_costa",
+   "source": "outreach_queue",
+   "title_it": "Mafia in azienda: quanto costa?",
+   "academic_titles": [
+    "The Economic Effects of Mafia: Firm Level Evidence"
+   ],
+   "authors": "Mirenda; Mocetti; Rizzica",
+   "dois": [
+    "10.1257/aer.20201015"
+   ]
+  },
+  {
+   "slug": "Memoria_di_sangue_il_legame_shock_tra_eccidi_nazisti_e_mercato_dell_auto_moderno",
+   "source": "outreach_queue",
+   "title_it": "Memoria di sangue: il legame shock tra eccidi nazisti e mercato dell auto moderno",
+   "academic_titles": [
+    "Collective Remembrance and Private Choice: German–Greek Conflict and Behavior in Times of Crisis"
+   ],
+   "authors": "Rohen Fouka; Hans-Joachim Voth",
+   "dois": [
+    "10.1017/S0003055422001095"
+   ]
+  },
+  {
+   "slug": "Meno_competizione_piu_merito",
+   "source": "outreach_queue",
+   "title_it": "Meno competizione, più merito?",
+   "academic_titles": [
+    "Less Competition, More Meritocracy?"
+   ],
+   "authors": "Fang; Noe",
+   "dois": [
+    "10.1086/716920"
+   ]
+  },
+  {
+   "slug": "Meritocrazia_o_pura_fortuna",
+   "source": "outreach_queue",
+   "title_it": "Meritocrazia o pura fortuna?",
+   "academic_titles": [
+    "A Meritocratic Origin of Egalitarian Behaviour"
+   ],
+   "authors": "Cappelen; Mollerstrom; Reme; Tungodden",
+   "dois": [
+    "10.1093/ej/ueac008"
+   ]
+  },
+  {
+   "slug": "Mogano_Insanguinato_aejapp_2017",
+   "source": "outreach_queue",
+   "title_it": "Mogano insanguinato: il prezzo di una legge non applicata",
+   "academic_titles": [
+    "The Use of Violence in Illegal Markets: Evidence from Mahogany Trade in the Brazilian Amazon"
+   ],
+   "authors": "Ariaster B. Chimeli; Rodrigo R. Soares",
+   "dois": [
+    "10.1257/app.20160055"
+   ]
+  },
+  {
+   "slug": "Network_criminali_quanto_rendono_davvero",
+   "source": "outreach_queue",
+   "title_it": "Network criminali: quanto rendono davvero?",
+   "academic_titles": [
+    "The Value of Connections: Evidence from the Italian-American Mafia"
+   ],
+   "authors": "Giovanni Mastrobuoni",
+   "dois": [
+    "10.1111/ecoj.12234"
+   ]
+  },
+  {
+   "slug": "Perche_i_giornali_stanno_morendo",
+   "source": "outreach_queue",
+   "title_it": "Perche i giornali stanno morendo?",
+   "academic_titles": [
+    "Newspapers in Times of Low Advertising Revenues"
+   ],
+   "authors": "Angelucci; Cagé",
+   "dois": [
+    "10.1257/mic.20170306"
+   ]
+  },
+  {
+   "slug": "Perche_ignoriamo_le_disuguaglianze",
+   "source": "outreach_queue",
+   "title_it": "Perché ignoriamo le disuguaglianze?",
+   "academic_titles": [
+    "Fair Shares and Selective Attention"
+   ],
+   "authors": "Amasino; Pace; van der Weele",
+   "dois": [
+    "10.1257/mic.20220275"
+   ]
+  },
+  {
+   "slug": "Perche_l_Africa_non_si_fida",
+   "source": "outreach_queue",
+   "title_it": "Perché l'Africa non si fida?",
+   "academic_titles": [
+    "Slave Trade and the Origins of Mistrust in Africa"
+   ],
+   "authors": "Nunn; Wantchekon",
+   "dois": []
+  },
+  {
+   "slug": "Perche_l_invecchiamento_rallenta_il_PIL",
+   "source": "outreach_queue",
+   "title_it": "Perché l'invecchiamento rallenta il PIL?",
+   "academic_titles": [
+    "The Effect of Population Aging on Economic Growth, the Labor Force, and Productivity"
+   ],
+   "authors": "Maestas; Mullen; Powell",
+   "dois": [
+    "10.1257/mac.20190196"
+   ]
+  },
+  {
+   "slug": "Perche_scacciare_la_Mafia_paga",
+   "source": "outreach_queue",
+   "title_it": "Perché scacciare la Mafia paga?",
+   "academic_titles": [
+    "Organized Crime and Economic Growth: Evidence from Municipalities Infiltrated by the Mafia"
+   ],
+   "authors": "Alessandra Fenizia; Raffaele Saggio",
+   "dois": [
+    "10.1257/aer.20221687"
+   ]
+  },
+  {
+   "slug": "Quando_la_Chiesa_fermo_l_Italia",
+   "source": "outreach_queue",
+   "title_it": "Quando la Chiesa fermò l'Italia",
+   "academic_titles": [
+    "Catholic Censorship and the Demise of Knowledge Production in Early Modern Italy"
+   ],
+   "authors": "Blasutto; de la Croix",
+   "dois": [
+    "10.1093/ej/uead037"
+   ]
+  },
+  {
+   "slug": "Quando_le_città_diventano_pericolose_restat_2025",
+   "source": "outreach_queue",
+   "title_it": "Quando le città diventano pericolose: l'assurdo legame tra chimica e società",
+   "academic_titles": [
+    "Flight from Urban Blight: Lead Poisoning, Crime, and Suburbanization"
+   ],
+   "authors": "Federico Curci; Federico Masera",
+   "dois": [
+    "10.1162/rest_a_01323"
+   ]
+  },
+  {
+   "slug": "Razzismo_e_politica_legame_reale",
+   "source": "outreach_queue",
+   "title_it": "Razzismo e politica: legame reale?",
+   "academic_titles": [
+    "Inflammatory Political Campaigns and Racial Bias in Policing"
+   ],
+   "authors": "Grosjean; Masera; Yousaf",
+   "dois": [
+    "10.1093/qje/qjac052"
+   ]
+  },
+  {
+   "slug": "Razzismo_in_campo_colpa_dei_tifosi",
+   "source": "outreach_queue",
+   "title_it": "Razzismo in campo: colpa dei tifosi?",
+   "academic_titles": [
+    "When the Stadium Goes Silent"
+   ],
+   "authors": "Caselli; Falco; Mattera",
+   "dois": [
+    "10.1086/719967"
+   ]
+  },
+  {
+   "slug": "Regolarizzare_gli_immigrati_riduce_il_crimine",
+   "source": "outreach_queue",
+   "title_it": "Regolarizzare gli immigrati riduce il crimine",
+   "academic_titles": [
+    "Clicking on Heaven’s Door: The Effect of Immigrant Legalization on Crime"
+   ],
+   "authors": "Paolo Pinotti",
+   "dois": [
+    "10.1257/aer.20150355"
+   ]
+  },
+  {
+   "slug": "Socialismo_la_causa_del_Fascismo",
+   "source": "outreach_queue",
+   "title_it": "Socialismo: la causa del Fascismo?",
+   "academic_titles": [
+    "War, Socialism, and the Rise of Fascism: An Empirical Exploration"
+   ],
+   "authors": "Daron Acemoglu; Giuseppe De Feo; Giacomo De Luca; Gianluca Russo",
+   "dois": [
+    "10.1093/qje/qjac001"
+   ]
+  },
+  {
+   "slug": "Stato_Assente_Mafia_Presente",
+   "source": "outreach_queue",
+   "title_it": "Stato Assente, Mafia Presente: Le Origini di un Declino Secolare",
+   "academic_titles": [
+    "Weak States and Development: Evidence from the Sicilian Mafia"
+   ],
+   "authors": "Daron Acemoglu; Giuseppe De Feo; Giacomo D. De Luca",
+   "dois": [
+    "10.1093/restud/rdz009"
+   ]
+  },
+  {
+   "slug": "Super_Mario_l_IA_ci_sabota",
+   "source": "outreach_queue",
+   "title_it": "Super Mario: l'IA ci sabota?",
+   "academic_titles": [
+    "Super Mario Meets AI: Experimental Effects of Automation and Skills on Team Performance and Coordination"
+   ],
+   "authors": "Dell'Acqua; Kogut; Perkowski",
+   "dois": [
+    "10.1162/rest_a_01328"
+   ]
+  },
+  {
+   "slug": "Tagliare_gli_aiuti_ai_diciottenni_AER_2016",
+   "source": "outreach_queue",
+   "title_it": "Tagliare gli aiuti ai diciottenni: stimolo al lavoro o condanna economica?",
+   "academic_titles": [
+    "Does Welfare Inhibit Success? The Long-Term Effects of Removing Low-Income Youth from the Disability Rolls"
+   ],
+   "authors": "Manasi Deshpande",
+   "dois": []
+  },
+  {
+   "slug": "La_Peste_Nera_il_segreto_nascosto_che_ha_cambiato_lEuropa_per_sempre",
+   "source": "outreach_queue",
+   "title_it": "La Peste Nera: il segreto nascosto che ha cambiato l'Europa per sempre.",
+   "academic_titles": [
+    "How the West 'Invented' Fertility Restriction"
+   ],
+   "authors": "Voigtländer; Voth",
+   "dois": []
+  },
+  {
+   "slug": "Meno_tasse_Colpa_degli_immigrati",
+   "source": "outreach_queue",
+   "title_it": "Meno tasse? Colpa degli immigrati",
+   "academic_titles": [
+    "Immigration and Redistribution"
+   ],
+   "authors": "Alesina; Miano; Stantcheva",
+   "dois": [
+    "10.1093/restud/rdac011"
+   ]
+  },
+  {
+   "slug": "La_famiglia_ostacola_l_economia?",
+   "source": "outreach_queue",
+   "title_it": "La famiglia ostacola l'economia?",
+   "academic_titles": [
+    "Family Values and the Regulation of Labor"
+   ],
+   "authors": "Alesina; Algan; Cahuc; Giuliano",
+   "dois": [
+    "10.1111/jeea.12121"
+   ]
+  },
+  {
+   "slug": "Le_banche_discriminano_le_donne?",
+   "source": "outreach_queue",
+   "title_it": "Le banche discriminano le donne?",
+   "academic_titles": [
+    "Do Women Pay More for Credit? Evidence from Italy"
+   ],
+   "authors": "Alesina; Lotti; Mistrulli",
+   "dois": []
+  },
+  {
+   "slug": "La_famiglia_blocca_la_politica",
+   "source": "outreach_queue",
+   "title_it": "La famiglia blocca la politica?",
+   "academic_titles": [
+    "Family Ties and Political Participation"
+   ],
+   "authors": "Alesina; Giuliano",
+   "dois": []
+  },
+  {
+   "slug": "Poveri_in_Pensione",
+   "source": "outreach_queue",
+   "title_it": "Perché andremo in pensione più poveri? (E come evitarlo)",
+   "academic_titles": [
+    "Retirement Consumption and Pension Design"
+   ],
+   "authors": "Kolsrud; Landais; Reck; Spinnewijn",
+   "dois": [
+    "10.1257/aer.20221426"
+   ]
+  },
+  {
+   "slug": "La_scuola_crea_i_cittadini",
+   "source": "outreach_queue",
+   "title_it": "La scuola crea i cittadini?",
+   "academic_titles": [
+    "Nation-Building and Education"
+   ],
+   "authors": "Alesina; Giuliano; Reich",
+   "dois": [
+    "10.1093/ej/ueab001"
+   ]
+  },
+  {
+   "slug": "Espellere_gli_immigrati_riduce_la_criminalita",
+   "source": "outreach_queue",
+   "title_it": "Espellere gli immigrati riduce la criminalità?",
+   "academic_titles": [
+    "Immigration Enforcement and Crime"
+   ],
+   "authors": "Paolo Pinotti",
+   "dois": []
+  },
+  {
+   "slug": "La_ricchezza_e_meritata",
+   "source": "outreach_queue",
+   "title_it": "La ricchezza è meritata?",
+   "academic_titles": [
+    "The Evolution of Ideology, Fairness and Redistribution"
+   ],
+   "authors": "Alesina; Cozzi; Mantovan",
+   "dois": []
+  },
+  {
+   "slug": "Perche_le_riforme_costano_voti",
+   "source": "outreach_queue",
+   "title_it": "Perché le riforme costano voti?",
+   "academic_titles": [
+    "Structural Reforms and Elections - Evidence from a World-Wide New Dataset"
+   ],
+   "authors": "Alesina; Furceri; Ostry; Papageorgiou; Quinn",
+   "dois": [
+    "10.1093/jeea/jvad075"
+   ]
+  },
+  {
+   "slug": "Chi_nasce_povero_muore_povero",
+   "source": "outreach_queue",
+   "title_it": "Chi nasce povero muore povero?",
+   "academic_titles": [
+    "Intergenerational Mobility and Preferences for Redistribution"
+   ],
+   "authors": "Alesina; Stantcheva; Teso",
+   "dois": [
+    "10.1257/aer.20162015"
+   ]
+  },
+  {
+   "slug": "La_giustizia_ha_un_colore",
+   "source": "outreach_queue",
+   "title_it": "La giustizia ha un colore?",
+   "academic_titles": [
+    "Test_of_Racial_Bias_in_Capital_Sentencing"
+   ],
+   "authors": "Alesina; La Ferrara",
+   "dois": []
+  },
+  {
+   "slug": "Le_code_in_ospedale_costano_il_lavoro",
+   "source": "outreach_queue",
+   "title_it": "Le code in ospedale costano il lavoro?",
+   "academic_titles": [
+    "Hospital Queues, Patient Health, and Labor Supply"
+   ],
+   "authors": "Godøy; Haaland; Huitfeldt; Votruba",
+   "dois": [
+    "10.1257/pol.20210399"
+   ]
+  },
+  {
+   "slug": "Tassare_meno_le_donne",
+   "source": "outreach_queue",
+   "title_it": "Tassare meno le donne?",
+   "academic_titles": [
+    "Gender-Based Taxation and the Division of Family Chores"
+   ],
+   "authors": "Alesina; Ichino; Karabarbounis",
+   "dois": []
+  },
+  {
+   "slug": "Perche_i_politici_spendono_male",
+   "source": "outreach_queue",
+   "title_it": "Perché i politici spendono male?",
+   "academic_titles": [
+    "Public Debt and the Political Economy of Reforms"
+   ],
+   "authors": "Pierre C. Boyer; Brian Roberson; Christoph Esslinger",
+   "dois": [
+    "10.1257/mic.20220238"
+   ]
+  },
+  {
+   "slug": "Mafia_ed_elezioni_come_funziona",
+   "source": "outreach_queue",
+   "title_it": "Mafia ed elezioni: come funziona?",
+   "academic_titles": [
+    "Organized Crime, Violence, and Politics"
+   ],
+   "authors": "Alesina; Piccolo; Pinotti",
+   "dois": []
+  },
+  {
+   "slug": "Idee_politiche_colpa_degli_amici",
+   "source": "outreach_queue",
+   "title_it": "Idee politiche: colpa degli amici?",
+   "academic_titles": [
+    "Friendship Networks and Political Opinions"
+   ],
+   "authors": "Algan; Dalvit; Do; Le Chapelain; Zenou",
+   "dois": [
+    "10.1257/aer.20231344"
+   ]
+  },
+  {
+   "slug": "I_diamanti_amano_la_guerra",
+   "source": "outreach_queue",
+   "title_it": "I diamanti amano la guerra?",
+   "academic_titles": [
+    "Diamonds Are Forever, Wars Are Not: Is Conflict Bad for Private Firms?"
+   ],
+   "authors": "Guidolin; La Ferrara",
+   "dois": [
+    "10.1257/aer.97.5.1978"
+   ]
+  },
+  {
+   "slug": "L_invecchiamento_ci_portera_i_robot",
+   "source": "outreach_queue",
+   "title_it": "L'invecchiamento ci porterà i robot?",
+   "academic_titles": [
+    "Demographics and Automation"
+   ],
+   "authors": "Acemoglu; Restrepo",
+   "dois": []
+  },
+  {
+   "slug": "La_mafia_controlla_i_sindaci",
+   "source": "outreach_queue",
+   "title_it": "La mafia controlla i sindaci?",
+   "academic_titles": [
+    "Organized Crime, Captured Politicians, and the Allocation of Public Resources"
+   ],
+   "authors": "Di Cataldo; Mastrorocco",
+   "dois": []
+  },
+  {
+   "slug": "La_democrazia_si_difende_da_sola",
+   "source": "outreach_queue",
+   "title_it": "La democrazia si difende da sola?",
+   "academic_titles": [
+    "Successful Democracies Breed Their Own Support"
+   ],
+   "authors": "Acemoglu; Ajzenman; Aksoy; Fiszbein; Molina",
+   "dois": []
+  },
+  {
+   "slug": "I_robot_rubavano_il_lavoro_nel_1830",
+   "source": "outreach_queue",
+   "title_it": "I robot rubavano il lavoro nel 1830?",
+   "academic_titles": [
+    "Rage against the Machines: Labor-Saving Technology and Unrest in Industrializing England"
+   ],
+   "authors": "Caprettini; Voth",
+   "dois": [
+    "10.1257/aeri.20190385"
+   ]
+  },
+  {
+   "slug": "Le_autostrade_hanno_aiutato_Hitler",
+   "source": "outreach_queue",
+   "title_it": "Le autostrade hanno aiutato Hitler?",
+   "academic_titles": [
+    "Highway to Hitler"
+   ],
+   "authors": "Nico Voigtländer; Hans-Joachim Voth",
+   "dois": [
+    "10.1257/app.20180816"
+   ]
+  },
+  {
+   "slug": "Chi_diventa_davvero_un_politico",
+   "source": "outreach_queue",
+   "title_it": "Chi diventa davvero un politico",
+   "academic_titles": [
+    "Who Becomes a Politician"
+   ],
+   "authors": "Dal Bó; Finan; Folke; Persson; Rickne",
+   "dois": []
+  },
+  {
+   "slug": "Piu_democrazia_piu_PIL",
+   "source": "outreach_queue",
+   "title_it": "Più democrazia, più PIL?",
+   "academic_titles": [
+    "Democracy Does Cause Growth"
+   ],
+   "authors": "Acemoglu; Naidu; Restrepo; Robinson",
+   "dois": [
+    "10.1086/700936"
+   ]
+  },
+  {
+   "slug": "L_Africa_si_muove_davvero",
+   "source": "outreach_queue",
+   "title_it": "L'Africa si muove davvero?",
+   "academic_titles": [
+    "INTERGENERATIONAL MOBILITY IN AFRICA"
+   ],
+   "authors": "Alesina; Hohmann; Michalopoulos; Papaioannou",
+   "dois": []
+  },
+  {
+   "slug": "La_corruzione_non_si_scorda",
+   "source": "outreach_queue",
+   "title_it": "La corruzione non si scorda?",
+   "academic_titles": [
+    "Never Forget the First Time: The Persistent Effects of Corruption and the Rise of Populism in Italy"
+   ],
+   "authors": "Gianmarco Daniele; Arnstein Aassve; Marco Le Moglie",
+   "dois": [
+    "10.1086/723019"
+   ]
+  },
+  {
+   "slug": "Gli_immigrati_rendono_un_paese_pi_ricco",
+   "source": "outreach_queue",
+   "title_it": "Gli immigrati rendono un paese più ricco?",
+   "academic_titles": [
+    "Immigrants and the Making of America"
+   ],
+   "authors": "Sequeira; Nunn; Qian",
+   "dois": []
+  },
+  {
+   "slug": "Le_persecuzioni_lasciano_cicatrici",
+   "source": "outreach_queue",
+   "title_it": "Le persecuzioni lasciano cicatrici?",
+   "academic_titles": [
+    "The Long Run Effects of Religious Persecution: Evidence from the Spanish Inquisition"
+   ],
+   "authors": "Mauricio Drelichman; Jordi Vidal-Robert; Hans-Joachim Voth",
+   "dois": [
+    "10.1073/pnas.2022881118"
+   ]
+  },
+  {
+   "slug": "La_patata_ha_fatto_crescere_il_mondo",
+   "source": "outreach_queue",
+   "title_it": "La patata ha fatto crescere il mondo?",
+   "academic_titles": [
+    "The Potato's Contribution to Population and Urbanization Evidence from a Historical Experiment"
+   ],
+   "authors": "Nunn; Qian",
+   "dois": []
+  },
+  {
+   "slug": "Meno_lavoro_pi_violenza_domestica",
+   "source": "outreach_queue",
+   "title_it": "Meno lavoro, più violenza domestica?",
+   "academic_titles": [
+    "Job Displacement, Unemployment Benefits and Domestic Violence"
+   ],
+   "authors": "Bhalotra; Britto; Pinotti; Sampaio",
+   "dois": []
+  },
+  {
+   "slug": "Perdere_il_lavoro_ti_spinge_al_crimine",
+   "source": "outreach_queue",
+   "title_it": "Perdere il lavoro ti spinge al crimine?",
+   "academic_titles": [
+    "The Effect of Job Loss and Unemployment Insurance on Crime in Brazil"
+   ],
+   "authors": "BRITTO; PINOTTI; SAMPAIO",
+   "dois": []
+  },
+  {
+   "slug": "L_Illuminismo_ha_acceso_l_industria",
+   "source": "outreach_queue",
+   "title_it": "L'Illuminismo ha acceso l'industria?",
+   "academic_titles": [
+    "Human Capital and Industrialization: Evidence from the Age of Enlightenment"
+   ],
+   "authors": "Mara P. Squicciarini; Nico Voigtländer",
+   "dois": [
+    "10.1093/qje/qjv025"
+   ]
+  },
+  {
+   "slug": "Dare_responsabilita_ai_ragazzi_puo_cambiare_una_scuola",
+   "source": "outreach_queue",
+   "title_it": "Dare responsabilita ai ragazzi puo cambiare una scuola?",
+   "academic_titles": [
+    "Empowering Adolescents to Transform Schools: Lessons from a Behavioral Targeting"
+   ],
+   "authors": "Sule Alan; Elif Kubilay",
+   "dois": [
+    "10.1257/aer.20240374"
+   ]
+  },
+  {
+   "slug": "Piu_leggi_piu_crescita_economica",
+   "source": "outreach_queue",
+   "title_it": "Più leggi, più crescita economica?",
+   "academic_titles": [
+    "More Laws, More Growth? Evidence from U.S. States"
+   ],
+   "authors": "Elliott Ash; Massimo Morelli; Matia Vannoni",
+   "dois": []
+  },
+  {
+   "slug": "Dai_narcos_al_petrolio_perche",
+   "source": "outreach_queue",
+   "title_it": "Dai narcos al petrolio: perché?",
+   "academic_titles": [
+    "Fuelling Organised Crime: The Mexican War on Drugs and Oil Theft"
+   ],
+   "authors": "Battiston; Daniele; Le Moglie; Pinotti",
+   "dois": [
+    "10.1093/ej/ueae047"
+   ]
+  },
+  {
+   "slug": "Folklore_guida_per_l_economia",
+   "source": "outreach_queue",
+   "title_it": "Folklore: guida per l'economia?",
+   "academic_titles": [
+    "Folklore"
+   ],
+   "authors": "Michalopoulos; Xue",
+   "dois": [
+    "10.1093/qje/qjab003"
+   ]
+  },
+  {
+   "slug": "I_ricchi_di_oggi_sono_gli_stessi_del_1400_restud_2021",
+   "source": "outreach_queue",
+   "title_it": "I ricchi di oggi sono gli stessi del 1400? La storia di Firenze",
+   "academic_titles": [
+    "Intergenerational Mobility in the Very Long Run: Florence 1427–2011"
+   ],
+   "authors": "Guglielmo Barone; Sauro Mocetti",
+   "dois": [
+    "10.1093/restud/rdaa075"
+   ]
+  },
+  {
+   "slug": "Discriminazione_per_nomi_aer_2004",
+   "source": "outreach_queue",
+   "title_it": "Una storia di nomi e discriminazione",
+   "academic_titles": [
+    "Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination"
+   ],
+   "authors": "Bertrand; Mullainathan",
+   "dois": []
+  },
+  {
+   "slug": "Clientelismo_Politico_aer_2020",
+   "source": "outreach_queue",
+   "title_it": "Il clientelismo politico: origini e conseguenze",
+   "academic_titles": [
+    "Patronage and Selection in Public Sector Organizations"
+   ],
+   "authors": "Colonnelli; Prem; Teso",
+   "dois": []
+  },
+  {
+   "slug": "Tracking_Inequality",
+   "source": "manual",
+   "title_it": "La scuola frena i bravi?",
+   "academic_titles": [
+    "Tracking Inequality: Teachers and the Allocation of Educational Opportunities"
+   ],
+   "authors": "Michela Carlana; Francesca Miserocchi; Eleonora Patacchini",
+   "dois": [],
+   "ids": [
+    "nber:w35701"
+   ],
+   "status": "non_pubblicato_mai_pubblicare",
+   "note": "Solo produzione, Non_pubblicati. MAI proporre, MAI pubblicare."
+  }
+ ]
+}

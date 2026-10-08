@@ -20,6 +20,7 @@ from dotenv import load_dotenv
 sys.path.insert(0, str(REPO_ROOT / "Execution"))
 from canale_paths import expand_local_paths
 from enea import pipeline_store
+from enea import papers_done
 
 try:
     from google import genai
@@ -998,16 +999,49 @@ def workflow_articoli(args):
     raise WorkflowError("La modalita' automatica /articoli basata su LLM e' disattivata. Usa /articoli con --tags oppure verify_paper direttamente.")
 
 
+def workflow_papers_done(args):
+    """Registro paper già fatti e controllo anti-doppione (incidente 2026-10-08)."""
+    cmd = getattr(args, "papers_done_cmd", "scan") or "scan"
+    argv = [cmd]
+    if cmd == "check":
+        if getattr(args, "pdf", None):
+            argv.append(args.pdf)
+        for d in getattr(args, "doi", []) or []:
+            argv += ["--doi", d]
+        if getattr(args, "title", ""):
+            argv += ["--title", args.title]
+        if getattr(args, "authors", ""):
+            argv += ["--authors", args.authors]
+    elif cmd == "scan" and getattr(args, "move", False):
+        argv.append("--move")
+    return papers_done.main(argv)
+
+
 def workflow_paper(args):
     pdf_paths = discover_pdfs(recursive=True)
     if not pdf_paths:
         raise WorkflowError("Nessun PDF trovato in Papers/Da fare.")
+
+    # Anti-doppione obbligatorio (incidente 2026-10-08 Dipoppa / Denunciare vs Caporalato).
+    # Esclude i PDF già trattati (DOI/titolo/autori ↔ Cleaned/papers_done.json).
+    pdf_paths, excluded = papers_done.filter_new_pdfs(pdf_paths, verbose=True)
+    if excluded and not pdf_paths:
+        raise WorkflowError(
+            "Tutti i PDF in Papers/Da fare risultano già trattati. "
+            "Spostali con `./workflow papers-done scan --move` oppure aggiungi paper nuovi."
+        )
+    if not pdf_paths:
+        raise WorkflowError("Nessun PDF nuovo trovato in Papers/Da fare.")
 
     titles_map = get_bundle_titles(pdf_paths)
     options = [f"{titles_map.get(path.name, path.stem)}" for path in pdf_paths]
     selected_label = prompt_choice(options, "Seleziona paper", preselected_index=args.paper_index)
     selected_idx = options.index(selected_label)
     selected_pdf = pdf_paths[selected_idx]
+    try:
+        papers_done.assert_new(selected_pdf)
+    except RuntimeError as err:
+        raise WorkflowError(str(err)) from err
 
     titles, metadata, titles_fallback, titles_error = generate_titles_and_metadata(selected_pdf)
     print("\nMetadati rilevati:")
@@ -1589,6 +1623,15 @@ def build_parser():
     paper.add_argument("--title-index", type=int)
     paper.add_argument("--approve-cover", action="store_true")
 
+    papers_done_cmd = subparsers.add_parser("papers-done", help="Registro paper già fatti + controllo anti-doppione")
+    papers_done_cmd.add_argument("papers_done_cmd", nargs="?", default="scan",
+                                 choices=["scan", "build", "check"])
+    papers_done_cmd.add_argument("pdf", nargs="?")
+    papers_done_cmd.add_argument("--move", action="store_true")
+    papers_done_cmd.add_argument("--doi", action="append", default=[])
+    papers_done_cmd.add_argument("--title", default="")
+    papers_done_cmd.add_argument("--authors", default="")
+
     copertina = subparsers.add_parser("copertina")
     copertina.add_argument("--folder")
     copertina.add_argument("--approve-cover", action="store_true")
@@ -1648,6 +1691,7 @@ def main():
         "report": workflow_report,
         "articoli": workflow_articoli,
         "paper": workflow_paper,
+        "papers-done": workflow_papers_done,
         "copertina": workflow_copertina,
         "produzione": workflow_produzione,
         "infografica": workflow_infografica,
