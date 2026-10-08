@@ -1,26 +1,51 @@
 from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[2]
 
+import html
 import json
 import os
+import pickle
 import random
 import re
 from collections import defaultdict
+from datetime import datetime, timedelta, timezone
 
 REPO_ROOT = str(REPO_ROOT)
 SCOUT_FILE = os.path.join(REPO_ROOT, "Temp/romolo/competitor_engagement.md")
 TRACKING_FILE = os.path.join(REPO_ROOT, "Cleaned/video_tracking.json")
 HISTORY_FILE = os.path.join(REPO_ROOT, "Temp/romolo/competitor_comment_history.json")
+PROPOSALS_JSON = os.path.join(REPO_ROOT, "Temp/romolo/competitor_proposals.json")
 
+# DECISIONS 2026-06-05: commentare solo video pubblicati al massimo 30 giorni fa.
+MAX_VIDEO_AGE_DAYS = 30
+# Costo stimato in unita' quota YouTube Data API v3 (search.list = 100).
+SEARCH_LIST_COST = 100
+QUOTA_USED = {"search.list": 0}
+
+# Token OAuth YouTube: path canonico + legacy sincronizzato da `./workflow youtube-auth`.
+PRIMARY_TOKEN = os.path.join(REPO_ROOT, "Execution/credentials/token.pickle")
+LEGACY_TOKEN = os.path.join(REPO_ROOT, "Execution/romolo/.tmp/tokens/token_youtube.pickle")
+
+# Channel ID verificati il 2026-10-08 (feed RSS youtube.com/feeds/videos.xml?channel_id=... -> 200,
+# titolo canale coincidente e ultimo video recente). Non aggiungere ID non verificati.
 TARGET_CHANNELS_MAP = {
-    "Will Media": "UC9tN-R6R1_63m8J9N_oR_Fg",
-    "Geopop": "UC64-M_yD1GZ9u3-E9nZ0W8A",
-    "Starting Finance": "UCi1g6eK4qXU1M1t5M_s0o2A",
-    "Factanza": "UCt9u1Vv_4m8q_mO7U2hV1XQ",
-    "Breaking Italy": "UCg9xR8fE-9b7F-VqR0k1n_A",
-    "Liberi Oltre": "UCrdEJmK5bgFte04-UF7o29Q",
+    "Will Media": "UCZM5aON36Iw0o0ngTaQSWVA",
+    "I podcast di Will Media": "UCFg4BxczDuIRtBeuo46DE8g",
+    "Geopop": "UCx7EWheHmjCW3vX8K2d09vg",
+    "Starting Finance": "UCBahpZUV9wGy0ZdiVL2rqCA",
+    "Factanza Media": "UCBdiMDTxwgNXz4PQa0uUhGw",
+    "Breaking Italy": "UC4V3oCikXeSqYQr0hBMARwg",
+    "LiberiOltre": "UCrdEJmK5bgFte04-UF7o29Q",
     "Nova Lectio": "UCRCWJCFoZUvkkWzIqzfBy6g",
-    "Michele Boldrin": "UCFN2gwHc86xWbV4pZ7d6fWA",
+    "Michele Boldrin": "UCMOiTfbUXxUFqJJtCQGHrrA",
+    "ORA!": "UCJ1kdZmbCGxMVnWIahisqjA",
+    "Mr. RIP": "UCBOtZaVafz_5OmUrqJAVStQ",
+    "Limes Rivista Italiana di Geopolitica": "UCgG9BnqkGnU-ouYa5eAOdEw",
+    "WesaChannel": "UCaM-zH6ji5kWncFMaBBc7Yg",
+    "Scacchiere Globale": "UC8_OU41iCKb6Ri847Ea4JTQ",
+    "What's up Economy": "UCnE113MJbg0sY5Ji0ZOOtcw",
+    "Il Post": "UCGe1EHmk2SHt9fnpIRchvqg",
+    "Osservatorio CPI": "UCEKOjs5vHu9pZoV2jR0NGlQ",
 }
 
 THEMATIC_KEYWORDS = [
@@ -85,8 +110,47 @@ PLAYLIST_KEYWORDS = {
 
 
 def get_authenticated_service():
-    from romolo_manage_channel import get_authenticated_service as auth
-    return auth("youtube", "v3", ["https://www.googleapis.com/auth/youtube.force-ssl"])
+    """Auth non interattiva (routine schedulata): niente browser OAuth.
+
+    Usa il token canonico `Execution/credentials/token.pickle` (fallback: legacy
+    sincronizzato). Se nessun token e' valido/rinnovabile, fallisce subito con
+    l'istruzione di eseguire `./workflow youtube-auth`.
+    """
+    from google.auth.transport.requests import Request
+    from googleapiclient.discovery import build
+
+    last_error = None
+    for token_path in (PRIMARY_TOKEN, LEGACY_TOKEN):
+        if not os.path.exists(token_path):
+            continue
+        try:
+            with open(token_path, "rb") as handle:
+                creds = pickle.load(handle)
+            if not creds.valid and creds.expired and creds.refresh_token:
+                creds.refresh(Request())
+            if creds.valid:
+                return build("youtube", "v3", credentials=creds, static_discovery=False)
+        except Exception as exc:  # token corrotto o refresh fallito: prova il successivo
+            last_error = exc
+    raise RuntimeError(
+        "Token YouTube non valido o non rinnovabile. Esegui `./workflow youtube-auth` "
+        f"(ultimo errore: {last_error})"
+    )
+
+
+def published_after_iso(days=MAX_VIDEO_AGE_DAYS):
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    return cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def is_recent(published_at, days=MAX_VIDEO_AGE_DAYS):
+    if not published_at:
+        return False
+    try:
+        published = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+    except ValueError:
+        return False
+    return published >= datetime.now(timezone.utc) - timedelta(days=days)
 
 
 def load_comment_history():
@@ -358,27 +422,32 @@ def search_fixed_channels(youtube, history):
     candidates = []
     for channel_name, channel_id in TARGET_CHANNELS_MAP.items():
         try:
+            QUOTA_USED["search.list"] += 1
             response = youtube.search().list(
                 channelId=channel_id,
                 part="snippet",
                 type="video",
                 maxResults=3,
                 order="date",
+                publishedAfter=published_after_iso(),
                 relevanceLanguage="it",
             ).execute()
             for item in response.get("items", []):
                 video_id = item["id"]["videoId"]
                 if video_id in history:
                     continue
-                channel_title = item["snippet"]["channelTitle"]
+                if not is_recent(item["snippet"].get("publishedAt", "")):
+                    continue
+                channel_title = html.unescape(item["snippet"]["channelTitle"])
                 if channel_title.strip().lower() == "cosa fanno gli economisti":
                     continue
                 candidates.append(
                     {
                         "source": "fixed_channel",
                         "channel": channel_title,
-                        "title": item["snippet"]["title"],
-                        "description": item["snippet"]["description"],
+                        "title": html.unescape(item["snippet"]["title"]),
+                        "description": html.unescape(item["snippet"]["description"]),
+                        "published_at": item["snippet"].get("publishedAt", ""),
                         "video_id": video_id,
                         "url": f"https://www.youtube.com/watch?v={video_id}",
                     }
@@ -393,19 +462,24 @@ def search_semantic_keywords(youtube, history):
     selected_keywords = random.sample(THEMATIC_KEYWORDS, min(6, len(THEMATIC_KEYWORDS)))
     for keyword in selected_keywords:
         try:
+            QUOTA_USED["search.list"] += 1
             response = youtube.search().list(
                 q=keyword,
                 part="snippet",
                 type="video",
                 maxResults=4,
+                publishedAfter=published_after_iso(),
                 relevanceLanguage="it",
+                regionCode="IT",
                 order="relevance",
             ).execute()
             for item in response.get("items", []):
                 video_id = item["id"]["videoId"]
                 if video_id in history:
                     continue
-                channel_title = item["snippet"]["channelTitle"]
+                if not is_recent(item["snippet"].get("publishedAt", "")):
+                    continue
+                channel_title = html.unescape(item["snippet"]["channelTitle"])
                 if channel_title.strip().lower() == "cosa fanno gli economisti":
                     continue
                 candidates.append(
@@ -414,8 +488,9 @@ def search_semantic_keywords(youtube, history):
                         "query": keyword,
                         "expected_playlist": KEYWORD_TO_PLAYLIST.get(keyword, ""),
                         "channel": channel_title,
-                        "title": item["snippet"]["title"],
-                        "description": item["snippet"]["description"],
+                        "title": html.unescape(item["snippet"]["title"]),
+                        "description": html.unescape(item["snippet"]["description"]),
+                        "published_at": item["snippet"].get("publishedAt", ""),
                         "video_id": video_id,
                         "url": f"https://www.youtube.com/watch?v={video_id}",
                     }
@@ -488,23 +563,62 @@ def rank_proposals(candidates, catalog):
     return diversified
 
 
-def write_report(proposals):
+def write_report(proposals, stats=None):
     os.makedirs(os.path.dirname(SCOUT_FILE), exist_ok=True)
+    stats = stats or {}
     with open(SCOUT_FILE, "w", encoding="utf-8") as handle:
         handle.write(f"# 🔍 Scouting Competitor & Proposte Commenti ({len(proposals)})\n\n")
         handle.write("> [!IMPORTANT]\n")
-        handle.write("> Queste sono solo proposte da approvare o modificare. Nessun commento va pubblicato senza approvazione esplicita.\n\n")
+        handle.write("> Queste sono solo proposte da approvare o modificare. Nessun commento va pubblicato senza approvazione esplicita di Marco in chat.\n\n")
+        handle.write(
+            f"_Generato: {datetime.now().strftime('%Y-%m-%d %H:%M')} (ora locale) · "
+            f"finestra video: ultimi {MAX_VIDEO_AGE_DAYS} giorni (publishedAfter {stats.get('published_after', '')}) · "
+            f"candidati: {stats.get('candidates', 0)} · "
+            f"quota stimata: {stats.get('quota', 0)} unita' ({stats.get('searches', 0)} search.list)_\n\n"
+        )
+        if not proposals:
+            handle.write("Nessuna proposta con qualita' sufficiente in questo giro.\n")
         for index, proposal in enumerate(proposals, 1):
             candidate = proposal["candidate"]
             ours = proposal["ours"]
             handle.write(f"## {index}. Video: [{candidate['title']}]({candidate['url']})\n")
             handle.write(f"**Canale**: {candidate['channel']}\n")
+            if candidate.get("published_at"):
+                handle.write(f"**Pubblicato**: {candidate['published_at'][:10]}\n")
             if candidate.get("query"):
                 handle.write(f"**Query di scoperta**: `{candidate['query']}`\n")
             handle.write(f"**Il nostro video correlato**: [{ours['video_title']}]({ours['youtube_url']})\n")
             handle.write(f"**Paper collegato**: {ours['paper_title'] or ours['title_text']}\n")
             handle.write(f"**Area tematica**: {ours['playlist']}\n")
             handle.write(f"**PROPOSTA COMMENTO**:\n> {proposal['comment']}\n\n---\n\n")
+    write_proposals_json(proposals, stats)
+
+
+def write_proposals_json(proposals, stats):
+    """Proposte in formato macchina per `post_youtube_comment.py --batch` (solo dopo approvazione)."""
+    items = []
+    for index, proposal in enumerate(proposals, 1):
+        candidate = proposal["candidate"]
+        ours = proposal["ours"]
+        items.append(
+            {
+                "index": index,
+                "video_id": candidate["video_id"],
+                "url": candidate["url"],
+                "channel": candidate["channel"],
+                "title": candidate["title"],
+                "published_at": candidate.get("published_at", ""),
+                "source": candidate.get("source", ""),
+                "query": candidate.get("query", ""),
+                "our_video_title": ours["video_title"],
+                "our_video_url": ours["youtube_url"],
+                "score": proposal["score"],
+                "comment": proposal["comment"],
+                "approved": False,
+            }
+        )
+    with open(PROPOSALS_JSON, "w", encoding="utf-8") as handle:
+        json.dump({"generated_at": datetime.now().isoformat(timespec="seconds"), "stats": stats, "proposals": items}, handle, ensure_ascii=False, indent=2)
 
 
 def scout_competitors():
@@ -518,17 +632,25 @@ def scout_competitors():
     candidates.extend(search_semantic_keywords(youtube, history))
     candidates = dedupe_candidates(candidates)
 
+    stats = {
+        "published_after": published_after_iso(),
+        "candidates": len(candidates),
+        "searches": QUOTA_USED["search.list"],
+        "quota": QUOTA_USED["search.list"] * SEARCH_LIST_COST,
+    }
+    print(
+        f"📊 Candidati (<= {MAX_VIDEO_AGE_DAYS} giorni, non gia' commentati): {len(candidates)} · "
+        f"search.list: {stats['searches']} · quota stimata: {stats['quota']} unita'"
+    )
+
+    proposals = rank_proposals(candidates, catalog) if candidates else []
     if not candidates:
         print("⚠️ Nessun video candidato idoneo trovato.")
-        return
-
-    proposals = rank_proposals(candidates, catalog)
-    if not proposals:
+    elif not proposals:
         print("⚠️ Nessuna proposta con qualita' sufficiente.")
-        return
 
-    write_report(proposals)
-    print(f"✅ Proposte salvate in: {SCOUT_FILE}")
+    write_report(proposals, stats)
+    print(f"✅ Report salvato in: {SCOUT_FILE} ({len(proposals)} proposte)")
 
 
 if __name__ == "__main__":
