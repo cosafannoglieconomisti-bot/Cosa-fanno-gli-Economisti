@@ -6,6 +6,7 @@ import json
 import os
 import sys
 import tempfile
+from datetime import datetime
 
 sys.path.append(str(REPO_ROOT / 'Execution' / 'romolo'))
 from romolo_manage_channel import get_authenticated_service, SCOPES
@@ -52,7 +53,7 @@ def record_comment_history(video_ids):
 
 
 def insert_comment(youtube, video_id, text):
-    youtube.commentThreads().insert(
+    return youtube.commentThreads().insert(
         part='snippet',
         body={
             'snippet': {
@@ -71,8 +72,8 @@ def post_top_level_comment(video_id, text):
     """Modalita' singola (retro-compatibile): pubblica un commento e aggiorna lo storico."""
     youtube = get_authenticated_service('youtube', 'v3', SCOPES)
     try:
-        insert_comment(youtube, video_id, text)
-        print(f"✅ Commento pubblicato con successo sul video {video_id}")
+        response = insert_comment(youtube, video_id, text)
+        print(f"✅ Commento pubblicato con successo sul video {video_id} (comment id: {response.get('id', '?')})")
         record_comment_history([video_id])
     except Exception as e:
         print(f"❌ Errore nella pubblicazione del commento: {e}")
@@ -97,23 +98,33 @@ def post_batch(proposals_path, only=None):
 
     already = set(load_history())
     youtube = get_authenticated_service('youtube', 'v3', SCOPES)
-    posted, failed = [], []
+    posted, failed, results = [], [], []
     for proposal in selected:
         video_id = proposal['video_id']
         if video_id in already:
-            print(f"↩️ Saltato {video_id}: gia' commentato in passato.")
+            print(f"↩️ Saltato {video_id}: già commentato in passato.")
+            results.append({'index': proposal.get('index'), 'video_id': video_id, 'status': 'skipped_already_commented'})
             continue
         try:
-            insert_comment(youtube, video_id, proposal['comment'])
+            # Nessun retry automatico: un errore (es. commenti disattivati) si registra e si passa oltre.
+            response = insert_comment(youtube, video_id, proposal['comment'])
+            comment_id = response.get('id', '')
             posted.append(video_id)
-            print(f"✅ Pubblicato su {video_id} ({proposal.get('channel', '')})")
+            results.append({'index': proposal.get('index'), 'video_id': video_id, 'status': 'posted', 'comment_id': comment_id})
+            print(f"✅ Pubblicato su {video_id} ({proposal.get('channel', '')}) · comment id: {comment_id}")
         except Exception as e:
-            # es. commenti disattivati: si salta senza bloccare la coda
             failed.append(video_id)
+            results.append({'index': proposal.get('index'), 'video_id': video_id, 'status': 'error', 'error': str(e)[:500]})
             print(f"❌ Errore su {video_id}: {e}")
     record_comment_history(posted)
-    print(f"📌 Batch completato: {len(posted)} pubblicati, {len(failed)} errori. Storico aggiornato una sola volta.")
-    return 0
+    results_path = os.path.join(os.path.dirname(HISTORY_FILE), f"competitor_post_results_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
+    try:
+        with open(results_path, 'w', encoding='utf-8') as f:
+            json.dump(results, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"⚠️ Errore salvataggio risultati: {e}")
+    print(f"📌 Batch completato: {len(posted)} pubblicati, {len(failed)} errori. Storico aggiornato una sola volta. Risultati: {results_path}")
+    return 0 if not failed else 2
 
 
 if __name__ == "__main__":

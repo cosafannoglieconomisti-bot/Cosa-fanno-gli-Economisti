@@ -313,6 +313,41 @@ def score_match(candidate, ours):
     return score
 
 
+# Frasi gia' usate in questo giro (e nell'ultimo report): evita aperture/chiusure ripetute.
+USED_PHRASES = set()
+
+GENERIC_OPENINGS = [
+    "Bella puntata.",
+    "Discussione interessante.",
+    "Video fatto bene.",
+    "Tema che merita, e qui è trattato con cura.",
+    "Ottimo spunto.",
+]
+
+
+def load_recent_phrases():
+    """Aperture e chiusure dell'ultimo report, per non ripeterle nel giro successivo."""
+    if not os.path.exists(PROPOSALS_JSON):
+        return
+    try:
+        with open(PROPOSALS_JSON, "r", encoding="utf-8") as handle:
+            data = json.load(handle)
+        for item in data.get("proposals", []):
+            first_sentence = (item.get("comment") or "").split(". ")[0].strip()
+            if first_sentence:
+                USED_PHRASES.add(first_sentence.rstrip(".") + ".")
+    except Exception:
+        pass
+
+
+def pick_fresh(options):
+    """Sceglie a caso una frase non ancora usata; se sono finite, una qualsiasi."""
+    fresh = [option for option in options if option not in USED_PHRASES]
+    choice = random.choice(fresh or options)
+    USED_PHRASES.add(choice)
+    return choice
+
+
 def build_comment(candidate, ours):
     paper = ours["paper_title"] or ours["title_text"]
     our_url = ours["youtube_url"]
@@ -323,7 +358,7 @@ def build_comment(candidate, ours):
         "Economia del Crimine e Mafie": [
             f"Bel video, {channel}.",
             "Tema tosto, ma affrontato bene.",
-            "Questo e' uno di quei temi in cui il dettaglio conta parecchio.",
+            "Questo è uno di quei temi in cui il dettaglio conta parecchio.",
         ],
         "Economia Politica e Istituzioni": [
             "Spunto molto forte.",
@@ -332,88 +367,90 @@ def build_comment(candidate, ours):
         ],
         "Storia Economica e Sviluppo": [
             "Molto bello questo taglio.",
-            "Qui secondo noi c'e' un punto davvero interessante.",
-            "Bella ricostruzione, soprattutto perche' evita il tono da riassunto scolastico.",
+            "Qui secondo noi c'è un punto davvero interessante.",
+            "Bella ricostruzione, soprattutto perché evita il tono da riassunto scolastico.",
         ],
         "Economia della Cultura, Società e Religione": [
             "Tema super interessante.",
-            "Questo e' un ottimo esempio di come un tema culturale apra anche una domanda economica vera.",
+            "Questo è un ottimo esempio di come un tema culturale apra anche una domanda economica vera.",
             "Bella discussione, e secondo noi il punto merita parecchio.",
         ],
         "Economia del Lavoro, Discriminazione e Disuguaglianze": [
-            "Qui il rischio di semplificare troppo e' altissimo, quindi bene averlo messo sul tavolo.",
+            "Qui il rischio di semplificare troppo è altissimo, quindi bene averlo messo sul tavolo.",
             "Argomento molto forte, soprattutto per come tocca questioni concrete.",
-            "Video utile, perche' su questi temi si va spesso di slogan.",
+            "Video utile, perché su questi temi si va spesso di slogan.",
         ],
         "Economia Pubblica, Welfare e Demografia": [
             "Tema molto concreto, e si vede.",
-            "Video utile, soprattutto perche' entra in un dibattito che di solito resta superficiale.",
-            "Qui il punto interessante e' proprio separare percezioni e incentivi reali.",
+            "Video utile, soprattutto perché entra in un dibattito che di solito resta superficiale.",
+            "Qui il punto interessante è proprio separare percezioni e incentivi reali.",
         ],
         "Economia dei Media e dello Sport": [
             "Bella chiave di lettura.",
             "Questo taglio funziona molto bene.",
-            "Tema interessante, anche perche' di solito viene trattato solo come cronaca.",
+            "Tema interessante, anche perché di solito viene trattato solo come cronaca.",
         ],
     }
 
     bodies = {
         "Economia del Crimine e Mafie": [
-            "La parte che ci convince di piu' e' quando si passa dal racconto generale al meccanismo: incentivi, rischio di reato, effetti della legalita' o della repressione.",
-            "Su criminalita' e sicurezza la differenza la fa quasi sempre il tipo di incentivo che crei, non solo la durezza del messaggio politico.",
-            "Su questi temi la ricerca economica e' utile proprio perche' prova a misurare effetti causali, non solo impressioni.",
+            "La parte che ci convince di più è quando si passa dal racconto generale al meccanismo: incentivi, rischio di reato, effetti della legalità o della repressione.",
+            "Su criminalità e sicurezza la differenza la fa quasi sempre il tipo di incentivo che crei, non solo la durezza del messaggio politico.",
+            "Su questi temi la ricerca economica è utile proprio perché prova a misurare effetti causali, non solo impressioni.",
         ],
         "Economia Politica e Istituzioni": [
-            "Secondo noi il punto piu' interessante e' il pezzo di lungo periodo: fiducia, selezione della classe politica, memoria degli scandali.",
-            "Qui la parte forte e' il legame tra incentivi politici e comportamento degli elettori, che spesso nel dibattito pubblico resta sullo sfondo.",
-            "La cosa che ci colpisce sempre e' quanto questi shock politici lascino effetti persistenti, molto oltre la cronaca del momento.",
+            "Secondo noi il punto più interessante è il pezzo di lungo periodo: fiducia, selezione della classe politica, memoria degli scandali.",
+            "Qui la parte forte è il legame tra incentivi politici e comportamento degli elettori, che spesso nel dibattito pubblico resta sullo sfondo.",
+            "La cosa che ci colpisce sempre è quanto questi shock politici lascino effetti persistenti, molto oltre la cronaca del momento.",
         ],
         "Storia Economica e Sviluppo": [
-            "La cosa bella della storia economica e' che spesso ribalta intuizioni molto diffuse con dati e confronti seri.",
-            "Qui secondo noi ha senso portare dentro un po' di evidenza storica, perche' il meccanismo vero emerge bene solo nel lungo periodo.",
+            "La cosa bella della storia economica è che spesso ribalta intuizioni molto diffuse con dati e confronti seri.",
+            "Qui secondo noi ha senso portare dentro un po' di evidenza storica, perché il meccanismo vero emerge bene solo nel lungo periodo.",
             "Su questi temi ci aiuta molto guardare come cambiano incentivi e sviluppo nel tempo, non solo l'episodio storico singolo.",
         ],
         "Economia della Cultura, Società e Religione": [
-            "Il bello di questi temi e' che sembrano solo culturali, ma poi hanno effetti economici molto concreti su lavoro, famiglia e scelte individuali.",
-            "Qui secondo noi entra in gioco proprio il pezzo piu' interessante: norme sociali e valori che poi cambiano comportamenti osservabili.",
-            "La parte forte e' quando si capisce che cultura e incentivi non sono mondi separati, anzi si rinforzano a vicenda.",
+            "Il bello di questi temi è che sembrano solo culturali, ma poi hanno effetti economici molto concreti su lavoro, famiglia e scelte individuali.",
+            "Qui secondo noi entra in gioco proprio il pezzo più interessante: norme sociali e valori che poi cambiano comportamenti osservabili.",
+            "La parte forte è quando si capisce che cultura e incentivi non sono mondi separati, anzi si rinforzano a vicenda.",
         ],
         "Economia del Lavoro, Discriminazione e Disuguaglianze": [
-            "Su lavoro e tecnologia il punto e' quasi sempre distinguere chi perde, chi guadagna e in quali territori si vede davvero l'effetto.",
+            "Su lavoro e tecnologia il punto è quasi sempre distinguere chi perde, chi guadagna e in quali territori si vede davvero l'effetto.",
             "Qui secondo noi conta molto andare oltre il titolo e guardare ai dati: non tutti i lavoratori subiscono lo stesso impatto.",
-            "La parte utile della ricerca e' che separa l'effetto sulla produttivita' da quello su salari, occupazione e composizione dei lavori.",
+            "La parte utile della ricerca è che separa l'effetto sulla produttività da quello su salari, occupazione e composizione dei lavori.",
         ],
         "Economia Pubblica, Welfare e Demografia": [
-            "Su tasse, welfare e demografia il punto vero e' quasi sempre negli incentivi, piu' che negli annunci.",
-            "Qui secondo noi e' utile tenere insieme la parte politica e quella comportamentale: la reazione delle persone cambia molto il risultato finale.",
-            "La parte che spesso manca nel dibattito e' proprio questa: le politiche non producono solo costi o benefici, ma cambiano comportamenti.",
+            "Su tasse, welfare e demografia il punto vero è quasi sempre negli incentivi, più che negli annunci.",
+            "Qui secondo noi è utile tenere insieme la parte politica e quella comportamentale: la reazione delle persone cambia molto il risultato finale.",
+            "La parte che spesso manca nel dibattito è proprio questa: le politiche non producono solo costi o benefici, ma cambiano comportamenti.",
         ],
         "Economia dei Media e dello Sport": [
-            "Qui i dati aiutano parecchio, perche' molte intuizioni sembrano ovvie ma poi cambiano appena guardi gli incentivi.",
-            "Secondo noi il valore aggiunto e' proprio spostare il discorso dalla superficie ai meccanismi.",
+            "Qui i dati aiutano parecchio, perché molte intuizioni sembrano ovvie ma poi cambiano appena guardi gli incentivi.",
+            "Secondo noi il valore aggiunto è proprio spostare il discorso dalla superficie ai meccanismi.",
             "Su questi temi la ricerca serve soprattutto a evitare letture troppo facili.",
         ],
     }
 
     bridges = [
-        f"Noi su questo abbiamo fatto un video che si chiama \"{ours['video_title']}\": {our_url}",
-        f"Se vi puo' interessare, il nostro video collegato e' \"{ours['video_title']}\" -> {our_url}",
-        f"Per chi vuole il lato piu' data-driven, il video da cui partire e' \"{ours['video_title']}\" {our_url}",
+        f"Noi su questo abbiamo fatto un video che si chiama \"{ours['video_title']}\" {our_url}",
+        f"Se vi può interessare, il nostro video collegato è \"{ours['video_title']}\" {our_url}",
+        f"Per chi vuole il lato più basato sui dati, il video da cui partire è \"{ours['video_title']}\" {our_url}",
+        f"Ne abbiamo parlato in \"{ours['video_title']}\" {our_url}",
+        f"Noi su un tema vicino abbiamo fatto \"{ours['video_title']}\" {our_url}",
     ]
 
     playlist = ours["playlist"]
-    opening = random.choice(openings.get(playlist, ["Video interessante."]))
-    body = random.choice(bodies.get(playlist, ["Secondo noi qui il valore aggiunto arriva quando il tema viene letto con dati e meccanismi causali."]))
-    bridge = random.choice(bridges)
+    opening = pick_fresh(openings.get(playlist, []) + GENERIC_OPENINGS)
+    body = pick_fresh(bodies.get(playlist, ["Secondo noi qui il valore aggiunto arriva quando il tema viene letto con dati e meccanismi causali."]))
+    bridge = pick_fresh(bridges)
 
     if "immigra" in title_lower:
-        body = "Su immigrazione e criminalita' il punto delicato e' quasi sempre distinguere percezioni, slogan e risultati empirici veri."
+        body = "Su immigrazione e criminalità il punto delicato è quasi sempre distinguere percezioni, slogan e risultati empirici veri."
     elif "corruzion" in title_lower:
-        body = "Su corruzione e politica il pezzo piu' interessante, secondo noi, e' l'effetto di lungo periodo su fiducia, voto e selezione della classe dirigente."
+        body = "Su corruzione e politica il pezzo più interessante, secondo noi, è l'effetto di lungo periodo su fiducia, voto e selezione della classe dirigente."
     elif "mafia" in title_lower or "riciclag" in title_lower:
-        body = "Qui secondo noi il punto forte e' mostrare che la criminalita' organizzata non e' solo violenza, ma anche allocazione distorta di risorse e reti di potere."
+        body = "Qui secondo noi il punto forte è mostrare che la criminalità organizzata non è solo violenza, ma anche allocazione distorta di risorse e reti di potere."
     elif "robot" in title_lower or "intelligenza artificiale" in title_lower:
-        body = "Su robot e IA il rischio e' dire tutto o il contrario di tutto: la ricerca serve proprio a capire chi viene colpito davvero e con quali tempi."
+        body = "Su robot e IA il rischio è dire tutto o il contrario di tutto: la ricerca serve proprio a capire chi viene colpito davvero e con quali tempi."
 
     return f"{opening} {body} {bridge}"
 
@@ -539,7 +576,7 @@ def rank_proposals(candidates, catalog):
                 "candidate": candidate,
                 "ours": best_match,
                 "score": best_score,
-                "comment": build_comment(candidate, best_match),
+                "comment": None,
             }
         )
 
@@ -560,6 +597,9 @@ def rank_proposals(candidates, catalog):
         used_ours[ours_key] += 1
         if len(diversified) >= 5:
             break
+    # I commenti si generano solo per le proposte finali, cosi' aperture e chiusure non si ripetono.
+    for proposal in diversified:
+        proposal["comment"] = build_comment(proposal["candidate"], proposal["ours"])
     return diversified
 
 
@@ -625,6 +665,7 @@ def scout_competitors():
     print("🔍 Scouting competitor e video rilevanti...")
     youtube = get_authenticated_service()
     history = set(load_comment_history())
+    load_recent_phrases()
     catalog = build_our_catalog()
 
     candidates = []
