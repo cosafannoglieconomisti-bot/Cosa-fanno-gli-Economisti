@@ -1455,6 +1455,11 @@ def workflow_upload(args):
                 print((short_res.stdout or short_res.stderr).strip())
                 if short_res.returncode != 0:
                     raise WorkflowError(short_res.stderr or short_res.stdout or "Upload Short fallito.")
+                log(
+                    "📌 REGOLA: collega lo Short al long come «Video correlato» in YouTube Studio "
+                    f"(Short → Dettagli → Video correlato → https://youtu.be/{long_id}). "
+                    "La YouTube Data API non espone questo campo: va fatto a mano."
+                )
 
             # Aggiorna placeholder LONG_ID in short metadata se presente
             for meta in (folder_path / "shorts" / "international").glob("short*_metadata.md"):

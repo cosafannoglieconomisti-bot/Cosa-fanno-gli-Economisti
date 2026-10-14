@@ -35,3 +35,8 @@ Se Buffer IG fallisce a metà ma YT long è ok: continua Short/Reel e **esegui c
 3. `Execution/marcello/buffer_post_single.py`
 4. `Execution/enea/upload_short.py`
 5. `Execution/enea/video_cleanup.py`
+
+## Regola: Short → Video correlato (2026-10-14, Marco)
+- Ogni Short va collegato al suo video lungo come **«Video correlato»** in YouTube Studio (Short → Dettagli → Video correlato).
+- La YouTube Data API v3 non espone questo campo: il passaggio è manuale (Studio, o browser loggato come canale). `./workflow upload` stampa il promemoria con il link del long.
+- Lo Short deve avere anche le tracce sottotitoli IT/EN/ES/FR/DE caricate (verifica con captions.list).
