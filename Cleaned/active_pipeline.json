@@ -1,17 +1,62 @@
 {
-    "active_video": "L_Africa_si_muove_davvero",
-    "paper_title": "INTERGENERATIONAL MOBILITY IN AFRICA",
-    "step": "Upload Completato",
-    "last_updated": "2026-06-23T18:30:00.000000",
-    "title": "L'Africa si muove davvero?",
-    "paper_path": "/Users/<USER>/Desktop/canale/Cleaned/L_Africa_si_muove_davvero/INTERGENERATIONAL MOBILITY IN AFRICA.pdf",
-    "target_dir": "/Users/<USER>/Desktop/canale/Cleaned/L_Africa_si_muove_davvero",
-    "clean_title": "L_Africa_si_muove_davvero",
-    "academic_title": "INTERGENERATIONAL MOBILITY IN AFRICA",
-    "paper": "INTERGENERATIONAL MOBILITY IN AFRICA.pdf",
-    "notebook_id": "64c65587-85e1-489a-8e81-43e5d940554b",
-    "youtube_id": "kNnnjCsyj9c",
-    "youtube_url": "https://www.youtube.com/watch?v=kNnnjCsyj9c",
-    "scheduled_at": "2026-06-26T10:00:00+02:00",
-    "status": "Pulito"
+  "title": "Il sindacato spezza il caporalato?",
+  "clean_title": "Il_sindacato_spezza_il_caporalato",
+  "target_dir": "/Users/<USER>/Desktop/canale/Cleaned/Il_sindacato_spezza_il_caporalato",
+  "paper": "When Migrants Mobilize against Labor Exploitation Evidence from the Italian Farmlands.pdf",
+  "paper_path": "/Users/<USER>/Desktop/canale/Cleaned/Il_sindacato_spezza_il_caporalato/When Migrants Mobilize against Labor Exploitation Evidence from the Italian Farmlands.pdf",
+  "metadata": {
+    "real_title": "When Migrants Mobilize against Labor Exploitation: Evidence from the Italian Farmlands",
+    "authors": "Gemma Dipoppa",
+    "journal": "American Political Science Review",
+    "year": "2025",
+    "doi": "10.1017/S0003055424001138",
+    "doi_url": "https://doi.org/10.1017/S0003055424001138",
+    "author_note": "Verified from PDF front matter."
+  },
+  "academic_title": "When Migrants Mobilize against Labor Exploitation: Evidence from the Italian Farmlands",
+  "proposed_titles": [
+    "Informare i migranti funziona?",
+    "Il sindacato spezza il caporalato?",
+    "I braccianti possono denunciare?"
+  ],
+  "selected_title_index": 1,
+  "approved_title": "Il sindacato spezza il caporalato?",
+  "status": "upload_ready",
+  "pipeline_id": "Il_sindacato_spezza_il_caporalato",
+  "publish_plan": {
+    "date": "2026-10-08",
+    "timezone": "Europe/Rome",
+    "yt_long": "09:00",
+    "instagram": "10:00",
+    "short_reel": "12:00",
+    "yt_long_iso": "2026-10-08T09:00:00+02:00",
+    "instagram_iso": "2026-10-08T10:00:00+02:00",
+    "short_reel_iso": "2026-10-08T12:00:00+02:00",
+    "note": "Pub target Thu 08/10 Europe/Rome — upload NOT started until Marco OK after production"
+  },
+  "cover_paths": {
+    "yt_16x9": "/Users/<USER>/Desktop/canale/Temp/enea/Il_sindacato_spezza_il_caporalato_cover.png",
+    "override": "/Users/<USER>/Desktop/canale/Temp/assets/override_cover.png",
+    "cleaned": "/Users/<USER>/Desktop/canale/Cleaned/Il_sindacato_spezza_il_caporalato/copertina.png",
+    "primary_aspect": "16:9"
+  },
+  "playlist_suggested": "Economia del Lavoro, Discriminazione e Disuguaglianze",
+  "metadata_approved": "2026-10-07",
+  "nlm": {
+    "notebook_id": "6b908e60-22ca-42b6-a1ae-ea106ba55f64",
+    "long": "cleaned",
+    "short": "cleaned",
+    "infographic": "approved_cleaned",
+    "long_id": "4cd19620-0b6c-4ffd-a36e-55af0183d38e",
+    "short_id": "a0f09283-2e18-4b7b-a586-18954e2afe6e",
+    "info_id": "528ed6fe-9a54-4731-9886-c9f3b36d9a8d",
+    "long_raw_s": 393.183,
+    "long_cleaned_s": 389.167,
+    "long_trim_s": 4.05,
+    "short_raw_s": 83.615,
+    "short_cleaned_s": 80.387,
+    "short_trim_s": 3.25
+  },
+  "notebook_id": "6b908e60-22ca-42b6-a1ae-ea106ba55f64",
+  "notebook_url": "https://notebooklm.google.com/notebook/6b908e60-22ca-42b6-a1ae-ea106ba55f64"
 }
