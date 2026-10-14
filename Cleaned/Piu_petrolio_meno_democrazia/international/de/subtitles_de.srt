@@ -1,0 +1,548 @@
+1
+00:00:00,000 --> 00:00:02,500
+Benvenuti a questo nuovo approfondimento.
+
+2
+00:00:02,500 --> 00:00:06,500
+Oggi ci tuffiamo a capofitto in un paper di economia super interessante
+
+3
+00:00:06,500 --> 00:00:09,500
+firmato da Maria Carreri e Oeindrila Dube.
+
+4
+00:00:09,500 --> 00:00:11,500
+Il titolo è esattamente questo.
+
+5
+00:00:11,500 --> 00:00:13,500
+Più petrolio, meno democrazia?
+
+6
+00:00:13,500 --> 00:00:18,000
+È un lavoro che credetemi ribalta un bel po' di certezze che potremmo avere.
+
+7
+00:00:18,000 --> 00:00:24,000
+Quindi mettiamoci comodi e andiamo a scoprire le vere dinamiche che legano le risorse naturali al potere.
+
+8
+00:00:24,000 --> 00:00:25,500
+Pensateci un attimo.
+
+9
+00:00:25,500 --> 00:00:29,500
+La ricchezza naturale fa davvero sviluppare i paesi più velocemente.
+
+10
+00:00:29,500 --> 00:00:31,500
+D'istinto verrebbe da dire di sì, ovvio.
+
+11
+00:00:31,500 --> 00:00:35,500
+Più risorse nel sottosuolo equivalgono a più soldi e più soldi portano sviluppo.
+
+12
+00:00:35,500 --> 00:00:36,500
+Quadra?
+
+13
+00:00:36,500 --> 00:00:37,500
+E invece no.
+
+14
+00:00:37,500 --> 00:00:41,500
+C'è un mistero accademico decisamente controintuitivo al centro di questa ricerca.
+
+15
+00:00:41,500 --> 00:00:45,500
+che ci costringerà a guardare l'intera faccenda da una prospettiva completamente diversa.
+
+16
+00:00:45,500 --> 00:00:48,500
+La maledizione delle risorse.
+
+17
+00:00:48,500 --> 00:00:51,500
+La cosa affascinante di questa indagine, badate bene.
+
+18
+00:00:51,500 --> 00:00:55,500
+non è capire come le risorse cambino le azioni di chi è già comodamente al governo.
+
+19
+00:00:55,500 --> 00:00:59,500
+Ma piuttosto esplorare come queste enormi ricchezze arrivino a distorcere alla radice
+
+20
+00:00:59,500 --> 00:01:02,500
+i meccanismi che decidono chi sale al potere.
+
+21
+00:01:02,500 --> 00:01:04,500
+È un cambio di prospettiva pazzesco.
+
+22
+00:01:04,500 --> 00:01:08,500
+Per non perderci, chiariamo subito cos'è questa maledizione delle risorse.
+
+23
+00:01:08,500 --> 00:01:11,500
+Sostanzialmente è un vero e proprio paradosso economico.
+
+24
+00:01:11,500 --> 00:01:15,500
+Succede che i paesi seduti letteralmente su una montagna di risorse naturali,
+
+25
+00:01:15,500 --> 00:01:18,500
+finiscono paradossalmente per registrare una crescita economica più bassa
+
+26
+00:01:18,500 --> 00:01:23,500
+e avere istituzioni democratiche molto più fragili rispetto a paesi che di risorse ne hanno pochissime.
+
+27
+00:01:23,500 --> 00:01:27,500
+Questa è l'impalcatura teorica, il punto di partenza della nostra analisi.
+
+28
+00:01:27,500 --> 00:01:29,500
+Il contesto colombiano.
+
+29
+00:01:29,500 --> 00:01:34,500
+Per mettere alla prova questa teoria, le autrici si sono concentrate sulla Colombia in un periodo specifico,
+
+30
+00:01:34,500 --> 00:01:36,500
+tra il 1997 e il 2007.
+
+31
+00:01:36,500 --> 00:01:40,500
+Un ambiente decisamente complesso, certo, ma assolutamente perfetto.
+
+32
+00:01:40,500 --> 00:01:44,500
+un vero laboratorio a cielo aperto per studiare come le elezioni locali
+
+33
+00:01:44,500 --> 00:01:46,500
+reagiscono a un'improvvisa pioggia di ricchezza.
+
+34
+00:01:46,500 --> 00:01:49,500
+Da una parte abbiamo le guerrillas di estrema sinistra,
+
+35
+00:01:49,500 --> 00:01:52,500
+dall'altra i gruppi paramilitari di estrema destra.
+
+36
+00:01:52,500 --> 00:01:54,500
+I dati ci mostrano una dinamica molto chiara.
+
+37
+00:01:54,500 --> 00:01:59,500
+Entrambe queste fazioni armate si basavano sistematicamente su finanziamenti illeciti.
+
+38
+00:01:59,500 --> 00:02:03,500
+E cosa cruciale, condividevano lo stesso identico obiettivo strategico.
+
+39
+00:02:03,500 --> 00:02:06,500
+Volevano dominare i territori ricchi di risorse,
+
+40
+00:02:06,500 --> 00:02:09,500
+per poter estrarre e, di fatto, intascare i soldi dei vari municipi,
+
+41
+00:02:09,500 --> 00:02:13,500
+un meccanismo puramente estrattivo da entrambe le parti.
+
+42
+00:02:13,500 --> 00:02:15,500
+Prezzi e violenza.
+
+43
+00:02:15,500 --> 00:02:17,500
+Ora il modello statistico usato nel paper,
+
+44
+00:02:17,500 --> 00:02:19,500
+la vera e propria scintilla dell'analisi,
+
+45
+00:02:19,500 --> 00:02:22,500
+si basa su un evento esterno e totalmente improvviso,
+
+46
+00:02:22,500 --> 00:02:26,500
+un'impennata pazzesca del valore globale di queste risorse naturali.
+
+47
+00:02:26,500 --> 00:02:29,500
+Ed è proprio qui che i numeri iniziano a parlare chiaro.
+
+48
+00:02:29,500 --> 00:02:31,500
+Parliamo di cifre astronomiche.
+
+49
+00:02:31,500 --> 00:02:34,500
+Tra il 1997 e il 2007,
+
+50
+00:02:34,500 --> 00:02:37,500
+il prezzo internazionale del petrolio è schizzato alle stelle,
+
+51
+00:02:37,500 --> 00:02:40,500
+registrando un aumento del 130%.
+
+52
+00:02:40,500 --> 00:02:41,500
+130?
+
+53
+00:02:41,500 --> 00:02:43,500
+Questo sciocché enorme, arrivato dall'esterno,
+
+54
+00:02:43,500 --> 00:02:45,500
+ha ribaltato le regole del gioco.
+
+55
+00:02:45,500 --> 00:02:47,500
+Praticamente da un giorno all'altro,
+
+56
+00:02:47,500 --> 00:02:49,500
+i comuni colombiani dove si estraeva petrolio,
+
+57
+00:02:49,500 --> 00:02:51,500
+si sono trasformati in un bottino irresistibile,
+
+58
+00:02:51,500 --> 00:02:54,500
+dei bersagli di altissimo valore per i gruppi armati.
+
+59
+00:02:54,500 --> 00:02:57,500
+Il paper va a documentare con estremo rigore,
+
+60
+00:02:57,500 --> 00:02:59,500
+i metodi violenti impiegati,
+
+61
+00:02:59,500 --> 00:03:01,500
+in particolar modo dai paramilitari di destra,
+
+62
+00:03:01,500 --> 00:03:04,500
+per accaparrarsi il controllo di questa nuova ricchezza locale.
+
+63
+00:03:04,500 --> 00:03:08,500
+E attenzione, non stiamo parlando di volantini o comizi accesi.
+
+64
+00:03:08,500 --> 00:03:10,500
+Andiamo dal finanziare i politici amici,
+
+65
+00:03:10,500 --> 00:03:14,500
+all'intimidazione o addirittura all'assassinio degli avversari politici.
+
+66
+00:03:14,500 --> 00:03:16,500
+E non finisce qui,
+
+67
+00:03:16,500 --> 00:03:18,500
+minacce agli elettori per abbassare la affluenza,
+
+68
+00:03:18,500 --> 00:03:19,500
+compravendita di voti,
+
+69
+00:03:19,500 --> 00:03:22,500
+e schede elettorali falsificate inserite a forza nelle urne,
+
+70
+00:03:22,500 --> 00:03:25,500
+un livello di coercizione davvero impressionante.
+
+71
+00:03:25,500 --> 00:03:27,500
+I risultati elettorali,
+
+72
+00:03:27,500 --> 00:03:28,500
+ma la vera domanda è,
+
+73
+00:03:28,500 --> 00:03:30,500
+come si traducono queste strategie brutali
+
+74
+00:03:30,500 --> 00:03:32,500
+in vittorie politiche tangibili.
+
+75
+00:03:32,500 --> 00:03:34,500
+Andiamo a scavare nei dati
+
+76
+00:03:34,500 --> 00:03:36,500
+per vedere l'impatto reale e concreto
+
+77
+00:03:36,500 --> 00:03:38,500
+che tutto questo ha avuto sulle elezioni.
+
+78
+00:03:38,500 --> 00:03:39,500
+I dati non mentono,
+
+79
+00:03:39,500 --> 00:03:41,500
+mostrano un effetto lampante.
+
+80
+00:03:41,500 --> 00:03:44,500
+Bastava un aumento del 10% del prezzo del petrolio
+
+81
+00:03:44,500 --> 00:03:46,500
+per far crescere in modo significativo
+
+82
+00:03:46,500 --> 00:03:49,500
+le probabilità che venisse eletto un sindaco pro-paramilitari.
+
+83
+00:03:49,500 --> 00:03:51,500
+Se poi calcoliamo l'effetto a valanga,
+
+84
+00:03:51,500 --> 00:03:54,500
+sui quattro cicli elettorali esaminati dallo studio,
+
+85
+00:03:54,500 --> 00:03:56,500
+vediamo un balzo e sentite bene,
+
+86
+00:03:56,500 --> 00:03:58,500
+del 72% nelle probabilità
+
+87
+00:03:58,500 --> 00:04:00,500
+che questi esponenti prendessero il potere.
+
+88
+00:04:00,500 --> 00:04:02,500
+E per giunta con margini di vittoria
+
+89
+00:04:02,500 --> 00:04:04,500
+che diventavano sempre più schiaccianti.
+
+90
+00:04:04,500 --> 00:04:06,500
+Meno democrazia locale.
+
+91
+00:04:06,500 --> 00:04:08,500
+Davanti a numeri del genere è giusto chiedersi,
+
+92
+00:04:08,500 --> 00:04:10,500
+ma non è che gli elettori hanno
+
+93
+00:04:10,500 --> 00:04:12,500
+semplicemente cambiato idea politica.
+
+94
+00:04:12,500 --> 00:04:14,500
+Le autrici si sono poste la stessa identica domanda,
+
+95
+00:04:14,500 --> 00:04:16,500
+hanno passato al setaccio i numeri
+
+96
+00:04:16,500 --> 00:04:18,500
+per verificare le spiegazioni alternative,
+
+97
+00:04:18,500 --> 00:04:20,500
+e hanno dimostrato che no,
+
+98
+00:04:20,500 --> 00:04:22,500
+non era affatto un cambio di preferenze.
+
+99
+00:04:22,500 --> 00:04:24,500
+Era un vero e proprio collasso
+
+100
+00:04:24,500 --> 00:04:26,500
+della competizione democratica.
+
+101
+00:04:26,500 --> 00:04:27,500
+Tutto era dettato dalla forza,
+
+102
+00:04:27,500 --> 00:04:29,500
+non dalla volontà popolare.
+
+103
+00:04:29,500 --> 00:04:31,500
+Praticamente gli avversari venivano terrorizzati
+
+104
+00:04:31,500 --> 00:04:32,500
+e messi in fuga,
+
+105
+00:04:32,500 --> 00:04:33,500
+facendo crollare drasticamente
+
+106
+00:04:33,500 --> 00:04:35,500
+il numero totale dei candidati.
+
+107
+00:04:35,500 --> 00:04:37,500
+I politici più moderati, centristi,
+
+108
+00:04:37,500 --> 00:04:38,500
+sia di destra che di sinistra,
+
+109
+00:04:38,500 --> 00:04:40,500
+letteralmente sparivano nel nulla.
+
+110
+00:04:40,500 --> 00:04:43,500
+Ma volete la prova definitiva di questa coercizione?
+
+111
+00:04:43,500 --> 00:04:45,500
+Guardate la affluenza alle urne.
+
+112
+00:04:45,500 --> 00:04:47,500
+C'è stato un crollo dell'undici
+
+113
+00:04:47,500 --> 00:04:48,500
+verso la cinque per cento
+
+114
+00:04:48,500 --> 00:04:50,500
+proprio in quelle aree storicamente vicine all'opposizione,
+
+115
+00:04:50,500 --> 00:04:52,500
+un calo che urla intimidazione
+
+116
+00:04:52,500 --> 00:04:53,500
+da tutte le parti.
+
+117
+00:04:53,500 --> 00:04:55,500
+Tutto questo ci costringe
+
+118
+00:04:55,500 --> 00:04:57,500
+a una riflessione finale bella tosta.
+
+119
+00:04:57,500 --> 00:04:59,500
+Se la pioggia di soldi delle risorse naturali
+
+120
+00:04:59,500 --> 00:05:00,500
+finisce per finanziare
+
+121
+00:05:00,500 --> 00:05:02,500
+e attrarre chi usa la forza pura
+
+122
+00:05:02,500 --> 00:05:03,500
+e semplice per comandare,
+
+123
+00:05:03,500 --> 00:05:05,500
+possiamo davvero dire che le elezioni
+
+124
+00:05:05,500 --> 00:05:07,500
+riflettano la volontà del popolo?
+
+125
+00:05:07,500 --> 00:05:08,500
+Insomma, questa ricerca
+
+126
+00:05:08,500 --> 00:05:10,500
+ci fa vedere in modo cristallino
+
+127
+00:05:10,500 --> 00:05:11,500
+come un'economia basata
+
+128
+00:05:11,500 --> 00:05:12,500
+sulle risorse possa erodere
+
+129
+00:05:12,500 --> 00:05:14,500
+e corrodere le fondamenta stesse
+
+130
+00:05:14,500 --> 00:05:15,500
+del nostro potere civico.
+
+131
+00:05:15,500 --> 00:05:16,500
+Spero che questo approfondimento
+
+132
+00:05:16,500 --> 00:05:18,500
+vi abbia aiutato a districare dinamiche
+
+133
+00:05:18,500 --> 00:05:19,500
+così complesse,
+
+134
+00:05:19,500 --> 00:05:21,500
+lasciandoci un grande spunto
+
+135
+00:05:21,500 --> 00:05:22,500
+su quanto contino regole certe
+
+136
+00:05:22,500 --> 00:05:24,500
+e sicurezza per difendere la vera democrazia.
+
+137
+00:05:24,500 --> 00:05:25,500
+Alla prossima!
+

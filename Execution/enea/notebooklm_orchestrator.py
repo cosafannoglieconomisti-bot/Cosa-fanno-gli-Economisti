@@ -118,6 +118,36 @@ def extract_art_id(art):
     return art.get("id") or art.get("artifact_id") or art.get("studio_id")
 
 
+
+# Rotazione stile infografica (2026-10-14, richiesta Marco): stili dove la grafica è protagonista.
+# Esclusi di proposito: professional, editorial, instructional, scientific, bento_grid (testo/griglie).
+INFOGRAPHIC_STYLES = ["sketch_note", "clay", "kawaii", "bricks", "anime"]
+INFOGRAPHIC_STYLE_STATE = REPO_ROOT / "Temp" / "enea" / "infographic_style_rotation.json"
+
+
+def next_infographic_style(clean_title):
+    """Sceglie lo stile successivo a quello dell'ultimo video e lo registra (stesso titolo = stesso stile)."""
+    state = {"last_style": "sketch_note", "history": []}
+    try:
+        if INFOGRAPHIC_STYLE_STATE.exists():
+            state.update(json.loads(INFOGRAPHIC_STYLE_STATE.read_text(encoding="utf-8")))
+    except Exception:
+        pass
+    for h in state.get("history", []):
+        if h.get("clean_title") == clean_title:
+            return h["style"]
+    last = state.get("last_style", "sketch_note")
+    idx = INFOGRAPHIC_STYLES.index(last) if last in INFOGRAPHIC_STYLES else -1
+    style = INFOGRAPHIC_STYLES[(idx + 1) % len(INFOGRAPHIC_STYLES)]
+    state["last_style"] = style
+    state.setdefault("history", []).append({"clean_title": clean_title, "style": style})
+    try:
+        INFOGRAPHIC_STYLE_STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
+    except Exception as exc:
+        log(f"ATTENZIONE: stato rotazione stile non salvato: {exc}")
+    return style
+
+
 def create_and_download_short(nb_id, title, clean_title, target_dir, index=1):
     """Crea short via nlm --format short, scarica come {clean_title}_shortN_raw.mp4."""
     nlm = nlm_bin()
@@ -285,11 +315,13 @@ def main(with_short=False, short_count=1):
         return 1
     log("Generazione Video avviata.")
 
-    # 4. Infografica square
+    # 4. Infografica square (stile a rotazione tra i video)
+    info_style = next_infographic_style(clean_title)
+    log(f"Stile infografica (rotazione): {info_style}")
     info_prompt = (
         "Lingua: Italiano perfetto. Tono: Semplice, divulgativo ma scientificamente chiaro. "
-        "Stile grafico: Estremamente accattivante, ricco di disegni ed emoji (molto visivo, "
-        "ad esempio in stile sketch_note o simile, evitando griglie, tabelle o blocchi grigi noiosi). "
+        f"Stile grafico: Estremamente accattivante, la GRAFICA è protagonista: disegni e illustrazioni "
+        f"in stile {info_style}, ricchi di emoji, evitando griglie, tabelle o blocchi grigi noiosi. "
         "REGOLE DI CONTENUTO: Spiega in modo conciso ma logicamente completo lo studio: "
         "1. IL DILEMMA: Qual è il problema che il paper vuole risolvere? "
         "(Usa un linguaggio semplice, es. \"Gli amici cambiano il voto?\"). "
@@ -308,7 +340,7 @@ def main(with_short=False, short_count=1):
             nlm, "create", "infographic", nb_id,
             "--orientation", "square",
             "--detail", "detailed",
-            "--style", "sketch_note",
+            "--style", info_style,
             "--focus", info_prompt,
             "--language", "it",
             "-y",
