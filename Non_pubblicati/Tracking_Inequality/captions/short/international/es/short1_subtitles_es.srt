@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:06,440
+Los profesores orientan el futuro de los alumnos, pero ¿por qué su juicio se distorsiona en el momento más delicado?
+
+2
+00:00:06,440 --> 00:00:13,759
+En Italia, el consejo orientativo de tercero de secundaria determina en gran medida quién llegará a la universidad y quién no.
+
+3
+00:00:13,759 --> 00:00:17,620
+Tomemos a dos estudiantes, ambos con una media de ocho en matemáticas,
+
+4
+00:00:17,620 --> 00:00:20,920
+uno rico y el otro económicamente desfavorecido.
+
+5
+00:00:20,920 --> 00:00:25,300
+Al entrar en el filtro de decisión del docente, sus destinos se separan.
+
+6
+00:00:25,300 --> 00:00:28,500
+El chico acomodado vuela hacia el liceo científico.
+
+7
+00:00:28,500 --> 00:00:31,579
+El desfavorecido es dirigido a un instituto técnico.
+
+8
+00:00:31,579 --> 00:00:34,179
+A pesar de notas idénticas.
+
+9
+00:00:34,179 --> 00:00:37,420
+El motivo es un punto ciego estructural.
+
+10
+00:00:37,420 --> 00:00:42,620
+Los profesores casi nunca reciben un retorno real sobre las carreras de sus antiguos alumnos.
+
+11
+00:00:42,620 --> 00:00:48,659
+Trabajando a ciegas, terminan sobrestimando enormemente el riesgo de suspenso de los chicos menos acomodados.
+
+12
+00:00:48,659 --> 00:00:55,460
+La solución: dar a los docentes un informe personalizado con las verdaderas tasas de promoción.
+
+13
+00:00:55,460 --> 00:01:00,899
+Al leer datos objetivos sobre sus propias decisiones pasadas, la percepción errónea del riesgo se derrumba.
+
+14
+00:01:00,899 --> 00:01:03,620
+El filtro se recalibra de inmediato.
+
+15
+00:01:03,620 --> 00:01:08,819
+El sistema deja de penalizar la renta y redirige el talento hacia los liceos.
+
+16
+00:01:08,819 --> 00:01:11,819
+¿Y aquel estudiante brillante y desfavorecido del principio?
+
+17
+00:01:11,819 --> 00:01:15,420
+Ahora entra en un liceo y supera el primer año sin dificultad.
+
+18
+00:01:15,420 --> 00:01:18,669
+Los datos objetivos acaban de anular un prejuicio involuntario.

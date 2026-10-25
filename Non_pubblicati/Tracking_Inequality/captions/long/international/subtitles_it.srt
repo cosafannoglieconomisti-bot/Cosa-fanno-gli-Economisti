@@ -1,0 +1,404 @@
+1
+00:00:00,000 --> 00:00:04,879
+La scuola fre in ai bravi entriamo subito nel vivo con questa domanda affascinante e davvero
+
+2
+00:00:04,879 --> 00:00:07,000
+fondamentale per il futuro della nostra società.
+
+3
+00:00:07,000 --> 00:00:11,839
+Oggi esploriamo una ricerca economica estremamente rigorosa, un tape perché analizza come le
+
+4
+00:00:11,839 --> 00:00:16,059
+aspettative degli insegnanti possano quasi inavvertitamente influenzare il percorso degli
+
+5
+00:00:16,059 --> 00:00:19,440
+studenti in Italia, alterando di fatto l'ugualienza dell'opportunità.
+
+6
+00:00:19,440 --> 00:00:23,839
+L'analisi si concentra sulle raccomandazioni di orientamento fornite alla fine delle
+
+7
+00:00:23,839 --> 00:00:27,920
+scuole medie, insomma un momento di transizione critico che segna in modo indelebile le
+
+8
+00:00:27,920 --> 00:00:30,320
+traiettorie educative a lungo termine.
+
+9
+00:00:30,320 --> 00:00:33,240
+Ed ecco il vero mistero da cui parte l'indagine.
+
+10
+00:00:33,240 --> 00:00:37,520
+Le scuole offrano davvero le stesse identiche opportunità a tutti a parità di voti.
+
+11
+00:00:37,520 --> 00:00:41,280
+Come in un romanzo giallo, ma basato su dati reali, andiamo alla ricerca di indizi
+
+12
+00:00:41,280 --> 00:00:45,880
+per capire se lo status socio-economico di una famiglia, altri rissegritamente le raccomandazioni
+
+13
+00:00:45,880 --> 00:00:47,680
+verso i lici ai più impegnativi.
+
+14
+00:00:47,680 --> 00:00:51,680
+Li potesi, un po' spiazzante, è che questo venga anche quando il rendimento académico
+
+15
+00:00:51,680 --> 00:00:54,640
+di due alunni risulta assolutamente identico.
+
+16
+00:00:54,640 --> 00:00:58,520
+Passiamo alla prima sezione, il divario nelle raccomandazioni.
+
+17
+00:00:58,520 --> 00:01:03,000
+Esaminando i dati amministrativi oggettivi, il primo indizio emerge in modo lampante.
+
+18
+00:01:03,000 --> 00:01:07,719
+Guardando la fascia alta, ovvero gli studenti che rientrano nel miglior 20% in matematica,
+
+19
+00:01:07,719 --> 00:01:09,400
+emerge un dato inequivocabile.
+
+20
+00:01:09,400 --> 00:01:14,000
+Solo il 51% degli studenti provenienti da contesti svantaggiati, riceve il consiglio
+
+21
+00:01:14,000 --> 00:01:16,240
+di scriversi a un licia uscientifico o classico.
+
+22
+00:01:16,240 --> 00:01:20,480
+Al contrario, la percentuale sale al 62% per i loro coetanei provenienti da famiglia
+
+23
+00:01:20,480 --> 00:01:24,400
+vantaggiate, a parità di competenze cellenti, si tratta di un divario enorme.
+
+24
+00:01:24,400 --> 00:01:27,439
+E c'è un ulteriore dettaglio da notare.
+
+25
+00:01:27,439 --> 00:01:31,600
+Questo divario non è per nulla statico, anzi cresce in modo significativo alla aumentare
+
+26
+00:01:31,600 --> 00:01:32,600
+dei voti.
+
+27
+00:01:32,600 --> 00:01:36,800
+E cosa, ancora più sorprendente, si nota come la penalizzazione si è nettamente più ampia
+
+28
+00:01:36,800 --> 00:01:39,159
+per i ragazzi talentuosi rispetto alle ragazze.
+
+29
+00:01:39,159 --> 00:01:43,800
+Siamo di fronte a un vero e proprio mistero empirico che necessita di una spiegazione.
+
+30
+00:01:43,800 --> 00:01:48,600
+Seconda sezione, i profili ipotetici e il test sperimentale.
+
+31
+00:01:48,600 --> 00:01:52,400
+Per risolvere questo mistero e trovare il colpevole, i ricercatori hanno dovuto eliminare
+
+32
+00:01:52,400 --> 00:01:54,680
+le cosiddette variabili confondenti.
+
+33
+00:01:54,680 --> 00:01:55,880
+Ci si ha chiesti.
+
+34
+00:01:55,880 --> 00:02:00,720
+E se questo divario riflettesse solamente a aspirazioni familiari diverse, il punto cruciale
+
+35
+00:02:00,720 --> 00:02:05,040
+qui è l'ideazione di un ingegno suo esperimento basato su profili ipotetici, le famose
+
+36
+00:02:05,040 --> 00:02:06,040
+vignette.
+
+37
+00:02:06,040 --> 00:02:09,920
+Ai docenti è stato chiesto di valutare il profilo di un ipotetico studente, chiamiamolo
+
+38
+00:02:09,920 --> 00:02:10,920
+Matteo.
+
+39
+00:02:10,920 --> 00:02:15,199
+La sua passione per la robotica, le sue ambizioni e i suoi voti eccellenti sono stati
+
+40
+00:02:15,199 --> 00:02:18,199
+mantenuti perfettamente costanti in tutti i casi.
+
+41
+00:02:18,199 --> 00:02:22,199
+L'unico dettaglio a variare, in modo del tutto casuale, era il livello distruzione dei
+
+42
+00:02:22,199 --> 00:02:23,199
+suoi genitori.
+
+43
+00:02:23,199 --> 00:02:26,119
+In un caso laureati, nell'altro con la sua licenza media.
+
+44
+00:02:26,119 --> 00:02:31,119
+Ed ecco la prova inconfutabile, la proverbiale pistola fumante.
+
+45
+00:02:31,119 --> 00:02:35,319
+Modificare semplicemente l'indizio socio-economico nel testo del profilo, causa un calo di
+
+46
+00:02:35,319 --> 00:02:40,099
+band 6,2 punti percentuali nelle probabilità che a Matteo venga raccomandato un liceo
+
+47
+00:02:40,099 --> 00:02:41,099
+impegnativo.
+
+48
+00:02:41,099 --> 00:02:45,120
+Tratandosi di un esperimento con lo stesso identico profilo di studente, questo dimostre
+
+49
+00:02:45,120 --> 00:02:49,439
+in modo incontrovertibile, una reazione causale legata puramente allo status familiare.
+
+50
+00:02:49,439 --> 00:02:52,200
+Ma perché abbiene questa reazione?
+
+51
+00:02:52,200 --> 00:02:55,840
+L'analisi testuale delle motivazioni scritte dai professori offre una spiegazione molto
+
+52
+00:02:55,840 --> 00:02:56,840
+chiara.
+
+53
+00:02:56,840 --> 00:03:01,560
+I testi rivellano che si tende ad edurre, purtroppo erroneamente, una mancanza di supporto
+
+54
+00:03:01,560 --> 00:03:06,040
+genitoriale, o la presunta necessità di un'interimento lavorativo immediato, e tutto
+
+55
+00:03:06,040 --> 00:03:09,480
+questo basandosi unicamente su quel piccolo indicio socio-economico.
+
+56
+00:03:09,480 --> 00:03:14,159
+Le aspettative insomma si ricaliberano verso il basso anche in ascenza di reale informazioni
+
+57
+00:03:14,159 --> 00:03:15,159
+sulla famiglia.
+
+58
+00:03:15,159 --> 00:03:19,520
+Arriviamo così alla terza sezione, aspettative contro realtà.
+
+59
+00:03:19,520 --> 00:03:24,879
+Ora si passa al cuore pulsante dell'analisi, verificare oggettivamente se questi aspettative
+
+60
+00:03:24,879 --> 00:03:28,719
+riflettano effettivamente alla realtà, o se siano frutto di una percezione distorta.
+
+61
+00:03:28,719 --> 00:03:32,919
+Ebbene, i dati mettono in luce un massiccio di vario di percezione.
+
+62
+00:03:32,919 --> 00:03:37,120
+Quando si chiede di stimare i tassi di bocciatura al primo anno per i bravi studenti svantaggiati
+
+63
+00:03:37,120 --> 00:03:42,719
+e scritti ai licei più selettivi, le stime fornite superano il tasso reale di oltre il 225%.
+
+64
+00:03:42,719 --> 00:03:47,520
+È un eccesso di pessimismo gigantesco, completamente smentito dai dati amministrativi
+
+65
+00:03:47,520 --> 00:03:48,759
+reali sulle promozioni.
+
+66
+00:03:48,759 --> 00:03:53,659
+Inoltre, emerge che coloro che storicamente presenta nei pregiudizi più marcati nelle
+
+67
+00:03:53,659 --> 00:03:57,719
+raccomandazioni tendono a sottostimare significativamente i propri di vari decisionali.
+
+68
+00:03:57,719 --> 00:04:01,479
+Siamo di fronteo un'evidente problema di mancanza di feedback.
+
+69
+00:04:01,479 --> 00:04:06,439
+In pratica, le decisioni avvengono in condizioni di profonda incertezza, senza che si ricevano
+
+70
+00:04:06,439 --> 00:04:11,520
+mai informazioni sistematiche sul successo futuro degli alunni indirizzati anni prima.
+
+71
+00:04:11,520 --> 00:04:14,719
+Sezione 4, l'intervento sul campo.
+
+72
+00:04:14,719 --> 00:04:19,480
+Per provare a correggere tali distorsioni, i ricercatori hanno implementato un fantastico esperimento
+
+73
+00:04:19,480 --> 00:04:21,519
+controllato sull'arga scala.
+
+74
+00:04:21,519 --> 00:04:25,519
+Questo studio ha a cui involto oltre mille insegnanti, proprio prima che venissere messere
+
+75
+00:04:25,519 --> 00:04:27,720
+noa vera comandazioni di orientamento.
+
+76
+00:04:27,720 --> 00:04:29,720
+Il campione è stato diviso in tre.
+
+77
+00:04:29,720 --> 00:04:32,480
+Un gruppo di controllo ha ricevuto reporta generali.
+
+78
+00:04:32,480 --> 00:04:36,959
+Un secondo gruppo ha ricevuto un report personalizzato sui propri di vari storici legati allo
+
+79
+00:04:36,959 --> 00:04:42,000
+status socio-economico, e un terzo gruppo, oltre i propri di vari storici, ha ricevuto
+
+80
+00:04:42,000 --> 00:04:46,079
+anche un confronto oggettivo sui realità assi di bocciatura, proprio per correggere
+
+81
+00:04:46,079 --> 00:04:47,759
+allora dice a queste false credenze.
+
+82
+00:04:47,759 --> 00:04:51,519
+Quinta e ultima sezione, i risultati dell'esperimento.
+
+83
+00:04:51,519 --> 00:04:56,719
+L'introduzione di questo semplice, ma potente, ciclo di feedback basato sui dati, ha generato
+
+84
+00:04:56,719 --> 00:04:58,240
+risultati di enorme impatto.
+
+85
+00:04:58,240 --> 00:05:02,339
+Il trattamento completo, quello che combina la consapevolezza dei propri di vari con
+
+86
+00:05:02,339 --> 00:05:06,199
+i dati reali sulle bocciature, riesce quasi ad azzerare il di vari ossocio economico
+
+87
+00:05:06,199 --> 00:05:10,759
+nelle raccomandazioni, e l'effetto è particolarmente forte e proprio tra coloro che in passato
+
+88
+00:05:10,759 --> 00:05:12,120
+mostravano i vari aspiu elevati.
+
+89
+00:05:12,120 --> 00:05:17,759
+Il punto davvero cruciale è che questo intervento ha riallocato con successo le raccomandazioni
+
+90
+00:05:17,759 --> 00:05:22,159
+verso i ragazzi svantaggiati, matalentuosi, ovvero il gruppo inizialmente più penalizzato.
+
+91
+00:05:22,159 --> 00:05:26,319
+L'intervento ha aumentato concretamente le loro escrizioni ai lici ai impegnativi,
+
+92
+00:05:26,319 --> 00:05:30,319
+e i dati dimostrano chiaramente che ciò è avvenuto senza causare alcun peggioramento
+
+93
+00:05:30,319 --> 00:05:34,879
+nel loro rendimento academico nel brave termine, un successo misurabile.
+
+94
+00:05:34,879 --> 00:05:39,319
+E per concludere rimane una riflessione profonda, in che modo l'uso intelligente degli
+
+95
+00:05:39,319 --> 00:05:42,040
+dati può sbloccare il potenziale delle generazioni future.
+
+96
+00:05:42,040 --> 00:05:47,199
+Questa ricerca dimostra, senza umbradido, bio che fornire un feedback oggettivo e personalizzato
+
+97
+00:05:47,199 --> 00:05:51,480
+a chi prende decisioni fondamentali, è uno strumento potente per correggere i pregiudizi
+
+98
+00:05:51,480 --> 00:05:55,519
+in conci e ripristinare il modo attivo luoglianza delle opportunità.
+
+99
+00:05:55,519 --> 00:06:00,120
+È un approccio semplice, ma essenziale per garantire che il talento non venga frenato,
+
+100
+00:06:00,120 --> 00:06:01,879
+ben sì, incoraggiato a prosperare.
+
+101
+00:06:01,879 --> 00:06:03,583
+Grazie per aver seguito questo esplor.
+

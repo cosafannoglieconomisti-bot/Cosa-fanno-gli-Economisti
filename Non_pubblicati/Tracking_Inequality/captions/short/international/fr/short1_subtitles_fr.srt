@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:06,440
+Les professeurs orientent l'avenir des élèves, mais pourquoi leur jugement se distord-il au moment le plus délicat ?
+
+2
+00:00:06,440 --> 00:00:13,759
+En Italie, le conseil d'orientation de fin de collège détermine largement qui ira à l'université et qui n'y ira pas.
+
+3
+00:00:13,759 --> 00:00:17,620
+Prenons deux élèves, tous deux avec une moyenne de huit en mathématiques,
+
+4
+00:00:17,620 --> 00:00:20,920
+l'un aisé, l'autre économiquement défavorisé.
+
+5
+00:00:20,920 --> 00:00:25,300
+Une fois entrés dans le filtre de décision de l'enseignant, leurs destins divergent.
+
+6
+00:00:25,300 --> 00:00:28,500
+Le garçon aisé est orienté vers un lycée scientifique.
+
+7
+00:00:28,500 --> 00:00:31,579
+Le défavorisé est dirigé vers un établissement technique.
+
+8
+00:00:31,579 --> 00:00:34,179
+Malgré des notes identiques.
+
+9
+00:00:34,179 --> 00:00:37,420
+La raison est un angle mort structurel.
+
+10
+00:00:37,420 --> 00:00:42,620
+Les professeurs ne reçoivent presque jamais un retour réel sur les parcours de leurs anciens élèves.
+
+11
+00:00:42,620 --> 00:00:48,659
+Travaillant à l'aveugle, ils surestiment énormément le risque d'échec des élèves moins aisés.
+
+12
+00:00:48,659 --> 00:00:55,460
+La solution : fournir aux enseignants un rapport personnalisé avec les vrais taux de réussite.
+
+13
+00:00:55,460 --> 00:01:00,899
+En lisant des données objectives sur leurs choix passés, la perception erronée du risque s'effondre.
+
+14
+00:01:00,899 --> 00:01:03,620
+Le filtre se recalibre immédiatement.
+
+15
+00:01:03,620 --> 00:01:08,819
+Le système cesse de pénaliser le revenu et réoriente les talents vers les lycées généraux.
+
+16
+00:01:08,819 --> 00:01:11,819
+Et cet élève brillant et défavorisé du début ?
+
+17
+00:01:11,819 --> 00:01:15,420
+Il entre maintenant au lycée et réussit la première année sans difficulté.
+
+18
+00:01:15,420 --> 00:01:18,669
+Les données objectives viennent d'effacer un préjugé involontaire.

@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:06,440
+Teachers shape students' futures — but why does their judgment get distorted at the most delicate moment?
+
+2
+00:00:06,440 --> 00:00:13,759
+In Italy, the end-of-middle-school guidance advice heavily determines who will reach university and who will not.
+
+3
+00:00:13,759 --> 00:00:17,620
+Take two students, both with an average of eight in mathematics,
+
+4
+00:00:17,620 --> 00:00:20,920
+one wealthy, the other economically disadvantaged.
+
+5
+00:00:20,920 --> 00:00:25,300
+Once they enter the teacher's decision filter, their destinies diverge.
+
+6
+00:00:25,300 --> 00:00:28,500
+The well-off student is steered toward a scientific liceo.
+
+7
+00:00:28,500 --> 00:00:31,579
+The disadvantaged one is directed to a technical school.
+
+8
+00:00:31,579 --> 00:00:34,179
+Despite identical grades.
+
+9
+00:00:34,179 --> 00:00:37,420
+The reason is a structural blind spot.
+
+10
+00:00:37,420 --> 00:00:42,620
+Teachers almost never get real feedback on the later careers of their former students.
+
+11
+00:00:42,620 --> 00:00:48,659
+Working in the dark, they massively overestimate the risk that poorer students will fail.
+
+12
+00:00:48,659 --> 00:00:55,460
+The fix: give teachers a personalized report with the true promotion rates.
+
+13
+00:00:55,460 --> 00:01:00,899
+Reading objective data on their past choices, the distorted perception of risk collapses.
+
+14
+00:01:00,899 --> 00:01:03,620
+The filter recalibrates immediately.
+
+15
+00:01:03,620 --> 00:01:08,819
+The system stops penalizing income and redirects talent toward academic high schools.
+
+16
+00:01:08,819 --> 00:01:11,819
+And that bright, disadvantaged student from the beginning?
+
+17
+00:01:11,819 --> 00:01:15,420
+Now enters a liceo and passes the first year without trouble.
+
+18
+00:01:15,420 --> 00:01:18,669
+Objective data has just wiped out an involuntary bias.
