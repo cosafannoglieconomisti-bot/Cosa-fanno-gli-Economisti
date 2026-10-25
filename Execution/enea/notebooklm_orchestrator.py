@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Orchestratore produzione NotebookLM: long video + infografica + short (opzionale).
 
+VIDEO_ENGINE (2026-10-15 23:26): default 'notebooklm' = vecchia pipeline, long+Short+infografica NLM.
+HyperFrames in STANDBY: VIDEO_ENGINE=hyperframes riattiva solo il promemoria HYPERFRAMES_NEXT.
+
 TEST path: 1 short per paper (`{clean_title}_short1_raw.mp4`), estensibile a N.
 Richiede notebooklm-mcp-cli>=0.11.7 (`--format short`).
 """
@@ -148,12 +151,26 @@ def next_infographic_style(clean_title):
     return style
 
 
+# 2026-10-15 (approvato da Marco): il pubblico ASCOLTA senza schermo (il visual viene rifatto a parte).
+NARRATION_NO_SCREEN = (
+    "IMPORTANTE: immagina che il pubblico ti stia ascoltando senza vedere alcuno schermo. "
+    "Pronuncia i numeri a parole o come percentuali, in termini generali e approssimativi "
+    "(es. 'circa un terzo', 'quasi il doppio', 'il venti per cento'): mai decimali precisi, "
+    "coefficienti di regressione, p-value o elenchi di cifre. "
+    "Non fare MAI riferimento a elementi visivi: vietato dire 'come vediamo nel grafico', 'guardate qui', "
+    "'come possiamo vedere', 'in questa figura', 'sullo schermo'. "
+    "Non citare MAI sezioni, tabelle, capitoli o figure del paper per numero "
+    "(vietato 'la sezione 6', 'tabella 2', 'capitolo 3', 'figura 1'): racconta i contenuti senza i riferimenti editoriali. "
+    "Descrivi a voce i risultati in modo che si capiscano solo ascoltando. "
+)
+
 def create_and_download_short(nb_id, title, clean_title, target_dir, index=1):
     """Crea short via nlm --format short, scarica come {clean_title}_shortN_raw.mp4."""
     nlm = nlm_bin()
     short_prompt = (
         f"Per favore parla in Italiano. Formato Short verticale (9:16), max ~60 secondi. "
         f"Hook immediato sul risultato del paper. "
+        + NARRATION_NO_SCREEN +
         f"**MANDATORIO: Il TITOLO in sovrimpressione DEVE essere ESATTAMENTE: '{title}'.**"
     )
     log(f"Generazione Short #{index} (--format short)...")
@@ -232,6 +249,23 @@ def create_and_download_short(nb_id, title, clean_title, target_dir, index=1):
     return None
 
 
+def write_hyperframes_next(target_dir, clean_title):
+    """HYPERFRAMES_STANDARD: promemoria dei passi successivi nella cartella del paper."""
+    try:
+        p = Path(target_dir) / "HYPERFRAMES_NEXT.md"
+        p.write_text(
+            f"# Prossimi passi {clean_title} (HyperFrames standard)\n"
+            "1. /pulizia long + short (solo watermark, voce di chiusura intatta), sottotitoli 5 lingue.\n"
+            f"2. Audio cleaned -> trascrizione -> Temp/enea/hyperframes_{clean_title}/storyboard_long.md e storyboard.md\n"
+            "3. GATE: Marco approva storyboard long e Short prima delle immagini.\n"
+            "4. Immagini 16:9 -> HyperFrames long 1920x1080 (templates/long_hyperframes_v8) e Short 1080x1920 (templates/short_hyperframes_v8), SUBS=False.\n"
+            "5. /upload con i file HyperFrames (non i video NLM). Infografica = NLM.\n",
+            encoding="utf-8")
+        log(f"HYPERFRAMES_NEXT scritto: {p}")
+    except Exception as exc:
+        log(f"HYPERFRAMES_NEXT non scritto: {exc}")
+
+
 def main(with_short=False, short_count=1):
     if not os.path.exists(ACTIVE_PIPE):
         log("ERRORE: active_pipeline.json non trovato. Lancia /paper su Telegram prima.")
@@ -303,9 +337,10 @@ def main(with_short=False, short_count=1):
     # 3. Generazione Video LONG (explainer)
     video_prompt = (
         f"Per favore parla in Italiano. Sei un host di podcast coinvolgente che spiega paper di economia. "
-        f"Sii energico ma accurato. Usa possibilmente le figure del paper senza ritoccarle, esprimi i numeri "
-        f"a parole, usa un linguaggio non roboante. **MANDATORIO: Il TITOLO in sovrimpressione nel video DEVE "
-        f"essere ESATTAMENTE: '{title}'. Non riassumere o alterare il titolo.**"
+        f"Sii energico ma accurato. Esprimi i numeri a parole, usa un linguaggio non roboante. "
+        f"**MANDATORIO: Il TITOLO in sovrimpressione nel video DEVE "
+        f"essere ESATTAMENTE: '{title}'. Non riassumere o alterare il titolo.** "
+        + NARRATION_NO_SCREEN
     )
     log("Generazione Video Overview (explainer)...")
     res = run_cmd_with_retry(
@@ -411,6 +446,8 @@ def main(with_short=False, short_count=1):
         for idx in range(1, count + 1):
             create_and_download_short(nb_id, title, clean_title, target_dir, index=idx)
 
+    if os.environ.get("VIDEO_ENGINE", "notebooklm").lower() == "hyperframes":
+        write_hyperframes_next(target_dir, clean_title)
     return 0
 
 

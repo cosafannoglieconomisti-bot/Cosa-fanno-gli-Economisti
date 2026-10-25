@@ -5,7 +5,65 @@ import shutil
 from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[2]
 
-DEFAULT_TRIM_SECONDS = 3.8  # ~3.5–4s: non tagliare la voce di chiusura (evitare 2.5s aggressivo)
+DEFAULT_TRIM_SECONDS = 2.0  # fallback conservativo: meglio sotto-tagliare che tagliare voce
+
+
+def detect_nlm_outro_start(
+    input_video_path,
+    ffmpeg_path,
+    total_duration,
+    probe_seconds=6.0,
+    fps=4.0,
+    scene_delta=20.0,
+):
+    """Trova l'inizio del bumper/logo NotebookLM a fine video (cambio scena → frame chiaro).
+
+    Tagliare SOLO da questo punto: nessuna voce narrante deve essere tagliata.
+    Ritorna timestamp assoluto dell'inizio outro, o None se non trovato.
+    """
+    import tempfile
+    from PIL import Image
+
+    if total_duration < 3.0:
+        return None
+    analyze = min(probe_seconds, max(3.0, total_duration * 0.08))
+    start = max(0.0, total_duration - analyze)
+    tmpdir = tempfile.mkdtemp(prefix="nlm_outro_")
+    try:
+        pattern = str(Path(tmpdir) / "f_%04d.jpg")
+        cmd = [
+            ffmpeg_path, "-y", "-hide_banner", "-loglevel", "error",
+            "-ss", f"{start:.3f}", "-i", input_video_path,
+            "-t", f"{analyze:.3f}",
+            "-vf", f"fps={fps},scale=480:-1",
+            pattern,
+        ]
+        subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
+        files = sorted(Path(tmpdir).glob("f_*.jpg"))
+        if len(files) < 3:
+            return None
+        prev_lum = None
+        for i, fp in enumerate(files):
+            im = Image.open(fp).convert("RGB")
+            # subsampled luminance
+            small = im.resize((80, 45))
+            px = list(small.getdata())
+            lum = [(r + g + b) / 3.0 for r, g, b in px]
+            mean = sum(lum) / len(lum)
+            if prev_lum is not None:
+                diff = sum(abs(a - b) for a, b in zip(lum, prev_lum)) / len(lum)
+                # Bumper NLM tipico: jump verso bianco/quasi-bianco
+                if diff >= scene_delta and mean >= 220:
+                    t = start + i / fps
+                    print(f"Outro NLM visuale rilevato a t={t:.2f}s (delta={diff:.1f}, mean={mean:.1f})")
+                    return t
+            prev_lum = lum
+        return None
+    except Exception as exc:
+        print(f"Detect outro visuale: fallito ({exc})")
+        return None
+    finally:
+        shutil.rmtree(tmpdir, ignore_errors=True)
 
 
 def estimate_outro_trim_seconds(
@@ -13,14 +71,16 @@ def estimate_outro_trim_seconds(
     ffmpeg_path,
     total_duration,
     default=DEFAULT_TRIM_SECONDS,
-    min_trim=3.2,
-    max_trim=4.5,
+    min_trim=1.2,
+    max_trim=4.0,
     window=0.05,
 ):
-    """Stima il taglio outro guidato da RMS audio sugli ultimi ~6s.
+    """Stima il taglio outro: PRIORITÀ al bumper visuale NLM; fallback RMS audio.
 
-    Obiettivo: tenere la frase di chiusura; tagliare solo silenzio/jingle finale.
-    Se l'analisi fallisce, usa default (~3.8s). Mai sotto min_trim / sopra max_trim.
+    Regola dura (2026-10-07): NON tagliare nessuna parola della voce narrante.
+    Tagliare SOLO i frame del watermark/outro logo NotebookLM (dopo fine voce).
+    Preferire sotto-taglio (lasciare un filo di silenzio) piuttosto che rischiare la voce.
+    3.25s+ può ancora essere troppo se la voce arriva tardi: ispezionare sempre la coda.
     """
     import struct
     import tempfile
@@ -67,11 +127,12 @@ def estimate_outro_trim_seconds(
         if last_speech_offset is None:
             trim = default
         else:
-            # secondi dopo l'ultima voce fino a fine file + piccolo padding
+            # secondi di silenzio DOPO l'ultima voce; lascia ~0.45s di coda dopo l'ultima parola
             silence_tail = analyze - last_speech_offset
-            trim = silence_tail + 0.35
-        trim = max(min_trim, min(max_trim, trim))
-        print(f"Trim outro RMS-guidato: {trim:.2f}s (default={default}, finestra={analyze:.1f}s)")
+            trim = max(0.0, silence_tail - 0.45)
+        # Mai forzare un min alto che entra nella voce: clamp soft
+        trim = max(min_trim, min(max_trim, trim)) if trim >= min_trim else max(0.8, trim)
+        print(f"Trim outro RMS-fallback: {trim:.2f}s (silence_tail≈{analyze - (last_speech_offset or analyze):.2f}s, default={default})")
         return trim
     except Exception as exc:
         print(f"Trim outro: fallback {default}s ({exc})")
@@ -80,13 +141,13 @@ def estimate_outro_trim_seconds(
 
 def process_video_and_archive(input_video_path, paper_name, base_cleaned_dir, paper_pdf_path=None, trim_seconds=None, output_filename=None, target_subdir=None):
     """
-    Taglia l'outro (~3.5–4s, RMS-guidato; NON 2.5s aggressivo che taglia la voce),
-    copre il watermark NotebookLM con fill SOLIDO (colore campionato dallo sfondo;
-    NON delogo soft che lascia macchie), e salva in Cleaned/{paper_name}/.
+    Taglia SOLO il bumper/logo outro NotebookLM (detect visuale; fallback RMS conservativo).
+    Regola: NON tagliare nessuna parola della voce narrante — preferire sotto-taglio.
+    Copre il watermark angolo NotebookLM con fill SOLIDO (NON delogo soft).
 
     output_filename: es. '{paper}_short1_cleaned.mp4' (default: '{paper}_cleaned.mp4')
     target_subdir: sottocartella opzionale (es. 'shorts') dentro Cleaned/{paper_name}/
-    trim_seconds: se None, stima RMS; altrimenti usa il valore passato (clamp 3.2–4.5).
+    trim_seconds: se None, detect bumper NLM poi RMS; altrimenti valore passato (clamp 0.5–6.0).
     """
     if not os.path.exists(input_video_path):
         print(f"Errore: Video input non trovato: {input_video_path}")
@@ -133,12 +194,21 @@ def process_video_and_archive(input_video_path, paper_name, base_cleaned_dir, pa
         return False
 
     if trim_seconds is None:
-        trim_seconds = estimate_outro_trim_seconds(
-            input_video_path, ffmpeg_path, total_duration
-        )
+        # 1) Bumper visuale NLM (autoritativo): taglia SOLO logo/outro
+        outro_at = detect_nlm_outro_start(input_video_path, ffmpeg_path, total_duration)
+        if outro_at is not None and 0.5 < outro_at < total_duration:
+            # Escludi il primo frame del bumper (cut un filo PRIMA dell'outro visuale)
+            cut_at = max(0.5, outro_at - 0.12)
+            trim_seconds = max(0.5, total_duration - cut_at)
+            print(f"Trim outro = fine→pre-bumper NLM: {trim_seconds:.2f}s (cut_at={cut_at:.2f}s, outro_at={outro_at:.2f}s, dur={total_duration:.2f}s)")
+        else:
+            trim_seconds = estimate_outro_trim_seconds(
+                input_video_path, ffmpeg_path, total_duration
+            )
+            print("Trim outro: nessun bumper visuale chiaro → RMS conservativo (preferisci sotto-taglio)")
     else:
-        trim_seconds = max(3.2, min(4.5, float(trim_seconds)))
-        print(f"Trim outro forzato: {trim_seconds:.2f}s")
+        trim_seconds = max(0.5, min(6.0, float(trim_seconds)))
+        print(f"Trim outro forzato: {trim_seconds:.2f}s (nessun clamp aggressivo sulla voce)")
 
     new_duration = total_duration - trim_seconds
     if new_duration <= 0:

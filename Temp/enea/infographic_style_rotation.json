@@ -1,6 +1,17 @@
 {
-  "last_style": "sketch_note",
+  "last_style": "kawaii",
   "history": [
-    {"clean_title": "Piu_petrolio_meno_democrazia", "style": "sketch_note"}
+    {
+      "clean_title": "Piu_petrolio_meno_democrazia",
+      "style": "sketch_note"
+    },
+    {
+      "clean_title": "Edilizia_e_migranti_cosi_la_mafia_sale_al_Nord",
+      "style": "clay"
+    },
+    {
+      "clean_title": "Quando_arriva_la_crisi_i_ricchi_scappano",
+      "style": "kawaii"
+    }
   ]
 }
