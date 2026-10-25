@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:05,919
+L'Italie a une bureaucratie kafkaïenne, mais le vrai coupable n'est pas l'employé paresseux.
+
+2
+00:00:05,919 --> 00:00:11,599
+Le vrai court-circuit naît au Parlement, quand les gouvernements durent trop peu.
+
+3
+00:00:11,599 --> 00:00:17,559
+Imaginons un politicien de la Seconde République : avec les élections à la porte, il doit simuler l'activisme,
+
+4
+00:00:17,559 --> 00:00:22,160
+il vote donc à la hâte des dizaines de réformes complexes et très mal rédigées.
+
+5
+00:00:22,160 --> 00:00:27,560
+Cette avalanche de normes submerge les administrations et paralyse la fonction publique.
+
+6
+00:00:28,040 --> 00:00:32,880
+Mais pour le politicien, cette paralysie devient un bouclier parfait,
+
+7
+00:00:32,880 --> 00:00:37,240
+parce qu'elle retarde le moment où les citoyens découvriront les défauts de la loi.
+
+8
+00:00:37,240 --> 00:00:39,200
+Le paradoxe est féroce.
+
+9
+00:00:39,200 --> 00:00:45,640
+Grâce à la lenteur bureaucratique, les dirigeants incompétents sont incités à pondre des lois poubelle.
+
+10
+00:00:45,640 --> 00:00:50,840
+Ils encaissent le consensus aujourd'hui, avant que le système ne révèle leur échec demain.
+
+11
+00:00:50,840 --> 00:00:54,600
+Les économistes appellent cela un état stationnaire kafkaïen.
+
+12
+00:00:54,640 --> 00:00:59,960
+L'inefficacité pousse à adopter de nouvelles lois qui multiplient l'inefficacité.
+
+13
+00:00:59,960 --> 00:01:03,560
+Un cercle vicieux où la politique se sauve en bloquant le pays.
+
+14
+00:01:03,560 --> 00:01:08,280
+Voilà pourquoi l'instabilité permanente de la Seconde République a transformé l'État italien
+
+15
+00:01:08,280 --> 00:01:10,760
+en labyrinthe inextricable d'aujourd'hui.
+

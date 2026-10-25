@@ -1,0 +1,619 @@
+1
+00:00:00,000 --> 00:00:05,000
+Quand la crise arrive, les riches s'enfuient-ils ? Il existe une face cachée, presque invisible, des effondrements
+
+2
+00:00:05,000 --> 00:00:08,439
+économiques nationaux, un phénomène qui se produit loin des projecteurs.
+
+3
+00:00:08,439 --> 00:00:13,519
+Aujourd'hui, nous plongeons dans une étude toute récente, publiée en 2025 par les chercheuses Silvia Marchesi
+
+4
+00:00:13,519 --> 00:00:14,519
+et Giovanna Marcolongo.
+
+5
+00:00:14,519 --> 00:00:19,080
+C'est une enquête vraiment fascinante, qui révèle comment, au moment même de la plus grande détresse
+
+6
+00:00:19,080 --> 00:00:23,719
+financière d'un pays, d'énormes pans de la richesse privée semblent littéralement disparaître
+
+7
+00:00:23,719 --> 00:00:24,719
+dans la nature.
+
+8
+00:00:24,719 --> 00:00:29,760
+La question de départ est simple : où va vraiment l'argent quand l'économie
+
+9
+00:00:29,760 --> 00:00:31,440
+d'un pays entre en crise ?
+
+10
+00:00:31,440 --> 00:00:36,079
+En théorie, on s'attendrait à ce qu'une crise financière frappe tout le monde, à peu près en proportion,
+
+11
+00:00:36,079 --> 00:00:41,120
+et pourtant les données macroéconomiques révèlent souvent une sorte de trou noir dans les comptes nationaux.
+
+12
+00:00:41,120 --> 00:00:45,719
+Pour résoudre ce mystère, il faut regarder bien au-delà des frontières du pays en crise.
+
+13
+00:00:45,719 --> 00:00:50,040
+Il faut chercher dans les comptes bancaires de pays lointains, des endroits qui offrent une ressource
+
+14
+00:00:50,040 --> 00:00:55,359
+inestimable quand tout s'effondre : le secret absolu.
+
+15
+00:00:55,359 --> 00:00:59,439
+Pour comprendre où finit cette richesse, nous devons préciser de quoi nous parlons.
+
+16
+00:00:59,479 --> 00:01:01,960
+Nous parlons de ce qu'on appelle les paradis fiscaux.
+
+17
+00:01:01,960 --> 00:01:04,759
+Ce sont des juridictions aux caractéristiques bien précises :
+
+18
+00:01:04,759 --> 00:01:09,120
+des taux d'imposition proches de zéro, un secret bancaire pratiquement impénétrable
+
+19
+00:01:09,120 --> 00:01:12,000
+et aucune transparence sur les véritables propriétaires des fonds.
+
+20
+00:01:12,000 --> 00:01:14,799
+Et attention, ce n'est pas une question marginale.
+
+21
+00:01:14,799 --> 00:01:19,239
+Les estimations indiquent qu'environ 8 % de toute la richesse financière mondiale est placée
+
+22
+00:01:19,239 --> 00:01:20,239
+justement là,
+
+23
+00:01:20,239 --> 00:01:21,719
+à l'abri de tout.
+
+24
+00:01:21,719 --> 00:01:25,439
+Cela provoque déjà en soi une perte fiscale colossale à l'échelle mondiale,
+
+25
+00:01:25,480 --> 00:01:30,799
+mais le rôle de ces endroits change radicalement quand un pays entre dans une phase de grave instabilité.
+
+26
+00:01:30,799 --> 00:01:36,000
+Pour mesurer l'ampleur du problème, il suffit de penser à la répartition mondiale de ces fonds.
+
+27
+00:01:36,000 --> 00:01:37,599
+Qui en paie le plus le prix ?
+
+28
+00:01:37,599 --> 00:01:41,799
+Les pays en développement, en particulier de nombreux pays d'Afrique et d'Amérique du Sud.
+
+29
+00:01:41,799 --> 00:01:44,239
+Ce sont les économies aux institutions les plus fragiles,
+
+30
+00:01:44,239 --> 00:01:47,159
+qui ont le plus de mal à retenir leurs ressources chez elles.
+
+31
+00:01:47,159 --> 00:01:50,159
+Et cette hémorragie devient dévastatrice lors d'un choc économique,
+
+32
+00:01:50,159 --> 00:01:55,879
+précisément quand chaque ressource intérieure serait littéralement vitale pour maintenir le pays à flot.
+
+33
+00:01:55,879 --> 00:01:58,000
+À ce stade, le défi est clair.
+
+34
+00:01:58,000 --> 00:02:02,560
+Comment étudier une richesse conçue avec une précision chirurgicale pour ne pas être vue ?
+
+35
+00:02:02,560 --> 00:02:05,000
+Les chercheuses ont fait un travail titanesque,
+
+36
+00:02:05,000 --> 00:02:07,840
+en suivant les traces laissées dans les données bancaires internationales.
+
+37
+00:02:07,840 --> 00:02:11,519
+Elles ont croisé les positions financières de plus d'une centaine d'économies émergentes,
+
+38
+00:02:11,519 --> 00:02:13,199
+à la recherche d'anomalies.
+
+39
+00:02:13,199 --> 00:02:17,159
+En pratique, elles ont cherché des pics soudains de dépôts à l'étranger qui coïncidaient,
+
+40
+00:02:17,159 --> 00:02:20,039
+de manière bien trop suspecte, avec les effondrements intérieurs.
+
+41
+00:02:20,039 --> 00:02:24,039
+Le véritable atout a été l'utilisation de données institutionnelles.
+
+42
+00:02:24,039 --> 00:02:28,079
+L'étude s'appuie en grande partie sur les statistiques de la Banque des règlements internationaux,
+
+43
+00:02:28,079 --> 00:02:31,359
+en se concentrant sur les dépôts dits non bancaires.
+
+44
+00:02:31,359 --> 00:02:34,960
+Elles ont analysé les données de pas moins de 144 pays en développement.
+
+45
+00:02:34,960 --> 00:02:39,159
+En termes simples, elles ont mesuré combien d'argent les résidents d'un pays,
+
+46
+00:02:39,159 --> 00:02:41,879
+comme les familles très riches ou les grandes entreprises,
+
+47
+00:02:41,879 --> 00:02:46,240
+détenaient dans les banques des principaux paradis fiscaux, de la Suisse à Hong Kong.
+
+48
+00:02:46,480 --> 00:02:51,240
+C'est une méthode brillante pour mesurer de façon très fiable la fuite des capitaux de l'élite.
+
+49
+00:02:51,240 --> 00:02:55,240
+Le calendrier. Instinctivement, on pourrait penser qu'au premier signe de crise
+
+50
+00:02:55,240 --> 00:02:58,080
+la panique s'installe et que tout le monde se précipite pour vider ses comptes.
+
+51
+00:02:58,080 --> 00:03:00,840
+La réalité est bien plus froide et calculée.
+
+52
+00:03:00,840 --> 00:03:04,320
+Les résidents les plus fortunés n'agissent presque jamais sur un coup de tête.
+
+53
+00:03:04,320 --> 00:03:05,560
+Ils attendent.
+
+54
+00:03:05,560 --> 00:03:09,600
+Ils observent attentivement l'évolution de la situation avant de passer à l'action.
+
+55
+00:03:09,600 --> 00:03:11,240
+Et les chiffres le confirment.
+
+56
+00:03:11,240 --> 00:03:14,719
+Avant l'effondrement, les niveaux de sorties de capitaux sont tout à fait normaux.
+
+57
+00:03:14,840 --> 00:03:17,719
+Étonnamment, même pendant la première année de la crise proprement dite
+
+58
+00:03:17,719 --> 00:03:19,719
+la fuite des capitaux reste contenue.
+
+59
+00:03:19,719 --> 00:03:21,719
+Bref, ceux qui ont de gros capitaux attendent,
+
+60
+00:03:21,719 --> 00:03:24,719
+évaluent la gravité du choc, regardent comment réagit la politique.
+
+61
+00:03:24,719 --> 00:03:27,719
+Puis, d'un coup, le déclic se produit.
+
+62
+00:03:27,719 --> 00:03:29,719
+On observe une envolée spectaculaire des transferts offshore,
+
+63
+00:03:29,719 --> 00:03:32,719
+qui survient de façon presque mathématique vers la troisième année
+
+64
+00:03:32,719 --> 00:03:34,719
+après le début de la crise.
+
+65
+00:03:34,719 --> 00:03:36,719
+Et il ne s'agit pas de petites sommes.
+
+66
+00:03:36,719 --> 00:03:39,719
+Au pic de cette fuite, les dépôts dans les paradis fiscaux
+
+67
+00:03:39,719 --> 00:03:42,719
+augmentent de près d'un tiers par rapport à la normale.
+
+68
+00:03:42,719 --> 00:03:44,719
+C'est un bond énorme.
+
+69
+00:03:44,719 --> 00:03:46,719
+Tout un pan de la richesse privée d'un pays
+
+70
+00:03:46,719 --> 00:03:49,719
+décide simultanément de couper les ponts avec les banques locales
+
+71
+00:03:49,719 --> 00:03:51,719
+et de rechercher l'anonymat total,
+
+72
+00:03:51,719 --> 00:03:53,719
+précisément trois ans après le début de l'effondrement.
+
+73
+00:03:53,719 --> 00:03:56,719
+Si l'on traduit ce chiffre en dollars sonnants et trébuchants,
+
+74
+00:03:56,719 --> 00:03:58,719
+l'impact donne le vertige.
+
+75
+00:03:58,719 --> 00:04:01,719
+On parle d'une perte nette de près de 2 milliards de dollars
+
+76
+00:04:01,719 --> 00:04:03,719
+par an pour chaque pays concerné.
+
+77
+00:04:03,719 --> 00:04:06,719
+C'est de l'argent bien réel qui disparaît de l'économie réelle.
+
+78
+00:04:06,719 --> 00:04:08,719
+Cela signifie des investissements qui ne se feront jamais,
+
+79
+00:04:08,719 --> 00:04:10,719
+du crédit retiré aux entreprises locales
+
+80
+00:04:10,719 --> 00:04:12,719
+et, inévitablement, une avalanche d'impôts
+
+81
+00:04:12,719 --> 00:04:14,719
+qui ne seront jamais payés,
+
+82
+00:04:14,719 --> 00:04:16,720
+précisément quand l'État en aurait le plus besoin.
+
+83
+00:04:16,720 --> 00:04:19,720
+Il faut toutefois préciser que toutes les crises
+
+84
+00:04:19,720 --> 00:04:20,720
+ne déclenchent pas la même réaction.
+
+85
+00:04:20,720 --> 00:04:22,720
+L'étude fait une distinction très nette.
+
+86
+00:04:22,720 --> 00:04:24,720
+D'un côté, il y a les crises bancaires.
+
+87
+00:04:24,720 --> 00:04:27,720
+Elles sont intenses, provoquent de la volatilité, mais durent moins longtemps,
+
+88
+00:04:27,720 --> 00:04:29,720
+et souvent les capitaux reviennent
+
+89
+00:04:29,720 --> 00:04:31,720
+quand le système est sauvé ou se stabilise.
+
+90
+00:04:31,720 --> 00:04:34,720
+De l'autre, il y a les crises de la dette souveraine,
+
+91
+00:04:34,720 --> 00:04:36,720
+c'est-à-dire quand c'est l'État lui-même qui ne peut plus payer ses dettes.
+
+92
+00:04:36,720 --> 00:04:38,720
+Là, c'est une autre histoire.
+
+93
+00:04:38,720 --> 00:04:41,720
+Elles durent beaucoup plus longtemps et provoquent une fuite des capitaux
+
+94
+00:04:41,720 --> 00:04:43,720
+profondément enracinée et persistante,
+
+95
+00:04:43,720 --> 00:04:45,720
+qui ne faiblit pas même des années plus tard.
+
+96
+00:04:45,720 --> 00:04:49,720
+Mais pourquoi attendre trois ans pour ensuite tout faire disparaître ?
+
+97
+00:04:49,720 --> 00:04:51,720
+Quelle est l'étincelle qui déclenche la fuite ?
+
+98
+00:04:51,720 --> 00:04:54,720
+La réponse qui vient à l'esprit de tout le monde : les impôts.
+
+99
+00:04:54,720 --> 00:04:56,720
+On pense généralement que les gouvernements en crise
+
+100
+00:04:56,720 --> 00:04:58,720
+augmentent les impôts pour renflouer les caisses
+
+101
+00:04:58,720 --> 00:05:00,720
+et que les riches fuient pour ne pas les payer.
+
+102
+00:05:00,720 --> 00:05:03,720
+Eh bien, les données disent exactement le contraire.
+
+103
+00:05:03,720 --> 00:05:05,720
+Nous pouvons démonter ce mythe une fois pour toutes.
+
+104
+00:05:05,720 --> 00:05:08,720
+L'analyse montre que les taux d'imposition effectifs sur le capital
+
+105
+00:05:08,720 --> 00:05:10,720
+n'augmentent pas du tout pendant ces crises.
+
+106
+00:05:10,720 --> 00:05:12,720
+Au contraire, ils ont tendance à baisser.
+
+107
+00:05:12,720 --> 00:05:14,720
+Le véritable moteur de la fuite,
+
+108
+00:05:14,720 --> 00:05:16,720
+celui qui correspond parfaitement au calendrier,
+
+109
+00:05:16,720 --> 00:05:17,720
+est ailleurs.
+
+110
+00:05:17,720 --> 00:05:19,720
+C'est la peur de l'expropriation.
+
+111
+00:05:19,720 --> 00:05:21,720
+Si l'on analyse les informations sur les gels de comptes,
+
+112
+00:05:21,720 --> 00:05:23,720
+les contrôles des capitaux ou les confiscations,
+
+113
+00:05:23,720 --> 00:05:25,720
+on constate que ces mesures atteignent leur pic
+
+114
+00:05:25,720 --> 00:05:27,720
+exactement trois ans après le début de la crise.
+
+115
+00:05:27,720 --> 00:05:30,720
+Bref, on ne fuit pas pour économiser des impôts.
+
+116
+00:05:30,720 --> 00:05:32,720
+On fuit par pure terreur de voir
+
+117
+00:05:32,720 --> 00:05:34,720
+ses biens saisis par un État aux abois.
+
+118
+00:05:34,720 --> 00:05:36,720
+Et cela explique aussi pourquoi le phénomène ne frappe pas
+
+119
+00:05:36,720 --> 00:05:38,720
+tous les pays de la même façon :
+
+120
+00:05:38,720 --> 00:05:41,720
+il se produit de manière dramatique là où les institutions sont déjà faibles.
+
+121
+00:05:41,720 --> 00:05:44,720
+Corruption endémique, lois mal appliquées
+
+122
+00:05:44,720 --> 00:05:47,720
+et une confiance dans l'État pratiquement inexistante.
+
+123
+00:05:47,720 --> 00:05:50,720
+Dans ces contextes, sans sécurité juridique,
+
+124
+00:05:50,720 --> 00:05:52,720
+les élites craignent des décisions arbitraires ou des confiscations
+
+125
+00:05:52,720 --> 00:05:55,720
+et préfèrent tout retirer pour trouver l'immunité ailleurs.
+
+126
+00:05:55,720 --> 00:05:58,720
+Nous arrivons ainsi au cœur de tout ce propos :
+
+127
+00:05:58,720 --> 00:06:00,720
+le coût réel.
+
+128
+00:06:00,720 --> 00:06:03,720
+Cette fuite des capitaux n'est pas qu'un détail technique
+
+129
+00:06:03,720 --> 00:06:04,720
+pour économistes.
+
+130
+00:06:04,720 --> 00:06:07,720
+Elle a un impact profond et tangible sur tout le pays.
+
+131
+00:06:07,720 --> 00:06:09,720
+Elle fausse les politiques de relance
+
+132
+00:06:09,720 --> 00:06:12,720
+et altère complètement notre perception des dommages
+
+133
+00:06:12,720 --> 00:06:14,720
+réellement subis par la société.
+
+134
+00:06:14,720 --> 00:06:16,720
+Rassemblons les pièces du puzzle.
+
+135
+00:06:16,720 --> 00:06:18,720
+Si la frange la plus riche de la population parvient à mettre
+
+136
+00:06:18,720 --> 00:06:20,720
+ses biens à l'abri,
+
+137
+00:06:20,720 --> 00:06:23,720
+le poids de la crise économique n'est pas du tout réparti équitablement.
+
+138
+00:06:23,720 --> 00:06:25,720
+L'assiette fiscale se réduit d'un coup,
+
+139
+00:06:25,720 --> 00:06:28,720
+privant le gouvernement de l'argent nécessaire pour relancer l'économie,
+
+140
+00:06:28,720 --> 00:06:31,720
+maintenir les services publics ou payer les dettes.
+
+141
+00:06:31,720 --> 00:06:34,720
+Cette fuite aggrave très lourdement les inégalités
+
+142
+00:06:34,720 --> 00:06:36,720
+et, comme les fortunes offshore
+
+143
+00:06:36,720 --> 00:06:38,720
+n'apparaissent pas dans les statistiques officielles,
+
+144
+00:06:38,720 --> 00:06:41,720
+elle masque la gravité réelle de la situation.
+
+145
+00:06:41,720 --> 00:06:43,720
+Et cela nous laisse face à une question inévitable,
+
+146
+00:06:43,720 --> 00:06:45,720
+de celles qui font vraiment réfléchir.
+
+147
+00:06:45,720 --> 00:06:48,720
+Si, dans les pires moments de catastrophe économique,
+
+148
+00:06:48,720 --> 00:06:50,720
+une petite élite parvient à mettre ses milliards sous clé
+
+149
+00:06:50,720 --> 00:06:52,720
+en les plaçant à l'abri dans les paradis fiscaux,
+
+150
+00:06:52,720 --> 00:06:56,720
+qui reste-t-il, au bout du compte, pour supporter le poids écrasant de la crise ?
+
+151
+00:06:56,720 --> 00:06:58,720
+La réalité est dure.
+
+152
+00:06:58,720 --> 00:07:00,720
+La facture de la reconstruction retombe entièrement sur les épaules
+
+153
+00:07:00,720 --> 00:07:02,720
+de ceux qui n'avaient pas les moyens de fuir.
+
+154
+00:07:02,720 --> 00:07:04,720
+Cela change vraiment la façon dont nous devrions considérer
+
+155
+00:07:04,720 --> 00:07:06,720
+le vrai coût de chaque effondrement financier.

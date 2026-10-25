@@ -1,0 +1,539 @@
+1
+00:00:00,000 --> 00:00:02,000
+Gut, kommen wir gleich zur Sache.
+
+2
+00:00:02,000 --> 00:00:08,000
+Heute erkunden wir ein Rätsel, das buchstäblich seit Generationen in den Klassenzimmern spukt.
+
+3
+00:00:08,000 --> 00:00:12,000
+Der Titel der bildungsökonomischen Studie, die wir analysieren, stellt eine ziemlich harte Frage.
+
+4
+00:00:12,000 --> 00:00:14,000
+Ist Mathe Jungensache?
+
+5
+00:00:14,000 --> 00:00:20,000
+Es ist eine unglaublich gründliche Untersuchung von Michela Carlana, die Daten italienischer Mittelschulen auswertet.
+
+6
+00:00:20,000 --> 00:00:24,000
+Das Ziel: zu verstehen, warum wir trotz jahrzehntelanger Kämpfe für Gleichberechtigung
+
+7
+00:00:24,000 --> 00:00:29,000
+immer noch einen hartnäckigen und fast unerklärlichen Leistungsunterschied in Mathematik
+
+8
+00:00:29,000 --> 00:00:33,000
+zwischen Schülern und Schülerinnen haben. Ein echtes Rätsel.
+
+9
+00:00:33,000 --> 00:00:40,000
+An diesem Punkt muss man sich fragen: Ist dieser Unterschied reine Biologie oder eine gigantische kulturelle Illusion?
+
+10
+00:00:40,000 --> 00:00:44,000
+Jahrelang wurde darüber gestritten, ob Gehirne unterschiedlich funktionieren.
+
+11
+00:00:44,000 --> 00:00:46,000
+Doch jetzt kommt die Wende.
+
+12
+00:00:46,000 --> 00:00:49,000
+Internationale Daten liefern uns einen enormen Hinweis.
+
+13
+00:00:49,000 --> 00:00:56,000
+In Kulturen mit schwächeren Geschlechterstereotypen schrumpft dieser Matheunterschied, und zwar deutlich.
+
+14
+00:00:56,000 --> 00:01:03,000
+Das verlagert den Verdacht sofort von der Genetik auf die Kultur, insbesondere auf das Umfeld, in dem man täglich lernt.
+
+15
+00:01:03,000 --> 00:01:06,000
+Und hier stoßen wir auf ein verrücktes Paradox.
+
+16
+00:01:06,000 --> 00:01:10,000
+Betrachtet man die schulischen Leistungen insgesamt, schneiden Mädchen hervorragend ab.
+
+17
+00:01:10,000 --> 00:01:14,000
+In der Mittelschule erzielen sie oft ausgezeichnete Ergebnisse in fast allen Fächern.
+
+18
+00:01:14,000 --> 00:01:19,000
+Und doch bremsen sie, fast rätselhaft, sobald es um Mathematik geht.
+
+19
+00:01:19,000 --> 00:01:21,000
+Sie fangen an zurückzufallen.
+
+20
+00:01:21,000 --> 00:01:30,000
+Diese enorme Kluft zwischen glänzendem Schulerfolg und Schwierigkeiten in einem einzigen Fach ist der genaue Ausgangspunkt dieser Untersuchung.
+
+21
+00:01:30,000 --> 00:01:32,000
+Der Unterschied in Mathematik.
+
+22
+00:01:32,000 --> 00:01:38,000
+Um das Ausmaß zu verstehen, werfen wir einen Blick auf die standardisierten Tests der Mittelschulen in Italien.
+
+23
+00:01:38,000 --> 00:01:40,000
+Eine Zahl sticht heraus, die nachdenklich macht.
+
+24
+00:01:40,000 --> 00:01:42,000
+0,18.
+
+25
+00:01:42,000 --> 00:01:50,000
+Am Ende der Mittelschule liegen Schülerinnen 0,18 Standardabweichungen hinter den Jungen zurück, ausgerechnet in den Mathetests.
+
+26
+00:01:50,000 --> 00:01:54,000
+Und Achtung: Wir reden nicht von Einzelfällen oder Flurgeschichten.
+
+27
+00:01:54,000 --> 00:01:59,000
+Wir reden von einem klaren, messbaren und statistisch eindeutigen Unterschied,
+
+28
+00:01:59,000 --> 00:02:02,000
+basierend auf Tausenden Ergebnissen landesweit.
+
+29
+00:02:02,000 --> 00:02:05,000
+Implizite Vorurteile messen.
+
+30
+00:02:05,000 --> 00:02:07,000
+Woher kommt also dieser Abstand?
+
+31
+00:02:07,000 --> 00:02:13,000
+Die Studie richtet den Scheinwerfer auf einen ganz besonderen Verdächtigen: die unbewussten Vorurteile der Lehrkräfte.
+
+32
+00:02:13,000 --> 00:02:15,000
+Sagen wir es gleich, um Missverständnisse zu vermeiden.
+
+33
+00:02:15,000 --> 00:02:18,000
+Wir reden nicht von absichtlicher Diskriminierung.
+
+34
+00:02:18,000 --> 00:02:19,000
+Ganz und gar nicht.
+
+35
+00:02:19,000 --> 00:02:24,000
+Wir reden von tief verwurzelten und völlig unbewussten gedanklichen Verknüpfungen.
+
+36
+00:02:24,000 --> 00:02:30,000
+Um etwas so Unsichtbares zu messen, nutzen die Forschenden den Impliziten Assoziationstest, kurz IAT.
+
+37
+00:02:30,000 --> 00:02:34,000
+Es ist ein psychologisches Instrument, das buchstäblich Reaktionszeiten misst.
+
+38
+00:02:34,000 --> 00:02:39,000
+Konkret sollen Lehrkräfte vor einem Bildschirm männliche oder weibliche Namen
+
+39
+00:02:39,000 --> 00:02:41,000
+naturwissenschaftlichen oder geisteswissenschaftlichen Begriffen zuordnen.
+
+40
+00:02:41,000 --> 00:02:48,000
+Der Trick: Das Gehirn reagiert viel schneller, wenn es Begriffe einordnen muss, die im Kopf bereits eng verknüpft sind.
+
+41
+00:02:48,000 --> 00:02:50,000
+Und die Ergebnisse?
+
+42
+00:02:50,000 --> 00:02:52,000
+Absolut aufschlussreich.
+
+43
+00:02:52,000 --> 00:03:00,000
+Die Daten zeigen, dass sehr viele Lehrkräfte unbewusst und viel schneller Mathematik mit Jungen und Literatur mit Mädchen verbinden.
+
+44
+00:03:00,000 --> 00:03:04,000
+Doch das Verrückte ist die Kluft zwischen dem, was sie denken, und dem, was der Test zeigt.
+
+45
+00:03:04,000 --> 00:03:09,000
+Ausdrücklich befragt, bestreiten fast alle Lehrkräfte kategorisch jedes Geschlechtervorurteil,
+
+46
+00:03:09,000 --> 00:03:12,000
+und das tun sie offensichtlich in gutem Glauben.
+
+47
+00:03:12,000 --> 00:03:20,000
+Doch die vom Test gemessenen Millisekunden zeigen, dass gesellschaftlich geprägte Denkmuster ständig im Verborgenen wirken.
+
+48
+00:03:20,000 --> 00:03:22,000
+Die Folgen für die Schülerinnen.
+
+49
+00:03:22,000 --> 00:03:25,000
+Und damit sind wir beim Kern der Sache.
+
+50
+00:03:25,000 --> 00:03:29,000
+Dieses unsichtbare Vorurteil richtet im Klassenzimmer wirklich Schaden an.
+
+51
+00:03:29,000 --> 00:03:34,000
+Schaut man sich diese Grafik direkt aus der Studie an, sprechen die Linien für sich.
+
+52
+00:03:34,000 --> 00:03:41,000
+Links ist die Linie der Jungen praktisch flach: Das Vorurteil der Lehrkraft berührt sie überhaupt nicht.
+
+53
+00:03:41,000 --> 00:03:44,000
+Doch im rechten Feld ändert sich alles.
+
+54
+00:03:44,000 --> 00:03:50,000
+Die Linie der Ergebnisse der Mädchen stürzt regelrecht ab, je stärker das implizite Vorurteil der Lehrkraft ist.
+
+55
+00:03:50,000 --> 00:03:55,000
+Ein sehr starkes Bild, das eindeutig zeigt, wie ein voreingenommenes Umfeld
+
+56
+00:03:55,000 --> 00:03:59,000
+den Schulerfolg völlig asymmetrisch verändert.
+
+57
+00:03:59,000 --> 00:04:04,000
+Ein Drittel. Eine Mathelehrkraft mit starken impliziten Vorurteilen
+
+58
+00:04:04,000 --> 00:04:07,000
+vergrößert den Geschlechterunterschied im Fach um ganze ein Drittel.
+
+59
+00:04:07,000 --> 00:04:12,000
+Aus einem leichten Anfangsunterschied wird ein regelrechter Abgrund.
+
+60
+00:04:12,000 --> 00:04:16,000
+Und dieser Effekt wird ausschließlich von der Person am Lehrerpult ausgelöst,
+
+61
+00:04:16,000 --> 00:04:20,000
+ohne jeden Bezug zu den tatsächlichen Ausgangsfähigkeiten der Mädchen.
+
+62
+00:04:20,000 --> 00:04:21,000
+Unglaublich, oder?
+
+63
+00:04:21,000 --> 00:04:24,000
+Ein Detail macht das Ganze noch heimtückischer,
+
+64
+00:04:24,000 --> 00:04:26,000
+nämlich wer den höchsten Preis zahlt.
+
+65
+00:04:26,000 --> 00:04:30,000
+Die Daten zeigen, dass die Schülerinnen, die schon am Anfang etwas Mühe hatten,
+
+66
+00:04:30,000 --> 00:04:32,000
+den härtesten Schlag abbekommen.
+
+67
+00:04:32,000 --> 00:04:36,000
+Das ist der Effekt der sogenannten Stereotypenbedrohung:
+
+68
+00:04:36,000 --> 00:04:39,000
+Wer ohnehin Schwierigkeiten hat und das Gerücht kennt,
+
+69
+00:04:39,000 --> 00:04:42,000
+Mädchen seien nicht für Mathe gemacht,
+
+70
+00:04:42,000 --> 00:04:45,000
+trägt eine enorme psychische und kognitive Last,
+
+71
+00:04:45,000 --> 00:04:49,000
+und die unbewusste Angst, das Stereotyp zu bestätigen, führt tragischerweise dazu,
+
+72
+00:04:49,000 --> 00:04:52,000
+die eigene Leistung völlig zu sabotieren.
+
+73
+00:04:52,000 --> 00:04:54,000
+Entscheidungen für die Zukunft.
+
+74
+00:04:54,000 --> 00:04:57,000
+Leider endet die Geschichte nicht mit einem einzigen Zeugnis.
+
+75
+00:04:57,000 --> 00:05:00,000
+Die Auswirkungen breiten sich wie ein Ölfleck auf künftige Entscheidungen aus.
+
+76
+00:05:00,000 --> 00:05:03,000
+Betrachtet man die Empfehlungen für die weiterführende Schule,
+
+77
+00:05:03,000 --> 00:05:06,000
+sieht man, wie die in der Mittelschule entstandenen Schwierigkeiten
+
+78
+00:05:06,000 --> 00:05:08,000
+die Bildungswege für immer verändern.
+
+79
+00:05:08,000 --> 00:05:11,000
+Nur 13 % der Schülerinnen erhalten eine Empfehlung
+
+80
+00:05:11,000 --> 00:05:13,000
+für ein naturwissenschaftliches Gymnasium,
+
+81
+00:05:13,000 --> 00:05:15,000
+gegenüber 18 % der Jungen.
+
+82
+00:05:15,000 --> 00:05:18,000
+Stattdessen werden Mädchen oft
+
+83
+00:05:18,000 --> 00:05:19,000
+zu Berufsschulen gelenkt
+
+84
+00:05:19,000 --> 00:05:21,000
+oder jedenfalls zu Schulen mit weniger Zahlen,
+
+85
+00:05:21,000 --> 00:05:23,000
+selbst wenn ihre analytischen Grundfähigkeiten
+
+86
+00:05:23,000 --> 00:05:27,000
+absolut identisch mit denen ihrer Mitschüler waren.
+
+87
+00:05:27,000 --> 00:05:30,000
+Hier schnappt eine perfekte Falle zu.
+
+88
+00:05:30,000 --> 00:05:32,000
+Subtil verzerrten Ratschlägen
+
+89
+00:05:32,000 --> 00:05:35,000
+von Autoritätspersonen wie Lehrkräften zu folgen,
+
+90
+00:05:35,000 --> 00:05:38,000
+drängt Mädchen auf deutlich weniger ehrgeizige Bildungswege.
+
+91
+00:05:38,000 --> 00:05:41,000
+Es wird buchstäblich zu einer sich selbst erfüllenden Prophezeiung.
+
+92
+00:05:41,000 --> 00:05:44,000
+Weniger Schülerinnen wählen naturwissenschaftliche Fächer,
+
+93
+00:05:44,000 --> 00:05:46,000
+desto weniger Frauen wird es künftig in den Naturwissenschaften geben,
+
+94
+00:05:46,000 --> 00:05:49,000
+was genau jenes ursprüngliche Stereotyp verstärkt,
+
+95
+00:05:49,000 --> 00:05:51,000
+von dem das ganze Desaster ausging.
+
+96
+00:05:51,000 --> 00:05:54,000
+Ein echter gesellschaftlicher Kurzschluss.
+
+97
+00:05:54,000 --> 00:05:56,000
+Der Einbruch des Selbstvertrauens.
+
+98
+00:05:56,000 --> 00:06:00,000
+Und wir kommen zum letzten, sehr heiklen Teil dieses Puzzles:
+
+99
+00:06:00,000 --> 00:06:02,000
+den psychischen Kosten.
+
+100
+00:06:02,000 --> 00:06:04,000
+Jenseits von Noten und Schulwegen:
+
+101
+00:06:04,000 --> 00:06:06,000
+Was passiert in den Köpfen dieser Schülerinnen?
+
+102
+00:06:06,000 --> 00:06:08,000
+Die Fragebögen sprechen eine klare Sprache.
+
+103
+00:06:08,000 --> 00:06:11,000
+Trotz völlig vergleichbarer Grundfähigkeiten
+
+104
+00:06:11,000 --> 00:06:14,000
+halten sich Mädchen am Ende mit einer um 8 % geringeren Wahrscheinlichkeit
+
+105
+00:06:14,000 --> 00:06:17,000
+für gut in Mathe als Jungen.
+
+106
+00:06:17,000 --> 00:06:20,000
+Der Kontakt mit voreingenommenen Lehrkräften
+
+107
+00:06:20,000 --> 00:06:23,000
+zerstört aktiv ihr Selbstvertrauen.
+
+108
+00:06:23,000 --> 00:06:26,000
+Mathematik ist dann kein System logischer Regeln mehr,
+
+109
+00:06:26,000 --> 00:06:28,000
+sondern wird zu feindlichem Terrain,
+
+110
+00:06:28,000 --> 00:06:31,000
+auf dem man sich nie gut genug fühlt.
+
+111
+00:06:31,000 --> 00:06:34,000
+Ein Satz aus der Studie trifft den Nagel auf den Kopf
+
+112
+00:06:34,000 --> 00:06:36,000
+und fasst alles perfekt zusammen.
+
+113
+00:06:36,000 --> 00:06:39,000
+Implizite Stereotype erzeugen eine sich selbst erfüllende Prophezeiung
+
+114
+00:06:39,000 --> 00:06:41,000
+und verfestigen Geschlechterunterschiede
+
+115
+00:06:41,000 --> 00:06:43,000
+bei den Matheleistungen.
+
+116
+00:06:43,000 --> 00:06:45,000
+Es geht nicht um mangelndes Talent.
+
+117
+00:06:45,000 --> 00:06:48,000
+Keine unausweichliche Biologie ist im Spiel.
+
+118
+00:06:48,000 --> 00:06:51,000
+Es ist viel einfacher ein Bildungsumfeld,
+
+119
+00:06:51,000 --> 00:06:53,000
+das völlig unbeabsichtigt
+
+120
+00:06:53,000 --> 00:06:55,000
+negative Selbsteinschätzungen auslöst,
+
+121
+00:06:55,000 --> 00:06:57,000
+bei der Hälfte der Schülerschaft.
+
+122
+00:06:57,000 --> 00:06:59,000
+Am Ende dieser Untersuchung
+
+123
+00:06:59,000 --> 00:07:02,000
+steht eine unbestreitbare Wahrheit, die man mitnehmen sollte.
+
+124
+00:07:02,000 --> 00:07:04,000
+Das Problem liegt nicht bei den Schülern,
+
+125
+00:07:04,000 --> 00:07:06,000
+sondern im System, in dem sie stecken.
+
+126
+00:07:06,000 --> 00:07:08,000
+Angesichts so erdrückender Beweise
+
+127
+00:07:08,000 --> 00:07:10,000
+für die Macht unbewusster Vorurteile
+
+128
+00:07:10,000 --> 00:07:12,000
+wird die Herausforderung systemisch.
+
+129
+00:07:12,000 --> 00:07:14,000
+Daraus ergibt sich eine wichtige Überlegung,
+
+130
+00:07:14,000 --> 00:07:16,000
+eine Provokation, wenn man so will.
+
+131
+00:07:16,000 --> 00:07:19,000
+Wie kann man Lehrkräfte anders ausbilden,
+
+132
+00:07:19,000 --> 00:07:21,000
+um diese Prophezeiung ein für alle Mal zu durchbrechen,
+
+133
+00:07:21,000 --> 00:07:22,000
+die sich selbst erfüllt,
+
+134
+00:07:22,000 --> 00:07:24,000
+und sicherzustellen, dass jeder einzelne Kopf
+
+135
+00:07:24,000 --> 00:07:26,000
+eine echte Chance hat, zu glänzen?

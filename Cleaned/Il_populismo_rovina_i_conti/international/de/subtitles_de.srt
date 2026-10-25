@@ -1,302 +1,302 @@
 1
 00:00:00,000 --> 00:00:02,240
-Willkommen zu dieser neuen Analyse.
+Benvenuti a questo nuovo approfondimento.
 
 2
 00:00:02,240 --> 00:00:06,400
-Heute gehen wir einer jener Fragen nach, die einfach wirken, aber eine ganze Welt
+Oggi affrontiamo una di quelle domande che sembrano semplici ma che nascondono un mondo
 
 3
 00:00:06,400 --> 00:00:07,400
-verbergen.
+intero.
 
 4
 00:00:07,400 --> 00:00:10,160
-Zerstört Populismus wirklich die Finanzen?
+Il populismo, rovina davvero i conti?
 
 5
 00:00:10,160 --> 00:00:14,000
-Was passiert also mit dem Staatsapparat und der Wirtschaft, wenn die Rhetorik
+Cosa succede insomma alla macchina dello stato e all'economia quando la retorica
 
 6
 00:00:14,000 --> 00:00:17,719
-des Wahlkampfs buchstäblich mit dem Alltag kollidiert?
+elettorale si scontra letteramente con la realtà di tutti i giorni?
 
 7
 00:00:17,719 --> 00:00:22,080
-Dank der Daten einer rigorosen ökonomischen Studie werden wir die messbaren Effekte
+Grazie ai dati di un rigoroso studio economico, andremo a esplorare gli effetti misurabili
 
 8
 00:00:22,080 --> 00:00:25,960
-der Wahl von Bürgermeistern mit sozusagen unbedingten Agenden untersuchen.
+dell'elezione di sindaci con agende per così dire incondizionate.
 
 9
 00:00:25,960 --> 00:00:30,800
-Keine politische Meinung hier, nur Daten in der Hand, um die realen wirtschaftlichen Auswirkungen
+Nessun'opinione politica qui, solo dati alla mano per capire le reali ricadute economiche
 
 10
 00:00:30,800 --> 00:00:31,800
-und bürokratischen Folgen zu verstehen.
+e burocrattiche.
 
 11
 00:00:31,800 --> 00:00:32,799
-Legen wir gleich los.
+Partiamo subito.
 
 12
 00:00:32,799 --> 00:00:37,439
-Um sofort einzuordnen, wovon wir sprechen, starten wir mit einem konkreten Beispiel.
+Per inquadrare il subito di cosa stiamo parlando, partiamo da un esempio concreto.
 
 13
 00:00:37,439 --> 00:00:43,799
-2018 schrieb Matteo Salvini, nachdem er die Anlandungen gestoppt hatte, mein größtes Engagement
+Nel 2018 Matteo Salvini scriveva, dopo aver fermato gli sbarchi, il mio più grande impegnore
 
 14
 00:00:43,799 --> 00:00:46,799
-gilt der Ausweisung derer, die fordern, fordern, fordern.
+è per l'espulsione di chi pretende, pretende, pretende.
 
 15
 00:00:46,799 --> 00:00:47,799
-Ich gebe nicht nach.
+Non mi arrendo.
 
 16
 00:00:47,799 --> 00:00:49,799
-Hashtag Stop Invasion.
+Ashtag stopp invasione.
 
 17
 00:00:49,799 --> 00:00:55,520
-Ob man damit einverstanden ist oder nicht: Das ist das Lehrbuchbeispiel eines kategorischen Versprechens,
+Ora, che si sia d'accordo o meno, questo è l'esempio da manuale di una promessa categorica,
 
 18
 00:00:55,520 --> 00:00:58,480
-eine klare Zusage ohne Wenn und Aber.
+un impegno netto, senza se e senza ma.
 
 19
 00:00:58,480 --> 00:01:03,200
-Die große Frage ist, was mit den Haushalten und den öffentlichen Ämtern passiert, wenn ein so
+La grande domanda è cosa succede ai bilanci e ai uffici pubblici quando un patto così
 
 20
 00:01:03,200 --> 00:01:07,000
-eiserner Pakt dann in den Verwaltungsalltag übersetzt werden muss.
+ferrio deve trasformarsi poi in amministrazione quotidiana.
 
 21
 00:01:07,000 --> 00:01:11,159
-Um das herauszufinden, müssen wir einen kleinen Schritt zurückgehen und das theoretische Gerüst
+Per scoprirlo, dobbiamo fare un piccolo passo indietro e guardare l'impalcatura teorica
 
 22
 00:01:11,159 --> 00:01:12,159
-der Forschung betrachten.
+della ricerca.
 
 23
 00:01:12,159 --> 00:01:18,079
-Wir tun das völlig neutral und konzentrieren uns ausschließlich auf die Mechanik, also darauf,
+Lo faremo in modo totalmente neutrale, concentrandoci esclusivamente sulla meccanica, ovvero su
 
 24
 00:01:18,079 --> 00:01:20,600
-wie Wahlversprechen zu praktischen Vorstellungen werden.
+come le promesse elettorali diventi nozioni pratiche.
 
 25
 00:01:21,320 --> 00:01:23,800
-Und hier kommt ein absolut entscheidender Punkt.
+Ed ecco un punto assolutamente cruciale.
 
 26
 00:01:23,800 --> 00:01:27,800
-In dieser Analyse wird Populismus nicht als Ideologie von rechts oder von
+In questa analisi il populismo non viene trattato come un'ideologia di destra o di
 
 27
 00:01:27,800 --> 00:01:28,800
-links behandelt.
+sinistra.
 
 28
 00:01:28,800 --> 00:01:32,760
-Vielmehr wird er als präzise politische Strategie eingeordnet.
+Piuttosto, è inquadrato come una precisa strategia politica.
 
 29
 00:01:32,760 --> 00:01:37,280
-Praktisch ist es das Angebot einfacher und unbedingter politischer Zusagen, die für Wähler sehr leicht zu
+In pratica è l'offerta di impegni politici semplici e incondizionati, facilissimi da
 
 30
 00:01:37,280 --> 00:01:40,800
-überwachen sind, besonders in jenen historischen Momenten, in denen das Vertrauen
+monitorare per chi vota, specialmente in quei momenti storici in cui la fiducia
 
 31
 00:01:40,800 --> 00:01:43,760
-in traditionelle Institutionen steil abstürzt.
+nelle istituzioni tradizionali crolla picco.
 
 32
 00:01:43,760 --> 00:01:49,320
-Ich betone: kein moralisches Urteil hier — wir zerlegen nur das Getriebe eines Versprechens.
+Ribadisco nessun giudizio morale qui, stiamo solo smontando l'ingranaggio di una promessa.
 
 33
 00:01:49,320 --> 00:01:53,200
-In diesem Schema ist das wirklich erhellend, weil es zwei gegensätzliche Welten gegenüberstellt.
+In questo schema è davvero illuminante perché mette a confronto due mondi opposti.
 
 34
 00:01:53,200 --> 00:01:55,840
-Auf der einen Seite das traditionelle treuhänderische Modell.
+Da un lato il modello fiduciario tradizionale.
 
 35
 00:01:55,840 --> 00:01:59,880
-Hier wird technische Kompetenz belohnt, und wer regiert, hat Spielraum, sich an
+Qui si premia la competenza tecnica e chi gobierna a il margine per adattarsi agli
 
 36
 00:01:59,880 --> 00:02:00,880
-Unvorhergesehenes anzupassen.
+imprevisti.
 
 37
 00:02:00,880 --> 00:02:04,960
-Auf der anderen Seite das Modell des gebundenen Delegierten, typisch für den Populismus.
+Dall'altro lato il modello del delegato impegnato, tipico del populismo.
 
 38
 00:02:04,960 --> 00:02:09,200
-Hier ist die absolute Priorität, sich unflexibel an den ursprünglichen Plan zu halten.
+Qui la priorità assoluta è ad erire in modo inflessibile al piano originale.
 
 39
 00:02:09,200 --> 00:02:14,360
-Und die Geschichte lehrt uns: Wenn das Vertrauen zusammenbricht, suchen die Menschen nicht nach Anpassungsfähigkeit.
+E la storia ci insegna che quando la fiducia crolla le persone non cercano adattabilità.
 
 40
 00:02:14,360 --> 00:02:18,840
-Sie wollen genau den gebundenen Delegierten, jemanden, der koste es, was es wolle, geradeaus geht.
+Sie wollen genau den engagierten Delegierten, jemanden, der dich reduziert, was auch immer es kostet.
 
 41
 00:02:19,719 --> 00:02:22,719
-Okay, aber wie messen wir all das objektiv?
+Okay, aber wie messen wir das objektiv?
 
 42
 00:02:22,719 --> 00:02:27,479
-Die Forscher haben ein fantastisches natürliches Labor gefunden, weit weg vom Chaos der
+Forscher haben ein fantastisches natürliches Labor gefunden, weit weg vom Wahlchaos
 
 43
 00:02:27,479 --> 00:02:28,479
-nationalen Wahlen.
+hin übermittelt. 
 
 44
 00:02:28,479 --> 00:02:31,479
-Perfekt, um diese Theorie zu testen: die lokalen Regierungen.
+Perfekt, um diese Theorie zu testen, lokale Regierungen.
 
 45
 00:02:31,479 --> 00:02:34,639
-Und Achtung bei den Zahlen, denn sie sind beeindruckend.
+Und achten Sie auf die Zahlen, denn sie sind beeindruckend.
 
 46
 00:02:34,639 --> 00:02:40,159
-Die Daten decken ganze 8.000 italienische Gemeinden ab und verfolgen ihre administrative und wirtschaftliche Geschichte
+Die Daten umfassen 8.000 italienische Gemeinden, die ihrer administrativen und wirtschaftlichen Geschichte folgen
 
 47
 00:02:40,159 --> 00:02:44,000
-über mehr als zwanzig Jahre — eine gigantische Informationsmenge.
+seit über zwanzigJahren eine gigantische Menge an Informationen.
 
 48
 00:02:44,000 --> 00:02:48,479
-Genau diese enorme Skala garantiert uns, dass die Trends, die wir gleich entdecken, 
+Es ist genau diese enorme Skala, die uns garantiert, dass die Trends, die wir entdecken werden,
 
 49
 00:02:48,479 --> 00:02:50,079
-solide und unbestreitbar sind.
+solide und unbestreitbar.
 
 50
 00:02:50,079 --> 00:02:54,919
-Der mathematische Trick heißt hier Regression-Discontinuity-Design.
+Der hier verwendete mathematische Trick wird als Regressionszeichen der Unterbrechung bezeichnet.
 
 51
 00:02:54,919 --> 00:03:00,439
-Keine Panik: Das Konzept ist einfach und dient dazu, den realen Effekt des populistischen Leaders zu isolieren.
+Agniente Panik, das Gerben ist einfach, es dient dazu, den wirklichen Einfluss des populistischen Führers zu isolieren.
 
 52
 00:03:00,439 --> 00:03:04,599
-Man nimmt Gemeinden, in denen dieser Kandidat mit einer Handvoll Stimmen gewonnen hat, und vergleicht sie
+Man nimmt die Gemeinden, in denen dieser Kandidat mit einer Handvoll Stimmen gewonnen hat, und vergleicht sie
 
 53
 00:03:04,599 --> 00:03:06,839
-mit denen, in denen er um Haaresbreite verloren hat.
+mit denen, wo er für einen Hauch geöffnet ist.
 
 54
 00:03:06,839 --> 00:03:12,479
-Vergleicht man Siege und Niederlagen, die buchstäblich im Fotofinish entschieden wurden, erhält man statistisch
+Durch den Vergleich von Siegen und Niederlagen, die buchstäblich beim Fotofinish entschieden wurden, erhalten wir statistisch gesehen Städte
 
 55
 00:03:12,479 --> 00:03:13,479
-fast Zwillingsstädte.
+beinahe-Zwillinge.
 
 56
 00:03:13,479 --> 00:03:17,479
-Der einzige echte Unterschied: die Art der gerade eingesetzten Regierung.
+Der einzige wirkliche Unterschied ist die Art der neu angesiedelten Dichtung.
 
 57
 00:03:17,640 --> 00:03:21,640
-Und jetzt kommen wir zum Kern mit der ersten Serie konkreter Ergebnisse.
+Und jetzt kommen wir mit der ersten Reihe konkreter Ergebnisse ins Leben.
 
 58
 00:03:21,640 --> 00:03:26,000
-Sprechen wir über den wahren Motor jeder Verwaltung: die Konten und die Haushalte.
+Wir sprechen über den wahren Motor jeder Verwaltung, die Konten und die Bilanzen.
 
 59
 00:03:26,000 --> 00:03:31,080
-Was passiert, wenn die Unnachgiebigkeit des Versprechens auf die reale Buchhaltung trifft?
+Was passiert, wenn die Unnachgiebigkeit des Versprechens mit der tatsächlichen Buchhaltung kollidiert?
 
 60
 00:03:31,080 --> 00:03:35,160
-Wirft man einen Blick auf diese ökonomischen Grafiken, fällt sofort ein Detail ins Auge.
+Wenn man sich diese Wirtschaftsdiagramme anschaut, fällt einem ein Detail sofort ins Auge.
 
 61
 00:03:35,160 --> 00:03:37,760
-Sehen Sie diese gestrichelte Vertikale bei 0?
+Sehen Sie die vertikale Linie auf der 0?
 
 62
 00:03:37,760 --> 00:03:41,560
-Das ist der genaue Moment des Siegs, die Marge 0.
+Das ist der genaue Moment des Sieges, die 0-Marge.
 
 63
 00:03:41,560 --> 00:03:46,120
-Schauen Sie, wie die Datenlinien genau an dieser Schwelle buchstäblich einen Sprung machen.
+Sehen Sie, wie die Linien und Daten buchstäblich über diese Schwelle springen.
 
 64
 00:03:46,120 --> 00:03:51,280
-Dieser visuelle Sprung, klar und unmissverständlich, ist die direkte Transformation durch die neue
+Dieser klare und unmissverständliche visuelle Sprung ist die direkte Transformation, die durch die neue
 
 65
 00:03:51,280 --> 00:03:52,280
-Verwaltung.
+-
 
 66
 00:03:52,280 --> 00:03:57,439
-Übersetzt man diese Sprünge in Zahlen, lassen die finanziellen Folgen keinen Zweifel.
+Wenn man diese Sprünge in Zahlen umsetzt, lassen die finanziellen Konsequenzen keinen Raum für Zweifel.
 
 67
 00:03:57,439 --> 00:04:01,120
-Zunächst zeigt sich eine geringere Rückzahlung alter Schulden.
+Zunächst fällt eine geringere Rückzahlung vergangener Verbindlichkeiten auf.
 
 68
 00:04:01,120 --> 00:04:06,240
-Noch überraschender: ein Anstieg um 5,3 Prozentpunkte bei öffentlichen Aufträgen,
+Noch überraschender ist ein Anstieg der öffentlichen Aufträge um 5,3 Prozentpunkte
 
 69
 00:04:06,240 --> 00:04:08,520
-die die geplanten Kosten überschreiten.
+die am Ende die erwarteten Kosten übersteigen.
 
 70
 00:04:08,520 --> 00:04:11,840
-Und schließlich häuft sich insgesamt mehr kommunale Verschuldung an.
+Und schließlich häufen sich im Allgemeinen mehr Bürgerschulden an.
 
 71
 00:04:11,840 --> 00:04:13,240
-Der Punkt ist folgender.
+Das ist die Frage.
 
 72
 00:04:13,240 --> 00:04:18,120
-Wenn man eine Zusage vorantreibt und dabei normale finanzielle Leitplanken ignoriert, entstehen schwere Ineffizienzen
+Wenn Sie versuchen, eine Verpflichtung einzugehen und die normalen finanziellen Pfähle zu ignorieren, entstehen Ineffizienzen
 
 73
 00:04:18,120 --> 00:04:19,120
-im Haushalt.
+die in der Bilanz schwer sind.
 
 74
 00:04:19,120 --> 00:04:20,120
-Das ist Mathematik.
+Er ist Mathematiker.
 
 75
 00:04:20,120 --> 00:04:24,480
-Aber Haushalte, das wissen wir gut, schreiben sich nicht von allein.
+Aber die Bilanzen wissen wir gut, sie schreiben sich nicht von selbst.
 
 76
 00:04:24,480 --> 00:04:27,960
@@ -308,215 +308,215 @@ Kommen wir also zum zweiten großen Kapitel dieser Studie.
 
 78
 00:04:31,280 --> 00:04:33,079
-Die Auswirkungen auf die Bürokratie.
+Der Aufprall auf den Langeweile-Krater.
 
 79
 00:04:33,079 --> 00:04:37,720
-Zurück zu unseren Grafiken: Konzentrieren wir uns auf die letzten beiden Panels, die zum
+Kehren wir zu unseren Diagrammen zurück und setzen uns mit den letzten beiden Bildern auseinander, denen über das Kapital
 
 80
 00:04:37,720 --> 00:04:41,800
-Humankapital — die Sprünge nahe der Linie 0 sind ebenso schwindelerregend.
+mensch, die Sprünge in der Nähe der Linie 0 sind ebenso schwindelerregend.
 
 81
 00:04:42,319 --> 00:04:46,920
-Hier materialisiert sich der titanische Zusammenstoß zwischen der unbedingten Agenda der neuen politischen
+Hier sehen wir, wie sich der kollidierende Kampf zwischen der bedingungslosen Agenda des neuen Leitfadens materialisiert
 
 82
 00:04:46,920 --> 00:04:49,720
-Führung und dem Apparat der technischen Experten.
+politik und den Apparat erfahrener Techniker.
 
 83
 00:04:49,720 --> 00:04:52,720
-Und die internen Dynamiken sind verblüffend.
+Und die innere Dynamik ist überwältigend.
 
 84
 00:04:52,720 --> 00:04:58,680
-Der Turnover, also der Austausch der Führungskräfte an der Spitze, schießt um 50 % nach oben.
+Die Fluktuation, also der Wechsel von Divertice-Führungskräften, springt um 50 Prozent nach oben.
 
 85
 00:04:58,680 --> 00:05:03,720
-Zugleich gibt es einen klaren Rückgang um 5,0 Prozentpunkte bei Managern mit einem
+In der Zwischenzeit gibt es einen trockenen Rückgang von 5,0 Prozentpunkten bei Managern mit einem Titel von
 
 86
 00:05:03,720 --> 00:05:04,720
-Postgraduiertenabschluss.
+postgraduiertenstudium.
 
 87
 00:05:04,720 --> 00:05:08,920
-Kurz gesagt: Kompetenzen werden buchstäblich abgebaut.
+Kurz gesagt, Kompetenzen werden buchstäblich abgebaut.
 
 88
 00:05:08,920 --> 00:05:13,160
-Die erfahrenen Beamten, jene, die vielleicht die Hand heben und sagen: Schauen Sie, diese
+Die erfahrenen Beamten, diejenigen, die vielleicht die Hand heben und sagen, sehen Sie, dass diese
 
 89
 00:05:13,160 --> 00:05:17,920
-Politik ist nicht machbar, werden durch weniger ausgebildetes Personal ersetzt, das aber vermutlich
+politik ist nicht anstrengend, sie werden durch weniger geschultes Personal ersetzt, aber wahrscheinlich
 
 90
 00:05:17,920 --> 00:05:19,920
-als gehorsamer gilt.
+als gehorsamer erachtet.
 
 91
 00:05:19,920 --> 00:05:24,040
-An diesem Punkt stellt sich spontan die eigentliche Untersuchungsfrage.
+Wenn Sie an diesem Punkt angekommen sind, stellen Sie sich spontan die eigentliche Ermittlungsfrage.
 
 92
 00:05:24,040 --> 00:05:28,480
-Gehen all diese Super-Experten freiwillig, vielleicht weil sie die neue politische Linie ablehnen,
+Alle diese Super-Experten gehen spontan nach Belieben, vielleicht weil sie sich weigern,
 
 93
 00:05:28,480 --> 00:05:34,879
-oder werden sie, sozusagen, zur Tür begleitet?
+die neue politische Linie, oder werden sie einfach begleitet, lässt sie sich an der Tür verlieren?
 
 94
 00:05:34,879 --> 00:05:38,680
-Diese Grafik beantwortet die Frage und liefert vielleicht den faszinierendsten Beleg der gesamten
+Diese Grafik beantwortet die Frage und bietet den vielleicht faszinierendsten Beweis für alles
 
 95
 00:05:38,680 --> 00:05:39,680
-Studie.
+DIE KANZLEI
 
 96
 00:05:39,680 --> 00:05:44,079
-Der Balken für freiwillige Rücktritte bleibt unbewegt, flach auf der Linie
+Die Stange, die den freiwilligen Rücktritt darstellt, ist unbeweglich, flach auf der Linie
 
 97
 00:05:44,079 --> 00:05:45,079
-der Null.
+des OZero.
 
 98
 00:05:45,079 --> 00:05:50,319
-Dagegen macht der Indikator erzwungener Abgänge einen beeindruckenden Sprung nach rechts —
+Stattdessen macht die Zwangsabfahrtsanzeige einen eindrucksvollen Sprung nach rechts.
 
 99
 00:05:50,319 --> 00:05:53,079
-ein klarer, unbestreitbarer Anstieg der Entlassungen.
+eine deutliche und unbestreitbare Zunahme der Stromissionen.
 
 100
 00:05:53,079 --> 00:05:56,840
-Die Schlussfolgerung ist stark, sogar sehr stark.
+Die Schlussfolgerung ist stark, ja sogar sehr stark.
 
 101
 00:05:56,840 --> 00:06:02,800
-Kein freiwilliger Exodus, keine Massenkrise des Gewissens: Die Daten sagen klar,
+Kein freiwilliger Exodus, keine Massenbewusstseinskrise, die Daten sagen uns deutlich
 
 102
 00:06:02,800 --> 00:06:07,480
-dass der Abgang der am besten qualifizierten öffentlichen Manager aktiv und
+dass der Austritt der qualifiziertesten öffentlichen Manager aktiv provoziert wird, so dass
 
 103
 00:06:07,480 --> 00:06:09,640
-erzwungen durch die neu gewählten Bürgermeister ausgelöst wird.
+von neu gewählten Bürgermeistern erzwungen.
 
 104
 00:06:09,640 --> 00:06:14,800
-Das ist eine kalkulierte Strategie, um den sogenannten technischen Widerstand einzudämmen und geradeaus
+Es ist eine kalkulierte Strategie, um den sogenannten technischen Widerstand einzudämmen und geradeaus zu ziehen
 
 105
 00:06:14,800 --> 00:06:15,800
-mit den eigenen Plänen weiterzumachen.
+mit eigenen Plänen.
 
 106
 00:06:15,800 --> 00:06:18,920
-Und hier nimmt das Puzzle Form an.
+Und hier nimmt das Puzzle Gestalt an.
 
 107
 00:06:18,920 --> 00:06:23,240
-Verbinden wir die Verschlechterung der lokalen Finanzen mit dieser regelrechten bürokratischen Säuberung
+Kombinieren wir die Verschlechterung der lokalen Finanzen mit dieser echten Büroreinigung
 
 108
 00:06:23,240 --> 00:06:25,560
-und ziehen Bilanz.
+kratisch, und lassen Sie uns die Summe ziehen.
 
 109
 00:06:25,560 --> 00:06:27,480
-Das ist die Schlussbilanz von all dem.
+Das ist die endgültige Bilanz von all dem.
 
 110
 00:06:27,480 --> 00:06:30,960
-Das Herz des Konflikts ist hier perfekt zusammengefasst.
+Der Kern des Konflikts ist hier perfekt zusammengefasst.
 
 111
 00:06:30,960 --> 00:06:36,120
-Auf der einen Seite die erfahrenen Bürokraten, die sinnvolle Zweifel äußern und normative Grenzen
+Einerseits die erfahrenen Bürokraten, die sinnvolle Zweifel aufkommen lassen und normative Grenzen aufzeigen
 
 112
 00:06:36,120 --> 00:06:37,120
-oder fehlende Mittel aufzeigen.
+oder Geldmangel.
 
 113
 00:06:37,519 --> 00:06:42,040
-Auf der anderen die nicht erfahrenen Bürokraten, oft später eingesetzt, die kopfunter die
+Auf der anderen Seite führen unerfahrene Bürokraten, die oft später eingesetzt werden, mit gesenktem Kopf die
 
 114
 00:06:42,040 --> 00:06:44,639
-gemachten Versprechen ausführen, ohne den geringsten Einwand.
+versprechen, die ohne den geringsten Einwand gemacht wurden.
 
 115
 00:06:44,639 --> 00:06:49,439
-Genau dieser Bruch zerstreut administratives Talent und führt direkt in Haushaltslöcher.
+Es ist genau dieser Riss, der das Management-Talent zerstreut oder direkt in die Löcher importiert
 
 116
 00:06:49,439 --> 00:06:50,439
-im Haushalt.
+zur Förderung der Konvergenz an.
 
 117
 00:06:50,439 --> 00:06:55,399
-Am Ende sind das die zwei Seiten derselben Medaille: der Einbruch der wirtschaftlichen Leistung
+Am Ende der Messe sind die beiden Seiten des gleichen Metalls, der Zusammenbruch der Leistung
 
 118
 00:06:55,399 --> 00:07:00,160
-auf der einen Seite und die Zerstörung einer soliden technischen Verwaltung auf der anderen
+wirtschaftlich einerseits und die Zerstörung einer soliden technischen Verwaltung andererseits
 
 119
 00:07:00,160 --> 00:07:02,120
-gehen Hand in Hand.
+Gemeinsam, Hand in Hand.
 
 120
 00:07:02,680 --> 00:07:03,680
-Genau das.
+Das bin ich.
 
 121
 00:07:03,680 --> 00:07:08,199
-Zahlen in der Hand: der echte greifbare Preis dafür, unbedingte Zusagen versprochen und umgesetzt
+Zahlen zur Hand, der wahre greifbare Preis, der für das Versprechen zu zahlen ist, in Pfandrechten umgesetzt zu werden
 
 122
 00:07:08,199 --> 00:07:12,000
-zu haben — es gibt jene, die jede Form von Kompromiss ablehnen.
+bedingungslos sind, gibt es diejenigen, die mit jeder Form von Kompromiss beginnen.
 
 123
 00:07:12,000 --> 00:07:17,399
-Angesichts dieser unmissverständlichen Daten entsteht eine Überlegung, die uns alle, glaube ich,
+Im Lichte dieser eindeutigen Daten ergibt sich eine Reflexion, von der ich glaube, dass sie uns alle berührt
 
 124
 00:07:17,399 --> 00:07:18,399
-nahegeht.
+Nah.
 
 125
 00:07:18,399 --> 00:07:20,199
-Wie hält man das Gleichgewicht?
+Wie schafft man es, das Gleichgewicht zu halten?
 
 126
 00:07:20,199 --> 00:07:25,040
-Wie können wir demokratisch auf eine zutiefst verunsicherte Wählerschaft antworten,
+Wie können wir auf eine zutiefst misstrauische Wählerschaft demokratisch reagieren,
 
 127
 00:07:25,040 --> 00:07:27,840
-die entschlossene und nuancenlose Maßnahmen verlangt?
+dass Sie entschlossene und nuancierte Aktionen fordern?
 
 128
 00:07:27,840 --> 00:07:32,720
-Und dabei jene technischen Kompetenzen schützen, die unverzichtbar sind, damit das Gerüst
+Es gelingt jedoch, diese grundlegenden technischen Fähigkeiten zu schützen, um zu verhindern, dass das Gerüst
 
 129
 00:07:32,720 --> 00:07:34,120
-des Staates uns nicht über dem Kopf zusammenbricht.
+des Cichrolli-Zustandes an.
 
 130
 00:07:34,120 --> 00:07:37,520
-Das ist eine völlig offene Herausforderung — über die Kunst des Regierens.
+Es ist ein sehr offenes Schwert über die Kunst des Regierens.
 
 131
 00:07:37,520 --> 00:07:39,040
@@ -524,4 +524,5 @@ Und ich lasse sie hier.
 
 132
 00:07:39,040 --> 00:07:40,520
-Als Denkanstoß, über den man weiter nachdenken kann.
+Als Anregung hier weiter erfolgreich zu sein.
+

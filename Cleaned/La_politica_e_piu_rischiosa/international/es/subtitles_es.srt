@@ -1,0 +1,471 @@
+1
+00:00:00,000 --> 00:00:02,500
+Bienvenidos a esta profunda revisión.
+
+2
+00:00:02,500 --> 00:00:06,560
+Hoy intentaremos responder a una pregunta extremadamente precisa, pero que quizás no nos
+
+3
+00:00:06,560 --> 00:00:08,160
+ponemos bastante a menudo.
+
+4
+00:00:08,160 --> 00:00:14,120
+La política es más arriesgada para las mujeres, examinaremos un análisis muy riguroso sobre la violencia
+
+5
+00:00:14,120 --> 00:00:17,400
+contra los representantes políticos a nivel local, aquí, en Italia.
+
+6
+00:00:17,400 --> 00:00:21,120
+Intentaremos entender si quien gobierna lo hace sobre bicicletas con intimidaciones diferentes según el propio
+
+7
+00:00:21,120 --> 00:00:24,120
+género y sobre todo por qué sucede.
+
+8
+00:00:24,120 --> 00:00:26,760
+Ok, entremos directamente en el meollo.
+
+9
+00:00:26,760 --> 00:00:28,879
+La base de estas investigaciones es realmente sólida.
+
+10
+00:00:28,959 --> 00:00:32,799
+Los investigadores revisaron nada menos que 14 años de datos independientes.
+
+11
+00:00:32,799 --> 00:00:37,679
+Hablamos de un archivista meticuloso que recoge amenazas, agresiones físicas y actos intimidatorios
+
+12
+00:00:37,679 --> 00:00:39,679
+contra los políticos locales italianos.
+
+13
+00:00:39,679 --> 00:00:43,879
+Tener a disposición 14 años de datos oficiales, nos permite ir más allá del
+
+14
+00:00:43,879 --> 00:00:45,879
+caso único de crónica aislado.
+
+15
+00:00:45,879 --> 00:00:50,320
+Nos permite identificar patrones precisos, proporcionando una prueba causal concreta
+
+16
+00:00:50,320 --> 00:00:52,879
+de lo que realmente ocurre en el territorio.
+
+17
+00:00:52,879 --> 00:00:54,519
+La brecha en la violencia.
+
+18
+00:00:54,519 --> 00:00:56,719
+Veamos cuál es el riesgo real.
+
+19
+00:00:56,799 --> 00:01:00,399
+Analizando los datos de los ataques, surge inmediatamente la primera pieza del rompecabezas.
+
+20
+00:01:00,399 --> 00:01:02,039
+Y es un dato que hace reflexionar.
+
+21
+00:01:02,039 --> 00:01:06,159
+Las mujeres que ganan las elecciones y se convierten desde que tienen tres veces más probabilidades
+
+22
+00:01:06,159 --> 00:01:08,680
+de sufrir ataques en comparación con sus colegas hombres.
+
+23
+00:01:08,680 --> 00:01:10,400
+Exactamente así, tres veces.
+
+24
+00:01:10,400 --> 00:01:11,920
+En igualdad de condiciones.
+
+25
+00:01:11,920 --> 00:01:15,439
+Ser mujer en el mundo exterior triplica el riesgo de convertirse en víctima de amenazas
+
+26
+00:01:15,439 --> 00:01:18,599
+o violencias mientras se hace el propio trabajo en las instituciones.
+
+27
+00:01:18,599 --> 00:01:23,560
+No estamos hablando de algún episodio desafortunado, sino de una brecha completamente sistémica.
+
+28
+00:01:23,600 --> 00:01:27,240
+Frente a un número tan desproporcionado, surge espontánea la pregunta.
+
+29
+00:01:27,240 --> 00:01:28,640
+¿Por qué ocurre esto?
+
+30
+00:01:28,640 --> 00:01:32,760
+Es quizás un intento estratégico, tal vez por parte del crimen organizado o de algunos
+
+31
+00:01:32,760 --> 00:01:36,000
+¿grupos de interés para hacer cambiar el rumbo de la administración?
+
+32
+00:01:36,000 --> 00:01:40,400
+O las mujeres son atacadas simplemente porque hacen políticas radicalmente diferentes.
+
+33
+00:01:40,400 --> 00:01:45,920
+Peor aún, debajo hay algo mucho más oscuro, ligado a prejuicios profundamente arraigados.
+
+34
+00:01:45,920 --> 00:01:50,280
+Pasemos a la segunda sección, enfocándonos en los alcaldes italianos y las elecciones
+
+35
+00:01:50,280 --> 00:01:52,520
+decidió por muy pocos votos.
+
+36
+00:01:52,560 --> 00:01:56,439
+Ahora, para entender las causas, sin caer en la trampa de las opiniones personales,
+
+37
+00:01:56,439 --> 00:01:59,479
+El estudio usa un truco metodológico realmente brillante.
+
+38
+00:01:59,479 --> 00:02:04,399
+Analiza a los alcaldes, concentrándote solo en esas lecciones que han sido decididas por un puñado de votos.
+
+39
+00:02:04,399 --> 00:02:09,759
+Haciendo así, se comparan con ciudades que son prácticamente idénticas, eliminando un montón de otras variables.
+
+40
+00:02:09,759 --> 00:02:13,680
+Y adivinen qué está observando Mergio sobre estos candidatos elegidos al filo de la navaja,
+
+41
+00:02:13,680 --> 00:02:16,639
+que son prácticamente gemelos desde el punto de vista estadístico.
+
+42
+00:02:16,639 --> 00:02:22,240
+Comparten 17 características observables, misma educación, idéntica experiencia política a sus espaldas,
+
+43
+00:02:22,240 --> 00:02:24,080
+y misma afiliación política.
+
+44
+00:02:24,080 --> 00:02:27,800
+En resumen, el aumento de las agresiones no tiene nada que ver con el hecho de que las mujeres leen
+
+45
+00:02:27,800 --> 00:02:31,240
+tienen antecedentes diferentes o son menos expertas.
+
+46
+00:02:31,240 --> 00:02:33,080
+Y esto nos lleva a la sección 3.
+
+47
+00:02:33,080 --> 00:02:34,560
+¿Es una cuestión de políticas?
+
+48
+00:02:34,560 --> 00:02:36,879
+Veamos la gestión y las decisiones.
+
+49
+00:02:36,879 --> 00:02:40,080
+El primer gran sospechoso es obviamente la acción de gobierno.
+
+50
+00:02:40,080 --> 00:02:44,680
+Quizás las mujeres son atacadas porque toman decisiones administrativas que descontentan a ciertos grupos,
+
+51
+00:02:44,680 --> 00:02:47,680
+Las pruebas desmienten categóricamente esta idea.
+
+52
+00:02:47,719 --> 00:02:50,760
+El estudio va a mirar más de 80 mediciones diferentes,
+
+53
+00:02:50,760 --> 00:02:54,599
+y no detecta diferencias significativas en cómo gobiernan los hombres y las mujeres.
+
+54
+00:02:54,599 --> 00:02:57,040
+A ellos que tienen los fondos del presupuesto de la misma manera exacta,
+
+55
+00:02:57,040 --> 00:03:01,680
+garantizan los mismos niveles de servicios públicos y tienen las mismas tasas de corrupción.
+
+56
+00:03:01,680 --> 00:03:06,800
+Desde el punto de vista puramente administrativo, el género no cambia en lo más mínimo el resultado político.
+
+57
+00:03:06,800 --> 00:03:09,360
+Lo que es realmente interesante se ve aquí.
+
+58
+00:03:09,360 --> 00:03:13,719
+Observando las puntuaciones objetivas sobre la calidad y la eficiencia de los servicios proporcionados por los municipios,
+
+59
+00:03:13,719 --> 00:03:17,600
+notamos que el comportamiento de las dos curvas se superpone casi perfectamente.
+
+60
+00:03:17,639 --> 00:03:21,879
+El desempeño de los alcaldes hombres y de las alcaldesas mujeres es esencialmente el mismo.
+
+61
+00:03:21,879 --> 00:03:24,439
+No hay extremos ni extrañas anomalías.
+
+62
+00:03:24,439 --> 00:03:28,719
+La competencia en el campo y los resultados finales se equivalen totalmente.
+
+63
+00:03:28,719 --> 00:03:32,759
+Por lo tanto, la conclusión de esta investigación sobre las decisiones administrativas es inequívoca.
+
+64
+00:03:32,759 --> 00:03:36,400
+No hay absolutamente ninguna diferencia en el rendimiento.
+
+65
+00:03:36,400 --> 00:03:40,000
+Los datos desmontan de una vez por todas el mito de que las mujeres sufren más ataques
+
+66
+00:03:40,000 --> 00:03:44,479
+porque gobernarían de manera diferente, o tal vez más extrema o menos eficaz.
+
+67
+00:03:44,520 --> 00:03:48,760
+El problema, al parecer, no está en lo que hacen una vez en el cargo.
+
+68
+00:03:48,760 --> 00:03:54,920
+Así entramos en la sección 4 donde abordamos la discriminación, la verdadera razón de este esquema.
+
+69
+00:03:54,920 --> 00:03:59,720
+Dado que las elecciones políticas no tienen relación, debemos movernos al campo de los prejuicios.
+
+70
+00:03:59,720 --> 00:04:03,920
+Si las acciones administrativas son las mismas, la violencia debe ser necesariamente una reacción
+
+71
+00:04:03,920 --> 00:04:06,280
+al hecho en sí de que haya una mujer en el poder.
+
+72
+00:04:06,280 --> 00:04:11,920
+Los necromia, este fenómeno se llama doble estándar, significa aplicar reglas de evaluación diferentes
+
+73
+00:04:11,920 --> 00:04:17,439
+y inútilmente más severas, a un grupo específico, ignorando por completo las reales prestaciones.
+
+74
+00:04:17,439 --> 00:04:22,160
+En práctica, los sindicatos afrontan un ambiente en el que son castigados no por cómo usan el poder,
+
+75
+00:04:22,160 --> 00:04:24,680
+sino simplemente porque lo poseen.
+
+76
+00:04:24,680 --> 00:04:28,920
+Y este concepto es la capa que cruza brillantemente los ataques sufridos con el rendimiento
+
+77
+00:04:28,920 --> 00:04:30,800
+reales en el territorio.
+
+78
+00:04:30,800 --> 00:04:35,520
+Concentrándonos en particular en el cuadrante rojo en la parte superior derecha, la normalia salta a la vista.
+
+79
+00:04:35,520 --> 00:04:40,520
+Las mujeres, aunque gobiernan mejor en algunas regiones y brindan servicios objetivamente superiores,
+
+80
+00:04:40,519 --> 00:04:44,959
+en comparación con los colegas hombres, sufren un número mucho, mucho mayor de ataques.
+
+81
+00:04:44,959 --> 00:04:47,599
+Y la prueba visual perfecta del doble estándar.
+
+82
+00:04:47,599 --> 00:04:50,959
+Los resultados clave que se deben extraer son realmente iluminadores.
+
+83
+00:04:50,959 --> 00:04:55,240
+Primero que todo, el cuadrante en la parte inferior izquierda está completamente vacío.
+
+84
+00:04:55,240 --> 00:04:59,759
+En Italia no existe ninguna región en la que los hombres que gobiernan bien sean atacados
+
+85
+00:04:59,759 --> 00:05:01,039
+más de las mujeres.
+
+86
+00:05:01,039 --> 00:05:04,399
+Los hombres simplemente no sufren este tipo de castigo.
+
+87
+00:05:04,399 --> 00:05:09,039
+Solo son las mujeres las que se encuentran en la paradójica situación de ser atacadas, a pesar de
+
+88
+00:05:09,039 --> 00:05:10,039
+su éxito.
+
+89
+00:05:10,720 --> 00:05:15,560
+Llegamos a la última parte, la sección 5, el impacto democrático y sus consecuencias leves.
+
+90
+00:05:15,560 --> 00:05:18,560
+El abandono de la política local.
+
+91
+00:05:18,560 --> 00:05:22,600
+En condiciones normales, una mujer tiene aquí la misma probabilidad exacta que un hombre
+
+92
+00:05:22,600 --> 00:05:25,040
+de quedarse en la política e intentar el segundo mandato.
+
+93
+00:05:25,040 --> 00:05:27,400
+¿Pero cuándo entra en juego la violencia?
+
+94
+00:05:27,400 --> 00:05:29,360
+Las cosas cambian drásticamente.
+
+95
+00:05:29,360 --> 00:05:34,040
+Sufrir una amenaza altera profundamente la propensión a seguir sirviendo a la propia comunidad.
+
+96
+00:05:34,040 --> 00:05:36,800
+Hay un contraste muy marcado en las reacciones a los ataques.
+
+97
+00:05:36,840 --> 00:05:40,680
+Por un lado, los alcaldes hombres que reciben amenazas tienden de todos modos a volver a postularse,
+
+98
+00:05:40,680 --> 00:05:44,319
+absorbiendo la intimidación casi como si fuera un riesgo del oficio.
+
+99
+00:05:44,319 --> 00:05:47,920
+Por otro lado, en cambio, las mujeres que sufren violencia abandonan la carrera hacia
+
+100
+00:05:47,920 --> 00:05:51,040
+reelección con una frecuencia significativamente mayor.
+
+101
+00:05:51,040 --> 00:05:55,800
+Este clima de hostilidad se demuestra un disuasivo, inmensamente más potente, para las candidatas
+
+102
+00:05:55,800 --> 00:05:57,040
+y femeninos.
+
+103
+00:05:57,040 --> 00:05:58,879
+¿La violencia funciona?
+
+104
+00:05:58,879 --> 00:06:03,160
+Desde el punto de vista de chiattacca, impulsado por estos prejuicios de género, se obtiene realmente
+
+105
+00:06:03,160 --> 00:06:06,200
+el objetivo de reducir la participación femenina en el gobierno local.
+
+106
+00:06:06,200 --> 00:06:12,439
+El punto crucial y el tristemente trágico es que sí, estos ataques logran su propósito.
+
+107
+00:06:12,439 --> 00:06:16,600
+Esta violencia no solo crea un profundo sufrimiento personal, sino que actúa como una
+
+108
+00:06:16,600 --> 00:06:20,680
+verdadera y propia fuerza democrática, que empuja a mujeres competentes y preparadas a retirarse
+
+109
+00:06:20,680 --> 00:06:21,680
+de la política local.
+
+110
+00:06:21,680 --> 00:06:26,480
+El resultado es una reducción concreta de la representación femenina en las instituciones.
+
+111
+00:06:26,480 --> 00:06:30,720
+Y esto nos deja con una interrogante final sobre la que realmente vale la pena reflexionar,
+
+112
+00:06:30,720 --> 00:06:33,760
+especialmente si nos importa la eficiencia de nuestras instituciones.
+
+113
+00:06:33,760 --> 00:06:38,640
+Aquí no hablamos solo de cuotas o de igualdad abstracta, hablamos de talento y de competencias
+
+114
+00:06:38,640 --> 00:06:39,640
+vete al diablo.
+
+115
+00:06:39,640 --> 00:06:44,160
+Si dejamos que la violencia no contrarrestada, se convierta en un impedimento eficaz para alejar
+
+116
+00:06:44,160 --> 00:06:47,120
+mujeres capaces, quienes terminarán por gobernar nuestro futuro.
+
+117
+00:06:47,120 --> 00:06:51,800
+Un sistema que castiga el éxito solo en función del género es un sistema que literalmente
+
+118
+00:06:51,800 --> 00:06:53,200
+se priva de sus mejores recursos.

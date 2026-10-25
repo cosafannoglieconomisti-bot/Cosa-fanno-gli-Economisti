@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:04,639
+Les stéréotypes implicites influencent nos choix à notre insu.
+
+2
+00:00:04,639 --> 00:00:09,279
+Depuis des années, on se demande pourquoi les filles réussissent moins bien en sciences.
+
+3
+00:00:09,279 --> 00:00:14,759
+Pour le comprendre, une étude a mesuré les associations mentales involontaires des enseignants.
+
+4
+00:00:14,759 --> 00:00:19,240
+Comment ? En calculant en millisecondes l'hésitation d'un enseignant
+
+5
+00:00:19,240 --> 00:00:22,879
+quand il doit associer des concepts mathématiques à des prénoms féminins.
+
+6
+00:00:22,879 --> 00:00:24,679
+Regardons maintenant les données.
+
+7
+00:00:24,679 --> 00:00:28,400
+À mesure que le biais inconscient de l'enseignant augmente,
+
+8
+00:00:28,560 --> 00:00:33,280
+la courbe d'apprentissage des garçons reste plate et parfaitement stable.
+
+9
+00:00:33,280 --> 00:00:35,679
+Vous penserez à des notes baissées exprès.
+
+10
+00:00:35,679 --> 00:00:40,560
+Or ces tests sont standardisés et corrigés de façon totalement anonyme.
+
+11
+00:00:40,560 --> 00:00:42,760
+C'est là qu'apparaissent les vrais dégâts.
+
+12
+00:00:42,760 --> 00:00:45,760
+Dans les classes dirigées par des enseignants conditionnés,
+
+13
+00:00:45,760 --> 00:00:48,560
+la courbe des filles s'effondre.
+
+14
+00:00:48,560 --> 00:00:51,480
+Les élèves intériorisent ces faibles attentes,
+
+15
+00:00:51,480 --> 00:00:55,600
+se persuadent qu'elles ne sont pas douées et abandonnent la matière.
+
+16
+00:00:55,719 --> 00:00:57,640
+C'est une prophétie autoréalisatrice,
+
+17
+00:00:57,640 --> 00:01:00,800
+enregistrée sans équivoque par les chiffres.
+
+18
+00:01:00,800 --> 00:01:05,040
+L'exclusion des femmes des carrières scientifiques ne commence pas à l'université.
+
+19
+00:01:05,040 --> 00:01:08,960
+Elle naît de cette perte de confiance invisible sur les bancs du collège.

@@ -1,0 +1,619 @@
+1
+00:00:00,000 --> 00:00:05,000
+When a crisis hits, do the rich run away? There's a dark, almost invisible side to national
+
+2
+00:00:05,000 --> 00:00:08,439
+economic collapses, a phenomenon that happens far from the spotlight.
+
+3
+00:00:08,439 --> 00:00:13,519
+Today we dive into a brand-new study, published in 2025 by researchers Silvia Marchesi
+
+4
+00:00:13,519 --> 00:00:14,519
+and Giovanna Marcolongo.
+
+5
+00:00:14,519 --> 00:00:19,080
+It's a truly fascinating investigation, revealing how, at the very moment of a country's deepest
+
+6
+00:00:19,080 --> 00:00:23,719
+financial despair, huge chunks of private wealth seem to literally vanish
+
+7
+00:00:23,719 --> 00:00:24,719
+into thin air.
+
+8
+00:00:24,719 --> 00:00:29,760
+The question behind it all is simple: where does the money really go when a nation's
+
+9
+00:00:29,760 --> 00:00:31,440
+economy falls into crisis?
+
+10
+00:00:31,440 --> 00:00:36,079
+In theory, you'd expect a financial crisis to hit everyone, more or less in proportion,
+
+11
+00:00:36,079 --> 00:00:41,120
+and yet macroeconomic data often show a kind of black hole in the national accounts.
+
+12
+00:00:41,120 --> 00:00:45,719
+To solve this mystery, you have to look far beyond the borders of the country in crisis.
+
+13
+00:00:45,719 --> 00:00:50,040
+You have to search the bank accounts of distant nations, places that offer a resource
+
+14
+00:00:50,040 --> 00:00:55,359
+that is priceless when everything collapses: absolute secrecy.
+
+15
+00:00:55,359 --> 00:00:59,439
+To understand where this wealth ends up, we need to be clear about what we're talking about.
+
+16
+00:00:59,479 --> 00:01:01,960
+We're talking about so-called tax havens.
+
+17
+00:01:01,960 --> 00:01:04,759
+These are jurisdictions with very specific features:
+
+18
+00:01:04,759 --> 00:01:09,120
+tax rates close to zero, practically impenetrable bank secrecy
+
+19
+00:01:09,120 --> 00:01:12,000
+and no transparency about who really owns the funds.
+
+20
+00:01:12,000 --> 00:01:14,799
+And mind you, this is no niche issue.
+
+21
+00:01:14,799 --> 00:01:19,239
+Estimates say that about 8% of all global financial wealth is parked
+
+22
+00:01:19,239 --> 00:01:20,239
+right there,
+
+23
+00:01:20,239 --> 00:01:21,719
+sheltered from everything.
+
+24
+00:01:21,719 --> 00:01:25,439
+This alone already causes a colossal tax loss worldwide,
+
+25
+00:01:25,480 --> 00:01:30,799
+but the role of these places changes radically when a country enters a phase of severe instability.
+
+26
+00:01:30,799 --> 00:01:36,000
+To grasp the scale of the problem, just think about the global distribution of these funds.
+
+27
+00:01:36,000 --> 00:01:37,599
+Who pays the highest price?
+
+28
+00:01:37,599 --> 00:01:41,799
+Developing countries, especially many nations in Africa and South America.
+
+29
+00:01:41,799 --> 00:01:44,239
+They are the economies with the most fragile institutions,
+
+30
+00:01:44,239 --> 00:01:47,159
+which struggle most to keep their resources at home.
+
+31
+00:01:47,159 --> 00:01:50,159
+And this hemorrhage becomes devastating during an economic shock,
+
+32
+00:01:50,159 --> 00:01:55,879
+just when every single domestic resource would be literally vital to keep the country afloat.
+
+33
+00:01:55,879 --> 00:01:58,000
+At this point the challenge is clear.
+
+34
+00:01:58,000 --> 00:02:02,560
+How do you study wealth that has been surgically designed not to be seen?
+
+35
+00:02:02,560 --> 00:02:05,000
+The researchers did a titanic job,
+
+36
+00:02:05,000 --> 00:02:07,840
+following the traces left in international banking data.
+
+37
+00:02:07,840 --> 00:02:11,519
+They cross-checked the financial positions of more than a hundred emerging economies,
+
+38
+00:02:11,519 --> 00:02:13,199
+hunting for anomalies.
+
+39
+00:02:13,199 --> 00:02:17,159
+In practice, they looked for sudden spikes in foreign deposits that coincided,
+
+40
+00:02:17,159 --> 00:02:20,039
+far too suspiciously, with domestic collapses.
+
+41
+00:02:20,039 --> 00:02:24,039
+The real ace up their sleeve was the use of institutional data.
+
+42
+00:02:24,039 --> 00:02:28,079
+The study relies largely on statistics from the Bank for International Settlements,
+
+43
+00:02:28,079 --> 00:02:31,359
+focusing on so-called non-bank deposits.
+
+44
+00:02:31,359 --> 00:02:34,960
+They analyzed data from as many as 144 developing countries.
+
+45
+00:02:34,960 --> 00:02:39,159
+In plain words, they measured how much money a country's residents,
+
+46
+00:02:39,159 --> 00:02:41,879
+such as super-rich families or large companies,
+
+47
+00:02:41,879 --> 00:02:46,240
+kept in the banks of the main tax havens, from Switzerland to Hong Kong.
+
+48
+00:02:46,480 --> 00:02:51,240
+It's a brilliant method to measure the capital flight of the elite very reliably.
+
+49
+00:02:51,240 --> 00:02:55,240
+The timing. Instinctively, you might think that at the first hint of crisis
+
+50
+00:02:55,240 --> 00:02:58,080
+panic sets in and everyone rushes to empty their accounts.
+
+51
+00:02:58,080 --> 00:03:00,840
+Reality is much colder and more calculated.
+
+52
+00:03:00,840 --> 00:03:04,320
+The wealthiest residents almost never act on impulse.
+
+53
+00:03:04,320 --> 00:03:05,560
+They wait.
+
+54
+00:03:05,560 --> 00:03:09,600
+They carefully watch how things are going before making their move.
+
+55
+00:03:09,600 --> 00:03:11,240
+And the numbers confirm it.
+
+56
+00:03:11,240 --> 00:03:14,719
+Before the crash, outflow levels are completely normal.
+
+57
+00:03:14,840 --> 00:03:17,719
+Surprisingly, even during the first year of the actual crisis
+
+58
+00:03:17,719 --> 00:03:19,719
+capital flight remains limited.
+
+59
+00:03:19,719 --> 00:03:21,719
+In short, those with large fortunes wait,
+
+60
+00:03:21,719 --> 00:03:24,719
+assess how serious the shock is, and watch how politics reacts.
+
+61
+00:03:24,719 --> 00:03:27,719
+Then, suddenly, the trigger goes off.
+
+62
+00:03:27,719 --> 00:03:29,719
+There's a striking surge in offshore transfers,
+
+63
+00:03:29,719 --> 00:03:32,719
+which happens almost like clockwork around the third year
+
+64
+00:03:32,719 --> 00:03:34,719
+after the start of the crisis.
+
+65
+00:03:34,719 --> 00:03:36,719
+And these are no small sums.
+
+66
+00:03:36,719 --> 00:03:39,719
+At the peak of this flight, deposits in tax havens
+
+67
+00:03:39,719 --> 00:03:42,719
+rise by almost a third compared to normal.
+
+68
+00:03:42,719 --> 00:03:44,719
+That's a huge jump.
+
+69
+00:03:44,719 --> 00:03:46,719
+An entire segment of a nation's private wealth
+
+70
+00:03:46,719 --> 00:03:49,719
+simultaneously decides to cut ties with local banks
+
+71
+00:03:49,719 --> 00:03:51,719
+and seek total anonymity,
+
+72
+00:03:51,719 --> 00:03:53,719
+exactly three years after the start of the collapse.
+
+73
+00:03:53,719 --> 00:03:56,719
+If we translate this into hard dollars,
+
+74
+00:03:56,719 --> 00:03:58,719
+the impact is staggering.
+
+75
+00:03:58,719 --> 00:04:01,719
+We're talking about a net loss of almost 2 billion dollars
+
+76
+00:04:01,719 --> 00:04:03,719
+a year for every single country involved.
+
+77
+00:04:03,719 --> 00:04:06,719
+This is real money disappearing from the real economy.
+
+78
+00:04:06,719 --> 00:04:08,719
+It means investments that will never be made,
+
+79
+00:04:08,719 --> 00:04:10,719
+credit taken away from local businesses
+
+80
+00:04:10,719 --> 00:04:12,719
+and, inevitably, an avalanche of taxes
+
+81
+00:04:12,719 --> 00:04:14,719
+that will never be paid,
+
+82
+00:04:14,719 --> 00:04:16,720
+exactly when the state would need them most.
+
+83
+00:04:16,720 --> 00:04:19,720
+It must be said, though, that not all crises
+
+84
+00:04:19,720 --> 00:04:20,720
+trigger the same reaction.
+
+85
+00:04:20,720 --> 00:04:22,720
+The study draws a very sharp distinction.
+
+86
+00:04:22,720 --> 00:04:24,720
+On one side there are banking crises.
+
+87
+00:04:24,720 --> 00:04:27,720
+They are intense and cause volatility, but they are shorter,
+
+88
+00:04:27,720 --> 00:04:29,720
+and capital often comes back
+
+89
+00:04:29,720 --> 00:04:31,720
+when the system is rescued or stabilizes.
+
+90
+00:04:31,720 --> 00:04:34,720
+On the other side there are sovereign debt crises,
+
+91
+00:04:34,720 --> 00:04:36,720
+that is, when the state itself can no longer pay its debts.
+
+92
+00:04:36,720 --> 00:04:38,720
+Those are a different story.
+
+93
+00:04:38,720 --> 00:04:41,720
+They last much longer and cause capital flight
+
+94
+00:04:41,720 --> 00:04:43,720
+that is deeply rooted and persistent,
+
+95
+00:04:43,720 --> 00:04:45,720
+and that shows no sign of easing even years later.
+
+96
+00:04:45,720 --> 00:04:49,720
+But why wait three years and then make everything disappear?
+
+97
+00:04:49,720 --> 00:04:51,720
+What is the fuse that sets off the flight?
+
+98
+00:04:51,720 --> 00:04:54,720
+The answer that comes to everyone's mind is: taxes.
+
+99
+00:04:54,720 --> 00:04:56,720
+People usually think that governments in crisis
+
+100
+00:04:56,720 --> 00:04:58,720
+raise taxes to raise cash
+
+101
+00:04:58,720 --> 00:05:00,720
+and that the rich flee to avoid paying them.
+
+102
+00:05:00,720 --> 00:05:03,720
+Well, the data say exactly the opposite.
+
+103
+00:05:03,720 --> 00:05:05,720
+We can bust this myth once and for all.
+
+104
+00:05:05,720 --> 00:05:08,720
+The analysis shows that effective tax rates on capital
+
+105
+00:05:08,720 --> 00:05:10,720
+do not rise at all during these crises.
+
+106
+00:05:10,720 --> 00:05:12,720
+In fact, they tend to fall.
+
+107
+00:05:12,720 --> 00:05:14,720
+The real driver of the flight,
+
+108
+00:05:14,720 --> 00:05:16,720
+the one that matches the timing perfectly,
+
+109
+00:05:16,720 --> 00:05:17,720
+is something else.
+
+110
+00:05:17,720 --> 00:05:19,720
+It's the fear of expropriation.
+
+111
+00:05:19,720 --> 00:05:21,720
+If you analyze news about account freezes,
+
+112
+00:05:21,720 --> 00:05:23,720
+capital controls or confiscations,
+
+113
+00:05:23,720 --> 00:05:25,720
+you see that these measures peak
+
+114
+00:05:25,720 --> 00:05:27,720
+exactly three years into the crisis.
+
+115
+00:05:27,720 --> 00:05:30,720
+In short, people don't flee to save on taxes.
+
+116
+00:05:30,720 --> 00:05:32,720
+They flee out of sheer terror of having
+
+117
+00:05:32,720 --> 00:05:34,720
+their assets seized by a desperate state.
+
+118
+00:05:34,720 --> 00:05:36,720
+And this also explains why the phenomenon doesn't hit
+
+119
+00:05:36,720 --> 00:05:38,720
+all countries in the same way:
+
+120
+00:05:38,720 --> 00:05:41,720
+it happens dramatically where institutions are already weak.
+
+121
+00:05:41,720 --> 00:05:44,720
+Rampant corruption, poorly enforced laws
+
+122
+00:05:44,720 --> 00:05:47,720
+and practically non-existent trust in the state.
+
+123
+00:05:47,720 --> 00:05:50,720
+In these environments, without the rule of law,
+
+124
+00:05:50,720 --> 00:05:52,720
+elites fear arbitrary moves or confiscations
+
+125
+00:05:52,720 --> 00:05:55,720
+and prefer to pull everything out to find immunity elsewhere.
+
+126
+00:05:55,720 --> 00:05:58,720
+And so we come to the core of this whole discussion:
+
+127
+00:05:58,720 --> 00:06:00,720
+the real cost.
+
+128
+00:06:00,720 --> 00:06:03,720
+This capital flight is not just a technical detail
+
+129
+00:06:03,720 --> 00:06:04,720
+for economists.
+
+130
+00:06:04,720 --> 00:06:07,720
+It has a deep and tangible impact on the whole country.
+
+131
+00:06:07,720 --> 00:06:09,720
+It distorts recovery policies
+
+132
+00:06:09,720 --> 00:06:12,720
+and completely alters our perception of how much damage
+
+133
+00:06:12,720 --> 00:06:14,720
+society has actually suffered.
+
+134
+00:06:14,720 --> 00:06:16,720
+Let's put the pieces together.
+
+135
+00:06:16,720 --> 00:06:18,720
+If the richest part of the population manages to bring
+
+136
+00:06:18,720 --> 00:06:20,720
+its assets to safety,
+
+137
+00:06:20,720 --> 00:06:23,720
+the burden of the economic crisis is not shared fairly at all.
+
+138
+00:06:23,720 --> 00:06:25,720
+The tax base suddenly shrinks,
+
+139
+00:06:25,720 --> 00:06:28,720
+taking away from the government the money it needs to relaunch the economy,
+
+140
+00:06:28,720 --> 00:06:31,720
+keep public services running or pay its debts.
+
+141
+00:06:31,720 --> 00:06:34,720
+This flight worsens inequality dramatically
+
+142
+00:06:34,720 --> 00:06:36,720
+and, since offshore fortunes
+
+143
+00:06:36,720 --> 00:06:38,720
+do not show up in official statistics,
+
+144
+00:06:38,720 --> 00:06:41,720
+it masks the true severity of the situation.
+
+145
+00:06:41,720 --> 00:06:43,720
+And this leaves us with an inevitable question,
+
+146
+00:06:43,720 --> 00:06:45,720
+one of those that really make you think.
+
+147
+00:06:45,720 --> 00:06:48,720
+If, in the moments of worst economic disaster,
+
+148
+00:06:48,720 --> 00:06:50,720
+a small elite manages to lock away its billions
+
+149
+00:06:50,720 --> 00:06:52,720
+by putting them safely in tax havens,
+
+150
+00:06:52,720 --> 00:06:56,720
+who is left, in the end, to bear the crushing weight of the crisis?
+
+151
+00:06:56,720 --> 00:06:58,720
+The reality is harsh.
+
+152
+00:06:58,720 --> 00:07:00,720
+The bill for reconstruction falls entirely on the shoulders
+
+153
+00:07:00,720 --> 00:07:02,720
+of those who did not have the means to escape.
+
+154
+00:07:02,720 --> 00:07:04,720
+This truly changes the way we should look
+
+155
+00:07:04,720 --> 00:07:06,720
+at the true cost of every financial collapse.

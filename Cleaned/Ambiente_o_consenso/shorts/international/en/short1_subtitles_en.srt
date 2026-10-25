@@ -1,68 +1,67 @@
 1
 00:00:00,000 --> 00:00:04,719
-Come fa un singolo di vieto cittadino a ribaltare migliaia di voti?
+How can a single city ban overturn thousands of votes?
 
 2
 00:00:04,719 --> 00:00:10,880
-Spesso crediamo che chi o stacola le riforme ambientali lo faccia per puro negazionismo climatico.
+We often believe that those who block environmental reforms do so out of sheer climate denial.
 
 3
 00:00:10,880 --> 00:00:15,480
-Prendiamo l'area B di Milano, una direttiva che ha avietato all'improvviso la circolazione
+Take Milan's Area B, a rule that suddenly banned circulation
 
 4
 00:00:15,480 --> 00:00:17,480
-a migliaia di automobili.
+for thousands of cars.
 
 5
 00:00:17,480 --> 00:00:22,600
-Mentre molti residenti non hanno subito disaggi, i proprietari dei veicoli banditi hanno affrontato
+While many residents felt little impact, owners of the banned vehicles faced
 
 6
 00:00:22,600 --> 00:00:26,120
-un costo in previsto di 3.750 euro.
+an unexpected cost of €3,750.
 
 7
 00:00:26,120 --> 00:00:28,719
-Eppure c'è un dato sorprendente.
+Yet there is a surprising finding.
 
 8
 00:00:28,839 --> 00:00:33,280
-Questi automobilisti penalizzati hanno mantenuto convinzioni sulla tutela dell'ambiente
+These penalized drivers kept the same views on protecting the environment
 
 9
 00:00:33,280 --> 00:00:36,399
-identiche a quelle del resto della popolazione.
+as the rest of the population.
 
 10
 00:00:36,399 --> 00:00:39,200
-È il cosiddetto voto di portafoglio.
+It is the so-called pocketbook vote.
 
 11
 00:00:39,200 --> 00:00:42,840
-L'elettore non punisce la ministrazione però di o verso l'ecologia,
+Voters do not punish the administration for being too green,
 
 12
 00:00:42,840 --> 00:00:48,200
-ma perché ritiene profondamente in giusto che la transizione pesi solo su alcuni cittadini.
+but because they find it deeply unfair that the transition weighs only on some citizens.
 
 13
 00:00:48,200 --> 00:00:50,719
-Questa frustrazione si è tradotta in politica.
+That frustration turned into politics.
 
 14
 00:00:50,719 --> 00:00:57,480
-Le persone colpite hanno aumentato del 13,5% il voto per la lega, all'opposizione.
+Those affected raised their vote for the League, then in opposition, by 13.5%.
 
 15
 00:00:57,480 --> 00:01:01,480
-Il voto contro l'aria B non esprime posizioni anti-ambientaliste,
+The vote against Area B does not express anti-environmentalist positions,
 
 16
 00:01:01,480 --> 00:01:03,920
-ma puro risentimento economico.
+but pure economic resentment.
 
 17
 00:01:03,920 --> 00:01:08,600
-Se la transizione ecologica crea di su guagliance, l'elettore presente il conto.
-
+If the green transition creates inequalities, the voter presents the bill.

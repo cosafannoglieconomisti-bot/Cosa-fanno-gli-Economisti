@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:04,639
+Los estereotipos implícitos influyen en nuestras decisiones sin que lo sepamos.
+
+2
+00:00:04,639 --> 00:00:09,279
+Desde hace años nos preguntamos por qué las chicas rinden menos en las asignaturas científicas.
+
+3
+00:00:09,279 --> 00:00:14,759
+Para entenderlo, un estudio midió las asociaciones mentales involuntarias de los profesores.
+
+4
+00:00:14,759 --> 00:00:19,240
+¿Cómo? Calculando los milisegundos de vacilación de un docente
+
+5
+00:00:19,240 --> 00:00:22,879
+cuando debe asociar conceptos matemáticos a nombres femeninos.
+
+6
+00:00:22,879 --> 00:00:24,679
+Ahora veamos los datos.
+
+7
+00:00:24,679 --> 00:00:28,400
+Al aumentar el sesgo inconsciente del profesor,
+
+8
+00:00:28,560 --> 00:00:33,280
+la curva de aprendizaje de los chicos se mantiene plana y totalmente estable.
+
+9
+00:00:33,280 --> 00:00:35,679
+Pensaréis en notas bajadas a propósito.
+
+10
+00:00:35,679 --> 00:00:40,560
+Pero estas pruebas son estandarizadas y se corrigen de forma totalmente anónima.
+
+11
+00:00:40,560 --> 00:00:42,760
+El verdadero daño aparece aquí.
+
+12
+00:00:42,760 --> 00:00:45,760
+En las clases dirigidas por docentes condicionados,
+
+13
+00:00:45,760 --> 00:00:48,560
+la curva de las chicas se desploma.
+
+14
+00:00:48,560 --> 00:00:51,480
+Las alumnas absorben estas bajas expectativas,
+
+15
+00:00:51,480 --> 00:00:55,600
+se convencen de que no sirven para ello y abandonan la asignatura.
+
+16
+00:00:55,719 --> 00:00:57,640
+Es una profecía autocumplida,
+
+17
+00:00:57,640 --> 00:01:00,800
+registrada de forma inequívoca por los números.
+
+18
+00:01:00,800 --> 00:01:05,040
+La exclusión de las mujeres de las carreras científicas no empieza en la universidad.
+
+19
+00:01:05,040 --> 00:01:08,960
+Nace de esta invisible pérdida de confianza en los pupitres de secundaria.

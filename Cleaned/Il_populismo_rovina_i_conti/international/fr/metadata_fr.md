@@ -1,6 +1,6 @@
 # Video Metadata - Il populismo rovina i conti? (FR)
 
-## Bibliografia (dal PDF)
+## Bibliographie (du PDF)
 
 - **Titolo accademico (esatto):** A Costly Commitment: Populism, Economic Performance, and the Quality of Bureaucracy
 - **Autori (tutti, dal PDF):** Luca Bellodi; Massimo Morelli; Matia Vannoni
@@ -9,7 +9,7 @@
 - **DOI:** 10.1111/ajps.12782
 - **Fonte DOI:** https://doi.org/10.1111/ajps.12782
 
-## Descrizione YouTube
+## Description YouTube
 
 Lo studio "A Costly Commitment: Populism, Economic Performance, and the Quality of Bureaucracy" di Luca Bellodi, Massimo Morelli e Matia Vannoni, pubblicato su American Journal of Political Science nel 2024, misura cosa succede ai conti e alla burocrazia quando vince un sindaco populista: su oltre 8.000 comuni italiani e più di 20 anni di dati, un RDD sulle elezioni strette mostra meno rimborsi dei debiti, più appalti con sforamento dei costi, più turnover dei dirigenti (soprattutto uscite forzate) e un calo netto della quota di burocrati con titolo post-laurea — i populisti spingono impegni di policy «incondizionati» anche contro vincoli di bilancio e valutazione degli esperti.
 
@@ -19,7 +19,7 @@ Lo studio "A Costly Commitment: Populism, Economic Performance, and the Quality 
 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-⏰ INDICE CONTENUTI ⏰
+⏰ SOMMAIRE ⏰
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 00:00 | Intro
 00:32 | Promesse senza vincoli
@@ -32,10 +32,10 @@ Lo studio "A Costly Commitment: Populism, Economic Performance, and the Quality 
 
 #Populismo #Sindaci #ComuniItaliani #Burocrazia #AppaltiPubblici #DebitiComunali #TurnoverDirigenti
 
-## Tag
+## Tags
 Populismo, Sindaci, ComuniItaliani, Burocrazia, AppaltiPubblici, DebitiComunali, TurnoverDirigenti
 
-## Status Pipeline
+## Statut du pipeline
 - Paper PDF: A Costly Commitment Populism, Economic Performance, and the Quality of Bureaucracy.pdf (OK)
 - Cover 16:9: OK
 - Video RAW: OK

@@ -1,0 +1,539 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bien, entrons tout de suite dans le vif du sujet.
+
+2
+00:00:02,000 --> 00:00:08,000
+Aujourd'hui, nous explorons un mystère qui hante littéralement les salles de classe depuis des générations.
+
+3
+00:00:08,000 --> 00:00:12,000
+Le titre de l'étude d'économie de l'éducation que nous analysons pose une question plutôt corsée.
+
+4
+00:00:12,000 --> 00:00:14,000
+Les maths, c'est pour les garçons ?
+
+5
+00:00:14,000 --> 00:00:20,000
+C'est une recherche incroyablement rigoureuse, menée par Michela Carlana, qui fouille les données des collèges italiens.
+
+6
+00:00:20,000 --> 00:00:24,000
+L'objectif : comprendre pourquoi, malgré des décennies de combats pour l'égalité,
+
+7
+00:00:24,000 --> 00:00:29,000
+on traîne encore un écart persistant et presque inexplicable dans les résultats en maths
+
+8
+00:00:29,000 --> 00:00:33,000
+entre garçons et filles. Une véritable énigme.
+
+9
+00:00:33,000 --> 00:00:40,000
+À ce stade, on ne peut que se demander : cet écart, est-ce de la pure biologie ou une gigantesque illusion culturelle ?
+
+10
+00:00:40,000 --> 00:00:44,000
+Pendant des années, on a débattu pour savoir si les cerveaux fonctionnaient différemment.
+
+11
+00:00:44,000 --> 00:00:46,000
+Mais voici le coup de théâtre.
+
+12
+00:00:46,000 --> 00:00:49,000
+Les données internationales nous donnent un indice énorme.
+
+13
+00:00:49,000 --> 00:00:56,000
+Dans les cultures où les stéréotypes de genre sont moins forts, cet écart en maths se réduit, et pas qu'un peu.
+
+14
+00:00:56,000 --> 00:01:03,000
+Cela déplace instantanément les soupçons de la génétique vers la culture, et en particulier vers l'environnement où l'on apprend chaque jour.
+
+15
+00:01:03,000 --> 00:01:06,000
+Et c'est là que l'on tombe sur un paradoxe fou.
+
+16
+00:01:06,000 --> 00:01:10,000
+Si l'on regarde les résultats scolaires en général, les filles s'en sortent très bien.
+
+17
+00:01:10,000 --> 00:01:14,000
+Elles obtiennent souvent d'excellents résultats dans presque toutes les matières au collège.
+
+18
+00:01:14,000 --> 00:01:19,000
+Et pourtant, de façon presque mystérieuse, quand il s'agit des maths, elles freinent.
+
+19
+00:01:19,000 --> 00:01:21,000
+Elles commencent à prendre du retard.
+
+20
+00:01:21,000 --> 00:01:30,000
+Ce décalage énorme entre une brillante réussite scolaire et la difficulté dans une seule matière est le point de départ exact de cette enquête.
+
+21
+00:01:30,000 --> 00:01:32,000
+L'écart en maths.
+
+22
+00:01:32,000 --> 00:01:38,000
+Pour saisir l'ampleur du phénomène, regardons les tests standardisés des collèges en Italie.
+
+23
+00:01:38,000 --> 00:01:40,000
+Un chiffre ressort, qui fait réfléchir.
+
+24
+00:01:40,000 --> 00:01:42,000
+0,18.
+
+25
+00:01:42,000 --> 00:01:50,000
+À la fin du collège, les filles accusent un retard de 0,18 écart-type par rapport aux garçons, justement aux tests de maths.
+
+26
+00:01:50,000 --> 00:01:54,000
+Et attention, on ne parle pas de cas isolés ou d'anecdotes de couloir.
+
+27
+00:01:54,000 --> 00:01:59,000
+On parle d'un écart net, mesurable et statistiquement sans équivoque,
+
+28
+00:01:59,000 --> 00:02:02,000
+fondé sur des milliers de résultats à l'échelle nationale.
+
+29
+00:02:02,000 --> 00:02:05,000
+Mesurer le biais implicite.
+
+30
+00:02:05,000 --> 00:02:07,000
+Alors, d'où vient cet écart ?
+
+31
+00:02:07,000 --> 00:02:13,000
+L'étude braque les projecteurs sur un suspect très particulier : les biais inconscients des enseignants.
+
+32
+00:02:13,000 --> 00:02:15,000
+Disons-le tout de suite, pour éviter tout malentendu.
+
+33
+00:02:15,000 --> 00:02:18,000
+Nous ne parlons pas de discrimination volontaire.
+
+34
+00:02:18,000 --> 00:02:19,000
+Absolument pas.
+
+35
+00:02:19,000 --> 00:02:24,000
+Nous parlons d'associations mentales profondément ancrées et totalement inconscientes.
+
+36
+00:02:24,000 --> 00:02:30,000
+Pour mesurer quelque chose d'aussi invisible, les chercheurs utilisent le test d'association implicite, appelé IAT.
+
+37
+00:02:30,000 --> 00:02:34,000
+C'est un outil psychologique qui mesure littéralement les temps de réaction.
+
+38
+00:02:34,000 --> 00:02:39,000
+Concrètement, devant un écran, on demande aux enseignants d'associer des prénoms masculins ou féminins
+
+39
+00:02:39,000 --> 00:02:41,000
+à des concepts scientifiques ou littéraires.
+
+40
+00:02:41,000 --> 00:02:48,000
+L'astuce, c'est que le cerveau répond bien plus vite quand il doit classer des concepts déjà étroitement liés dans l'esprit.
+
+41
+00:02:48,000 --> 00:02:50,000
+Et les résultats ?
+
+42
+00:02:50,000 --> 00:02:52,000
+Absolument éclairants.
+
+43
+00:02:52,000 --> 00:03:00,000
+Les données montrent que de très nombreux enseignants associent inconsciemment, et bien plus vite, les maths aux garçons et la littérature aux filles.
+
+44
+00:03:00,000 --> 00:03:04,000
+Mais le plus fou, c'est l'écart entre ce qu'ils pensent et ce que révèle le test.
+
+45
+00:03:04,000 --> 00:03:09,000
+Interrogés explicitement, presque tous les enseignants nient catégoriquement tout préjugé de genre,
+
+46
+00:03:09,000 --> 00:03:12,000
+et il est clair qu'ils le font en toute bonne foi.
+
+47
+00:03:12,000 --> 00:03:20,000
+Pourtant, les millisecondes enregistrées par le test révèlent que les schémas mentaux dictés par la société agissent constamment en sous-main.
+
+48
+00:03:20,000 --> 00:03:22,000
+L'impact sur les élèves filles.
+
+49
+00:03:22,000 --> 00:03:25,000
+Et nous voici au cœur du problème.
+
+50
+00:03:25,000 --> 00:03:29,000
+Ce biais invisible fait vraiment des dégâts en classe.
+
+51
+00:03:29,000 --> 00:03:34,000
+En regardant ce graphique tiré directement de l'étude, les courbes parlent d'elles-mêmes.
+
+52
+00:03:34,000 --> 00:03:41,000
+À gauche, la courbe des garçons est pratiquement plate : le biais de l'enseignant ne les atteint pas du tout.
+
+53
+00:03:41,000 --> 00:03:44,000
+Mais si l'on regarde le panneau de droite, tout change.
+
+54
+00:03:44,000 --> 00:03:50,000
+La courbe des scores des filles s'effondre littéralement à mesure que le biais implicite de l'enseignant augmente.
+
+55
+00:03:50,000 --> 00:03:55,000
+C'est une image très forte, qui montre sans équivoque comment un environnement conditionné
+
+56
+00:03:55,000 --> 00:03:59,000
+modifie la réussite scolaire de façon totalement asymétrique.
+
+57
+00:03:59,000 --> 00:04:04,000
+Un tiers. Avoir un professeur de maths avec de forts biais implicites
+
+58
+00:04:04,000 --> 00:04:07,000
+creuse l'écart entre filles et garçons dans la matière d'un tiers.
+
+59
+00:04:07,000 --> 00:04:12,000
+On passe d'un léger écart initial à un véritable gouffre scolaire.
+
+60
+00:04:12,000 --> 00:04:16,000
+Et c'est un effet déclenché uniquement par la personne qui est au bureau du professeur,
+
+61
+00:04:16,000 --> 00:04:20,000
+sans aucun rapport avec les capacités réelles de départ des filles.
+
+62
+00:04:20,000 --> 00:04:21,000
+Incroyable, non ?
+
+63
+00:04:21,000 --> 00:04:24,000
+Il y a un détail qui rend le tout encore plus insidieux :
+
+64
+00:04:24,000 --> 00:04:26,000
+qui en paie le prix le plus élevé.
+
+65
+00:04:26,000 --> 00:04:30,000
+Les données nous disent que les élèves qui avaient déjà un peu de mal au départ
+
+66
+00:04:30,000 --> 00:04:32,000
+sont celles qui encaissent le coup le plus dur.
+
+67
+00:04:32,000 --> 00:04:36,000
+C'est l'effet de ce qu'on appelle la menace du stéréotype :
+
+68
+00:04:36,000 --> 00:04:39,000
+celle qui est déjà en difficulté et connaît la rumeur
+
+69
+00:04:39,000 --> 00:04:42,000
+selon laquelle les filles ne sont pas douées pour les maths
+
+70
+00:04:42,000 --> 00:04:45,000
+se retrouve avec une charge psychologique et cognitive énorme,
+
+71
+00:04:45,000 --> 00:04:49,000
+et cette peur inconsciente de confirmer le stéréotype finit tragiquement
+
+72
+00:04:49,000 --> 00:04:52,000
+par saboter complètement sa performance.
+
+73
+00:04:52,000 --> 00:04:54,000
+Des choix pour l'avenir.
+
+74
+00:04:54,000 --> 00:04:57,000
+Malheureusement, l'histoire ne s'arrête pas à un seul bulletin.
+
+75
+00:04:57,000 --> 00:05:00,000
+L'impact fait tache d'huile sur les choix futurs.
+
+76
+00:05:00,000 --> 00:05:03,000
+En observant les conseils d'orientation pour le lycée,
+
+77
+00:05:03,000 --> 00:05:06,000
+on voit comment les difficultés accumulées au collège
+
+78
+00:05:06,000 --> 00:05:08,000
+changent pour toujours les parcours scolaires.
+
+79
+00:05:08,000 --> 00:05:11,000
+Seules 13 % des filles reçoivent une recommandation
+
+80
+00:05:11,000 --> 00:05:13,000
+pour un lycée scientifique,
+
+81
+00:05:13,000 --> 00:05:15,000
+contre 18 % des garçons.
+
+82
+00:05:15,000 --> 00:05:18,000
+Au contraire, les filles sont souvent orientées
+
+83
+00:05:18,000 --> 00:05:19,000
+vers des lycées professionnels,
+
+84
+00:05:19,000 --> 00:05:21,000
+ou en tout cas moins tournés vers les chiffres,
+
+85
+00:05:21,000 --> 00:05:23,000
+même quand leurs capacités analytiques de base
+
+86
+00:05:23,000 --> 00:05:27,000
+étaient absolument identiques à celles de leurs camarades garçons.
+
+87
+00:05:27,000 --> 00:05:30,000
+C'est là que se déclenche un piège parfait.
+
+88
+00:05:30,000 --> 00:05:32,000
+Suivre des conseils subtilement biaisés
+
+89
+00:05:32,000 --> 00:05:35,000
+de la part de figures d'autorité comme les enseignants
+
+90
+00:05:35,000 --> 00:05:38,000
+pousse les filles vers des parcours scolaires bien moins ambitieux.
+
+91
+00:05:38,000 --> 00:05:41,000
+Cela devient littéralement une prophétie autoréalisatrice.
+
+92
+00:05:41,000 --> 00:05:44,000
+Moins de filles choisissent des matières scientifiques,
+
+93
+00:05:44,000 --> 00:05:46,000
+moins il y aura de femmes dans les domaines scientifiques à l'avenir,
+
+94
+00:05:46,000 --> 00:05:49,000
+ce qui renforce exactement le stéréotype initial
+
+95
+00:05:49,000 --> 00:05:51,000
+d'où tout ce désastre était parti.
+
+96
+00:05:51,000 --> 00:05:54,000
+Un véritable court-circuit social.
+
+97
+00:05:54,000 --> 00:05:56,000
+L'effondrement de la confiance.
+
+98
+00:05:56,000 --> 00:06:00,000
+Et nous arrivons à la dernière pièce, très délicate, de ce puzzle :
+
+99
+00:06:00,000 --> 00:06:02,000
+le coût psychologique.
+
+100
+00:06:02,000 --> 00:06:04,000
+Au-delà des notes et des filières,
+
+101
+00:06:04,000 --> 00:06:06,000
+que se passe-t-il dans la tête de ces élèves ?
+
+102
+00:06:06,000 --> 00:06:08,000
+Les questionnaires sont clairs.
+
+103
+00:06:08,000 --> 00:06:11,000
+Malgré des capacités de base tout à fait comparables,
+
+104
+00:06:11,000 --> 00:06:14,000
+les filles finissent par avoir 8 % de probabilité
+
+105
+00:06:14,000 --> 00:06:17,000
+en moins de se considérer bonnes en maths que les garçons.
+
+106
+00:06:17,000 --> 00:06:20,000
+L'exposition à des enseignants conditionnés par les préjugés
+
+107
+00:06:20,000 --> 00:06:23,000
+démolit activement leur confiance en elles.
+
+108
+00:06:23,000 --> 00:06:26,000
+Les maths cessent d'être un ensemble de règles logiques
+
+109
+00:06:26,000 --> 00:06:28,000
+et deviennent un territoire hostile,
+
+110
+00:06:28,000 --> 00:06:31,000
+où l'on ne se sent jamais à la hauteur.
+
+111
+00:06:31,000 --> 00:06:34,000
+Il y a une phrase de l'étude qui fait mouche
+
+112
+00:06:34,000 --> 00:06:36,000
+et résume tout parfaitement.
+
+113
+00:06:36,000 --> 00:06:39,000
+Les stéréotypes implicites créent une prophétie autoréalisatrice,
+
+114
+00:06:39,000 --> 00:06:41,000
+perpétuant les différences entre filles et garçons
+
+115
+00:06:41,000 --> 00:06:43,000
+dans les résultats en maths.
+
+116
+00:06:43,000 --> 00:06:45,000
+Ce n'est pas un manque de talent.
+
+117
+00:06:45,000 --> 00:06:48,000
+Aucune biologie inexorable n'est en jeu.
+
+118
+00:06:48,000 --> 00:06:51,000
+C'est bien plus simplement un environnement éducatif
+
+119
+00:06:51,000 --> 00:06:53,000
+qui, de façon totalement involontaire,
+
+120
+00:06:53,000 --> 00:06:55,000
+déclenche des autoévaluations négatives
+
+121
+00:06:55,000 --> 00:06:57,000
+chez la moitié de la population scolaire.
+
+122
+00:06:57,000 --> 00:06:59,000
+Au terme de cette enquête,
+
+123
+00:06:59,000 --> 00:07:02,000
+une vérité indéniable ressort, à garder en tête.
+
+124
+00:07:02,000 --> 00:07:04,000
+Le problème ne vient pas des élèves,
+
+125
+00:07:04,000 --> 00:07:06,000
+mais du système dans lequel ils sont plongés.
+
+126
+00:07:06,000 --> 00:07:08,000
+Face à des preuves aussi accablantes
+
+127
+00:07:08,000 --> 00:07:10,000
+du pouvoir des préjugés inconscients,
+
+128
+00:07:10,000 --> 00:07:12,000
+le défi devient systémique.
+
+129
+00:07:12,000 --> 00:07:14,000
+Alors, une réflexion essentielle s'impose,
+
+130
+00:07:14,000 --> 00:07:16,000
+une provocation, si l'on veut.
+
+131
+00:07:16,000 --> 00:07:19,000
+Comment former autrement ceux qui enseignent
+
+132
+00:07:19,000 --> 00:07:21,000
+pour briser une fois pour toutes cette prophétie
+
+133
+00:07:21,000 --> 00:07:22,000
+qui se réalise d'elle-même,
+
+134
+00:07:22,000 --> 00:07:24,000
+en garantissant que chaque esprit
+
+135
+00:07:24,000 --> 00:07:26,000
+ait une réelle chance d'exceller ?

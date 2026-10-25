@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:04,639
+Implicit stereotypes shape our choices without us knowing.
+
+2
+00:00:04,639 --> 00:00:09,279
+For years we've wondered why girls do worse in science subjects.
+
+3
+00:00:09,279 --> 00:00:14,759
+To find out, a study measured teachers' involuntary mental associations.
+
+4
+00:00:14,759 --> 00:00:19,240
+How? By timing, in milliseconds, a teacher's hesitation
+
+5
+00:00:19,240 --> 00:00:22,879
+when pairing math concepts with female names.
+
+6
+00:00:22,879 --> 00:00:24,679
+Now let's look at the data.
+
+7
+00:00:24,679 --> 00:00:28,400
+As the teacher's unconscious bias increases,
+
+8
+00:00:28,560 --> 00:00:33,280
+the boys' learning curve stays flat and perfectly stable.
+
+9
+00:00:33,280 --> 00:00:35,679
+You might think of grades lowered on purpose.
+
+10
+00:00:35,679 --> 00:00:40,560
+Instead, these tests are standardized and graded completely anonymously.
+
+11
+00:00:40,560 --> 00:00:42,760
+This is where the real damage shows.
+
+12
+00:00:42,760 --> 00:00:45,760
+In classes led by biased teachers,
+
+13
+00:00:45,760 --> 00:00:48,560
+the girls' curve plunges.
+
+14
+00:00:48,560 --> 00:00:51,480
+Female students absorb these low expectations,
+
+15
+00:00:51,480 --> 00:00:55,600
+convince themselves they're not cut out for it and give up on the subject.
+
+16
+00:00:55,719 --> 00:00:57,640
+It's a self-fulfilling prophecy,
+
+17
+00:00:57,640 --> 00:01:00,800
+recorded unmistakably by the numbers.
+
+18
+00:01:00,800 --> 00:01:05,040
+The exclusion of women from scientific careers doesn't start at university.
+
+19
+00:01:05,040 --> 00:01:08,960
+It starts with this invisible loss of confidence at middle-school desks.

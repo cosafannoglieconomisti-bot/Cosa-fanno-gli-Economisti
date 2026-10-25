@@ -1,527 +1,527 @@
 1
 00:00:00,000 --> 00:00:02,240
-Bienvenue dans cette nouvelle analyse.
+Benvenuti a questo nuovo approfondimento.
 
 2
 00:00:02,240 --> 00:00:06,400
-Aujourd'hui, nous abordons l'une de ces questions qui semblent simples mais qui cachent un monde
+Oggi affrontiamo una di quelle domande che sembrano semplici ma che nascondono un mondo
 
 3
 00:00:06,400 --> 00:00:07,400
-entier.
+intero.
 
 4
 00:00:07,400 --> 00:00:10,160
-Le populisme ruine-t-il vraiment les comptes ?
+Il populismo, rovina davvero i conti?
 
 5
 00:00:10,160 --> 00:00:14,000
-En somme, que se passe-t-il pour la machine de l'État et pour l'économie quand la rhétorique
+Cosa succede insomma alla macchina dello stato e all'economia quando la retorica
 
 6
 00:00:14,000 --> 00:00:17,719
-électorale se heurte littéralement à la réalité de tous les jours ?
+elettorale si scontra letteramente con la realtà di tutti i giorni?
 
 7
 00:00:17,719 --> 00:00:22,080
-Grâce aux données d'une étude économique rigoureuse, nous explorerons les effets mesurables
+Grazie ai dati di un rigoroso studio economico, andremo a esplorare gli effetti misurabili
 
 8
 00:00:22,080 --> 00:00:25,960
-de l'élection de maires aux agendas, pour ainsi dire, inconditionnels.
+dell'elezione di sindaci con agende per così dire incondizionate.
 
 9
 00:00:25,960 --> 00:00:30,800
-Aucune opinion politique ici, seulement des données en main pour comprendre les réelles retombées économiques
+Nessun'opinione politica qui, solo dati alla mano per capire le reali ricadute economiche
 
 10
 00:00:30,800 --> 00:00:31,800
-et bureaucratiques.
+e burocrattiche.
 
 11
 00:00:31,800 --> 00:00:32,799
-Commençons tout de suite.
+Partiamo subito.
 
 12
 00:00:32,799 --> 00:00:37,439
-Pour cadrer immédiatement de quoi nous parlons, partons d'un exemple concret.
+Per inquadrare il subito di cosa stiamo parlando, partiamo da un esempio concreto.
 
 13
 00:00:37,439 --> 00:00:43,799
-En 2018, Matteo Salvini écrivait, après avoir freiné les débarquements, mon plus grand engagement
+Nel 2018 Matteo Salvini scriveva, dopo aver fermato gli sbarchi, il mio più grande impegnore
 
 14
 00:00:43,799 --> 00:00:46,799
-c'est l'expulsion de ceux qui exigent, exigent, exigent.
+è per l'espulsione di chi pretende, pretende, pretende.
 
 15
 00:00:46,799 --> 00:00:47,799
-Je ne cède pas.
+Non mi arrendo.
 
 16
 00:00:47,799 --> 00:00:49,799
-Hashtag stop invasion.
+Ashtag stopp invasione.
 
 17
 00:00:49,799 --> 00:00:55,520
-Or, qu'on soit d'accord ou non, c'est l'exemple type d'une promesse catégorique,
+Ora, che si sia d'accordo o meno, questo è l'esempio da manuale di una promessa categorica,
 
 18
 00:00:55,520 --> 00:00:58,480
-un engagement net, sans si ni mais.
+un impegno netto, senza se e senza ma.
 
 19
 00:00:58,480 --> 00:01:03,200
-La grande question est de savoir ce qui arrive aux budgets et aux administrations publiques quand un pacte aussi
+La grande domanda è cosa succede ai bilanci e ai uffici pubblici quando un patto così
 
 20
 00:01:03,200 --> 00:01:07,000
-ferré doit ensuite se transformer en administration quotidienne.
+ferrio deve trasformarsi poi in amministrazione quotidiana.
 
 21
 00:01:07,000 --> 00:01:11,159
-Pour le découvrir, nous devons faire un petit pas en arrière et regarder l'ossature théorique
+Per scoprirlo, dobbiamo fare un piccolo passo indietro e guardare l'impalcatura teorica
 
 22
 00:01:11,159 --> 00:01:12,159
-de la recherche.
+della ricerca.
 
 23
 00:01:12,159 --> 00:01:18,079
-Nous le ferons de façon totalement neutre, en nous concentrant exclusivement sur la mécanique, c'est-à-dire sur
+Lo faremo in modo totalmente neutrale, concentrandoci esclusivamente sulla meccanica, ovvero su
 
 24
 00:01:18,079 --> 00:01:20,600
-la façon dont les promesses électorales deviennent des notions pratiques.
+come le promesse elettorali diventi nozioni pratiche.
 
 25
 00:01:21,320 --> 00:01:23,800
-Et voici un point absolument crucial.
+Ed ecco un punto assolutamente cruciale.
 
 26
 00:01:23,800 --> 00:01:27,800
-Dans cette analyse, le populisme n'est pas traité comme une idéologie de droite ou de
+In questa analisi il populismo non viene trattato come un'ideologia di destra o di
 
 27
 00:01:27,800 --> 00:01:28,800
-gauche.
+sinistra.
 
 28
 00:01:28,800 --> 00:01:32,760
-Il est plutôt encadré comme une stratégie politique précise.
+Piuttosto, è inquadrato come una precisa strategia politica.
 
 29
 00:01:32,760 --> 00:01:37,280
-En pratique, c'est l'offre d'engagements politiques simples et inconditionnels, très faciles à
+In pratica è l'offerta di impegni politici semplici e incondizionati, facilissimi da
 
 30
 00:01:37,280 --> 00:01:40,800
-surveiller pour les électeurs, surtout dans ces moments historiques où la confiance
+monitorare per chi vota, specialmente in quei momenti storici in cui la fiducia
 
 31
 00:01:40,800 --> 00:01:43,760
-dans les institutions traditionnelles s'effondre en piqué.
+nelle istituzioni tradizionali crolla picco.
 
 32
 00:01:43,760 --> 00:01:49,320
-Je le redis : aucun jugement moral ici, nous démontons seulement l'engrenage d'une promesse.
+Ribadisco nessun giudizio morale qui, stiamo solo smontando l'ingranaggio di una promessa.
 
 33
 00:01:49,320 --> 00:01:53,200
-Dans ce schéma, c'est vraiment éclairant car il met en regard deux mondes opposés.
+In questo schema è davvero illuminante perché mette a confronto due mondi opposti.
 
 34
 00:01:53,200 --> 00:01:55,840
-D'un côté, le modèle fiduciaire traditionnel.
+Da un lato il modello fiduciario tradizionale.
 
 35
 00:01:55,840 --> 00:01:59,880
-Ici, on récompense la compétence technique et celui qui gouverne a une marge pour s'adapter aux
+Qui si premia la competenza tecnica e chi gobierna a il margine per adattarsi agli
 
 36
 00:01:59,880 --> 00:02:00,880
-imprévus.
+imprevisti.
 
 37
 00:02:00,880 --> 00:02:04,960
-De l'autre, le modèle du délégué engagé, typique du populisme.
+Dall'altro lato il modello del delegato impegnato, tipico del populismo.
 
 38
 00:02:04,960 --> 00:02:09,200
-Ici, la priorité absolue est d'adhérer de façon inflexible au plan d'origine.
+Qui la priorità assoluta è ad erire in modo inflessibile al piano originale.
 
 39
 00:02:09,200 --> 00:02:14,360
-Et l'histoire nous apprend que quand la confiance s'effondre, les gens ne cherchent pas l'adaptabilité.
+E la storia ci insegna che quando la fiducia crolla le persone non cercano adattabilità.
 
 40
 00:02:14,360 --> 00:02:18,840
-Ils veulent justement le délégué engagé, quelqu'un qui va droit au but quoi qu'il en coûte.
+Vogliono proprio il delegato impegnato, qualcuno che ti ridritto costi quel che costi.
 
 41
 00:02:19,719 --> 00:02:22,719
-Bon, mais comment mesurons-nous tout cela de façon objective ?
+Ok, ma come misuriamo tutto questo in modo oggettivo?
 
 42
 00:02:22,719 --> 00:02:27,479
-Les chercheurs ont trouvé un fantastique laboratoire naturel, loin du chaos des élections
+I ricercatori hanno trovato un fantastico laboratorio naturale, lontano dal caos delle elezioni
 
 43
 00:02:27,479 --> 00:02:28,479
-nationales.
+nazionali.
 
 44
 00:02:28,479 --> 00:02:31,479
-Parfait pour tester cette théorie : les gouvernements locaux.
+Perfetto per testare questa teoria, i governi locali.
 
 45
 00:02:31,479 --> 00:02:34,639
-Et attention aux chiffres, car ils sont impressionnants.
+E attenzione ai numeri, perché sono impressionanti.
 
 46
 00:02:34,639 --> 00:02:40,159
-Les données couvrent pas moins de 8 000 communes italiennes, en suivant leur histoire administrative et économique
+I dati coprono ben 8.000 comuni italiani, seguendo la loro storia administrativa ed economica
 
 47
 00:02:40,159 --> 00:02:44,000
-pendant plus de vingt ans : une masse d'informations gigantesque.
+per oltre vent'anni, una mole di informazioni gigantesca.
 
 48
 00:02:44,000 --> 00:02:48,479
-C'est précisément cette échelle énorme qui nous garantit que les tendances que nous allons découvrir sont
+È proprio questa scala enorme a garantirci che le tendenze che stiamo per scoprire sono
 
 49
 00:02:48,479 --> 00:02:50,079
-solides et indéniables.
+solide e innegabili.
 
 50
 00:02:50,079 --> 00:02:54,919
-L'astuce mathématique utilisée ici s'appelle le design de régression discontinue.
+Il trucco matematico usato qui si chiama di segno di regressione di scontinua.
 
 51
 00:02:54,919 --> 00:03:00,439
-Pas de panique : le concept est simple, il sert à isoler l'impact réel du leader populiste.
+Agniente panico, il conciato è semplice, serve a isolare l'impatto reale del leader populista.
 
 52
 00:03:00,439 --> 00:03:04,599
-On prend les communes où ce candidat a gagné d'une poignée de voix et on les compare
+Si prendono i comuni dove questo candidato ha vinto per un pugno di voti e li si confronta
 
 53
 00:03:04,599 --> 00:03:06,839
-à celles où il a perdu d'un souffle.
+con quelli dove è aperso per un soffio.
 
 54
 00:03:06,839 --> 00:03:12,479
-En comparant victoires et défaites décidées littéralement au photofinish, on obtient des villes statistiquement
+Confrontando vittori e sconfitte decise letteralmente al fotofinish, otteniamo città statisticamente
 
 55
 00:03:12,479 --> 00:03:13,479
-presque jumelles.
+quasi gemelle.
 
 56
 00:03:13,479 --> 00:03:17,479
-La seule vraie différence : le type d'exécutif venant d'être installé.
+L'unica vera differenza, il tipo di giunta appena insediata.
 
 57
 00:03:17,640 --> 00:03:21,640
-Et maintenant, entrons dans le vif avec la première série de résultats concrets.
+E ora entriamo nel vivo con la prima serie di risultati concreti.
 
 58
 00:03:21,640 --> 00:03:26,000
-Parlons du vrai moteur de toute administration : les comptes et les budgets.
+Parliamo del vero motore di ogni amministrazione, i conti e i bilanci.
 
 59
 00:03:26,000 --> 00:03:31,080
-Que se passe-t-il quand l'intransigeance de la promesse se heurte à la comptabilité réelle ?
+Cosa succede quando l'intransigenza della promessa sbatte contro la contabilità reale?
 
 60
 00:03:31,080 --> 00:03:35,160
-En jetant un œil à ces graphiques économiques, un détail saute immédiatement aux yeux.
+Dando uno chiata a questi grafici economici, c'è un dettaglio che salta subito al occhio.
 
 61
 00:03:35,160 --> 00:03:37,760
-Vous voyez cette ligne verticale en pointillés sur le 0 ?
+Vedete quella linea verticale trateggiata sullo 0?
 
 62
 00:03:37,760 --> 00:03:41,560
-C'est l'exact moment de la victoire, la marge 0.
+Quello è l'esatto momento della vittoria, il margine 0.
 
 63
 00:03:41,560 --> 00:03:46,120
-Regardez comme les lignes des données font littéralement un saut pile sur ce seuil.
+Guardate come le linea e dei dati facciano letteralmente un balzo proprio su quella soglia.
 
 64
 00:03:46,120 --> 00:03:51,280
-Ce saut visuel, net et sans équivoque, est la transformation directe causée par la nouvelle
+Quell'salto visivo, netto e inequivocabile, è la trasformazione diretta causata dalla nuova
 
 65
 00:03:51,280 --> 00:03:52,280
-administration.
+amministrazione.
 
 66
 00:03:52,280 --> 00:03:57,439
-En traduisant ces sauts en chiffres, les conséquences financières ne laissent aucune place au doute.
+Traducendo quei salti in numeri, le conseguenze finanziarie non lasciano spazio a dubbi.
 
 67
 00:03:57,439 --> 00:04:01,120
-Tout d'abord, on observe un remboursement moindre des dettes passées.
+Prima di tutto, si nota un rinborso inferiore dei debiti passati.
 
 68
 00:04:01,120 --> 00:04:06,240
-Plus surprenant encore, une hausse de 5,3 points de pourcentage des marchés publics
+Ancora più sorprendente, è un aumento di 5,3 punti percentuali degli appalti pubblici
 
 69
 00:04:06,240 --> 00:04:08,520
-qui finissent par dépasser les coûts prévus.
+che finiscono per sforare i costi previsti.
 
 70
 00:04:08,520 --> 00:04:11,840
-Et pour finir, on accumule plus de dette municipale en général.
+E per finire, si accumula più debito cittadino in generale.
 
 71
 00:04:11,840 --> 00:04:13,240
-Le point est celui-ci.
+Il punto è questo.
 
 72
 00:04:13,240 --> 00:04:18,120
-Si tu cherches à mener un engagement en ignorant les garde-fous financiers normaux, tu crées des inefficacités
+Se cerchi di portare avanti un impegno, ignorando i normali paletti finanziari, crea inefficenze
 
 73
 00:04:18,120 --> 00:04:19,120
-lourdes dans le budget.
+pesanti nel bilancio.
 
 74
 00:04:19,120 --> 00:04:20,120
-C'est mathématique.
+È matematico.
 
 75
 00:04:20,120 --> 00:04:24,480
-Mais les budgets, nous le savons bien, ne s'écrivent pas tout seuls.
+Ma i bilanci lo sappiamo bene, non si scrivono da soli.
 
 76
 00:04:24,480 --> 00:04:27,960
-Il y a toute une machine organisationnelle derrière, faite de personnes.
+C'è tutta una macchina organizzativa dietro fatta di persone.
 
 77
 00:04:27,960 --> 00:04:31,280
-Passons donc au deuxième grand chapitre de cette étude.
+Passiamo quindi al secondo grande capitolo di questo studio.
 
 78
 00:04:31,280 --> 00:04:33,079
-L'impact sur la bureaucratie.
+L'impatto sull'aburo crazia.
 
 79
 00:04:33,079 --> 00:04:37,720
-En revenant à nos graphiques, en nous concentrant sur les deux derniers panneaux, ceux du capital
+Tornando ai nostri grafici, espostandoci sull'ultimi due ricquadri, quelli sul capitale
 
 80
 00:04:37,720 --> 00:04:41,800
-humain, les sauts près de la ligne 0 sont tout aussi vertigineux.
+umano, i salti in prossimità della linea 0 sono altrettanto vertiginosi.
 
 81
 00:04:42,319 --> 00:04:46,920
-Ici, nous voyons se matérialiser le choc titanesque entre l'agenda inconditionnel de la nouvelle direction
+Qui vediamo materializzarsi lo scontrotitanico tra la agenda incondizionata della nuova guida
 
 82
 00:04:46,920 --> 00:04:49,720
-politique et l'appareil des techniciens experts.
+politica e l'apparato dei tecnici esperti.
 
 83
 00:04:49,720 --> 00:04:52,720
-Et les dynamiques internes sont stupéfiantes.
+E le dinamiche interne sono sballorditive.
 
 84
 00:04:52,720 --> 00:04:58,680
-Le turnover, c'est-à-dire le renouvellement des cadres dirigeants, grimpe de 50 %.
+Il turnover, ovvero il ricambio dei dirigenti divertice, schizza in alto del 50%.
 
 85
 00:04:58,680 --> 00:05:03,720
-Pendant ce temps, il y a une baisse nette de 5,0 points de pourcentage de managers titulaires d'un diplôme
+Nel frattempo, c'è un calo secco di 5,0 punti percentuali di manager con un titolo di
 
 86
 00:05:03,720 --> 00:05:04,720
-d'études de troisième cycle.
+studio post-laurea.
 
 87
 00:05:04,720 --> 00:05:08,920
-En peu de mots, les compétences sont littéralement démantelées.
+In poche parole, le competenze vengono letteralmente smantellate.
 
 88
 00:05:08,920 --> 00:05:13,160
-Les fonctionnaires experts, ceux qui peut-être lèvent la main en disant : attention, cette
+I funzionari esperti, quelli che magari alzano la mano dicendo, guardate che questa
 
 89
 00:05:13,160 --> 00:05:17,920
-politique n'est pas faisable, sont remplacés par un personnel moins formé, mais probablement
+politica non è fatibile, vengono rimpiazzati da personale meno formato, ma probabilmente
 
 90
 00:05:17,920 --> 00:05:19,920
-jugé plus obéissant.
+ritenuto più obbediente.
 
 91
 00:05:19,920 --> 00:05:24,040
-À ce stade, la vraie question d'enquête surgit spontanément.
+Arrivati a questo punto via nel spontaneo, farsi la vera domanda investigativa.
 
 92
 00:05:24,040 --> 00:05:28,480
-Tous ces super-experts partent-ils de leur plein gré, peut-être parce qu'ils refusent
+Tutti questi superesperti se ne vanno di loro spontanea a volontà, magari perché rifiutano
 
 93
 00:05:28,480 --> 00:05:34,879
-la nouvelle ligne politique, ou sont-ils accompagnés, pour ainsi dire, jusqu'à la porte ?
+la nuova linea politica, o vengono proprio accompagnati, si fa perdire, alla porta?
 
 94
 00:05:34,879 --> 00:05:38,680
-Ce graphique répond à la question en offrant la preuve peut-être la plus fascinante de toute
+Questo grafico risponde alla domanda offrendo la prova forse più affascinante di tutto
 
 95
 00:05:38,680 --> 00:05:39,680
-l'étude.
+lo studio.
 
 96
 00:05:39,680 --> 00:05:44,079
-La barre qui représente les démissions volontaires reste immobile, plate sur la ligne
+Il palino che rappresenta le dimissioni volontari è se ne stali immobile, piatto sulla linea
 
 97
 00:05:44,079 --> 00:05:45,079
-du zéro.
+dell'OZero.
 
 98
 00:05:45,079 --> 00:05:50,319
-En revanche, l'indicateur des départs forcés fait un bond impressionnant vers la droite,
+Invece, l'indicatore delle partenze forzate fa un balzo impressionante verso destra,
 
 99
 00:05:50,319 --> 00:05:53,079
-une hausse nette et indéniable des destitutions.
+un aumento netto e innegabile delle stromissioni.
 
 100
 00:05:53,079 --> 00:05:56,840
-La conclusion est forte, même très forte.
+La conclusione è forte, anzi fortissima.
 
 101
 00:05:56,840 --> 00:06:02,800
-Aucun exode volontaire, aucune crise de conscience de masse : les données nous disent clairement
+Nessun esodo volontario, nessuna crisi di coscienza di massa, i dati ci dicono chiaramente
 
 102
 00:06:02,800 --> 00:06:07,480
-que la sortie de scène des managers publics les plus qualifiés est provoquée activement, de façon
+che l'uscita di scena dei manager pubblici più qualificati è provocata attivamente, in modo
 
 103
 00:06:07,480 --> 00:06:09,640
-forcée, par les maires nouvellement élus.
+forzato, dai sindaci neo-eletti.
 
 104
 00:06:09,640 --> 00:06:14,800
-C'est une stratégie calculée pour contenir la soi-disant résistance technique et aller droit
+È una strategia calcolata per arginare la cosiddetta resistenza tecnica e tirare dritto
 
 105
 00:06:14,800 --> 00:06:15,800
-avec leurs propres plans.
+con i propri piani.
 
 106
 00:06:15,800 --> 00:06:18,920
-Et voilà que le puzzle prend forme.
+Ed ecco che il puzzle prende forma.
 
 107
 00:06:18,920 --> 00:06:23,240
-Relions la dégradation des finances locales à cette véritable épuration bureaucratique
+Uniamo il peggioramento delle finanze locali, con questa vera e propria eppurazione buro
 
 108
 00:06:23,240 --> 00:06:25,560
-et tirons le bilan.
+cratica, e andiamo a tirare le somme.
 
 109
 00:06:25,560 --> 00:06:27,480
-Voici le bilan final de tout cela.
+Quella è il bilancio finale di tutto questo.
 
 110
 00:06:27,480 --> 00:06:30,960
-Le cœur du conflit est parfaitement résumé ici.
+Il cuore del conflitto è riassunto perfettamente qui.
 
 111
 00:06:30,960 --> 00:06:36,120
-D'un côté, les bureaucrates experts qui posent des doutes sensés et soulignent des limites normatives
+Da una parte i burocrati esperti che pongono dubbi sensati e evidenziano limiti normativi
 
 112
 00:06:36,120 --> 00:06:37,120
-ou un manque de fonds.
+o mancanza di fondi.
 
 113
 00:06:37,519 --> 00:06:42,040
-De l'autre, les bureaucrates non experts, souvent placés ensuite, qui exécutent tête baissée les
+Dall'altra, i burocrati non esperti, spesso inseriti dopo, che eseguono a testa bassa le
 
 114
 00:06:42,040 --> 00:06:44,639
-promesses faites sans soulever la moindre objection.
+promesse fatte senza sollevare la minima obiezione.
 
 115
 00:06:44,639 --> 00:06:49,439
-C'est précisément cette fracture qui disperse le talent administratif et mène droit aux trous
+È proprio questa spaccatura che disperda il talento administrative o importa dritti ai buchi
 
 116
 00:06:49,439 --> 00:06:50,439
-budgétaires.
+di bilancio.
 
 117
 00:06:50,439 --> 00:06:55,399
-Au bout du compte, ce sont les deux faces de la même médaille : l'effondrement des performances
+Alla fine della fiera sono le due facce della stessa metallia, il crollo delle prestazioni
 
 118
 00:06:55,399 --> 00:07:00,160
-économiques d'un côté et la destruction d'une solide administration technique de l'autre
+economiche da una parte e la distruzione di una solida amministrazione tecnica dall'altra
 
 119
 00:07:00,160 --> 00:07:02,120
-avancent ensemble, main dans la main.
+viaggiano insieme, mano nella mano.
 
 120
 00:07:02,680 --> 00:07:03,680
-Voilà.
+Sono questo.
 
 121
 00:07:03,680 --> 00:07:08,199
-Chiffres en main, le vrai prix tangible à payer pour avoir promis et mis en œuvre des engagements
+Numeri alla mano, il vero prezzo tangibile da pagare per aver promesso attuato in pegni
 
 122
 00:07:08,199 --> 00:07:12,000
-inconditionnels — il y a ceux qui refusent toute forme de compromis.
+incondizionati, c'è chi esordi a qualsiasi forma di compromesso.
 
 123
 00:07:12,000 --> 00:07:17,399
-À la lumière de ces données sans équivoque émerge une réflexion qui, je crois, nous touche tous
+Alla luce di questi dati inequivocabili emerge una riflessione che credo tocchi tutti noi
 
 124
 00:07:17,399 --> 00:07:18,399
-de près.
+da vicino.
 
 125
 00:07:18,399 --> 00:07:20,199
-Comment maintenir l'équilibre ?
+Come si fa mantenere l'equilibrio?
 
 126
 00:07:20,199 --> 00:07:25,040
-Comment répondre de façon démocratique à un électorat profondément méfiant,
+Come possiamo rispondere in modo democratico a un elettorato profondamente sfiduciato,
 
 127
 00:07:25,040 --> 00:07:27,840
-qui exige des actions décidées et sans nuances ?
+che pretendi azioni decise e senza sfumature?
 
 128
 00:07:27,840 --> 00:07:32,720
-Tout en réussissant à protéger ces compétences techniques fondamentales pour éviter que l'ossature
+Riuscendo però a proteggere quelle competenze tecniche fondamentali per evitare che l'impalcatura
 
 129
 00:07:32,720 --> 00:07:34,120
-de l'État ne s'effondre sur nous.
+dello stato cichrolli addosso.
 
 130
 00:07:34,120 --> 00:07:37,520
-C'est un défi tout à fait ouvert, sur l'art de gouverner.
+È una spida apertissima, sull'arte del governare.
 
 131
 00:07:37,520 --> 00:07:39,040
-Et je le laisse ici.
+E la lascio qui.
 
 132
 00:07:39,040 --> 00:07:40,520
-Comme point de départ sur lequel continuer à réfléchir.
+Come spunto su qui continuare a riuscire.

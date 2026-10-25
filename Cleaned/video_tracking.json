@@ -170,6 +170,27 @@
         "status": "Pulito",
         "playlist": "Economia Politica e Istituzioni"
     },
+    "Edilizia_e_migranti_cosi_la_mafia_sale_al_Nord": {
+        "youtube_id": "08y54n2Fyvo",
+        "youtube_url": "https://www.youtube.com/watch?v=08y54n2Fyvo",
+        "facebook_url": "Sospeso",
+        "instagram_url": "Postato (Foto)",
+        "facebook_cover_status": "Sospeso",
+        "playlist": "Economia del Crimine e Mafie",
+        "shorts": [
+            {
+                "id": "Lj-Uwgd9Vvk",
+                "youtube_url": "https://youtube.com/shorts/Lj-Uwgd9Vvk",
+                "angle": "1",
+                "status": "Uploaded",
+                "ig_reel_url": "Programmato (Reel)",
+                "local_path": "/Users/<USER>/Desktop/canale/Cleaned/Edilizia_e_migranti_cosi_la_mafia_sale_al_Nord/Edilizia_e_migranti_cosi_la_mafia_sale_al_Nord_short1_cleaned.mp4",
+                "updated": "2026-10-16T10:58:17.702721"
+            }
+        ],
+        "last_updated": "2026-10-16T10:58:17.702726",
+        "status": "Pulito"
+    },
     "Espellere_gli_immigrati_riduce_la_criminalita": {
         "youtube_id": "lUsIyyxiNpM",
         "youtube_url": "https://www.youtube.com/watch?v=lUsIyyxiNpM",
@@ -1025,6 +1046,27 @@
         "playlist": "Economia Pubblica, Welfare e Demografia",
         "status": "Pulito",
         "last_updated": "2026-05-20T11:56:00.000000"
+    },
+    "Quando_arriva_la_crisi_i_ricchi_scappano": {
+        "youtube_id": "dwq5m9xM428",
+        "youtube_url": "https://www.youtube.com/watch?v=dwq5m9xM428",
+        "facebook_url": "Sospeso",
+        "instagram_url": "Postato (Foto)",
+        "facebook_cover_status": "Sospeso",
+        "playlist": "Economia Politica e Istituzioni",
+        "shorts": [
+            {
+                "id": "1ameN5rywMk",
+                "youtube_url": "https://youtube.com/shorts/1ameN5rywMk",
+                "angle": "1",
+                "status": "Uploaded",
+                "ig_reel_url": "Programmato (Reel)",
+                "local_path": "/Users/<USER>/Desktop/canale/Cleaned/Quando_arriva_la_crisi_i_ricchi_scappano/Quando_arriva_la_crisi_i_ricchi_scappano_short1_cleaned.mp4",
+                "updated": "2026-10-21T15:01:34.125166"
+            }
+        ],
+        "last_updated": "2026-10-21T15:01:55.579057",
+        "status": "Pulito"
     },
     "Quando_la_Chiesa_fermo_l_Italia": {
         "youtube_id": "F5iW5cpbbdw",

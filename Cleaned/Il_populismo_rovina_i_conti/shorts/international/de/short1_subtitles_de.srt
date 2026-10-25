@@ -1,52 +1,51 @@
 1
 00:00:00,000 --> 00:00:05,000
-L'elezione di un sindaco populista fa esploder il debito locale, ma perché succede?
+Die Wahl eines populistischen Bürgermeisters lässt die lokale Schuld explodieren — aber warum?
 
 2
 00:00:05,000 --> 00:00:10,000
-I dati su 8.000 comuni italiani svelano il meccanismo. Il problema non è l'ideologia,
+Daten zu 8.000 italienischen Gemeinden enthüllen den Mechanismus. Das Problem ist nicht die Ideologie,
 
 3
 00:00:10,000 --> 00:00:13,000
-ma l'obbligo di mantenere promesse impossibili.
+sondern die Pflicht, unmögliche Versprechen zu halten.
 
 4
 00:00:13,000 --> 00:00:17,000
-Immaginiamo un municipio. Il nuovo sindaco pretende di finanziare subito
+Stellen wir uns ein Rathaus vor. Der neue Bürgermeister will sofort
 
 5
 00:00:17,000 --> 00:00:21,000
-alla sua campagna elettorale, scavalkando completamente la realtà economica
+die Versprechen seines Wahlkampfs finanzieren und ignoriert völlig die wirtschaftliche Realität
 
 6
 00:00:21,000 --> 00:00:24,000
-delle case comunali. Qui scatte il blocco.
+der Stadtkasse. Hier greift die Blockade.
 
 7
 00:00:24,000 --> 00:00:28,000
-I dirigenti tecnici valuta nel bilancio e fermano la spesa.
+Technische Führungskräfte prüfen den Haushalt und stoppen die Ausgaben.
 
 8
 00:00:28,000 --> 00:00:33,000
-Non potendo ammettere l'errore con gli elettori, il sindaco agira lo stacolo.
+Weil er den Fehler den Wählern nicht eingestehen kann, räumt der Bürgermeister das Hindernis beiseite.
 
 9
 00:00:33,000 --> 00:00:39,000
-Forza le dimissioni dei tecnici esperti e li sostituisce con personale meno qualificato ma obbediente.
+Er erzwingt den Rücktritt erfahrener Fachleute und ersetzt sie durch weniger qualifiziertes, aber gehorsames Personal.
 
 10
 00:00:39,000 --> 00:00:44,000
-Senza più competenze a fare da filtro, la macchina ministrativa deraglia.
+Ohne Kompetenz als Filter entgleist die Verwaltungsmaschine.
 
 11
 00:00:44,000 --> 00:00:49,000
-La capacità di ripagare i debiti crolla e i costi degli appalti schizzano alle stelle.
+Die Fähigkeit, Schulden zurückzuzahlen, bricht ein und die Auftragskosten schießen in die Höhe.
 
 12
 00:00:49,000 --> 00:00:53,000
-Così, per poter sbandierare il completamento di un singolo sloga nellettorale,
+So verbrennt die Verwaltung, um die Erfüllung eines einzigen Wahlkampfslogans vorzeigen zu können,
 
 13
 00:00:53,000 --> 00:00:59,000
-la ministrazione bruce suetalenti migliori e la 6 cittadini il conto salato del del.
-
+ihr bestes Talent und hinterlässt den Bürgern eine salzige Rechnung.

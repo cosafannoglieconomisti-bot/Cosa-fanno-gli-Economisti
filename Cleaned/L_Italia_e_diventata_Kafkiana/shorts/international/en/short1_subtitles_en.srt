@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:05,919
+Italy has a Kafkaesque bureaucracy, but the real culprit is not the lazy clerk.
+
+2
+00:00:05,919 --> 00:00:11,599
+The real short circuit begins in Parliament, when governments last too little.
+
+3
+00:00:11,599 --> 00:00:17,559
+Think of a Second Republic politician: with elections at the door, he must simulate activism,
+
+4
+00:00:17,559 --> 00:00:22,160
+so he hastily passes dozens of complex, poorly written reforms.
+
+5
+00:00:22,160 --> 00:00:27,560
+This avalanche of rules overwhelms public offices, paralyzing the public administration.
+
+6
+00:00:28,040 --> 00:00:32,880
+But for the politician this paralysis becomes a perfect shield,
+
+7
+00:00:32,880 --> 00:00:37,240
+because it delays the moment when citizens will discover the flaws in the law.
+
+8
+00:00:37,240 --> 00:00:39,200
+The paradox is fierce.
+
+9
+00:00:39,200 --> 00:00:45,640
+Thanks to bureaucratic slowness, incompetent rulers are incentivized to churn out junk laws.
+
+10
+00:00:45,640 --> 00:00:50,840
+They cash in consensus today, before the system reveals their failure tomorrow.
+
+11
+00:00:50,840 --> 00:00:54,600
+Economists call it a Kafkaesque steady state.
+
+12
+00:00:54,640 --> 00:00:59,960
+Inefficiency drives the passage of new laws that multiply inefficiency.
+
+13
+00:00:59,960 --> 00:01:03,560
+A vicious circle in which politics saves itself by locking up the country.
+
+14
+00:01:03,560 --> 00:01:08,280
+That is why the perennial instability of the Second Republic has turned the Italian state
+
+15
+00:01:08,280 --> 00:01:10,760
+into today's inextricable labyrinth.
+

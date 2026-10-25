@@ -1,0 +1,539 @@
+1
+00:00:00,000 --> 00:00:02,000
+Alright, let's get straight to the point.
+
+2
+00:00:02,000 --> 00:00:08,000
+Today we explore a mystery that has literally haunted classrooms for entire generations.
+
+3
+00:00:08,000 --> 00:00:12,000
+The title of the education economics study we're analyzing asks a pretty tough question.
+
+4
+00:00:12,000 --> 00:00:14,000
+Is math a boys' thing?
+
+5
+00:00:14,000 --> 00:00:20,000
+It's an incredibly rigorous piece of research by Michela Carlana, digging into data from Italian middle schools.
+
+6
+00:00:20,000 --> 00:00:24,000
+The goal: to understand why, despite decades of battles for equality,
+
+7
+00:00:24,000 --> 00:00:29,000
+we still carry a persistent and almost inexplicable gap in math performance
+
+8
+00:00:29,000 --> 00:00:33,000
+between male and female students. A real puzzle.
+
+9
+00:00:33,000 --> 00:00:40,000
+At this point you have to ask: is this gap pure biology or a gigantic cultural illusion?
+
+10
+00:00:40,000 --> 00:00:44,000
+For years people debated whether brains work differently.
+
+11
+00:00:44,000 --> 00:00:46,000
+But here's the twist.
+
+12
+00:00:46,000 --> 00:00:49,000
+International data give us a huge clue.
+
+13
+00:00:49,000 --> 00:00:56,000
+In cultures where gender stereotypes are weaker, this math gap shrinks, and not by a little.
+
+14
+00:00:56,000 --> 00:01:03,000
+This instantly shifts suspicion from genetics to culture, and in particular to the environment where we learn every day.
+
+15
+00:01:03,000 --> 00:01:06,000
+And this is where we run into a crazy paradox.
+
+16
+00:01:06,000 --> 00:01:10,000
+If we look at overall school performance, girls are doing great.
+
+17
+00:01:10,000 --> 00:01:14,000
+They often get excellent results in almost every subject in middle school.
+
+18
+00:01:14,000 --> 00:01:19,000
+And yet, almost mysteriously, when it comes to math, they slow down.
+
+19
+00:01:19,000 --> 00:01:21,000
+They start falling behind.
+
+20
+00:01:21,000 --> 00:01:30,000
+This huge mismatch between brilliant school success and struggle in a single subject is the exact starting point of this data investigation.
+
+21
+00:01:30,000 --> 00:01:32,000
+The math gap.
+
+22
+00:01:32,000 --> 00:01:38,000
+To grasp the scale of the phenomenon, let's look at standardized tests in Italian middle schools.
+
+23
+00:01:38,000 --> 00:01:40,000
+A number emerges that makes you think.
+
+24
+00:01:40,000 --> 00:01:42,000
+0.18.
+
+25
+00:01:42,000 --> 00:01:50,000
+By the end of middle school, girls have fallen 0.18 standard deviations behind boys, precisely on math tests.
+
+26
+00:01:50,000 --> 00:01:54,000
+And be careful: we're not talking about isolated cases or hallway anecdotes.
+
+27
+00:01:54,000 --> 00:01:59,000
+We're talking about a clear, measurable and statistically unmistakable gap,
+
+28
+00:01:59,000 --> 00:02:02,000
+based on thousands of results nationwide.
+
+29
+00:02:02,000 --> 00:02:05,000
+Measuring implicit bias.
+
+30
+00:02:05,000 --> 00:02:07,000
+So where does this gap come from?
+
+31
+00:02:07,000 --> 00:02:13,000
+The study shines the spotlight on a very particular suspect: teachers' unconscious biases.
+
+32
+00:02:13,000 --> 00:02:15,000
+Let's say it right away, to avoid any misunderstanding.
+
+33
+00:02:15,000 --> 00:02:18,000
+We're not talking about deliberate discrimination.
+
+34
+00:02:18,000 --> 00:02:19,000
+Absolutely not.
+
+35
+00:02:19,000 --> 00:02:24,000
+We're talking about deeply rooted and completely unconscious mental associations.
+
+36
+00:02:24,000 --> 00:02:30,000
+To measure something so invisible, the researchers use the Implicit Association Test, known as the IAT.
+
+37
+00:02:30,000 --> 00:02:34,000
+It's a psychological tool that literally measures reaction times.
+
+38
+00:02:34,000 --> 00:02:39,000
+In practice, in front of a screen, teachers are asked to pair male or female names
+
+39
+00:02:39,000 --> 00:02:41,000
+with scientific or humanistic concepts.
+
+40
+00:02:41,000 --> 00:02:48,000
+The trick is that the brain responds much faster when it has to categorize concepts that are already closely linked in the mind.
+
+41
+00:02:48,000 --> 00:02:50,000
+And the results?
+
+42
+00:02:50,000 --> 00:02:52,000
+Absolutely illuminating.
+
+43
+00:02:52,000 --> 00:03:00,000
+The data show that many teachers unconsciously, and much faster, associate math with boys and literature with girls.
+
+44
+00:03:00,000 --> 00:03:04,000
+But the crazy thing is the gap between what they think and what the test reveals.
+
+45
+00:03:04,000 --> 00:03:09,000
+When asked explicitly, almost all teachers flatly deny any gender bias,
+
+46
+00:03:09,000 --> 00:03:12,000
+and clearly they do so in complete good faith.
+
+47
+00:03:12,000 --> 00:03:20,000
+Yet the milliseconds recorded by the test reveal that mental constructs dictated by society are constantly at work beneath the surface.
+
+48
+00:03:20,000 --> 00:03:22,000
+The impact on female students.
+
+49
+00:03:22,000 --> 00:03:25,000
+And here we are at the heart of the matter.
+
+50
+00:03:25,000 --> 00:03:29,000
+This invisible bias really does damage in the classroom.
+
+51
+00:03:29,000 --> 00:03:34,000
+Looking at this graph taken straight from the study, the lines speak for themselves.
+
+52
+00:03:34,000 --> 00:03:41,000
+On the left, the boys' line is practically flat: the teacher's bias doesn't affect them at all.
+
+53
+00:03:41,000 --> 00:03:44,000
+But if we look at the right panel, everything changes.
+
+54
+00:03:44,000 --> 00:03:50,000
+The girls' score line takes a real plunge as the teacher's implicit bias increases.
+
+55
+00:03:50,000 --> 00:03:55,000
+It's a very powerful image, showing unmistakably how a biased environment
+
+56
+00:03:55,000 --> 00:03:59,000
+alters school success in a completely asymmetric way.
+
+57
+00:03:59,000 --> 00:04:04,000
+One third. Having a math teacher with strong implicit biases
+
+58
+00:04:04,000 --> 00:04:07,000
+widens the gender gap in the subject by a full third.
+
+59
+00:04:07,000 --> 00:04:12,000
+We go from a slight initial discrepancy to a real academic chasm.
+
+60
+00:04:12,000 --> 00:04:16,000
+And it's an effect triggered solely by whoever sits at the teacher's desk,
+
+61
+00:04:16,000 --> 00:04:20,000
+with nothing to do with the girls' actual starting abilities.
+
+62
+00:04:20,000 --> 00:04:21,000
+Incredible, right?
+
+63
+00:04:21,000 --> 00:04:24,000
+There's a detail that makes it all even more insidious,
+
+64
+00:04:24,000 --> 00:04:26,000
+namely who pays the highest price.
+
+65
+00:04:26,000 --> 00:04:30,000
+The data tell us that the girls who were already struggling a bit at the start
+
+66
+00:04:30,000 --> 00:04:32,000
+are the ones who take the hardest hit.
+
+67
+00:04:32,000 --> 00:04:36,000
+It's the effect of so-called stereotype threat:
+
+68
+00:04:36,000 --> 00:04:39,000
+those who are already struggling and are aware of the rumor
+
+69
+00:04:39,000 --> 00:04:42,000
+that girls aren't cut out for math
+
+70
+00:04:42,000 --> 00:04:45,000
+end up with a huge psychological and cognitive burden,
+
+71
+00:04:45,000 --> 00:04:49,000
+and that unconscious fear of confirming the stereotype tragically ends up
+
+72
+00:04:49,000 --> 00:04:52,000
+completely sabotaging their performance.
+
+73
+00:04:52,000 --> 00:04:54,000
+Choices for the future.
+
+74
+00:04:54,000 --> 00:04:57,000
+Unfortunately, the story doesn't end with a single report card.
+
+75
+00:04:57,000 --> 00:05:00,000
+The impact spreads like wildfire to future choices.
+
+76
+00:05:00,000 --> 00:05:03,000
+Looking at the guidance recommendations for high school,
+
+77
+00:05:03,000 --> 00:05:06,000
+we see how the difficulties built up in middle school
+
+78
+00:05:06,000 --> 00:05:08,000
+change academic trajectories forever.
+
+79
+00:05:08,000 --> 00:05:11,000
+Only 13% of girls receive a recommendation
+
+80
+00:05:11,000 --> 00:05:13,000
+for a scientific high school,
+
+81
+00:05:13,000 --> 00:05:15,000
+compared with 18% of boys.
+
+82
+00:05:15,000 --> 00:05:18,000
+Instead, girls are often steered
+
+83
+00:05:18,000 --> 00:05:19,000
+towards vocational schools,
+
+84
+00:05:19,000 --> 00:05:21,000
+or in any case ones less focused on numbers,
+
+85
+00:05:21,000 --> 00:05:23,000
+even when their basic analytical skills
+
+86
+00:05:23,000 --> 00:05:27,000
+were absolutely identical to those of their male classmates.
+
+87
+00:05:27,000 --> 00:05:30,000
+This is where a perfect trap is triggered.
+
+88
+00:05:30,000 --> 00:05:32,000
+Following subtly biased advice
+
+89
+00:05:32,000 --> 00:05:35,000
+from authority figures like teachers
+
+90
+00:05:35,000 --> 00:05:38,000
+pushes girls towards much less ambitious educational paths.
+
+91
+00:05:38,000 --> 00:05:41,000
+It literally becomes a self-fulfilling prophecy.
+
+92
+00:05:41,000 --> 00:05:44,000
+Fewer girls choose science subjects,
+
+93
+00:05:44,000 --> 00:05:46,000
+fewer women there will be in scientific fields in the future,
+
+94
+00:05:46,000 --> 00:05:49,000
+reinforcing exactly that initial stereotype
+
+95
+00:05:49,000 --> 00:05:51,000
+from which the whole disaster started.
+
+96
+00:05:51,000 --> 00:05:54,000
+A real social short circuit.
+
+97
+00:05:54,000 --> 00:05:56,000
+The collapse of confidence.
+
+98
+00:05:56,000 --> 00:06:00,000
+And we come to the last, very delicate piece of this puzzle:
+
+99
+00:06:00,000 --> 00:06:02,000
+the psychological cost.
+
+100
+00:06:02,000 --> 00:06:04,000
+Beyond grades and school tracks,
+
+101
+00:06:04,000 --> 00:06:06,000
+what happens in the minds of these girls?
+
+102
+00:06:06,000 --> 00:06:08,000
+The questionnaires are clear.
+
+103
+00:06:08,000 --> 00:06:11,000
+Despite fully comparable basic abilities,
+
+104
+00:06:11,000 --> 00:06:14,000
+girls end up 8% less likely
+
+105
+00:06:14,000 --> 00:06:17,000
+to consider themselves good at math than boys.
+
+106
+00:06:17,000 --> 00:06:20,000
+Exposure to bias-driven teachers
+
+107
+00:06:20,000 --> 00:06:23,000
+actively demolishes their self-confidence.
+
+108
+00:06:23,000 --> 00:06:26,000
+Math stops being a set of logical rules
+
+109
+00:06:26,000 --> 00:06:28,000
+and turns into hostile territory,
+
+110
+00:06:28,000 --> 00:06:31,000
+where you never feel good enough.
+
+111
+00:06:31,000 --> 00:06:34,000
+There's a sentence in the study that hits the mark
+
+112
+00:06:34,000 --> 00:06:36,000
+and sums it all up perfectly.
+
+113
+00:06:36,000 --> 00:06:39,000
+Implicit stereotypes create a self-fulfilling prophecy,
+
+114
+00:06:39,000 --> 00:06:41,000
+perpetuating gender differences
+
+115
+00:06:41,000 --> 00:06:43,000
+in math performance.
+
+116
+00:06:43,000 --> 00:06:45,000
+It's not a lack of talent.
+
+117
+00:06:45,000 --> 00:06:48,000
+There's no inexorable biology involved.
+
+118
+00:06:48,000 --> 00:06:51,000
+It's much more simply an educational environment
+
+119
+00:06:51,000 --> 00:06:53,000
+that, completely unintentionally,
+
+120
+00:06:53,000 --> 00:06:55,000
+triggers negative self-assessments
+
+121
+00:06:55,000 --> 00:06:57,000
+in half of the school population.
+
+122
+00:06:57,000 --> 00:06:59,000
+At the end of this investigation,
+
+123
+00:06:59,000 --> 00:07:02,000
+an undeniable truth emerges to take home.
+
+124
+00:07:02,000 --> 00:07:04,000
+The problem doesn't lie in the students,
+
+125
+00:07:04,000 --> 00:07:06,000
+but in the system they're immersed in.
+
+126
+00:07:06,000 --> 00:07:08,000
+Faced with such overwhelming evidence
+
+127
+00:07:08,000 --> 00:07:10,000
+of the power of unconscious bias,
+
+128
+00:07:10,000 --> 00:07:12,000
+the challenge becomes systemic.
+
+129
+00:07:12,000 --> 00:07:14,000
+So a vital reflection emerges,
+
+130
+00:07:14,000 --> 00:07:16,000
+a provocation, if you like.
+
+131
+00:07:16,000 --> 00:07:19,000
+How can we train teachers differently
+
+132
+00:07:19,000 --> 00:07:21,000
+to break, once and for all, this prophecy
+
+133
+00:07:21,000 --> 00:07:22,000
+that fulfills itself,
+
+134
+00:07:22,000 --> 00:07:24,000
+ensuring that every single mind
+
+135
+00:07:24,000 --> 00:07:26,000
+has a real chance to excel.

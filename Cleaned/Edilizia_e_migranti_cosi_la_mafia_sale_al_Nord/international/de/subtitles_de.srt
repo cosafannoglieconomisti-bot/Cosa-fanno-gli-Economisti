@@ -1,0 +1,711 @@
+1
+00:00:00,000 --> 00:00:02,240
+Benvenuti a questo nuovo approfondimento.
+
+2
+00:00:02,240 --> 00:00:05,520
+Oggi affrontiamo un tema cruciale, e il titolo dice tutto.
+
+3
+00:00:05,520 --> 00:00:09,000
+Edilizia e migranti: così la mafia sale al Nord.
+
+4
+00:00:09,000 --> 00:00:11,800
+Ci immergiamo in un paper economico davvero affascinante,
+
+5
+00:00:11,800 --> 00:00:14,720
+scritto da Gemma Dipoppa della Columbia University.
+
+6
+00:00:14,720 --> 00:00:17,920
+Più che un saggio accademico si legge quasi come un thriller storico
+
+7
+00:00:17,920 --> 00:00:20,519
+che risolve un mistero economico durato decenni.
+
+8
+00:00:20,519 --> 00:00:22,400
+Entriamo subito nel vivo.
+
+9
+00:00:22,400 --> 00:00:25,320
+Il punto di partenza è un vero e proprio rompicapo,
+
+10
+00:00:25,320 --> 00:00:27,480
+riassumibile in una semplice domanda.
+
+11
+00:00:27,559 --> 00:00:30,359
+Perché la mafia si espande negli stati forti?
+
+12
+00:00:30,359 --> 00:00:32,159
+Proviamo a rifletterci un attimo.
+
+13
+00:00:32,159 --> 00:00:35,079
+La teoria classica ci insegna che i gruppi criminali prosperano
+
+14
+00:00:35,079 --> 00:00:37,480
+dove lo Stato è debole, o addirittura assente,
+
+15
+00:00:37,480 --> 00:00:39,960
+offrendo una sorta di giustizia parallela.
+
+16
+00:00:39,960 --> 00:00:42,920
+Eppure, la storia ci mostra che la criminalità organizzata
+
+17
+00:00:42,920 --> 00:00:46,400
+riesce a mettere radici solidissime in aree iper sviluppate,
+
+18
+00:00:46,400 --> 00:00:49,799
+con istituzioni forti e un senso civico invidiabile.
+
+19
+00:00:49,799 --> 00:00:50,960
+Ma perché?
+
+20
+00:00:50,960 --> 00:00:52,679
+Cosa spinge un'organizzazione criminale
+
+21
+00:00:52,679 --> 00:00:56,480
+a infilarsi in un territorio dove le forze dell'ordine funzionano benissimo?
+
+22
+00:00:56,520 --> 00:00:59,200
+Il paradosso dello Stato forte.
+
+23
+00:00:59,200 --> 00:01:01,680
+Per capirci qualcosa dobbiamo fare un viaggio nel tempo,
+
+24
+00:01:01,680 --> 00:01:04,400
+dritti nel Nord Italia degli anni 50.
+
+25
+00:01:04,400 --> 00:01:06,400
+È proprio in questo preciso momento storico
+
+26
+00:01:06,400 --> 00:01:09,200
+che le vecchie teorie economiche iniziano a scricchiolare
+
+27
+00:01:09,200 --> 00:01:11,680
+e il vero mistero prende forma.
+
+28
+00:01:11,680 --> 00:01:15,080
+Soffermiamoci su una dinamica davvero particolare.
+
+29
+00:01:15,080 --> 00:01:19,680
+In uno Stato debole, l'organizzazione criminale si sostituisce al potere pubblico.
+
+30
+00:01:19,680 --> 00:01:21,280
+Fin qui, tutto chiaro.
+
+31
+00:01:21,280 --> 00:01:25,040
+Ma in uno Stato forte, le regole ci sono, funzionano
+
+32
+00:01:25,040 --> 00:01:27,560
+e soprattutto infrangerle costa caro.
+
+33
+00:01:27,560 --> 00:01:30,400
+Parliamo di multe salatissime e processi penali.
+
+34
+00:01:30,400 --> 00:01:32,800
+Ed è qui che scatta il cortocircuito.
+
+35
+00:01:32,800 --> 00:01:35,840
+Paradossalmente è proprio l'efficienza delle istituzioni
+
+36
+00:01:35,840 --> 00:01:39,560
+a creare un mercato per un servizio illecito super specifico.
+
+37
+00:01:39,560 --> 00:01:44,200
+In pratica, l'organizzazione criminale non protegge più dall'assenza dello Stato,
+
+38
+00:01:44,200 --> 00:01:46,680
+ma protegge dalle regole stesse dello Stato,
+
+39
+00:01:46,680 --> 00:01:48,320
+permettendo a certi attori economici
+
+40
+00:01:48,320 --> 00:01:51,360
+di sguazzare nell'ombra totalmente impuniti.
+
+41
+00:01:51,360 --> 00:01:52,800
+Il miracolo economico.
+
+42
+00:01:52,840 --> 00:01:56,439
+Il terreno perfetto per questo scambio di favori si crea proprio ora.
+
+43
+00:01:56,439 --> 00:01:59,679
+Le regioni del Nord stanno vivendo una trasformazione incredibile,
+
+44
+00:01:59,679 --> 00:02:01,840
+un'espansione urbana senza precedenti.
+
+45
+00:02:01,840 --> 00:02:06,560
+Città che si allargano a macchia d'olio, quartieri interi che spuntano letteralmente dal nulla.
+
+46
+00:02:06,560 --> 00:02:08,639
+E per reggere questo ritmo forsennato,
+
+47
+00:02:08,639 --> 00:02:10,960
+le imprese edili si ritrovano con l'acqua alla gola
+
+48
+00:02:10,960 --> 00:02:14,599
+e una fame incontenibile di manodopera non qualificata.
+
+49
+00:02:14,599 --> 00:02:18,960
+Questa crescita vertiginosa innesca un movimento demografico enorme.
+
+50
+00:02:19,000 --> 00:02:22,680
+Dagli anni 60 in poi, ben 4 milioni di persone lasciano il Sud
+
+51
+00:02:22,680 --> 00:02:25,800
+per trasferirsi al Centro-Nord, in cerca di un futuro migliore,
+
+52
+00:02:25,800 --> 00:02:29,600
+praticamente un quarto dell'intera popolazione meridionale dell'epoca.
+
+53
+00:02:29,600 --> 00:02:33,600
+Nello stesso momento, lo Stato decide di adottare una politica un po' controversa,
+
+54
+00:02:33,600 --> 00:02:35,159
+il soggiorno obbligato.
+
+55
+00:02:35,159 --> 00:02:39,120
+L'idea era sradicare i mafiosi dalla loro terra per renderli inoffensivi.
+
+56
+00:02:39,120 --> 00:02:40,240
+Il risultato?
+
+57
+00:02:40,240 --> 00:02:44,159
+Molti di questi esponenti criminali vengono spediti in esilio forzato,
+
+58
+00:02:44,159 --> 00:02:47,879
+proprio nelle città più ricche e in fermento del Nord.
+
+59
+00:02:47,919 --> 00:02:50,079
+Domanda e offerta di lavoro illegale.
+
+60
+00:02:50,079 --> 00:02:52,599
+È qui che avviene l'incastro perfetto.
+
+61
+00:02:52,599 --> 00:02:54,560
+Da una parte abbiamo le imprese edili locali,
+
+62
+00:02:54,560 --> 00:02:58,079
+con il bisogno disperato di reclutare braccianti da un giorno all'altro.
+
+63
+00:02:58,079 --> 00:03:00,479
+Dall'altra, migliaia di migranti appena arrivati,
+
+64
+00:03:00,479 --> 00:03:02,599
+con un bisogno assoluto di lavorare subito,
+
+65
+00:03:02,599 --> 00:03:04,719
+ma senza alcuna protezione.
+
+66
+00:03:04,719 --> 00:03:08,800
+Le cronache dell'epoca ci raccontano di un vero e proprio mercato del lavoro extralegale,
+
+67
+00:03:08,800 --> 00:03:13,479
+gestito da intermediari criminali direttamente nei piazzali delle stazioni ferroviarie.
+
+68
+00:03:13,520 --> 00:03:18,280
+Era un accordo informale, certo, ma incredibilmente vantaggioso per chi lo faceva.
+
+69
+00:03:18,280 --> 00:03:21,960
+Da un lato, le aziende di costruzione abbattevano i costi in modo drastico.
+
+70
+00:03:21,960 --> 00:03:24,400
+Parliamo di spese letteralmente dimezzate,
+
+71
+00:03:24,400 --> 00:03:29,200
+evadendo tasse e contributi e risolvendo il problema della manodopera in un paio d'ore.
+
+72
+00:03:29,200 --> 00:03:33,080
+Dall'altro lato, i gruppi criminali si intascavano una cresta sia dall'azienda
+
+73
+00:03:33,080 --> 00:03:37,640
+che dalla misera paga del lavoratore, garantendosi un flusso di cassa costante.
+
+74
+00:03:37,640 --> 00:03:41,240
+Ma attenzione, il vero jackpot non erano solo i soldi.
+
+75
+00:03:41,280 --> 00:03:44,800
+Questo sistema permetteva loro di infilarsi nel tessuto economico legale,
+
+76
+00:03:44,800 --> 00:03:48,400
+ottenendo un controllo capillare del nuovo territorio.
+
+77
+00:03:48,400 --> 00:03:51,600
+Ma perché nessuno denunciava questo sfruttamento assurdo?
+
+78
+00:03:51,600 --> 00:03:55,879
+La risposta sta tutta in una dinamica di potere a dir poco brutale.
+
+79
+00:03:55,879 --> 00:03:59,560
+C'è una testimonianza da brividi di un sindacalista del 1972
+
+80
+00:03:59,560 --> 00:04:02,240
+che illustra perfettamente la situazione.
+
+81
+00:04:02,240 --> 00:04:05,520
+«Quando parliamo, i lavoratori restano in silenzio.
+
+82
+00:04:05,520 --> 00:04:10,560
+I mafiosi compiono atti minacciosi per mostrare ai lavoratori che sono più forti di noi.»
+
+83
+00:04:10,560 --> 00:04:15,840
+Questi intermediari criminali non si nascondevano, anzi, ostentavano la loro forza.
+
+84
+00:04:15,840 --> 00:04:17,439
+E il ricatto era spietato:
+
+85
+00:04:17,439 --> 00:04:21,639
+se parli, le ritorsioni colpiranno la tua famiglia, giù al Sud.
+
+86
+00:04:21,639 --> 00:04:23,480
+Misurare l'invisibile.
+
+87
+00:04:23,480 --> 00:04:26,959
+Fin qui, la ricostruzione storica è solida e fa venire i brividi.
+
+88
+00:04:26,959 --> 00:04:30,639
+Il problema è che la ricerca economica non si accontenta delle storie,
+
+89
+00:04:30,639 --> 00:04:36,120
+esige prove empiriche. Ma come si fa a dimostrare dati alla mano un meccanismo segreto,
+
+90
+00:04:36,120 --> 00:04:40,360
+fatto apposta per non lasciare tracce e sfuggire ai radar dello Stato?
+
+91
+00:04:40,360 --> 00:04:44,920
+Per risolvere questo ostacolo, la ricercatrice ha avuto un'intuizione geniale.
+
+92
+00:04:44,920 --> 00:04:48,720
+Visto che prima degli anni 90 lo Stato non misurava l'infiltrazione mafiosa,
+
+93
+00:04:48,720 --> 00:04:51,240
+si è affidata al data scraping.
+
+94
+00:04:51,240 --> 00:04:54,759
+In parole povere, ha passato al setaccio decenni di archivi giornalistici,
+
+95
+00:04:54,759 --> 00:04:59,920
+estraendo e catalogando oltre cinquemila articoli di cronaca, partendo dagli anni Cinquanta.
+
+96
+00:04:59,920 --> 00:05:04,360
+Un lavoro titanico che ha permesso di scovare e tracciare le primissime avvisaglie
+
+97
+00:05:04,360 --> 00:05:07,600
+di infiltrazione criminale in ogni singolo comune.
+
+98
+00:05:07,640 --> 00:05:10,760
+I risultati di questa caccia all'archivio sono chiarissimi:
+
+99
+00:05:10,760 --> 00:05:14,160
+mettendo idealmente a confronto le notizie storiche scovate nei giornali
+
+100
+00:05:14,160 --> 00:05:17,760
+con i dati ufficiali di polizia e magistratura dei giorni nostri,
+
+101
+00:05:17,760 --> 00:05:20,879
+c'è una sovrapposizione praticamente millimetrica.
+
+102
+00:05:20,879 --> 00:05:28,000
+Gli articoli degli anni 60, 70 e 80 anticipavano in modo quasi profetico le maxiretate del futuro.
+
+103
+00:05:28,000 --> 00:05:31,879
+È facile intuire dove si concentrava questa valanga di notizie sospette.
+
+104
+00:05:32,000 --> 00:05:34,839
+Proprio attorno ai poli di massima espansione economica,
+
+105
+00:05:34,839 --> 00:05:38,519
+come Roma, Milano, Torino e Genova,
+
+106
+00:05:38,519 --> 00:05:42,159
+un allarme silenzioso che suonava fortissimo.
+
+107
+00:05:42,159 --> 00:05:43,920
+I dati confermano la teoria.
+
+108
+00:05:43,920 --> 00:05:47,159
+Una volta trovata la bussola per misurare il fenomeno in modo affidabile,
+
+109
+00:05:47,159 --> 00:05:50,040
+la ricerca passa all'attacco con l'analisi statistica.
+
+110
+00:05:50,040 --> 00:05:52,839
+L'obiettivo è isolare l'esatta combinazione chimica
+
+111
+00:05:52,839 --> 00:05:55,120
+che ha fatto esplodere questo radicamento criminale,
+
+112
+00:05:55,120 --> 00:05:58,319
+ripulendo i numeri da qualsiasi altra variabile.
+
+113
+00:05:58,319 --> 00:06:01,639
+E qui arriva la vera scoperta cruciale dello studio
+
+114
+00:06:01,680 --> 00:06:03,039
+e i dati parlano chiaro.
+
+115
+00:06:03,039 --> 00:06:06,240
+L'espansione mafiosa è esplosa solo ed esclusivamente
+
+116
+00:06:06,240 --> 00:06:09,360
+quando il boom dell'edilizia e l'arrivo in massa dei migranti
+
+117
+00:06:09,360 --> 00:06:11,879
+sono avvenuti nello stesso momento.
+
+118
+00:06:11,879 --> 00:06:14,560
+Un boom edilizio da solo, senza migranti vulnerabili,
+
+119
+00:06:14,560 --> 00:06:16,839
+non ha causato alcun aumento criminale,
+
+120
+00:06:16,839 --> 00:06:20,079
+e una marea di migranti senza cantieri pronti ad assumere in nero
+
+121
+00:06:20,079 --> 00:06:22,360
+non ha generato infiltrazioni.
+
+122
+00:06:22,360 --> 00:06:25,959
+È stata l'intersezione precisissima di questi due elementi
+
+123
+00:06:25,959 --> 00:06:30,240
+a fare da vero e proprio acceleratore per il crimine organizzato.
+
+124
+00:06:30,280 --> 00:06:33,600
+Ma c'è un ulteriore dettaglio, la vera prova del nove.
+
+125
+00:06:33,600 --> 00:06:35,800
+In certe situazioni l'espansione mafiosa è stata
+
+126
+00:06:35,800 --> 00:06:39,079
+letteralmente pari a zero, zero assoluto.
+
+127
+00:06:39,079 --> 00:06:42,319
+Quando i migranti arrivavano da zone del sud dove la mafia non c'era,
+
+128
+00:06:42,319 --> 00:06:44,280
+l'infiltrazione non attecchiva,
+
+129
+00:06:44,280 --> 00:06:46,360
+semplicemente perché ai criminali mancava l'arma
+
+130
+00:06:46,360 --> 00:06:48,560
+del ricatto sulle famiglie rimaste a casa.
+
+131
+00:06:48,560 --> 00:06:51,120
+E l'effetto rimaneva a zero anche in città
+
+132
+00:06:51,120 --> 00:06:53,120
+che crescevano a dismisura in altri settori,
+
+133
+00:06:53,120 --> 00:06:55,680
+come quello metalmeccanico o delle automobili.
+
+134
+00:06:55,680 --> 00:06:57,879
+In quelle grandi fabbriche c'erano i sindacati,
+
+135
+00:06:57,879 --> 00:06:59,240
+la vigilanza era stretta,
+
+136
+00:06:59,240 --> 00:07:02,120
+assumere irregolarmente era quasi impossibile:
+
+137
+00:07:02,120 --> 00:07:04,400
+senza la valvola di sfogo del lavoro informale,
+
+138
+00:07:04,400 --> 00:07:06,639
+la criminalità restava a secco.
+
+139
+00:07:06,639 --> 00:07:09,759
+Entriamo così nell'ultima fase, la sezione sei,
+
+140
+00:07:09,759 --> 00:07:12,720
+oltre l'Italia, verso un modello globale.
+
+141
+00:07:12,720 --> 00:07:15,400
+Il valore inestimabile di questa ricerca è che le sue
+
+142
+00:07:15,400 --> 00:07:17,639
+conclusioni valicano i confini nazionali:
+
+143
+00:07:17,639 --> 00:07:20,759
+non stiamo esaminando solo un frammento di storia italiana.
+
+144
+00:07:20,759 --> 00:07:24,319
+Stiamo decodificando un vero e proprio modello operativo globale.
+
+145
+00:07:24,319 --> 00:07:26,120
+È uno schema che spiega alla perfezione
+
+146
+00:07:26,120 --> 00:07:28,680
+come si muovono e prosperano le organizzazioni criminali
+
+147
+00:07:28,680 --> 00:07:29,959
+in tutto il mondo,
+
+148
+00:07:29,959 --> 00:07:33,560
+dalla mafia russa in Europa ai cartelli nordamericani.
+
+149
+00:07:33,560 --> 00:07:35,879
+Siamo di fronte a un massiccio cambio di paradigma
+
+150
+00:07:35,879 --> 00:07:37,560
+nella teoria economica.
+
+151
+00:07:37,560 --> 00:07:39,959
+È fondamentale smettere di immaginare i criminali
+
+152
+00:07:39,959 --> 00:07:43,519
+solo come opportunisti che operano in assenza dello Stato.
+
+153
+00:07:43,519 --> 00:07:44,879
+Al contrario,
+
+154
+00:07:44,879 --> 00:07:47,720
+queste organizzazioni si specializzano nel confezionare
+
+155
+00:07:47,720 --> 00:07:49,879
+e vendere un servizio oscuro,
+
+156
+00:07:49,879 --> 00:07:52,000
+creato su misura proprio per aggirare le leggi
+
+157
+00:07:52,000 --> 00:07:53,519
+degli Stati più forti.
+
+158
+00:07:53,519 --> 00:07:55,480
+Diventano, in modo patologico,
+
+159
+00:07:55,480 --> 00:07:58,560
+dei complementi del sistema economico avanzato.
+
+160
+00:07:58,560 --> 00:08:00,959
+Offrendo alle aziende un modo blindato e strutturato
+
+161
+00:08:00,959 --> 00:08:02,280
+per fare affari sporchi,
+
+162
+00:08:02,280 --> 00:08:05,480
+riducendo al minimo il rischio di finire in prigione.
+
+163
+00:08:05,480 --> 00:08:07,480
+Ed eccoci alla riflessione finale.
+
+164
+00:08:07,480 --> 00:08:09,879
+Se il vero carburante per l'espansione criminale
+
+165
+00:08:09,879 --> 00:08:13,240
+in uno stato forte è proprio un esercito di lavoratori vulnerabili
+
+166
+00:08:13,240 --> 00:08:14,720
+e non regolamentati,
+
+167
+00:08:14,720 --> 00:08:16,840
+allora le carte in tavola cambiano.
+
+168
+00:08:16,840 --> 00:08:18,600
+Creare percorsi di ingresso legali,
+
+169
+00:08:18,600 --> 00:08:20,439
+supportare l'inserimento formale
+
+170
+00:08:20,439 --> 00:08:23,120
+e implementare solide politiche di integrazione
+
+171
+00:08:23,120 --> 00:08:25,000
+non è più solo una questione etica.
+
+172
+00:08:25,000 --> 00:08:28,120
+Conti alla mano, diventa la strategia economica e istituzionale
+
+173
+00:08:28,120 --> 00:08:31,160
+più devastante per togliere la materia prima essenziale
+
+174
+00:08:31,160 --> 00:08:33,120
+alla criminalità organizzata.
+
+175
+00:08:33,120 --> 00:08:36,960
+Rimuovere le vulnerabilità significa disarmare l'infiltrazione.
+
+176
+00:08:36,960 --> 00:08:39,039
+È un cambio di prospettiva potente, vero?
+
+177
+00:08:39,039 --> 00:08:41,440
+Un sincero ringraziamento per l'attenzione dedicata
+
+178
+00:08:41,440 --> 00:08:43,440
+a questa esplorazione, e alla prossima.
