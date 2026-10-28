@@ -1,0 +1,826 @@
+1
+00:00:00,000 --> 00:00:03,454
+C'è un vero e proprio mistero nel
+cuore del nostro sistema scolastico,
+
+2
+00:00:03,454 --> 00:00:06,759
+e un recente studio economico ha
+provato a capirci qualcosa di più.
+
+3
+00:00:06,759 --> 00:00:11,279
+Parliamo di migliaia di studenti brillanti
+che ogni singolo anno finiscono in percorsi
+
+4
+00:00:11,279 --> 00:00:14,160
+che non sfruttano per
+niente il loro potenziale.
+
+5
+00:00:14,160 --> 00:00:16,920
+E allora la domanda centrale, il vero cruccio,
+
+6
+00:00:16,920 --> 00:00:22,760
+è questa: stranieri al professionale, colpa
+dei prof? O magari sotto c'è dell'altro?
+
+7
+00:00:22,760 --> 00:00:26,120
+Entriamo subito nel vivo dei dati, perché
+la faccenda è davvero affascinante.
+
+8
+00:00:26,960 --> 00:00:28,947
+Il paradosso salta subito agli occhi quando si
+
+9
+00:00:28,947 --> 00:00:31,280
+guardano le scelte fatte
+alla fine delle scuole medie.
+
+10
+00:00:31,280 --> 00:00:34,142
+Ragazzi con un background migratorio
+che hanno voti eccellenti,
+
+11
+00:00:34,142 --> 00:00:35,460
+e parlo di voti letteralmente
+
+12
+00:00:35,460 --> 00:00:38,294
+identici a quelli dei
+compagni italiani, che fanno?
+
+13
+00:00:38,294 --> 00:00:41,240
+Scelgono molto più spesso
+gli istituti professionali.
+
+14
+00:00:41,240 --> 00:00:45,640
+Praticamente rinunciano a priori ai licei
+o agli istituti tecnici. È pazzesco.
+
+15
+00:00:45,640 --> 00:00:50,565
+A parità di talento oggettivo, decidono
+quasi sistematicamente di volare basso,
+
+16
+00:00:50,565 --> 00:00:54,680
+e quindi intraprendono percorsi
+scolastici molto meno impegnativi.
+
+17
+00:00:54,680 --> 00:00:58,560
+Tra gli addetti ai lavori, questo fenomeno
+prende il nome di segregazione educativa.
+
+18
+00:00:58,560 --> 00:01:02,535
+In parole povere, succede quando studenti
+che partono da contesti svantaggiati
+
+19
+00:01:02,535 --> 00:01:06,000
+vengono incanalati in massa verso
+percorsi scolastici meno esigenti.
+
+20
+00:01:06,000 --> 00:01:08,104
+Quindi il passaggio alle scuole superiori si
+
+21
+00:01:08,104 --> 00:01:10,400
+trasforma in una sorta
+di trappola involontaria.
+
+22
+00:01:10,400 --> 00:01:13,134
+Invece di premiare chi se lo
+merita, finisce per congelare,
+
+23
+00:01:13,134 --> 00:01:15,960
+per bloccare del tutto le
+disuguaglianze sociali di partenza.
+
+24
+00:01:15,960 --> 00:01:17,960
+Un vero peccato, insomma.
+
+25
+00:01:17,960 --> 00:01:21,760
+I dati iniziali ci raccontano una
+storia davvero inequivocabile.
+
+26
+00:01:21,760 --> 00:01:26,439
+Se prendiamo in considerazione solo i ragazzi
+maschi con livelli di abilità altissimi,
+
+27
+00:01:26,439 --> 00:01:30,070
+quelli con i punteggi migliori nei
+test standardizzati di inizio media,
+
+28
+00:01:30,070 --> 00:01:32,320
+per intenderci, scopriamo un divario enorme.
+
+29
+00:01:32,320 --> 00:01:34,131
+I ragazzi con background migratorio,
+
+30
+00:01:34,131 --> 00:01:37,200
+pur essendo i fuoriclasse della
+classe, hanno una probabilità
+
+31
+00:01:37,200 --> 00:01:39,323
+nettamente inferiore, rispetto
+ai compagni
+
+32
+00:01:39,323 --> 00:01:43,515
+nativi altrettanto bravi, di iscriversi
+a un liceo o a un istituto tecnico.
+
+33
+00:01:43,515 --> 00:01:46,285
+E confrontando le traiettorie
+di questi due gruppi,
+
+34
+00:01:46,285 --> 00:01:49,435
+c'è un punto assolutamente
+cruciale da stamparsi in mente.
+
+35
+00:01:49,435 --> 00:01:53,028
+Il nocciolo della questione non
+c'entra nulla, ma proprio nulla,
+
+36
+00:01:53,028 --> 00:01:56,115
+con le capacità cognitive o
+il livello di preparazione.
+
+37
+00:01:56,115 --> 00:01:59,239
+Entrambi i gruppi sanno risolvere
+le stesse identiche equazioni
+
+38
+00:01:59,239 --> 00:02:02,115
+e comprendono gli stessi testi
+complessi, senza sbavature.
+
+39
+00:02:02,115 --> 00:02:05,368
+Il vero problema è una specie
+di barriera invisibile,
+
+40
+00:02:05,368 --> 00:02:08,314
+come avere il freno a
+mano tirato, che impedisce
+
+41
+00:02:08,314 --> 00:02:12,314
+ai ragazzi stranieri di allineare le
+proprie ambizioni al loro reale potenziale.
+
+42
+00:02:12,314 --> 00:02:15,155
+Ma questa tendenza negativa si può spezzare.
+
+43
+00:02:15,634 --> 00:02:19,115
+Per capirlo, un team di ricercatori ha messo
+in piedi un esperimento su decine di scuole
+
+44
+00:02:19,115 --> 00:02:22,599
+medie del Nord Italia, chiamato
+progetto Equality of Opportunity,
+
+45
+00:02:22,599 --> 00:02:24,314
+cioè uguaglianza di opportunità.
+
+46
+00:02:24,314 --> 00:02:25,714
+L'obiettivo era chiarissimo:
+
+47
+00:02:25,714 --> 00:02:28,914
+riallineare gli orizzonti educativi
+di questi studenti alle loro
+
+48
+00:02:28,914 --> 00:02:31,014
+vere capacità, e farlo prima, molto prima,
+
+49
+00:02:31,014 --> 00:02:34,514
+che si trovassero a compilare i
+moduli di iscrizione per le superiori.
+
+50
+00:02:34,514 --> 00:02:37,555
+Il metodo utilizzato è stato super rigoroso.
+
+51
+00:02:37,555 --> 00:02:40,184
+In ogni scuola coinvolta
+sono stati individuati i 10
+
+52
+00:02:40,184 --> 00:02:42,914
+studenti stranieri in assoluto
+più brillanti nei test.
+
+53
+00:02:42,914 --> 00:02:46,995
+A loro è stato offerto un programma
+speciale di ben due anni: c'erano consulenze
+
+54
+00:02:46,995 --> 00:02:49,278
+psicologiche per l'orientamento
+scolastico e anche
+
+55
+00:02:49,278 --> 00:02:51,834
+sessioni di tutoraggio per
+affinare il metodo di studio.
+
+56
+00:02:51,834 --> 00:02:55,406
+Si è deciso di puntare tutto sulle
+menti migliori in circolazione,
+
+57
+00:02:55,406 --> 00:02:59,194
+proprio per capire nel profondo che
+cosa di fatto le tenesse bloccate.
+
+58
+00:02:59,194 --> 00:03:02,767
+L'intera impalcatura del progetto
+poggiava su una teoria psicologica
+
+59
+00:03:02,767 --> 00:03:06,234
+davvero affascinante: la teoria
+socio-cognitiva dell'orientamento.
+
+60
+00:03:06,234 --> 00:03:10,474
+In breve, questo approccio suggerisce che gli
+obiettivi personali e, attenzione, soprattutto
+
+61
+00:03:10,474 --> 00:03:13,454
+la fiducia in sé stessi pesano
+esattamente quanto l'intelligenza
+
+62
+00:03:13,454 --> 00:03:16,155
+pura quando dobbiamo prendere
+decisioni sul nostro futuro.
+
+63
+00:03:16,155 --> 00:03:20,014
+Infatti, l'idea non era affatto quella di
+spingere a forza gli studenti verso i licei, ma
+
+64
+00:03:20,014 --> 00:03:23,813
+piuttosto di costruire una profonda
+consapevolezza di quello che potevano fare,
+
+65
+00:03:23,813 --> 00:03:26,314
+aiutandoli a credere per
+davvero nelle loro risorse.
+
+66
+00:03:26,314 --> 00:03:28,703
+E qui arriva una curiosità incredibile:
+
+67
+00:03:28,703 --> 00:03:32,194
+spulciando i risultati delle
+diverse parti del programma,
+
+68
+00:03:32,194 --> 00:03:34,954
+è saltato fuori un dettaglio
+del tutto inaspettato.
+
+69
+00:03:34,954 --> 00:03:38,742
+Anche se i ragazzi avevano ricevuto un
+bell'aiuto pratico sul metodo di studio,
+
+70
+00:03:38,742 --> 00:03:41,955
+il vero motore del cambiamento non
+è stato il tutoraggio sui libri.
+
+71
+00:03:41,955 --> 00:03:44,860
+Eh no: i ricercatori hanno
+scoperto che la vera scintilla è
+
+72
+00:03:44,860 --> 00:03:47,715
+scoccata grazie al counseling
+psicologico e motivazionale.
+
+73
+00:03:47,715 --> 00:03:51,341
+Questo dimostra chiaramente che il
+blocco da superare non era tecnico,
+
+74
+00:03:51,341 --> 00:03:54,034
+ma totalmente mentale: una
+questione di aspirazioni.
+
+75
+00:03:54,034 --> 00:03:59,235
+A questo punto la domanda sorge spontanea:
+un intervento così mirato, parliamo di
+
+76
+00:03:59,235 --> 00:04:02,143
+una manciata di ore di
+consulenza psicologica alla fine,
+
+77
+00:04:02,143 --> 00:04:05,675
+può per davvero colmare un divario
+sociale così profondo e radicato?
+
+78
+00:04:06,075 --> 00:04:09,835
+Può un semplice spazio di riflessione
+sulle proprie ambizioni cambiare il destino
+
+79
+00:04:09,835 --> 00:04:12,119
+scolastico di ragazzi
+che il sistema aveva già,
+
+80
+00:04:12,119 --> 00:04:15,035
+in qualche modo, messo in
+panchina verso percorsi secondari?
+
+81
+00:04:15,035 --> 00:04:19,355
+I risultati per i ragazzi coinvolti
+sono stati a dir poco straordinari.
+
+82
+00:04:19,355 --> 00:04:22,430
+La probabilità che scegliessero
+una scuola superiore molto più
+
+83
+00:04:22,430 --> 00:04:25,754
+impegnativa è schizzata in alto,
+con un aumento di circa un decimo.
+
+84
+00:04:25,754 --> 00:04:29,688
+Questo balzo in avanti ha completamente,
+e sottolineo completamente,
+
+85
+00:04:29,688 --> 00:04:32,754
+azzerato il divario iniziale
+con i coetanei italiani.
+
+86
+00:04:33,314 --> 00:04:37,314
+In pratica, in un colpo solo, il programma
+ha riportato questi studenti pieni di talento
+
+87
+00:04:37,314 --> 00:04:40,971
+esattamente sulla stessa traiettoria
+scolastica dei compagni nati in Italia,
+
+88
+00:04:40,971 --> 00:04:43,954
+parificando le opportunità per
+chi aveva lo stesso potenziale.
+
+89
+00:04:43,954 --> 00:04:44,954
+Pazzesco, vero?
+
+90
+00:04:44,954 --> 00:04:49,514
+E badate bene, i benefici non sono
+finiti lì, al momento dell'iscrizione.
+
+91
+00:04:49,514 --> 00:04:52,218
+Negli anni successivi, i
+tassi di bocciatura per
+
+92
+00:04:52,218 --> 00:04:55,034
+questi stessi ragazzi sono
+praticamente dimezzati.
+
+93
+00:04:55,034 --> 00:04:57,034
+Sono precipitati di quasi la metà.
+
+94
+00:04:57,034 --> 00:05:00,230
+Questo è un dato formidabile,
+perché dimostra una volta per tutte
+
+95
+00:05:00,230 --> 00:05:03,475
+che erano capacissimi di gestire
+un percorso di studi bello tosto.
+
+96
+00:05:03,475 --> 00:05:07,635
+Non stavano assolutamente facendo il passo
+più lungo della gamba, dopo il programma.
+
+97
+00:05:07,635 --> 00:05:13,155
+Molto semplicemente, prima dell'intervento,
+stavano mirando decisamente troppo in basso.
+
+98
+00:05:13,155 --> 00:05:18,395
+Ma tenetevi forte, perché analizzando i dati
+è arrivato un colpo di scena mica da ridere.
+
+99
+00:05:18,395 --> 00:05:21,815
+Quando si è andati a misurare l'impatto
+del programma sulle studentesse,
+
+100
+00:05:21,815 --> 00:05:24,475
+beh, si è scoperto che l'effetto
+era praticamente nullo.
+
+101
+00:05:24,475 --> 00:05:26,475
+Esatto, zero.
+
+102
+00:05:26,475 --> 00:05:28,699
+Per le ragazze l'intervento
+non ha spostato di una
+
+103
+00:05:28,699 --> 00:05:31,235
+virgola né le scelte scolastiche
+né il rendimento futuro.
+
+104
+00:05:31,235 --> 00:05:33,851
+Una differenza di genere
+che ti lascia di sasso,
+
+105
+00:05:33,851 --> 00:05:36,795
+ma che in realtà nasconde
+una spiegazione logicissima.
+
+106
+00:05:36,795 --> 00:05:40,357
+Il motivo per cui le ragazze
+non hanno cambiato rotta è,
+
+107
+00:05:40,357 --> 00:05:44,555
+sotto sotto, una bellissima notizia:
+non ne avevano alcun bisogno.
+
+108
+00:05:44,555 --> 00:05:48,993
+Le loro scelte scolastiche erano già
+chirurgicamente allineate alle loro alte capacità,
+
+109
+00:05:48,993 --> 00:05:51,595
+tutto questo ben prima che
+l'esperimento iniziasse.
+
+110
+00:05:51,595 --> 00:05:56,395
+Al contrario dei ragazzi, che si sottostimavano
+in modo massiccio, le ragazze con background
+
+111
+00:05:56,395 --> 00:06:00,506
+migratorio e ottimi voti sceglievano
+già licei e istituti tecnici di punta,
+
+112
+00:06:00,506 --> 00:06:03,794
+con la stessa esatta frequenza
+delle loro compagne italiane.
+
+113
+00:06:03,794 --> 00:06:08,154
+Ma allora cosa ha scatenato una reazione
+così potente nei ragazzi maschi?
+
+114
+00:06:08,154 --> 00:06:11,674
+Praticamente l'intervento ha fatto
+scattare quattro interruttori chiave.
+
+115
+00:06:11,674 --> 00:06:14,634
+Primo: ha pompato le loro
+aspirazioni generali verso l'alto.
+
+116
+00:06:14,634 --> 00:06:17,674
+Secondo: ha messo il turbo alla
+fiducia nelle proprie abilità.
+
+117
+00:06:17,674 --> 00:06:21,042
+Terzo: ha sbriciolato la paura
+dei classici ostacoli esterni,
+
+118
+00:06:21,042 --> 00:06:23,914
+tipo i problemi economici
+o la paura dei pregiudizi.
+
+119
+00:06:24,155 --> 00:06:29,275
+E infine, cosa pazzesca, ha persino migliorato
+i loro punteggi nei test successivi.
+
+120
+00:06:29,275 --> 00:06:32,555
+Insomma, i loro orizzonti si
+sono letteralmente spalancati.
+
+121
+00:06:32,555 --> 00:06:35,162
+C'è però un altro tassello
+vitale in questo puzzle,
+
+122
+00:06:35,162 --> 00:06:38,075
+e riguarda gli adulti che
+vivono l'ecosistema scolastico:
+
+123
+00:06:38,075 --> 00:06:39,075
+i professori.
+
+124
+00:06:39,075 --> 00:06:44,075
+Loro hanno in mano le chiavi del sistema, ed
+è super affascinante notare come la percezione
+
+125
+00:06:44,075 --> 00:06:47,076
+che gli insegnanti avevano di
+questi studenti sia cambiata,
+
+126
+00:06:47,076 --> 00:06:48,754
+in meglio, durante l'esperimento.
+
+127
+00:06:48,754 --> 00:06:52,006
+Questo significa che il cambiamento
+interiore che stavano vivendo i
+
+128
+00:06:52,006 --> 00:06:55,355
+ragazzi veniva avvertito e captato
+forte e chiaro anche dall'esterno.
+
+129
+00:06:55,355 --> 00:06:58,500
+Come sappiamo, in Italia i
+professori delle medie rilasciano
+
+130
+00:06:58,500 --> 00:07:01,435
+un consiglio orientativo
+formale prima delle iscrizioni.
+
+131
+00:07:01,435 --> 00:07:05,847
+Ebbene, si è visto che gli insegnanti sono
+diventati immensamente più propensi a consigliare
+
+132
+00:07:05,847 --> 00:07:09,875
+un liceo o un istituto tecnico proprio ai
+ragazzi che avevano seguito le consulenze.
+
+133
+00:07:09,875 --> 00:07:13,507
+Stiamo parlando di un salto nelle raccomandazioni
+verso percorsi ambiziosi:
+
+134
+00:07:13,507 --> 00:07:15,787
+un balzo gigantesco nelle
+aspettative dei prof.
+
+135
+00:07:16,426 --> 00:07:19,988
+E la cosa più brillante di tutta
+questa dinamica? Che i professori non
+
+136
+00:07:19,988 --> 00:07:23,907
+stavano semplicemente mettendo un timbro
+a chiunque partecipasse al progetto.
+
+137
+00:07:23,907 --> 00:07:26,683
+Se fosse andata così, avrebbero
+gonfiato le raccomandazioni
+
+138
+00:07:26,683 --> 00:07:28,707
+anche per le ragazze. Ma non l'hanno fatto.
+
+139
+00:07:28,707 --> 00:07:33,027
+Hanno invece aggiornato le loro valutazioni
+in modo precisissimo e selettivo,
+
+140
+00:07:33,027 --> 00:07:36,054
+accorgendosi della nuova
+motivazione e dei passi avanti
+
+141
+00:07:36,054 --> 00:07:39,467
+concreti che solo i ragazzi in
+quel momento stavano mostrando.
+
+142
+00:07:39,467 --> 00:07:42,033
+Hanno, in sintesi,
+riconosciuto e incoraggiato un
+
+143
+00:07:42,033 --> 00:07:44,546
+potenziale che stava
+finalmente venendo a galla.
+
+144
+00:07:44,626 --> 00:07:49,467
+E per non farsi mancare nulla, c'è pure un
+fantastico effetto bonus saltato fuori dai dati.
+
+145
+00:07:49,467 --> 00:07:52,802
+I compagni di classe stranieri che
+non facevano direttamente parte
+
+146
+00:07:52,802 --> 00:07:55,986
+del programma hanno iniziato ad
+avere voti migliori anche loro.
+
+147
+00:07:55,986 --> 00:07:58,024
+Un vero e proprio contagio positivo,
+
+148
+00:07:58,024 --> 00:08:01,986
+nato molto banalmente dal condividere
+la stessa aula ogni santo giorno
+
+149
+00:08:01,986 --> 00:08:04,312
+con compagni che stavano
+tirando fuori dal cilindro
+
+150
+00:08:04,312 --> 00:08:06,546
+una motivazione e una
+consapevolezza tutte nuove.
+
+151
+00:08:06,546 --> 00:08:09,347
+L'entusiasmo, a quanto pare, è contagioso.
+
+152
+00:08:09,347 --> 00:08:13,347
+Per tirare le somme e arrivare al cuore
+di questo studio, potremmo dire questo.
+
+153
+00:08:13,387 --> 00:08:16,804
+Persone con tutte le carte in regola,
+ma con un'autostima traballante,
+
+154
+00:08:16,804 --> 00:08:19,587
+finiscono per scartare a priori
+le opzioni più ambiziose.
+
+155
+00:08:19,587 --> 00:08:21,106
+È triste, ma è così.
+
+156
+00:08:21,106 --> 00:08:23,089
+Il talento sprecato, in tantissimi casi,
+
+157
+00:08:23,089 --> 00:08:26,707
+non è altro che la febbre di un sistema
+immunitario fatto di insicurezza.
+
+158
+00:08:26,707 --> 00:08:29,774
+Magari unita a un'idea fissa,
+interiorizzata nel tempo,
+
+159
+00:08:29,774 --> 00:08:34,347
+che certi traguardi prestigiosi siano un
+club esclusivo riservato solo agli altri.
+
+160
+00:08:34,347 --> 00:08:37,030
+E questo ci porta a una
+riflessione bella tosta, credo,
+
+161
+00:08:37,030 --> 00:08:40,347
+per chiunque abbia un minimo a cuore
+il futuro della nostra società.
+
+162
+00:08:40,347 --> 00:08:44,947
+Come facciamo a sbloccare il vero potenziale
+di ogni singola testa che entra in quelle aule?
+
+163
+00:08:44,947 --> 00:08:48,323
+Pensiamoci: se una manciata di
+ore di orientamento fatto bene può
+
+164
+00:08:48,323 --> 00:08:51,907
+letteralmente riscrivere il destino
+scolastico di studenti brillanti,
+
+165
+00:08:51,907 --> 00:08:55,670
+polverizzando in un colpo solo
+divari strutturali decennali,
+
+166
+00:08:55,670 --> 00:08:59,747
+quanto capitale umano stiamo
+buttando al vento ogni singolo anno?
+
+167
+00:08:59,747 --> 00:09:02,744
+Riuscire ad allineare il fuoco
+che abbiamo dentro con il talento
+
+168
+00:09:02,744 --> 00:09:05,787
+che ci ritroviamo non è solo una
+vittoria per il singolo ragazzo.
+
+169
+00:09:05,787 --> 00:09:09,677
+È il primissimo, fondamentale passo
+per costruire delle opportunità
+
+170
+00:09:09,677 --> 00:09:12,987
+che siano autenticamente,
+profondamente uguali per tutti.

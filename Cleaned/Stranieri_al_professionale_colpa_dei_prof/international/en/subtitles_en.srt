@@ -1,0 +1,753 @@
+1
+00:00:00,000 --> 00:00:03,321
+There's a real mystery at the
+heart of our school system,
+
+2
+00:00:03,321 --> 00:00:06,759
+and a recent economics study
+has tried to make sense of it.
+
+3
+00:00:06,759 --> 00:00:11,279
+We're talking about thousands of bright students
+who, every single year, end up on tracks
+
+4
+00:00:11,279 --> 00:00:16,920
+that don't make use of their potential at
+all. So the central question, the real puzzle,
+
+5
+00:00:16,920 --> 00:00:19,331
+is this: immigrant kids in vocational school,
+
+6
+00:00:19,331 --> 00:00:22,760
+is it the teachers' fault? Or is
+there something else behind it?
+
+7
+00:00:22,760 --> 00:00:26,120
+Let's dive straight into the data,
+because this is a truly fascinating story.
+
+8
+00:00:26,960 --> 00:00:31,280
+The paradox jumps out as soon as you look at
+the choices made at the end of middle school.
+
+9
+00:00:31,280 --> 00:00:33,842
+Kids with a migrant background
+who have excellent grades,
+
+10
+00:00:33,842 --> 00:00:35,460
+and I mean grades that are literally
+
+11
+00:00:35,460 --> 00:00:38,633
+identical to their Italian
+classmates', what do they do?
+
+12
+00:00:38,633 --> 00:00:41,240
+They choose vocational schools far more often.
+
+13
+00:00:41,240 --> 00:00:45,640
+They basically rule out the liceo or
+technical schools from the start. It's crazy.
+
+14
+00:00:45,640 --> 00:00:51,121
+With the same objective talent, they
+almost systematically decide to aim low,
+
+15
+00:00:51,121 --> 00:00:54,680
+and so they take far less
+demanding school tracks.
+
+16
+00:00:54,680 --> 00:00:58,560
+Among experts, this phenomenon is
+called educational segregation.
+
+17
+00:00:58,560 --> 00:01:02,548
+Put simply, it happens when students
+from disadvantaged backgrounds
+
+18
+00:01:02,548 --> 00:01:06,000
+are channelled en masse into
+less demanding school tracks.
+
+19
+00:01:06,000 --> 00:01:10,400
+So the move to high school turns
+into a kind of unintended trap.
+
+20
+00:01:10,400 --> 00:01:13,368
+Instead of rewarding those who
+deserve it, it ends up freezing,
+
+21
+00:01:13,368 --> 00:01:15,960
+completely locking in, the
+initial social inequalities.
+
+22
+00:01:15,960 --> 00:01:17,960
+A real shame, in short.
+
+23
+00:01:17,960 --> 00:01:21,760
+The baseline data tell a
+truly unambiguous story.
+
+24
+00:01:21,760 --> 00:01:26,439
+If we look only at boys with
+very high ability levels,
+
+25
+00:01:26,439 --> 00:01:29,409
+those with the top scores
+on the standardised tests
+
+26
+00:01:29,409 --> 00:01:32,320
+at the start of middle
+school, we find a huge gap.
+
+27
+00:01:32,320 --> 00:01:37,200
+Boys with a migrant background, despite
+being the stars of the class, are
+
+28
+00:01:37,200 --> 00:01:38,560
+clearly less likely
+
+29
+00:01:38,560 --> 00:01:43,515
+than equally bright native classmates to
+enrol in a liceo or a technical school.
+
+30
+00:01:43,515 --> 00:01:46,200
+And comparing the paths of these two groups,
+
+31
+00:01:46,200 --> 00:01:49,435
+there's one absolutely
+crucial point to keep in mind.
+
+32
+00:01:49,435 --> 00:01:52,867
+The heart of the matter has
+nothing, absolutely nothing,
+
+33
+00:01:52,867 --> 00:01:56,115
+to do with cognitive ability
+or level of preparation.
+
+34
+00:01:56,115 --> 00:01:59,054
+Both groups can solve
+exactly the same equations
+
+35
+00:01:59,054 --> 00:02:02,115
+and understand the same
+complex texts, flawlessly.
+
+36
+00:02:02,115 --> 00:02:05,280
+The real problem is a
+kind of invisible barrier,
+
+37
+00:02:05,280 --> 00:02:08,314
+like driving with the handbrake on, that stops
+
+38
+00:02:08,314 --> 00:02:12,314
+immigrant kids from matching their
+ambitions to their real potential.
+
+39
+00:02:12,314 --> 00:02:15,155
+But this negative trend can be broken.
+
+40
+00:02:15,634 --> 00:02:19,115
+To find out, a team of researchers set up
+an experiment in dozens of middle schools
+
+41
+00:02:19,115 --> 00:02:24,314
+in Northern Italy, called the
+Equality of Opportunity project.
+
+42
+00:02:24,314 --> 00:02:28,914
+The goal was crystal clear: to realign these
+students' educational horizons with their
+
+43
+00:02:28,914 --> 00:02:31,578
+true abilities, and to do
+it before, long before,
+
+44
+00:02:31,578 --> 00:02:34,514
+they had to fill in their
+high school enrolment forms.
+
+45
+00:02:34,514 --> 00:02:37,555
+The method used was super rigorous.
+
+46
+00:02:37,555 --> 00:02:40,445
+In each participating school,
+the 10 immigrant students
+
+47
+00:02:40,445 --> 00:02:42,914
+with the very best test
+scores were identified.
+
+48
+00:02:42,914 --> 00:02:46,995
+They were offered a special programme
+lasting a full two years: there was
+
+49
+00:02:46,995 --> 00:02:51,834
+psychological career counselling and also
+tutoring sessions to sharpen their study skills.
+
+50
+00:02:51,834 --> 00:02:55,200
+They chose to bet everything
+on the brightest minds around,
+
+51
+00:02:55,200 --> 00:02:59,194
+precisely to understand deep down
+what was actually holding them back.
+
+52
+00:02:59,194 --> 00:03:04,052
+The whole project rested on a truly
+fascinating psychological theory:
+
+53
+00:03:04,052 --> 00:03:06,234
+social cognitive career theory.
+
+54
+00:03:06,234 --> 00:03:10,474
+In short, this approach suggests that
+personal goals and, pay attention, above all
+
+55
+00:03:10,474 --> 00:03:13,051
+self-confidence weigh exactly as much as raw
+
+56
+00:03:13,051 --> 00:03:16,155
+intelligence when we make
+decisions about our future.
+
+57
+00:03:16,155 --> 00:03:20,014
+In fact, the idea was not at all to push
+students into the liceo by force, but
+
+58
+00:03:20,014 --> 00:03:23,314
+rather to build a deep
+awareness of what they could do,
+
+59
+00:03:23,314 --> 00:03:26,314
+helping them truly believe
+in their own resources.
+
+60
+00:03:26,314 --> 00:03:28,414
+And here comes an incredible twist:
+
+61
+00:03:28,414 --> 00:03:32,194
+digging through the results of
+the programme's different parts,
+
+62
+00:03:32,194 --> 00:03:34,954
+a completely unexpected detail emerged.
+
+63
+00:03:34,954 --> 00:03:38,719
+Even though the kids got solid
+practical help with study skills,
+
+64
+00:03:38,719 --> 00:03:41,955
+the real driver of change
+wasn't the academic tutoring.
+
+65
+00:03:41,955 --> 00:03:44,730
+Not at all: the researchers
+found that the real spark
+
+66
+00:03:44,730 --> 00:03:47,715
+came from the psychological
+and motivational counselling.
+
+67
+00:03:47,715 --> 00:03:51,072
+This clearly shows that
+the hurdle wasn't technical
+
+68
+00:03:51,072 --> 00:03:54,034
+but entirely mental: a matter of aspirations.
+
+69
+00:03:54,034 --> 00:03:56,393
+At this point the question naturally arises:
+
+70
+00:03:56,393 --> 00:03:59,235
+can such a targeted
+intervention, we're talking about
+
+71
+00:03:59,235 --> 00:04:02,689
+a handful of hours of psychological
+counselling in the end,
+
+72
+00:04:02,689 --> 00:04:05,675
+really close such a deep
+and entrenched social gap?
+
+73
+00:04:06,075 --> 00:04:09,835
+Can a simple space to reflect on one's
+ambitions change the school destiny
+
+74
+00:04:09,835 --> 00:04:15,035
+of kids whom the system had already, in
+a way, benched onto secondary tracks?
+
+75
+00:04:15,035 --> 00:04:19,355
+The results for the boys involved
+were nothing short of extraordinary.
+
+76
+00:04:19,355 --> 00:04:25,754
+The probability that they chose a much more
+demanding high school shot up, by about a tenth.
+
+77
+00:04:25,754 --> 00:04:29,074
+This leap completely, and I stress completely,
+
+78
+00:04:29,074 --> 00:04:32,754
+wiped out the initial gap
+with their Italian peers.
+
+79
+00:04:33,314 --> 00:04:37,314
+In practice, in one fell swoop, the
+programme put these talented students back
+
+80
+00:04:37,314 --> 00:04:40,795
+on exactly the same school path
+as their Italian-born classmates,
+
+81
+00:04:40,795 --> 00:04:43,954
+equalising opportunities for
+those with the same potential.
+
+82
+00:04:43,954 --> 00:04:44,954
+Crazy, right?
+
+83
+00:04:44,954 --> 00:04:49,514
+And mind you, the benefits
+didn't stop there, at enrolment.
+
+84
+00:04:49,514 --> 00:04:55,034
+In the following years, grade retention
+rates for these same boys practically halved.
+
+85
+00:04:55,034 --> 00:04:57,034
+They plunged by almost half.
+
+86
+00:04:57,034 --> 00:05:00,208
+This is a remarkable finding, because
+it proves once and for all that
+
+87
+00:05:00,208 --> 00:05:03,475
+they were perfectly capable of handling
+a really tough course of study.
+
+88
+00:05:03,475 --> 00:05:07,635
+They were by no means biting off more
+than they could chew after the programme.
+
+89
+00:05:07,635 --> 00:05:13,155
+Quite simply, before the intervention,
+they were aiming far too low.
+
+90
+00:05:13,155 --> 00:05:18,395
+But hold on tight, because the data
+delivered a serious plot twist.
+
+91
+00:05:18,395 --> 00:05:21,520
+When they measured the
+programme's impact on the girls,
+
+92
+00:05:21,520 --> 00:05:24,475
+well, it turned out the
+effect was practically zero.
+
+93
+00:05:24,475 --> 00:05:26,475
+That's right, zero.
+
+94
+00:05:26,475 --> 00:05:31,235
+For girls, the intervention didn't shift
+school choices or later performance one bit.
+
+95
+00:05:31,235 --> 00:05:33,681
+A gender difference that leaves you stunned,
+
+96
+00:05:33,681 --> 00:05:36,795
+but that actually hides a
+perfectly logical explanation.
+
+97
+00:05:36,795 --> 00:05:40,471
+The reason the girls didn't change course is,
+
+98
+00:05:40,471 --> 00:05:44,555
+deep down, great news:
+they didn't need to at all.
+
+99
+00:05:44,555 --> 00:05:48,107
+Their school choices were
+already precisely aligned with
+
+100
+00:05:48,107 --> 00:05:51,595
+their high abilities, well
+before the experiment began.
+
+101
+00:05:51,595 --> 00:05:56,395
+Unlike the boys, who massively underestimated
+themselves, girls with a migrant
+
+102
+00:05:56,395 --> 00:06:00,123
+background and top grades were
+already choosing leading licei and
+
+103
+00:06:00,123 --> 00:06:03,794
+technical schools, exactly as
+often as their Italian classmates.
+
+104
+00:06:03,794 --> 00:06:08,154
+So what triggered such a
+powerful reaction in the boys?
+
+105
+00:06:08,154 --> 00:06:11,674
+Basically, the intervention
+flipped four key switches.
+
+106
+00:06:11,674 --> 00:06:14,634
+First, it pumped up their general aspirations.
+
+107
+00:06:14,634 --> 00:06:17,674
+Second, it supercharged their
+confidence in their own abilities.
+
+108
+00:06:17,674 --> 00:06:21,356
+Third, it crushed the fear of
+the usual external obstacles,
+
+109
+00:06:21,356 --> 00:06:23,914
+like money problems or fear of prejudice.
+
+110
+00:06:24,155 --> 00:06:29,275
+And finally, amazingly, it even
+improved their scores on later tests.
+
+111
+00:06:29,275 --> 00:06:32,555
+In short, their horizons
+literally opened wide.
+
+112
+00:06:32,555 --> 00:06:34,980
+But there's another vital
+piece of this puzzle,
+
+113
+00:06:34,980 --> 00:06:38,075
+and it concerns the adults who
+live in the school ecosystem:
+
+114
+00:06:38,075 --> 00:06:39,075
+the teachers.
+
+115
+00:06:39,075 --> 00:06:44,075
+They hold the keys to the system, and
+it's fascinating to see how the perception
+
+116
+00:06:44,075 --> 00:06:48,754
+teachers had of these students changed,
+for the better, during the experiment.
+
+117
+00:06:48,754 --> 00:06:52,212
+This means the inner change
+the boys were going through
+
+118
+00:06:52,212 --> 00:06:55,355
+was picked up loud and
+clear from the outside too.
+
+119
+00:06:55,355 --> 00:06:58,458
+As we know, in Italy middle
+school teachers issue
+
+120
+00:06:58,458 --> 00:07:01,435
+a formal track recommendation
+before enrolment.
+
+121
+00:07:01,435 --> 00:07:05,683
+Well, it turned out teachers became
+far more likely to recommend a liceo or
+
+122
+00:07:05,683 --> 00:07:09,875
+a technical school precisely to the
+boys who had attended the counselling.
+
+123
+00:07:09,875 --> 00:07:13,507
+We're talking about a jump in recommendations
+for ambitious tracks:
+
+124
+00:07:13,507 --> 00:07:15,787
+a huge leap in teachers' expectations.
+
+125
+00:07:16,426 --> 00:07:19,474
+And the smartest part of this whole dynamic?
+
+126
+00:07:19,474 --> 00:07:23,907
+Teachers weren't simply rubber-stamping
+everyone in the project.
+
+127
+00:07:23,907 --> 00:07:26,307
+If that were the case,
+they'd have inflated the
+
+128
+00:07:26,307 --> 00:07:28,707
+recommendations for girls
+too. But they didn't.
+
+129
+00:07:28,707 --> 00:07:33,027
+Instead, they updated their assessments
+in a very precise and selective way,
+
+130
+00:07:33,027 --> 00:07:36,349
+noticing the new motivation
+and the real progress
+
+131
+00:07:36,349 --> 00:07:39,467
+that only the boys were showing at that point.
+
+132
+00:07:39,467 --> 00:07:44,546
+In short, they recognised and encouraged
+a potential that was finally surfacing.
+
+133
+00:07:44,626 --> 00:07:49,467
+And to top it all off, there's also a fantastic
+bonus effect that emerged from the data.
+
+134
+00:07:49,467 --> 00:07:52,760
+Immigrant classmates who
+weren't directly part of
+
+135
+00:07:52,760 --> 00:07:55,986
+the programme started
+getting better grades too.
+
+136
+00:07:55,986 --> 00:07:57,818
+A genuine positive contagion,
+
+137
+00:07:57,818 --> 00:08:01,986
+born quite simply from sharing the
+same classroom every single day
+
+138
+00:08:01,986 --> 00:08:06,546
+with classmates who were pulling a brand-new
+motivation and self-awareness out of the hat.
+
+139
+00:08:06,546 --> 00:08:09,347
+Enthusiasm, it seems, is contagious.
+
+140
+00:08:09,347 --> 00:08:13,347
+To sum up and get to the heart of
+this study, we could put it like this.
+
+141
+00:08:13,387 --> 00:08:16,461
+People with all the right
+credentials but shaky self-esteem
+
+142
+00:08:16,461 --> 00:08:19,587
+end up ruling out the most
+ambitious options from the start.
+
+143
+00:08:19,587 --> 00:08:21,106
+It's sad, but that's how it is.
+
+144
+00:08:21,106 --> 00:08:22,973
+Wasted talent, in so many cases,
+
+145
+00:08:22,973 --> 00:08:26,707
+is nothing but the fever of an
+immune system made of insecurity.
+
+146
+00:08:26,707 --> 00:08:30,122
+Perhaps combined with a fixed
+idea, internalised over time,
+
+147
+00:08:30,122 --> 00:08:34,347
+that certain prestigious goals are an
+exclusive club reserved for others.
+
+148
+00:08:34,347 --> 00:08:36,997
+And this leads to a pretty
+tough reflection, I think,
+
+149
+00:08:36,997 --> 00:08:40,347
+for anyone who cares even a little
+about the future of our society.
+
+150
+00:08:40,347 --> 00:08:44,947
+How do we unlock the true potential of every
+single mind that walks into those classrooms?
+
+151
+00:08:44,947 --> 00:08:48,488
+Think about it: if a handful
+of hours of good guidance can
+
+152
+00:08:48,488 --> 00:08:51,907
+literally rewrite the school
+destiny of bright students,
+
+153
+00:08:51,907 --> 00:08:55,368
+wiping out decades-old
+structural gaps in one go,
+
+154
+00:08:55,368 --> 00:08:59,747
+how much human capital are we
+throwing away every single year?
+
+155
+00:08:59,747 --> 00:09:05,787
+Aligning the fire inside us with the talent we
+have isn't just a win for the individual kid.
+
+156
+00:09:05,787 --> 00:09:09,198
+It's the very first, fundamental
+step towards building
+
+157
+00:09:09,198 --> 00:09:12,987
+opportunities that are genuinely,
+deeply equal for everyone.
