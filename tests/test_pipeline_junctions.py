@@ -87,7 +87,9 @@ class PipelineJunctionTests(unittest.TestCase):
         example = REPO_ROOT / ".env.example"
         env_file = REPO_ROOT / ".env"
         self.assertTrue(example.exists())
-        self.assertTrue(env_file.exists())
+        if not env_file.exists():
+            # .env è locale e in .gitignore: in CI non esiste, quindi il controllo vale solo in locale
+            self.skipTest(".env assente (es. CI): controllo chiavi solo in locale")
         keys = set(re.findall(r"^([A-Z0-9_]+)=", example.read_text(encoding="utf-8"), re.M))
         env_text = env_file.read_text(encoding="utf-8")
         env_keys = set(re.findall(r"^([A-Z0-9_]+)=", env_text, re.M))
